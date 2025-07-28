@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrollment and Review ER64 filed",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB215"
+}

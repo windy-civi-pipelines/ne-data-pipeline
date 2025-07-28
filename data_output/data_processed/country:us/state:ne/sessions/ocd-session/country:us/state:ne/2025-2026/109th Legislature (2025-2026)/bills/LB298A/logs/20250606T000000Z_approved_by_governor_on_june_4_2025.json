@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor on June 4, 2025",
+    "date": "2025-06-06",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB298A"
+}

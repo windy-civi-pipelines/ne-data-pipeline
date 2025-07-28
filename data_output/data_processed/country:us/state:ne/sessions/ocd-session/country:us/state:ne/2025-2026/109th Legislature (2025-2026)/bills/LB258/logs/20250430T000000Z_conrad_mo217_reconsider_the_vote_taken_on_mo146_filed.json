@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Conrad MO217 Reconsider the vote taken on MO146 filed",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB258"
+}

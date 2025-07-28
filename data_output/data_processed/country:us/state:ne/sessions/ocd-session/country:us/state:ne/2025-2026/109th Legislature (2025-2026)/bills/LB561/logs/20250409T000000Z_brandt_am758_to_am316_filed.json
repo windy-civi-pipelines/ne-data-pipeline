@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Brandt AM758 to AM316 filed",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB561"
+}

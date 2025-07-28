@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rereferred to Natural Resources Committee",
+    "date": "2025-02-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB595"
+}

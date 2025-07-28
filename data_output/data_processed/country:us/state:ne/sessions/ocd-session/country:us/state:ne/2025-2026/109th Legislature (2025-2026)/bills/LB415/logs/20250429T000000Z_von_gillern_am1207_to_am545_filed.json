@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "von Gillern AM1207 to AM545 filed",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB415"
+}

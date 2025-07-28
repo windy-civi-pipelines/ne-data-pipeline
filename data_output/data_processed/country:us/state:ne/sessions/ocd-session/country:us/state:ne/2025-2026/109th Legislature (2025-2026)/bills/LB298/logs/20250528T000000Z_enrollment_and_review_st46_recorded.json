@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Enrollment and Review ST46 recorded",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB298"
+}

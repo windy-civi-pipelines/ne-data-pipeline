@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "DeBoer AM183 filed",
+    "date": "2025-02-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB597"
+}

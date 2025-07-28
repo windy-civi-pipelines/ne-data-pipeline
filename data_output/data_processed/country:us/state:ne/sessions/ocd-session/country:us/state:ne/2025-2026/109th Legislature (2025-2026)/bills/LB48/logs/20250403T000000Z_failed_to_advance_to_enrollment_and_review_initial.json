@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed to advance to Enrollment and Review Initial",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB48"
+}

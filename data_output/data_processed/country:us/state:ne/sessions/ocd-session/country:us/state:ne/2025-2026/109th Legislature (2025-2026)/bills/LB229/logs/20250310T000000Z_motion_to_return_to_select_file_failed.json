@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to return to Select File failed",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB229"
+}

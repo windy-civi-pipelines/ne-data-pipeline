@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Andersen name withdrawn",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB285"
+}

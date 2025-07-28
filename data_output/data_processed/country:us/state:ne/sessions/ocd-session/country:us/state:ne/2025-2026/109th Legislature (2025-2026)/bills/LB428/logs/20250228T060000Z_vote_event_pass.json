@@ -1,0 +1,46 @@
+{
+  "identifier": "",
+  "motion_text": "Advanced to Enrollment and Review Initial",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-28T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"legislature\"}",
+  "legislative_session": "109",
+  "bill": "7d03191a-6bdf-11f0-befa-a682b40cb802",
+  "bill_action": null,
+  "bill_identifier": "LB428",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_votes.php?KeyID=11685",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11685",
+  "_id": "7d28649a-6bdf-11f0-befa-a682b40cb802"
+}

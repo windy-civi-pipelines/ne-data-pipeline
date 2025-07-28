@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ballard AM991 to AM767 filed",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB322"
+}

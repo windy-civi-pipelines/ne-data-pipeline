@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on Select File with ER11",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB41"
+}

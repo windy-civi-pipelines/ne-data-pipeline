@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hardin MO325 Indefinitely postpone filed",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB538"
+}

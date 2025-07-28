@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported to the Legislature for further consideration",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LR17"
+}

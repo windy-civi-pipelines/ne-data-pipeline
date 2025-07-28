@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Enrollment and Review ER55 adopted",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB288"
+}

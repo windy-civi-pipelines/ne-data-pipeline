@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Holdcroft FA13 filed",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB512"
+}

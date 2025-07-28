@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on General File with AM1243",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB534"
+}

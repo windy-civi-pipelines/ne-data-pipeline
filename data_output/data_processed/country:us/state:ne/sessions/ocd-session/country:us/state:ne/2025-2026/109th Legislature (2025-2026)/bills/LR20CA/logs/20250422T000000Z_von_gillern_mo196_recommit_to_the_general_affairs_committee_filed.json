@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "von Gillern MO196 Recommit to the General Affairs Committee filed",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LR20CA"
+}

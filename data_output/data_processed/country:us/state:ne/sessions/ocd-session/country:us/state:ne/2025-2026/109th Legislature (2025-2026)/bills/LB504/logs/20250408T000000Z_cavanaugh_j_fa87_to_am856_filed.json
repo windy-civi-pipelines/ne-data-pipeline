@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Cavanaugh, J. FA87 to AM856 filed",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB504"
+}

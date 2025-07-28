@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Cavanaugh, M. MO71 Recommit to the Agriculture Committee filed",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB245"
+}

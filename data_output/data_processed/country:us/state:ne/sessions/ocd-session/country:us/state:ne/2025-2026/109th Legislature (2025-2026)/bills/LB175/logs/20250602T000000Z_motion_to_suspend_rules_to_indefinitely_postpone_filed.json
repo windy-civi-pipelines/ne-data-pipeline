@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to suspend rules to indefinitely postpone filed",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB175"
+}

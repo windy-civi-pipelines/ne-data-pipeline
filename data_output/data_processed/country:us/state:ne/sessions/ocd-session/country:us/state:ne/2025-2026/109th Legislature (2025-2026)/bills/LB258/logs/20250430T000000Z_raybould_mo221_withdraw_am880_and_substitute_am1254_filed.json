@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Raybould MO221 Withdraw AM880 and substitute AM1254 filed",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB258"
+}

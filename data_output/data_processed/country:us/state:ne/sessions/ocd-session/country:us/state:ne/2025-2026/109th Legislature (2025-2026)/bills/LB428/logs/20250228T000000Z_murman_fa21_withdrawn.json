@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Murman FA21 withdrawn",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB428"
+}

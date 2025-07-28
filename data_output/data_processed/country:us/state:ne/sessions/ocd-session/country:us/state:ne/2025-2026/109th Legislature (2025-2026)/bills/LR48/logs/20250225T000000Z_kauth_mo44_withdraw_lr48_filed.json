@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Kauth MO44 Withdraw LR48 filed",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LR48"
+}

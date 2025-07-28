@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Presented to Governor on  March 6, 2025",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB362"
+}

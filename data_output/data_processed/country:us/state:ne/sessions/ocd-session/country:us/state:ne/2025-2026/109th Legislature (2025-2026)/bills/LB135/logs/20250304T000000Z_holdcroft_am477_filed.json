@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Holdcroft AM477 filed",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB135"
+}

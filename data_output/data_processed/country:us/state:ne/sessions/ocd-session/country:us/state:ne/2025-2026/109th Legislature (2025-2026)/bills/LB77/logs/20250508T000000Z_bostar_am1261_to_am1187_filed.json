@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Bostar AM1261 to AM1187 filed",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB77"
+}

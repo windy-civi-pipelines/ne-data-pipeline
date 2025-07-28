@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rountree MO31 Withdraw LB574 filed",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB574"
+}

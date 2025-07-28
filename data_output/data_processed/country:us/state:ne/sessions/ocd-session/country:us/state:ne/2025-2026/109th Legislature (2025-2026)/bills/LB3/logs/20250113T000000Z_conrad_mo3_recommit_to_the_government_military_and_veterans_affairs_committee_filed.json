@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Conrad MO3 Recommit to the Government, Military and Veterans Affairs Committee filed",
+    "date": "2025-01-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB3"
+}

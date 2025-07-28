@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor on April 14, 2025",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB113"
+}

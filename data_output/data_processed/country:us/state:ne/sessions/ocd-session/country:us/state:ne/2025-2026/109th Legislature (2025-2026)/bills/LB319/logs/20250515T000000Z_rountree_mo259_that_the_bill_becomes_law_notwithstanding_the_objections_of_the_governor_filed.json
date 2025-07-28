@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rountree MO259 That the bill becomes law notwithstanding the objections of the Governor filed",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB319"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hallstrom AM1241 lost",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB306"
+}

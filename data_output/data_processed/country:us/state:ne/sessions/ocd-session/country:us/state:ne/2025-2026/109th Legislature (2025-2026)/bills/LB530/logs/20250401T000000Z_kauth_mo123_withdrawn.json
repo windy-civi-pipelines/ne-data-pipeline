@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Kauth MO123 withdrawn",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB530"
+}

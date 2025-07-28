@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Banking, Commerce and Insurance AM756 filed",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB536"
+}

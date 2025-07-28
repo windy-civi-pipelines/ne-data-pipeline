@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Health and Human Services AM547 filed",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB454"
+}

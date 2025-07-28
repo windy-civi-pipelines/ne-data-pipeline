@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Agriculture AM501 adopted",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB245"
+}

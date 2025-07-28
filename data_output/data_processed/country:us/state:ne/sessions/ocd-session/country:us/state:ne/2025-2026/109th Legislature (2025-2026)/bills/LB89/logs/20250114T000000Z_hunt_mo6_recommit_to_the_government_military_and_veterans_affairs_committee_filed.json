@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hunt MO6 Recommit to the Government, Military and Veterans Affairs Committee filed",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB89"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hunt FA94 not considered",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB390"
+}

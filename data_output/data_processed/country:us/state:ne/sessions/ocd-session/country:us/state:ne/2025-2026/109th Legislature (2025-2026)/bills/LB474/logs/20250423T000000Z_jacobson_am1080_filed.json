@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Jacobson AM1080 filed",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB474"
+}

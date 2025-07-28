@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Brandt MO42 Suspend Rule 3, Section 14 to allow the cancellation of the public hearing filed",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB695"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Guereca AM1264 to AM832 filed",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB261"
+}

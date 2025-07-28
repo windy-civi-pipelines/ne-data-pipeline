@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Dover priority resolution",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LR19CA"
+}

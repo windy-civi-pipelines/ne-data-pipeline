@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Spivey MO261 Indefinitely postpone pursuant to Rule 6, Sec. 3(f) filed",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB306"
+}

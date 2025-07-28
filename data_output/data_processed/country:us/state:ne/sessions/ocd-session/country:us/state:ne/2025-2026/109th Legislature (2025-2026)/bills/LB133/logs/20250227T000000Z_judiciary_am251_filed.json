@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Judiciary AM251 filed",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB133"
+}

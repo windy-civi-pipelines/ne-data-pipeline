@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Dungan MO113 Reconsider the vote taken on MO110 filed",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB415"
+}
