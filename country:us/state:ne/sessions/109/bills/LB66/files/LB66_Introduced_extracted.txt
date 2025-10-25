@@ -1,0 +1,2573 @@
+Title: LEGISLATIVE BILL 66
+Official Title: LEGISLATIVE BILL 66
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 37 sections found
+
+================================================================================
+
+Section 1:
+LB66 LB66
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by DeBoer, 10.
+Read first time January 09, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to health care; to adopt the Uniform Health-
+2 Care Decisions Act; and to provide severability.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+LB66 LB66
+2025 2025
+1 Section 1. Sections 1 to 30 of this act shall be known and may be
+2 cited as the Uniform Health-Care Decisions Act.
+3 Sec. 2. In the Uniform Health-Care Decisions Act:
+4 (1) Advance health-care directive means a power of attorney for
+5 health care, health-care instruction, or both. The term includes an
+6 advance mental health-care directive.
+7 (2) Advance mental health-care directive means a power of attorney
+8 for health care, health-care instruction, or both, created under section
+9 9 of this act.
+10 (3) Agent means an individual appointed under a power of attorney
+11 for health care to make a health-care decision for the individual who
+12 made the appointment. The term includes a co-agent or alternate agent
+13 appointed under section 20 of this act.
+14 (4) Capacity means having capacity under section 3 of this act.
+15 (5) Cohabitant means each of two individuals who have been living
+16 together as a couple for at least one year after each became an adult or
+17 was emancipated and who are not married to each other.
+18 (6) Default surrogate means an individual authorized under section
+19 12 of this act to make a health-care decision for another individual.
+20 (7) Electronic means relating to technology having electrical,
+21 digital, magnetic, wireless, optical, electromagnetic, or similar
+22 capabilities.
+23 (8) Family member means a spouse, adult child, parent, or
+24 grandparent, or an adult descendant of a spouse, child, parent, or
+25 grandparent.
+26 (9) Guardian means a person appointed under other law by a court to
+27 make decisions regarding the personal affairs of an individual, which may
+28 include health-care decisions. The term does not include a guardian ad
+29 litem.
+30 (10) Health care means care or treatment or a service or procedure
+31 to maintain, monitor, diagnose, or otherwise affect an individual's
+-2-
+LB66 LB66
+2025 2025
+1 physical or mental illness, injury, or condition. The term includes
+2 mental health care.
+3 (11) Health-care decision means a decision made by an individual or
+4 the individual's surrogate regarding the individual's health care,
+5 including:
+6 (A) selection or discharge of a health-care professional or health-
+7 care institution;
+8 (B) approval or disapproval of a diagnostic test, surgical
+9 procedure, medication, therapeutic intervention, or other health care;
+10 and
+11 (C) direction to provide, withhold, or withdraw artificial nutrition
+12 or hydration, mechanical ventilation, or other health care.
+13 (12) Health-care institution means a facility or agency licensed,
+14 certified, or otherwise authorized or permitted by other law to provide
+15 health care in this state in the ordinary course of business.
+16 (13) Health-care instruction means a direction, whether or not in a
+17 record, made by an individual that indicates the individual's goals,
+18 preferences, or wishes concerning the provision, withholding, or
+19 withdrawal of health care. The term includes a direction intended to be
+20 effective if a specified condition arises.
+21 (14) Health-care professional means a physician or other individual
+22 licensed, certified, or otherwise authorized or permitted by other law of
+23 this state to provide health care in this state in the ordinary course of
+24 business or the practice of the physician's or individual's profession.
+25 (15) Individual means an adult or emancipated minor.
+26 (16) Mental health care means care or treatment or a service or
+27 procedure to maintain, monitor, diagnose, or otherwise affect an
+28 individual's mental illness or other psychiatric, psychological, or
+29 psychosocial condition.
+30 (17) Nursing home means a nursing facility as defined in section
+31 1919(a)(1) of the Social Security Act, 42 U.S.C. 1396r(a)(1), as amended,
+-3-
+LB66 LB66
+2025 2025
+1 or skilled nursing facility as defined in section 1819(a)(1) of the
+2 Social Security Act, 42 U.S.C. 1395i–3(a)(1), as amended.
+3 (18) Person means an individual, estate, business or nonprofit
+4 entity, government or governmental subdivision, agency, or
+5 instrumentality, or other legal entity.
+6 (19) Person interested in the welfare of the individual means:
+7 (A) the individual's surrogate;
+8 (B) a family member of the individual;
+9 (C) the cohabitant of the individual;
+10 (D) a public entity providing health-care case management or
+11 protective services to the individual;
+12 (E) a person appointed under other law to make decisions for the
+13 individual under a power of attorney for finances; or
+14 (F) a person that has an ongoing personal or professional
+15 relationship with the individual, including a person that has provided
+16 educational or health-care services or supported decision making to the
+17 individual.
+18 (20) Physician means an individual authorized to practice as a
+19 physician or an osteopathic physician under the Medicine and Surgery
+20 Practice Act.
+21 (21) Power of attorney for health care means a record in which an
+22 individual appoints an agent to make health-care decisions for the
+23 individual.
+24 (22) Reasonably available means being able to be contacted without
+25 undue effort and being willing and able to act in a timely manner
+26 considering the urgency of an individual's health-care situation. When
+27 used to refer to an agent or default surrogate, the term includes being
+28 willing and able to comply with the duties under section 17 of this act
+29 in a timely manner considering the urgency of an individual's health-care
+30 situation.
+31 (23) Record means information:
+-4-
+LB66 LB66
+2025 2025
+1 (A) inscribed on a tangible medium; or
+2 (B) stored in an electronic or other medium and retrievable in
+3 perceivable form.
+4 (24) Responsible health-care professional means:
+5 (A) a health-care professional designated by an individual or the
+6 individual's surrogate to have primary responsibility for the
+7 individual's health care or for overseeing a course of treatment; or
+8 (B) in the absence of a designation under subdivision (A) or, if the
+9 professional designated under subdivision (A) is not reasonably
+10 available, a health-care professional who has primary responsibility for
+11 overseeing the individual's health care or for overseeing a course of
+12 treatment.
+13 (25) Sign means, with present intent to authenticate or adopt a
+14 record:
+15 (A) to execute or adopt a tangible symbol; or
+16 (B) to attach to or logically associate with the record an
+17 electronic symbol, sound, or process.
+18 (26) State means a state of the United States, the District of
+19 Columbia, Puerto Rico, the United States Virgin Islands, or any other
+20 territory or possession subject to the jurisdiction of the United States.
+21 The term includes a federally recognized Indian tribe.
+22 (27) Supported decision making means assistance, from one or more
+23 persons of an individual's choosing, that helps the individual make or
+24 communicate a decision, including by helping the individual understand
+25 the nature and consequences of the decision.
+26 (28) Surrogate means:
+27 (A) an agent;
+28 (B) a default surrogate; or
+29 (C) a guardian authorized to make health-care decisions.
+30 Sec. 3. (a) An individual has capacity for the purpose of the
+31 Uniform Health-Care Decisions Act if the individual:
+-5-
+LB66 LB66
+2025 2025
+1 (1) is willing and able to communicate a decision independently or
+2 with appropriate services, technological assistance, supported decision
+3 making, or other reasonable accommodation; and
+4 (2) in making or revoking:
+5 (A) a health-care decision, understands the nature and consequences
+6 of the decision, including the primary risks and benefits of the
+7 decision;
+8 (B) a health-care instruction, understands the nature and
+9 consequences of the instruction, including the primary risks and benefits
+10 of the choices expressed in the instruction; and
+11 (C) an appointment of an agent under a health-care power of attorney
+12 or identification of a default surrogate under subdivision (b)(1) of
+13 section 12 of this act, recognizes the identity of the individual being
+14 appointed or identified and understands the general nature of the
+15 relationship of the individual making the appointment or identification
+16 with the individual being appointed or identified.
+17 (b) The right of an individual who has capacity to make a decision
+18 about the individual's health care is not affected by whether the
+19 individual creates or revokes an advance health-care directive.
+20 Sec. 4. (a) An individual is presumed to have capacity to make or
+21 revoke a health-care decision, health-care instruction, and power of
+22 attorney for health care unless:
+23 (1) a court has found the individual lacks capacity to do so; or
+24 (2) the presumption is rebutted under subsection (b) of this
+25 section.
+26 (b) Subject to sections 5 and 6 of this act, a presumption under
+27 subsection (a) of this section may be rebutted by a finding that the
+28 individual lacks capacity:
+29 (1) subject to subsection (c) of this section, made on the basis of
+30 a contemporaneous examination by any of the following:
+31 (A) a physician;
+-6-
+LB66 LB66
+2025 2025
+1 (B) a psychologist licensed or otherwise authorized to practice in
+2 this state;
+3 (C) an individual with training and expertise in the finding of lack
+4 of capacity who is licensed or otherwise authorized to practice in this
+5 state as:
+6 (i) a physician assistant;
+7 (ii) an advanced practice registered nurse; or
+8 (iii) a social worker; or
+9 (D) a responsible health-care professional not described in
+10 subdivision (A), (B), or (C) if:
+11 (i) the individual about whom the finding is to be made is
+12 experiencing a health condition requiring a decision regarding health-
+13 care treatment to be made promptly to avoid loss of life or serious harm
+14 to the health of the individual; and
+15 (ii) an individual listed in subdivision (A), (B), or (C) is not
+16 reasonably available;
+17 (2) made in accordance with accepted standards of the profession and
+18 the scope of practice of the individual making the finding and to a
+19 reasonable degree of certainty; and
+20 (3) documented in a record signed by the individual making the
+21 finding that includes an opinion of the cause, nature, extent, and
+22 probable duration of the lack of capacity.
+23 (c) The finding under subsection (b) of this section may not be made
+24 by:
+25 (1) a family member of the individual presumed to have capacity;
+26 (2) the cohabitant of the individual or a descendant of the
+27 cohabitant; or
+28 (3) the individual's surrogate, a family member of the surrogate, or
+29 a descendant of the surrogate.
+30 (d) If the finding under subsection (b) of this section was based on
+31 a condition the individual no longer has or a responsible health-care
+-7-
+LB66 LB66
+2025 2025
+1 professional subsequently has good cause to believe the individual has
+2 capacity, the individual is presumed to have capacity unless a court
+3 finds the individual lacks capacity or the presumption is rebutted under
+4 subsection (b) of this section.
+5 Sec. 5. (a) As soon as reasonably feasible, an individual who makes
+6 a finding under subsection (b) of section 4 of this act shall inform the
+7 individual about whom the finding was made or the individual's
+8 responsible health-care professional of the finding.
+9 (b) As soon as reasonably feasible, a responsible health-care
+10 professional who is informed of a finding under subsection (b) of section
+11 4 of this act shall inform the individual about whom the finding was made
+12 and the individual's surrogate.
+13 (c) An individual found under subsection (b) of section 4 of this
+14 act to lack capacity may object to the finding:
+15 (1) by orally informing a responsible health-care professional;
+16 (2) in a record provided to a responsible health-care professional
+17 or the health-care institution in which the individual resides or is
+18 receiving care; or
+19 (3) by another act that clearly indicates the individual's
+20 objection.
+21 (d) If the individual objects under subsection (c) of this section,
+22 the finding under subsection (b) of section 4 of this act is not
+23 sufficient to rebut a presumption of capacity in subsection (a) of
+24 section 4 of this act and the individual must be treated as having
+25 capacity unless:
+26 (1) the individual withdraws the objection;
+27 (2) a court finds the individual lacks the presumed capacity;
+28 (3) the individual is experiencing a health condition requiring a
+29 decision regarding health-care treatment to be made promptly to avoid
+30 imminent loss of life or serious harm to the health of the individual; or
+31 (4) subject to subsection (e) of this section, the finding is
+-8-
+LB66 LB66
+2025 2025
+1 confirmed by a second finding made by an individual authorized under
+2 subdivision (b)(1) of section 4 of this act who:
+3 (A) did not make the first finding;
+4 (B) is not a family member of the individual who made the first
+5 finding; and
+6 (C) is not the cohabitant of the individual who made the first
+7 finding or a descendant of the cohabitant.
+8 (e) A second finding that the individual lacks capacity under
+9 subdivision (d)(4) of this section is not sufficient to rebut the
+10 presumption of capacity if the individual is requesting the provision or
+11 continuation of life-sustaining treatment and the finding is being used
+12 to make a decision to withhold or withdraw the treatment.
+13 (f) As soon as reasonably feasible, a health-care professional who
+14 is informed of an objection under subsection (c) of this section shall:
+15 (1) communicate the objection to a responsible health-care
+16 professional; and
+17 (2) document the objection and the date of the objection in the
+18 individual's medical record or communicate the objection and the date of
+19 the objection to an administrator with responsibility for medical records
+20 of the health-care institution providing health care to the individual,
+21 who shall document the objection and the date of the objection in the
+22 individual's medical record.
+23 Sec. 6. (a) An individual found under subsection (b) of section 4
+24 of this act to lack capacity, a responsible health-care professional, the
+25 health-care institution providing health care to the individual, or a
+26 person interested in the welfare of the individual may petition the
+27 county court in the county in which the individual resides or is located
+28 to determine whether the individual lacks capacity.
+29 (b) The court in which a petition under subsection (a) of this
+30 section is filed shall appoint legal counsel to represent the individual
+31 if the individual does not have legal counsel. The court shall hear the
+-9-
+LB66 LB66
+2025 2025
+1 petition as soon as possible, but not later than seven days after the
+2 petition is filed. As soon as possible, but not later than seven days
+3 after the hearing, the court shall determine whether the individual lacks
+4 capacity. The court may determine the individual lacks capacity only if
+5 the court finds by clear and convincing evidence that the individual
+6 lacks capacity.
+7 Sec. 7. (a) An individual may create a health-care instruction that
+8 expresses the individual's preferences for future health care, including
+9 preferences regarding:
+10 (1) health-care professionals or health-care institutions;
+11 (2) how a health-care decision will be made and communicated;
+12 (3) persons that should or should not be consulted regarding a
+13 health-care decision;
+14 (4) a person to serve as guardian for the individual if one is
+15 appointed; and
+16 (5) an individual to serve as a default surrogate.
+17 (b) A health-care professional to whom an individual communicates or
+18 provides an instruction under subsection (a) of this section shall
+19 document the instruction and the date of the instruction in the
+20 individual's medical record or communicate the instruction and date of
+21 the instruction to an administrator with responsibility for medical
+22 records of the health-care institution providing health care to the
+23 individual, who shall document the instruction and the date of the
+24 instruction in the individual's medical record.
+25 (c) A health-care instruction made by an individual that conflicts
+26 with an earlier health-care instruction made by the individual, including
+27 an instruction documented in a medical order, revokes the earlier
+28 instruction to the extent of the conflict.
+29 (d) A health-care instruction may be in the same record as a power
+30 of attorney for health care.
+31 Sec. 8. (a) An individual may create a power of attorney for health
+-10-
+LB66 LB66
+2025 2025
+1 care to appoint an agent to make health-care decisions for the
+2 individual.
+3 (b) An individual is disqualified from acting as agent for an
+4 individual who lacks capacity to make health-care decisions if:
+5 (1) a court finds that the potential agent poses a danger to the
+6 individual's well-being, even if the court does not issue a protection
+7 order against the potential agent; or
+8 (2) the potential agent is an owner, operator, employee, or
+9 contractor of a nursing home or an assisted-living facility as defined in
+10 section 71-5903 in which the individual resides or is receiving care,
+11 unless the owner, operator, employee, or contractor is a family member of
+12 the individual, the cohabitant of the individual, or a descendant of the
+13 cohabitant.
+14 (c) A health-care decision made by an agent is effective without
+15 judicial approval.
+16 (d) A power of attorney for health care must be in a record, signed
+17 by the individual creating the power, and signed by an adult witness who:
+18 (1) reasonably believes the act of the individual to create the
+19 power of attorney is voluntary and knowing;
+20 (2) is not:
+21 (A) the agent appointed by the individual;
+22 (B) the agent's spouse or cohabitant;
+23 (C) if the individual resides or is receiving care in a nursing home
+24 or an assisted-living facility as defined in section 71-5903, the owner,
+25 operator, employee, or contractor of the nursing home or assisted-living
+26 facility; and
+27 (3) is present when the individual signs the power of attorney or
+28 when the individual represents that the power of attorney reflects the
+29 individual's wishes.
+30 (e) A witness under subsection (d) of this section is considered
+31 present if the witness and the individual are:
+-11-
+LB66 LB66
+2025 2025
+1 (1) physically present in the same location;
+2 (2) using electronic means that allow for real-time audio and visual
+3 transmission and communication in real time to the same extent as if the
+4 witness and the individual were physically present in the same location;
+5 or
+6 (3) able to speak to and hear each other in real time through audio
+7 connection if:
+8 (A) the identity of the individual is personally known to the
+9 witness; or
+10 (B) the witness is able to authenticate the identity of the
+11 individual by receiving accurate answers from the individual that enable
+12 the authentication.
+13 (f) A power of attorney for health care may include a health-care
+14 instruction.
+15 Sec. 9. (a) An individual may create an advance health-care
+16 directive that addresses only mental health care for the individual. The
+17 directive may include a health-care instruction, a power of attorney for
+18 health care, or both.
+19 (b) A health-care instruction under this section may include the
+20 individual's:
+21 (1) general philosophy and objectives regarding mental health care;
+22 and
+23 (2) specific goals, preferences, and wishes regarding the provision,
+24 withholding, or withdrawal of a form of mental health care, including:
+25 (A) preferences regarding professionals, programs, and facilities;
+26 (B) admission to a mental-health facility, including duration of
+27 admission;
+28 (C) preferences regarding medications;
+29 (D) refusal to accept a specific type of mental health care,
+30 including a medication; and
+31 (E) preferences regarding crisis intervention.
+-12-
+LB66 LB66
+2025 2025
+1 (c) A power of attorney for health care under this section may
+2 appoint an agent to make decisions only for mental health care.
+3 (d) An individual may direct in an advance mental health-care
+4 directive that, if the individual is experiencing a psychiatric or
+5 psychological event specified in the directive, the individual may not
+6 revoke the directive or a part of the directive.
+7 (e) If an advance mental health-care directive includes a direction
+8 under subsection (d) of this section, the advance mental health-care
+9 directive must be in a record that is separate from any other advance
+10 health-care directive created by the individual and signed by the
+11 individual creating the advance mental health-care directive and at least
+12 two adult witnesses who:
+13 (1) attest that to the best of their knowledge the individual:
+14 (A) understood the nature and consequences of the direction,
+15 including its risks and benefits; and
+16 (B) made the direction voluntarily and without coercion or undue
+17 influence;
+18 (2) are not:
+19 (A) the agent appointed by the individual;
+20 (B) the agent's spouse or cohabitant; and
+21 (C) if the individual resides in a nursing home or an assisted-
+22 living facility as defined in section 71-5903, the owner, operator,
+23 employee, or contractor of the nursing home or assisted-living facility
+24 as defined in section 71-5903; and
+25 (3) are physically present in the same location as the individual.
+26 Sec. 10. (a) If a direction in an advance mental health-care
+27 directive of an individual conflicts with a direction in another advance
+28 health-care directive of the individual, the later direction revokes the
+29 earlier direction to the extent of the conflict.
+30 (b) An appointment of an agent to make decisions only for mental
+31 health care for an individual does not revoke an earlier appointment of
+-13-
+LB66 LB66
+2025 2025
+1 an agent to make other health-care decisions for the individual. A later
+2 appointment revokes the authority of an agent under the earlier
+3 appointment to make decisions about mental health care unless otherwise
+4 specified in the power of attorney making the later appointment.
+5 (c) An appointment of an agent to make health-care decisions for an
+6 individual other than decisions about mental health care made after
+7 appointment of an agent authorized to make only mental health-care
+8 decisions does not revoke the appointment of the agent authorized to make
+9 only mental health-care decisions.
+10 Sec. 11. The following form may be used to create an advance
+11 health-care directive:
+12 ADVANCE HEALTH-CARE DIRECTIVE
+13 HOW YOU CAN USE THIS FORM
+14 You can use this form if you wish to name someone to make health-
+15 care decisions for you in case you cannot make decisions for yourself.
+16 This is called giving the person a power of attorney for health care.
+17 This person is called your Agent.
+18 You can also use this form to state your wishes, preferences, and
+19 goals for health care, and to say if you want to be an organ donor after
+20 you die.
+21 YOUR NAME AND DATE OF BIRTH
+22 Name: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23 Date of birth: . . . . . . . . . . . . . . . . . . . . . . . . . .
+24 PART A: NAMING AN AGENT
+25 This part lets you name someone else to make health-care decisions
+26 for you. You may leave any item blank.
+27 1. NAMING AN AGENT
+28 I want the following person to make health-care decisions for me if
+29 I cannot make decisions for myself:
+30 Name: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31 Optional contact information (it is helpful to include information
+-14-
+LB66 LB66
+2025 2025
+1 such as address, phone, and email):
+2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3 2. NAMING AN ALTERNATE AGENT
+4 I want the following person to make health-care decisions for me if
+5 I cannot and my Agent is not able or available to make them for me:
+6 Name: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7 Optional contact information (it is helpful to include information
+8 such as address, phone, and email):
+9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10 3. LIMITING YOUR AGENT'S AUTHORITY
+11 I give my Agent the power to make all health-care decisions for me
+12 if I cannot make those decisions for myself, except the following:
+13 (If you do not add a limitation here, your Agent will be able to
+14 make all health-care decisions that an Agent is permitted to make under
+15 state law.)
+16 PART B: HEALTH-CARE INSTRUCTIONS
+17 This part lets you state your priorities for health care and to
+18 state types of health care you do and do not want.
+19 1. INSTRUCTIONS ABOUT LIFE-SUSTAINING TREATMENT
+20 This section gives you the opportunity to say how you want your
+21 Agent to act while making decisions for you. You may mark or initial each
+22 choice. You also may leave any choice blank.
+23 Treatment. Medical treatment needed to keep me alive but not needed
+24 for comfort or any other purpose should (mark or initial all that apply):
+25 (....) Always be given to me. (If you mark or initial this choice,
+26 you should not mark or initial other choices in this "treatment"
+27 section.)
+28 (....) Not be given to me if I have a condition that is not curable
+29 and is expected to cause my death soon, even if treated.
+30 (....) Not be given to me if I am unconscious and I am not expected
+31 to be conscious again.
+-15-
+LB66 LB66
+2025 2025
+1 (....) Not be given to me if I have a medical condition from which I
+2 am not expected to recover that prevents me from communicating with
+3 people I care about, caring for myself, and recognizing family and
+4 friends.
+5 (....) Other (write what you want or do not want):
+6 Food and liquids. If I can't swallow and staying alive requires me
+7 to get food or liquids through a tube or other means for the rest of my
+8 life, then food or liquids should (mark or initial all that apply):
+9 (....) Always be given to me. (If you mark or initial this choice,
+10 you should not mark or initial other choices in this "food and liquids"
+11 section.)
+12 (....) Not be given to me if I have a condition that is not curable
+13 and is expected to cause me to die soon, even if treated.
+14 (....) Not be given to me if I am unconscious and am not expected to
+15 be conscious again.
+16 (....) Not be given to me if I have a medical condition from which I
+17 am not expected to recover that prevents me from communicating with
+18 people I care about, caring for myself, and recognizing family and
+19 friends.
+20 (....) Other (write what you want or do not want):
+21 Pain relief. If I am in significant pain, care that will keep me
+22 comfortable but is likely to shorten my life should (mark or initial all
+23 that apply):
+24 (....) Always be given to me. (If you mark or initial this choice,
+25 you should not mark or initial other choices in this "pain relief"
+26 section.)
+27 (....) Never be given to me. (If you mark or initial this choice,
+28 you should not mark or initial other choices in this "pain relief"
+29 section.)
+30 (....) Be given to me if I have a condition that is not curable and
+31 is expected to cause me to die soon, even if treated.
+-16-
+LB66 LB66
+2025 2025
+1 (....) Be given to me if I am unconscious and am not expected to be
+2 conscious again.
+3 (....) Be given to me if I have a medical condition from which I am
+4 not expected to recover that prevents me from communicating with people I
+5 care about, caring for myself, and recognizing family and friends.
+6 (....) Other (write what you want or do not want):
+7 2. MY PRIORITIES
+8 You can use this section to indicate what is important to you, and
+9 what is not important to you. This information can help your Agent make
+10 decisions for you if you cannot. It also helps others understand your
+11 preferences.
+12 You may mark or initial each choice. You also may leave any choice
+13 blank.
+14 Staying alive as long as possible even if I have substantial
+15 physical limitations is:
+16 (....) Very important
+17 (....) Somewhat important
+18 (....) Not important
+19 Staying alive as long as possible even if I have substantial mental
+20 limitations is:
+21 (....) Very important
+22 (....) Somewhat important
+23 (....) Not important
+24 Being free from significant pain is:
+25 (....) Very important
+26 (....) Somewhat important
+27 (....) Not important
+28 Being independent is:
+29 (....) Very important
+30 (....) Somewhat important
+31 (....) Not important
+-17-
+LB66 LB66
+2025 2025
+1 Having my Agent talk with my family before making decisions about my
+2 care is:
+3 (....) Very important
+4 (....) Somewhat important
+5 (....) Not important
+6 Having my Agent talk with my friends before making decisions about
+7 my care is:
+8 (....) Very important
+9 (....) Somewhat important
+10 (....) Not important
+11 3. OTHER INSTRUCTIONS
+12 You can write in this section more information about your goals,
+13 values, and preferences for treatment, including care you want or do not
+14 want. You can also use this section to name anyone who you do not want to
+15 make decisions for you under any conditions.
+16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18 PART C: OPTIONAL SPECIAL POWERS AND GUIDANCE
+19 This part lets you give your Agent additional powers, and to provide
+20 more guidance about your wishes. You may mark or initial each choice. You
+21 also may leave any choice blank.
+22 1. OPTIONAL SPECIAL POWERS
+23 My Agent can do the following things ONLY if I have marked or
+24 initialed them below:
+25 (....) Admit me as a voluntary patient to a facility for mental
+26 health treatment for up to ...... days (write in the number of days you
+27 want like 7, 14, 30 or another number).
+28 (If I do not mark or initial this choice, my Agent MAY NOT admit me
+29 as a voluntary patient to this type of facility.)
+30 (....) Place me in a nursing home for more than one hundred days
+31 even if my needs can be met somewhere else, I am not terminally ill, and
+-18-
+LB66 LB66
+2025 2025
+1 I object.
+2 (If I do not mark or initial this choice, my Agent MAY NOT do this.)
+3 2. ACCESS TO MY HEALTH INFORMATION
+4 My Agent may obtain, examine, and share information about my health
+5 needs and health care if I am not able to make decisions for myself. If I
+6 mark or initial below, my Agent may also do that at any time my Agent
+7 thinks it will help me.
+8 (....) I give my Agent permission to obtain, examine, and share
+9 information about my health needs and health care whenever my Agent
+10 thinks it will help me.
+11 3. FLEXIBILITY FOR MY AGENT
+12 Mark or initial below if you want to give your Agent flexibility in
+13 following instructions you provide in this form. If you do not, your
+14 Agent must follow the instructions even if your Agent thinks something
+15 else would be better for you.
+16 (....) I give my Agent permission to be flexible in applying these
+17 instructions if my Agent thinks it would be in my best interest based on
+18 what my Agent knows about me.
+19 4. NOMINATION OF GUARDIAN
+20 You can say who you would want as your guardian if you needed one. A
+21 guardian is a person appointed by a court to make decisions for someone
+22 who cannot make decisions. Filling this out does NOT mean you want or
+23 need a guardian.
+24 If a court appoints a guardian to make personal decisions for me, I
+25 want the court to choose:
+26 (....) My Agent named in this form. If my Agent cannot be a
+27 guardian, I want the Alternate Agent named in this form.
+28 (....) Other (write who you would want and their contact
+29 information):
+30 PART D: ORGAN DONATION
+31 This part lets you donate your organs after you die. You may leave
+-19-
+LB66 LB66
+2025 2025
+1 any item blank.
+2 1. DONATION
+3 You may mark or initial only one choice.
+4 (....) I donate my organs, tissues, and other body parts after I
+5 die, even if it requires maintaining treatments that conflict with other
+6 instructions I have put in this form, EXCEPT for those I list below (list
+7 any body parts you do NOT want to donate):
+8 (....) I do not want my organs, tissues, or body parts donated to
+9 anybody for any reason. (If you mark or initial this choice, you should
+10 skip the "purpose of donation" section.)
+11 2. PURPOSE OF DONATION
+12 You may mark or initial all that apply. (If you do not mark or
+13 initial any of the purposes below, your donation can be used for all of
+14 them.)
+15 Organs, tissues, or body parts that I donate may be used for:
+16 (....) Transplant
+17 (....) Therapy
+18 (....) Research
+19 (....) Education
+20 (....) All of the above
+21 PART E: SIGNATURES
+22 YOUR SIGNATURE
+23 Sign your name: . . . . . . . . . . . . . . . . . . . . . . . . . .
+24 Today's date: . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25 City/Village and State (optional): . . . . . . . . . . . . . .
+26 SIGNATURE OF A WITNESS
+27 You need a witness if you are using this form to name an Agent. The
+28 witness must be an adult and cannot be the person you are naming as Agent
+29 or the Agent's spouse or someone the Agent lives with as a couple. If you
+30 live or are receiving care in a nursing home or an assisted living
+31 facility, the witness cannot be an employee or contractor of the home or
+-20-
+LB66 LB66
+2025 2025
+1 someone who owns or runs the home.
+2 Name of Witness: . . . . . . . . . . . . . . . . . . . . . . . . .
+3 Signature of Witness: . . . . . . . . . . . . . . . . . . . . . . .
+4 (Only sign as a witness if you think the person signing above is
+5 doing it voluntarily.)
+6 Date witness signed: . . . . . . . . . . . . . . . . . . . . . . .
+7 PART F: INFORMATION FOR AGENTS
+8 1. If this form names you as an Agent, you can make decisions about
+9 health care for the person who named you when the person cannot make
+10 their own.
+11 2. If you make a decision for the person, follow any instructions
+12 the person gave, including any in this form.
+13 3. If you do not know what the person would want, make the decision
+14 that you think is in the person's best interest. To figure out what is in
+15 the person's best interest, consider the person's values, preferences,
+16 and goals if you know them or can learn them. Some of these preferences
+17 may be in this form. You should also consider any behavior or
+18 communication from the person that indicates what the person currently
+19 wants.
+20 4. If this form names you as an Agent, you can also get and share
+21 the person's health information. But unless the person has said so in
+22 this form, you can get or share this information only when the person
+23 cannot make decisions about the person's health care.
+24 Sec. 12. (a) A default surrogate may make a health-care decision
+25 for an individual who lacks capacity to make health-care decisions and
+26 for whom an agent, or guardian authorized to make health-care decisions,
+27 has not been appointed or is not reasonably available.
+28 (b) Unless the individual has an advance health-care directive that
+29 indicates otherwise, a member of the following classes, in descending
+30 order of priority, who is reasonably available and not disqualified under
+31 section 14 of this act, may act as a default surrogate for the
+-21-
+LB66 LB66
+2025 2025
+1 individual:
+2 (1) an adult the individual has identified, other than in a power of
+3 attorney for health care, to make a health-care decision for the
+4 individual if the individual cannot make the decision;
+5 (2) the individual's spouse, unless:
+6 (A) a petition for annulment, divorce, dissolution of marriage,
+7 legal separation, or termination has been filed and not dismissed or
+8 withdrawn;
+9 (B) a decree of annulment, divorce, dissolution of marriage, legal
+10 separation, or termination has been issued;
+11 (C) the individual and the spouse have agreed in a record to a legal
+12 separation; or
+13 (D) the spouse has abandoned the individual for more than one year;
+14 (3) the individual's adult child or parent;
+15 (4) the individual's cohabitant;
+16 (5) the individual's adult sibling;
+17 (6) the individual's adult grandchild or grandparent;
+18 (7) an adult not listed in subdivisions (1) through (6) who has
+19 assisted the individual with supported decision making routinely during
+20 the preceding six months;
+21 (8) the individual's adult stepchild not listed in subdivisions (1)
+22 through (7) whom the individual actively parented during the stepchild's
+23 minor years and with whom the individual has an ongoing relationship; or
+24 (9) an adult not listed in subdivisions (1) through (8) who has
+25 exhibited special care and concern for the individual and is familiar
+26 with the individual's personal values.
+27 (c) A responsible health-care professional may require an individual
+28 who assumes authority to act as a default surrogate to provide a
+29 declaration in a record under penalty of perjury stating facts and
+30 circumstances reasonably sufficient to establish the authority.
+31 (d) If a responsible health-care professional reasonably determines
+-22-
+LB66 LB66
+2025 2025
+1 that an individual who assumed authority to act as a default surrogate is
+2 not willing or able to comply with a duty under section 17 of this act or
+3 fails to comply with the duty in a timely manner, the professional may
+4 recognize the individual next in priority under subsection (b) of this
+5 section as the default surrogate.
+6 (e) A health-care decision made by a default surrogate is effective
+7 without judicial approval.
+8 Sec. 13. (a) A default surrogate who assumes authority under
+9 section 12 of this act shall inform a responsible health-care
+10 professional if two or more members of a class under subsection (b) of
+11 section 12 of this act have assumed authority to act as default
+12 surrogates and the members do not agree on a health-care decision.
+13 (b) A responsible health-care professional shall comply with the
+14 decision of a majority of the members of the class with highest priority
+15 under subsection (b) of section 12 of this act who have communicated
+16 their views to the professional and the professional reasonably believes
+17 are acting consistent with their duties under section 17 of this act.
+18 (c) If a responsible health-care professional is informed that the
+19 members of the class who have communicated their views to the
+20 professional are evenly divided concerning the health-care decision, the
+21 professional shall make a reasonable effort to solicit the views of
+22 members of the class who are reasonably available but have not yet
+23 communicated their views to the professional. The professional, after the
+24 solicitation, shall comply with the decision of a majority of the members
+25 who have communicated their views to the professional and the
+26 professional reasonably believes are acting consistent with their duties
+27 under section 17 of this act.
+28 (d) If the class remains evenly divided after the effort is made
+29 under subsection (c) of this section, the health-care decision must be
+30 made as provided by other law of this state regarding the treatment of an
+31 individual who is found to lack capacity.
+-23-
+LB66 LB66
+2025 2025
+1 Sec. 14. (a) An individual for whom a health-care decision would be
+2 made may disqualify another individual from acting as default surrogate
+3 for the first individual. The disqualification must be in a record signed
+4 by the first individual or communicated verbally or nonverbally to the
+5 individual being disqualified, another individual, or a responsible
+6 health-care professional. Disqualification under this subsection is
+7 effective even if made by an individual who lacks capacity to make an
+8 advance directive if the individual clearly communicates a desire that
+9 the individual being disqualified not make health-care decisions for the
+10 individual.
+11 (b) An individual is disqualified from acting as a default surrogate
+12 for an individual who lacks capacity to make health-care decisions if:
+13 (1) a court finds that the potential default surrogate poses a
+14 danger to the individual's well-being, even if the court does not issue a
+15 protection order against the potential surrogate;
+16 (2) the potential default surrogate is an owner, operator, employee,
+17 or contractor of a nursing home or an assisted-living facility as defined
+18 in section 71-5903 in which the individual is residing or receiving care
+19 unless the owner, operator, employee, or contractor is a family member of
+20 the individual, the cohabitant of the individual, or a descendant of the
+21 cohabitant; or
+22 (3) the potential default surrogate refuses to provide a timely
+23 declaration under subsection (c) of section 12 of this act.
+24 Sec. 15. (a) An individual may revoke the appointment of an agent,
+25 the designation of a default surrogate, or a health-care instruction in
+26 whole or in part, unless:
+27 (1) a court finds the individual lacks capacity to do so;
+28 (2) the individual is found under subsection (b) of section 4 of
+29 this act to lack capacity to do so and, if the individual objects to the
+30 finding, the finding is confirmed under subdivision (d)(4) of section 5
+31 of this act; or
+-24-
+LB66 LB66
+2025 2025
+1 (3) the individual created an advance mental health-care directive
+2 that includes the provision under subsection (d) of section 9 of this act
+3 and the individual is experiencing the psychiatric or psychological event
+4 specified in the directive.
+5 (b) Revocation under subsection (a) of this section may be by any
+6 act of the individual that clearly indicates that the individual intends
+7 to revoke the appointment, designation, or instruction, including an oral
+8 statement to a health-care professional.
+9 (c) Except as provided in section 10 of this act, an advance health-
+10 care directive of an individual that conflicts with another advance
+11 health-care directive of the individual revokes the earlier directive to
+12 the extent of the conflict.
+13 (d) Unless otherwise provided in an individual's advance health-care
+14 directive appointing an agent, the appointment of a spouse of an
+15 individual as agent for the individual is revoked if:
+16 (1) a petition for annulment, divorce, dissolution of marriage,
+17 legal separation, or termination has been filed and not dismissed or
+18 withdrawn;
+19 (2) a decree of annulment, divorce, dissolution of marriage, legal
+20 separation, or termination has been issued;
+21 (3) the individual and the spouse have agreed in a record to a legal
+22 separation; or
+23 (4) the spouse has abandoned the individual for more than one year.
+24 Sec. 16. (a) An advance health-care directive created outside this
+25 state is valid if it complies with:
+26 (1) the law of the state specified in the directive or, if a state
+27 is not specified, the state in which the individual created the
+28 directive; or
+29 (2) the Uniform Health-Care Decisions Act.
+30 (b) A person may assume without inquiry that an advance health-care
+31 directive is genuine, valid, and still in effect, and may implement and
+-25-
+LB66 LB66
+2025 2025
+1 rely on it, unless the person has good cause to believe the directive is
+2 invalid or has been revoked.
+3 (c) An advance health-care directive, revocation of a directive, or
+4 a signature on a directive or revocation may not be denied legal effect
+5 or enforceability solely because it is in electronic form.
+6 (d) Evidence relating to an advance health-care directive,
+7 revocation of a directive, or a signature on a directive or revocation
+8 may not be excluded in a proceeding solely because the evidence is in
+9 electronic form.
+10 (e) The Uniform Health-Care Decisions Act does not affect the
+11 validity of an electronic record or signature that is valid under the
+12 Uniform Electronic Transactions Act.
+13 (f) If the Uniform Health-Care Decisions Act conflicts with other
+14 law of this state relating to the creation, execution, implementation, or
+15 revocation of an advance health-care directive, the Uniform Health-Care
+16 Decisions Act prevails.
+17 Sec. 17. (a) An agent or default surrogate has a fiduciary duty to
+18 the individual for whom the agent or default surrogate is acting when
+19 exercising or purporting to exercise a power under section 18 of this
+20 act.
+21 (b) An agent or default surrogate shall make a health-care decision
+22 in accordance with the direction of the individual in an advance health-
+23 care directive and other goals, preferences, and wishes of the individual
+24 to the extent known or reasonably ascertainable by the agent or default
+25 surrogate.
+26 (c) If there is not a direction in an advance health-care directive
+27 and the goals, preferences, and wishes of the individual regarding a
+28 health-care decision are not known or reasonably ascertainable by the
+29 agent or default surrogate, the agent or default surrogate shall make the
+30 decision in accordance with the agent's or default surrogate's
+31 determination of the individual's best interest.
+-26-
+LB66 LB66
+2025 2025
+1 (d) In determining the individual's best interest under subsection
+2 (c) of this section, the agent or default surrogate shall:
+3 (1) give primary consideration to the individual's contemporaneous
+4 communications, including verbal and nonverbal expressions;
+5 (2) consider the individual's values to the extent known or
+6 reasonably ascertainable by the agent or default surrogate; and
+7 (3) consider the risks and benefits of the potential health-care
+8 decision.
+9 (e) As soon as reasonably feasible, an agent or default surrogate
+10 who is informed of a revocation of an advance health-care directive or
+11 disqualification of the agent or default surrogate shall communicate the
+12 revocation or disqualification to a responsible health-care professional.
+13 Sec. 18. (a) Except as provided in subsection (c) of this section,
+14 the power of an agent or default surrogate commences when the individual
+15 is found under subsection (b) of section 4 of this act or by a court to
+16 lack capacity to make a health-care decision. The power ceases if the
+17 individual later is found to have capacity to make a health-care
+18 decision, or the individual objects under subsection (c) of section 5 of
+19 this act to the finding of lack of capacity under subsection (b) of
+20 section 4 of this act. The power resumes if:
+21 (1) the power ceased because the individual objected under
+22 subsection (c) of section 5 of this act; and
+23 (2) the finding of lack of capacity is confirmed under subdivision
+24 (d)(4) of section 5 of this act or a court finds that the individual
+25 lacks capacity to make a health-care decision.
+26 (b) An agent or default surrogate may request, receive, examine,
+27 copy, and consent to the disclosure of medical and other health-care
+28 information about the individual if the individual would have the right
+29 to request, receive, examine, copy, or consent to the disclosure of the
+30 information.
+31 (c) A power of attorney for health care may provide that the power
+-27-
+LB66 LB66
+2025 2025
+1 of an agent under subsection (b) of this section commences on
+2 appointment.
+3 (d) If no other person is authorized to do so, an agent or default
+4 surrogate may apply for public or private health insurance and benefits
+5 on behalf of the individual. An agent or default surrogate who may apply
+6 for insurance and benefits does not, solely by reason of the power, have
+7 a duty to apply for the insurance or benefits.
+8 (e) An agent or default surrogate may not consent to voluntary
+9 admission of the individual to a facility for mental health treatment
+10 unless:
+11 (1) voluntary admission is specifically authorized by the individual
+12 in an advance health-care directive in a record; and
+13 (2) the admission is for no more than the maximum of the number of
+14 days specified in the directive or [insert the number of days a guardian
+15 may commit an adult subject to guardianship without using the state's
+16 involuntary commitment procedure], whichever is less.
+17 (f) Except as provided in subsection (g) of this section, an agent
+18 or default surrogate may not consent to placement of the individual in a
+19 nursing home if the placement is intended to be for more than one hundred
+20 days if:
+21 (1) an alternative living arrangement is reasonably feasible;
+22 (2) the individual objects to the placement; or
+23 (3) the individual is not terminally ill.
+24 (g) If specifically authorized by the individual in an advance
+25 health-care directive in a record, an agent or default surrogate may
+26 consent to placement of the individual in a nursing home for more than
+27 one hundred days even if:
+28 (1) an alternative living arrangement is reasonably feasible;
+29 (2) the individual objects to the placement; and
+30 (3) the individual is not terminally ill.
+31 Sec. 19. (a) If an individual has a long-term disability requiring
+-28-
+LB66 LB66
+2025 2025
+1 routine treatment by artificial nutrition, hydration, or mechanical
+2 ventilation and a history of using the treatment without objection, an
+3 agent or default surrogate may not consent to withhold or withdraw the
+4 treatment unless:
+5 (1) the treatment is not necessary to sustain the individual's life
+6 or maintain the individual's well-being;
+7 (2) the individual has expressly authorized the withholding or
+8 withdrawal in a health-care instruction that has not been revoked; or
+9 (3) the individual has experienced a major reduction in health or
+10 functional ability from which the individual is not expected to recover,
+11 even with other appropriate treatment, and the individual has not:
+12 (A) given a direction inconsistent with withholding or withdrawal;
+13 or
+14 (B) communicated by verbal or nonverbal expression a desire for
+15 artificial nutrition, hydration, or mechanical ventilation.
+16 (b) A default surrogate may not make a health-care decision if,
+17 under other law of this state, the decision:
+18 (1) may not be made by a guardian; or
+19 (2) may be made by a guardian only if the court appointing the
+20 guardian specifically authorizes the guardian to make the decision.
+21 Sec. 20. (a) An individual in a power of attorney for health care
+22 may appoint multiple individuals as co-agents. Unless the power of
+23 attorney provides otherwise, each co-agent may exercise independent
+24 authority.
+25 (b) An individual in a power of attorney for health care may appoint
+26 one or more individuals to act as alternate agents if a predecessor agent
+27 resigns, dies, becomes disqualified, is not reasonably available, or
+28 otherwise is unwilling or unable to act as agent.
+29 (c) Unless the power of attorney provides otherwise, an alternate
+30 agent has the same authority as the original agent:
+31 (1) at any time the original agent is not reasonably available or is
+-29-
+LB66 LB66
+2025 2025
+1 otherwise unwilling or unable to act, for the duration of the
+2 unavailability, unwillingness, or inability to act; or
+3 (2) if the original agent and all other predecessor agents have
+4 resigned or died or are disqualified from acting as agent.
+5 Sec. 21. (a) A responsible health-care professional who is aware
+6 that an individual has been found to lack capacity to make a decision
+7 shall make a reasonable effort to determine if the individual has a
+8 surrogate.
+9 (b) If possible before implementing a health-care decision made by a
+10 surrogate, a responsible health-care professional as soon as reasonably
+11 feasible shall communicate to the individual the decision made and the
+12 identity of the surrogate.
+13 (c) A responsible health-care professional who makes or is informed
+14 of a finding that an individual lacks capacity to make a health-care
+15 decision or no longer lacks capacity, or that other circumstances exist
+16 that affect a health-care instruction or the authority of a surrogate, as
+17 soon as reasonably feasible, shall:
+18 (1) document the finding or circumstance in the individual's medical
+19 record; and
+20 (2) if possible, communicate to the individual and the individual's
+21 surrogate the finding or circumstance and that the individual may object
+22 under subsection (c) of section 5 of this act to the finding under
+23 subsection (b) of section 4 of this act.
+24 (d) A responsible health-care professional who is informed that an
+25 individual has created or revoked an advance health-care directive, or
+26 that a surrogate for an individual has been appointed, designated, or
+27 disqualified, shall:
+28 (1) document the information as soon as reasonably feasible in the
+29 individual's medical record; and
+30 (2) if evidence of the directive, revocation, appointment,
+31 designation, or disqualification is in a record, request a copy and, on
+-30-
+LB66 LB66
+2025 2025
+1 receipt, cause the copy to be included in the individual's medical
+2 record.
+3 (e) Except as provided in subsections (f) and (g) of this section, a
+4 health-care professional or health-care institution providing health care
+5 to an individual shall comply with:
+6 (1) a health-care instruction given by the individual regarding the
+7 individual's health care;
+8 (2) a reasonable interpretation by the individual's surrogate of an
+9 instruction given by the individual; and
+10 (3) a health-care decision for the individual made by the
+11 individual's surrogate in accordance with sections 17 and 18 of this act
+12 to the same extent as if the decision had been made by the individual at
+13 a time when the individual had capacity.
+14 (f) A health-care professional or a health-care institution may
+15 refuse to provide health care consistent with a health-care instruction
+16 or health-care decision if:
+17 (1) the instruction or decision is contrary to a policy of the
+18 health-care institution providing care to the individual that is based
+19 expressly on reasons of conscience and the policy was timely communicated
+20 to the individual or to the individual's surrogate;
+21 (2) the care would require health care that is not available to the
+22 professional or institution; or
+23 (3) compliance with the instruction or decision would:
+24 (A) require the professional to provide care that is contrary to the
+25 professional's religious belief or moral conviction if other law permits
+26 the professional to refuse to provide care for that reason;
+27 (B) require the professional or institution to provide care that is
+28 contrary to generally accepted health-care standards applicable to the
+29 professional or institution; or
+30 (C) violate a court order or other law.
+31 (g) A health-care professional or health-care institution that
+-31-
+LB66 LB66
+2025 2025
+1 refuses to provide care under subsection (f) of this section shall:
+2 (1) as soon as reasonably feasible, inform the individual, if
+3 possible, and the individual's surrogate of the refusal;
+4 (2) immediately make a reasonable effort to transfer the individual
+5 to another health-care professional or health-care institution that is
+6 willing to comply with the instruction or decision; and
+7 (3) either:
+8 (A) if care is refused under subdivision (f)(1) or (2) of this
+9 section, provide life-sustaining care and care needed to keep or make the
+10 individual comfortable, consistent with accepted medical standards to the
+11 extent feasible, until a transfer is made; or
+12 (B) if care is refused under subdivision (f)(3) of this section,
+13 provide life-sustaining care and care needed to keep or make the
+14 individual comfortable, consistent with accepted medical standards, until
+15 a transfer is made or, if the professional or institution reasonably
+16 believes that a transfer cannot be made, for at least ten days after the
+17 refusal.
+18 Sec. 22. (a) A guardian may refuse to comply with or revoke the
+19 individual's advance health-care directive only if the court appointing
+20 the guardian expressly orders the noncompliance or revocation.
+21 (b) Unless a court orders otherwise, a health-care decision made by
+22 an agent appointed by an individual subject to guardianship prevails over
+23 a decision of the guardian appointed for the individual.
+24 Sec. 23. (a) A health-care professional or health-care institution
+25 acting in good faith is not subject to civil or criminal liability or to
+26 discipline for unprofessional conduct for:
+27 (1) complying with a health-care decision made for an individual by
+28 another person if compliance is based on a reasonable belief that the
+29 person has authority to make the decision, including a decision to
+30 withhold or withdraw health care;
+31 (2) refusing to comply with a health-care decision made for an
+-32-
+LB66 LB66
+2025 2025
+1 individual by another person if the refusal is based on a reasonable
+2 belief that the person lacked authority or capacity to make the decision;
+3 (3) complying with an advance health-care directive based on a
+4 reasonable belief that the directive is valid;
+5 (4) refusing to comply with an advance health-care directive based
+6 on a reasonable belief that the directive is not valid, including a
+7 reasonable belief that the directive was not made by the individual or,
+8 after its creation, was substantively altered by a person other than the
+9 individual who created it;
+10 (5) determining that an individual who otherwise might be authorized
+11 to act as an agent or default surrogate is not reasonably available; or
+12 (6) complying with an individual's direction under subsection (d) of
+13 section 9 of this act.
+14 (b) An agent, default surrogate, or individual with a reasonable
+15 belief that the individual is an agent or a default surrogate is not
+16 subject to civil or criminal liability or to discipline for
+17 unprofessional conduct for a health-care decision made in a good faith
+18 effort to comply with section 17 of this act.
+19 Sec. 24. (a) A person may not:
+20 (1) intentionally falsify, in whole or in part, an advance health-
+21 care directive;
+22 (2) for the purpose of frustrating the intent of the individual who
+23 created an advance health-care directive or with knowledge that doing so
+24 is likely to frustrate the intent:
+25 (A) intentionally conceal, deface, obliterate, or delete the
+26 directive or a revocation of the directive without consent of the
+27 individual who created or revoked the directive; or
+28 (B) intentionally withhold knowledge of the existence or revocation
+29 of the directive from a responsible health-care professional or health-
+30 care institution providing health care to the individual who created or
+31 revoked the directive;
+-33-
+LB66 LB66
+2025 2025
+1 (3) coerce or fraudulently induce an individual to create, revoke,
+2 or refrain from creating or revoking an advance health-care directive or
+3 a part of a directive; or
+4 (4) require or prohibit the creation or revocation of an advance
+5 health-care directive as a condition for providing health care.
+6 (b) An individual who is the subject of conduct prohibited under
+7 subsection (a) of this section, or the individual's estate, has a cause
+8 of action against a person that violates subsection (a) of this section
+9 for statutory damages of twenty-five thousand dollars or actual damages
+10 resulting from the violation, whichever is greater.
+11 (c) Subject to subsection (d) of this section, an individual who
+12 makes a health-care instruction, or the individual's estate, has a cause
+13 of action against a health-care professional or health-care institution
+14 that intentionally violates section 21 of this act for statutory damages
+15 of fifty thousand dollars or actual damages resulting from the violation,
+16 whichever is greater.
+17 (d) A health-care professional who is an emergency medical responder
+18 is not liable under subsection (c) of this section for a violation of
+19 subsection (e) of section 21 of this act if:
+20 (1) the violation occurs in the course of providing care to an
+21 individual experiencing a health condition for which the professional
+22 reasonably believes the care was appropriate to avoid imminent loss of
+23 life or serious harm to the individual;
+24 (2) the failure to comply is consistent with accepted standards of
+25 the profession of the professional; and
+26 (3) the provision of care does not begin in a health-care
+27 institution in which the individual resides or was receiving care.
+28 (e) In an action under this section, a prevailing plaintiff may
+29 recover reasonable attorney's fees, court costs, and other reasonable
+30 litigation expenses.
+31 (f) A cause of action or remedy under this section is in addition to
+-34-
+LB66 LB66
+2025 2025
+1 any cause of action or remedy under other law.
+2 Sec. 25. (a) A physical or electronic copy of an advance health-
+3 care directive, revocation of an advance health-care directive, or
+4 appointment, designation, or disqualification of a surrogate has the same
+5 effect as the original.
+6 (b) An individual may create a certified physical copy of an advance
+7 health-care directive or revocation of an advance health-care directive
+8 that is in electronic form by affirming under penalty of perjury that the
+9 physical copy is a complete and accurate copy of the directive or
+10 revocation.
+11 Sec. 26. (a) On petition of an individual, the individual's
+12 surrogate, a health-care professional or health-care institution
+13 providing health care to the individual, or a person interested in the
+14 welfare of the individual, the court may:
+15 (1) enjoin implementation of a health-care decision made by an agent
+16 or default surrogate on behalf of the individual, on a finding that the
+17 decision is inconsistent with section 17 or 18 of this act;
+18 (2) enjoin an agent from making a health-care decision for the
+19 individual, on a finding that the individual's appointment of the agent
+20 has been revoked or the agent:
+21 (A) is disqualified under subsection (b) of section 8 of this act;
+22 (B) is unwilling or unable to comply with section 17 of this act; or
+23 (C) poses a danger to the individual's well-being;
+24 (3) enjoin another individual from acting as a default surrogate, on
+25 a finding that the other individual acting as a default surrogate did not
+26 comply with section 12 of this act or the other individual:
+27 (A) is disqualified under section 14 of this act;
+28 (B) is unwilling or unable to comply with section 17 of this act; or
+29 (C) poses a danger to the first individual's well-being; or
+30 (4) order implementation of a health-care decision made:
+31 (A) by and for the individual; or
+-35-
+LB66 LB66
+2025 2025
+1 (B) by an agent or default surrogate who is acting in compliance
+2 with the powers and duties of the agent or default surrogate.
+3 (b) In the Uniform Health-Care Decisions Act, advocacy for the
+4 withholding or withdrawal of health care or mental health care from an
+5 individual is not itself evidence that an agent or default surrogate, or
+6 a potential agent or default surrogate, poses a danger to the
+7 individual's well-being.
+8 (c) A proceeding under this section is governed by [cite to the
+9 state's rules of procedure or statutory provisions governing expedited
+10 proceedings and proceedings affecting persons found or alleged to lack
+11 capacity].
+12 Sec. 27. (a) The Uniform Health-Care Decisions Act does not
+13 authorize mercy killing, assisted suicide, or euthanasia.
+14 (b) The Uniform Health-Care Decisions Act does not affect other law
+15 of this state governing treatment for mental illness of an individual
+16 involuntarily committed for treatment under the Nebraska Mental Health
+17 Commitment Act or the Sex Offender Commitment Act.
+18 (c) Death of an individual caused by withholding or withdrawing
+19 health care in accordance with the Uniform Health-Care Decisions Act does
+20 not constitute a suicide or homicide or legally impair or invalidate a
+21 policy of insurance or an annuity providing a death benefit,
+22 notwithstanding any term of the policy or annuity.
+23 (d) The Uniform Health-Care Decisions Act does not create a
+24 presumption concerning the intention of an individual who has not created
+25 an advance health-care directive.
+26 (e) An advance health-care directive created before, on, or after
+27 the effective date of this act must be interpreted in accordance with
+28 other law of this state, excluding the state's choice-of-law rules, at
+29 the time the directive is implemented.
+30 Sec. 28. In applying and construing the Uniform Health-Care
+31 Decisions Act, a court shall consider the promotion of uniformity of the
+-36-
+LB66 LB66
+2025 2025
+1 law among jurisdictions that enact it.
+2 Sec. 29. (a) An advance health-care directive created before the
+3 effective date of this act is valid if it complies with the Uniform
+4 Health-Care Decisions Act or complied at the time of creation with the
+5 law of the state in which it was created.
+6 (b) The Uniform Health-Care Decisions Act does not affect the
+7 validity or effect of an act done before the effective date of this act.
+8 (c) An individual who assumed authority to act as default surrogate
+9 before the effective date of this act may continue to act as default
+10 surrogate until the individual for whom the default surrogate is acting
+11 has capacity or the default surrogate is disqualified, whichever occurs
+12 first.
+13 Sec. 30. The Uniform Health-Care Decisions Act applies to an
+14 advance health-care directive created before, on, or after the effective
+15 date of this act.
+16 Sec. 31. If any section in this act or any part of any section is
+17 declared invalid or unconstitutional, the declaration shall not affect
+18 the validity or constitutionality of the remaining portions.
+-37-
+[DELETED: yDACB6L52]
+[DELETED: ScS( A h d m a p o a fh c h i o b T t i aa(f90( A m a i a u a p o a1f h c t m a h d f t i w2m t a T t i a c o a a3a4(5( C m e o t i w h b l6t7w8(910( E m r t t h e1d m w o e o s2c3( F m m a s a c p o4g o a a d o a s c p o5g6(7m8i9l0(1t m m d o o a a i6L52]
+[DELETED: p o m i i o c T t im(t i s r t i h ci(c( a o d o a d t sp m t i o o h c0a1(2o3( H i m a f o a l4c5h6(7r m b a i t i t i g8p o w c t p w o9w0e1(2l3t4b5(6( M h c m c o t o a s o7p t m m d o o a a8i m i o o p p o9p0( N h m a n f a d i s116L52]
+[DELETED: o s n f a d i s 1 o tS( P m a i e b o ne g o g s a oi((((0( a p e p h c m o1p2( a p a u o l t m d f t3i4( a p t h a o p o p5r w t i i a p t h p6e7i8( P m a i a t p a 9p o a o p u t M a S0P1(2i a a a t m h d f t3i4(5u e a b w a a t a i a t m6c t u o a i h s W7u8w9i0s1(6L52]
+[DELETED: (( s i a e o o m a r ip(( a h p d b a i o ti s t h p r f ti(p d u s ( i n r0a1o t i h c o f o a c o2t3( S m w p i t a o a 4r5(6( t a t o l a w t r a7e8( S m a s o t U S t D o9C P R t U S V I o a o0t1T2( S d m m a f o o m3p4c a d i b h t i u5t6(7(8(9(0S 3  ( A i h c f t p o t1U6L52]
+[DELETED: (w a s t a s dm((o t d i t p r a b o td( a h i u t n ac0o1(2o i o a d s u s ( o3s4a o i a u t g n o t5r6w7(8a t i h c i n a b w t9i0S1r a h d h i a p o2a3(4( t p i r u s ( o t5s6( S t s 5 a 6 o t a a p u7s ( o t s m b r b a f t t8i9(0a1(6L52]
+[DELETED: (t(os(((( a r h p n d i0s1( t i a w t f i t b m i2e a h c r a d r h3c4t5( a i l i s ( ( o ( i n6r7(8t s o p o t i m t f a t 9r0( d i a r s b t i m t1f t i a o o t c n e a2p3(4b5(6( t c o t i o a d o t7c8(9a0(1a c t i n l h o a r h6L52]
+[DELETED: p s h g c t b t i hc t i i p t h c u a cfsSai a w t f w m o t ir( A s a r f a r h0p142a3(4a5(6(7o t h i i w t i r o i8r9( b a a t c i t i0o1(2t f u s ( o s 4 o t a i n3s t r a p o c i s ( o4s 4 o t a a t i m b t a h5c6(7(8( t i i e a h c r 9d r h t t b m p t a0i1( s t s ( o t s t f i6L52]
+[DELETED: c b a s f m b a i a us(( i n a f m o t i w m t ff( i n t c o t i w m t ff( A s f t t i l c us ( o t s i n s t r t0p1c2t3(4i5( c t o t a r h6p7( d t o a t d o t o i t8i9t0o1w s d t o a t d o t o i t2i3S4o5h i p h c t t i o 6p i i t w o t i m p t7c8t9( T c i w a p u s ( o t0s1i6L52]
+[DELETED: p a s a p b n l t s d a tp i f A s a p b n l t s dact c f b c a c e t t ilSep0(1(2( p t s o s n b c r 3h4( a p t s a g f t i i o i5a6(7(8p a i u s ( o t s s9d t i a t d o t i i t0i m r o c t i a d o1t i t a a w r f m2r o t h i p h c t t3i w s d t i a t d o t4i5(6w7a i d i a m o r t e8i9(0o1S6L52]
+[DELETED: c t a a a t m h d f ti( A i i d f a a a f ai( a c f t t p a p a d t tio( t p a i a o o e oc0s 7 i w t i r o i r c1u2t3c4( A h d m b a a i e w5j6(7b8( r b t a o t i t c t9p0(1(2(3(4o5o6f7(8w9i0( A w u s ( o t s i c1p6L52]
+[DELETED: ((two(c( t i o t i i p k t tw0( t w i a t a t i o t1i2t3(4i5S 9  ( A i m c a a h6d7d8h9( A h i u t s m i t0i1(2a3(4w5(6( a t a m f i d o7a8(9( r t a a s t o m h c0i1(6L52]
+[DELETED: ( A p o a f h c u t s ma( A i m d i a a m hd t i t i i e a p op e s i t d t i m nr(u s ( o t s t a m hd m b i a r t i s f a o a0h d c b t i a s b t1i2t3(4( u t n a c o t d5i6( m t d v a w c o u7i8(9(0(1( i t i r i a n h o a a2l f a d i s 7 t o o3e4a5(6S 1  ( I a d i a a m h7d8h9e0( A a o a a t m d o f m1h6L52]
+[DELETED: aa r t a o a a u t eas(i o t d a m h c m aa o a a a t m o m hdo0S 1  T f f m b u t c a a1h2A3H4Y5c6T i c g t p a p o a f h c7T8Y9g0y1Y2N3D4P5T6f718I9I0N1O6L52]
+[DELETED: s.2IINOs.031I2i3( y d n a a l h y A w b a t4m5s6P7T p l y s y p f h c a t8s910T s g y t o t s h y w y1A2c3T4f5(6y s n m o i o c i t "7s8(9a0(1t6L52]
+[DELETED: (a n e t r t p m f c wp I c a c f m a r f af(Ftl(0y1s2(3a4(5b6(7a n e t r t p m f c w8p I c a c f m a r f a9f0(1P r I I a i s p c t w k m2c3t4(5y s n m o i o c i t " r6s7(8y s n m o i o c i t " r9s0(1i6L52]
+[DELETED: (c(nc(2Yw0d f y i y c I a h o u y1p2Y3b4S a a l a p e i I h s5p6(7(8(9S0l1(2(3(4B5(6(7(8B9(0(1(6L52]
+[DELETED: Hc(((Hm((0(132Y c w i t s m i a y g3v4w5m6.7.8P9T0m1a213M A c d t f t O i I h m o4i5( A m a a v p t a f f m6h7w8(9a0( P m i a n h f m t o h d1e6L52]
+[DELETED: I(2Mnmt( I g m A p t o e a si a m h n a h c w m A0t132M3f i y p i t f I y d n y4A5e6(7i8w940Y1g2w c m d F t o d N m y w o3n4I5w6( M A n i t f I m A c b 7g8( O ( w y w w a t c9i0P1T6L52]
+[DELETED: a1Y( I d m o t a o b p a dia(a0s122Y m m o i a t a ( y d n m o3i4t5O6(7(8(9(0(1P2Y3S4T5C6S7Y8w9o0l o a r c i a n h o a a l1f6L52]
+[DELETED: sNS( s a a w i y t t p s a idDP1h c f t p w n y w t p c m0t122t334t5t p b i c t p v p6a7m b i t f Y s a c a b o8c f t p t i w t p c9w041t p h i B u t p h s s i2t f y c g o s t i o w t p3c4S5f6f7h8(9i o a m o t f c i d0o1s 1 o t a m a a a d s f t6L52]
+[DELETED: i(a f h c t m a h d f ti(( a p f a d d o ml s o t h b f a n d ow(0s1(2s3(4(5(6(7(8( a a n l i s ( t ( w h9a0t1(2t3m4( a a n l i s ( t ( w h5e s c a c f t i a i f6w7(8w a a t a a a d s t p 9d i a r u p o p s f a0c1(6L52]
+[DELETED: tnfrs(wS 1  ( A d s w a a us 1 o t a s i a r h0p1s 1 o t a h a a t a a d2s3( A r h p s c w t4d5u s ( o s 1 o t a w h c6t7a8(9m o t c w h c t v t t0p1p s m a r e t s t v o2m o t c w a r a b h n y3c4s5w h c t v t t p a t6p7u8( I t c r e d a t e i m9u0m1i6L52]
+[DELETED: Smfbi b d a i o a rh p D u t s ie e i m b a i w l c t m aa d i t i c c a d tt0i1(2f3( a c f t t p d s p 4d5p6(7o8i9u0t1c2( t p d s r t p a t3d4S5t6w7(8( t i i f u s ( o s 4 o9t0f1o6L52]
+[DELETED: (tas(ats(0c d o a i t c w a a1h2t3(4d a a a t a o a s o a5i6( a p f a d d o m7l s o t h b f a n d o8w9(0s1(2s3(4S5s6(7i n s t s i w t i c t8d9(0(1d6L52]
+[DELETED: ri(ao( E r t a a h drm n b e i a p s b t e i ie0( T U H D A d n a t1v o a e r o s t i v u t2U3( I t U H D A c w o4l5r6D7S8t i f w t a o d s i a w9e o p t e a p u s 1 o t0a1(2i3c4t5s6(7a t g p a w o t i r 8h d a n k o r a b t9a0d i a w t a o d s1d6L52]
+[DELETED: ((( g p c t t i cc( c t i v t t e k or( c t r a b o t p hd( A s a r f a a o d s0w1d2r3S4t5i6l c t m a h d T p c i t7i l i f t h c t m a h8d9t a t t f o l o c u s ( o0s1( t p c b t i o u2s3(4( o s 5 o t a o a c f t t i5l6( A a o d s m r r e7c a c t t d o m a o h8i9t0i1(6L52]
+[DELETED: o a a u s ( o t s c oa(sofa( A a o d s m n c t va o t i t a f f m h t0u1(2i3(4d5m c a a s t g w u t s6i7(8o9n0d1(2(3(4( I s a b t i i a a5h d i a r a a o d s m6c7o8(9(0(1S6L52]
+[DELETED: r t b a n h o mvat(o( t i h e a t w ow( t i h e a m r i h o0f1e2(3o4( c b v o n e a d f5a6( A d s m n m a h d i7u8(9( m b m b a g o i t c a t0g1S2m a m i a c U t p o3a p o e c m e i4a5(6o7r d b d i n r a o8o9( U t p o a p o a a0a1(6L52]
+[DELETED: o u o u t a f t d o tu( i t o a a a o p a hrS 2  ( A r h p w i at a i h b f t l c t m a ds m a r e t d i t i h s(0s1f2i3(4o a f t a i l c t m a h5d6t7s8(9r0(1s2u s ( o s 5 o t a t t f u3s4(5i h c o r a a h d o6t a s f a i h b a d o7d8(9i0( i e o t d r a1d6L52]
+[DELETED: r c t c t b i i t i mr(ht(i(i0( a h d f t i m b t1i2t3a4( A h p o a h i m5r6o7( t i o d i c t a p o t8h i p c t t i t i b9e0t1(2p3(4(5p6t7(8c t g a h s a t t9p0(1( A h p o h i t6L52]
+[DELETED: r( a s a r f i t i ip(t a h p o h i t iw(( i c i r u s ( o ( o ts0i1e2( i c i r u s ( o t s3p l c a c n t k o m t4i5a t i m o i t p o i r6b7r8S 2  ( A g m r t c w o r t9i0t1(2a3a4S5a6d7(8a p i c i b o a r b t t9p h a t m t d i a d t0w1( r t c w a h d m f a6L52]
+[DELETED: i b a p i t r i b o a rb( c w a a h d b o r(o a r b t t d i n v i rai0(1t2(3s4( A a d s o i w a r5b t t i i a a o a d s i n6s t c o c l o t d f7u8e9S0(1c2(3c4i5( i c d o o d t6d o a r o t d w c o t7i8(9o0c1r6L52]
+[DELETED: (oa( r o p t c o r o a ah( A i w i t s o c p usof0r1( S t s ( o t s a i w2m3o4t5o6w7(8i n l u s ( o t s f a v o9s0( t v o i t c o p c t a1i e a h c f w t p2r3l4(5t6( t p o c d n b i a h7i8( I a a u t s a p p m9r r a f c c a o r0l1(6L52]
+[DELETED: aSc d r o a a h d oae(htp c i a c a a c o t d o0r1S 2  ( O p o a i t i2s a h p o h i3p4w5(6o7d8( e a a f m a h d f t9i0h1(2(3(4(5a6c7(8(9(0(1(6L52]
+[DELETED: ( b a a o d s w i a i cw( I t U H D A a f twia p a o d s p a d t ti( A p u t s i g b [ t ts r o p o s p g e0p a p a p f o a t l1c2S 2  ( T U H D A d n3a4(5o t s g t f m i o a i6i c f t u t N M H7C8( D o a i c b w o w9h0n1p o i o a a p a d b2n3( T U H D A d n c 4p5a6( A a h d c b o o a7t e d o t a m b i i a w8o9t0S 2  I a a c t U H1D6L52]
+[DELETED: lS 2  ( A a h d c b te d o t a i v i i c w t UHl( T U H D A d n a tv(b t e d o t a m c t a a d0s1h2f3S 3  T U H D A a t a4a5d6S7d i o u t d s n a8t6L52]
+
+
+================================================================================
+
+Raw Text:
+LB66 LB66
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 66
+Introduced by DeBoer, 10.
+Read first time January 09, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to health care; to adopt the Uniform Health-
+2 Care Decisions Act; and to provide severability.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB66 LB66
+2025 2025
+1 Section 1. Sections 1 to 30 of this act shall be known and may be
+2 cited as the Uniform Health-Care Decisions Act.
+3 Sec. 2. In the Uniform Health-Care Decisions Act:
+4 (1) Advance health-care directive means a power of attorney for
+5 health care, health-care instruction, or both. The term includes an
+6 advance mental health-care directive.
+7 (2) Advance mental health-care directive means a power of attorney
+8 for health care, health-care instruction, or both, created under section
+9 9 of this act.
+10 (3) Agent means an individual appointed under a power of attorney
+11 for health care to make a health-care decision for the individual who
+12 made the appointment. The term includes a co-agent or alternate agent
+13 appointed under section 20 of this act.
+14 (4) Capacity means having capacity under section 3 of this act.
+15 (5) Cohabitant means each of two individuals who have been living
+16 together as a couple for at least one year after each became an adult or
+17 was emancipated and who are not married to each other.
+18 (6) Default surrogate means an individual authorized under section
+19 12 of this act to make a health-care decision for another individual.
+20 (7) Electronic means relating to technology having electrical,
+21 digital, magnetic, wireless, optical, electromagnetic, or similar
+22 capabilities.
+23 (8) Family member means a spouse, adult child, parent, or
+24 grandparent, or an adult descendant of a spouse, child, parent, or
+25 grandparent.
+26 (9) Guardian means a person appointed under other law by a court to
+27 make decisions regarding the personal affairs of an individual, which may
+28 include health-care decisions. The term does not include a guardian ad
+29 litem.
+30 (10) Health care means care or treatment or a service or procedure
+31 to maintain, monitor, diagnose, or otherwise affect an individual's
+-2-
+
+LB66 LB66
+2025 2025
+1 physical or mental illness, injury, or condition. The term includes
+2 mental health care.
+3 (11) Health-care decision means a decision made by an individual or
+4 the individual's surrogate regarding the individual's health care,
+5 including:
+6 (A) selection or discharge of a health-care professional or health-
+7 care institution;
+8 (B) approval or disapproval of a diagnostic test, surgical
+9 procedure, medication, therapeutic intervention, or other health care;
+10 and
+11 (C) direction to provide, withhold, or withdraw artificial nutrition
+12 or hydration, mechanical ventilation, or other health care.
+13 (12) Health-care institution means a facility or agency licensed,
+14 certified, or otherwise authorized or permitted by other law to provide
+15 health care in this state in the ordinary course of business.
+16 (13) Health-care instruction means a direction, whether or not in a
+17 record, made by an individual that indicates the individual's goals,
+18 preferences, or wishes concerning the provision, withholding, or
+19 withdrawal of health care. The term includes a direction intended to be
+20 effective if a specified condition arises.
+21 (14) Health-care professional means a physician or other individual
+22 licensed, certified, or otherwise authorized or permitted by other law of
+23 this state to provide health care in this state in the ordinary course of
+24 business or the practice of the physician's or individual's profession.
+25 (15) Individual means an adult or emancipated minor.
+26 (16) Mental health care means care or treatment or a service or
+27 procedure to maintain, monitor, diagnose, or otherwise affect an
+28 individual's mental illness or other psychiatric, psychological, or
+29 psychosocial condition.
+30 (17) Nursing home means a nursing facility as defined in section
+31 1919(a)(1) of the Social Security Act, 42 U.S.C. 1396r(a)(1), as amended,
+-3-
+
+LB66 LB66
+2025 2025
+1 or skilled nursing facility as defined in section 1819(a)(1) of the
+2 Social Security Act, 42 U.S.C. 1395i–3(a)(1), as amended.
+3 (18) Person means an individual, estate, business or nonprofit
+4 entity, government or governmental subdivision, agency, or
+5 instrumentality, or other legal entity.
+6 (19) Person interested in the welfare of the individual means:
+7 (A) the individual's surrogate;
+8 (B) a family member of the individual;
+9 (C) the cohabitant of the individual;
+10 (D) a public entity providing health-care case management or
+11 protective services to the individual;
+12 (E) a person appointed under other law to make decisions for the
+13 individual under a power of attorney for finances; or
+14 (F) a person that has an ongoing personal or professional
+15 relationship with the individual, including a person that has provided
+16 educational or health-care services or supported decision making to the
+17 individual.
+18 (20) Physician means an individual authorized to practice as a
+19 physician or an osteopathic physician under the Medicine and Surgery
+20 Practice Act.
+21 (21) Power of attorney for health care means a record in which an
+22 individual appoints an agent to make health-care decisions for the
+23 individual.
+24 (22) Reasonably available means being able to be contacted without
+25 undue effort and being willing and able to act in a timely manner
+26 considering the urgency of an individual's health-care situation. When
+27 used to refer to an agent or default surrogate, the term includes being
+28 willing and able to comply with the duties under section 17 of this act
+29 in a timely manner considering the urgency of an individual's health-care
+30 situation.
+31 (23) Record means information:
+-4-
+
+LB66 LB66
+2025 2025
+1 (A) inscribed on a tangible medium; or
+2 (B) stored in an electronic or other medium and retrievable in
+3 perceivable form.
+4 (24) Responsible health-care professional means:
+5 (A) a health-care professional designated by an individual or the
+6 individual's surrogate to have primary responsibility for the
+7 individual's health care or for overseeing a course of treatment; or
+8 (B) in the absence of a designation under subdivision (A) or, if the
+9 professional designated under subdivision (A) is not reasonably
+10 available, a health-care professional who has primary responsibility for
+11 overseeing the individual's health care or for overseeing a course of
+12 treatment.
+13 (25) Sign means, with present intent to authenticate or adopt a
+14 record:
+15 (A) to execute or adopt a tangible symbol; or
+16 (B) to attach to or logically associate with the record an
+17 electronic symbol, sound, or process.
+18 (26) State means a state of the United States, the District of
+19 Columbia, Puerto Rico, the United States Virgin Islands, or any other
+20 territory or possession subject to the jurisdiction of the United States.
+21 The term includes a federally recognized Indian tribe.
+22 (27) Supported decision making means assistance, from one or more
+23 persons of an individual's choosing, that helps the individual make or
+24 communicate a decision, including by helping the individual understand
+25 the nature and consequences of the decision.
+26 (28) Surrogate means:
+27 (A) an agent;
+28 (B) a default surrogate; or
+29 (C) a guardian authorized to make health-care decisions.
+30 Sec. 3. (a) An individual has capacity for the purpose of the
+31 Uniform Health-Care Decisions Act if the individual:
+-5-
+
+LB66 LB66
+2025 2025
+1 (1) is willing and able to communicate a decision independently or
+2 with appropriate services, technological assistance, supported decision
+3 making, or other reasonable accommodation; and
+4 (2) in making or revoking:
+5 (A) a health-care decision, understands the nature and consequences
+6 of the decision, including the primary risks and benefits of the
+7 decision;
+8 (B) a health-care instruction, understands the nature and
+9 consequences of the instruction, including the primary risks and benefits
+10 of the choices expressed in the instruction; and
+11 (C) an appointment of an agent under a health-care power of attorney
+12 or identification of a default surrogate under subdivision (b)(1) of
+13 section 12 of this act, recognizes the identity of the individual being
+14 appointed or identified and understands the general nature of the
+15 relationship of the individual making the appointment or identification
+16 with the individual being appointed or identified.
+17 (b) The right of an individual who has capacity to make a decision
+18 about the individual's health care is not affected by whether the
+19 individual creates or revokes an advance health-care directive.
+20 Sec. 4. (a) An individual is presumed to have capacity to make or
+21 revoke a health-care decision, health-care instruction, and power of
+22 attorney for health care unless:
+23 (1) a court has found the individual lacks capacity to do so; or
+24 (2) the presumption is rebutted under subsection (b) of this
+25 section.
+26 (b) Subject to sections 5 and 6 of this act, a presumption under
+27 subsection (a) of this section may be rebutted by a finding that the
+28 individual lacks capacity:
+29 (1) subject to subsection (c) of this section, made on the basis of
+30 a contemporaneous examination by any of the following:
+31 (A) a physician;
+-6-
+
+LB66 LB66
+2025 2025
+1 (B) a psychologist licensed or otherwise authorized to practice in
+2 this state;
+3 (C) an individual with training and expertise in the finding of lack
+4 of capacity who is licensed or otherwise authorized to practice in this
+5 state as:
+6 (i) a physician assistant;
+7 (ii) an advanced practice registered nurse; or
+8 (iii) a social worker; or
+9 (D) a responsible health-care professional not described in
+10 subdivision (A), (B), or (C) if:
+11 (i) the individual about whom the finding is to be made is
+12 experiencing a health condition requiring a decision regarding health-
+13 care treatment to be made promptly to avoid loss of life or serious harm
+14 to the health of the individual; and
+15 (ii) an individual listed in subdivision (A), (B), or (C) is not
+16 reasonably available;
+17 (2) made in accordance with accepted standards of the profession and
+18 the scope of practice of the individual making the finding and to a
+19 reasonable degree of certainty; and
+20 (3) documented in a record signed by the individual making the
+21 finding that includes an opinion of the cause, nature, extent, and
+22 probable duration of the lack of capacity.
+23 (c) The finding under subsection (b) of this section may not be made
+24 by:
+25 (1) a family member of the individual presumed to have capacity;
+26 (2) the cohabitant of the individual or a descendant of the
+27 cohabitant; or
+28 (3) the individual's surrogate, a family member of the surrogate, or
+29 a descendant of the surrogate.
+30 (d) If the finding under subsection (b) of this section was based on
+31 a condition the individual no longer has or a responsible health-care
+-7-
+
+LB66 LB66
+2025 2025
+1 professional subsequently has good cause to believe the individual has
+2 capacity, the individual is presumed to have capacity unless a court
+3 finds the individual lacks capacity or the presumption is rebutted under
+4 subsection (b) of this section.
+5 Sec. 5. (a) As soon as reasonably feasible, an individual who makes
+6 a finding under subsection (b) of section 4 of this act shall inform the
+7 individual about whom the finding was made or the individual's
+8 responsible health-care professional of the finding.
+9 (b) As soon as reasonably feasible, a responsible health-care
+10 professional who is informed of a finding under subsection (b) of section
+11 4 of this act shall inform the individual about whom the finding was made
+12 and the individual's surrogate.
+13 (c) An individual found under subsection (b) of section 4 of this
+14 act to lack capacity may object to the finding:
+15 (1) by orally informing a responsible health-care professional;
+16 (2) in a record provided to a responsible health-care professional
+17 or the health-care institution in which the individual resides or is
+18 receiving care; or
+19 (3) by another act that clearly indicates the individual's
+20 objection.
+21 (d) If the individual objects under subsection (c) of this section,
+22 the finding under subsection (b) of section 4 of this act is not
+23 sufficient to rebut a presumption of capacity in subsection (a) of
+24 section 4 of this act and the individual must be treated as having
+25 capacity unless:
+26 (1) the individual withdraws the objection;
+27 (2) a court finds the individual lacks the presumed capacity;
+28 (3) the individual is experiencing a health condition requiring a
+29 decision regarding health-care treatment to be made promptly to avoid
+30 imminent loss of life or serious harm to the health of the individual; or
+31 (4) subject to subsection (e) of this section, the finding is
+-8-
+
+LB66 LB66
+2025 2025
+1 confirmed by a second finding made by an individual authorized under
+2 subdivision (b)(1) of section 4 of this act who:
+3 (A) did not make the first finding;
+4 (B) is not a family member of the individual who made the first
+5 finding; and
+6 (C) is not the cohabitant of the individual who made the first
+7 finding or a descendant of the cohabitant.
+8 (e) A second finding that the individual lacks capacity under
+9 subdivision (d)(4) of this section is not sufficient to rebut the
+10 presumption of capacity if the individual is requesting the provision or
+11 continuation of life-sustaining treatment and the finding is being used
+12 to make a decision to withhold or withdraw the treatment.
+13 (f) As soon as reasonably feasible, a health-care professional who
+14 is informed of an objection under subsection (c) of this section shall:
+15 (1) communicate the objection to a responsible health-care
+16 professional; and
+17 (2) document the objection and the date of the objection in the
+18 individual's medical record or communicate the objection and the date of
+19 the objection to an administrator with responsibility for medical records
+20 of the health-care institution providing health care to the individual,
+21 who shall document the objection and the date of the objection in the
+22 individual's medical record.
+23 Sec. 6. (a) An individual found under subsection (b) of section 4
+24 of this act to lack capacity, a responsible health-care professional, the
+25 health-care institution providing health care to the individual, or a
+26 person interested in the welfare of the individual may petition the
+27 county court in the county in which the individual resides or is located
+28 to determine whether the individual lacks capacity.
+29 (b) The court in which a petition under subsection (a) of this
+30 section is filed shall appoint legal counsel to represent the individual
+31 if the individual does not have legal counsel. The court shall hear the
+-9-
+
+LB66 LB66
+2025 2025
+1 petition as soon as possible, but not later than seven days after the
+2 petition is filed. As soon as possible, but not later than seven days
+3 after the hearing, the court shall determine whether the individual lacks
+4 capacity. The court may determine the individual lacks capacity only if
+5 the court finds by clear and convincing evidence that the individual
+6 lacks capacity.
+7 Sec. 7. (a) An individual may create a health-care instruction that
+8 expresses the individual's preferences for future health care, including
+9 preferences regarding:
+10 (1) health-care professionals or health-care institutions;
+11 (2) how a health-care decision will be made and communicated;
+12 (3) persons that should or should not be consulted regarding a
+13 health-care decision;
+14 (4) a person to serve as guardian for the individual if one is
+15 appointed; and
+16 (5) an individual to serve as a default surrogate.
+17 (b) A health-care professional to whom an individual communicates or
+18 provides an instruction under subsection (a) of this section shall
+19 document the instruction and the date of the instruction in the
+20 individual's medical record or communicate the instruction and date of
+21 the instruction to an administrator with responsibility for medical
+22 records of the health-care institution providing health care to the
+23 individual, who shall document the instruction and the date of the
+24 instruction in the individual's medical record.
+25 (c) A health-care instruction made by an individual that conflicts
+26 with an earlier health-care instruction made by the individual, including
+27 an instruction documented in a medical order, revokes the earlier
+28 instruction to the extent of the conflict.
+29 (d) A health-care instruction may be in the same record as a power
+30 of attorney for health care.
+31 Sec. 8. (a) An individual may create a power of attorney for health
+-10-
+
+LB66 LB66
+2025 2025
+1 care to appoint an agent to make health-care decisions for the
+2 individual.
+3 (b) An individual is disqualified from acting as agent for an
+4 individual who lacks capacity to make health-care decisions if:
+5 (1) a court finds that the potential agent poses a danger to the
+6 individual's well-being, even if the court does not issue a protection
+7 order against the potential agent; or
+8 (2) the potential agent is an owner, operator, employee, or
+9 contractor of a nursing home or an assisted-living facility as defined in
+10 section 71-5903 in which the individual resides or is receiving care,
+11 unless the owner, operator, employee, or contractor is a family member of
+12 the individual, the cohabitant of the individual, or a descendant of the
+13 cohabitant.
+14 (c) A health-care decision made by an agent is effective without
+15 judicial approval.
+16 (d) A power of attorney for health care must be in a record, signed
+17 by the individual creating the power, and signed by an adult witness who:
+18 (1) reasonably believes the act of the individual to create the
+19 power of attorney is voluntary and knowing;
+20 (2) is not:
+21 (A) the agent appointed by the individual;
+22 (B) the agent's spouse or cohabitant;
+23 (C) if the individual resides or is receiving care in a nursing home
+24 or an assisted-living facility as defined in section 71-5903, the owner,
+25 operator, employee, or contractor of the nursing home or assisted-living
+26 facility; and
+27 (3) is present when the individual signs the power of attorney or
+28 when the individual represents that the power of attorney reflects the
+29 individual's wishes.
+30 (e) A witness under subsection (d) of this section is considered
+31 present if the witness and the individual are:
+-11-
+
+LB66 LB66
+2025 2025
+1 (1) physically present in the same location;
+2 (2) using electronic means that allow for real-time audio and visual
+3 transmission and communication in real time to the same extent as if the
+4 witness and the individual were physically present in the same location;
+5 or
+6 (3) able to speak to and hear each other in real time through audio
+7 connection if:
+8 (A) the identity of the individual is personally known to the
+9 witness; or
+10 (B) the witness is able to authenticate the identity of the
+11 individual by receiving accurate answers from the individual that enable
+12 the authentication.
+13 (f) A power of attorney for health care may include a health-care
+14 instruction.
+15 Sec. 9. (a) An individual may create an advance health-care
+16 directive that addresses only mental health care for the individual. The
+17 directive may include a health-care instruction, a power of attorney for
+18 health care, or both.
+19 (b) A health-care instruction under this section may include the
+20 individual's:
+21 (1) general philosophy and objectives regarding mental health care;
+22 and
+23 (2) specific goals, preferences, and wishes regarding the provision,
+24 withholding, or withdrawal of a form of mental health care, including:
+25 (A) preferences regarding professionals, programs, and facilities;
+26 (B) admission to a mental-health facility, including duration of
+27 admission;
+28 (C) preferences regarding medications;
+29 (D) refusal to accept a specific type of mental health care,
+30 including a medication; and
+31 (E) preferences regarding crisis intervention.
+-12-
+
+LB66 LB66
+2025 2025
+1 (c) A power of attorney for health care under this section may
+2 appoint an agent to make decisions only for mental health care.
+3 (d) An individual may direct in an advance mental health-care
+4 directive that, if the individual is experiencing a psychiatric or
+5 psychological event specified in the directive, the individual may not
+6 revoke the directive or a part of the directive.
+7 (e) If an advance mental health-care directive includes a direction
+8 under subsection (d) of this section, the advance mental health-care
+9 directive must be in a record that is separate from any other advance
+10 health-care directive created by the individual and signed by the
+11 individual creating the advance mental health-care directive and at least
+12 two adult witnesses who:
+13 (1) attest that to the best of their knowledge the individual:
+14 (A) understood the nature and consequences of the direction,
+15 including its risks and benefits; and
+16 (B) made the direction voluntarily and without coercion or undue
+17 influence;
+18 (2) are not:
+19 (A) the agent appointed by the individual;
+20 (B) the agent's spouse or cohabitant; and
+21 (C) if the individual resides in a nursing home or an assisted-
+22 living facility as defined in section 71-5903, the owner, operator,
+23 employee, or contractor of the nursing home or assisted-living facility
+24 as defined in section 71-5903; and
+25 (3) are physically present in the same location as the individual.
+26 Sec. 10. (a) If a direction in an advance mental health-care
+27 directive of an individual conflicts with a direction in another advance
+28 health-care directive of the individual, the later direction revokes the
+29 earlier direction to the extent of the conflict.
+30 (b) An appointment of an agent to make decisions only for mental
+31 health care for an individual does not revoke an earlier appointment of
+-13-
+
+LB66 LB66
+2025 2025
+1 an agent to make other health-care decisions for the individual. A later
+2 appointment revokes the authority of an agent under the earlier
+3 appointment to make decisions about mental health care unless otherwise
+4 specified in the power of attorney making the later appointment.
+5 (c) An appointment of an agent to make health-care decisions for an
+6 individual other than decisions about mental health care made after
+7 appointment of an agent authorized to make only mental health-care
+8 decisions does not revoke the appointment of the agent authorized to make
+9 only mental health-care decisions.
+10 Sec. 11. The following form may be used to create an advance
+11 health-care directive:
+12 ADVANCE HEALTH-CARE DIRECTIVE
+13 HOW YOU CAN USE THIS FORM
+14 You can use this form if you wish to name someone to make health-
+15 care decisions for you in case you cannot make decisions for yourself.
+16 This is called giving the person a power of attorney for health care.
+17 This person is called your Agent.
+18 You can also use this form to state your wishes, preferences, and
+19 goals for health care, and to say if you want to be an organ donor after
+20 you die.
+21 YOUR NAME AND DATE OF BIRTH
+22 Name: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23 Date of birth: . . . . . . . . . . . . . . . . . . . . . . . . . .
+24 PART A: NAMING AN AGENT
+25 This part lets you name someone else to make health-care decisions
+26 for you. You may leave any item blank.
+27 1. NAMING AN AGENT
+28 I want the following person to make health-care decisions for me if
+29 I cannot make decisions for myself:
+30 Name: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31 Optional contact information (it is helpful to include information
+-14-
+
+LB66 LB66
+2025 2025
+1 such as address, phone, and email):
+2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3 2. NAMING AN ALTERNATE AGENT
+4 I want the following person to make health-care decisions for me if
+5 I cannot and my Agent is not able or available to make them for me:
+6 Name: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7 Optional contact information (it is helpful to include information
+8 such as address, phone, and email):
+9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10 3. LIMITING YOUR AGENT'S AUTHORITY
+11 I give my Agent the power to make all health-care decisions for me
+12 if I cannot make those decisions for myself, except the following:
+13 (If you do not add a limitation here, your Agent will be able to
+14 make all health-care decisions that an Agent is permitted to make under
+15 state law.)
+16 PART B: HEALTH-CARE INSTRUCTIONS
+17 This part lets you state your priorities for health care and to
+18 state types of health care you do and do not want.
+19 1. INSTRUCTIONS ABOUT LIFE-SUSTAINING TREATMENT
+20 This section gives you the opportunity to say how you want your
+21 Agent to act while making decisions for you. You may mark or initial each
+22 choice. You also may leave any choice blank.
+23 Treatment. Medical treatment needed to keep me alive but not needed
+24 for comfort or any other purpose should (mark or initial all that apply):
+25 (....) Always be given to me. (If you mark or initial this choice,
+26 you should not mark or initial other choices in this "treatment"
+27 section.)
+28 (....) Not be given to me if I have a condition that is not curable
+29 and is expected to cause my death soon, even if treated.
+30 (....) Not be given to me if I am unconscious and I am not expected
+31 to be conscious again.
+-15-
+
+LB66 LB66
+2025 2025
+1 (....) Not be given to me if I have a medical condition from which I
+2 am not expected to recover that prevents me from communicating with
+3 people I care about, caring for myself, and recognizing family and
+4 friends.
+5 (....) Other (write what you want or do not want):
+6 Food and liquids. If I can't swallow and staying alive requires me
+7 to get food or liquids through a tube or other means for the rest of my
+8 life, then food or liquids should (mark or initial all that apply):
+9 (....) Always be given to me. (If you mark or initial this choice,
+10 you should not mark or initial other choices in this "food and liquids"
+11 section.)
+12 (....) Not be given to me if I have a condition that is not curable
+13 and is expected to cause me to die soon, even if treated.
+14 (....) Not be given to me if I am unconscious and am not expected to
+15 be conscious again.
+16 (....) Not be given to me if I have a medical condition from which I
+17 am not expected to recover that prevents me from communicating with
+18 people I care about, caring for myself, and recognizing family and
+19 friends.
+20 (....) Other (write what you want or do not want):
+21 Pain relief. If I am in significant pain, care that will keep me
+22 comfortable but is likely to shorten my life should (mark or initial all
+23 that apply):
+24 (....) Always be given to me. (If you mark or initial this choice,
+25 you should not mark or initial other choices in this "pain relief"
+26 section.)
+27 (....) Never be given to me. (If you mark or initial this choice,
+28 you should not mark or initial other choices in this "pain relief"
+29 section.)
+30 (....) Be given to me if I have a condition that is not curable and
+31 is expected to cause me to die soon, even if treated.
+-16-
+
+LB66 LB66
+2025 2025
+1 (....) Be given to me if I am unconscious and am not expected to be
+2 conscious again.
+3 (....) Be given to me if I have a medical condition from which I am
+4 not expected to recover that prevents me from communicating with people I
+5 care about, caring for myself, and recognizing family and friends.
+6 (....) Other (write what you want or do not want):
+7 2. MY PRIORITIES
+8 You can use this section to indicate what is important to you, and
+9 what is not important to you. This information can help your Agent make
+10 decisions for you if you cannot. It also helps others understand your
+11 preferences.
+12 You may mark or initial each choice. You also may leave any choice
+13 blank.
+14 Staying alive as long as possible even if I have substantial
+15 physical limitations is:
+16 (....) Very important
+17 (....) Somewhat important
+18 (....) Not important
+19 Staying alive as long as possible even if I have substantial mental
+20 limitations is:
+21 (....) Very important
+22 (....) Somewhat important
+23 (....) Not important
+24 Being free from significant pain is:
+25 (....) Very important
+26 (....) Somewhat important
+27 (....) Not important
+28 Being independent is:
+29 (....) Very important
+30 (....) Somewhat important
+31 (....) Not important
+-17-
+
+LB66 LB66
+2025 2025
+1 Having my Agent talk with my family before making decisions about my
+2 care is:
+3 (....) Very important
+4 (....) Somewhat important
+5 (....) Not important
+6 Having my Agent talk with my friends before making decisions about
+7 my care is:
+8 (....) Very important
+9 (....) Somewhat important
+10 (....) Not important
+11 3. OTHER INSTRUCTIONS
+12 You can write in this section more information about your goals,
+13 values, and preferences for treatment, including care you want or do not
+14 want. You can also use this section to name anyone who you do not want to
+15 make decisions for you under any conditions.
+16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18 PART C: OPTIONAL SPECIAL POWERS AND GUIDANCE
+19 This part lets you give your Agent additional powers, and to provide
+20 more guidance about your wishes. You may mark or initial each choice. You
+21 also may leave any choice blank.
+22 1. OPTIONAL SPECIAL POWERS
+23 My Agent can do the following things ONLY if I have marked or
+24 initialed them below:
+25 (....) Admit me as a voluntary patient to a facility for mental
+26 health treatment for up to ...... days (write in the number of days you
+27 want like 7, 14, 30 or another number).
+28 (If I do not mark or initial this choice, my Agent MAY NOT admit me
+29 as a voluntary patient to this type of facility.)
+30 (....) Place me in a nursing home for more than one hundred days
+31 even if my needs can be met somewhere else, I am not terminally ill, and
+-18-
+
+LB66 LB66
+2025 2025
+1 I object.
+2 (If I do not mark or initial this choice, my Agent MAY NOT do this.)
+3 2. ACCESS TO MY HEALTH INFORMATION
+4 My Agent may obtain, examine, and share information about my health
+5 needs and health care if I am not able to make decisions for myself. If I
+6 mark or initial below, my Agent may also do that at any time my Agent
+7 thinks it will help me.
+8 (....) I give my Agent permission to obtain, examine, and share
+9 information about my health needs and health care whenever my Agent
+10 thinks it will help me.
+11 3. FLEXIBILITY FOR MY AGENT
+12 Mark or initial below if you want to give your Agent flexibility in
+13 following instructions you provide in this form. If you do not, your
+14 Agent must follow the instructions even if your Agent thinks something
+15 else would be better for you.
+16 (....) I give my Agent permission to be flexible in applying these
+17 instructions if my Agent thinks it would be in my best interest based on
+18 what my Agent knows about me.
+19 4. NOMINATION OF GUARDIAN
+20 You can say who you would want as your guardian if you needed one. A
+21 guardian is a person appointed by a court to make decisions for someone
+22 who cannot make decisions. Filling this out does NOT mean you want or
+23 need a guardian.
+24 If a court appoints a guardian to make personal decisions for me, I
+25 want the court to choose:
+26 (....) My Agent named in this form. If my Agent cannot be a
+27 guardian, I want the Alternate Agent named in this form.
+28 (....) Other (write who you would want and their contact
+29 information):
+30 PART D: ORGAN DONATION
+31 This part lets you donate your organs after you die. You may leave
+-19-
+
+LB66 LB66
+2025 2025
+1 any item blank.
+2 1. DONATION
+3 You may mark or initial only one choice.
+4 (....) I donate my organs, tissues, and other body parts after I
+5 die, even if it requires maintaining treatments that conflict with other
+6 instructions I have put in this form, EXCEPT for those I list below (list
+7 any body parts you do NOT want to donate):
+8 (....) I do not want my organs, tissues, or body parts donated to
+9 anybody for any reason. (If you mark or initial this choice, you should
+10 skip the "purpose of donation" section.)
+11 2. PURPOSE OF DONATION
+12 You may mark or initial all that apply. (If you do not mark or
+13 initial any of the purposes below, your donation can be used for all of
+14 them.)
+15 Organs, tissues, or body parts that I donate may be used for:
+16 (....) Transplant
+17 (....) Therapy
+18 (....) Research
+19 (....) Education
+20 (....) All of the above
+21 PART E: SIGNATURES
+22 YOUR SIGNATURE
+23 Sign your name: . . . . . . . . . . . . . . . . . . . . . . . . . .
+24 Today's date: . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25 City/Village and State (optional): . . . . . . . . . . . . . .
+26 SIGNATURE OF A WITNESS
+27 You need a witness if you are using this form to name an Agent. The
+28 witness must be an adult and cannot be the person you are naming as Agent
+29 or the Agent's spouse or someone the Agent lives with as a couple. If you
+30 live or are receiving care in a nursing home or an assisted living
+31 facility, the witness cannot be an employee or contractor of the home or
+-20-
+
+LB66 LB66
+2025 2025
+1 someone who owns or runs the home.
+2 Name of Witness: . . . . . . . . . . . . . . . . . . . . . . . . .
+3 Signature of Witness: . . . . . . . . . . . . . . . . . . . . . . .
+4 (Only sign as a witness if you think the person signing above is
+5 doing it voluntarily.)
+6 Date witness signed: . . . . . . . . . . . . . . . . . . . . . . .
+7 PART F: INFORMATION FOR AGENTS
+8 1. If this form names you as an Agent, you can make decisions about
+9 health care for the person who named you when the person cannot make
+10 their own.
+11 2. If you make a decision for the person, follow any instructions
+12 the person gave, including any in this form.
+13 3. If you do not know what the person would want, make the decision
+14 that you think is in the person's best interest. To figure out what is in
+15 the person's best interest, consider the person's values, preferences,
+16 and goals if you know them or can learn them. Some of these preferences
+17 may be in this form. You should also consider any behavior or
+18 communication from the person that indicates what the person currently
+19 wants.
+20 4. If this form names you as an Agent, you can also get and share
+21 the person's health information. But unless the person has said so in
+22 this form, you can get or share this information only when the person
+23 cannot make decisions about the person's health care.
+24 Sec. 12. (a) A default surrogate may make a health-care decision
+25 for an individual who lacks capacity to make health-care decisions and
+26 for whom an agent, or guardian authorized to make health-care decisions,
+27 has not been appointed or is not reasonably available.
+28 (b) Unless the individual has an advance health-care directive that
+29 indicates otherwise, a member of the following classes, in descending
+30 order of priority, who is reasonably available and not disqualified under
+31 section 14 of this act, may act as a default surrogate for the
+-21-
+
+LB66 LB66
+2025 2025
+1 individual:
+2 (1) an adult the individual has identified, other than in a power of
+3 attorney for health care, to make a health-care decision for the
+4 individual if the individual cannot make the decision;
+5 (2) the individual's spouse, unless:
+6 (A) a petition for annulment, divorce, dissolution of marriage,
+7 legal separation, or termination has been filed and not dismissed or
+8 withdrawn;
+9 (B) a decree of annulment, divorce, dissolution of marriage, legal
+10 separation, or termination has been issued;
+11 (C) the individual and the spouse have agreed in a record to a legal
+12 separation; or
+13 (D) the spouse has abandoned the individual for more than one year;
+14 (3) the individual's adult child or parent;
+15 (4) the individual's cohabitant;
+16 (5) the individual's adult sibling;
+17 (6) the individual's adult grandchild or grandparent;
+18 (7) an adult not listed in subdivisions (1) through (6) who has
+19 assisted the individual with supported decision making routinely during
+20 the preceding six months;
+21 (8) the individual's adult stepchild not listed in subdivisions (1)
+22 through (7) whom the individual actively parented during the stepchild's
+23 minor years and with whom the individual has an ongoing relationship; or
+24 (9) an adult not listed in subdivisions (1) through (8) who has
+25 exhibited special care and concern for the individual and is familiar
+26 with the individual's personal values.
+27 (c) A responsible health-care professional may require an individual
+28 who assumes authority to act as a default surrogate to provide a
+29 declaration in a record under penalty of perjury stating facts and
+30 circumstances reasonably sufficient to establish the authority.
+31 (d) If a responsible health-care professional reasonably determines
+-22-
+
+LB66 LB66
+2025 2025
+1 that an individual who assumed authority to act as a default surrogate is
+2 not willing or able to comply with a duty under section 17 of this act or
+3 fails to comply with the duty in a timely manner, the professional may
+4 recognize the individual next in priority under subsection (b) of this
+5 section as the default surrogate.
+6 (e) A health-care decision made by a default surrogate is effective
+7 without judicial approval.
+8 Sec. 13. (a) A default surrogate who assumes authority under
+9 section 12 of this act shall inform a responsible health-care
+10 professional if two or more members of a class under subsection (b) of
+11 section 12 of this act have assumed authority to act as default
+12 surrogates and the members do not agree on a health-care decision.
+13 (b) A responsible health-care professional shall comply with the
+14 decision of a majority of the members of the class with highest priority
+15 under subsection (b) of section 12 of this act who have communicated
+16 their views to the professional and the professional reasonably believes
+17 are acting consistent with their duties under section 17 of this act.
+18 (c) If a responsible health-care professional is informed that the
+19 members of the class who have communicated their views to the
+20 professional are evenly divided concerning the health-care decision, the
+21 professional shall make a reasonable effort to solicit the views of
+22 members of the class who are reasonably available but have not yet
+23 communicated their views to the professional. The professional, after the
+24 solicitation, shall comply with the decision of a majority of the members
+25 who have communicated their views to the professional and the
+26 professional reasonably believes are acting consistent with their duties
+27 under section 17 of this act.
+28 (d) If the class remains evenly divided after the effort is made
+29 under subsection (c) of this section, the health-care decision must be
+30 made as provided by other law of this state regarding the treatment of an
+31 individual who is found to lack capacity.
+-23-
+
+LB66 LB66
+2025 2025
+1 Sec. 14. (a) An individual for whom a health-care decision would be
+2 made may disqualify another individual from acting as default surrogate
+3 for the first individual. The disqualification must be in a record signed
+4 by the first individual or communicated verbally or nonverbally to the
+5 individual being disqualified, another individual, or a responsible
+6 health-care professional. Disqualification under this subsection is
+7 effective even if made by an individual who lacks capacity to make an
+8 advance directive if the individual clearly communicates a desire that
+9 the individual being disqualified not make health-care decisions for the
+10 individual.
+11 (b) An individual is disqualified from acting as a default surrogate
+12 for an individual who lacks capacity to make health-care decisions if:
+13 (1) a court finds that the potential default surrogate poses a
+14 danger to the individual's well-being, even if the court does not issue a
+15 protection order against the potential surrogate;
+16 (2) the potential default surrogate is an owner, operator, employee,
+17 or contractor of a nursing home or an assisted-living facility as defined
+18 in section 71-5903 in which the individual is residing or receiving care
+19 unless the owner, operator, employee, or contractor is a family member of
+20 the individual, the cohabitant of the individual, or a descendant of the
+21 cohabitant; or
+22 (3) the potential default surrogate refuses to provide a timely
+23 declaration under subsection (c) of section 12 of this act.
+24 Sec. 15. (a) An individual may revoke the appointment of an agent,
+25 the designation of a default surrogate, or a health-care instruction in
+26 whole or in part, unless:
+27 (1) a court finds the individual lacks capacity to do so;
+28 (2) the individual is found under subsection (b) of section 4 of
+29 this act to lack capacity to do so and, if the individual objects to the
+30 finding, the finding is confirmed under subdivision (d)(4) of section 5
+31 of this act; or
+-24-
+
+LB66 LB66
+2025 2025
+1 (3) the individual created an advance mental health-care directive
+2 that includes the provision under subsection (d) of section 9 of this act
+3 and the individual is experiencing the psychiatric or psychological event
+4 specified in the directive.
+5 (b) Revocation under subsection (a) of this section may be by any
+6 act of the individual that clearly indicates that the individual intends
+7 to revoke the appointment, designation, or instruction, including an oral
+8 statement to a health-care professional.
+9 (c) Except as provided in section 10 of this act, an advance health-
+10 care directive of an individual that conflicts with another advance
+11 health-care directive of the individual revokes the earlier directive to
+12 the extent of the conflict.
+13 (d) Unless otherwise provided in an individual's advance health-care
+14 directive appointing an agent, the appointment of a spouse of an
+15 individual as agent for the individual is revoked if:
+16 (1) a petition for annulment, divorce, dissolution of marriage,
+17 legal separation, or termination has been filed and not dismissed or
+18 withdrawn;
+19 (2) a decree of annulment, divorce, dissolution of marriage, legal
+20 separation, or termination has been issued;
+21 (3) the individual and the spouse have agreed in a record to a legal
+22 separation; or
+23 (4) the spouse has abandoned the individual for more than one year.
+24 Sec. 16. (a) An advance health-care directive created outside this
+25 state is valid if it complies with:
+26 (1) the law of the state specified in the directive or, if a state
+27 is not specified, the state in which the individual created the
+28 directive; or
+29 (2) the Uniform Health-Care Decisions Act.
+30 (b) A person may assume without inquiry that an advance health-care
+31 directive is genuine, valid, and still in effect, and may implement and
+-25-
+
+LB66 LB66
+2025 2025
+1 rely on it, unless the person has good cause to believe the directive is
+2 invalid or has been revoked.
+3 (c) An advance health-care directive, revocation of a directive, or
+4 a signature on a directive or revocation may not be denied legal effect
+5 or enforceability solely because it is in electronic form.
+6 (d) Evidence relating to an advance health-care directive,
+7 revocation of a directive, or a signature on a directive or revocation
+8 may not be excluded in a proceeding solely because the evidence is in
+9 electronic form.
+10 (e) The Uniform Health-Care Decisions Act does not affect the
+11 validity of an electronic record or signature that is valid under the
+12 Uniform Electronic Transactions Act.
+13 (f) If the Uniform Health-Care Decisions Act conflicts with other
+14 law of this state relating to the creation, execution, implementation, or
+15 revocation of an advance health-care directive, the Uniform Health-Care
+16 Decisions Act prevails.
+17 Sec. 17. (a) An agent or default surrogate has a fiduciary duty to
+18 the individual for whom the agent or default surrogate is acting when
+19 exercising or purporting to exercise a power under section 18 of this
+20 act.
+21 (b) An agent or default surrogate shall make a health-care decision
+22 in accordance with the direction of the individual in an advance health-
+23 care directive and other goals, preferences, and wishes of the individual
+24 to the extent known or reasonably ascertainable by the agent or default
+25 surrogate.
+26 (c) If there is not a direction in an advance health-care directive
+27 and the goals, preferences, and wishes of the individual regarding a
+28 health-care decision are not known or reasonably ascertainable by the
+29 agent or default surrogate, the agent or default surrogate shall make the
+30 decision in accordance with the agent's or default surrogate's
+31 determination of the individual's best interest.
+-26-
+
+LB66 LB66
+2025 2025
+1 (d) In determining the individual's best interest under subsection
+2 (c) of this section, the agent or default surrogate shall:
+3 (1) give primary consideration to the individual's contemporaneous
+4 communications, including verbal and nonverbal expressions;
+5 (2) consider the individual's values to the extent known or
+6 reasonably ascertainable by the agent or default surrogate; and
+7 (3) consider the risks and benefits of the potential health-care
+8 decision.
+9 (e) As soon as reasonably feasible, an agent or default surrogate
+10 who is informed of a revocation of an advance health-care directive or
+11 disqualification of the agent or default surrogate shall communicate the
+12 revocation or disqualification to a responsible health-care professional.
+13 Sec. 18. (a) Except as provided in subsection (c) of this section,
+14 the power of an agent or default surrogate commences when the individual
+15 is found under subsection (b) of section 4 of this act or by a court to
+16 lack capacity to make a health-care decision. The power ceases if the
+17 individual later is found to have capacity to make a health-care
+18 decision, or the individual objects under subsection (c) of section 5 of
+19 this act to the finding of lack of capacity under subsection (b) of
+20 section 4 of this act. The power resumes if:
+21 (1) the power ceased because the individual objected under
+22 subsection (c) of section 5 of this act; and
+23 (2) the finding of lack of capacity is confirmed under subdivision
+24 (d)(4) of section 5 of this act or a court finds that the individual
+25 lacks capacity to make a health-care decision.
+26 (b) An agent or default surrogate may request, receive, examine,
+27 copy, and consent to the disclosure of medical and other health-care
+28 information about the individual if the individual would have the right
+29 to request, receive, examine, copy, or consent to the disclosure of the
+30 information.
+31 (c) A power of attorney for health care may provide that the power
+-27-
+
+LB66 LB66
+2025 2025
+1 of an agent under subsection (b) of this section commences on
+2 appointment.
+3 (d) If no other person is authorized to do so, an agent or default
+4 surrogate may apply for public or private health insurance and benefits
+5 on behalf of the individual. An agent or default surrogate who may apply
+6 for insurance and benefits does not, solely by reason of the power, have
+7 a duty to apply for the insurance or benefits.
+8 (e) An agent or default surrogate may not consent to voluntary
+9 admission of the individual to a facility for mental health treatment
+10 unless:
+11 (1) voluntary admission is specifically authorized by the individual
+12 in an advance health-care directive in a record; and
+13 (2) the admission is for no more than the maximum of the number of
+14 days specified in the directive or [insert the number of days a guardian
+15 may commit an adult subject to guardianship without using the state's
+16 involuntary commitment procedure], whichever is less.
+17 (f) Except as provided in subsection (g) of this section, an agent
+18 or default surrogate may not consent to placement of the individual in a
+19 nursing home if the placement is intended to be for more than one hundred
+20 days if:
+21 (1) an alternative living arrangement is reasonably feasible;
+22 (2) the individual objects to the placement; or
+23 (3) the individual is not terminally ill.
+24 (g) If specifically authorized by the individual in an advance
+25 health-care directive in a record, an agent or default surrogate may
+26 consent to placement of the individual in a nursing home for more than
+27 one hundred days even if:
+28 (1) an alternative living arrangement is reasonably feasible;
+29 (2) the individual objects to the placement; and
+30 (3) the individual is not terminally ill.
+31 Sec. 19. (a) If an individual has a long-term disability requiring
+-28-
+
+LB66 LB66
+2025 2025
+1 routine treatment by artificial nutrition, hydration, or mechanical
+2 ventilation and a history of using the treatment without objection, an
+3 agent or default surrogate may not consent to withhold or withdraw the
+4 treatment unless:
+5 (1) the treatment is not necessary to sustain the individual's life
+6 or maintain the individual's well-being;
+7 (2) the individual has expressly authorized the withholding or
+8 withdrawal in a health-care instruction that has not been revoked; or
+9 (3) the individual has experienced a major reduction in health or
+10 functional ability from which the individual is not expected to recover,
+11 even with other appropriate treatment, and the individual has not:
+12 (A) given a direction inconsistent with withholding or withdrawal;
+13 or
+14 (B) communicated by verbal or nonverbal expression a desire for
+15 artificial nutrition, hydration, or mechanical ventilation.
+16 (b) A default surrogate may not make a health-care decision if,
+17 under other law of this state, the decision:
+18 (1) may not be made by a guardian; or
+19 (2) may be made by a guardian only if the court appointing the
+20 guardian specifically authorizes the guardian to make the decision.
+21 Sec. 20. (a) An individual in a power of attorney for health care
+22 may appoint multiple individuals as co-agents. Unless the power of
+23 attorney provides otherwise, each co-agent may exercise independent
+24 authority.
+25 (b) An individual in a power of attorney for health care may appoint
+26 one or more individuals to act as alternate agents if a predecessor agent
+27 resigns, dies, becomes disqualified, is not reasonably available, or
+28 otherwise is unwilling or unable to act as agent.
+29 (c) Unless the power of attorney provides otherwise, an alternate
+30 agent has the same authority as the original agent:
+31 (1) at any time the original agent is not reasonably available or is
+-29-
+
+LB66 LB66
+2025 2025
+1 otherwise unwilling or unable to act, for the duration of the
+2 unavailability, unwillingness, or inability to act; or
+3 (2) if the original agent and all other predecessor agents have
+4 resigned or died or are disqualified from acting as agent.
+5 Sec. 21. (a) A responsible health-care professional who is aware
+6 that an individual has been found to lack capacity to make a decision
+7 shall make a reasonable effort to determine if the individual has a
+8 surrogate.
+9 (b) If possible before implementing a health-care decision made by a
+10 surrogate, a responsible health-care professional as soon as reasonably
+11 feasible shall communicate to the individual the decision made and the
+12 identity of the surrogate.
+13 (c) A responsible health-care professional who makes or is informed
+14 of a finding that an individual lacks capacity to make a health-care
+15 decision or no longer lacks capacity, or that other circumstances exist
+16 that affect a health-care instruction or the authority of a surrogate, as
+17 soon as reasonably feasible, shall:
+18 (1) document the finding or circumstance in the individual's medical
+19 record; and
+20 (2) if possible, communicate to the individual and the individual's
+21 surrogate the finding or circumstance and that the individual may object
+22 under subsection (c) of section 5 of this act to the finding under
+23 subsection (b) of section 4 of this act.
+24 (d) A responsible health-care professional who is informed that an
+25 individual has created or revoked an advance health-care directive, or
+26 that a surrogate for an individual has been appointed, designated, or
+27 disqualified, shall:
+28 (1) document the information as soon as reasonably feasible in the
+29 individual's medical record; and
+30 (2) if evidence of the directive, revocation, appointment,
+31 designation, or disqualification is in a record, request a copy and, on
+-30-
+
+LB66 LB66
+2025 2025
+1 receipt, cause the copy to be included in the individual's medical
+2 record.
+3 (e) Except as provided in subsections (f) and (g) of this section, a
+4 health-care professional or health-care institution providing health care
+5 to an individual shall comply with:
+6 (1) a health-care instruction given by the individual regarding the
+7 individual's health care;
+8 (2) a reasonable interpretation by the individual's surrogate of an
+9 instruction given by the individual; and
+10 (3) a health-care decision for the individual made by the
+11 individual's surrogate in accordance with sections 17 and 18 of this act
+12 to the same extent as if the decision had been made by the individual at
+13 a time when the individual had capacity.
+14 (f) A health-care professional or a health-care institution may
+15 refuse to provide health care consistent with a health-care instruction
+16 or health-care decision if:
+17 (1) the instruction or decision is contrary to a policy of the
+18 health-care institution providing care to the individual that is based
+19 expressly on reasons of conscience and the policy was timely communicated
+20 to the individual or to the individual's surrogate;
+21 (2) the care would require health care that is not available to the
+22 professional or institution; or
+23 (3) compliance with the instruction or decision would:
+24 (A) require the professional to provide care that is contrary to the
+25 professional's religious belief or moral conviction if other law permits
+26 the professional to refuse to provide care for that reason;
+27 (B) require the professional or institution to provide care that is
+28 contrary to generally accepted health-care standards applicable to the
+29 professional or institution; or
+30 (C) violate a court order or other law.
+31 (g) A health-care professional or health-care institution that
+-31-
+
+LB66 LB66
+2025 2025
+1 refuses to provide care under subsection (f) of this section shall:
+2 (1) as soon as reasonably feasible, inform the individual, if
+3 possible, and the individual's surrogate of the refusal;
+4 (2) immediately make a reasonable effort to transfer the individual
+5 to another health-care professional or health-care institution that is
+6 willing to comply with the instruction or decision; and
+7 (3) either:
+8 (A) if care is refused under subdivision (f)(1) or (2) of this
+9 section, provide life-sustaining care and care needed to keep or make the
+10 individual comfortable, consistent with accepted medical standards to the
+11 extent feasible, until a transfer is made; or
+12 (B) if care is refused under subdivision (f)(3) of this section,
+13 provide life-sustaining care and care needed to keep or make the
+14 individual comfortable, consistent with accepted medical standards, until
+15 a transfer is made or, if the professional or institution reasonably
+16 believes that a transfer cannot be made, for at least ten days after the
+17 refusal.
+18 Sec. 22. (a) A guardian may refuse to comply with or revoke the
+19 individual's advance health-care directive only if the court appointing
+20 the guardian expressly orders the noncompliance or revocation.
+21 (b) Unless a court orders otherwise, a health-care decision made by
+22 an agent appointed by an individual subject to guardianship prevails over
+23 a decision of the guardian appointed for the individual.
+24 Sec. 23. (a) A health-care professional or health-care institution
+25 acting in good faith is not subject to civil or criminal liability or to
+26 discipline for unprofessional conduct for:
+27 (1) complying with a health-care decision made for an individual by
+28 another person if compliance is based on a reasonable belief that the
+29 person has authority to make the decision, including a decision to
+30 withhold or withdraw health care;
+31 (2) refusing to comply with a health-care decision made for an
+-32-
+
+LB66 LB66
+2025 2025
+1 individual by another person if the refusal is based on a reasonable
+2 belief that the person lacked authority or capacity to make the decision;
+3 (3) complying with an advance health-care directive based on a
+4 reasonable belief that the directive is valid;
+5 (4) refusing to comply with an advance health-care directive based
+6 on a reasonable belief that the directive is not valid, including a
+7 reasonable belief that the directive was not made by the individual or,
+8 after its creation, was substantively altered by a person other than the
+9 individual who created it;
+10 (5) determining that an individual who otherwise might be authorized
+11 to act as an agent or default surrogate is not reasonably available; or
+12 (6) complying with an individual's direction under subsection (d) of
+13 section 9 of this act.
+14 (b) An agent, default surrogate, or individual with a reasonable
+15 belief that the individual is an agent or a default surrogate is not
+16 subject to civil or criminal liability or to discipline for
+17 unprofessional conduct for a health-care decision made in a good faith
+18 effort to comply with section 17 of this act.
+19 Sec. 24. (a) A person may not:
+20 (1) intentionally falsify, in whole or in part, an advance health-
+21 care directive;
+22 (2) for the purpose of frustrating the intent of the individual who
+23 created an advance health-care directive or with knowledge that doing so
+24 is likely to frustrate the intent:
+25 (A) intentionally conceal, deface, obliterate, or delete the
+26 directive or a revocation of the directive without consent of the
+27 individual who created or revoked the directive; or
+28 (B) intentionally withhold knowledge of the existence or revocation
+29 of the directive from a responsible health-care professional or health-
+30 care institution providing health care to the individual who created or
+31 revoked the directive;
+-33-
+
+LB66 LB66
+2025 2025
+1 (3) coerce or fraudulently induce an individual to create, revoke,
+2 or refrain from creating or revoking an advance health-care directive or
+3 a part of a directive; or
+4 (4) require or prohibit the creation or revocation of an advance
+5 health-care directive as a condition for providing health care.
+6 (b) An individual who is the subject of conduct prohibited under
+7 subsection (a) of this section, or the individual's estate, has a cause
+8 of action against a person that violates subsection (a) of this section
+9 for statutory damages of twenty-five thousand dollars or actual damages
+10 resulting from the violation, whichever is greater.
+11 (c) Subject to subsection (d) of this section, an individual who
+12 makes a health-care instruction, or the individual's estate, has a cause
+13 of action against a health-care professional or health-care institution
+14 that intentionally violates section 21 of this act for statutory damages
+15 of fifty thousand dollars or actual damages resulting from the violation,
+16 whichever is greater.
+17 (d) A health-care professional who is an emergency medical responder
+18 is not liable under subsection (c) of this section for a violation of
+19 subsection (e) of section 21 of this act if:
+20 (1) the violation occurs in the course of providing care to an
+21 individual experiencing a health condition for which the professional
+22 reasonably believes the care was appropriate to avoid imminent loss of
+23 life or serious harm to the individual;
+24 (2) the failure to comply is consistent with accepted standards of
+25 the profession of the professional; and
+26 (3) the provision of care does not begin in a health-care
+27 institution in which the individual resides or was receiving care.
+28 (e) In an action under this section, a prevailing plaintiff may
+29 recover reasonable attorney's fees, court costs, and other reasonable
+30 litigation expenses.
+31 (f) A cause of action or remedy under this section is in addition to
+-34-
+
+LB66 LB66
+2025 2025
+1 any cause of action or remedy under other law.
+2 Sec. 25. (a) A physical or electronic copy of an advance health-
+3 care directive, revocation of an advance health-care directive, or
+4 appointment, designation, or disqualification of a surrogate has the same
+5 effect as the original.
+6 (b) An individual may create a certified physical copy of an advance
+7 health-care directive or revocation of an advance health-care directive
+8 that is in electronic form by affirming under penalty of perjury that the
+9 physical copy is a complete and accurate copy of the directive or
+10 revocation.
+11 Sec. 26. (a) On petition of an individual, the individual's
+12 surrogate, a health-care professional or health-care institution
+13 providing health care to the individual, or a person interested in the
+14 welfare of the individual, the court may:
+15 (1) enjoin implementation of a health-care decision made by an agent
+16 or default surrogate on behalf of the individual, on a finding that the
+17 decision is inconsistent with section 17 or 18 of this act;
+18 (2) enjoin an agent from making a health-care decision for the
+19 individual, on a finding that the individual's appointment of the agent
+20 has been revoked or the agent:
+21 (A) is disqualified under subsection (b) of section 8 of this act;
+22 (B) is unwilling or unable to comply with section 17 of this act; or
+23 (C) poses a danger to the individual's well-being;
+24 (3) enjoin another individual from acting as a default surrogate, on
+25 a finding that the other individual acting as a default surrogate did not
+26 comply with section 12 of this act or the other individual:
+27 (A) is disqualified under section 14 of this act;
+28 (B) is unwilling or unable to comply with section 17 of this act; or
+29 (C) poses a danger to the first individual's well-being; or
+30 (4) order implementation of a health-care decision made:
+31 (A) by and for the individual; or
+-35-
+
+LB66 LB66
+2025 2025
+1 (B) by an agent or default surrogate who is acting in compliance
+2 with the powers and duties of the agent or default surrogate.
+3 (b) In the Uniform Health-Care Decisions Act, advocacy for the
+4 withholding or withdrawal of health care or mental health care from an
+5 individual is not itself evidence that an agent or default surrogate, or
+6 a potential agent or default surrogate, poses a danger to the
+7 individual's well-being.
+8 (c) A proceeding under this section is governed by [cite to the
+9 state's rules of procedure or statutory provisions governing expedited
+10 proceedings and proceedings affecting persons found or alleged to lack
+11 capacity].
+12 Sec. 27. (a) The Uniform Health-Care Decisions Act does not
+13 authorize mercy killing, assisted suicide, or euthanasia.
+14 (b) The Uniform Health-Care Decisions Act does not affect other law
+15 of this state governing treatment for mental illness of an individual
+16 involuntarily committed for treatment under the Nebraska Mental Health
+17 Commitment Act or the Sex Offender Commitment Act.
+18 (c) Death of an individual caused by withholding or withdrawing
+19 health care in accordance with the Uniform Health-Care Decisions Act does
+20 not constitute a suicide or homicide or legally impair or invalidate a
+21 policy of insurance or an annuity providing a death benefit,
+22 notwithstanding any term of the policy or annuity.
+23 (d) The Uniform Health-Care Decisions Act does not create a
+24 presumption concerning the intention of an individual who has not created
+25 an advance health-care directive.
+26 (e) An advance health-care directive created before, on, or after
+27 the effective date of this act must be interpreted in accordance with
+28 other law of this state, excluding the state's choice-of-law rules, at
+29 the time the directive is implemented.
+30 Sec. 28. In applying and construing the Uniform Health-Care
+31 Decisions Act, a court shall consider the promotion of uniformity of the
+-36-
+
+LB66 LB66
+2025 2025
+1 law among jurisdictions that enact it.
+2 Sec. 29. (a) An advance health-care directive created before the
+3 effective date of this act is valid if it complies with the Uniform
+4 Health-Care Decisions Act or complied at the time of creation with the
+5 law of the state in which it was created.
+6 (b) The Uniform Health-Care Decisions Act does not affect the
+7 validity or effect of an act done before the effective date of this act.
+8 (c) An individual who assumed authority to act as default surrogate
+9 before the effective date of this act may continue to act as default
+10 surrogate until the individual for whom the default surrogate is acting
+11 has capacity or the default surrogate is disqualified, whichever occurs
+12 first.
+13 Sec. 30. The Uniform Health-Care Decisions Act applies to an
+14 advance health-care directive created before, on, or after the effective
+15 date of this act.
+16 Sec. 31. If any section in this act or any part of any section is
+17 declared invalid or unconstitutional, the declaration shall not affect
+18 the validity or constitutionality of the remaining portions.
+-37-
+
+[DELETED: yDACB6L52]
+[DELETED: ScS( A h d m a p o a fh c h i o b T t i aa(f90( A m a i a u a p o a1f h c t m a h d f t i w2m t a T t i a c o a a3a4(5( C m e o t i w h b l6t7w8(910( E m r t t h e1d m w o e o s2c3( F m m a s a c p o4g o a a d o a s c p o5g6(7m8i9l0(1t m m d o o a a i6L52]
+[DELETED: p o m i i o c T t im(t i s r t i h ci(c( a o d o a d t sp m t i o o h c0a1(2o3( H i m a f o a l4c5h6(7r m b a i t i t i g8p o w c t p w o9w0e1(2l3t4b5(6( M h c m c o t o a s o7p t m m d o o a a8i m i o o p p o9p0( N h m a n f a d i s116L52]
+[DELETED: o s n f a d i s 1 o tS( P m a i e b o ne g o g s a oi((((0( a p e p h c m o1p2( a p a u o l t m d f t3i4( a p t h a o p o p5r w t i i a p t h p6e7i8( P m a i a t p a 9p o a o p u t M a S0P1(2i a a a t m h d f t3i4(5u e a b w a a t a i a t m6c t u o a i h s W7u8w9i0s1(6L52]
+[DELETED: (( s i a e o o m a r ip(( a h p d b a i o ti s t h p r f ti(p d u s ( i n r0a1o t i h c o f o a c o2t3( S m w p i t a o a 4r5(6( t a t o l a w t r a7e8( S m a s o t U S t D o9C P R t U S V I o a o0t1T2( S d m m a f o o m3p4c a d i b h t i u5t6(7(8(9(0S 3  ( A i h c f t p o t1U6L52]
+[DELETED: (w a s t a s dm((o t d i t p r a b o td( a h i u t n ac0o1(2o i o a d s u s ( o3s4a o i a u t g n o t5r6w7(8a t i h c i n a b w t9i0S1r a h d h i a p o2a3(4( t p i r u s ( o t5s6( S t s 5 a 6 o t a a p u7s ( o t s m b r b a f t t8i9(0a1(6L52]
+[DELETED: (t(os(((( a r h p n d i0s1( t i a w t f i t b m i2e a h c r a d r h3c4t5( a i l i s ( ( o ( i n6r7(8t s o p o t i m t f a t 9r0( d i a r s b t i m t1f t i a o o t c n e a2p3(4b5(6( t c o t i o a d o t7c8(9a0(1a c t i n l h o a r h6L52]
+[DELETED: p s h g c t b t i hc t i i p t h c u a cfsSai a w t f w m o t ir( A s a r f a r h0p142a3(4a5(6(7o t h i i w t i r o i8r9( b a a t c i t i0o1(2t f u s ( o s 4 o t a i n3s t r a p o c i s ( o4s 4 o t a a t i m b t a h5c6(7(8( t i i e a h c r 9d r h t t b m p t a0i1( s t s ( o t s t f i6L52]
+[DELETED: c b a s f m b a i a us(( i n a f m o t i w m t ff( i n t c o t i w m t ff( A s f t t i l c us ( o t s i n s t r t0p1c2t3(4i5( c t o t a r h6p7( d t o a t d o t o i t8i9t0o1w s d t o a t d o t o i t2i3S4o5h i p h c t t i o 6p i i t w o t i m p t7c8t9( T c i w a p u s ( o t0s1i6L52]
+[DELETED: p a s a p b n l t s d a tp i f A s a p b n l t s dact c f b c a c e t t ilSep0(1(2( p t s o s n b c r 3h4( a p t s a g f t i i o i5a6(7(8p a i u s ( o t s s9d t i a t d o t i i t0i m r o c t i a d o1t i t a a w r f m2r o t h i p h c t t3i w s d t i a t d o t4i5(6w7a i d i a m o r t e8i9(0o1S6L52]
+[DELETED: c t a a a t m h d f ti( A i i d f a a a f ai( a c f t t p a p a d t tio( t p a i a o o e oc0s 7 i w t i r o i r c1u2t3c4( A h d m b a a i e w5j6(7b8( r b t a o t i t c t9p0(1(2(3(4o5o6f7(8w9i0( A w u s ( o t s i c1p6L52]
+[DELETED: ((two(c( t i o t i i p k t tw0( t w i a t a t i o t1i2t3(4i5S 9  ( A i m c a a h6d7d8h9( A h i u t s m i t0i1(2a3(4w5(6( a t a m f i d o7a8(9( r t a a s t o m h c0i1(6L52]
+[DELETED: ( A p o a f h c u t s ma( A i m d i a a m hd t i t i i e a p op e s i t d t i m nr(u s ( o t s t a m hd m b i a r t i s f a o a0h d c b t i a s b t1i2t3(4( u t n a c o t d5i6( m t d v a w c o u7i8(9(0(1( i t i r i a n h o a a2l f a d i s 7 t o o3e4a5(6S 1  ( I a d i a a m h7d8h9e0( A a o a a t m d o f m1h6L52]
+[DELETED: aa r t a o a a u t eas(i o t d a m h c m aa o a a a t m o m hdo0S 1  T f f m b u t c a a1h2A3H4Y5c6T i c g t p a p o a f h c7T8Y9g0y1Y2N3D4P5T6f718I9I0N1O6L52]
+[DELETED: s.2IINOs.031I2i3( y d n a a l h y A w b a t4m5s6P7T p l y s y p f h c a t8s910T s g y t o t s h y w y1A2c3T4f5(6y s n m o i o c i t "7s8(9a0(1t6L52]
+[DELETED: (a n e t r t p m f c wp I c a c f m a r f af(Ftl(0y1s2(3a4(5b6(7a n e t r t p m f c w8p I c a c f m a r f a9f0(1P r I I a i s p c t w k m2c3t4(5y s n m o i o c i t " r6s7(8y s n m o i o c i t " r9s0(1i6L52]
+[DELETED: (c(nc(2Yw0d f y i y c I a h o u y1p2Y3b4S a a l a p e i I h s5p6(7(8(9S0l1(2(3(4B5(6(7(8B9(0(1(6L52]
+[DELETED: Hc(((Hm((0(132Y c w i t s m i a y g3v4w5m6.7.8P9T0m1a213M A c d t f t O i I h m o4i5( A m a a v p t a f f m6h7w8(9a0( P m i a n h f m t o h d1e6L52]
+[DELETED: I(2Mnmt( I g m A p t o e a si a m h n a h c w m A0t132M3f i y p i t f I y d n y4A5e6(7i8w940Y1g2w c m d F t o d N m y w o3n4I5w6( M A n i t f I m A c b 7g8( O ( w y w w a t c9i0P1T6L52]
+[DELETED: a1Y( I d m o t a o b p a dia(a0s122Y m m o i a t a ( y d n m o3i4t5O6(7(8(9(0(1P2Y3S4T5C6S7Y8w9o0l o a r c i a n h o a a l1f6L52]
+[DELETED: sNS( s a a w i y t t p s a idDP1h c f t p w n y w t p c m0t122t334t5t p b i c t p v p6a7m b i t f Y s a c a b o8c f t p t i w t p c9w041t p h i B u t p h s s i2t f y c g o s t i o w t p3c4S5f6f7h8(9i o a m o t f c i d0o1s 1 o t a m a a a d s f t6L52]
+[DELETED: i(a f h c t m a h d f ti(( a p f a d d o ml s o t h b f a n d ow(0s1(2s3(4(5(6(7(8( a a n l i s ( t ( w h9a0t1(2t3m4( a a n l i s ( t ( w h5e s c a c f t i a i f6w7(8w a a t a a a d s t p 9d i a r u p o p s f a0c1(6L52]
+[DELETED: tnfrs(wS 1  ( A d s w a a us 1 o t a s i a r h0p1s 1 o t a h a a t a a d2s3( A r h p s c w t4d5u s ( o s 1 o t a w h c6t7a8(9m o t c w h c t v t t0p1p s m a r e t s t v o2m o t c w a r a b h n y3c4s5w h c t v t t p a t6p7u8( I t c r e d a t e i m9u0m1i6L52]
+[DELETED: Smfbi b d a i o a rh p D u t s ie e i m b a i w l c t m aa d i t i c c a d tt0i1(2f3( a c f t t p d s p 4d5p6(7o8i9u0t1c2( t p d s r t p a t3d4S5t6w7(8( t i i f u s ( o s 4 o9t0f1o6L52]
+[DELETED: (tas(ats(0c d o a i t c w a a1h2t3(4d a a a t a o a s o a5i6( a p f a d d o m7l s o t h b f a n d o8w9(0s1(2s3(4S5s6(7i n s t s i w t i c t8d9(0(1d6L52]
+[DELETED: ri(ao( E r t a a h drm n b e i a p s b t e i ie0( T U H D A d n a t1v o a e r o s t i v u t2U3( I t U H D A c w o4l5r6D7S8t i f w t a o d s i a w9e o p t e a p u s 1 o t0a1(2i3c4t5s6(7a t g p a w o t i r 8h d a n k o r a b t9a0d i a w t a o d s1d6L52]
+[DELETED: ((( g p c t t i cc( c t i v t t e k or( c t r a b o t p hd( A s a r f a a o d s0w1d2r3S4t5i6l c t m a h d T p c i t7i l i f t h c t m a h8d9t a t t f o l o c u s ( o0s1( t p c b t i o u2s3(4( o s 5 o t a o a c f t t i5l6( A a o d s m r r e7c a c t t d o m a o h8i9t0i1(6L52]
+[DELETED: o a a u s ( o t s c oa(sofa( A a o d s m n c t va o t i t a f f m h t0u1(2i3(4d5m c a a s t g w u t s6i7(8o9n0d1(2(3(4( I s a b t i i a a5h d i a r a a o d s m6c7o8(9(0(1S6L52]
+[DELETED: r t b a n h o mvat(o( t i h e a t w ow( t i h e a m r i h o0f1e2(3o4( c b v o n e a d f5a6( A d s m n m a h d i7u8(9( m b m b a g o i t c a t0g1S2m a m i a c U t p o3a p o e c m e i4a5(6o7r d b d i n r a o8o9( U t p o a p o a a0a1(6L52]
+[DELETED: o u o u t a f t d o tu( i t o a a a o p a hrS 2  ( A r h p w i at a i h b f t l c t m a ds m a r e t d i t i h s(0s1f2i3(4o a f t a i l c t m a h5d6t7s8(9r0(1s2u s ( o s 5 o t a t t f u3s4(5i h c o r a a h d o6t a s f a i h b a d o7d8(9i0( i e o t d r a1d6L52]
+[DELETED: r c t c t b i i t i mr(ht(i(i0( a h d f t i m b t1i2t3a4( A h p o a h i m5r6o7( t i o d i c t a p o t8h i p c t t i t i b9e0t1(2p3(4(5p6t7(8c t g a h s a t t9p0(1( A h p o h i t6L52]
+[DELETED: r( a s a r f i t i ip(t a h p o h i t iw(( i c i r u s ( o ( o ts0i1e2( i c i r u s ( o t s3p l c a c n t k o m t4i5a t i m o i t p o i r6b7r8S 2  ( A g m r t c w o r t9i0t1(2a3a4S5a6d7(8a p i c i b o a r b t t9p h a t m t d i a d t0w1( r t c w a h d m f a6L52]
+[DELETED: i b a p i t r i b o a rb( c w a a h d b o r(o a r b t t d i n v i rai0(1t2(3s4( A a d s o i w a r5b t t i i a a o a d s i n6s t c o c l o t d f7u8e9S0(1c2(3c4i5( i c d o o d t6d o a r o t d w c o t7i8(9o0c1r6L52]
+[DELETED: (oa( r o p t c o r o a ah( A i w i t s o c p usof0r1( S t s ( o t s a i w2m3o4t5o6w7(8i n l u s ( o t s f a v o9s0( t v o i t c o p c t a1i e a h c f w t p2r3l4(5t6( t p o c d n b i a h7i8( I a a u t s a p p m9r r a f c c a o r0l1(6L52]
+[DELETED: aSc d r o a a h d oae(htp c i a c a a c o t d o0r1S 2  ( O p o a i t i2s a h p o h i3p4w5(6o7d8( e a a f m a h d f t9i0h1(2(3(4(5a6c7(8(9(0(1(6L52]
+[DELETED: ( b a a o d s w i a i cw( I t U H D A a f twia p a o d s p a d t ti( A p u t s i g b [ t ts r o p o s p g e0p a p a p f o a t l1c2S 2  ( T U H D A d n3a4(5o t s g t f m i o a i6i c f t u t N M H7C8( D o a i c b w o w9h0n1p o i o a a p a d b2n3( T U H D A d n c 4p5a6( A a h d c b o o a7t e d o t a m b i i a w8o9t0S 2  I a a c t U H1D6L52]
+[DELETED: lS 2  ( A a h d c b te d o t a i v i i c w t UHl( T U H D A d n a tv(b t e d o t a m c t a a d0s1h2f3S 3  T U H D A a t a4a5d6S7d i o u t d s n a8t6L52]

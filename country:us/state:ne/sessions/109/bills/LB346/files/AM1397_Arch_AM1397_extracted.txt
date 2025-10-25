@@ -1,0 +1,63 @@
+Title: 2 2. On page 9, line 6, strike the first "two" and insert "one" and
+Official Title: 2 2. On page 9, line 6, strike the first "two" and insert "one" and
+Number of Sections: 1
+Source: versions - Arch AM1397
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM1397 AM1397
+LB346 LB346
+MMM - 05/12/2025 MMM - 05/12/2025
+AMENDMENTS TO LB346
+(Amendments to E&R amendments, ER61)
+Introduced by Arch, 14.
+1 1. Strike section 29.
+3 strike "administrators" and insert "administrator"; and in line 7 strike
+4 "three" and insert "four".
+5 3. On page 10, line 22, strike "and"; in line 23 strike "or" and
+6 insert ", and one"; in line 28 strike "three" and insert "four"; and in
+7 line 29 after "serves" insert "until December 1, 2028, one serves".
+8 4. On page 37, strike beginning with "and" in line 13 through
+9 "consumers" in line 14 and show as stricken; strike beginning with the
+10 comma in line 21 through "years" in line 23 and show as stricken; and in
+11 line 26 strike "seven", show as stricken, and insert "ten".
+12 5. On page 79, line 22, strike "58-202,".
+13 6. On page 80, strike lines 1 through 5; in line 6 strike "2-4246,";
+14 and in line 8 strike "sections 43-1306 and" and insert "section".
+15 7. Renumber the remaining sections and correct internal references
+16 accordingly.
+-1-
+[DELETED: yA12s"3 O p 1 l 2 s " i l 2 s " ail4 O p 3 s b w " i l 1 t"0c1l25364a576a7A6L5M]
+
+
+================================================================================
+
+Raw Text:
+AM1397 AM1397
+LB346 LB346
+MMM - 05/12/2025 MMM - 05/12/2025
+AMENDMENTS TO LB346
+(Amendments to E&R amendments, ER61)
+Introduced by Arch, 14.
+1 1. Strike section 29.
+2 2. On page 9, line 6, strike the first "two" and insert "one" and
+3 strike "administrators" and insert "administrator"; and in line 7 strike
+4 "three" and insert "four".
+5 3. On page 10, line 22, strike "and"; in line 23 strike "or" and
+6 insert ", and one"; in line 28 strike "three" and insert "four"; and in
+7 line 29 after "serves" insert "until December 1, 2028, one serves".
+8 4. On page 37, strike beginning with "and" in line 13 through
+9 "consumers" in line 14 and show as stricken; strike beginning with the
+10 comma in line 21 through "years" in line 23 and show as stricken; and in
+11 line 26 strike "seven", show as stricken, and insert "ten".
+12 5. On page 79, line 22, strike "58-202,".
+13 6. On page 80, strike lines 1 through 5; in line 6 strike "2-4246,";
+14 and in line 8 strike "sections 43-1306 and" and insert "section".
+15 7. Renumber the remaining sections and correct internal references
+16 accordingly.
+-1-
+
+[DELETED: yA12s"3 O p 1 l 2 s " i l 2 s " ail4 O p 3 s b w " i l 1 t"0c1l25364a576a7A6L5M]

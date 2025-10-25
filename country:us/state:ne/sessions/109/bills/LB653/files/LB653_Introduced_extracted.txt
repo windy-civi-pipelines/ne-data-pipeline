@@ -1,0 +1,855 @@
+Title: LEGISLATIVE BILL 653
+Official Title: LEGISLATIVE BILL 653
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LB653 LB653
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Murman, 38; Conrad, 46; Fredrickson, 20; Lippincott, 34;
+Lonowski, 33.
+Read first time January 22, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend sections 79-238,
+2 79-239, 79-246, 79-1021, and 79-1142, Reissue Revised Statutes of
+3 Nebraska; to change provisions relating to applications, capacity,
+4 and reports, and provide for reimbursement for certain students
+5 under the enrollment option program; to change authorized uses of
+6 the Education Future Fund; to change provisions relating to
+7 reimbursement for special education programs and support services;
+8 to harmonize provisions; and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+LB653 LB653
+2025 2025
+1 Section 1. Section 79-238, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-238 (1)(a) Except as provided in this section and sections
+4 79-235.01 and 79-240, the school board of the option school district
+5 shall adopt by resolution specific capacity standards for acceptance and
+6 rejection of applications.
+7 (b)(i) (b) Capacity for special education services operated by an
+8 option school district shall be determined on a case-by-case basis,
+9 subject to the requirements of subdivision (ii) of this subsection. If an
+10 application for option enrollment received by a school district indicates
+11 that the student has an individualized education program under the
+12 federal Individuals with Disabilities Education Act, 20 U.S.C. 1400 et
+13 seq., or has been diagnosed with a disability as defined in section
+14 79-1118.01, such application shall be evaluated by the director of
+15 special education services of the school district or the director's
+16 designee who shall determine if the school district and the appropriate
+17 class, grade level, or school building in such school district has the
+18 capacity to provide the applicant the appropriate services and
+19 accommodations.
+20 (ii) Regardless of capacity for special education services, the
+21 number of applications made by students with an individualized education
+22 program under the federal Individuals with Disabilities Education Act, 20
+23 U.S.C. 1400 et seq., which are denied by such school district cannot
+24 exceed sixteen percent of the total enrollment option applications denied
+25 by such school district in such school year.
+26 (c) For all other students, standards may include the capacity of a
+27 program, class, grade level, or school building. Capacity shall be
+28 determined by setting a maximum number of option students that a district
+29 will accept in any program, class, grade level, or school building, based
+30 upon available staff, facilities, projected enrollment of resident
+31 students, and projected number of students with which the option school
+-2-
+LB653 LB653
+2025 2025
+1 district will contract based on existing contractual arrangements.
+2 (d) To facilitate option enrollment, school districts shall annually
+3 establish, publish, and report the capacity for each school building
+4 under such district's control pursuant to procedures, criteria, and
+5 deadlines established by the State Board of Education. Except as
+6 otherwise provided in this section, a school board may by resolution,
+7 prior to October 15 of each school year, declare a program, a class, or a
+8 school unavailable to option students for the next school year due to
+9 lack of capacity. Standards shall not include previous academic
+10 achievement, athletic or other extracurricular ability, disabilities,
+11 proficiency in the English language, or previous disciplinary proceedings
+12 except as provided in section 79-266.01. A school district that accepts
+13 applications on a school building by school building basis under the
+14 enrollment option program and receives an application for a school
+15 building that is at capacity for purposes of the enrollment option
+16 program shall notify the parent or guardian that submitted such
+17 application of the other school buildings in such school district that
+18 are not at capacity and are available to the student for purposes of the
+19 enrollment option program. False or substantively misleading information
+20 submitted by a parent or guardian on an application to an option school
+21 district may be cause for the option school district to reject a
+22 previously accepted application if the rejection occurs prior to the
+23 student's attendance as an option student.
+24 (2) The school board of every school district shall also adopt
+25 specific standards and conditions for acceptance or rejection of a
+26 request for release of a resident or option student submitting an
+27 application to an option school district after March 15 under subsection
+28 (1) of section 79-237. Standards shall not include that a request
+29 occurred after the deadline set forth in this subsection.
+30 (3) Any option school district that is not a member of a learning
+31 community shall automatically accept as an option student give first
+-3-
+LB653 LB653
+2025 2025
+1 priority for enrollment to siblings of option students that apply to such
+2 school district , except that the option school district shall not be
+3 required to accept the sibling of an option student if the district is at
+4 capacity except as provided in subsection (1) of section 79-240.
+5 (4) Any option school district that is in a learning community shall
+6 give first priority for enrollment to, and automatically accept
+7 regardless of capacity, siblings of option students enrolled in the
+8 option school district, second priority for enrollment to students who
+9 have previously been enrolled in the option school district as an open
+10 enrollment student, third priority for enrollment to students who reside
+11 in the learning community and who contribute to the socioeconomic
+12 diversity of enrollment at the school building to which the student will
+13 be assigned pursuant to section 79-235, and final priority for enrollment
+14 to other students who reside in the learning community. The option school
+15 district shall not be required to accept a student meeting the priority
+16 criteria in this section if the district is at capacity as determined
+17 pursuant to subsection (1) of this section except for siblings of option
+18 students or as provided in section 79-235.01 or 79-240. For purposes of
+19 the enrollment option program, a student who contributes to the
+20 socioeconomic diversity of enrollment at a school building within a
+21 learning community means (a) a student who does not qualify for free or
+22 reduced-price lunches when, based upon the certification pursuant to
+23 section 79-2120, the school building the student will be assigned to
+24 attend either has more students qualifying for free or reduced-price
+25 lunches than the average percentage of such students in all school
+26 buildings in the learning community or provides free meals to all
+27 students pursuant to the community eligibility provision or (b) a student
+28 who qualifies for free or reduced-price lunches based on information
+29 collected voluntarily from parents and guardians pursuant to section
+30 79-237 when, based upon the certification pursuant to section 79-2120,
+31 the school building the student will be assigned to attend has fewer
+-4-
+LB653 LB653
+2025 2025
+1 students qualifying for free or reduced-price lunches than the average
+2 percentage of such students in all school buildings in the learning
+3 community and does not provide free meals to all students pursuant to the
+4 community eligibility provision.
+5 Sec. 2. Section 79-239, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 79-239 (1) A school district that receives an incomplete application
+8 shall notify the applicant within ten business days after receipt of such
+9 incomplete application that the application is incomplete and will be
+10 automatically rejected if not corrected.
+11 (2) (1) If an application is rejected by the option school district
+12 or if the resident school district rejects a request for release under
+13 subsection (1) of section 79-237, the rejecting school district shall
+14 provide written notification to the parent or guardian stating (a) the
+15 specific reasons for the rejection including, for students with an
+16 individualized education program under the federal Individuals with
+17 Disabilities Education Act, 20 U.S.C. 1400 et seq., or with a diagnosed
+18 disability as defined in section 79-1118.01, a description of services
+19 and accommodations required that the school district does not have the
+20 capacity to provide, and (b) the process for appealing such rejection to
+21 the State Board of Education. Such notification shall be sent by
+22 certified mail.
+23 (3) (2) The parent or legal guardian may appeal a rejection to the
+24 State Board of Education by filing a written request, together with a
+25 copy of the rejection notice, with the State Board of Education. Such
+26 request and copy of the notice must be received by the board within
+27 thirty days after the date the notification of the rejection was received
+28 by the parent or legal guardian. Such hearing shall be held in accordance
+29 with the Administrative Procedure Act and shall determine whether the
+30 procedures of sections 79-234 to 79-241 have been followed. Any rejection
+31 based upon capacity limitations established under section 79-238 shall be
+-5-
+LB653 LB653
+2025 2025
+1 the responsibility of the school district to prove in any appeal filed
+2 with the state board.
+3 (4)(a) (3)(a) Beginning July 1, 2024, and on or before July 1 of
+4 each year thereafter, each school district shall provide to the State
+5 Department of Education information prescribed by the Commissioner of
+6 Education relating to all applications rejected by the option school
+7 district and applications related to students with an individualized
+8 education program. Such information shall include, but not be limited to,
+9 (i) (a) the number of applications rejected in each public school in such
+10 district, except that incomplete applications rejected by the school
+11 district shall not be included, (ii) (b) an explanation why each
+12 application was rejected, (iii) (c) whether each application for option
+13 enrollment indicated that the student had an individualized education
+14 program under the federal Individuals with Disabilities Education Act, 20
+15 U.S.C. 1400 et seq., or had been identified as a student with a
+16 disability as defined in section 79-1118.01, (iv) and (d) whether
+17 information regarding the requirements of subsection (4) of section
+18 79-238 was provided to the applicant, and (v) the number of applications
+19 accepted in each public school in such district for a student with an
+20 individualized education program under the federal Individuals with
+21 Disabilities Education Act, 20 U.S.C. 1400 et seq.
+22 (b) The Commissioner of Education shall annually compile the
+23 information received pursuant to this subsection and provide a report on
+24 such information electronically to the Legislature beginning on September
+25 1, 2024, and on or before September 1 of each year thereafter. The State
+26 Board of Education may adopt and promulgate rules and regulations to
+27 carry out this subsection.
+28 Sec. 3. Section 79-246, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 79-246 (1)(a) The State Department of Education shall reimburse each
+31 option school district for special education programs provided to option
+-6-
+LB653 LB653
+2025 2025
+1 students in accordance with section 79-1142.
+2 (b) The resident school district of an option student shall be
+3 exempted from the payment responsibility set forth in section 79-1140.
+4 (c) For purposes of calculation to determine reimbursement pursuant
+5 to section 79-1142, the option school district shall include the adjusted
+6 average per pupil cost as defined in section 79-1114 of the option school
+7 district and not the amount received pursuant to section 79-245.
+8 (2)(a) On or before October 15 of each school fiscal year, a school
+9 district that accepts an application for an option student with an
+10 individualized education program under the federal Individuals with
+11 Disabilities Education Act, 20 U.S.C. 1400 et seq., with expected costs
+12 for education and support services of such student that are at least five
+13 times greater than the adjusted average per pupil cost of the preceding
+14 year as defined in section 79-1114, may apply to the State Department of
+15 Education, in a manner prescribed by the department, for a payment from
+16 the Education Future Fund to cover such expenses. Such application shall
+17 include detailed expected costs for providing education and support
+18 services to such student.
+19 (b) The State Department of Education shall make a payment to each
+20 qualifying applicant school district on or before November 15 for the
+21 school fiscal year in which the application is submitted. Such payment
+22 shall equal the expected amount to provide education and support services
+23 for such student subtracted from the adjusted average per pupil cost of
+24 the preceding school fiscal year, except that if the sum of all payments
+25 for applicant school districts for such school fiscal year exceed the
+26 available balance for such purpose in the Education Future Fund, each
+27 payment shall be reduced proportionally so the sum of all payments for
+28 applicant school districts for such school fiscal year equals the
+29 available balance for such purpose in the fund.
+30 Sec. 4. Section 79-1021, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-7-
+LB653 LB653
+2025 2025
+1 79-1021 (1) The Education Future Fund is created. The fund shall be
+2 administered by the department and shall consist of money transferred to
+3 the fund by the Legislature. Transfers may be made from the Education
+4 Future Fund to the Computer Science and Technology Education Fund at the
+5 direction of the Legislature. Any money in the Education Future Fund
+6 available for investment shall be invested by the state investment
+7 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+8 State Funds Investment Act.
+9 (2) The fund shall be used only for the following purposes, in order
+10 of priority:
+11 (a) To fully fund equalization aid under the Tax Equity and
+12 Educational Opportunities Support Act;
+13 (b) To fund reimbursements related to special education under
+14 section 79-1142;
+15 (c) To fund foundation aid under the Tax Equity and Educational
+16 Opportunities Support Act;
+17 (d) To increase funding for school districts in a way that results
+18 in direct property tax relief, which means a dollar-for-dollar
+19 replacement of property taxes by a state funding source;
+20 (e) To provide funding for a grant program created by the
+21 Legislature to address teacher turnover rates and keep existing teachers
+22 in classrooms;
+23 (f) To provide funding to increase career and technical educational
+24 classroom opportunities for students, including, but not limited to,
+25 computer science education. Such funding must provide students with the
+26 academic and technical skills, knowledge, and training necessary to
+27 succeed in future careers;
+28 (g) To provide funding for a grant program created by the
+29 Legislature to provide students the opportunity to have a mentor who will
+30 continuously engage with the student directly to aid in the student's
+31 professional growth and give ongoing support and encouragement to the
+-8-
+LB653 LB653
+2025 2025
+1 student;
+2 (h) To provide funding for extraordinary increases in special
+3 education expenditures to allow school districts with large, unexpected
+4 special education expenditures to more easily meet the needs of all
+5 students;
+6 (i) To provide funding to help recruit teachers throughout the state
+7 by utilizing apprenticeships through a teacher apprenticeship program and
+8 an alternative certification process;
+9 (j) To provide funding to develop and implement a professional
+10 learning system to help provide sustained professional learning and
+11 training regarding evidence-based reading instruction and for a grant
+12 program relating to dyslexia research; and
+13 (k) To provide funding for a pilot project administered by the State
+14 Department of Education to provide menstrual products to school
+15 districts; and .
+16 (l) To provide funding for education and support services of
+17 students with an individualized education program under the federal
+18 Individuals with Disabilities Education Act, 20 U.S.C. 1400 et seq., that
+19 are accepted as option students into a school district to allow school
+20 districts to accept more option students and allow students to receive
+21 the best education possible.
+22 (3)(a) The State Treasurer shall transfer one billion dollars from
+23 the General Fund to the Education Future Fund in fiscal year 2023-24, on
+24 such dates and in such amounts as directed by the budget administrator of
+25 the budget division of the Department of Administrative Services.
+26 (b) The State Treasurer shall transfer two hundred fifty million
+27 dollars from the General Fund to the Education Future Fund in fiscal year
+28 2024-25, on such dates and in such amounts as directed by the budget
+29 administrator of the budget division of the Department of Administrative
+30 Services.
+31 (c) It is the intent of the Legislature that two hundred fifty
+-9-
+LB653 LB653
+2025 2025
+1 million dollars be transferred from the General Fund to the Education
+2 Future Fund in fiscal year 2025-26 and each fiscal year thereafter.
+3 Sec. 5. Section 79-1142, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 79-1142 (1) Level I services refers to services provided to children
+6 with disabilities who require an aggregate of not more than three hours
+7 per week of special education services and support services and includes
+8 all administrative, diagnostic, consultative, and vocational-adjustment
+9 counselor services.
+10 (2) The total allowable reimbursable cost for support services shall
+11 not exceed a percentage, established by the State Board of Education, of
+12 the school district's or approved cooperative's total allowable
+13 reimbursable cost for all special education programs and support
+14 services. The percentage established by the board for support services
+15 shall not exceed the difference of ten percent minus the percentage of
+16 the appropriations for special education approved by the Legislature set
+17 aside for reimbursements for support services pursuant to subsection (5)
+18 of this section.
+19 (3) Except as provided in subsection (6) and (7) of this section,
+20 for special education and support services provided in each school fiscal
+21 year, the department shall reimburse each school district in the
+22 following school fiscal year eighty percent of the total allowable excess
+23 costs for all special education programs and support services.
+24 Cooperatives of school districts or educational service units shall also
+25 be eligible for reimbursement for cooperative programs pursuant to this
+26 section if such cooperatives or educational service units have complied
+27 with the reporting and approval requirements of section 79-1155 for
+28 cooperative programs which were offered in the preceding school fiscal
+29 year.
+30 (4)(a) The payments shall be made by the department to the school
+31 district of residence, cooperative of school districts, or educational
+-10-
+LB653 LB653
+2025 2025
+1 service unit each school year in a minimum of seven payments between the
+2 fifth and twentieth day of each month beginning in December. Additional
+3 payments may be made based upon additional valid claims submitted. The
+4 State Treasurer shall, between the fifth and twentieth day of each month,
+5 notify the Director of Administrative Services of the amount of funds
+6 available in the General Fund and the Education Future Fund for payment
+7 purposes. The director shall, upon receiving such certification, draw
+8 warrants against such funds as appropriated.
+9 (b) If the General Fund appropriations for special education
+10 approved by the Legislature, minus the amounts set aside pursuant to
+11 subsection (5) of this section, are insufficient to reimburse eighty
+12 percent of the total allowable excess costs for all special education
+13 programs and support services for any school fiscal year:
+14 (i) Such allowable excess costs shall be reimbursed from the General
+15 Fund appropriations for special education approved by the Legislature,
+16 minus the amounts set aside pursuant to subsection (5) of this section,
+17 on a pro rata basis at the maximum rate of reimbursement such
+18 appropriations will allow as determined by the department; and
+19 (ii) The remainder of the eighty percent reimbursement of such
+20 allowable excess costs shall be paid from the Education Future Fund.
+21 (5) Residential settings described in subdivision (10)(c) of section
+22 79-215 shall be reimbursed for the educational services, including
+23 special education services and support services, in an amount determined
+24 pursuant to the average per pupil cost of the service agency.
+25 Reimbursements pursuant to this section shall be made from funds set
+26 aside for such purpose within sixty days after receipt of a reimbursement
+27 request submitted in the manner required by the department and including
+28 any documentation required by the department for educational services
+29 that have been provided, except that if there are not any funds available
+30 for the remainder of the state fiscal year for such reimbursements, the
+31 reimbursement shall occur within thirty days after the beginning of the
+-11-
+LB653 LB653
+2025 2025
+1 immediately following state fiscal year. The department may audit any
+2 required documentation and subtract any payments made in error from
+3 future reimbursements. The department shall set aside separate amounts
+4 from the appropriations for special education approved by the Legislature
+5 for reimbursements pursuant to this subsection for students receiving
+6 special education services and for students receiving support services
+7 for each state fiscal year. The amounts set aside for each purpose shall
+8 be based on estimates of the reimbursements to be requested during the
+9 state fiscal year and shall not be less than the total amount of
+10 reimbursements requested in the prior state fiscal year plus any unpaid
+11 requests from the prior state fiscal year.
+12 (6) For each school district that received a payment pursuant to the
+13 Extraordinary Increase in Special Education Expenditures Act in the
+14 school fiscal year for which special education expenditures were
+15 reimbursed pursuant to subsection (3) of this section, an amount equal to
+16 such payment shall be subtracted from the reimbursement calculated
+17 pursuant to subsection (3) of this section and such amount shall be
+18 transferred to the Education Future Fund.
+19 (7) For each school district that received a payment pursuant to
+20 subsection (2) of section 79-246 in the school fiscal year for which
+21 special education expenditures were reimbursed pursuant to subsection (3)
+22 of this section, an amount equal to the payment made pursuant to
+23 subsection (2) of section 79-246 shall be subtracted from the
+24 reimbursement calculated pursuant to subsection (3) of this section and
+25 such amount shall be transferred to the Education Future Fund.
+26 (8) (7) On or before November 15 of each year, the department shall
+27 submit to the Governor, the Appropriations Committee of the Legislature,
+28 and the Education Committee of the Legislature:
+29 (a) The total allowable excess costs for all special education
+30 programs and support services for all school districts, cooperatives of
+31 school districts, and educational service units; and
+-12-
+LB653 LB653
+2025 2025
+1 (b) The total reimbursements requested pursuant to subsection (5) of
+2 this section for the most recently completed school fiscal year.
+3 Sec. 6. Original sections 79-238, 79-239, 79-246, 79-1021, and
+4 79-1142, Reissue Revised Statutes of Nebraska, are repealed.
+-13-
+[DELETED: yMA B F A A r t e t a s 77 7 7 a 7 R R S oN t c p r t a ca r a p f r f c su t e o p t c a u ot E F F t c p r tr f s e p a s stB3L52]
+[DELETED: Sa7 ( E a p i t s a s7 a 7 t s b o t o s dsr( ( C f s e s o b ao s d s b d o a c bs0a1t t s h a i e p u t2f I w D E A 2 U 1 e3s o h b d w a d a d i s47 s a s b e b t d o5s e s o t s d o t d6d7c8c t p t a t a s a9a0( R o c f s e s t1n2p3U 1 e s w a d b s s d c4e5b6(7p c g l o s b C s b8d9w0u a s f p e o r1s3L52]
+[DELETED: d(e p a r t c f e s bu s d c p t p c ad e b t S B o E E ao p i t s a s b m b rps u t o s f t n s y d tl o c S s n i p a0a a o o e a d1p2e3a o a s b b s b b u t4e o p a r a a f a s5b t i a c f p o t e o6p s n t p o g t s s7a8a9e0s1d m b c f t o s d t r 2p a a i t r o p t t3s4( T s b o e s d s a a5s s a c f a o r o 6r f r o a r o o s s a7a8( o s 7 S s n i t a r9o0(1c s a a a a o s g f3L52]
+[DELETED: ps d , e t t o s d s n brc(g f p f e t a a ar o c s o o s e i to s d s p f e t s wh0e1i t l c a w c t t s2d3b4t5d6c i t s i t d i a c a d7p8s9t e o p a s w c t t0s d o e a a s b w 1l2r l w b u t c p t3s 7 t s b t s w b a t4a e h m s q f f o r5l t t a p o s s i a s6b i t l c o p f m t a7s8w q f f o r l b o i9c v f p a g p t s07 w b u t c p t s 71t s b t s w b a t a h f3L52]
+[DELETED: s q f f o r l t t ap o s s i a s b i t lccS 2 S 7 R R S o N ia7si a t t a i i a w b0a1(2o3s ( o s 7 t r s d s4p5s r f t r i f s w a6i e p u t f I w7D8d a d i s 7 a d o s9a0c1t S B o E S n s b s b2c3(4S B o E b f a w r t w 5c o t r n w t S B o E S6r a c o t n m b r b t b w7t8b9w t A P A a s d w t0p1b3L52]
+[DELETED: tw( ( B J 1 2 a o o b J 1 oe y t e s d s p t t SD o E i p b t C oE r t a a r b t o sd a a r t s w a ie(0d e t i a r b t s1d s n b i ( ( a e w e2a3e i t t s h a i e4p5U 1 e s o h b i a a s w 6d a d i s 7 ( a ( w7i r t r o s ( o s879a i e p s i s d f a s w a0i e p u t f I w1D2( T C o E s a c t3i4s516B o E m a a p r a r t7c8S 3 S 7 R R S o N i9a071o3L52]
+[DELETED: s( T r s d o a o s s be(tad(d t a a a f a o s w a0i e p u t f I w1D2f3t4y5E6t7i d e c f p e a s8s9(0q a s d o o b N 1 f t1s2s3f4t5f a s d f s s f y e t6a b f s p i t E F F e7p8a s d f s s f y e t9a0S 4 S 7 R R S o N i1a3L52]
+[DELETED: 7at f b t L T m b m f t EFd o t L A m i t E F Fa f i s b i b t s ioS(0o1( T f f e a u t T E a2E3( T f r r t s e u4s5( T f f a u t T E a E6O7(8i d p t r w m a d9r0( T p f f a g p c b t1L2i3(4c o f s i b n l t5c6a a t s k a t n t7s8( T p f f a g p c b t9L0c e w t s d t a i t s1p g a g o s a e t t3L52]
+[DELETED: s( T p f f e i i ses e e t m e m t n o as(ba( T p f t d a i a p0l s t h p s p l a1t r e r i a f a g2p3(4D o E t p m p t s5d6( T p f f e a s s o7s w a i e p u t f8I9a0d1t2(3t4s5t6( T S T s t t h f m7d82 o s d a i s a a d b t b9a0S1( I i t i o t L t t h f3L52]
+[DELETED: m d b t f t G F t t EFS 5 S 7 R R S o N ia7wpa a d c a vc0(1n2t s d o a c t a3r c f a s e p a s4s T p e b t b f s s5s6t7a8o9(0f1y t d s r e s d i t2f3c f a s e p a s s4C5b6s7w t r a a r o s 7 f8c p w w o i t p s f9y0(1d o r c o s d o e3L52]
+[DELETED: sfpSn t D o A S o t a o fap T d s u r s c dw( I t G F a f s e0a b t L m t a s a p t1s ( o t s a i t r e2p o t t a e c f a s e3p4(5F a f s e a b t L6m7o a p r b a t m r o r s8a9( T r o t e p r o s0a1(27 s b r f t e s i3s4p t t a p p c o t s a5R p t t s s b m f f s6a7r8a d r b t d f e s9t0f1r3L52]
+[DELETED: i f s f y T d m a ar d a s a p m i e ff r T d s s a s aff r p t t s f s rs e s a f s r s sfbs f y a s n b l t t t a o0r1r2(3E I i S E E A i t4s f y f w s e e w5r6s p s b s f t r c7p t s ( o t s a s a s b8t9( F e s d t r a p p t0s ( o s 7 i t s f y f w1s2o t s a a e t t p m p t3s ( o s 7 s b s f t4r5s6(7s8a9( T t a e c f a s e0p1s3L52]
+[DELETED: (tS 6  O s 7 7 7 7 a73L52]
+
+
+================================================================================
+
+Raw Text:
+LB653 LB653
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 653
+Introduced by Murman, 38; Conrad, 46; Fredrickson, 20; Lippincott, 34;
+Lonowski, 33.
+Read first time January 22, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend sections 79-238,
+2 79-239, 79-246, 79-1021, and 79-1142, Reissue Revised Statutes of
+3 Nebraska; to change provisions relating to applications, capacity,
+4 and reports, and provide for reimbursement for certain students
+5 under the enrollment option program; to change authorized uses of
+6 the Education Future Fund; to change provisions relating to
+7 reimbursement for special education programs and support services;
+8 to harmonize provisions; and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB653 LB653
+2025 2025
+1 Section 1. Section 79-238, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-238 (1)(a) Except as provided in this section and sections
+4 79-235.01 and 79-240, the school board of the option school district
+5 shall adopt by resolution specific capacity standards for acceptance and
+6 rejection of applications.
+7 (b)(i) (b) Capacity for special education services operated by an
+8 option school district shall be determined on a case-by-case basis,
+9 subject to the requirements of subdivision (ii) of this subsection. If an
+10 application for option enrollment received by a school district indicates
+11 that the student has an individualized education program under the
+12 federal Individuals with Disabilities Education Act, 20 U.S.C. 1400 et
+13 seq., or has been diagnosed with a disability as defined in section
+14 79-1118.01, such application shall be evaluated by the director of
+15 special education services of the school district or the director's
+16 designee who shall determine if the school district and the appropriate
+17 class, grade level, or school building in such school district has the
+18 capacity to provide the applicant the appropriate services and
+19 accommodations.
+20 (ii) Regardless of capacity for special education services, the
+21 number of applications made by students with an individualized education
+22 program under the federal Individuals with Disabilities Education Act, 20
+23 U.S.C. 1400 et seq., which are denied by such school district cannot
+24 exceed sixteen percent of the total enrollment option applications denied
+25 by such school district in such school year.
+26 (c) For all other students, standards may include the capacity of a
+27 program, class, grade level, or school building. Capacity shall be
+28 determined by setting a maximum number of option students that a district
+29 will accept in any program, class, grade level, or school building, based
+30 upon available staff, facilities, projected enrollment of resident
+31 students, and projected number of students with which the option school
+-2-
+
+LB653 LB653
+2025 2025
+1 district will contract based on existing contractual arrangements.
+2 (d) To facilitate option enrollment, school districts shall annually
+3 establish, publish, and report the capacity for each school building
+4 under such district's control pursuant to procedures, criteria, and
+5 deadlines established by the State Board of Education. Except as
+6 otherwise provided in this section, a school board may by resolution,
+7 prior to October 15 of each school year, declare a program, a class, or a
+8 school unavailable to option students for the next school year due to
+9 lack of capacity. Standards shall not include previous academic
+10 achievement, athletic or other extracurricular ability, disabilities,
+11 proficiency in the English language, or previous disciplinary proceedings
+12 except as provided in section 79-266.01. A school district that accepts
+13 applications on a school building by school building basis under the
+14 enrollment option program and receives an application for a school
+15 building that is at capacity for purposes of the enrollment option
+16 program shall notify the parent or guardian that submitted such
+17 application of the other school buildings in such school district that
+18 are not at capacity and are available to the student for purposes of the
+19 enrollment option program. False or substantively misleading information
+20 submitted by a parent or guardian on an application to an option school
+21 district may be cause for the option school district to reject a
+22 previously accepted application if the rejection occurs prior to the
+23 student's attendance as an option student.
+24 (2) The school board of every school district shall also adopt
+25 specific standards and conditions for acceptance or rejection of a
+26 request for release of a resident or option student submitting an
+27 application to an option school district after March 15 under subsection
+28 (1) of section 79-237. Standards shall not include that a request
+29 occurred after the deadline set forth in this subsection.
+30 (3) Any option school district that is not a member of a learning
+31 community shall automatically accept as an option student give first
+-3-
+
+LB653 LB653
+2025 2025
+1 priority for enrollment to siblings of option students that apply to such
+2 school district , except that the option school district shall not be
+3 required to accept the sibling of an option student if the district is at
+4 capacity except as provided in subsection (1) of section 79-240.
+5 (4) Any option school district that is in a learning community shall
+6 give first priority for enrollment to, and automatically accept
+7 regardless of capacity, siblings of option students enrolled in the
+8 option school district, second priority for enrollment to students who
+9 have previously been enrolled in the option school district as an open
+10 enrollment student, third priority for enrollment to students who reside
+11 in the learning community and who contribute to the socioeconomic
+12 diversity of enrollment at the school building to which the student will
+13 be assigned pursuant to section 79-235, and final priority for enrollment
+14 to other students who reside in the learning community. The option school
+15 district shall not be required to accept a student meeting the priority
+16 criteria in this section if the district is at capacity as determined
+17 pursuant to subsection (1) of this section except for siblings of option
+18 students or as provided in section 79-235.01 or 79-240. For purposes of
+19 the enrollment option program, a student who contributes to the
+20 socioeconomic diversity of enrollment at a school building within a
+21 learning community means (a) a student who does not qualify for free or
+22 reduced-price lunches when, based upon the certification pursuant to
+23 section 79-2120, the school building the student will be assigned to
+24 attend either has more students qualifying for free or reduced-price
+25 lunches than the average percentage of such students in all school
+26 buildings in the learning community or provides free meals to all
+27 students pursuant to the community eligibility provision or (b) a student
+28 who qualifies for free or reduced-price lunches based on information
+29 collected voluntarily from parents and guardians pursuant to section
+30 79-237 when, based upon the certification pursuant to section 79-2120,
+31 the school building the student will be assigned to attend has fewer
+-4-
+
+LB653 LB653
+2025 2025
+1 students qualifying for free or reduced-price lunches than the average
+2 percentage of such students in all school buildings in the learning
+3 community and does not provide free meals to all students pursuant to the
+4 community eligibility provision.
+5 Sec. 2. Section 79-239, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 79-239 (1) A school district that receives an incomplete application
+8 shall notify the applicant within ten business days after receipt of such
+9 incomplete application that the application is incomplete and will be
+10 automatically rejected if not corrected.
+11 (2) (1) If an application is rejected by the option school district
+12 or if the resident school district rejects a request for release under
+13 subsection (1) of section 79-237, the rejecting school district shall
+14 provide written notification to the parent or guardian stating (a) the
+15 specific reasons for the rejection including, for students with an
+16 individualized education program under the federal Individuals with
+17 Disabilities Education Act, 20 U.S.C. 1400 et seq., or with a diagnosed
+18 disability as defined in section 79-1118.01, a description of services
+19 and accommodations required that the school district does not have the
+20 capacity to provide, and (b) the process for appealing such rejection to
+21 the State Board of Education. Such notification shall be sent by
+22 certified mail.
+23 (3) (2) The parent or legal guardian may appeal a rejection to the
+24 State Board of Education by filing a written request, together with a
+25 copy of the rejection notice, with the State Board of Education. Such
+26 request and copy of the notice must be received by the board within
+27 thirty days after the date the notification of the rejection was received
+28 by the parent or legal guardian. Such hearing shall be held in accordance
+29 with the Administrative Procedure Act and shall determine whether the
+30 procedures of sections 79-234 to 79-241 have been followed. Any rejection
+31 based upon capacity limitations established under section 79-238 shall be
+-5-
+
+LB653 LB653
+2025 2025
+1 the responsibility of the school district to prove in any appeal filed
+2 with the state board.
+3 (4)(a) (3)(a) Beginning July 1, 2024, and on or before July 1 of
+4 each year thereafter, each school district shall provide to the State
+5 Department of Education information prescribed by the Commissioner of
+6 Education relating to all applications rejected by the option school
+7 district and applications related to students with an individualized
+8 education program. Such information shall include, but not be limited to,
+9 (i) (a) the number of applications rejected in each public school in such
+10 district, except that incomplete applications rejected by the school
+11 district shall not be included, (ii) (b) an explanation why each
+12 application was rejected, (iii) (c) whether each application for option
+13 enrollment indicated that the student had an individualized education
+14 program under the federal Individuals with Disabilities Education Act, 20
+15 U.S.C. 1400 et seq., or had been identified as a student with a
+16 disability as defined in section 79-1118.01, (iv) and (d) whether
+17 information regarding the requirements of subsection (4) of section
+18 79-238 was provided to the applicant, and (v) the number of applications
+19 accepted in each public school in such district for a student with an
+20 individualized education program under the federal Individuals with
+21 Disabilities Education Act, 20 U.S.C. 1400 et seq.
+22 (b) The Commissioner of Education shall annually compile the
+23 information received pursuant to this subsection and provide a report on
+24 such information electronically to the Legislature beginning on September
+25 1, 2024, and on or before September 1 of each year thereafter. The State
+26 Board of Education may adopt and promulgate rules and regulations to
+27 carry out this subsection.
+28 Sec. 3. Section 79-246, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 79-246 (1)(a) The State Department of Education shall reimburse each
+31 option school district for special education programs provided to option
+-6-
+
+LB653 LB653
+2025 2025
+1 students in accordance with section 79-1142.
+2 (b) The resident school district of an option student shall be
+3 exempted from the payment responsibility set forth in section 79-1140.
+4 (c) For purposes of calculation to determine reimbursement pursuant
+5 to section 79-1142, the option school district shall include the adjusted
+6 average per pupil cost as defined in section 79-1114 of the option school
+7 district and not the amount received pursuant to section 79-245.
+8 (2)(a) On or before October 15 of each school fiscal year, a school
+9 district that accepts an application for an option student with an
+10 individualized education program under the federal Individuals with
+11 Disabilities Education Act, 20 U.S.C. 1400 et seq., with expected costs
+12 for education and support services of such student that are at least five
+13 times greater than the adjusted average per pupil cost of the preceding
+14 year as defined in section 79-1114, may apply to the State Department of
+15 Education, in a manner prescribed by the department, for a payment from
+16 the Education Future Fund to cover such expenses. Such application shall
+17 include detailed expected costs for providing education and support
+18 services to such student.
+19 (b) The State Department of Education shall make a payment to each
+20 qualifying applicant school district on or before November 15 for the
+21 school fiscal year in which the application is submitted. Such payment
+22 shall equal the expected amount to provide education and support services
+23 for such student subtracted from the adjusted average per pupil cost of
+24 the preceding school fiscal year, except that if the sum of all payments
+25 for applicant school districts for such school fiscal year exceed the
+26 available balance for such purpose in the Education Future Fund, each
+27 payment shall be reduced proportionally so the sum of all payments for
+28 applicant school districts for such school fiscal year equals the
+29 available balance for such purpose in the fund.
+30 Sec. 4. Section 79-1021, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-7-
+
+LB653 LB653
+2025 2025
+1 79-1021 (1) The Education Future Fund is created. The fund shall be
+2 administered by the department and shall consist of money transferred to
+3 the fund by the Legislature. Transfers may be made from the Education
+4 Future Fund to the Computer Science and Technology Education Fund at the
+5 direction of the Legislature. Any money in the Education Future Fund
+6 available for investment shall be invested by the state investment
+7 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+8 State Funds Investment Act.
+9 (2) The fund shall be used only for the following purposes, in order
+10 of priority:
+11 (a) To fully fund equalization aid under the Tax Equity and
+12 Educational Opportunities Support Act;
+13 (b) To fund reimbursements related to special education under
+14 section 79-1142;
+15 (c) To fund foundation aid under the Tax Equity and Educational
+16 Opportunities Support Act;
+17 (d) To increase funding for school districts in a way that results
+18 in direct property tax relief, which means a dollar-for-dollar
+19 replacement of property taxes by a state funding source;
+20 (e) To provide funding for a grant program created by the
+21 Legislature to address teacher turnover rates and keep existing teachers
+22 in classrooms;
+23 (f) To provide funding to increase career and technical educational
+24 classroom opportunities for students, including, but not limited to,
+25 computer science education. Such funding must provide students with the
+26 academic and technical skills, knowledge, and training necessary to
+27 succeed in future careers;
+28 (g) To provide funding for a grant program created by the
+29 Legislature to provide students the opportunity to have a mentor who will
+30 continuously engage with the student directly to aid in the student's
+31 professional growth and give ongoing support and encouragement to the
+-8-
+
+LB653 LB653
+2025 2025
+1 student;
+2 (h) To provide funding for extraordinary increases in special
+3 education expenditures to allow school districts with large, unexpected
+4 special education expenditures to more easily meet the needs of all
+5 students;
+6 (i) To provide funding to help recruit teachers throughout the state
+7 by utilizing apprenticeships through a teacher apprenticeship program and
+8 an alternative certification process;
+9 (j) To provide funding to develop and implement a professional
+10 learning system to help provide sustained professional learning and
+11 training regarding evidence-based reading instruction and for a grant
+12 program relating to dyslexia research; and
+13 (k) To provide funding for a pilot project administered by the State
+14 Department of Education to provide menstrual products to school
+15 districts; and .
+16 (l) To provide funding for education and support services of
+17 students with an individualized education program under the federal
+18 Individuals with Disabilities Education Act, 20 U.S.C. 1400 et seq., that
+19 are accepted as option students into a school district to allow school
+20 districts to accept more option students and allow students to receive
+21 the best education possible.
+22 (3)(a) The State Treasurer shall transfer one billion dollars from
+23 the General Fund to the Education Future Fund in fiscal year 2023-24, on
+24 such dates and in such amounts as directed by the budget administrator of
+25 the budget division of the Department of Administrative Services.
+26 (b) The State Treasurer shall transfer two hundred fifty million
+27 dollars from the General Fund to the Education Future Fund in fiscal year
+28 2024-25, on such dates and in such amounts as directed by the budget
+29 administrator of the budget division of the Department of Administrative
+30 Services.
+31 (c) It is the intent of the Legislature that two hundred fifty
+-9-
+
+LB653 LB653
+2025 2025
+1 million dollars be transferred from the General Fund to the Education
+2 Future Fund in fiscal year 2025-26 and each fiscal year thereafter.
+3 Sec. 5. Section 79-1142, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 79-1142 (1) Level I services refers to services provided to children
+6 with disabilities who require an aggregate of not more than three hours
+7 per week of special education services and support services and includes
+8 all administrative, diagnostic, consultative, and vocational-adjustment
+9 counselor services.
+10 (2) The total allowable reimbursable cost for support services shall
+11 not exceed a percentage, established by the State Board of Education, of
+12 the school district's or approved cooperative's total allowable
+13 reimbursable cost for all special education programs and support
+14 services. The percentage established by the board for support services
+15 shall not exceed the difference of ten percent minus the percentage of
+16 the appropriations for special education approved by the Legislature set
+17 aside for reimbursements for support services pursuant to subsection (5)
+18 of this section.
+19 (3) Except as provided in subsection (6) and (7) of this section,
+20 for special education and support services provided in each school fiscal
+21 year, the department shall reimburse each school district in the
+22 following school fiscal year eighty percent of the total allowable excess
+23 costs for all special education programs and support services.
+24 Cooperatives of school districts or educational service units shall also
+25 be eligible for reimbursement for cooperative programs pursuant to this
+26 section if such cooperatives or educational service units have complied
+27 with the reporting and approval requirements of section 79-1155 for
+28 cooperative programs which were offered in the preceding school fiscal
+29 year.
+30 (4)(a) The payments shall be made by the department to the school
+31 district of residence, cooperative of school districts, or educational
+-10-
+
+LB653 LB653
+2025 2025
+1 service unit each school year in a minimum of seven payments between the
+2 fifth and twentieth day of each month beginning in December. Additional
+3 payments may be made based upon additional valid claims submitted. The
+4 State Treasurer shall, between the fifth and twentieth day of each month,
+5 notify the Director of Administrative Services of the amount of funds
+6 available in the General Fund and the Education Future Fund for payment
+7 purposes. The director shall, upon receiving such certification, draw
+8 warrants against such funds as appropriated.
+9 (b) If the General Fund appropriations for special education
+10 approved by the Legislature, minus the amounts set aside pursuant to
+11 subsection (5) of this section, are insufficient to reimburse eighty
+12 percent of the total allowable excess costs for all special education
+13 programs and support services for any school fiscal year:
+14 (i) Such allowable excess costs shall be reimbursed from the General
+15 Fund appropriations for special education approved by the Legislature,
+16 minus the amounts set aside pursuant to subsection (5) of this section,
+17 on a pro rata basis at the maximum rate of reimbursement such
+18 appropriations will allow as determined by the department; and
+19 (ii) The remainder of the eighty percent reimbursement of such
+20 allowable excess costs shall be paid from the Education Future Fund.
+21 (5) Residential settings described in subdivision (10)(c) of section
+22 79-215 shall be reimbursed for the educational services, including
+23 special education services and support services, in an amount determined
+24 pursuant to the average per pupil cost of the service agency.
+25 Reimbursements pursuant to this section shall be made from funds set
+26 aside for such purpose within sixty days after receipt of a reimbursement
+27 request submitted in the manner required by the department and including
+28 any documentation required by the department for educational services
+29 that have been provided, except that if there are not any funds available
+30 for the remainder of the state fiscal year for such reimbursements, the
+31 reimbursement shall occur within thirty days after the beginning of the
+-11-
+
+LB653 LB653
+2025 2025
+1 immediately following state fiscal year. The department may audit any
+2 required documentation and subtract any payments made in error from
+3 future reimbursements. The department shall set aside separate amounts
+4 from the appropriations for special education approved by the Legislature
+5 for reimbursements pursuant to this subsection for students receiving
+6 special education services and for students receiving support services
+7 for each state fiscal year. The amounts set aside for each purpose shall
+8 be based on estimates of the reimbursements to be requested during the
+9 state fiscal year and shall not be less than the total amount of
+10 reimbursements requested in the prior state fiscal year plus any unpaid
+11 requests from the prior state fiscal year.
+12 (6) For each school district that received a payment pursuant to the
+13 Extraordinary Increase in Special Education Expenditures Act in the
+14 school fiscal year for which special education expenditures were
+15 reimbursed pursuant to subsection (3) of this section, an amount equal to
+16 such payment shall be subtracted from the reimbursement calculated
+17 pursuant to subsection (3) of this section and such amount shall be
+18 transferred to the Education Future Fund.
+19 (7) For each school district that received a payment pursuant to
+20 subsection (2) of section 79-246 in the school fiscal year for which
+21 special education expenditures were reimbursed pursuant to subsection (3)
+22 of this section, an amount equal to the payment made pursuant to
+23 subsection (2) of section 79-246 shall be subtracted from the
+24 reimbursement calculated pursuant to subsection (3) of this section and
+25 such amount shall be transferred to the Education Future Fund.
+26 (8) (7) On or before November 15 of each year, the department shall
+27 submit to the Governor, the Appropriations Committee of the Legislature,
+28 and the Education Committee of the Legislature:
+29 (a) The total allowable excess costs for all special education
+30 programs and support services for all school districts, cooperatives of
+31 school districts, and educational service units; and
+-12-
+
+LB653 LB653
+2025 2025
+1 (b) The total reimbursements requested pursuant to subsection (5) of
+2 this section for the most recently completed school fiscal year.
+3 Sec. 6. Original sections 79-238, 79-239, 79-246, 79-1021, and
+4 79-1142, Reissue Revised Statutes of Nebraska, are repealed.
+-13-
+
+[DELETED: yMA B F A A r t e t a s 77 7 7 a 7 R R S oN t c p r t a ca r a p f r f c su t e o p t c a u ot E F F t c p r tr f s e p a s stB3L52]
+[DELETED: Sa7 ( E a p i t s a s7 a 7 t s b o t o s dsr( ( C f s e s o b ao s d s b d o a c bs0a1t t s h a i e p u t2f I w D E A 2 U 1 e3s o h b d w a d a d i s47 s a s b e b t d o5s e s o t s d o t d6d7c8c t p t a t a s a9a0( R o c f s e s t1n2p3U 1 e s w a d b s s d c4e5b6(7p c g l o s b C s b8d9w0u a s f p e o r1s3L52]
+[DELETED: d(e p a r t c f e s bu s d c p t p c ad e b t S B o E E ao p i t s a s b m b rps u t o s f t n s y d tl o c S s n i p a0a a o o e a d1p2e3a o a s b b s b b u t4e o p a r a a f a s5b t i a c f p o t e o6p s n t p o g t s s7a8a9e0s1d m b c f t o s d t r 2p a a i t r o p t t3s4( T s b o e s d s a a5s s a c f a o r o 6r f r o a r o o s s a7a8( o s 7 S s n i t a r9o0(1c s a a a a o s g f3L52]
+[DELETED: ps d , e t t o s d s n brc(g f p f e t a a ar o c s o o s e i to s d s p f e t s wh0e1i t l c a w c t t s2d3b4t5d6c i t s i t d i a c a d7p8s9t e o p a s w c t t0s d o e a a s b w 1l2r l w b u t c p t3s 7 t s b t s w b a t4a e h m s q f f o r5l t t a p o s s i a s6b i t l c o p f m t a7s8w q f f o r l b o i9c v f p a g p t s07 w b u t c p t s 71t s b t s w b a t a h f3L52]
+[DELETED: s q f f o r l t t ap o s s i a s b i t lccS 2 S 7 R R S o N ia7si a t t a i i a w b0a1(2o3s ( o s 7 t r s d s4p5s r f t r i f s w a6i e p u t f I w7D8d a d i s 7 a d o s9a0c1t S B o E S n s b s b2c3(4S B o E b f a w r t w 5c o t r n w t S B o E S6r a c o t n m b r b t b w7t8b9w t A P A a s d w t0p1b3L52]
+[DELETED: tw( ( B J 1 2 a o o b J 1 oe y t e s d s p t t SD o E i p b t C oE r t a a r b t o sd a a r t s w a ie(0d e t i a r b t s1d s n b i ( ( a e w e2a3e i t t s h a i e4p5U 1 e s o h b i a a s w 6d a d i s 7 ( a ( w7i r t r o s ( o s879a i e p s i s d f a s w a0i e p u t f I w1D2( T C o E s a c t3i4s516B o E m a a p r a r t7c8S 3 S 7 R R S o N i9a071o3L52]
+[DELETED: s( T r s d o a o s s be(tad(d t a a a f a o s w a0i e p u t f I w1D2f3t4y5E6t7i d e c f p e a s8s9(0q a s d o o b N 1 f t1s2s3f4t5f a s d f s s f y e t6a b f s p i t E F F e7p8a s d f s s f y e t9a0S 4 S 7 R R S o N i1a3L52]
+[DELETED: 7at f b t L T m b m f t EFd o t L A m i t E F Fa f i s b i b t s ioS(0o1( T f f e a u t T E a2E3( T f r r t s e u4s5( T f f a u t T E a E6O7(8i d p t r w m a d9r0( T p f f a g p c b t1L2i3(4c o f s i b n l t5c6a a t s k a t n t7s8( T p f f a g p c b t9L0c e w t s d t a i t s1p g a g o s a e t t3L52]
+[DELETED: s( T p f f e i i ses e e t m e m t n o as(ba( T p f t d a i a p0l s t h p s p l a1t r e r i a f a g2p3(4D o E t p m p t s5d6( T p f f e a s s o7s w a i e p u t f8I9a0d1t2(3t4s5t6( T S T s t t h f m7d82 o s d a i s a a d b t b9a0S1( I i t i o t L t t h f3L52]
+[DELETED: m d b t f t G F t t EFS 5 S 7 R R S o N ia7wpa a d c a vc0(1n2t s d o a c t a3r c f a s e p a s4s T p e b t b f s s5s6t7a8o9(0f1y t d s r e s d i t2f3c f a s e p a s s4C5b6s7w t r a a r o s 7 f8c p w w o i t p s f9y0(1d o r c o s d o e3L52]
+[DELETED: sfpSn t D o A S o t a o fap T d s u r s c dw( I t G F a f s e0a b t L m t a s a p t1s ( o t s a i t r e2p o t t a e c f a s e3p4(5F a f s e a b t L6m7o a p r b a t m r o r s8a9( T r o t e p r o s0a1(27 s b r f t e s i3s4p t t a p p c o t s a5R p t t s s b m f f s6a7r8a d r b t d f e s9t0f1r3L52]
+[DELETED: i f s f y T d m a ar d a s a p m i e ff r T d s s a s aff r p t t s f s rs e s a f s r s sfbs f y a s n b l t t t a o0r1r2(3E I i S E E A i t4s f y f w s e e w5r6s p s b s f t r c7p t s ( o t s a s a s b8t9( F e s d t r a p p t0s ( o s 7 i t s f y f w1s2o t s a a e t t p m p t3s ( o s 7 s b s f t4r5s6(7s8a9( T t a e c f a s e0p1s3L52]
+[DELETED: (tS 6  O s 7 7 7 7 a73L52]

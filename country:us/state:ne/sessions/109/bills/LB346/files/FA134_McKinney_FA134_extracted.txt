@@ -1,0 +1,32 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - McKinney FA134
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA134 FA134
+LB346 LB346
+Floor Amendment To LB346
+(Amendment to AM492)
+Introduced by McKinney, 11.
+In AM492, strike section 7.
+-1-
+[DELETED: yM4F6L]
+
+
+================================================================================
+
+Raw Text:
+FA134 FA134
+LB346 LB346
+Floor Amendment To LB346
+(Amendment to AM492)
+Introduced by McKinney, 11.
+In AM492, strike section 7.
+-1-
+
+[DELETED: yM4F6L]

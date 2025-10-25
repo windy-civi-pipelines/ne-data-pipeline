@@ -1,0 +1,33 @@
+Title: 1 1. On page 5, line 2, strike "The" and insert "No later than July 1,
+Official Title: 1 1. On page 5, line 2, strike "The" and insert "No later than July 1,
+Number of Sections: 1
+Source: versions - Health and Human Services AM249 Cavanaugh, M. AM516
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM249 AM249
+LB13 LB13
+DLM - 02/11/2025 DLM - 02/11/2025
+AMENDMENTS TO LB13
+Introduced by Health and Human Services.
+2 2026, the".
+-1-
+[DELETED: yH129A3L5D]
+
+
+================================================================================
+
+Raw Text:
+AM249 AM249
+LB13 LB13
+DLM - 02/11/2025 DLM - 02/11/2025
+AMENDMENTS TO LB13
+Introduced by Health and Human Services.
+1 1. On page 5, line 2, strike "The" and insert "No later than July 1,
+2 2026, the".
+-1-
+
+[DELETED: yH129A3L5D]
