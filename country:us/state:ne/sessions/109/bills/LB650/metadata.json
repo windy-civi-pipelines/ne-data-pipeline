@@ -1,0 +1,1095 @@
+{
+  "legislative_session": "109",
+  "identifier": "LB650",
+  "title": "Adopt the Community Development Assistance Act and change provisions relating to land banks, property tax exemptions, real property sold for delinquent taxes, sales tax provisions, and certain tax credits",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Provisions/portions of LB547 amended into LB650 by AM923",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Provisions/portions of LB495 amended into LB650 by AM923",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Provisions/portions of LB494 amended into LB650 by AM923",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Provisions/portions of LB458 amended into LB650 by AM923",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Provisions/portions of LB270 amended into LB650 by AM923",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Approved by Governor on May 6, 2025",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Presented to Governor on  April 30, 2025",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "President/Speaker signed",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Passed on Final Reading with Emergency Clause 40-7*-2",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Dispensing of reading at large approved",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on Final Reading",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review for Engrossment",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Cavanaugh, J. FA131 lost",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Cavanaugh, J. FA131 filed",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "McKinney AM1155 lost",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "McKinney AM1155 filed",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hallstrom AM1123 withdrawn",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hallstrom AM1066 adopted",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hallstrom AM1089 withdrawn",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1132 adopted",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1118 adopted",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER45 adopted",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hallstrom AM1123 filed",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hallstrom AM1066 filed",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hallstrom AM1089 filed",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1132 filed",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1118 filed",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER45 filed",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on Select File with ER45",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review Initial",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM690 withdrawn",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM923 adopted",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1020 adopted",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1020 to AM923 filed",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM981 adopted",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM981 pending",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO162 withdrawn",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO162 Recommit to the Revenue Committee filed",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO161 withdrawn",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO161 Bracket until June 10, 2025 filed",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM923 pending",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO160 withdrawn",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO160 Indefinitely postpone pursuant to Rule 6, Sec. 3(f) filed",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO157 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO156 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO155 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO154 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO153 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern FA85 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern FA84 withdrawn",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM981 to AM923 filed",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM923 filed",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on General File with AM923",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern FA85 filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern FA84 filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO157 Recommit to the Revenue Committee filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO156 Bracket until June 10, 2025 filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO155 Recommit to the Revenue Committee filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO154 Bracket until June 10, 2025 filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern MO153 Indefinitely postpone pursuant to Rule 6, Sec. 3(f) filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM690 filed",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue priority bill",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for March 19, 2025",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for February 07, 2025 (cancel)",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for February 07, 2025",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Referred to Revenue Committee",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "von Gillern",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"von Gillern\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB650.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Reading",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB650.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Slip Law",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB650.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revenue AM923 von Gillern AM1020 von Gillern AM981",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM923.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern AM1020",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1020.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern AM981",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM981.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ER45",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ER45.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern AM1118",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1118.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern AM1132",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1132.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Hallstrom AM1066",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1066.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Intent",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB650.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Statement",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB650.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/bills/view_fiscal.php?DocumentID=59281",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern FA85 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA85.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern FA84 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA84.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO157 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO157.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO156 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO156.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO155 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO155.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO154 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO154.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO153 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO153.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO160 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO160.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO161 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO161.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern MO162 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO162.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern AM690 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM690.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Hallstrom AM1089 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1089.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Hallstrom AM1123 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1123.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKinney AM1155 (lost)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1155.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Cavanaugh, J. FA131 (lost)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA131.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59281",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_DATE": "February 07, 2025",
+    "NE_REF_COM": "Revenue Committee",
+    "NE_PRIORITIZER": "Revenue Committee"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:56Z"
+  }
+}

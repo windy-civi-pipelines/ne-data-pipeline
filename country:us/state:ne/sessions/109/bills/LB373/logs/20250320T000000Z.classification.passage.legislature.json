@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed on Final Reading 44-1*-4",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB373"
+}

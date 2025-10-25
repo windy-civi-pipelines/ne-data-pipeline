@@ -1,0 +1,579 @@
+{
+  "legislative_session": "109",
+  "identifier": "LB287",
+  "title": "Provide for regulation of housing authorities by ordinance, change provisions relating to sanitary and improvement districts, and provide requirements relating to bed bugs under the Nebraska Housing Agency Act",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Provisions/portions of LB514 amended into LB287 by AM608",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Provisions/portions of LB321 amended into LB287 by AM608",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Communication",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Failed to become law notwithstanding the objections of the Governor 24-24-1",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney MO281 failed",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney MO281 That the bill becomes law notwithstanding the objections of the Governor filed",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Returned by Governor without approval on May 20, 2025",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Presented to Governor on  May 14, 2025",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "President/Speaker signed",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Passed on Final Reading with Emergency Clause 34-15-0",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Dispensing of reading at large approved",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ST23 recorded",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ST23 filed",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on Final Reading with ST23",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Readvanced to Enrollment and Review for Engrossment",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney AM1000 adopted",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Returned to Select File for specific amendment",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney AM1000 filed",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review for Engrossment",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney AM961 adopted",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney AM961 filed",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney AM990 adopted",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKinney AM990 filed",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER32 adopted",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER32 filed",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on Select File with ER32",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review Initial",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Urban Affairs AM608 adopted",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Urban Affairs AM608 filed",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on General File with AM608",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Urban Affairs priority bill",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for February 11, 2025",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Spivey name added",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Referred to Urban Affairs Committee",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Urban Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Urban Affairs Committee\"}"
+    },
+    {
+      "name": "Spivey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Spivey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB287.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Reading",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB287.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Urban Affairs AM608",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM608.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ER32",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ER32.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKinney AM990",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM990.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKinney AM961",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM961.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKinney AM1000",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Intent",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB287.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Statement",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB287.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/bills/view_fiscal.php?DocumentID=59403",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ST23 (recorded)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ST23.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKinney MO281 (failed)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO281.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59403",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_DATE": "February 11, 2025",
+    "NE_REF_COM": "Urban Affairs Committee",
+    "NE_PRIORITIZER": "Urban Affairs Committee"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:57Z"
+  }
+}

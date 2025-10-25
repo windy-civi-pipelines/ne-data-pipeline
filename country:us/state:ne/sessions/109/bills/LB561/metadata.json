@@ -1,0 +1,516 @@
+{
+  "legislative_session": "109",
+  "identifier": "LB561",
+  "title": "Provide restrictions and change provisions related to operation of vehicles carrying raw milk",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Approved by Governor on May 15, 2025",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Presented to Governor on  May 14, 2025",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "President/Speaker signed",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Passed on Final Reading with Emergency Clause 49-0-0",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Dispensing of reading at large approved",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on Final Reading",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review for Engrossment",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Brandt AM1209 adopted",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER57 adopted",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Brandt AM1209 to AM316 filed",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER57 filed",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on Select File with ER57",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review Initial",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon AM978 withdrawn",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Transportation and Telecommunications AM316 adopted",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Brandt AM758 adopted",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Meyer name added",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Dover name added",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon AM978 to AM316 filed",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Brandt AM758 to AM316 filed",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "DeKay name added",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Speaker priority bill",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Transportation and Telecommunications AM316 filed",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on General File with AM316",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Murman name added",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for February 18, 2025",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Referred to Transportation and Telecommunications Committee",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brandt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brandt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Meyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Meyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dover",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dover\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DeKay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DeKay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Murman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB561.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Reading",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB561.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Slip Law",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB561.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Transportation and Telecommunications AM316 Brandt AM758",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM316.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Brandt AM758",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM758.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ER57",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ER57.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Brandt AM1209",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1209.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Intent",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB561.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Statement",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB561.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/bills/view_fiscal.php?DocumentID=59782",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKeon AM978 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM978.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59782",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_DATE": "February 18, 2025",
+    "NE_REF_COM": "Transportation and Telecommunications Committee",
+    "NE_PRIORITIZER": "Speaker Arch"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:57Z"
+  }
+}

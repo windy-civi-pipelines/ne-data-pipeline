@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lonowski MO25 Withdraw LB418 filed",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB418"
+}

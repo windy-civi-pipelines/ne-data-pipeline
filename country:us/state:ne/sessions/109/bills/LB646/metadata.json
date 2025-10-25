@@ -1,0 +1,788 @@
+{
+  "legislative_session": "109",
+  "identifier": "LB646",
+  "title": "Provide an exemption from brand inspections and change fees under the Livestock Brand Act",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Enrollment and Review ST42 recorded",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ST42 filed",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on Final Reading with ST42",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review for Engrossment",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Jacobson AM1558 adopted",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach FA271 adopted",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach FA271 to AM1558 filed",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Storer FA270 withdrawn",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Storer FA270 to AM1558 filed",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Jacobson AM1558 filed",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM1342 withdrawn",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach FA95 withdrawn",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Storer MO280 withdrawn",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Storer MO280 Bracket until June 9, 2025 filed",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER41 adopted",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM1342 filed",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach FA95 filed",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER41 filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on Select File with ER41",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review Initial",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Agriculture AM638 adopted",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon FA82 lost",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon FA82 filed",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon AM796 withdrawn",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Storer AM810 lost",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM762 withdrawn",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM829 adopted",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM829 pending",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach FA52 withdrawn",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach MO151 prevailed",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach MO151 Withdraw FA52 and substitute AM829 filed",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Objection to unanimous consent request to substitute amendment",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Agriculture AM638 pending",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon AM796 to AM638 filed",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM829 to AM638 filed",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "McKeon name withdrawn",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Storer AM810 to AM638 filed",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Jacobson name withdrawn",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach AM762 to AM638 filed",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach FA52 to AM638 filed",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Agriculture AM638 filed",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Placed on General File with AM638",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Ibach priority bill",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for February 11, 2025",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Referred to Agriculture Committee",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ibach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ibach\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB646.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Reading",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB646.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Agriculture AM638 McKeon FA82 McKeon AM796 Storer AM810 Ibach AM829 Ibach AM762 Ibach FA52",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM638.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach AM829",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM829.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ER41",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ER41.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Jacobson AM1558 Storer FA270",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1558.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach FA271",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA271.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Intent",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB646.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Statement",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB646.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/bills/view_fiscal.php?DocumentID=59031",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach MO151 (prevailed)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO151.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKeon FA82 (lost)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "McKeon AM796 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM796.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Storer AM810 (lost)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM810.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach AM762 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM762.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach FA52 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA52.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Storer MO280 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO280.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach FA95 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA95.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ibach AM1342 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1342.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Storer FA270 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/FA270.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ST42 (recorded)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ST42.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59031",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_DATE": "February 11, 2025",
+    "NE_REF_COM": "Agriculture Committee",
+    "NE_PRIORITIZER": "Senator Ibach"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:57Z"
+  }
+}

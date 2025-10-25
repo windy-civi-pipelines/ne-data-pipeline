@@ -1,0 +1,121 @@
+{
+  "legislative_session": "109",
+  "identifier": "LB583",
+  "title": "Change provisions relating to the rate and disbursement of the documentary stamp tax, the Child Care Grant Fund, child care grants, the Military Installation Development and Support Fund, the Affordable Housing Trust Fund, the Innovation Hub Cash Fund, the Economic Recovery Contingency Fund, and the Health Care Homes for the Medically Underserved Fund",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Notice of hearing for February 21, 2025",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:58Z"
+      }
+    },
+    {
+      "description": "Referred to Revenue Committee",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:58Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Spivey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Spivey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB583.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Intent",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB583.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/bills/view_fiscal.php?DocumentID=59672",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59672",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_DATE": "February 21, 2025",
+    "NE_REF_COM": "Revenue Committee"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:58Z"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "legislative_session": "109",
+  "identifier": "LR11CA",
+  "title": "Constitutional amendment to prohibit governmental entities from imposing any taxes other than retail consumption taxes and excise taxes",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Bill withdrawn",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hardin MO33 prevailed",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Hardin MO33 Withdraw LR11CA filed",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Referred to Revenue Committee",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hardin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hardin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LR11CA.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Hardin MO33 (prevailed)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/MO33.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58806",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_COM": "Revenue Committee"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:56Z"
+  }
+}

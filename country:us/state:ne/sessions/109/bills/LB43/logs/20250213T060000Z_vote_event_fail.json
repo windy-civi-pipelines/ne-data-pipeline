@@ -1,0 +1,45 @@
+{
+  "identifier": "",
+  "motion_text": "DeKay AM215 adopted",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-13T06:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"legislature\"}",
+  "legislative_session": "109",
+  "bill": "93b6bbc0-b14f-11f0-86dd-d6fd366557ce",
+  "bill_action": null,
+  "bill_identifier": "LB43",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_votes.php?KeyID=11562",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11562"
+}

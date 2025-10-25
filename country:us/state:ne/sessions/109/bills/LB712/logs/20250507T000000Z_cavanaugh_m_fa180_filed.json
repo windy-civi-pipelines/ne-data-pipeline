@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Cavanaugh, M. FA180 filed",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB712"
+}

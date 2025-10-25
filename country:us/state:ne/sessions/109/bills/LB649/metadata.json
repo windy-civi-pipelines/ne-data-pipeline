@@ -1,0 +1,441 @@
+{
+  "legislative_session": "109",
+  "identifier": "LB649",
+  "title": "Adopt the Defense Efforts Workforce Act",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Approved by Governor on June 4, 2025",
+      "date": "2025-06-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Presented to Governor on  May 30, 2025",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "President/Speaker signed",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Passed on Final Reading 44-4*-1",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Dispensing of reading at large approved",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on Final Reading",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review for Engrossment",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1210 adopted",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER52 adopted",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "von Gillern AM1210 to AM933 filed",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Enrollment and Review ER52 filed",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on Select File with ER52",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Advanced to Enrollment and Review Initial",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Sanders AM632 withdrawn",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM933 adopted",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM933 pending",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM933 pending",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Revenue AM933 filed",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on General File with AM933",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Sanders AM632 filed",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for March 26, 2025 on AM632",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Sanders priority bill",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Notice of hearing for March 26, 2025",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Referred to Revenue Committee",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    },
+    {
+      "description": "Date of introduction",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:20:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Revenue Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Revenue Committee\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB649.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Reading",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB649.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Slip Law",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB649.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revenue AM933",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM933.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment and Review ER52",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/ER52.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "von Gillern AM1210",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM1210.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Statement of Intent",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB649.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Statement",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB649.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/bills/view_fiscal.php?DocumentID=59698",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Sanders AM632 (withdrawn)",
+      "links": [
+        {
+          "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM632.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+      "note": ""
+    },
+    {
+      "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59698",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "NE_REF_DATE": "March 26, 2025",
+    "NE_REF_COM": "Revenue Committee",
+    "NE_PRIORITIZER": "Senator Sanders"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ne/government",
+    "name": "Nebraska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ne"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:20:56Z"
+  }
+}

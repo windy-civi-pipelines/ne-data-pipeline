@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sanders AM1333 filed",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB521"
+}

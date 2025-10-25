@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ibach FA271 to AM1558 filed",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB646"
+}

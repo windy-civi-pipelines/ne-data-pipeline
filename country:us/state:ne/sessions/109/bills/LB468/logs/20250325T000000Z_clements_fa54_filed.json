@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Clements FA54 filed",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB468"
+}

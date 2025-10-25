@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Moser MO26 Suspend Rule 3, Section 14, to permit cancellation of the public hearing by the Transportation and Telecommunications Committee on LB714. filed",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB714"
+}

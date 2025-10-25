@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hunt MO175 Recommit to the Judiciary Committee filed",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB669"
+}

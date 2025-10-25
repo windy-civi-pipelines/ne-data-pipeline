@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sorrentino MO279 not considered",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB258"
+}

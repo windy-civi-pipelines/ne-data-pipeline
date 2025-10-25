@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on General File",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB353"
+}

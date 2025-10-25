@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hardin FA17 adopted",
+    "date": "2025-02-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB118"
+}

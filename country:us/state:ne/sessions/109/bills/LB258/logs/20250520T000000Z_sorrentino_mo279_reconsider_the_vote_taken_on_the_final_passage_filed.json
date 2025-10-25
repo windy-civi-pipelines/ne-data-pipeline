@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sorrentino MO279 Reconsider the vote taken on the final passage filed",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB258"
+}

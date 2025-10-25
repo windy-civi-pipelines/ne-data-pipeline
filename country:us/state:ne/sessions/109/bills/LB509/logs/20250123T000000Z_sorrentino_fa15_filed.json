@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sorrentino FA15 filed",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB509"
+}

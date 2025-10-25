@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed on Final Reading 31-17*-1",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB258"
+}

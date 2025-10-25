@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hansen AM295 filed",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LR28CA"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Health and Human Services AM249 pending",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB13"
+}

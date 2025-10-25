@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "McKinney MO80 Bracket until June 9, 2025 filed",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB79"
+}

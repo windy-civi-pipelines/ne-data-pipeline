@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "von Gillern MO162 withdrawn",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB650"
+}

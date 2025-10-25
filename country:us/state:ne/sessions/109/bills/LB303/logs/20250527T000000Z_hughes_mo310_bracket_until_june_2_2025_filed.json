@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hughes MO310 Bracket until June 2, 2025 filed",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB303"
+}

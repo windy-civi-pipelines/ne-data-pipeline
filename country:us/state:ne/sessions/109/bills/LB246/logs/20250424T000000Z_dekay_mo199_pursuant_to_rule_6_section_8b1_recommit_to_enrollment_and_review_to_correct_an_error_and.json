@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "DeKay MO199 Pursuant to Rule 6, Section 8(b)(1), recommit to Enrollment and Review to correct an error and for reengrossment filed",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB246"
+}

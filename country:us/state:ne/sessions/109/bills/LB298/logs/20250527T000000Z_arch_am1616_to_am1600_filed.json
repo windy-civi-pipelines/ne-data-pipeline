@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Arch AM1616 to AM1600 filed",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB298"
+}

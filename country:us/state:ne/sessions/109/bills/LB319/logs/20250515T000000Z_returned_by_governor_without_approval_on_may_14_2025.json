@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned by Governor without approval on May 14, 2025",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB319"
+}

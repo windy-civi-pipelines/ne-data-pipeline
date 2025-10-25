@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Brandt MO273 Withdraw AM603 and substitute AM1318 filed",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB170"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Dover AM968 to AM733 filed",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB288"
+}

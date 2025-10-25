@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Holdcroft MO12 withdrawn",
+    "date": "2025-01-24",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB213"
+}

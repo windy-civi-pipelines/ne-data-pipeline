@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrollment and Review ER82 filed",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB490"
+}

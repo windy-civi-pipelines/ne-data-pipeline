@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "McKinney FA134 to AM492 filed",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB346"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Advanced to Enrollment and Review Initial",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB143"
+}

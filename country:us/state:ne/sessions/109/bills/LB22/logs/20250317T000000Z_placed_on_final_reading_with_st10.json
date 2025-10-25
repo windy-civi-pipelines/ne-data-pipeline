@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on Final Reading with ST10",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB22"
+}

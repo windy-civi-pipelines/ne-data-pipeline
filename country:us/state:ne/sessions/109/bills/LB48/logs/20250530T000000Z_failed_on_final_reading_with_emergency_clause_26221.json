@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed on Final Reading with Emergency Clause 26-22*-1",
+    "date": "2025-05-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB48"
+}

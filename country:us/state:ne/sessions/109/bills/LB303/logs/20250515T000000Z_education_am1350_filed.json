@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Education AM1350 filed",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB303"
+}

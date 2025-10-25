@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Conrad AM246 filed",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB241"
+}

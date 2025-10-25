@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ballard MO137 Invoke cloture pursuant to Rule 7, Sec. 10 filed",
+    "date": "2025-03-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB415"
+}

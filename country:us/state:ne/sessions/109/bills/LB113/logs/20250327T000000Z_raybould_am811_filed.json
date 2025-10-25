@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Raybould AM811 filed",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB113"
+}

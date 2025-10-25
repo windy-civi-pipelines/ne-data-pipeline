@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Prokop priority resolution",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LR20CA"
+}

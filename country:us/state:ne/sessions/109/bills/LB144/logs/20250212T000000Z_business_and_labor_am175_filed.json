@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Business and Labor AM175 filed",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB144"
+}

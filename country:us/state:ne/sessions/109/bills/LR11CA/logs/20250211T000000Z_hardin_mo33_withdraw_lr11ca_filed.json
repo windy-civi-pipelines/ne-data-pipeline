@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hardin MO33 Withdraw LR11CA filed",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LR11CA"
+}

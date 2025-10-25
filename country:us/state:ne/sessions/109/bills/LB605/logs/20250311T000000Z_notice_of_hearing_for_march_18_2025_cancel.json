@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Notice of hearing for March 18, 2025 (cancel)",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB605"
+}

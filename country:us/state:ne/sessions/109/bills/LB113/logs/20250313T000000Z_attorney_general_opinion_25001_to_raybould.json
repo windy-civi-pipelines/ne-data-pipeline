@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Attorney General Opinion 25-001 to Raybould",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB113"
+}

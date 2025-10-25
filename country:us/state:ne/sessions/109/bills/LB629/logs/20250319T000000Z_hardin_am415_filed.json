@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hardin AM415 filed",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB629"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed on General File with AM102",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB22"
+}

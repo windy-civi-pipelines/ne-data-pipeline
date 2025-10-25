@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "von Gillern MO161 Bracket until June 10, 2025 filed",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB650"
+}

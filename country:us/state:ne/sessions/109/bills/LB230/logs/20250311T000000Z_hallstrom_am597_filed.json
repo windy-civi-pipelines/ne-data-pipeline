@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Hallstrom AM597 filed",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB230"
+}

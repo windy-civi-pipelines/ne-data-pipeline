@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "McKinney MO281 That the bill becomes law notwithstanding the objections of the Governor filed",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB287"
+}

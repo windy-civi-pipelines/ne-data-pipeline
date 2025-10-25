@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Notice of hearing for January 22, 2025",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB24"
+}

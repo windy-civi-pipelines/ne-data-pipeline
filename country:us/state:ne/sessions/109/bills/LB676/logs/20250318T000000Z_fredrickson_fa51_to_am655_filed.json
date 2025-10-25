@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Fredrickson FA51 to AM655 filed",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB676"
+}

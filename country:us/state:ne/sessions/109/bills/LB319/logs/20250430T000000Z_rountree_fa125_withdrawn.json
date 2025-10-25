@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rountree FA125 withdrawn",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB319"
+}

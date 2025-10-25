@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrollment and Review ST6 filed",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB251"
+}

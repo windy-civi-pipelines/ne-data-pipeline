@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor on May 6, 2025",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB645"
+}

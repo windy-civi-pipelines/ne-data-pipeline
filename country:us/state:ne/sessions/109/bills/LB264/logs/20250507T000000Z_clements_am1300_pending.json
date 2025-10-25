@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Clements AM1300 pending",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB264"
+}

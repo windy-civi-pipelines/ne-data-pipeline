@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed to become law notwithstanding the objections of the Governor 24-24-1",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB319"
+}

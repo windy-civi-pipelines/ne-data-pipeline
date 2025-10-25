@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Conrad MO27 Bracket until June 9, 2025 filed",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB645"
+}

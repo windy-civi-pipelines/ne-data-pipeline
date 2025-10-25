@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Spivey MO56 Place on General File pursuant to Rule 3, Sec. 20(b) filed",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB102"
+}

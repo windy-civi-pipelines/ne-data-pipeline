@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conrad name added",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB282"
+}

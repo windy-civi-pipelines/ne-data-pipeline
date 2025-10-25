@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Dungan FA58 to AM770 filed",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB415"
+}

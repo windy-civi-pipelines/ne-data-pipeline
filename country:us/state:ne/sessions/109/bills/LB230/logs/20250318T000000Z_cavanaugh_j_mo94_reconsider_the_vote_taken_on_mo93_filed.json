@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Cavanaugh, J. MO94 Reconsider the vote taken on MO93 filed",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB230"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Government, Military and Veterans Affairs AM895 filed",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB69"
+}

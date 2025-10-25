@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed on Final Reading with Emergency Clause 42-6*-1",
+    "date": "2025-05-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LB647A"
+}

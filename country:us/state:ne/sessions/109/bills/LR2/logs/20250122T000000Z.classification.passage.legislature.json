@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "President/Speaker signed",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LR2"
+}

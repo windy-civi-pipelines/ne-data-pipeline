@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conrad AM358 lost",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LB31"
+}
