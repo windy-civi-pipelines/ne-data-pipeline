@@ -1,0 +1,1707 @@
+Title: LEGISLATIVE BILL 265
+Official Title: LEGISLATIVE BILL 265
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+LB265 LB265
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Sorrentino, 39.
+Read first time January 15, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to labor; to amend sections 48-602, 48-648,
+2 48-649.01, 48-657, 48-3405, 81-407, and 81-1201.21, Reissue Revised
+3 Statutes of Nebraska, and sections 48-622.01, 48-622.02, and
+4 48-649.03, Revised Statutes Cumulative Supplement, 2024; to
+5 eliminate certain funds and change certain references to funds; to
+6 change provisions relating to the state unemployment insurance tax
+7 rate and the Workforce Development Program Cash Fund; to eliminate
+8 the Nebraska Worker Training Board; to harmonize provisions; to
+9 provide an operative date; to repeal the original sections; to
+10 outright repeal section 48-622.03, Reissue Revised Statutes of
+11 Nebraska; and to declare an emergency.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+LB265 LB265
+2025 2025
+1 Section 1. Section 48-602, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 48-602 For purposes of the Employment Security Law, unless the
+4 context otherwise requires:
+5 (1) Agricultural labor means services performed:
+6 (a) On a farm, in the employ of any employer, in connection with
+7 cultivating the soil or in connection with raising or harvesting any
+8 agricultural or horticultural commodity, including the raising, shearing,
+9 feeding, caring for, training, and management of livestock, bees,
+10 poultry, fur-bearing animals, and wildlife;
+11 (b) In the employ of the owner, tenant, or other operator of a farm,
+12 in connection with the operation, management, conservation, improvement,
+13 or maintenance of such farm and its tools and equipment or in salvaging
+14 timber or clearing land of brush and other debris left by a windstorm, if
+15 the major part of such service is performed on a farm;
+16 (c) In connection with the production or harvesting of any commodity
+17 in connection with the operation or maintenance of ditches, canals,
+18 reservoirs, or waterways, not owned or operated for profit, used
+19 exclusively for supplying and storing water for farming purposes;
+20 (d)(i) In the employ of the operator of a farm in handling,
+21 planting, drying, packing, packaging, processing, freezing, grading,
+22 storing, or delivering to storage or to market or to a carrier for
+23 transportation to market, in its unmanufactured state, any agricultural
+24 or horticultural commodity, but only if such operator produced more than
+25 one-half of the commodity with respect to which such service is
+26 performed, or (ii) in the employ of a group of operators of farms, or a
+27 cooperative organization of which such operators are members, in the
+28 performance of service described in subdivision (1)(d)(i) of this
+29 section, but only if such operators produced more than one-half of the
+30 commodity with respect to which such service is performed. Subdivisions
+31 (1)(d)(i) and (ii) of this section shall not be deemed to be applicable
+-2-
+LB265 LB265
+2025 2025
+1 with respect to service performed in connection with commercial canning
+2 or commercial freezing or in connection with any agricultural or
+3 horticultural commodity after its delivery to a terminal market for
+4 distribution for consumption; or
+5 (e) On a farm operated for profit if such service is not in the
+6 course of the employer's trade or business;
+7 (2) Base period means the first four of the last five completed
+8 calendar quarters immediately preceding the first day of an individual's
+9 benefit year, except that if the individual is not monetarily eligible
+10 for unemployment benefits as determined pursuant to section 48-627.01
+11 based upon wages paid during the first four of the five most recently
+12 completed calendar quarters, the department shall make a redetermination
+13 of monetary eligibility based upon an alternative base period which
+14 consists of the last four completed calendar quarters immediately
+15 preceding the first day of the claimant's benefit year;
+16 (3) Benefits means the money payments payable to an individual with
+17 respect to his or her unemployment;
+18 (4) Benefit year, with respect to any individual, means the one-year
+19 period beginning with the first day of the first week with respect to
+20 which the individual first files a valid claim for benefits, and
+21 thereafter the one-year period beginning with the first day of the first
+22 week with respect to which the individual next files a valid claim for
+23 benefits after the termination of his or her last preceding benefit year.
+24 Any claim for benefits made in accordance with section 48-629 shall be
+25 deemed to be a valid claim for the purpose of this subdivision if the
+26 individual has been paid the wages for insured work required under
+27 section 48-627.01. For the purposes of this subdivision a week with
+28 respect to which an individual files a valid claim shall be deemed to be
+29 in, within, or during that benefit year which includes the greater part
+30 of such week;
+31 (5) Calendar quarter means the period of three consecutive calendar
+-3-
+LB265 LB265
+2025 2025
+1 months ending on March 31, June 30, September 30, or December 31, or the
+2 equivalent thereof as the Commissioner of Labor may by rule and
+3 regulation prescribe;
+4 (6) Client means any individual, partnership, limited liability
+5 company, corporation, or other legally recognized entity that contracts
+6 with a professional employer organization to obtain professional employer
+7 services relating to worksite employees through a professional employer
+8 agreement;
+9 (7) Combined tax means the employer liability consisting of
+10 contributions and the state unemployment insurance tax;
+11 (8) Combined tax rate means the rate which is applied to wages to
+12 determine the combined taxes due;
+13 (9) Commissioner means the Commissioner of Labor;
+14 (10) Commodity means an agricultural commodity as defined in section
+15 15(g) of the federal Agricultural Marketing Act, as amended, 12 U.S.C.
+16 1141j;
+17 (11) Contribution rate means the percentage of the combined tax rate
+18 used to determine the contribution portion of the combined tax;
+19 (12) Contributions means that portion of the combined tax based upon
+20 the contribution rate portion of the combined tax rate which is deposited
+21 in the state Unemployment Compensation Fund as required by sections
+22 48-648 and 48-649 to 48-649.04;
+23 (13) Crew leader means an individual who furnishes individuals to
+24 perform service in agricultural labor for any other person, pays, either
+25 on his or her own behalf or on behalf of such other person, the
+26 individuals so furnished by him or her for the service in agricultural
+27 labor performed by them, and has not entered into a written agreement
+28 with such other person under which such individual is designated as an
+29 employee of such other person;
+30 (14) Department means the Department of Labor;
+31 (15) Employers engaged in the construction industry means all
+-4-
+LB265 LB265
+2025 2025
+1 employers primarily engaged in business activities classified as sector
+2 23 business activities under the North American Industry Classification
+3 System;
+4 (16) Employment office means a free public employment office or
+5 branch thereof, operated by this state or maintained as a part of a
+6 state-controlled system of public employment offices, including public
+7 employment offices operated by an agency of a foreign government;
+8 (17) Farm means stock, dairy, poultry, fruit, fur-bearing animal,
+9 and truck farms, plantations, ranches, nurseries, ranges, greenhouses, or
+10 other similar structures used primarily for the raising of agricultural
+11 or horticultural commodities, and orchards;
+12 (18) Fund means the Unemployment Compensation Fund established by
+13 section 48-617 to which all contributions and payments in lieu of
+14 contributions required and from which all benefits provided shall be
+15 paid;
+16 (19) Hearing officer means a person employed by the Department of
+17 Labor who conducts hearings, contested cases, or other proceedings
+18 pursuant to the Employment Security Law;
+19 (20) Hospital means an institution which has been licensed,
+20 certified, or approved by the Department of Health and Human Services as
+21 a hospital;
+22 (21) Insured work means employment for employers;
+23 (22) Leave of absence means any absence from work: (a) Mutually and
+24 voluntarily agreed to by the employer and the employee; (b) mutually and
+25 voluntarily agreed to between the employer and the employee's bargaining
+26 agent; or (c) to which the employee is entitled as a matter of state or
+27 federal law;
+28 (23) Paid vacation leave means a period of time while employed or
+29 following separation from employment in which the individual renders no
+30 services to the employer but is entitled to receive vacation pay equal to
+31 or exceeding his or her base weekly wage;
+-5-
+LB265 LB265
+2025 2025
+1 (24) Payments in lieu of contributions means the money payments to
+2 the Unemployment Compensation Fund required by sections 48-649.04,
+3 48-652, 48-660.01, and 48-661;
+4 (25) Professional employer agreement means a written professional
+5 employer services contract whereby:
+6 (a) A professional employer organization agrees to provide payroll
+7 services, employee benefit administration, or personnel services for a
+8 majority of the employees providing services to the client at a client
+9 worksite;
+10 (b) The agreement is intended to be ongoing rather than temporary in
+11 nature; and
+12 (c) Employer responsibilities for worksite employees, including
+13 those of hiring, firing, and disciplining, are shared between the
+14 professional employer organization and the client by contract. The term
+15 professional employer agreement shall not include a contract between a
+16 parent corporation, company, or other entity and a wholly owned
+17 subsidiary;
+18 (26) Professional employer organization means any individual,
+19 partnership, limited liability company, corporation, or other legally
+20 recognized entity that enters into a professional employer agreement with
+21 a client or clients for a majority of a client's workforce at a client
+22 worksite. The term professional employer organization does not include an
+23 insurer as defined in section 44-103 or a temporary help firm;
+24 (27) Standard rate means the rate assigned to category twenty for
+25 that year under section 48-649.03. The standard rate shall be not less
+26 than five and four-tenths percent of the employer's annual taxable
+27 payroll;
+28 (28) State includes, in addition to the states of the United States
+29 of America, any dependency of the United States, the Commonwealth of
+30 Puerto Rico, the Virgin Islands, and the District of Columbia;
+31 (29) State unemployment insurance tax means that portion of the
+-6-
+LB265 LB265
+2025 2025
+1 combined tax which is based upon the state unemployment insurance tax
+2 rate portion of the combined tax rate and which is deposited in the
+3 Workforce Development Program Cash State Unemployment Insurance Trust
+4 Fund as required by sections 48-648 and 48-649 to 48-649.04;
+5 (30) State unemployment insurance tax rate means the percentage of
+6 the combined tax rate used to determine the state unemployment insurance
+7 tax portion of the combined tax;
+8 (31) Temporary employee means an employee of a temporary help firm
+9 assigned to work for the clients of such temporary help firm;
+10 (32) Temporary help firm means a firm that hires its own employees
+11 and assigns them to clients to support or supplement the client's
+12 workforce in work situations such as employee absences, temporary skill
+13 shortages, seasonal workloads, and special assignments and projects;
+14 (33) Unemployed means an individual during any week in which the
+15 individual performs no service and with respect to which no wages are
+16 payable to the individual or any week of less than full-time work if the
+17 wages payable with respect to such week are less than the individual's
+18 weekly benefit amount, but does not include any individual on a leave of
+19 absence or on paid vacation leave. When an agreement between the employer
+20 and a bargaining unit representative does not allocate vacation pay
+21 allowance or pay in lieu of vacation to a specified period of time during
+22 a period of temporary layoff or plant shutdown, the payment by the
+23 employer or his or her designated representative will be deemed to be
+24 wages as defined in this section in the week or weeks the vacation is
+25 actually taken;
+26 (34) Unemployment Trust Fund means the trust fund in the Treasury of
+27 the United States of America established under section 904 of the federal
+28 Social Security Act, 42 U.S.C. 1104, as such section existed on January
+29 1, 2015, which receives credit from the state Unemployment Compensation
+30 Fund;
+31 (35) Wages, except with respect to services performed in employment
+-7-
+LB265 LB265
+2025 2025
+1 as provided in subdivisions (4)(c) and (d) of section 48-604, means all
+2 remuneration for personal services, including commissions and bonuses,
+3 remuneration for personal services paid under a contract of hire, and the
+4 cash value of all remunerations in any medium other than cash. The
+5 reasonable cash value of remuneration in any medium other than cash shall
+6 be estimated and determined in accordance with rules and regulations
+7 adopted and promulgated by the commissioner. Wages includes tips which
+8 are received while performing services which constitute employment and
+9 which are included in a written statement furnished to the employer
+10 pursuant to section 6053(a) of the Internal Revenue Code as defined in
+11 section 49-801.01.
+12 With respect to services performed in employment in agricultural
+13 labor as is provided in subdivision (4)(c) of section 48-604, wages means
+14 cash remuneration and the cash value of commodities not intended for
+15 personal consumption by the worker and his or her immediate family for
+16 such services. With respect to services performed in employment in
+17 domestic service as is provided in subdivision (4)(d) of section 48-604,
+18 wages means cash remuneration for such services.
+19 The term wages does not include:
+20 (a) The amount of any payment, including any amount paid by an
+21 employer for insurance or annuities or into a fund to provide for such
+22 payment, made to, or on behalf of, an individual in employment or any of
+23 his or her dependents under a plan or system established by an employer
+24 which makes provision for such individuals generally or for a class or
+25 classes of such individuals, including any amount paid by an employer for
+26 insurance or annuities or into a fund to provide for any such payment, on
+27 account of (i) sickness or accident disability, except, in the case of
+28 payments made to an employee or any of his or her dependents, this
+29 subdivision (i) shall exclude from wages only payments which are received
+30 under a workers' compensation law, (ii) medical and hospitalization
+31 expenses in connection with sickness or accident disability, or (iii)
+-8-
+LB265 LB265
+2025 2025
+1 death;
+2 (b) The payment by an employer, without deduction from the
+3 remuneration of the employee, of the tax imposed upon an employee under
+4 section 3101 of the Internal Revenue Code as defined in section
+5 49-801.01;
+6 (c) Any payment on account of sickness or accident disability, or
+7 medical or hospitalization expenses in connection with sickness or
+8 accident disability, made by an employer to, or on behalf of, an
+9 individual after the expiration of six calendar months following the last
+10 calendar month in which such individual worked for such employer;
+11 (d) Any payment made to, or on behalf of, an individual or his or
+12 her beneficiary (i) from or to a trust described in section 401(a) of the
+13 Internal Revenue Code as defined in section 49-801.01 which is exempt
+14 from tax under section 501(a) of the Internal Revenue Code as defined in
+15 section 49-801.01 at the time of such payment unless such payment is made
+16 to an employee of the trust as remuneration for services rendered as such
+17 employee and not as a beneficiary of the trust or (ii) under or to an
+18 annuity plan which, at the time of such payment, meets the requirements
+19 of section 401 of the Internal Revenue Code as defined in section
+20 49-801.01;
+21 (e) Any payment made to, or on behalf of, an employee or his or her
+22 beneficiary (i) under a simplified employee pension as defined by the
+23 commissioner, (ii) under or to an annuity contract as defined by the
+24 commissioner, other than a payment for the purchase of such contract
+25 which is made by reason of a salary reduction agreement, whether
+26 evidenced by a written instrument or otherwise, (iii) under or to an
+27 exempt governmental deferred compensation plan as defined by the
+28 commissioner, (iv) to supplement pension benefits under a plan or trust,
+29 as defined by the commissioner, to take into account some portion or all
+30 of the increase in the cost of living since retirement, but only if such
+31 supplemental payments are under a plan which is treated as a welfare
+-9-
+LB265 LB265
+2025 2025
+1 plan, or (v) under a cafeteria benefits plan;
+2 (f) Remuneration paid in any medium other than cash to an individual
+3 for service not in the course of the employer's trade or business;
+4 (g) Benefits paid under a supplemental unemployment benefit plan
+5 which satisfies the eight points set forth in Internal Revenue Service
+6 Revenue Ruling 56-249 as the ruling existed on January 1, 2015, and is in
+7 compliance with the standards set forth in Internal Revenue Service
+8 Revenue Rulings 58-128 and 60-330 as the rulings existed on January 1,
+9 2015; and
+10 (h) Remuneration for service performed in the employ of any state in
+11 the exercise of his or her duties as a member of the Army National Guard
+12 or Air National Guard or in the employ of the United States of America as
+13 a member of any military reserve unit;
+14 (36) Week means such period of seven consecutive days as the
+15 commissioner may by rule and regulation prescribe;
+16 (37) Week of unemployment with respect to any individual means any
+17 week during which he or she performs less than full-time work and the
+18 wages payable to him or her with respect to such week are less than his
+19 or her weekly benefit amount;
+20 (38) Wholly owned subsidiary means a corporation, company, or other
+21 entity which has eighty percent or more of its outstanding voting stock
+22 or membership owned or controlled, directly or indirectly, by the parent
+23 entity; and
+24 (39) Worksite employee has the same meaning as the term covered
+25 employee in section 48-2702.
+26 Sec. 2. Section 48-622.01, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 48-622.01 (1) There is hereby created in the state treasury a
+29 special fund to be known as the State Unemployment Insurance Trust Fund.
+30 The fund terminates on July 1, 2025, and the State Treasurer shall
+31 transfer any money in the fund on such date to the Workforce Development
+-10-
+LB265 LB265
+2025 2025
+1 Program Cash Fund. Beginning July 1, 2025, all All state unemployment
+2 insurance tax collected under sections 48-648 to 48-661, less refunds,
+3 shall be paid into the Workforce Development Program Cash Fund fund.
+4 Transfers may be made from the fund to the General Fund and the Workforce
+5 Development Program Cash Fund at the direction of the Legislature. Such
+6 money shall be held in trust for payment of unemployment insurance
+7 benefits. Any money in the State Unemployment Insurance Trust Fund
+8 available for investment shall be invested by the state investment
+9 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+10 State Funds Investment Act, except that interest earned on money in the
+11 fund shall be credited to the Nebraska Training and Support Cash Fund at
+12 the end of each calendar quarter.
+13 (2) The commissioner shall have the authority to determine when and
+14 in what amounts withdrawals from the State Unemployment Insurance Trust
+15 Fund for payment of benefits are necessary. Amounts withdrawn for payment
+16 of benefits shall be immediately forwarded to the Secretary of the
+17 Treasury of the United States of America to the credit of the state's
+18 account in the Unemployment Trust Fund, any provision of law in this
+19 state relating to the deposit, administration, release, or disbursement
+20 of money in the possession or custody of this state to the contrary
+21 notwithstanding.
+22 (3) If and when the state unemployment insurance tax ceases to exist
+23 as determined by the Governor, all money then in the State Unemployment
+24 Insurance Trust Fund less accrued interest shall be immediately
+25 transferred to the credit of the state's account in the Unemployment
+26 Trust Fund, any provision of law in this state relating to the deposit,
+27 administration, release, or disbursement of money in the possession or
+28 custody of this state to the contrary notwithstanding. The determination
+29 to eliminate the state unemployment insurance tax shall be based on the
+30 solvency of the state's account in the Unemployment Trust Fund and the
+31 need for training of Nebraska workers. Accrued interest in the State
+-11-
+LB265 LB265
+2025 2025
+1 Unemployment Insurance Trust Fund shall be credited to the Nebraska
+2 Training and Support Cash Fund.
+3 Sec. 3. Section 48-622.02, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 48-622.02 (1) The Nebraska Training and Support Cash Fund is
+6 created. The fund terminates on July 1, 2025, and the State Treasurer
+7 shall transfer any money in the fund on such date to the Workforce
+8 Development Program Cash Fund. Grants awarded from the Nebraska Training
+9 and Support Cash Fund prior to the transfer but remaining unpaid on July
+10 1, 2025, may be paid from the Workforce Development Program Cash Fund if
+11 all conditions of the grant award have been met. Any money in the fund
+12 available for investment shall be invested by the state investment
+13 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+14 State Funds Investment Act. No expenditures shall be made from the
+15 Nebraska Training and Support Cash Fund without the written authorization
+16 of the Governor upon the recommendation of the commissioner. Transfers
+17 may be made from the fund to the General Fund at the direction of the
+18 Legislature. Any interest earned on money in the State Unemployment
+19 Insurance Trust Fund shall be credited to the Nebraska Training and
+20 Support Cash Fund.
+21 (2) Money in the Nebraska Training and Support Cash Fund shall be
+22 used for (a) administrative costs of establishing, assessing, collecting,
+23 and maintaining state unemployment insurance tax liability and payments,
+24 (b) administrative costs of creating, operating, maintaining, and
+25 dissolving the State Unemployment Insurance Trust Fund and the Nebraska
+26 Training and Support Cash Fund, (c) support of public and private job
+27 training programs designed to train, retrain, or upgrade work skills of
+28 existing Nebraska workers of for-profit and not-for-profit businesses,
+29 (d) recruitment of workers to Nebraska, (e) training new employees of
+30 expanding Nebraska businesses, (f) retention of existing employees of
+31 Nebraska businesses, (g) the costs of creating a common web portal for
+-12-
+LB265 LB265
+2025 2025
+1 the attraction of businesses and workers to Nebraska, (h) developing and
+2 conducting labor availability and skills gap studies pursuant to the
+3 Sector Partnership Program Act, for which money may be transferred to the
+4 Sector Partnership Program Fund as directed by the Legislature, and (i)
+5 payment of unemployment insurance benefits if solvency of the state's
+6 account in the Unemployment Trust Fund and of the State Unemployment
+7 Insurance Trust Fund so require.
+8 (3) The Administrative Costs Reserve Account is created within the
+9 Nebraska Training and Support Cash Fund. Money shall be allocated from
+10 the Nebraska Training and Support Cash Fund to the Administrative Costs
+11 Reserve Account in amounts sufficient to pay the anticipated
+12 administrative costs identified in subsection (2) of this section.
+13 (4) The State Treasurer shall transfer two hundred fifty thousand
+14 dollars from the Nebraska Training and Support Cash Fund to the Sector
+15 Partnership Program Fund no later than July 15, 2016.
+16 Sec. 4. Section 48-648, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 48-648 (1) With respect to wages for employment, combined tax shall
+19 accrue and become payable by each employer not otherwise entitled to make
+20 payments in lieu of contributions for each calendar year in which he or
+21 she is subject to the Employment Security Law. Such combined tax shall
+22 become due and be paid by each employer to the commissioner for the
+23 Workforce Development Program Cash State Unemployment Insurance Trust
+24 Fund and the Unemployment Trust Fund in such manner and at such times as
+25 the commissioner may, by rule and regulation, prescribe. Such combined
+26 tax shall not be deducted, in whole or in part, from the wages of
+27 individuals in such employer's employ.
+28 (2) The commissioner may require any employer whose annual payroll
+29 for either of the two preceding calendar years has equaled or exceeded
+30 one hundred thousand dollars to file combined tax returns and pay
+31 combined taxes owed by an electronic method approved by the commissioner,
+-13-
+LB265 LB265
+2025 2025
+1 except when the employer establishes to the satisfaction of the
+2 commissioner that filing the combined tax return or payment of the tax by
+3 an electronic method would create a hardship for the employer.
+4 (3) In the payment of any combined tax, a fractional part of a cent
+5 shall be disregarded unless it amounts to one-half cent or more, in which
+6 case it shall be increased to one cent. If the combined tax due for any
+7 reporting period is less than five dollars, the employer need not remit
+8 the combined tax.
+9 (4) If two or more related corporations or limited liability
+10 companies concurrently employ the same individual and compensate such
+11 individual through a common paymaster which is one of such corporations
+12 or limited liability companies, each such corporation or limited
+13 liability company shall be considered to have paid as remuneration to
+14 such individual only the amounts actually disbursed by it to such
+15 individual and shall not be considered to have paid as remuneration to
+16 such individual amounts actually disbursed to such individual by another
+17 of such corporations or limited liability companies. An employee of a
+18 wholly owned subsidiary shall be considered to be concurrently employed
+19 by the parent corporation, company, or other entity and the wholly owned
+20 subsidiary whether or not both companies separately provide remuneration.
+21 (5) The professional employer organization shall report and pay
+22 combined tax, penalties, and interest owed for wages earned by worksite
+23 employees under the client's employer account number using the client's
+24 combined tax rate. The client is liable for the payment of unpaid
+25 combined tax, penalties, and interest owed for wages paid to worksite
+26 employees, and the worksite employees shall be considered employees of
+27 the client for purposes of the Employment Security Law.
+28 (6) The Commissioner of Labor may require by rule and regulation
+29 that each employer subject to the Employment Security Law shall submit to
+30 the commissioner quarterly wage reports on such forms and in such manner
+31 as the commissioner may prescribe. The commissioner may require any
+-14-
+LB265 LB265
+2025 2025
+1 employer whose annual payroll for either of the two preceding calendar
+2 years has equaled or exceeded one hundred thousand dollars to file wage
+3 reports by an electronic method approved by the commissioner, except when
+4 the employer establishes to the satisfaction of the commissioner that
+5 filing by an electronic method would create a hardship for the employer.
+6 The quarterly wage reports shall be used by the commissioner to make
+7 monetary determinations of claims for benefits.
+8 Sec. 5. Section 48-649.01, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 48-649.01 (1) By December 1 of each calendar year, the commissioner
+11 shall determine the state unemployment insurance tax rate for the
+12 following year based on information available through the department. The
+13 state unemployment insurance tax rate shall be zero percent if:
+14 (a) The average balance in the State Unemployment Insurance Trust
+15 Fund at the end of any three months in the preceding calendar year is
+16 greater than one percent of state taxable wages for the same preceding
+17 year; or
+18 (b) The balance in the State Unemployment Insurance Trust Fund
+19 equals or exceeds thirty percent of the average month end balance of the
+20 state's account in the Unemployment Trust Fund for the three lowest
+21 calendar months in the preceding year.
+22 (2) If the state unemployment insurance tax rate is determined to be
+23 zero percent pursuant to subsection (1) of this section, the contribution
+24 rate for all employers shall equal one hundred percent of the combined
+25 tax rate.
+26 (3) If the state unemployment insurance tax rate is not zero percent
+27 as determined in this section, the combined tax rate shall be divided so
+28 that not less than eighty percent of the combined tax rate equals the
+29 contribution rate and not more than twenty percent of the combined tax
+30 rate equals the state unemployment insurance tax rate except for
+31 employers who are assigned a combined tax rate of five and four-tenths
+-15-
+LB265 LB265
+2025 2025
+1 percent or more. For those employers, the state unemployment insurance
+2 tax rate shall equal zero and their combined tax rate shall equal their
+3 contribution rate.
+4 Sec. 6. Section 48-649.03, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 48-649.03 (1) Once benefits have been payable from and chargeable to
+7 an employer's experience account throughout the preceding four calendar
+8 quarters and wages for employment have been paid by the employer in each
+9 of the two preceding four-calendar-quarter periods, the employer's
+10 combined tax rate shall be calculated according to this section. The
+11 combined tax rate shall be based upon the employer's experience rating
+12 record and determined from the employer's reserve ratio.
+13 (2) The employer's reserve ratio is the percent obtained by dividing
+14 (a) the amount by which the employer's contributions credited from the
+15 time the employer first or most recently became an employer, whichever
+16 date is later, and up to and including September 30 of the year the rate
+17 computation is made, plus any part of the employer's contributions due
+18 for that year paid on or before October 31 of such year, exceed the
+19 employer's benefits charged during the same period, by (b) the employer's
+20 average annual taxable payroll for the sixteen-consecutive-calendar-
+21 quarter period ending September 30 of the year in which the rate
+22 computation is made. For an employer with less than sixteen consecutive
+23 calendar quarters of contribution experience, the employer's average
+24 taxable payroll shall be determined based upon the four-calendar-quarter
+25 periods for which contributions were payable.
+26 (3) Each eligible experience rated employer shall be assigned to one
+27 of twenty rate categories with a corresponding experience factor as
+28 follows:
+29 Category Experience Factor
+30 1 0.00
+31 2 0.25
+-16-
+LB265 LB265
+2025 2025
+1 3 0.40
+2 4 0.45
+3 5 0.50
+4 6 0.60
+5 7 0.65
+6 8 0.70
+7 9 0.80
+8 10 0.90
+9 11 0.95
+10 12 1.00
+11 13 1.05
+12 14 1.10
+13 15 1.20
+14 16 1.35
+15 17 1.55
+16 18 1.80
+17 19 2.15
+18 20 2.60
+19 Eligible experience rated employers shall be assigned to rate
+20 categories from highest to lowest according to their experience reserve
+21 ratio, with category one assigned to accounts with the highest reserve
+22 ratios and category twenty assigned to accounts with the lowest reserve
+23 ratios. Each category shall be limited to no more than five percent of
+24 the state's total taxable payroll, except that:
+25 (a) Any employer with a portion of its taxable wages falling into
+26 two consecutive categories shall be assigned to the lower category;
+27 (b) No employer with a reserve ratio calculated to five decimal
+28 places equal to the similarly calculated reserve ratio of another
+29 employer shall be assigned to a higher rate than the employer to which it
+30 has the equal reserve ratio; and
+-17-
+LB265 LB265
+2025 2025
+1 (c) No employer with a positive experience account balance shall be
+2 assigned to category twenty.
+3 (4) The state's reserve ratio shall be calculated annually by
+4 dividing the amount available to pay benefits in the Unemployment Trust
+5 Fund and the State Unemployment Insurance Trust Fund as of September 30,
+6 plus any amount of combined tax owed by employers eligible for and
+7 electing annual payment status for the four most recent quarters ending
+8 on September 30 in accordance with rules and regulations adopted by the
+9 commissioner, by the state's total wages from the four calendar quarters
+10 ending on September 30. For purposes of this section, total wages means
+11 all remuneration paid by an employer in employment. The state's reserve
+12 ratio shall be applied to the table in this subsection to determine the
+13 yield factor for the upcoming rate year.
+14 State's Reserve Ratio Yield Factor
+15 1.75 percent and above = 0.50
+16 1.60 percent up to but not including 1.75 = 0.60
+17 1.45 percent up to but not including 1.60 = 0.70
+18 1.30 percent up to but not including 1.45 = 0.75
+19 1.15 percent up to but not including 1.30 = 0.80
+20 1.00 percent up to but not including 1.15 = 0.90
+21 0.85 percent up to but not including 1.00 = 1.00
+22 0.70 percent up to but not including 0.85 = 1.10
+23 0.60 percent up to but not including 0.70 = 1.20
+24 0.50 percent up to but not including 0.60 = 1.25
+25 0.45 percent up to but not including 0.50 = 1.30
+26 0.40 percent up to but not including 0.45 = 1.35
+27 0.35 percent up to but not including 0.40 = 1.40
+28 0.30 percent up to but not including 0.35 = 1.45
+29 Below 0.30 percent = 1.50
+30 The commissioner may adjust the yield factor determined pursuant to
+31 the preceding table to a lower scheduled yield factor if the state's
+-18-
+LB265 LB265
+2025 2025
+1 reserve ratio is 1.00 percent or greater. Once the yield factor for the
+2 upcoming rate year has been determined, it is multiplied by the amount of
+3 unemployment benefits paid from combined tax during the four calendar
+4 quarters ending September 30 of the preceding year. The resulting figure
+5 is the planned yield for the rate year. The planned yield is divided by
+6 the total taxable wages for the four calendar quarters ending September
+7 30 of the previous year and carried to four decimal places to create the
+8 average combined tax rate for the rate year. Beginning January 1, 2025,
+9 through December 31, 2029, the final average combined tax rate shall be
+10 reduced by five percent.
+11 (5) The average combined tax rate is assigned to rate category
+12 twelve as established in subsection (3) of this section. Rates for each
+13 of the remaining nineteen categories are determined by multiplying the
+14 average combined tax rate by the experience factor associated with each
+15 category and carried to four decimal places. Employers who are delinquent
+16 in filing their combined tax reports as of October 31 of any year shall
+17 be assigned to category twenty for the following calendar year unless the
+18 delinquency is corrected prior to December 31 of the year of rate
+19 calculation.
+20 (6) In addition to required contributions, an employer may make
+21 voluntary contributions to the fund to be credited to his or her account.
+22 Voluntary contributions by employers may be made up to the amount
+23 necessary to qualify for one rate category reduction. Voluntary
+24 contributions received after February 28 shall not be used in rate
+25 calculations for the same calendar year.
+26 (7) As used in sections 48-648 to 48-654, the term payroll means the
+27 total amount of wages during a calendar year, except as otherwise
+28 provided in section 48-654, by which the combined tax was measured.
+29 Sec. 7. Section 48-657, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 48-657 (1)(a) If any employer defaults in any payment of combined
+-19-
+LB265 LB265
+2025 2025
+1 tax or interest, the commissioner may make in any manner feasible and
+2 cause to be filed as a secured transaction as provided in article 9,
+3 Uniform Commercial Code, and in the real estate mortgage records of any
+4 county in which such employer is engaged in business or owns real or
+5 personal property, a statement, under oath, showing the amount of
+6 combined tax and interest in default, which statement, when filed for
+7 record, shall operate as a lien and mortgage on all of the real and
+8 personal property of the employer, subject only to the liens of prior
+9 record, and the property of such employer shall be subject to seizure and
+10 sale for the payment of such combined taxes and interest. Such lien on
+11 personal property may be enforced or dissolved in the manner provided by
+12 article 9, Uniform Commercial Code, and such liens on real estate may be
+13 enforced or dissolved in the manner provided by Chapter 25, article 21,
+14 in the enforcing and dissolving of real estate mortgages. This
+15 subdivision shall only apply to liens filed prior to May 1, 1999.
+16 (b) A lien for unpaid combined taxes filed or recorded pursuant to
+17 subdivision (a) of this subsection shall lapse at the earlier of its
+18 expiration date or the fifth anniversary of the filing or recording date,
+19 unless the commissioner files a notice of continuation in the place of
+20 the original filing or recording and with the appropriate filing officer
+21 in the manner provided for in the Uniform State Tax Lien Registration and
+22 Enforcement Act before such lien lapses. A notice of continuation shall
+23 include all of the information required by the act, the date of the
+24 filing or recording of the original lien, and a statement that the
+25 original lien is to be continued for ten years. Thereafter, such lien
+26 shall be enforced and notices of continuation filed in accordance with
+27 the act.
+28 (c) On and after May 1, 1999, if any employer defaults in any
+29 payment of combined tax or interest, the commissioner may file a lien
+30 against such employer in accordance with the Uniform State Tax Lien
+31 Registration and Enforcement Act. Such liens shall set forth the amount
+-20-
+LB265 LB265
+2025 2025
+1 of combined tax and interest in default and shall be continued and
+2 enforced as provided in the Uniform State Tax Lien Registration and
+3 Enforcement Act.
+4 (2) It shall be the duty of the State of Nebraska, or any department
+5 or agency thereof, county boards, the contracting board of all cities,
+6 villages, and school districts, all public boards empowered by law to
+7 enter into a contract by public bidding for the erecting and finishing or
+8 the repairing of any public building, bridge, highway, or other public
+9 structure or improvement, and any officer or officers so empowered by law
+10 to enter into such contract to provide in such contract that the person,
+11 persons, firm, or corporation to whom the contract is awarded will pay to
+12 the Unemployment Compensation Fund of the State of Nebraska and the
+13 Workforce Development Program Cash State Unemployment Insurance Trust
+14 Fund unemployment combined tax and interest due under the Employment
+15 Security Law on wages paid to individuals employed in the performance of
+16 such contract.
+17 (3) No contract referred to in subsection (2) of this section shall
+18 be entered into by the State of Nebraska, a department or agency thereof,
+19 an officer or officers, or a board referred to in such subsection unless
+20 the contract contains the proviso mentioned in such subsection.
+21 (4) Before final payment may be made on the final three percent of
+22 any such contract awarded on or after June 1, 1957, the State of
+23 Nebraska, department or agency thereof, officer or officers, or board
+24 awarding the contract must have received from the contractor a written
+25 clearance from the commissioner certifying that all payments then due of
+26 combined tax or interest which may have arisen under such contract have
+27 been made by the contractor or his or her subcontractor to the
+28 Unemployment Compensation Fund.
+29 (5) The final three percent of any such contract referred to in
+30 subsection (4) of this section may be paid if the contractor has supplied
+31 a bond with a satisfactory surety company guaranteeing full payment to
+-21-
+LB265 LB265
+2025 2025
+1 the Unemployment Compensation Fund and the Workforce Development Program
+2 Cash State Unemployment Insurance Trust Fund of all combined tax and
+3 interest due under the Employment Security Law.
+4 Sec. 8. Section 48-3405, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 48-3405 (1) The Sector Partnership Program Fund is created. The
+7 fund terminates on July 1, 2025, and the State Treasurer shall transfer
+8 any money in the fund on such date to the Workforce Development Program
+9 Cash Fund. shall be administered by the Department of Labor. The fund
+10 shall be used to pursue sector partnership activities, including, but not
+11 limited to, labor availability and skills gap studies by the Department
+12 of Labor and the Department of Economic Development pursuant to the
+13 Sector Partnership Program Act. The fund may also be used for
+14 administrative costs of the Department of Labor and the Department of
+15 Economic Development associated with sector partnership activities.
+16 (2) The fund shall consist of such money as is: (a) Transferred to
+17 the fund from the Job Training Cash Fund and the Nebraska Training and
+18 Support Cash Fund; (b) otherwise appropriated to the fund by the
+19 Legislature; (c) donated as gifts, bequests, or other contributions to
+20 the fund from public or private entities; and (d) made available by any
+21 department or agency of the United States if so directed by such
+22 department or agency. Any money in the fund available for investment
+23 shall be invested by the state investment officer pursuant to the
+24 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+25 Act.
+26 Sec. 9. Section 81-407, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 81-407 (1) The Workforce Development Program Cash Fund is hereby
+29 created. The fund shall consist of transfers authorized by the
+30 Legislature.
+31 (2) The Department of Labor shall administer the fund to provide
+-22-
+LB265 LB265
+2025 2025
+1 workforce development grants. The fund may be used:
+2 (a) To provide workforce development grants;
+3 (b) To pay the costs of administering the workforce development
+4 grant program;
+5 (c) To pay the costs of establishing, assessing, collecting, and
+6 maintaining state unemployment insurance tax liability and payments;
+7 (d) To pay unemployment benefits if determined necessary by the
+8 Commissioner of Labor; and
+9 (e) To provide labor availability, skills gap, and workforce
+10 development studies and reports by the Department of Labor.
+11 (3) Any money in the fund available for investment shall be invested
+12 by the state investment officer pursuant to the Nebraska Capital
+13 Expansion Act and the Nebraska State Funds Investment Act.
+14 Sec. 10. Section 81-1201.21, Reissue Revised Statutes of Nebraska,
+15 is amended to read:
+16 81-1201.21 (1) There is hereby created the Job Training Cash Fund.
+17 The fund shall be under the direction of the Department of Economic
+18 Development. Money may be transferred to the fund pursuant to subdivision
+19 (1)(b)(iii) of section 48-621 and from the Cash Reserve Fund at the
+20 direction of the Legislature. The department shall establish a subaccount
+21 for all money transferred from the Cash Reserve Fund to the Job Training
+22 Cash Fund on or after July 1, 2005.
+23 (2) The money in the Job Training Cash Fund or the subaccount
+24 established in subsection (1) of this section shall be used (a) to
+25 provide reimbursements for job training activities, including employee
+26 assessment, preemployment training, on-the-job training, training
+27 equipment costs, and other reasonable costs related to helping industry
+28 and business locate or expand in Nebraska, (b) to provide upgrade skills
+29 training of the existing labor force necessary to adapt to new technology
+30 or the introduction of new product lines, or (c) as provided in section
+31 79-2308 , or (d) as provided in section 48-3405. The department shall
+-23-
+LB265 LB265
+2025 2025
+1 give a preference to job training activities carried out in whole or in
+2 part within an enterprise zone designated pursuant to the Enterprise Zone
+3 Act or an opportunity zone designated pursuant to the federal Tax Cuts
+4 and Jobs Act, Public Law 115-97.
+5 (3) The department shall establish a subaccount within the fund to
+6 provide training grants for training employees and potential employees of
+7 businesses that (a) employ twenty-five or fewer employees on the
+8 application date, (b) employ, or train for potential employment,
+9 residents of rural areas of Nebraska, or (c) are located in or employ, or
+10 train for potential employment, residents of high-poverty areas as
+11 defined in section 81-1203. The department shall calculate the amount of
+12 prior year investment income earnings accruing to the fund and allocate
+13 such amount to the subaccount for training grants under this subsection.
+14 The subaccount shall also be used as provided in the Teleworker Job
+15 Creation Act. The department shall give a preference to training grants
+16 for businesses located in whole or in part within an enterprise zone
+17 designated pursuant to the Enterprise Zone Act.
+18 (4) On April 5, 2018, any funds that were dedicated to carrying out
+19 sections 81-1210.01 to 81-1210.03 but were not yet expended shall be
+20 transferred to the Intern Nebraska Cash Fund.
+21 (5) Transfers may be made from the Job Training Cash Fund to the
+22 General Fund at the direction of the Legislature. Any money in the Job
+23 Training Cash Fund available for investment shall be invested by the
+24 state investment officer pursuant to the Nebraska Capital Expansion Act
+25 and the Nebraska State Funds Investment Act.
+26 Sec. 11. This act becomes operative on July 1, 2025.
+27 Sec. 12. Original sections 48-602, 48-648, 48-649.01, 48-657,
+28 48-3405, 81-407, and 81-1201.21, Reissue Revised Statutes of Nebraska,
+29 and sections 48-622.01, 48-622.02, and 48-649.03, Revised Statutes
+30 Cumulative Supplement, 2024, are repealed.
+31 Sec. 13. The following section is outright repealed: Section
+-24-
+LB265 LB265
+2025 2025
+1 48-622.03, Reissue Revised Statutes of Nebraska.
+2 Sec. 14. Since an emergency exists, this act takes effect when
+3 passed and approved according to law.
+-25-
+[DELETED: ySA4S o N a s 4 4 a4 R S C S 2 tecrt N W T B t h p tp a o d t r t o s t0o r s 4 R R S o1N2B5L52]
+[DELETED: Sa4 F p o t E S L u tc(( O a f i t e o a e i c wc t s o i c w r o h aaf c f t a m o l b0p1(2i3o4t5t6(7i c w t o o m o d c8r o w n o o o f p u9e0( I t e o t o o a f i h1p d p p p f g2s o d t s o t m o t a c f3t4o5o o t c w r t w s s i6p7c o o w s o a m i t8p o s d i s ( o t9s0c1(5L52]
+[DELETED: wo c f o i c w a a oh c a i d t a t m fd( O a f o f p i s s i n i tc( B p m t f f o t l f ccb0f u b a d p t s 41b u w p d t f f o t f m r2c3o m e b u a a b p w4c o t l f c c q i5p6(7r8(9p b w t f d o t f w w r t0w t i f f a v c f b a1t2w3b4A5d6i h b p t w f i w r u7s 4 F t p o t s a w w8r9i0o1(5L52]
+[DELETED: me t a t C o L m b r ar( C m a i p l lcwsa( C t m t e l c o0c1(2d3(4(51617(8u9(0t1i t s U C F a r b s243( C l m a i w f i t4p5o h o h o b o o b o s o p t6i7l p b t a h n e i a w a8w9e0(1( E e i t c i m a5L52]
+[DELETED: e2S( E o m a f p e o ob t o b t s o m a a p o s s o p e o i pe( F m s d p f f aa0o1o2( F m t U C F e b3s 4 t w a c a p i l o4c r a f w a b p s b5p6( H o m a p e b t D o7L w c h c c o o p8p9( H m a i w h b l0c1a2(3(4v5v6a7f8(9f0s1o5L52]
+[DELETED: (t U C F r b s 44( P e a m a w pe(s e b a o p s f mw0(1n2( E r f w e i3t o h f a d a s b t4p5p e a s n i a c b 6p c c o o e a a w o7s8( P e o m a i9p l l c c o o l0r1a2w3i4( S r m t r a t c t f5t6t f a f p o t e a t7p8(9o A a d o t U S t C o0P1( S u i t m t p o t5L52]
+[DELETED: c t w i b u t s u i tr p o t c t r a w i d i tW D P C S U I TF(tt(a0(1a a t t c t s o s t c2w3s4( U m a i d a w i w t5i p n s a w r t w n w a6p7w8w9a0a a b u r d n a v p1a2a p o t l o p s t p b t3e o h o h d r w b d t b4w5a6(7t8S910F1(5L52]
+[DELETED: ar f p s i c a brc v o a r i a m o t c Trb e a d i a w r a ra a p b t c W i t wa r w p s w c e aw a i i a w s f t t e0p1s2W r t s p i e i a3l4c r a t c v o c n i f5p6s s W r t s p i e i7d8w9T0( T a o a p i a a p b a1e2p3h4w5c6i7a8p m t a e o a o h o h d t9s0u a w c l ( m a h1e i c w s o a d o (5L52]
+[DELETED: d( T p b a e w d f trs 3 o t I R C a d i s4( A p o a o s o a d om o h e i c w s oa d m b a e t o o b o ai0c1(2h3I R C a d i s 4 w i e4f5s6t7e8a9o s 4 o t I R C a d i s041(2b ( u a s e p a d b t3c ( u o t a a c a d b t4c o t a p f t p o s c5w i m b r o a s r a w6e b a w i o o ( u o t a7e g d c p a d b t8c9a0o1s p a u a p w i t a a w5L52]
+[DELETED: p(f( B p u a s u b pwRc w t s s f i I R SR20(1t2o3a4( W m s p o s c d a t5c6(7w d w h o s p l t f w a t8w9o0(1e2o3e4( W e h t s m a t t c5e6S 2 S 4 R S C S7284  ( T i h c i t s t 9s0T f t o J 1 2 a t S T s1t5L52]
+[DELETED: P C F B J 1 2 a A s ui t c u s 4 t 4 l rs b p i t W D P C F fTDm s b h i t f p o u ib A m i t S U I T Fa f i s b i b t s io0S1f2t3(4i5F6o b s b i f t t S o t7T o t U S o A t t c o t s8a i t U T F a p o l i t9s0o m i t p o c o t s t t c1n2(3a4I T F l a i s b i5t t t c o t s a i t U6T7a r o d o m i t p o8c9t0s1n f t o N w A i i t S5L52]
+[DELETED: U I T F s b c t t NTS 3 S 4 R S C S24  ( T N T a S C F ic T f t o J 1 2 a t S Ts t a m i t f o s d t t WDa011a2a f i s b i b t s i3o4S F I A N e s b m f t5N6o t G u t r o t c T7m8L A i e o m i t S U9I T F s b c t t N T a0S1(2u3a4( a c o c o m a5d6T a S C F ( s o p a p j7t8e N w o f a n b9( r o w t N ( t n e o0e N b ( r o e e o1N5L52]
+[DELETED: tc l a a s g s p t tSSp o u i b i s o t sa i t U T F a o t S UI(N0t1R A i a s t p t a2a3( T S T s t t h f t4d5P6S 4 S 4 R R S o N i7a849a0p1s2b d a b p b e e t t c f t3W D P C S U I T4F5t c m b r a r p S c6t s n b d i w o i p f t w o7i8(9f0o h t d t f c t r a p1c5L52]
+[DELETED: e w t e e t t s o tca(scrt( I t o m r c o l l0c c e t s i a c s1i2o l l c e s c o l3l c s b c t h p a r t4s i o t a a d b i t s5i6s7o s c o l l c A e o 8w9b0s1( T p e o s r a p2c3e4c t r T c i l f t p o u5c t p a i o f w p t w6e a t w e s b c e o7t8( T C o L m r b r a r9t0t1a t c m p T c m r a5L52]
+[DELETED: eyrt e e t t s o t c tfT q w r s b u b t c t mmSa041s d t s u i t r f t2f3s4( T a b i t S U I T5F6g7y8( T b i t S U I T F9e0s a i t U T F f t t l1c2(3z4r5t6(7a8t n l t e p o t c t r e t9c0r e t s u i t r e f1e5L52]
+[DELETED: p o m F t e t s u itcS 6 S 4 R S C S24aqo t t p f p t e0c t r s b c a t t s T1c2r3(4(5t6d7c8f t y p o o b O 3 o s y e t9e0a a t p f t s1q p e S 3 o t y i w t r2c3c q o c e t e a4t5p6(7o t r c w a c e f a8f9CyE0101205L52]
+[DELETED: 304050607080901001100121113121413151416151716181719282029E e r e s b a t r0c1r2r3r4t5(6t7( N e w a r r c t f d8p e t t s c r r o a9e0h5L52]
+[DELETED: (a( T s r r s b c a bdFp a a o c t o b e e f aeoc0e1a2r3y4So Y51e=0615=0710=0815=0910=0015=0100=1205=1300=1400=1500=1605=1700=1805=19Bt=10T1t p t t a l s y f i t s5L52]
+[DELETED: ruu b p f c t d t f cqit3at0r1( T a c t r i a t r c2t3o t r n c a d b m t4a5c6i7b8d i c p t D 3 o t y o r9c0( I a t r c a e m m1v2V c b e m b m u t t a3n t q f o r c r V4c r a F 2 s n b u i r5c6(7t a o w d a c y e a o8p9S 7 S 4 R R S o N i0a14 ( I a e d i a p o c5L52]
+[DELETED: t o i t c m m i a m f ac t b f a a s t a p i a 9Uc i w s e i e i b o o r op p a s u o s t a oc t a i i d w s w f fr s o a a l a m o a o t r ap p o t e s o t t l o pr0s1p2a3e4i t e a d o r e m T5s6(7s ( o t s s l a t e o i8e9u0t1i2E3i a o t i r b t a t d o t4f o r o t o l a a s t t5o l i t b c f t y T s l6s7t8( O a a M 1 1 i a e d i a9p o c t o i t c m f a l0a s e i a w t U S T L1R5L52]
+[DELETED: o c t a i i d a s b c ae a p i t U S T L R aE(ov a s d a p b e b l tets0t1p2t U C F o t S o N a t3W D P C S U I T4F u c t a i d u t E5S6s7(8b9a0t1(2a s c a o o a J 1 1 t S o3N d o a t o o o o b4a5c6c7b m b t c o h o h s t t8U9( T f t p o a s c r t i0s1a5L52]
+[DELETED: tC S U I T F o a c t aiS 8 S 4 R R S o N ia4  ( T S P P F i c TfaC F s b a b t D o L T f0s1l2o L a t D o E D p t t3S P P A T f m a b u f4a c o t D o L a t D o5E6(7t8S C F ( o a t t f b t9L ( d a g b o o c t0t1d o a o t U S i s d b s2d o a A m i t f a f i3s b i b t s i o p t t4N C E A a t N S F I5A6S 9 S 8 R R S o N i7a88 ( T W D P C F i h9c T f s c o t a b t0L1( T D o L s a t f t p5L52]
+[DELETED: w(( T p t c o a t w dg( T p t c o e a c am( T p u b i d n b tC( T p l a s g a w0d1(2b t s i o p t t N C3E4S5i687T f s b u t d o t D o E8D9( o s 4 a f t C R F a t0d1f2C3( T m i t J T C F o t s4e i s ( o t s s b u ( t5p r f j t a i e6a p t o t t7e8a9t0o17 , o ( a p i s 4 T d s5L52]
+[DELETED: gpAa(pb t ( e t o f e o ta d ( e o t f p er0t f p e r o h a a1d2p3s4T s s a b u a p i t T J5C6f b l i w o i p w a e z7d8(9s 8 t 8 b w n y e s b0t1( T m b m f t J T C F t t2G3T C F a f i s b i b t4s5a6S7S 1  O s 4 4 4 484 8 a 8 R R S o N9a s 4 4 a 4 R S0C1S 1  T f s i o r S5L52]
+[DELETED: 4S 1  S a e e t a t e wp5L52]
+
+
+================================================================================
+
+Raw Text:
+LB265 LB265
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 265
+Introduced by Sorrentino, 39.
+Read first time January 15, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to labor; to amend sections 48-602, 48-648,
+2 48-649.01, 48-657, 48-3405, 81-407, and 81-1201.21, Reissue Revised
+3 Statutes of Nebraska, and sections 48-622.01, 48-622.02, and
+4 48-649.03, Revised Statutes Cumulative Supplement, 2024; to
+5 eliminate certain funds and change certain references to funds; to
+6 change provisions relating to the state unemployment insurance tax
+7 rate and the Workforce Development Program Cash Fund; to eliminate
+8 the Nebraska Worker Training Board; to harmonize provisions; to
+9 provide an operative date; to repeal the original sections; to
+10 outright repeal section 48-622.03, Reissue Revised Statutes of
+11 Nebraska; and to declare an emergency.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB265 LB265
+2025 2025
+1 Section 1. Section 48-602, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 48-602 For purposes of the Employment Security Law, unless the
+4 context otherwise requires:
+5 (1) Agricultural labor means services performed:
+6 (a) On a farm, in the employ of any employer, in connection with
+7 cultivating the soil or in connection with raising or harvesting any
+8 agricultural or horticultural commodity, including the raising, shearing,
+9 feeding, caring for, training, and management of livestock, bees,
+10 poultry, fur-bearing animals, and wildlife;
+11 (b) In the employ of the owner, tenant, or other operator of a farm,
+12 in connection with the operation, management, conservation, improvement,
+13 or maintenance of such farm and its tools and equipment or in salvaging
+14 timber or clearing land of brush and other debris left by a windstorm, if
+15 the major part of such service is performed on a farm;
+16 (c) In connection with the production or harvesting of any commodity
+17 in connection with the operation or maintenance of ditches, canals,
+18 reservoirs, or waterways, not owned or operated for profit, used
+19 exclusively for supplying and storing water for farming purposes;
+20 (d)(i) In the employ of the operator of a farm in handling,
+21 planting, drying, packing, packaging, processing, freezing, grading,
+22 storing, or delivering to storage or to market or to a carrier for
+23 transportation to market, in its unmanufactured state, any agricultural
+24 or horticultural commodity, but only if such operator produced more than
+25 one-half of the commodity with respect to which such service is
+26 performed, or (ii) in the employ of a group of operators of farms, or a
+27 cooperative organization of which such operators are members, in the
+28 performance of service described in subdivision (1)(d)(i) of this
+29 section, but only if such operators produced more than one-half of the
+30 commodity with respect to which such service is performed. Subdivisions
+31 (1)(d)(i) and (ii) of this section shall not be deemed to be applicable
+-2-
+
+LB265 LB265
+2025 2025
+1 with respect to service performed in connection with commercial canning
+2 or commercial freezing or in connection with any agricultural or
+3 horticultural commodity after its delivery to a terminal market for
+4 distribution for consumption; or
+5 (e) On a farm operated for profit if such service is not in the
+6 course of the employer's trade or business;
+7 (2) Base period means the first four of the last five completed
+8 calendar quarters immediately preceding the first day of an individual's
+9 benefit year, except that if the individual is not monetarily eligible
+10 for unemployment benefits as determined pursuant to section 48-627.01
+11 based upon wages paid during the first four of the five most recently
+12 completed calendar quarters, the department shall make a redetermination
+13 of monetary eligibility based upon an alternative base period which
+14 consists of the last four completed calendar quarters immediately
+15 preceding the first day of the claimant's benefit year;
+16 (3) Benefits means the money payments payable to an individual with
+17 respect to his or her unemployment;
+18 (4) Benefit year, with respect to any individual, means the one-year
+19 period beginning with the first day of the first week with respect to
+20 which the individual first files a valid claim for benefits, and
+21 thereafter the one-year period beginning with the first day of the first
+22 week with respect to which the individual next files a valid claim for
+23 benefits after the termination of his or her last preceding benefit year.
+24 Any claim for benefits made in accordance with section 48-629 shall be
+25 deemed to be a valid claim for the purpose of this subdivision if the
+26 individual has been paid the wages for insured work required under
+27 section 48-627.01. For the purposes of this subdivision a week with
+28 respect to which an individual files a valid claim shall be deemed to be
+29 in, within, or during that benefit year which includes the greater part
+30 of such week;
+31 (5) Calendar quarter means the period of three consecutive calendar
+-3-
+
+LB265 LB265
+2025 2025
+1 months ending on March 31, June 30, September 30, or December 31, or the
+2 equivalent thereof as the Commissioner of Labor may by rule and
+3 regulation prescribe;
+4 (6) Client means any individual, partnership, limited liability
+5 company, corporation, or other legally recognized entity that contracts
+6 with a professional employer organization to obtain professional employer
+7 services relating to worksite employees through a professional employer
+8 agreement;
+9 (7) Combined tax means the employer liability consisting of
+10 contributions and the state unemployment insurance tax;
+11 (8) Combined tax rate means the rate which is applied to wages to
+12 determine the combined taxes due;
+13 (9) Commissioner means the Commissioner of Labor;
+14 (10) Commodity means an agricultural commodity as defined in section
+15 15(g) of the federal Agricultural Marketing Act, as amended, 12 U.S.C.
+16 1141j;
+17 (11) Contribution rate means the percentage of the combined tax rate
+18 used to determine the contribution portion of the combined tax;
+19 (12) Contributions means that portion of the combined tax based upon
+20 the contribution rate portion of the combined tax rate which is deposited
+21 in the state Unemployment Compensation Fund as required by sections
+22 48-648 and 48-649 to 48-649.04;
+23 (13) Crew leader means an individual who furnishes individuals to
+24 perform service in agricultural labor for any other person, pays, either
+25 on his or her own behalf or on behalf of such other person, the
+26 individuals so furnished by him or her for the service in agricultural
+27 labor performed by them, and has not entered into a written agreement
+28 with such other person under which such individual is designated as an
+29 employee of such other person;
+30 (14) Department means the Department of Labor;
+31 (15) Employers engaged in the construction industry means all
+-4-
+
+LB265 LB265
+2025 2025
+1 employers primarily engaged in business activities classified as sector
+2 23 business activities under the North American Industry Classification
+3 System;
+4 (16) Employment office means a free public employment office or
+5 branch thereof, operated by this state or maintained as a part of a
+6 state-controlled system of public employment offices, including public
+7 employment offices operated by an agency of a foreign government;
+8 (17) Farm means stock, dairy, poultry, fruit, fur-bearing animal,
+9 and truck farms, plantations, ranches, nurseries, ranges, greenhouses, or
+10 other similar structures used primarily for the raising of agricultural
+11 or horticultural commodities, and orchards;
+12 (18) Fund means the Unemployment Compensation Fund established by
+13 section 48-617 to which all contributions and payments in lieu of
+14 contributions required and from which all benefits provided shall be
+15 paid;
+16 (19) Hearing officer means a person employed by the Department of
+17 Labor who conducts hearings, contested cases, or other proceedings
+18 pursuant to the Employment Security Law;
+19 (20) Hospital means an institution which has been licensed,
+20 certified, or approved by the Department of Health and Human Services as
+21 a hospital;
+22 (21) Insured work means employment for employers;
+23 (22) Leave of absence means any absence from work: (a) Mutually and
+24 voluntarily agreed to by the employer and the employee; (b) mutually and
+25 voluntarily agreed to between the employer and the employee's bargaining
+26 agent; or (c) to which the employee is entitled as a matter of state or
+27 federal law;
+28 (23) Paid vacation leave means a period of time while employed or
+29 following separation from employment in which the individual renders no
+30 services to the employer but is entitled to receive vacation pay equal to
+31 or exceeding his or her base weekly wage;
+-5-
+
+LB265 LB265
+2025 2025
+1 (24) Payments in lieu of contributions means the money payments to
+2 the Unemployment Compensation Fund required by sections 48-649.04,
+3 48-652, 48-660.01, and 48-661;
+4 (25) Professional employer agreement means a written professional
+5 employer services contract whereby:
+6 (a) A professional employer organization agrees to provide payroll
+7 services, employee benefit administration, or personnel services for a
+8 majority of the employees providing services to the client at a client
+9 worksite;
+10 (b) The agreement is intended to be ongoing rather than temporary in
+11 nature; and
+12 (c) Employer responsibilities for worksite employees, including
+13 those of hiring, firing, and disciplining, are shared between the
+14 professional employer organization and the client by contract. The term
+15 professional employer agreement shall not include a contract between a
+16 parent corporation, company, or other entity and a wholly owned
+17 subsidiary;
+18 (26) Professional employer organization means any individual,
+19 partnership, limited liability company, corporation, or other legally
+20 recognized entity that enters into a professional employer agreement with
+21 a client or clients for a majority of a client's workforce at a client
+22 worksite. The term professional employer organization does not include an
+23 insurer as defined in section 44-103 or a temporary help firm;
+24 (27) Standard rate means the rate assigned to category twenty for
+25 that year under section 48-649.03. The standard rate shall be not less
+26 than five and four-tenths percent of the employer's annual taxable
+27 payroll;
+28 (28) State includes, in addition to the states of the United States
+29 of America, any dependency of the United States, the Commonwealth of
+30 Puerto Rico, the Virgin Islands, and the District of Columbia;
+31 (29) State unemployment insurance tax means that portion of the
+-6-
+
+LB265 LB265
+2025 2025
+1 combined tax which is based upon the state unemployment insurance tax
+2 rate portion of the combined tax rate and which is deposited in the
+3 Workforce Development Program Cash State Unemployment Insurance Trust
+4 Fund as required by sections 48-648 and 48-649 to 48-649.04;
+5 (30) State unemployment insurance tax rate means the percentage of
+6 the combined tax rate used to determine the state unemployment insurance
+7 tax portion of the combined tax;
+8 (31) Temporary employee means an employee of a temporary help firm
+9 assigned to work for the clients of such temporary help firm;
+10 (32) Temporary help firm means a firm that hires its own employees
+11 and assigns them to clients to support or supplement the client's
+12 workforce in work situations such as employee absences, temporary skill
+13 shortages, seasonal workloads, and special assignments and projects;
+14 (33) Unemployed means an individual during any week in which the
+15 individual performs no service and with respect to which no wages are
+16 payable to the individual or any week of less than full-time work if the
+17 wages payable with respect to such week are less than the individual's
+18 weekly benefit amount, but does not include any individual on a leave of
+19 absence or on paid vacation leave. When an agreement between the employer
+20 and a bargaining unit representative does not allocate vacation pay
+21 allowance or pay in lieu of vacation to a specified period of time during
+22 a period of temporary layoff or plant shutdown, the payment by the
+23 employer or his or her designated representative will be deemed to be
+24 wages as defined in this section in the week or weeks the vacation is
+25 actually taken;
+26 (34) Unemployment Trust Fund means the trust fund in the Treasury of
+27 the United States of America established under section 904 of the federal
+28 Social Security Act, 42 U.S.C. 1104, as such section existed on January
+29 1, 2015, which receives credit from the state Unemployment Compensation
+30 Fund;
+31 (35) Wages, except with respect to services performed in employment
+-7-
+
+LB265 LB265
+2025 2025
+1 as provided in subdivisions (4)(c) and (d) of section 48-604, means all
+2 remuneration for personal services, including commissions and bonuses,
+3 remuneration for personal services paid under a contract of hire, and the
+4 cash value of all remunerations in any medium other than cash. The
+5 reasonable cash value of remuneration in any medium other than cash shall
+6 be estimated and determined in accordance with rules and regulations
+7 adopted and promulgated by the commissioner. Wages includes tips which
+8 are received while performing services which constitute employment and
+9 which are included in a written statement furnished to the employer
+10 pursuant to section 6053(a) of the Internal Revenue Code as defined in
+11 section 49-801.01.
+12 With respect to services performed in employment in agricultural
+13 labor as is provided in subdivision (4)(c) of section 48-604, wages means
+14 cash remuneration and the cash value of commodities not intended for
+15 personal consumption by the worker and his or her immediate family for
+16 such services. With respect to services performed in employment in
+17 domestic service as is provided in subdivision (4)(d) of section 48-604,
+18 wages means cash remuneration for such services.
+19 The term wages does not include:
+20 (a) The amount of any payment, including any amount paid by an
+21 employer for insurance or annuities or into a fund to provide for such
+22 payment, made to, or on behalf of, an individual in employment or any of
+23 his or her dependents under a plan or system established by an employer
+24 which makes provision for such individuals generally or for a class or
+25 classes of such individuals, including any amount paid by an employer for
+26 insurance or annuities or into a fund to provide for any such payment, on
+27 account of (i) sickness or accident disability, except, in the case of
+28 payments made to an employee or any of his or her dependents, this
+29 subdivision (i) shall exclude from wages only payments which are received
+30 under a workers' compensation law, (ii) medical and hospitalization
+31 expenses in connection with sickness or accident disability, or (iii)
+-8-
+
+LB265 LB265
+2025 2025
+1 death;
+2 (b) The payment by an employer, without deduction from the
+3 remuneration of the employee, of the tax imposed upon an employee under
+4 section 3101 of the Internal Revenue Code as defined in section
+5 49-801.01;
+6 (c) Any payment on account of sickness or accident disability, or
+7 medical or hospitalization expenses in connection with sickness or
+8 accident disability, made by an employer to, or on behalf of, an
+9 individual after the expiration of six calendar months following the last
+10 calendar month in which such individual worked for such employer;
+11 (d) Any payment made to, or on behalf of, an individual or his or
+12 her beneficiary (i) from or to a trust described in section 401(a) of the
+13 Internal Revenue Code as defined in section 49-801.01 which is exempt
+14 from tax under section 501(a) of the Internal Revenue Code as defined in
+15 section 49-801.01 at the time of such payment unless such payment is made
+16 to an employee of the trust as remuneration for services rendered as such
+17 employee and not as a beneficiary of the trust or (ii) under or to an
+18 annuity plan which, at the time of such payment, meets the requirements
+19 of section 401 of the Internal Revenue Code as defined in section
+20 49-801.01;
+21 (e) Any payment made to, or on behalf of, an employee or his or her
+22 beneficiary (i) under a simplified employee pension as defined by the
+23 commissioner, (ii) under or to an annuity contract as defined by the
+24 commissioner, other than a payment for the purchase of such contract
+25 which is made by reason of a salary reduction agreement, whether
+26 evidenced by a written instrument or otherwise, (iii) under or to an
+27 exempt governmental deferred compensation plan as defined by the
+28 commissioner, (iv) to supplement pension benefits under a plan or trust,
+29 as defined by the commissioner, to take into account some portion or all
+30 of the increase in the cost of living since retirement, but only if such
+31 supplemental payments are under a plan which is treated as a welfare
+-9-
+
+LB265 LB265
+2025 2025
+1 plan, or (v) under a cafeteria benefits plan;
+2 (f) Remuneration paid in any medium other than cash to an individual
+3 for service not in the course of the employer's trade or business;
+4 (g) Benefits paid under a supplemental unemployment benefit plan
+5 which satisfies the eight points set forth in Internal Revenue Service
+6 Revenue Ruling 56-249 as the ruling existed on January 1, 2015, and is in
+7 compliance with the standards set forth in Internal Revenue Service
+8 Revenue Rulings 58-128 and 60-330 as the rulings existed on January 1,
+9 2015; and
+10 (h) Remuneration for service performed in the employ of any state in
+11 the exercise of his or her duties as a member of the Army National Guard
+12 or Air National Guard or in the employ of the United States of America as
+13 a member of any military reserve unit;
+14 (36) Week means such period of seven consecutive days as the
+15 commissioner may by rule and regulation prescribe;
+16 (37) Week of unemployment with respect to any individual means any
+17 week during which he or she performs less than full-time work and the
+18 wages payable to him or her with respect to such week are less than his
+19 or her weekly benefit amount;
+20 (38) Wholly owned subsidiary means a corporation, company, or other
+21 entity which has eighty percent or more of its outstanding voting stock
+22 or membership owned or controlled, directly or indirectly, by the parent
+23 entity; and
+24 (39) Worksite employee has the same meaning as the term covered
+25 employee in section 48-2702.
+26 Sec. 2. Section 48-622.01, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 48-622.01 (1) There is hereby created in the state treasury a
+29 special fund to be known as the State Unemployment Insurance Trust Fund.
+30 The fund terminates on July 1, 2025, and the State Treasurer shall
+31 transfer any money in the fund on such date to the Workforce Development
+-10-
+
+LB265 LB265
+2025 2025
+1 Program Cash Fund. Beginning July 1, 2025, all All state unemployment
+2 insurance tax collected under sections 48-648 to 48-661, less refunds,
+3 shall be paid into the Workforce Development Program Cash Fund fund.
+4 Transfers may be made from the fund to the General Fund and the Workforce
+5 Development Program Cash Fund at the direction of the Legislature. Such
+6 money shall be held in trust for payment of unemployment insurance
+7 benefits. Any money in the State Unemployment Insurance Trust Fund
+8 available for investment shall be invested by the state investment
+9 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+10 State Funds Investment Act, except that interest earned on money in the
+11 fund shall be credited to the Nebraska Training and Support Cash Fund at
+12 the end of each calendar quarter.
+13 (2) The commissioner shall have the authority to determine when and
+14 in what amounts withdrawals from the State Unemployment Insurance Trust
+15 Fund for payment of benefits are necessary. Amounts withdrawn for payment
+16 of benefits shall be immediately forwarded to the Secretary of the
+17 Treasury of the United States of America to the credit of the state's
+18 account in the Unemployment Trust Fund, any provision of law in this
+19 state relating to the deposit, administration, release, or disbursement
+20 of money in the possession or custody of this state to the contrary
+21 notwithstanding.
+22 (3) If and when the state unemployment insurance tax ceases to exist
+23 as determined by the Governor, all money then in the State Unemployment
+24 Insurance Trust Fund less accrued interest shall be immediately
+25 transferred to the credit of the state's account in the Unemployment
+26 Trust Fund, any provision of law in this state relating to the deposit,
+27 administration, release, or disbursement of money in the possession or
+28 custody of this state to the contrary notwithstanding. The determination
+29 to eliminate the state unemployment insurance tax shall be based on the
+30 solvency of the state's account in the Unemployment Trust Fund and the
+31 need for training of Nebraska workers. Accrued interest in the State
+-11-
+
+LB265 LB265
+2025 2025
+1 Unemployment Insurance Trust Fund shall be credited to the Nebraska
+2 Training and Support Cash Fund.
+3 Sec. 3. Section 48-622.02, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 48-622.02 (1) The Nebraska Training and Support Cash Fund is
+6 created. The fund terminates on July 1, 2025, and the State Treasurer
+7 shall transfer any money in the fund on such date to the Workforce
+8 Development Program Cash Fund. Grants awarded from the Nebraska Training
+9 and Support Cash Fund prior to the transfer but remaining unpaid on July
+10 1, 2025, may be paid from the Workforce Development Program Cash Fund if
+11 all conditions of the grant award have been met. Any money in the fund
+12 available for investment shall be invested by the state investment
+13 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+14 State Funds Investment Act. No expenditures shall be made from the
+15 Nebraska Training and Support Cash Fund without the written authorization
+16 of the Governor upon the recommendation of the commissioner. Transfers
+17 may be made from the fund to the General Fund at the direction of the
+18 Legislature. Any interest earned on money in the State Unemployment
+19 Insurance Trust Fund shall be credited to the Nebraska Training and
+20 Support Cash Fund.
+21 (2) Money in the Nebraska Training and Support Cash Fund shall be
+22 used for (a) administrative costs of establishing, assessing, collecting,
+23 and maintaining state unemployment insurance tax liability and payments,
+24 (b) administrative costs of creating, operating, maintaining, and
+25 dissolving the State Unemployment Insurance Trust Fund and the Nebraska
+26 Training and Support Cash Fund, (c) support of public and private job
+27 training programs designed to train, retrain, or upgrade work skills of
+28 existing Nebraska workers of for-profit and not-for-profit businesses,
+29 (d) recruitment of workers to Nebraska, (e) training new employees of
+30 expanding Nebraska businesses, (f) retention of existing employees of
+31 Nebraska businesses, (g) the costs of creating a common web portal for
+-12-
+
+LB265 LB265
+2025 2025
+1 the attraction of businesses and workers to Nebraska, (h) developing and
+2 conducting labor availability and skills gap studies pursuant to the
+3 Sector Partnership Program Act, for which money may be transferred to the
+4 Sector Partnership Program Fund as directed by the Legislature, and (i)
+5 payment of unemployment insurance benefits if solvency of the state's
+6 account in the Unemployment Trust Fund and of the State Unemployment
+7 Insurance Trust Fund so require.
+8 (3) The Administrative Costs Reserve Account is created within the
+9 Nebraska Training and Support Cash Fund. Money shall be allocated from
+10 the Nebraska Training and Support Cash Fund to the Administrative Costs
+11 Reserve Account in amounts sufficient to pay the anticipated
+12 administrative costs identified in subsection (2) of this section.
+13 (4) The State Treasurer shall transfer two hundred fifty thousand
+14 dollars from the Nebraska Training and Support Cash Fund to the Sector
+15 Partnership Program Fund no later than July 15, 2016.
+16 Sec. 4. Section 48-648, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 48-648 (1) With respect to wages for employment, combined tax shall
+19 accrue and become payable by each employer not otherwise entitled to make
+20 payments in lieu of contributions for each calendar year in which he or
+21 she is subject to the Employment Security Law. Such combined tax shall
+22 become due and be paid by each employer to the commissioner for the
+23 Workforce Development Program Cash State Unemployment Insurance Trust
+24 Fund and the Unemployment Trust Fund in such manner and at such times as
+25 the commissioner may, by rule and regulation, prescribe. Such combined
+26 tax shall not be deducted, in whole or in part, from the wages of
+27 individuals in such employer's employ.
+28 (2) The commissioner may require any employer whose annual payroll
+29 for either of the two preceding calendar years has equaled or exceeded
+30 one hundred thousand dollars to file combined tax returns and pay
+31 combined taxes owed by an electronic method approved by the commissioner,
+-13-
+
+LB265 LB265
+2025 2025
+1 except when the employer establishes to the satisfaction of the
+2 commissioner that filing the combined tax return or payment of the tax by
+3 an electronic method would create a hardship for the employer.
+4 (3) In the payment of any combined tax, a fractional part of a cent
+5 shall be disregarded unless it amounts to one-half cent or more, in which
+6 case it shall be increased to one cent. If the combined tax due for any
+7 reporting period is less than five dollars, the employer need not remit
+8 the combined tax.
+9 (4) If two or more related corporations or limited liability
+10 companies concurrently employ the same individual and compensate such
+11 individual through a common paymaster which is one of such corporations
+12 or limited liability companies, each such corporation or limited
+13 liability company shall be considered to have paid as remuneration to
+14 such individual only the amounts actually disbursed by it to such
+15 individual and shall not be considered to have paid as remuneration to
+16 such individual amounts actually disbursed to such individual by another
+17 of such corporations or limited liability companies. An employee of a
+18 wholly owned subsidiary shall be considered to be concurrently employed
+19 by the parent corporation, company, or other entity and the wholly owned
+20 subsidiary whether or not both companies separately provide remuneration.
+21 (5) The professional employer organization shall report and pay
+22 combined tax, penalties, and interest owed for wages earned by worksite
+23 employees under the client's employer account number using the client's
+24 combined tax rate. The client is liable for the payment of unpaid
+25 combined tax, penalties, and interest owed for wages paid to worksite
+26 employees, and the worksite employees shall be considered employees of
+27 the client for purposes of the Employment Security Law.
+28 (6) The Commissioner of Labor may require by rule and regulation
+29 that each employer subject to the Employment Security Law shall submit to
+30 the commissioner quarterly wage reports on such forms and in such manner
+31 as the commissioner may prescribe. The commissioner may require any
+-14-
+
+LB265 LB265
+2025 2025
+1 employer whose annual payroll for either of the two preceding calendar
+2 years has equaled or exceeded one hundred thousand dollars to file wage
+3 reports by an electronic method approved by the commissioner, except when
+4 the employer establishes to the satisfaction of the commissioner that
+5 filing by an electronic method would create a hardship for the employer.
+6 The quarterly wage reports shall be used by the commissioner to make
+7 monetary determinations of claims for benefits.
+8 Sec. 5. Section 48-649.01, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 48-649.01 (1) By December 1 of each calendar year, the commissioner
+11 shall determine the state unemployment insurance tax rate for the
+12 following year based on information available through the department. The
+13 state unemployment insurance tax rate shall be zero percent if:
+14 (a) The average balance in the State Unemployment Insurance Trust
+15 Fund at the end of any three months in the preceding calendar year is
+16 greater than one percent of state taxable wages for the same preceding
+17 year; or
+18 (b) The balance in the State Unemployment Insurance Trust Fund
+19 equals or exceeds thirty percent of the average month end balance of the
+20 state's account in the Unemployment Trust Fund for the three lowest
+21 calendar months in the preceding year.
+22 (2) If the state unemployment insurance tax rate is determined to be
+23 zero percent pursuant to subsection (1) of this section, the contribution
+24 rate for all employers shall equal one hundred percent of the combined
+25 tax rate.
+26 (3) If the state unemployment insurance tax rate is not zero percent
+27 as determined in this section, the combined tax rate shall be divided so
+28 that not less than eighty percent of the combined tax rate equals the
+29 contribution rate and not more than twenty percent of the combined tax
+30 rate equals the state unemployment insurance tax rate except for
+31 employers who are assigned a combined tax rate of five and four-tenths
+-15-
+
+LB265 LB265
+2025 2025
+1 percent or more. For those employers, the state unemployment insurance
+2 tax rate shall equal zero and their combined tax rate shall equal their
+3 contribution rate.
+4 Sec. 6. Section 48-649.03, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 48-649.03 (1) Once benefits have been payable from and chargeable to
+7 an employer's experience account throughout the preceding four calendar
+8 quarters and wages for employment have been paid by the employer in each
+9 of the two preceding four-calendar-quarter periods, the employer's
+10 combined tax rate shall be calculated according to this section. The
+11 combined tax rate shall be based upon the employer's experience rating
+12 record and determined from the employer's reserve ratio.
+13 (2) The employer's reserve ratio is the percent obtained by dividing
+14 (a) the amount by which the employer's contributions credited from the
+15 time the employer first or most recently became an employer, whichever
+16 date is later, and up to and including September 30 of the year the rate
+17 computation is made, plus any part of the employer's contributions due
+18 for that year paid on or before October 31 of such year, exceed the
+19 employer's benefits charged during the same period, by (b) the employer's
+20 average annual taxable payroll for the sixteen-consecutive-calendar-
+21 quarter period ending September 30 of the year in which the rate
+22 computation is made. For an employer with less than sixteen consecutive
+23 calendar quarters of contribution experience, the employer's average
+24 taxable payroll shall be determined based upon the four-calendar-quarter
+25 periods for which contributions were payable.
+26 (3) Each eligible experience rated employer shall be assigned to one
+27 of twenty rate categories with a corresponding experience factor as
+28 follows:
+29 Category Experience Factor
+30 1 0.00
+31 2 0.25
+-16-
+
+LB265 LB265
+2025 2025
+1 3 0.40
+2 4 0.45
+3 5 0.50
+4 6 0.60
+5 7 0.65
+6 8 0.70
+7 9 0.80
+8 10 0.90
+9 11 0.95
+10 12 1.00
+11 13 1.05
+12 14 1.10
+13 15 1.20
+14 16 1.35
+15 17 1.55
+16 18 1.80
+17 19 2.15
+18 20 2.60
+19 Eligible experience rated employers shall be assigned to rate
+20 categories from highest to lowest according to their experience reserve
+21 ratio, with category one assigned to accounts with the highest reserve
+22 ratios and category twenty assigned to accounts with the lowest reserve
+23 ratios. Each category shall be limited to no more than five percent of
+24 the state's total taxable payroll, except that:
+25 (a) Any employer with a portion of its taxable wages falling into
+26 two consecutive categories shall be assigned to the lower category;
+27 (b) No employer with a reserve ratio calculated to five decimal
+28 places equal to the similarly calculated reserve ratio of another
+29 employer shall be assigned to a higher rate than the employer to which it
+30 has the equal reserve ratio; and
+-17-
+
+LB265 LB265
+2025 2025
+1 (c) No employer with a positive experience account balance shall be
+2 assigned to category twenty.
+3 (4) The state's reserve ratio shall be calculated annually by
+4 dividing the amount available to pay benefits in the Unemployment Trust
+5 Fund and the State Unemployment Insurance Trust Fund as of September 30,
+6 plus any amount of combined tax owed by employers eligible for and
+7 electing annual payment status for the four most recent quarters ending
+8 on September 30 in accordance with rules and regulations adopted by the
+9 commissioner, by the state's total wages from the four calendar quarters
+10 ending on September 30. For purposes of this section, total wages means
+11 all remuneration paid by an employer in employment. The state's reserve
+12 ratio shall be applied to the table in this subsection to determine the
+13 yield factor for the upcoming rate year.
+14 State's Reserve Ratio Yield Factor
+15 1.75 percent and above = 0.50
+16 1.60 percent up to but not including 1.75 = 0.60
+17 1.45 percent up to but not including 1.60 = 0.70
+18 1.30 percent up to but not including 1.45 = 0.75
+19 1.15 percent up to but not including 1.30 = 0.80
+20 1.00 percent up to but not including 1.15 = 0.90
+21 0.85 percent up to but not including 1.00 = 1.00
+22 0.70 percent up to but not including 0.85 = 1.10
+23 0.60 percent up to but not including 0.70 = 1.20
+24 0.50 percent up to but not including 0.60 = 1.25
+25 0.45 percent up to but not including 0.50 = 1.30
+26 0.40 percent up to but not including 0.45 = 1.35
+27 0.35 percent up to but not including 0.40 = 1.40
+28 0.30 percent up to but not including 0.35 = 1.45
+29 Below 0.30 percent = 1.50
+30 The commissioner may adjust the yield factor determined pursuant to
+31 the preceding table to a lower scheduled yield factor if the state's
+-18-
+
+LB265 LB265
+2025 2025
+1 reserve ratio is 1.00 percent or greater. Once the yield factor for the
+2 upcoming rate year has been determined, it is multiplied by the amount of
+3 unemployment benefits paid from combined tax during the four calendar
+4 quarters ending September 30 of the preceding year. The resulting figure
+5 is the planned yield for the rate year. The planned yield is divided by
+6 the total taxable wages for the four calendar quarters ending September
+7 30 of the previous year and carried to four decimal places to create the
+8 average combined tax rate for the rate year. Beginning January 1, 2025,
+9 through December 31, 2029, the final average combined tax rate shall be
+10 reduced by five percent.
+11 (5) The average combined tax rate is assigned to rate category
+12 twelve as established in subsection (3) of this section. Rates for each
+13 of the remaining nineteen categories are determined by multiplying the
+14 average combined tax rate by the experience factor associated with each
+15 category and carried to four decimal places. Employers who are delinquent
+16 in filing their combined tax reports as of October 31 of any year shall
+17 be assigned to category twenty for the following calendar year unless the
+18 delinquency is corrected prior to December 31 of the year of rate
+19 calculation.
+20 (6) In addition to required contributions, an employer may make
+21 voluntary contributions to the fund to be credited to his or her account.
+22 Voluntary contributions by employers may be made up to the amount
+23 necessary to qualify for one rate category reduction. Voluntary
+24 contributions received after February 28 shall not be used in rate
+25 calculations for the same calendar year.
+26 (7) As used in sections 48-648 to 48-654, the term payroll means the
+27 total amount of wages during a calendar year, except as otherwise
+28 provided in section 48-654, by which the combined tax was measured.
+29 Sec. 7. Section 48-657, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 48-657 (1)(a) If any employer defaults in any payment of combined
+-19-
+
+LB265 LB265
+2025 2025
+1 tax or interest, the commissioner may make in any manner feasible and
+2 cause to be filed as a secured transaction as provided in article 9,
+3 Uniform Commercial Code, and in the real estate mortgage records of any
+4 county in which such employer is engaged in business or owns real or
+5 personal property, a statement, under oath, showing the amount of
+6 combined tax and interest in default, which statement, when filed for
+7 record, shall operate as a lien and mortgage on all of the real and
+8 personal property of the employer, subject only to the liens of prior
+9 record, and the property of such employer shall be subject to seizure and
+10 sale for the payment of such combined taxes and interest. Such lien on
+11 personal property may be enforced or dissolved in the manner provided by
+12 article 9, Uniform Commercial Code, and such liens on real estate may be
+13 enforced or dissolved in the manner provided by Chapter 25, article 21,
+14 in the enforcing and dissolving of real estate mortgages. This
+15 subdivision shall only apply to liens filed prior to May 1, 1999.
+16 (b) A lien for unpaid combined taxes filed or recorded pursuant to
+17 subdivision (a) of this subsection shall lapse at the earlier of its
+18 expiration date or the fifth anniversary of the filing or recording date,
+19 unless the commissioner files a notice of continuation in the place of
+20 the original filing or recording and with the appropriate filing officer
+21 in the manner provided for in the Uniform State Tax Lien Registration and
+22 Enforcement Act before such lien lapses. A notice of continuation shall
+23 include all of the information required by the act, the date of the
+24 filing or recording of the original lien, and a statement that the
+25 original lien is to be continued for ten years. Thereafter, such lien
+26 shall be enforced and notices of continuation filed in accordance with
+27 the act.
+28 (c) On and after May 1, 1999, if any employer defaults in any
+29 payment of combined tax or interest, the commissioner may file a lien
+30 against such employer in accordance with the Uniform State Tax Lien
+31 Registration and Enforcement Act. Such liens shall set forth the amount
+-20-
+
+LB265 LB265
+2025 2025
+1 of combined tax and interest in default and shall be continued and
+2 enforced as provided in the Uniform State Tax Lien Registration and
+3 Enforcement Act.
+4 (2) It shall be the duty of the State of Nebraska, or any department
+5 or agency thereof, county boards, the contracting board of all cities,
+6 villages, and school districts, all public boards empowered by law to
+7 enter into a contract by public bidding for the erecting and finishing or
+8 the repairing of any public building, bridge, highway, or other public
+9 structure or improvement, and any officer or officers so empowered by law
+10 to enter into such contract to provide in such contract that the person,
+11 persons, firm, or corporation to whom the contract is awarded will pay to
+12 the Unemployment Compensation Fund of the State of Nebraska and the
+13 Workforce Development Program Cash State Unemployment Insurance Trust
+14 Fund unemployment combined tax and interest due under the Employment
+15 Security Law on wages paid to individuals employed in the performance of
+16 such contract.
+17 (3) No contract referred to in subsection (2) of this section shall
+18 be entered into by the State of Nebraska, a department or agency thereof,
+19 an officer or officers, or a board referred to in such subsection unless
+20 the contract contains the proviso mentioned in such subsection.
+21 (4) Before final payment may be made on the final three percent of
+22 any such contract awarded on or after June 1, 1957, the State of
+23 Nebraska, department or agency thereof, officer or officers, or board
+24 awarding the contract must have received from the contractor a written
+25 clearance from the commissioner certifying that all payments then due of
+26 combined tax or interest which may have arisen under such contract have
+27 been made by the contractor or his or her subcontractor to the
+28 Unemployment Compensation Fund.
+29 (5) The final three percent of any such contract referred to in
+30 subsection (4) of this section may be paid if the contractor has supplied
+31 a bond with a satisfactory surety company guaranteeing full payment to
+-21-
+
+LB265 LB265
+2025 2025
+1 the Unemployment Compensation Fund and the Workforce Development Program
+2 Cash State Unemployment Insurance Trust Fund of all combined tax and
+3 interest due under the Employment Security Law.
+4 Sec. 8. Section 48-3405, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 48-3405 (1) The Sector Partnership Program Fund is created. The
+7 fund terminates on July 1, 2025, and the State Treasurer shall transfer
+8 any money in the fund on such date to the Workforce Development Program
+9 Cash Fund. shall be administered by the Department of Labor. The fund
+10 shall be used to pursue sector partnership activities, including, but not
+11 limited to, labor availability and skills gap studies by the Department
+12 of Labor and the Department of Economic Development pursuant to the
+13 Sector Partnership Program Act. The fund may also be used for
+14 administrative costs of the Department of Labor and the Department of
+15 Economic Development associated with sector partnership activities.
+16 (2) The fund shall consist of such money as is: (a) Transferred to
+17 the fund from the Job Training Cash Fund and the Nebraska Training and
+18 Support Cash Fund; (b) otherwise appropriated to the fund by the
+19 Legislature; (c) donated as gifts, bequests, or other contributions to
+20 the fund from public or private entities; and (d) made available by any
+21 department or agency of the United States if so directed by such
+22 department or agency. Any money in the fund available for investment
+23 shall be invested by the state investment officer pursuant to the
+24 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+25 Act.
+26 Sec. 9. Section 81-407, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 81-407 (1) The Workforce Development Program Cash Fund is hereby
+29 created. The fund shall consist of transfers authorized by the
+30 Legislature.
+31 (2) The Department of Labor shall administer the fund to provide
+-22-
+
+LB265 LB265
+2025 2025
+1 workforce development grants. The fund may be used:
+2 (a) To provide workforce development grants;
+3 (b) To pay the costs of administering the workforce development
+4 grant program;
+5 (c) To pay the costs of establishing, assessing, collecting, and
+6 maintaining state unemployment insurance tax liability and payments;
+7 (d) To pay unemployment benefits if determined necessary by the
+8 Commissioner of Labor; and
+9 (e) To provide labor availability, skills gap, and workforce
+10 development studies and reports by the Department of Labor.
+11 (3) Any money in the fund available for investment shall be invested
+12 by the state investment officer pursuant to the Nebraska Capital
+13 Expansion Act and the Nebraska State Funds Investment Act.
+14 Sec. 10. Section 81-1201.21, Reissue Revised Statutes of Nebraska,
+15 is amended to read:
+16 81-1201.21 (1) There is hereby created the Job Training Cash Fund.
+17 The fund shall be under the direction of the Department of Economic
+18 Development. Money may be transferred to the fund pursuant to subdivision
+19 (1)(b)(iii) of section 48-621 and from the Cash Reserve Fund at the
+20 direction of the Legislature. The department shall establish a subaccount
+21 for all money transferred from the Cash Reserve Fund to the Job Training
+22 Cash Fund on or after July 1, 2005.
+23 (2) The money in the Job Training Cash Fund or the subaccount
+24 established in subsection (1) of this section shall be used (a) to
+25 provide reimbursements for job training activities, including employee
+26 assessment, preemployment training, on-the-job training, training
+27 equipment costs, and other reasonable costs related to helping industry
+28 and business locate or expand in Nebraska, (b) to provide upgrade skills
+29 training of the existing labor force necessary to adapt to new technology
+30 or the introduction of new product lines, or (c) as provided in section
+31 79-2308 , or (d) as provided in section 48-3405. The department shall
+-23-
+
+LB265 LB265
+2025 2025
+1 give a preference to job training activities carried out in whole or in
+2 part within an enterprise zone designated pursuant to the Enterprise Zone
+3 Act or an opportunity zone designated pursuant to the federal Tax Cuts
+4 and Jobs Act, Public Law 115-97.
+5 (3) The department shall establish a subaccount within the fund to
+6 provide training grants for training employees and potential employees of
+7 businesses that (a) employ twenty-five or fewer employees on the
+8 application date, (b) employ, or train for potential employment,
+9 residents of rural areas of Nebraska, or (c) are located in or employ, or
+10 train for potential employment, residents of high-poverty areas as
+11 defined in section 81-1203. The department shall calculate the amount of
+12 prior year investment income earnings accruing to the fund and allocate
+13 such amount to the subaccount for training grants under this subsection.
+14 The subaccount shall also be used as provided in the Teleworker Job
+15 Creation Act. The department shall give a preference to training grants
+16 for businesses located in whole or in part within an enterprise zone
+17 designated pursuant to the Enterprise Zone Act.
+18 (4) On April 5, 2018, any funds that were dedicated to carrying out
+19 sections 81-1210.01 to 81-1210.03 but were not yet expended shall be
+20 transferred to the Intern Nebraska Cash Fund.
+21 (5) Transfers may be made from the Job Training Cash Fund to the
+22 General Fund at the direction of the Legislature. Any money in the Job
+23 Training Cash Fund available for investment shall be invested by the
+24 state investment officer pursuant to the Nebraska Capital Expansion Act
+25 and the Nebraska State Funds Investment Act.
+26 Sec. 11. This act becomes operative on July 1, 2025.
+27 Sec. 12. Original sections 48-602, 48-648, 48-649.01, 48-657,
+28 48-3405, 81-407, and 81-1201.21, Reissue Revised Statutes of Nebraska,
+29 and sections 48-622.01, 48-622.02, and 48-649.03, Revised Statutes
+30 Cumulative Supplement, 2024, are repealed.
+31 Sec. 13. The following section is outright repealed: Section
+-24-
+
+LB265 LB265
+2025 2025
+1 48-622.03, Reissue Revised Statutes of Nebraska.
+2 Sec. 14. Since an emergency exists, this act takes effect when
+3 passed and approved according to law.
+-25-
+
+[DELETED: ySA4S o N a s 4 4 a4 R S C S 2 tecrt N W T B t h p tp a o d t r t o s t0o r s 4 R R S o1N2B5L52]
+[DELETED: Sa4 F p o t E S L u tc(( O a f i t e o a e i c wc t s o i c w r o h aaf c f t a m o l b0p1(2i3o4t5t6(7i c w t o o m o d c8r o w n o o o f p u9e0( I t e o t o o a f i h1p d p p p f g2s o d t s o t m o t a c f3t4o5o o t c w r t w s s i6p7c o o w s o a m i t8p o s d i s ( o t9s0c1(5L52]
+[DELETED: wo c f o i c w a a oh c a i d t a t m fd( O a f o f p i s s i n i tc( B p m t f f o t l f ccb0f u b a d p t s 41b u w p d t f f o t f m r2c3o m e b u a a b p w4c o t l f c c q i5p6(7r8(9p b w t f d o t f w w r t0w t i f f a v c f b a1t2w3b4A5d6i h b p t w f i w r u7s 4 F t p o t s a w w8r9i0o1(5L52]
+[DELETED: me t a t C o L m b r ar( C m a i p l lcwsa( C t m t e l c o0c1(2d3(4(51617(8u9(0t1i t s U C F a r b s243( C l m a i w f i t4p5o h o h o b o o b o s o p t6i7l p b t a h n e i a w a8w9e0(1( E e i t c i m a5L52]
+[DELETED: e2S( E o m a f p e o ob t o b t s o m a a p o s s o p e o i pe( F m s d p f f aa0o1o2( F m t U C F e b3s 4 t w a c a p i l o4c r a f w a b p s b5p6( H o m a p e b t D o7L w c h c c o o p8p9( H m a i w h b l0c1a2(3(4v5v6a7f8(9f0s1o5L52]
+[DELETED: (t U C F r b s 44( P e a m a w pe(s e b a o p s f mw0(1n2( E r f w e i3t o h f a d a s b t4p5p e a s n i a c b 6p c c o o e a a w o7s8( P e o m a i9p l l c c o o l0r1a2w3i4( S r m t r a t c t f5t6t f a f p o t e a t7p8(9o A a d o t U S t C o0P1( S u i t m t p o t5L52]
+[DELETED: c t w i b u t s u i tr p o t c t r a w i d i tW D P C S U I TF(tt(a0(1a a t t c t s o s t c2w3s4( U m a i d a w i w t5i p n s a w r t w n w a6p7w8w9a0a a b u r d n a v p1a2a p o t l o p s t p b t3e o h o h d r w b d t b4w5a6(7t8S910F1(5L52]
+[DELETED: ar f p s i c a brc v o a r i a m o t c Trb e a d i a w r a ra a p b t c W i t wa r w p s w c e aw a i i a w s f t t e0p1s2W r t s p i e i a3l4c r a t c v o c n i f5p6s s W r t s p i e i7d8w9T0( T a o a p i a a p b a1e2p3h4w5c6i7a8p m t a e o a o h o h d t9s0u a w c l ( m a h1e i c w s o a d o (5L52]
+[DELETED: d( T p b a e w d f trs 3 o t I R C a d i s4( A p o a o s o a d om o h e i c w s oa d m b a e t o o b o ai0c1(2h3I R C a d i s 4 w i e4f5s6t7e8a9o s 4 o t I R C a d i s041(2b ( u a s e p a d b t3c ( u o t a a c a d b t4c o t a p f t p o s c5w i m b r o a s r a w6e b a w i o o ( u o t a7e g d c p a d b t8c9a0o1s p a u a p w i t a a w5L52]
+[DELETED: p(f( B p u a s u b pwRc w t s s f i I R SR20(1t2o3a4( W m s p o s c d a t5c6(7w d w h o s p l t f w a t8w9o0(1e2o3e4( W e h t s m a t t c5e6S 2 S 4 R S C S7284  ( T i h c i t s t 9s0T f t o J 1 2 a t S T s1t5L52]
+[DELETED: P C F B J 1 2 a A s ui t c u s 4 t 4 l rs b p i t W D P C F fTDm s b h i t f p o u ib A m i t S U I T Fa f i s b i b t s io0S1f2t3(4i5F6o b s b i f t t S o t7T o t U S o A t t c o t s8a i t U T F a p o l i t9s0o m i t p o c o t s t t c1n2(3a4I T F l a i s b i5t t t c o t s a i t U6T7a r o d o m i t p o8c9t0s1n f t o N w A i i t S5L52]
+[DELETED: U I T F s b c t t NTS 3 S 4 R S C S24  ( T N T a S C F ic T f t o J 1 2 a t S Ts t a m i t f o s d t t WDa011a2a f i s b i b t s i3o4S F I A N e s b m f t5N6o t G u t r o t c T7m8L A i e o m i t S U9I T F s b c t t N T a0S1(2u3a4( a c o c o m a5d6T a S C F ( s o p a p j7t8e N w o f a n b9( r o w t N ( t n e o0e N b ( r o e e o1N5L52]
+[DELETED: tc l a a s g s p t tSSp o u i b i s o t sa i t U T F a o t S UI(N0t1R A i a s t p t a2a3( T S T s t t h f t4d5P6S 4 S 4 R R S o N i7a849a0p1s2b d a b p b e e t t c f t3W D P C S U I T4F5t c m b r a r p S c6t s n b d i w o i p f t w o7i8(9f0o h t d t f c t r a p1c5L52]
+[DELETED: e w t e e t t s o tca(scrt( I t o m r c o l l0c c e t s i a c s1i2o l l c e s c o l3l c s b c t h p a r t4s i o t a a d b i t s5i6s7o s c o l l c A e o 8w9b0s1( T p e o s r a p2c3e4c t r T c i l f t p o u5c t p a i o f w p t w6e a t w e s b c e o7t8( T C o L m r b r a r9t0t1a t c m p T c m r a5L52]
+[DELETED: eyrt e e t t s o t c tfT q w r s b u b t c t mmSa041s d t s u i t r f t2f3s4( T a b i t S U I T5F6g7y8( T b i t S U I T F9e0s a i t U T F f t t l1c2(3z4r5t6(7a8t n l t e p o t c t r e t9c0r e t s u i t r e f1e5L52]
+[DELETED: p o m F t e t s u itcS 6 S 4 R S C S24aqo t t p f p t e0c t r s b c a t t s T1c2r3(4(5t6d7c8f t y p o o b O 3 o s y e t9e0a a t p f t s1q p e S 3 o t y i w t r2c3c q o c e t e a4t5p6(7o t r c w a c e f a8f9CyE0101205L52]
+[DELETED: 304050607080901001100121113121413151416151716181719282029E e r e s b a t r0c1r2r3r4t5(6t7( N e w a r r c t f d8p e t t s c r r o a9e0h5L52]
+[DELETED: (a( T s r r s b c a bdFp a a o c t o b e e f aeoc0e1a2r3y4So Y51e=0615=0710=0815=0910=0015=0100=1205=1300=1400=1500=1605=1700=1805=19Bt=10T1t p t t a l s y f i t s5L52]
+[DELETED: ruu b p f c t d t f cqit3at0r1( T a c t r i a t r c2t3o t r n c a d b m t4a5c6i7b8d i c p t D 3 o t y o r9c0( I a t r c a e m m1v2V c b e m b m u t t a3n t q f o r c r V4c r a F 2 s n b u i r5c6(7t a o w d a c y e a o8p9S 7 S 4 R R S o N i0a14 ( I a e d i a p o c5L52]
+[DELETED: t o i t c m m i a m f ac t b f a a s t a p i a 9Uc i w s e i e i b o o r op p a s u o s t a oc t a i i d w s w f fr s o a a l a m o a o t r ap p o t e s o t t l o pr0s1p2a3e4i t e a d o r e m T5s6(7s ( o t s s l a t e o i8e9u0t1i2E3i a o t i r b t a t d o t4f o r o t o l a a s t t5o l i t b c f t y T s l6s7t8( O a a M 1 1 i a e d i a9p o c t o i t c m f a l0a s e i a w t U S T L1R5L52]
+[DELETED: o c t a i i d a s b c ae a p i t U S T L R aE(ov a s d a p b e b l tets0t1p2t U C F o t S o N a t3W D P C S U I T4F u c t a i d u t E5S6s7(8b9a0t1(2a s c a o o a J 1 1 t S o3N d o a t o o o o b4a5c6c7b m b t c o h o h s t t8U9( T f t p o a s c r t i0s1a5L52]
+[DELETED: tC S U I T F o a c t aiS 8 S 4 R R S o N ia4  ( T S P P F i c TfaC F s b a b t D o L T f0s1l2o L a t D o E D p t t3S P P A T f m a b u f4a c o t D o L a t D o5E6(7t8S C F ( o a t t f b t9L ( d a g b o o c t0t1d o a o t U S i s d b s2d o a A m i t f a f i3s b i b t s i o p t t4N C E A a t N S F I5A6S 9 S 8 R R S o N i7a88 ( T W D P C F i h9c T f s c o t a b t0L1( T D o L s a t f t p5L52]
+[DELETED: w(( T p t c o a t w dg( T p t c o e a c am( T p u b i d n b tC( T p l a s g a w0d1(2b t s i o p t t N C3E4S5i687T f s b u t d o t D o E8D9( o s 4 a f t C R F a t0d1f2C3( T m i t J T C F o t s4e i s ( o t s s b u ( t5p r f j t a i e6a p t o t t7e8a9t0o17 , o ( a p i s 4 T d s5L52]
+[DELETED: gpAa(pb t ( e t o f e o ta d ( e o t f p er0t f p e r o h a a1d2p3s4T s s a b u a p i t T J5C6f b l i w o i p w a e z7d8(9s 8 t 8 b w n y e s b0t1( T m b m f t J T C F t t2G3T C F a f i s b i b t4s5a6S7S 1  O s 4 4 4 484 8 a 8 R R S o N9a s 4 4 a 4 R S0C1S 1  T f s i o r S5L52]
+[DELETED: 4S 1  S a e e t a t e wp5L52]

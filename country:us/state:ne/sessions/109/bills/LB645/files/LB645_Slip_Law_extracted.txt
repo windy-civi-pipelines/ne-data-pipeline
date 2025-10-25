@@ -1,0 +1,920 @@
+Title: LEGISLATIVE BILL 645
+Official Title: LEGISLATIVE BILL 645
+Number of Sections: 6
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LB645 LB645
+2025 2025
+Approved by the Governor May 6, 2025
+Introduced by Ballard, 21; at the request of the Governor.
+A BILL FOR AN ACT relating to retirement; to amend sections 79-916, 79-958,
+79-966, and 81-2026, Reissue Revised Statutes of Nebraska; to change
+provisions and state legislative intent relating to retirement systems for
+Class V school districts; to change employee and state contributions to
+the School Retirement Fund; to change provisions of the Nebraska State
+Patrol Retirement System relating to benefits provided upon the death of
+an officer as prescribed; to harmonize provisions; to repeal the original
+
+Section 2:
+sections; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+
+Section 3:
+Section 1. Section 79-916, Reissue Revised Statutes of Nebraska, is
+amended to read:
+79-916 (1)(a) On July 1, 2004, the board shall transfer from the School
+Retirement Fund to the Service Annuity Fund an amount equal to the funded ratio
+of the retirement system which is equal to the market value of the retirement
+system assets divided by the actuarial accrued liability of the retirement
+system, times the actuarial accrued liability of the service annuity, as
+determined pursuant to section 79-966.01, of the employees who are members of
+the retirement system established pursuant to the Class V School Employees
+Retirement Act. Beginning July 1, 2013, such actuarial accrued liability shall
+be determined for each employee on a level percentage of salary basis. On or
+before July 1 of each fiscal year, the state shall transfer into the Service
+Annuity Fund such amounts as may be necessary to pay the normal cost and
+amortize the unfunded actuarial accrued liability of the service annuity, as
+determined pursuant to section 79-966.01, as of the end of the previous fiscal
+year of the employees who are members of the retirement system established
+pursuant to the Class V School Employees Retirement Act. Based on the fiscal
+year of the retirement system established pursuant to the Class V School
+Employees Retirement Act, the administrator of such system shall provide all
+membership information needed for the actuary engaged by the retirement board
+to determine the normal cost and the amortization payment of the unfunded
+actuarial accrued liability, as determined pursuant to section 79-966.01, to be
+paid by the state to the Service Annuity Fund each fiscal year as required by
+this subdivision.
+(b) At the time of retirement of any employee who is a member of the
+retirement system established pursuant to the Class V School Employees
+Retirement Act and who was hired prior to July 1, 2016, the retirement board
+shall, upon receipt of a certification of the administrator of such retirement
+system of the name, identification number, date of birth, retirement date, last
+date of employment, type of retirement, and number of years of service credited
+to such eligible employee at the date of retirement, transfer from the Service
+Annuity Fund to the Class V school district for transfer to the retirement
+system the actuarial accrued liability of the service annuity to be paid to the
+Class V school district by the state for transfer to the eligible employee for
+the years of service thus certified as provided for members of the School
+Employees Retirement System of the State of Nebraska under sections 79-933 and
+79-952. Such transfer of the actuarial accrued liability to the Class V school
+district for transfer to the retirement system established pursuant to the
+Class V School Employees Retirement Act shall be in lieu of the payment of the
+service annuity to which the employee would be entitled.
+(c) The Service Annuity Fund is created. The fund shall consist of the
+amounts paid by the state and transferred from the School Retirement Fund to
+the Class V school district for transfer to the retirement system pursuant to
+this section to pay the service annuity to the Class V school district for
+transfer to employees who are members of the retirement system established
+pursuant to the Class V School Employees Retirement Act. Any money in the
+Service Annuity Fund available for investment shall be invested by the state
+investment officer pursuant to the Nebraska Capital Expansion Act and the
+Nebraska State Funds Investment Act.
+(2)(a) For each fiscal year prior to July 1, 2025, in (2) In addition to
+the transfer of the actuarial accrued liability of the service annuity pursuant
+to subsection (1) of this section, the state shall also transfer to the funds
+of the Class V school district for transfer to the district's retirement system
+an amount determined by multiplying the compensation of all members of such
+retirement system by the percent specified in subsection (2) of section 79-966
+for determining the amount of the state's payment to the School Retirement Fund
+plus the amount determined under subdivision (1)(b) of section 79-966. The
+transfer shall be made annually on or before July 1 of each fiscal year.
+(b) For each fiscal year beginning July 1, 2025, in addition to the
+transfer pursuant to subsection (1) of this section, the state shall also
+transfer to the funds of the Class V school district for transfer to the
+district's retirement system an amount equal to two percent of the compensation
+of all members of such retirement system plus the amount determined under
+-1-
+LB645 LB645
+2025 2025
+subdivision (1)(b) of section 79-966. The transfer shall be made annually on or
+before July 1 of each fiscal year.
+(c) It is the intent of the Legislature that the state transfer of two
+percent of the compensation of all members of the district's retirement system
+does not mean that the state assumes any additional financial responsibility or
+liability for funding obligations of the retirement system that remain the
+responsibility of the district as described in the Class V School Employees
+Retirement Act.
+Sec. 2. Section 79-958, Reissue Revised Statutes of Nebraska, is amended
+to read:
+79-958 (1)(a) (1) Beginning on September 1, 2012, and prior to July 1,
+2025, for the purpose of providing the funds to pay for formula annuities,
+every employee shall be required to deposit in the School Retirement Fund nine
+and seventy-eight hundredths of one percent of compensation. Such deposits
+shall be transmitted at the same time and in the same manner as required
+employer contributions.
+(b) Beginning in 2025 and each year thereafter, the employee contribution
+rate shall be calculated as of July 1 and based on the funded ratio of the
+actuarial value of assets in the School Retirement Fund in the most recent
+previous year as reported in the annual actuarial valuation report for the
+retirement system prepared for the retirement board pursuant to section
+84-1503. Beginning on July 1, 2025, for the purpose of providing the funds to
+pay for formula annuities, every employee shall deposit the following amounts
+into the School Retirement Fund:
+(i) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is less than ninety-six percent, nine and three-quarters of one
+percent of compensation;
+(ii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is ninety-six percent or greater and less than ninety-eight
+percent, eight and three-quarters of one percent of compensation;
+(iii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is ninety-eight percent or greater and less than one hundred
+percent, eight percent of compensation; and
+(iv) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is one hundred percent or greater, seven and one-quarter of one
+percent of compensation.
+(c) Deposits under this subsection shall be transmitted at the same time
+and in the same manner as required employer contributions.
+(2) For the purpose of providing the funds to pay for formula annuities,
+every employer shall be required to deposit in the School Retirement Fund one
+hundred one percent of the required contributions of the school employees of
+each employer. Such deposits shall be transmitted to the retirement board at
+the same time and in the same manner as such required employee contributions.
+(3) The employer shall pick up the member contributions required by this
+
+Section 4:
+section for all compensation paid on or after January 1, 1986, and the
+contributions so picked up shall be treated as employer contributions pursuant
+to section 414(h)(2) of the Internal Revenue Code in determining federal tax
+treatment under the code and shall not be included as gross income of the
+member until such time as they are distributed or made available. The
+contributions, although designated as member contributions, shall be paid by
+the employer in lieu of member contributions. The employer shall pay these
+member contributions from the same source of funds which is used in paying
+earnings to the member. The employer shall pick up these contributions by a
+compensation deduction through a reduction in the cash compensation of the
+member. Member contributions picked up shall be treated for all purposes of the
+School Employees Retirement Act in the same manner and to the same extent as
+member contributions made prior to the date picked up.
+(4) The employer shall pick up the member contributions made through
+irrevocable payroll deduction authorizations pursuant to sections 79-921 and
+79-933.03 to 79-933.06, and the contributions so picked up shall be treated as
+employer contributions in the same manner as contributions picked up under
+subsection (3) of this section.
+Sec. 3. Section 79-966, Reissue Revised Statutes of Nebraska, is amended
+to read:
+79-966 (1)(a) On the basis of all data in the possession of the retirement
+board, including such mortality and other tables as are recommended by the
+actuary engaged by the retirement board and adopted by the retirement board,
+the retirement board shall annually, on or before July 1, determine the state
+deposit to be made by the state in the School Retirement Fund for that fiscal
+year. The amount of such state deposit shall be determined pursuant to section
+79-966.01. The retirement board shall thereupon certify the amount of such
+state deposit, and on the warrant of the Director of Administrative Services,
+the State Treasurer shall, as of July 1 of such year, transfer from funds
+appropriated by the state for that purpose to the School Retirement Fund the
+amount of such state deposit.
+(b) Beginning July 1, 2016, the contingent state transfer described in
+this subsection shall be calculated as a percent of compensation of all members
+of the retirement system. For any year in which a deposit is made to the School
+Retirement Fund under this subsection, if the actuary for a retirement system
+provided for under the Class V School Employees Retirement Act determines that
+the actuarially required contribution rate, for the fiscal year of the
+retirement system that begins before the state deposit, exceeds the rate of all
+contributions required pursuant to the Class V School Employees Retirement Act,
+-2-
+LB645 LB645
+2025 2025
+using the amortization period specified in section 79-966.01, the Class V
+district school board may request a public hearing of the Appropriations
+Committee of the Legislature to ask the state to transfer to the Class V school
+district for transfer to the funds of the retirement system provided for under
+the Class V School Employees Retirement Act an amount determined by multiplying
+the compensation of all members of such retirement system by the lesser of the
+percent of compensation transferred into the School Retirement Fund under this
+subsection or the percent of compensation of the members of the retirement
+system provided for under the Class V School Employees Retirement Act needed to
+meet the actuarially required contribution rate for such system, using the
+amortization period specified in section 79-966.01. Any additional amount of
+transfer so calculated, recommended by the Appropriations Committee of the
+Legislature, and approved by the Legislature, shall be added to the two percent
+specified in subsection (2) of this section for the amount required by
+subsection (2) of section 79-916 to be transferred to the Class V school
+district, which shall transfer such amount to the funds of the retirement
+system provided for under the Class V School Employees Retirement Act.
+(2)(a) (2) For each fiscal year beginning July 1, 2014, and prior to July
+1, 2025, in addition to the state transfers required by subsections (1) and (3)
+of this section, the state shall transfer into the School Retirement Fund an
+amount equal to two percent of the compensation of all members of the
+retirement system.
+(b) Beginning in 2025 and each year thereafter, the state contribution
+rate under this subsection shall be calculated as of July 1 and based on the
+funded ratio of the actuarial value of assets in the School Retirement Fund in
+the most recent previous year as reported in the annual actuarial valuation
+report for the retirement system produced for the retirement board pursuant to
+
+Section 5:
+section 84-1503. In addition to the state transfers required by subsections (1)
+and (3) of this section, the state shall deposit the following amounts into the
+School Retirement Fund:
+(i) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is less than ninety-six percent, an amount equal to two percent
+of the compensation of all members of the retirement system;
+(ii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is ninety-six percent or greater and less than one hundred
+percent, an amount equal to seven-tenths of one percent of the compensation of
+all members of the retirement system; and
+(iii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is one hundred percent or greater, no transfer shall be made
+under this subsection.
+(3) In addition to the state deposits and transfers required by
+subsections (1) and (2) of this section, beginning on July 1, 2005, and each
+fiscal year thereafter for employees who become members prior to July 1, 2016,
+the state shall transfer into the Service Annuity Fund such amounts as may be
+necessary to pay the normal cost and amortize the unfunded actuarial accrued
+liability of the service annuity benefit established pursuant to sections
+79-933 and 79-952 as accrued through the end of the previous fiscal year of the
+school employees who are members of the retirement system established pursuant
+to the Class V School Employees Retirement Act.
+Sec. 4. Section 81-2026, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-2026 (1)(a) Any officer qualified for an annuity as provided in section
+81-2025 for reasons other than disability shall be entitled to receive a
+monthly annuity for the remainder of the officer's life. The annuity payments
+shall continue until the end of the calendar month in which the officer dies.
+The amount of the annuity shall be a percentage of the officer's final average
+monthly compensation. For retirement on or after the fifty-fifth birthday of
+the member or on or after the fiftieth birthday of a member who has been in the
+employ of the state for twenty-five years, as calculated in section 81-2033,
+the percentage shall be three percent multiplied by the number of years of
+creditable service, as calculated in section 81-2033, except that the
+percentage shall never be greater than seventy-five percent.
+(b) For retirement pursuant to subsection (2) of section 81-2025 on or
+after the fiftieth birthday of the member but prior to the fifty-fifth birthday
+of the member who has been in the employ of the state for less than twenty-five
+years, as calculated in section 81-2033, the annuity which would apply if the
+member were age fifty-five at the date of retirement shall be reduced by five-
+ninths of one percent for each month by which the early retirement date
+precedes age fifty-five or for each month by which the early retirement date
+precedes the date upon which the member has served for twenty-five years,
+whichever is earlier. Any officer who has completed thirty years of creditable
+service with the Nebraska State Patrol shall have retirement benefits computed
+as if the officer had reached age fifty-five.
+(c) For purposes of this computation:
+(i) For an officer who became a member prior to July 1, 2016, final
+average monthly compensation means the sum of the officer's total compensation
+during the three twelve-month periods of service as an officer in which
+compensation was the greatest divided by thirty-six and:
+(A) For any officer employed on or before January 4, 1979, the officer's
+total compensation includes payments received for unused vacation and sick
+leave accumulated during the final three years of service; or
+(B) For any officer employed after January 4, 1979, and prior to July 1,
+2016, the officer's total compensation includes payments received for unused
+-3-
+LB645 LB645
+2025 2025
+holiday compensatory time and unused compensatory time; and
+(ii) For an officer who became a member on or after July 1, 2016, final
+average monthly compensation means the sum of the officer's total compensation
+during the five twelve-month periods of service as an officer in which
+compensation was the greatest divided by sixty and does not include payments
+received for unused sick leave, unused vacation leave, unused holiday
+compensatory time, unused compensatory time, or any other type of unused leave,
+compensatory time, or similar benefits, converted to cash payments. The five
+twelve-month periods used for calculating an officer's final average monthly
+compensation ends with the month during which the officer's final compensation
+is paid. In the determination of compensation, that part of an officer's
+compensation for the plan year which exceeds the officer's compensation for the
+preceding plan year by more than eight percent during the capping period shall
+be excluded. Such officer's compensation for the first plan year of the capping
+period shall be compared to the officer's compensation received for the plan
+year immediately preceding the capping period. For purposes of this
+subdivision, capping period means the five plan years preceding the officer's
+retirement date. The board may adopt and promulgate rules and regulations for
+the implementation of this section, including rules and regulations related to
+prorating, annualizing, or recalculating an officer's final average monthly
+compensation for each plan year in the capping period.
+(2) Any officer qualified for an annuity as provided in section 81-2025
+for reasons of disability shall be entitled to receive a monthly annuity for
+the remainder of the period of disablement as provided in sections 81-2028 to
+81-2030. The amount of the annuity shall be fifty percent of the officer's
+monthly compensation at the date of disablement if the officer has completed
+seventeen or fewer years of creditable service. If the officer has completed
+more than seventeen years of creditable service, the amount of the annuity
+shall be three percent of the final monthly compensation at the date of
+disablement multiplied by the total years of creditable service but not to
+exceed seventy-five percent of the final average monthly compensation as
+defined in subsection (1) of this section. The date of disablement shall be the
+date on which the benefits as provided in section 81-2028 have been exhausted.
+(3) Upon the death of an officer after retirement for reasons other than
+disability, benefits shall be provided as a percentage of the amount of the
+officer's annuity, calculated as follows:
+(a) If there is a surviving spouse but no dependent child or children of
+the officer under nineteen years of age, the surviving spouse shall receive a
+benefit equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life;
+(b) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age and there is no other dependent child or children of the officer not in the
+care of the surviving spouse under nineteen years of age, the benefit shall be
+equal to one hundred percent of the officer's annuity. When there is no
+remaining dependent child of the officer under nineteen years of age, the
+benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(c) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age or there is another dependent child or children of the officer under
+nineteen years of age not in the care of the surviving spouse, the benefit
+shall be twenty-five percent of the amount of the officer's annuity to the
+surviving spouse and seventy-five percent of the amount of the officer's
+annuity to the dependent children of the officer under nineteen years of age to
+be divided equally among such dependent children but in no case shall the
+benefit received by a surviving spouse and dependent children residing with
+such spouse be less than fifty percent of the amount of the officer's annuity.
+At such time as any dependent child of the officer attains nineteen years of
+age, the benefit shall be divided equally among the remaining dependent
+children of the officer who have not yet attained nineteen years of age. When
+there is no remaining dependent child of the officer under nineteen years of
+age, the benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(d) If there is no surviving spouse and a dependent child or children of
+the officer under nineteen years of age, the benefit shall be equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+-4-
+LB645 LB645
+2025 2025
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(ii) Beginning July 1, 2027, one hundred percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(e) If there is no surviving spouse or no dependent child or children of
+the officer under nineteen years of age, the amount of benefit such officer has
+received under the Nebraska State Patrol Retirement Act shall be computed. If
+such amount is less than the contributions to the State Patrol Retirement Fund
+made by such officer, plus regular interest, the difference shall be paid to
+the officer's designated beneficiary or estate.
+(4) Upon the death of an officer after retirement for reasons of
+disability, benefits shall be provided as if the officer had retired for
+reasons other than disability.
+(5) Upon the death of an officer before retirement, benefits shall be
+provided as if the officer had retired for reasons of disability on the date of
+such officer's death, calculated as follows:
+(a) If there is a surviving spouse but no dependent child or children of
+the officer under nineteen years of age, the surviving spouse shall receive a
+benefit equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life;
+(b) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age and there is no other dependent child or children of the officer not in the
+care of the surviving spouse under nineteen years of age, the benefit shall be
+equal to one hundred percent of the officer's annuity. When there is no
+remaining dependent child of the officer under nineteen years of age, the
+benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(c) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age or there is another dependent child or children of the officer under
+nineteen years of age not in the care of the surviving spouse, the benefit
+shall be twenty-five percent of the amount of the officer's annuity to the
+surviving spouse and seventy-five percent of the amount of the officer's
+annuity to the dependent children of the officer under nineteen years of age to
+be divided equally among such dependent children but in no case shall the
+benefit received by a surviving spouse and dependent children residing with
+such spouse be less than fifty percent of the amount of the officer's annuity.
+At such time as any dependent child of the officer attains nineteen years of
+age, the benefit shall be divided equally among the remaining dependent
+children of the officer who have not yet attained nineteen years of age. When
+there is no remaining dependent child of the officer under nineteen years of
+age, the benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(d) If there is no surviving spouse and a dependent child or children of
+the officer under nineteen years of age, the benefit shall be equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(ii) Beginning July 1, 2027, one hundred percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(e) If no benefits are paid to a surviving spouse or dependent child or
+children of the officer, benefits will be paid as described in subsection (1)
+of section 81-2031.
+(6) A lump-sum death benefit paid to the member's beneficiary, other than
+the member's estate, that is an eligible distribution may be distributed in the
+form of a direct transfer to a retirement plan eligible to receive such
+transfer under the provisions of the Internal Revenue Code.
+(7) For any member whose death occurs on or after January 1, 2007, while
+-5-
+LB645 LB645
+2025 2025
+performing qualified military service as defined in section 414(u) of the
+Internal Revenue Code, the member's beneficiary shall be entitled to any
+additional death benefit that would have been provided, other than the accrual
+of any benefit relating to the period of qualified military service. The
+additional death benefit shall be determined as if the member had returned to
+employment with the Nebraska State Patrol and such employment had terminated on
+the date of the member's death.
+(8) Any changes made to this section by Laws 2004, LB 1097, shall apply
+only to retirements, disabilities, and deaths occurring on or after July 16,
+
+Section 6:
+2004.
+Sec. 5. Original sections 79-916, 79-958, 79-966, and 81-2026, Reissue
+Revised Statutes of Nebraska, are repealed.
+Sec. 6. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-6-
+[DELETED: yB B F A A r t r t a s 7 7 a 8 R R S o N t c V s d t c e a s c t S R F t c p o t N S 1 S 7 R R S o N i a d b t a a l o t r t t a a l o t s a a r s e p t t C V S E F s a a m b n t p t n c a o t e w a m o t r s e o t r s e p t t C V S d t n c a t a p o t u A t t o r o a e w i a m o t s e p t t C V S E F t t C V s d f t t t r y o s t c a p f m o t S f t t t r s e p t t T S A F i c T f s c o t s t p t s a t t C V s d f t e w a m o t r s e t t C V S E R A A m i t o p t t N C E A a t a d b m t c o a m o s t a d u s ( o s 7 T F e f y b J 1 2 i a t t p t s ( o t s t s s a t t f o t C V s d f t t t a m o s r s p t a d u5L52]
+[DELETED:  I i t i o t L t t s t o t f f o o t r s t r t o t d a d i t C V S E ( ( B o S 1 2 a p t J 1 f t p o p t f t p f f a s h o o p o c S d b t a t s t a i t s m a r s b c a o J 1 a b o t f r o t v o a i t S R F i t m r y a r i t a a v r f t s p f t r b p t s I t f r o t a v o a i t S F i n p o g a l t n f a c p o o a J 1 1 a t u t c a s n b i a g i o t u s t a t a d o m a T a d a m c s b p b e i l o m c T e s p t c f t s s o f w i u i p t t m T e s p u t c b  d t a r i t c c o t T e s p u t m c m t p d a p t s 7 a c i t s m a c p u u i s m a o t a a r b t T r b s t c t a o s S T s a o J 1 o s y t f f B J 1 2 t c s t d i a r c r f t f y o t5L52]
+[DELETED:  t a p s i s 7 t C  s b m r a p h o t A o t p o c o t m o t r t a r c r f s s u t p s i s 7 A a a o s c r b t A C o t i s ( o t s f t a r b ( o s 7 t b t t t C V s w s t s a t t f o t r e t t p o t c o a m o t B i 2 a e y t t s c m r p y a r i t a a v I t f r o t a v o a i t S F i n p o g a l t o h I a t t s d a t r b o t s a b e p t s f r o t d s b e t r  p s b t p m b t n o y o s a c i s 8 e t t F r p t s ( o s 8 o o o o p f e m b w t e r d t d u w t m h s f t y F a o w b a m p t J 1 2 f t t t p o s a a o i w c i p r f u v a s t o t c i p r f u5L52]
+[DELETED:  t f t p o s a a o i w f u s l u v l u h p u f c a o f a m p I t d o c t p o a o i p t c p F p o t a o r a o f a m T a o t a s b f p o t o t s y o c s t a o t a b t p o t f m c a t d o m b t t y o c s b n t s p o t f a m c a b s b p a a p o t a o t P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t o h p o t o a W t i n d c o t o u n y o a t P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t o t i a d c o c o t o u y o a n i t c o t s s t b b t p o t a o t o a t t s a s p o t a o t o d e a s d c b i n c s t r b a s s a d c r w t b s b d e a t r d P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t d c o t o u n y o a t b o t o a n y o a t b s b5L52]
+[DELETED:  t d c o t o u n y o a t b o t o a n y o a t b s b U t d o a o a r f r o b s b p a i t o h r f U t d o a o b r b s b P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t o h p o t o a W t i n d c o t o u n y o a t P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t o t i a d c o c o t o u y o a n i t c o t s s t b b t p o t a o t o a t t s a s p o t a o t o d e a s d c b i n c s t r b a s s a d c r w t b s b d e a t r d P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t d c o t o u n y o a t b o t o a n y o a t b s b t d c o t o u n y o a t b o t o a n y o a t b s b o a d t t a r p e t r s5L52]
+[DELETED:  q m s a d i s 4 o t R C t m b s b e t a a b r t t p o q m s T 5  O s 7 7 7 a 8 R5L52]
+
+
+================================================================================
+
+Raw Text:
+LB645 LB645
+2025 2025
+LEGISLATIVE BILL 645
+Approved by the Governor May 6, 2025
+Introduced by Ballard, 21; at the request of the Governor.
+A BILL FOR AN ACT relating to retirement; to amend sections 79-916, 79-958,
+79-966, and 81-2026, Reissue Revised Statutes of Nebraska; to change
+provisions and state legislative intent relating to retirement systems for
+Class V school districts; to change employee and state contributions to
+the School Retirement Fund; to change provisions of the Nebraska State
+Patrol Retirement System relating to benefits provided upon the death of
+an officer as prescribed; to harmonize provisions; to repeal the original
+sections; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 79-916, Reissue Revised Statutes of Nebraska, is
+amended to read:
+79-916 (1)(a) On July 1, 2004, the board shall transfer from the School
+Retirement Fund to the Service Annuity Fund an amount equal to the funded ratio
+of the retirement system which is equal to the market value of the retirement
+system assets divided by the actuarial accrued liability of the retirement
+system, times the actuarial accrued liability of the service annuity, as
+determined pursuant to section 79-966.01, of the employees who are members of
+the retirement system established pursuant to the Class V School Employees
+Retirement Act. Beginning July 1, 2013, such actuarial accrued liability shall
+be determined for each employee on a level percentage of salary basis. On or
+before July 1 of each fiscal year, the state shall transfer into the Service
+Annuity Fund such amounts as may be necessary to pay the normal cost and
+amortize the unfunded actuarial accrued liability of the service annuity, as
+determined pursuant to section 79-966.01, as of the end of the previous fiscal
+year of the employees who are members of the retirement system established
+pursuant to the Class V School Employees Retirement Act. Based on the fiscal
+year of the retirement system established pursuant to the Class V School
+Employees Retirement Act, the administrator of such system shall provide all
+membership information needed for the actuary engaged by the retirement board
+to determine the normal cost and the amortization payment of the unfunded
+actuarial accrued liability, as determined pursuant to section 79-966.01, to be
+paid by the state to the Service Annuity Fund each fiscal year as required by
+this subdivision.
+(b) At the time of retirement of any employee who is a member of the
+retirement system established pursuant to the Class V School Employees
+Retirement Act and who was hired prior to July 1, 2016, the retirement board
+shall, upon receipt of a certification of the administrator of such retirement
+system of the name, identification number, date of birth, retirement date, last
+date of employment, type of retirement, and number of years of service credited
+to such eligible employee at the date of retirement, transfer from the Service
+Annuity Fund to the Class V school district for transfer to the retirement
+system the actuarial accrued liability of the service annuity to be paid to the
+Class V school district by the state for transfer to the eligible employee for
+the years of service thus certified as provided for members of the School
+Employees Retirement System of the State of Nebraska under sections 79-933 and
+79-952. Such transfer of the actuarial accrued liability to the Class V school
+district for transfer to the retirement system established pursuant to the
+Class V School Employees Retirement Act shall be in lieu of the payment of the
+service annuity to which the employee would be entitled.
+(c) The Service Annuity Fund is created. The fund shall consist of the
+amounts paid by the state and transferred from the School Retirement Fund to
+the Class V school district for transfer to the retirement system pursuant to
+this section to pay the service annuity to the Class V school district for
+transfer to employees who are members of the retirement system established
+pursuant to the Class V School Employees Retirement Act. Any money in the
+Service Annuity Fund available for investment shall be invested by the state
+investment officer pursuant to the Nebraska Capital Expansion Act and the
+Nebraska State Funds Investment Act.
+(2)(a) For each fiscal year prior to July 1, 2025, in (2) In addition to
+the transfer of the actuarial accrued liability of the service annuity pursuant
+to subsection (1) of this section, the state shall also transfer to the funds
+of the Class V school district for transfer to the district's retirement system
+an amount determined by multiplying the compensation of all members of such
+retirement system by the percent specified in subsection (2) of section 79-966
+for determining the amount of the state's payment to the School Retirement Fund
+plus the amount determined under subdivision (1)(b) of section 79-966. The
+transfer shall be made annually on or before July 1 of each fiscal year.
+(b) For each fiscal year beginning July 1, 2025, in addition to the
+transfer pursuant to subsection (1) of this section, the state shall also
+transfer to the funds of the Class V school district for transfer to the
+district's retirement system an amount equal to two percent of the compensation
+of all members of such retirement system plus the amount determined under
+-1-
+
+LB645 LB645
+2025 2025
+subdivision (1)(b) of section 79-966. The transfer shall be made annually on or
+before July 1 of each fiscal year.
+(c) It is the intent of the Legislature that the state transfer of two
+percent of the compensation of all members of the district's retirement system
+does not mean that the state assumes any additional financial responsibility or
+liability for funding obligations of the retirement system that remain the
+responsibility of the district as described in the Class V School Employees
+Retirement Act.
+Sec. 2. Section 79-958, Reissue Revised Statutes of Nebraska, is amended
+to read:
+79-958 (1)(a) (1) Beginning on September 1, 2012, and prior to July 1,
+2025, for the purpose of providing the funds to pay for formula annuities,
+every employee shall be required to deposit in the School Retirement Fund nine
+and seventy-eight hundredths of one percent of compensation. Such deposits
+shall be transmitted at the same time and in the same manner as required
+employer contributions.
+(b) Beginning in 2025 and each year thereafter, the employee contribution
+rate shall be calculated as of July 1 and based on the funded ratio of the
+actuarial value of assets in the School Retirement Fund in the most recent
+previous year as reported in the annual actuarial valuation report for the
+retirement system prepared for the retirement board pursuant to section
+84-1503. Beginning on July 1, 2025, for the purpose of providing the funds to
+pay for formula annuities, every employee shall deposit the following amounts
+into the School Retirement Fund:
+(i) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is less than ninety-six percent, nine and three-quarters of one
+percent of compensation;
+(ii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is ninety-six percent or greater and less than ninety-eight
+percent, eight and three-quarters of one percent of compensation;
+(iii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is ninety-eight percent or greater and less than one hundred
+percent, eight percent of compensation; and
+(iv) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is one hundred percent or greater, seven and one-quarter of one
+percent of compensation.
+(c) Deposits under this subsection shall be transmitted at the same time
+and in the same manner as required employer contributions.
+(2) For the purpose of providing the funds to pay for formula annuities,
+every employer shall be required to deposit in the School Retirement Fund one
+hundred one percent of the required contributions of the school employees of
+each employer. Such deposits shall be transmitted to the retirement board at
+the same time and in the same manner as such required employee contributions.
+(3) The employer shall pick up the member contributions required by this
+section for all compensation paid on or after January 1, 1986, and the
+contributions so picked up shall be treated as employer contributions pursuant
+to section 414(h)(2) of the Internal Revenue Code in determining federal tax
+treatment under the code and shall not be included as gross income of the
+member until such time as they are distributed or made available. The
+contributions, although designated as member contributions, shall be paid by
+the employer in lieu of member contributions. The employer shall pay these
+member contributions from the same source of funds which is used in paying
+earnings to the member. The employer shall pick up these contributions by a
+compensation deduction through a reduction in the cash compensation of the
+member. Member contributions picked up shall be treated for all purposes of the
+School Employees Retirement Act in the same manner and to the same extent as
+member contributions made prior to the date picked up.
+(4) The employer shall pick up the member contributions made through
+irrevocable payroll deduction authorizations pursuant to sections 79-921 and
+79-933.03 to 79-933.06, and the contributions so picked up shall be treated as
+employer contributions in the same manner as contributions picked up under
+subsection (3) of this section.
+Sec. 3. Section 79-966, Reissue Revised Statutes of Nebraska, is amended
+to read:
+79-966 (1)(a) On the basis of all data in the possession of the retirement
+board, including such mortality and other tables as are recommended by the
+actuary engaged by the retirement board and adopted by the retirement board,
+the retirement board shall annually, on or before July 1, determine the state
+deposit to be made by the state in the School Retirement Fund for that fiscal
+year. The amount of such state deposit shall be determined pursuant to section
+79-966.01. The retirement board shall thereupon certify the amount of such
+state deposit, and on the warrant of the Director of Administrative Services,
+the State Treasurer shall, as of July 1 of such year, transfer from funds
+appropriated by the state for that purpose to the School Retirement Fund the
+amount of such state deposit.
+(b) Beginning July 1, 2016, the contingent state transfer described in
+this subsection shall be calculated as a percent of compensation of all members
+of the retirement system. For any year in which a deposit is made to the School
+Retirement Fund under this subsection, if the actuary for a retirement system
+provided for under the Class V School Employees Retirement Act determines that
+the actuarially required contribution rate, for the fiscal year of the
+retirement system that begins before the state deposit, exceeds the rate of all
+contributions required pursuant to the Class V School Employees Retirement Act,
+-2-
+
+LB645 LB645
+2025 2025
+using the amortization period specified in section 79-966.01, the Class V
+district school board may request a public hearing of the Appropriations
+Committee of the Legislature to ask the state to transfer to the Class V school
+district for transfer to the funds of the retirement system provided for under
+the Class V School Employees Retirement Act an amount determined by multiplying
+the compensation of all members of such retirement system by the lesser of the
+percent of compensation transferred into the School Retirement Fund under this
+subsection or the percent of compensation of the members of the retirement
+system provided for under the Class V School Employees Retirement Act needed to
+meet the actuarially required contribution rate for such system, using the
+amortization period specified in section 79-966.01. Any additional amount of
+transfer so calculated, recommended by the Appropriations Committee of the
+Legislature, and approved by the Legislature, shall be added to the two percent
+specified in subsection (2) of this section for the amount required by
+subsection (2) of section 79-916 to be transferred to the Class V school
+district, which shall transfer such amount to the funds of the retirement
+system provided for under the Class V School Employees Retirement Act.
+(2)(a) (2) For each fiscal year beginning July 1, 2014, and prior to July
+1, 2025, in addition to the state transfers required by subsections (1) and (3)
+of this section, the state shall transfer into the School Retirement Fund an
+amount equal to two percent of the compensation of all members of the
+retirement system.
+(b) Beginning in 2025 and each year thereafter, the state contribution
+rate under this subsection shall be calculated as of July 1 and based on the
+funded ratio of the actuarial value of assets in the School Retirement Fund in
+the most recent previous year as reported in the annual actuarial valuation
+report for the retirement system produced for the retirement board pursuant to
+section 84-1503. In addition to the state transfers required by subsections (1)
+and (3) of this section, the state shall deposit the following amounts into the
+School Retirement Fund:
+(i) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is less than ninety-six percent, an amount equal to two percent
+of the compensation of all members of the retirement system;
+(ii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is ninety-six percent or greater and less than one hundred
+percent, an amount equal to seven-tenths of one percent of the compensation of
+all members of the retirement system; and
+(iii) If the funded ratio on the actuarial value of assets in the School
+Retirement Fund is one hundred percent or greater, no transfer shall be made
+under this subsection.
+(3) In addition to the state deposits and transfers required by
+subsections (1) and (2) of this section, beginning on July 1, 2005, and each
+fiscal year thereafter for employees who become members prior to July 1, 2016,
+the state shall transfer into the Service Annuity Fund such amounts as may be
+necessary to pay the normal cost and amortize the unfunded actuarial accrued
+liability of the service annuity benefit established pursuant to sections
+79-933 and 79-952 as accrued through the end of the previous fiscal year of the
+school employees who are members of the retirement system established pursuant
+to the Class V School Employees Retirement Act.
+Sec. 4. Section 81-2026, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-2026 (1)(a) Any officer qualified for an annuity as provided in section
+81-2025 for reasons other than disability shall be entitled to receive a
+monthly annuity for the remainder of the officer's life. The annuity payments
+shall continue until the end of the calendar month in which the officer dies.
+The amount of the annuity shall be a percentage of the officer's final average
+monthly compensation. For retirement on or after the fifty-fifth birthday of
+the member or on or after the fiftieth birthday of a member who has been in the
+employ of the state for twenty-five years, as calculated in section 81-2033,
+the percentage shall be three percent multiplied by the number of years of
+creditable service, as calculated in section 81-2033, except that the
+percentage shall never be greater than seventy-five percent.
+(b) For retirement pursuant to subsection (2) of section 81-2025 on or
+after the fiftieth birthday of the member but prior to the fifty-fifth birthday
+of the member who has been in the employ of the state for less than twenty-five
+years, as calculated in section 81-2033, the annuity which would apply if the
+member were age fifty-five at the date of retirement shall be reduced by five-
+ninths of one percent for each month by which the early retirement date
+precedes age fifty-five or for each month by which the early retirement date
+precedes the date upon which the member has served for twenty-five years,
+whichever is earlier. Any officer who has completed thirty years of creditable
+service with the Nebraska State Patrol shall have retirement benefits computed
+as if the officer had reached age fifty-five.
+(c) For purposes of this computation:
+(i) For an officer who became a member prior to July 1, 2016, final
+average monthly compensation means the sum of the officer's total compensation
+during the three twelve-month periods of service as an officer in which
+compensation was the greatest divided by thirty-six and:
+(A) For any officer employed on or before January 4, 1979, the officer's
+total compensation includes payments received for unused vacation and sick
+leave accumulated during the final three years of service; or
+(B) For any officer employed after January 4, 1979, and prior to July 1,
+2016, the officer's total compensation includes payments received for unused
+-3-
+
+LB645 LB645
+2025 2025
+holiday compensatory time and unused compensatory time; and
+(ii) For an officer who became a member on or after July 1, 2016, final
+average monthly compensation means the sum of the officer's total compensation
+during the five twelve-month periods of service as an officer in which
+compensation was the greatest divided by sixty and does not include payments
+received for unused sick leave, unused vacation leave, unused holiday
+compensatory time, unused compensatory time, or any other type of unused leave,
+compensatory time, or similar benefits, converted to cash payments. The five
+twelve-month periods used for calculating an officer's final average monthly
+compensation ends with the month during which the officer's final compensation
+is paid. In the determination of compensation, that part of an officer's
+compensation for the plan year which exceeds the officer's compensation for the
+preceding plan year by more than eight percent during the capping period shall
+be excluded. Such officer's compensation for the first plan year of the capping
+period shall be compared to the officer's compensation received for the plan
+year immediately preceding the capping period. For purposes of this
+subdivision, capping period means the five plan years preceding the officer's
+retirement date. The board may adopt and promulgate rules and regulations for
+the implementation of this section, including rules and regulations related to
+prorating, annualizing, or recalculating an officer's final average monthly
+compensation for each plan year in the capping period.
+(2) Any officer qualified for an annuity as provided in section 81-2025
+for reasons of disability shall be entitled to receive a monthly annuity for
+the remainder of the period of disablement as provided in sections 81-2028 to
+81-2030. The amount of the annuity shall be fifty percent of the officer's
+monthly compensation at the date of disablement if the officer has completed
+seventeen or fewer years of creditable service. If the officer has completed
+more than seventeen years of creditable service, the amount of the annuity
+shall be three percent of the final monthly compensation at the date of
+disablement multiplied by the total years of creditable service but not to
+exceed seventy-five percent of the final average monthly compensation as
+defined in subsection (1) of this section. The date of disablement shall be the
+date on which the benefits as provided in section 81-2028 have been exhausted.
+(3) Upon the death of an officer after retirement for reasons other than
+disability, benefits shall be provided as a percentage of the amount of the
+officer's annuity, calculated as follows:
+(a) If there is a surviving spouse but no dependent child or children of
+the officer under nineteen years of age, the surviving spouse shall receive a
+benefit equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life;
+(b) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age and there is no other dependent child or children of the officer not in the
+care of the surviving spouse under nineteen years of age, the benefit shall be
+equal to one hundred percent of the officer's annuity. When there is no
+remaining dependent child of the officer under nineteen years of age, the
+benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(c) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age or there is another dependent child or children of the officer under
+nineteen years of age not in the care of the surviving spouse, the benefit
+shall be twenty-five percent of the amount of the officer's annuity to the
+surviving spouse and seventy-five percent of the amount of the officer's
+annuity to the dependent children of the officer under nineteen years of age to
+be divided equally among such dependent children but in no case shall the
+benefit received by a surviving spouse and dependent children residing with
+such spouse be less than fifty percent of the amount of the officer's annuity.
+At such time as any dependent child of the officer attains nineteen years of
+age, the benefit shall be divided equally among the remaining dependent
+children of the officer who have not yet attained nineteen years of age. When
+there is no remaining dependent child of the officer under nineteen years of
+age, the benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(d) If there is no surviving spouse and a dependent child or children of
+the officer under nineteen years of age, the benefit shall be equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+-4-
+
+LB645 LB645
+2025 2025
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(ii) Beginning July 1, 2027, one hundred percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(e) If there is no surviving spouse or no dependent child or children of
+the officer under nineteen years of age, the amount of benefit such officer has
+received under the Nebraska State Patrol Retirement Act shall be computed. If
+such amount is less than the contributions to the State Patrol Retirement Fund
+made by such officer, plus regular interest, the difference shall be paid to
+the officer's designated beneficiary or estate.
+(4) Upon the death of an officer after retirement for reasons of
+disability, benefits shall be provided as if the officer had retired for
+reasons other than disability.
+(5) Upon the death of an officer before retirement, benefits shall be
+provided as if the officer had retired for reasons of disability on the date of
+such officer's death, calculated as follows:
+(a) If there is a surviving spouse but no dependent child or children of
+the officer under nineteen years of age, the surviving spouse shall receive a
+benefit equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity for the remainder of the surviving spouse's life;
+(b) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age and there is no other dependent child or children of the officer not in the
+care of the surviving spouse under nineteen years of age, the benefit shall be
+equal to one hundred percent of the officer's annuity. When there is no
+remaining dependent child of the officer under nineteen years of age, the
+benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(c) If there is a surviving spouse and the surviving spouse has in his or
+her care a dependent child or children of the officer under nineteen years of
+age or there is another dependent child or children of the officer under
+nineteen years of age not in the care of the surviving spouse, the benefit
+shall be twenty-five percent of the amount of the officer's annuity to the
+surviving spouse and seventy-five percent of the amount of the officer's
+annuity to the dependent children of the officer under nineteen years of age to
+be divided equally among such dependent children but in no case shall the
+benefit received by a surviving spouse and dependent children residing with
+such spouse be less than fifty percent of the amount of the officer's annuity.
+At such time as any dependent child of the officer attains nineteen years of
+age, the benefit shall be divided equally among the remaining dependent
+children of the officer who have not yet attained nineteen years of age. When
+there is no remaining dependent child of the officer under nineteen years of
+age, the benefit shall be:
+(i) Prior to July 1, 2027, seventy-five percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life; and
+(ii) Beginning July 1, 2027, one hundred percent of the amount of the
+officer's annuity to the surviving spouse for the remainder of the surviving
+spouse's life;
+(d) If there is no surviving spouse and a dependent child or children of
+the officer under nineteen years of age, the benefit shall be equal to:
+(i) Prior to July 1, 2027, seventy-five percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(ii) Beginning July 1, 2027, one hundred percent of the officer's annuity
+to the dependent children of the officer under nineteen years of age to be
+divided equally among such dependent children. At such time as any dependent
+child of the officer attains nineteen years of age, the benefit shall be
+divided equally among the remaining dependent children of the officer who have
+not yet attained nineteen years of age; and
+(e) If no benefits are paid to a surviving spouse or dependent child or
+children of the officer, benefits will be paid as described in subsection (1)
+of section 81-2031.
+(6) A lump-sum death benefit paid to the member's beneficiary, other than
+the member's estate, that is an eligible distribution may be distributed in the
+form of a direct transfer to a retirement plan eligible to receive such
+transfer under the provisions of the Internal Revenue Code.
+(7) For any member whose death occurs on or after January 1, 2007, while
+-5-
+
+LB645 LB645
+2025 2025
+performing qualified military service as defined in section 414(u) of the
+Internal Revenue Code, the member's beneficiary shall be entitled to any
+additional death benefit that would have been provided, other than the accrual
+of any benefit relating to the period of qualified military service. The
+additional death benefit shall be determined as if the member had returned to
+employment with the Nebraska State Patrol and such employment had terminated on
+the date of the member's death.
+(8) Any changes made to this section by Laws 2004, LB 1097, shall apply
+only to retirements, disabilities, and deaths occurring on or after July 16,
+2004.
+Sec. 5. Original sections 79-916, 79-958, 79-966, and 81-2026, Reissue
+Revised Statutes of Nebraska, are repealed.
+Sec. 6. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-6-
+
+[DELETED: yB B F A A r t r t a s 7 7 a 8 R R S o N t c V s d t c e a s c t S R F t c p o t N S 1 S 7 R R S o N i a d b t a a l o t r t t a a l o t s a a r s e p t t C V S E F s a a m b n t p t n c a o t e w a m o t r s e o t r s e p t t C V S d t n c a t a p o t u A t t o r o a e w i a m o t s e p t t C V S E F t t C V s d f t t t r y o s t c a p f m o t S f t t t r s e p t t T S A F i c T f s c o t s t p t s a t t C V s d f t e w a m o t r s e t t C V S E R A A m i t o p t t N C E A a t a d b m t c o a m o s t a d u s ( o s 7 T F e f y b J 1 2 i a t t p t s ( o t s t s s a t t f o t C V s d f t t t a m o s r s p t a d u5L52]
+[DELETED:  I i t i o t L t t s t o t f f o o t r s t r t o t d a d i t C V S E ( ( B o S 1 2 a p t J 1 f t p o p t f t p f f a s h o o p o c S d b t a t s t a i t s m a r s b c a o J 1 a b o t f r o t v o a i t S R F i t m r y a r i t a a v r f t s p f t r b p t s I t f r o t a v o a i t S F i n p o g a l t n f a c p o o a J 1 1 a t u t c a s n b i a g i o t u s t a t a d o m a T a d a m c s b p b e i l o m c T e s p t c f t s s o f w i u i p t t m T e s p u t c b  d t a r i t c c o t T e s p u t m c m t p d a p t s 7 a c i t s m a c p u u i s m a o t a a r b t T r b s t c t a o s S T s a o J 1 o s y t f f B J 1 2 t c s t d i a r c r f t f y o t5L52]
+[DELETED:  t a p s i s 7 t C  s b m r a p h o t A o t p o c o t m o t r t a r c r f s s u t p s i s 7 A a a o s c r b t A C o t i s ( o t s f t a r b ( o s 7 t b t t t C V s w s t s a t t f o t r e t t p o t c o a m o t B i 2 a e y t t s c m r p y a r i t a a v I t f r o t a v o a i t S F i n p o g a l t o h I a t t s d a t r b o t s a b e p t s f r o t d s b e t r  p s b t p m b t n o y o s a c i s 8 e t t F r p t s ( o s 8 o o o o p f e m b w t e r d t d u w t m h s f t y F a o w b a m p t J 1 2 f t t t p o s a a o i w c i p r f u v a s t o t c i p r f u5L52]
+[DELETED:  t f t p o s a a o i w f u s l u v l u h p u f c a o f a m p I t d o c t p o a o i p t c p F p o t a o r a o f a m T a o t a s b f p o t o t s y o c s t a o t a b t p o t f m c a t d o m b t t y o c s b n t s p o t f a m c a b s b p a a p o t a o t P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t o h p o t o a W t i n d c o t o u n y o a t P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t o t i a d c o c o t o u y o a n i t c o t s s t b b t p o t a o t o a t t s a s p o t a o t o d e a s d c b i n c s t r b a s s a d c r w t b s b d e a t r d P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t d c o t o u n y o a t b o t o a n y o a t b s b5L52]
+[DELETED:  t d c o t o u n y o a t b o t o a n y o a t b s b U t d o a o a r f r o b s b p a i t o h r f U t d o a o b r b s b P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t o h p o t o a W t i n d c o t o u n y o a t P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t o t i a d c o c o t o u y o a n i t c o t s s t b b t p o t a o t o a t t s a s p o t a o t o d e a s d c b i n c s t r b a s s a d c r w t b s b d e a t r d P t J 1 2 s p o t a o t B J 1 2 o h p o t a o t t d c o t o u n y o a t b o t o a n y o a t b s b t d c o t o u n y o a t b o t o a n y o a t b s b o a d t t a r p e t r s5L52]
+[DELETED:  q m s a d i s 4 o t R C t m b s b e t a a b r t t p o q m s T 5  O s 7 7 7 a 8 R5L52]

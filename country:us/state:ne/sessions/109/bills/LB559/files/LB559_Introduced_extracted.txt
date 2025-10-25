@@ -1,0 +1,944 @@
+Title: LEGISLATIVE BILL 559
+Official Title: LEGISLATIVE BILL 559
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+LB559 LB559
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Bosn, 25.
+Read first time January 22, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to crimes and offenses; to amend sections
+2 28-618, 28-1601, and 28-1602, Reissue Revised Statutes of Nebraska,
+3 and section 28-101, Revised Statutes Cumulative Supplement, 2024; to
+4 provide for offenses relating to skimmer devices and continuing
+5 criminal enterprises involving financial offenses; to provide
+6 penalties; to define terms; to provide for forfeiture; to clarify
+7 and harmonize provisions; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+LB559 LB559
+2025 2025
+1 Section 1. Section 28-101, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 28-101 Sections 28-101 to 28-1357, 28-1601 to 28-1603, and 28-1701
+4 and sections 3, 4, 5, and 6 of this act shall be known and may be cited
+5 as the Nebraska Criminal Code.
+6 Sec. 2. Section 28-618, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 28-618 For purposes of sections 28-618 to 28-630 and sections 3, 4,
+9 5, and 6 of this act:
+10 (1) Account holder means shall mean the person or business entity
+11 named on the face of a financial transaction device for whose benefit the
+12 financial transaction device is issued by an issuer;
+13 (2) Acquirer means shall mean any business organization, financial
+14 institution, or agent of such organization or institution which
+15 authorizes a merchant to accept payment by financial transaction device
+16 for money, property, services, or anything else of value;
+17 (3) Automated banking device means shall mean any machine which,
+18 when properly activated by a financial transaction device or a personal
+19 identification code, may be used for any purpose for which a financial
+20 transaction device is issued;
+21 (4) Counterfeit financial transaction device means shall mean any
+22 financial transaction device which is fictitious, altered, forged,
+23 stolen, obtained as part of a scheme to defraud, or otherwise unlawfully
+24 obtained and which may or may not be embossed with account information or
+25 a company logo or any facsimile, false representation, depiction, or
+26 component of a financial transaction device;
+27 (5) Embossing means shall mean any process in which account numbers
+28 are placed on financial transaction devices that results in the number
+29 being raised from the surface of the device;
+30 (6) Expired financial transaction device means shall mean a
+31 financial transaction device which is no longer valid because the term
+-2-
+LB559 LB559
+2025 2025
+1 shown on it has elapsed;
+2 (7) Financial transaction device means shall mean any instrument or
+3 device whether known as a credit card, credit plate, bank service card,
+4 banking card, check guarantee card, debit card, electronic funds transfer
+5 card, or account number representing a financial account. Such device
+6 shall affect the financial interest, standing, or obligation of the
+7 financial account for services or financial payments for money, credit,
+8 property, or services;
+9 (8) Financial-transaction-device-making equipment means shall mean
+10 any equipment, impression, machine, mechanism, plate, or other device
+11 designed, used, or capable of being used to produce a financial
+12 transaction device, a counterfeit financial transaction device, or any
+13 aspect or component of a financial transaction device;
+14 (9) Holographic means shall mean a photographic method that uses
+15 laser light to produce three-dimensional images;
+16 (10) Intent to defraud means shall mean an unlawful attempt to
+17 secure money, credit, property, or services from an issuer, without
+18 permission of the account holder, for the benefit of any person other
+19 than the account holder;
+20 (11) Issuer means shall mean any person or any financial or business
+21 entity that acquires financial rights by issuing, canceling, controlling,
+22 or distributing a financial transaction device;
+23 (12) Magnetic encoding means shall mean any electronically encoded
+24 account holder information which is placed on a magnetic strip on the
+25 financial transaction device and is capable of being read by an
+26 electronic terminal such as an automatic teller machine or an electronic
+27 terminal at a merchant location also known as a point-of-sale terminal;
+28 (13) Personal identification code means shall mean any grouping of
+29 letters, numbers, or symbols assigned to the account holder of a
+30 financial transaction device by the issuer to permit authorized
+31 electronic access of that account;
+-3-
+LB559 LB559
+2025 2025
+1 (14) Receives or receiving means shall mean acquiring possession or
+2 control of or accepting as security for a loan a financial transaction
+3 device;
+4 (15) Revoked financial transaction device means shall mean a
+5 financial transaction device which is no longer valid because permission
+6 to use it has been suspended or terminated by the issuer;
+7 (16) Sales form means shall mean any written, electronic, magnetic,
+8 or printed record of a financial transaction involving use of a financial
+9 transaction device;
+10 (17) Sales form processing services means shall mean services
+11 provided to enable a person to obtain payment or credit for sales forms;
+12 (18) Sales form processor means shall mean any bank, financial
+13 institution, or other entity which with authority from a bona fide
+14 association of issuers provides sales form processing services;
+15 (19) Service mark means shall mean a word, name, symbol, or other
+16 device or any combination thereof to identify the goods or services of
+17 the entity from the goods and services of another entity;
+18 (20) Skimmer device means an electronic or other device used to
+19 capture, record, store or transmit data from a financial transaction
+20 device or to capture or record an account holder's personal
+21 identification code;
+22 (21) (20) To falsely alter a financial transaction device means
+23 shall mean to change such device without the authority of anyone entitled
+24 to grant such authority, whether in complete or incomplete form, by means
+25 of erasure, obliteration, deletion, insertion of new matter,
+26 transposition of matter, or any other means, so that such device in its
+27 altered form falsely appears or purports to be in all respects an
+28 authentic creation of or fully authorized by its ostensible issuer;
+29 (22) (21) To falsely complete a financial transaction device means
+30 shall mean to transform an incomplete device into a complete one by
+31 adding, inserting, or changing matter without the authority of anyone
+-4-
+LB559 LB559
+2025 2025
+1 entitled to grant such authority, so that the complete device falsely
+2 appears or purports to be in all respects an authentic creation of or
+3 fully authorized by its ostensible issuer;
+4 (23) (22) To falsely make a financial transaction device means shall
+5 mean to make or manufacture a device, whether complete or incomplete,
+6 which purports to be an authentic creation of its ostensible issuer but
+7 which is fictitious or, if real, the ostensible issuer did not authorize
+8 the making or the manufacturing thereof; and
+9 (24) (23) Traffic means shall mean to distribute, dispense, sell,
+10 transfer, or otherwise dispose of property or to buy, receive, possess,
+11 obtain control of, or use property with the intent to dispense,
+12 distribute, sell, transfer, or otherwise dispose of such property.
+13 Sec. 3. (1) It shall be unlawful to install a skimmer device,
+14 without authorization, on an automated banking device or a point-of-sale
+15 terminal, including any fuel pump, for the purpose of obtaining money,
+16 credit, property, or anything of value, and with the intent to defraud.
+17 (2) Installation of a skimmer device shall be considered done
+18 without authorization if such installation is, for any reason, done
+19 without authorization by the issuer, account holder, owner of the
+20 automated banking device, or owner of the point-of-sale terminal.
+21 (3) A violation of this section is a Class IV felony.
+22 Sec. 4. (1) It shall be unlawful to use a skimmer device on an
+23 automated banking device or any point-of-sale terminal, including any
+24 fuel pump, for the purpose of obtaining money, credit, property, or
+25 anything of value, and with the intent to defraud.
+26 (2) A violation of this section shall be punished according to the
+27 total value of the money, credit, property, or things of value obtained,
+28 or the financial payments made, as a result of the violation. A violation
+29 of this section shall be:
+30 (a) A Class IIA felony when such value is five thousand dollars or
+31 more;
+-5-
+LB559 LB559
+2025 2025
+1 (b) A Class IV felony when such value is one thousand five hundred
+2 dollars or more but less than five thousand dollars;
+3 (c) A Class I misdemeanor when such value is more than five hundred
+4 dollars but less than one thousand five hundred dollars; and
+5 (d) A Class II misdemeanor when such value is five hundred dollars
+6 or less.
+7 (3) For any second or subsequent conviction under subdivision (2)(c)
+8 of this section, any person so offending shall be guilty of a Class IV
+9 felony.
+10 (4) For any second conviction under subdivision (2)(d) of this
+11 section, any person so offending shall be guilty of a Class I
+12 misdemeanor, and for any third or subsequent conviction under subdivision
+13 (2)(d) of this section, the person so offending shall be guilty of a
+14 Class IV felony.
+15 (5) For a prior conviction to be used to enhance the penalty under
+16 subsection (3) or (4) of this section, the prior conviction must have
+17 occurred no more than ten years prior to the date of commission of the
+18 current offense.
+19 (6) The value of the money, credit, property, or things of value
+20 obtained, or the financial payments made, pursuant to one scheme or
+21 course of conduct from one or more persons may be aggregated in the
+22 indictment, information, or complaint in determining the classification
+23 of the offense, except that amounts shall not be aggregated into more
+24 than one offense.
+25 (7) In any prosecution for a violation of this section, the total
+26 value of the money, credit, property, or things of value obtained, or the
+27 financial payments made, as a result of the violation, is an essential
+28 element of the offense that must be proved beyond a reasonable doubt.
+29 Sec. 5. (1) For purposes of this section:
+30 (a) Financial transaction offense means any violation of sections
+31 28-618 to 28-630 and sections 3 and 4 of this act for which the
+-6-
+LB559 LB559
+2025 2025
+1 punishment is a felony; and
+2 (b) Leadership position means a position in which a person acts as a
+3 principal administrator, organizer, supervisor, or manager or otherwise
+4 leads or directs other persons.
+5 (2) A person is engaged in a continuing criminal enterprise if such
+6 person commits any financial transaction offense and:
+7 (a) Such offense is part of a continuing series of financial
+8 transaction offenses;
+9 (b) Such series of offenses is undertaken by such person in concert
+10 with two or more other persons with respect to whom such person acts in a
+11 leadership position; and
+12 (c) Such person obtains substantial income or resources from such
+13 activities.
+14 (3) A violation of this section shall be punished as a:
+15 (a) Class II felony if the enterprise, or any other enterprise in
+16 which the defendant was in a leadership position:
+17 (i) Included three or fewer persons; or
+18 (ii) Had at least two million dollars but less than five million
+19 dollars in gross receipts during any twelve-month period of the
+20 enterprise's existence;
+21 (b) Class ID felony if the enterprise, or any other enterprise in
+22 which the defendant was in a leadership position:
+23 (i) Included four or more persons but fewer than ten persons; or
+24 (ii) Had at least five million dollars but less than ten million
+25 dollars in gross receipts during any twelve-month period of the
+26 enterprise's existence; and
+27 (c) Class IC felony if the enterprise, or any other enterprise in
+28 which the defendant was in a leadership position:
+29 (i) Included ten or more persons; or
+30 (ii) Had at least ten million dollars in gross receipts during any
+31 twelve-month period of the enterprise's existence.
+-7-
+LB559 LB559
+2025 2025
+1 Sec. 6. In addition to the existing penalties available for a
+2 violation of sections 3, 4, or 5 of this act, a sentencing court may
+3 order forfeiture as provided in sections 28-1601 to 28-1603.
+4 Sec. 7. Section 28-1601, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 28-1601 (1) For purposes of sections 28-1601 to 28-1603:
+7 (a) Covered offense means a violation of the Child Pornography
+8 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+9 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 or section 3,
+10 4, or 5 of this act;
+11 (b) Electronic communication device has the same meaning as in
+12 section 28-833; and
+13 (c) Gambling device has the same meaning as in section 28-1101.
+14 (2) (1) In addition to existing penalties for a violation of a
+15 covered offense the Child Pornography Prevention Act, subsection (1) of
+16 section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+17 28-1105.01, or 28-1107, a court may order forfeiture of any money,
+18 securities, negotiable instruments, firearms, conveyances, or electronic
+19 communication devices; as defined in section 28-833, any equipment,
+20 components, peripherals, software, hardware, or accessories related to
+21 electronic communication devices; , or any gambling devices as defined in
+22 section 28-1101 if:
+23 (a) The owner or possessor of the property has been convicted of a
+24 covered offense violation of the Child Pornography Prevention Act,
+25 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+26 28-1104, 28-1105, 28-1105.01, or 28-1107;
+27 (b) The information charging such violation specifically requests
+28 the forfeiture of property upon conviction and is prepared pursuant to
+29 section 28-1602; and
+30 (c) It The property is found by clear and convincing evidence that
+31 such property was to have been derived from, used, or intended to be used
+-8-
+LB559 LB559
+2025 2025
+1 to facilitate a covered offense violation of the Child Pornography
+2 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+3 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+4 (3) (2) Following the filing of an information charging a violation
+5 of a covered offense the Child Pornography Prevention Act, subsection (1)
+6 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+7 28-1105, 28-1105.01, or 28-1107 that specifically seeks forfeiture of any
+8 property listed in subsection (2) (1) of this section, the defendant may
+9 request a pretrial hearing to determine the existence of probable cause
+10 to believe that the property specifically sought to be forfeited was
+11 derived from, used, or intended to be used to facilitate a covered
+12 offense violation of the Child Pornography Prevention Act, subsection (1)
+13 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+14 28-1105, 28-1105.01, or 28-1107. The request for a hearing pursuant to
+15 this section must be filed with the district court in which the criminal
+16 proceeding is pending within thirty days after the filing of the
+17 information.
+18 (4)(a) (3) At any time after the filing of the information in
+19 district court and prior to final disposition of the criminal case, any
+20 person or entity, other than the defendant, with a claimed legal interest
+21 in the property may petition to intervene in the district court with
+22 jurisdiction over the criminal case for the specific and limited purpose
+23 of demonstrating such person's his, her, or its legal interest in the
+24 property and such person's his, her, or its lack of actual knowledge that
+25 such property was derived from, used, or intended to be used to
+26 facilitate a covered offense in violation of the Child Pornography
+27 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+28 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+29 (b) In the petition to intervene, the intervening person or entity
+30 shall, at a minimum, state facts demonstrating such person's his, her, or
+31 its legal interest in the property and such person's his, her, or its
+-9-
+LB559 LB559
+2025 2025
+1 lack of actual knowledge regarding the use or intended use of the
+2 property.
+3 (5) Within thirty days after filing a motion to intervene, the
+4 district court shall conduct an evidentiary hearing on the matter. At the
+5 conclusion of such hearing, the court may order that any or all of the
+6 property be returned to the intervening claimant after it is no longer
+7 needed as evidence in the criminal case upon a showing by the claimant by
+8 a preponderance of the evidence:
+9 (a) That the claimant that he, she, or it has a legally recognized
+10 interest in the property; and
+11 (b) Either either (i) that such property was acquired by the
+12 claimant in good faith and the claimant he, she, or it did not have
+13 actual knowledge that such property was derived from, used, or intended
+14 to be used to facilitate a covered offense violation of the Child
+15 Pornography Prevention Act, subsection (1) of section 28-416, or section
+16 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 or
+17 (ii) that the property seized was not derived from, used, or intended to
+18 be used to facilitate a covered offense violation of the Child
+19 Pornography Prevention Act, subsection (1) of section 28-416, or section
+20 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+21 (6) The court, on its own motion or upon application of the
+22 intervening claimant, may permit the claimant such person to proceed in
+23 forma pauperis under sections 25-2301 to 25-2310. The court, on its own
+24 motion or upon application of the intervening claimant, may appoint
+25 counsel to represent the claimant such person if the claimant such person
+26 is indigent. If the claimant he or she asserts indigency, the court shall
+27 make a reasonable inquiry to determine the claimant's such person's
+28 financial condition and may require the claimant him or her to execute an
+29 affidavit of indigency for filing with the clerk of the court.
+30 (7) (4) After conviction but prior to sentencing for a covered
+31 offense violation of the Child Pornography Prevention Act, subsection (1)
+-10-
+LB559 LB559
+2025 2025
+1 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+2 28-1105, 28-1105.01, or 28-1107 in cases in which the prosecuting
+3 authority has specifically requested forfeiture of property, the district
+4 court shall conduct an evidentiary hearing at which the prosecuting
+5 authority must prove by clear and convincing evidence what specific
+6 amount or portion of the property specifically enumerated in the criminal
+7 information was derived from, used, or intended for use in furtherance of
+8 a covered offense violation of the Child Pornography Prevention Act,
+9 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+10 28-1104, 28-1105, 28-1105.01, or 28-1107. At the conclusion of such
+11 hearing, the court shall make specific findings of fact indicating what
+12 amount or portion of the property sought to be forfeited by the state was
+13 derived from, used, or intended to be used to facilitate a covered
+14 offense violation of the Child Pornography Prevention Act, subsection (1)
+15 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+16 28-1105, 28-1105.01, or 28-1107. The court shall order any amount or
+17 portion of the property not proven by the state to be derived from, used,
+18 or intended to be used to facilitate a covered offense violation of the
+19 Child Pornography Prevention Act, subsection (1) of section 28-416, or
+20 section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+21 28-1107 or the fair market value of the legally recognized interest in
+22 such property be returned to its rightful and legal owner or interest
+23 holder.
+24 (8)(a) (5)(a) The court shall order that any amount or portion of
+25 property proven by the state by clear and convincing evidence to be
+26 derived from, used, or intended to be used to facilitate a covered
+27 offense violation of the Child Pornography Prevention Act, subsection (1)
+28 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+29 28-1105, 28-1105.01, or 28-1107 be forfeited to the state and disposition
+30 of such property be conducted in accordance with this subsection and
+31 section 28-1439.02 at such time as the property is no longer required as
+-11-
+LB559 LB559
+2025 2025
+1 evidence in any criminal proceeding.
+2 (b) As part of any disposition of property, the court may order
+3 that: (i) Any money, securities, or negotiable instruments be distributed
+4 as provided in Article VII, section 5, of the Constitution of Nebraska;
+5 (ii) any conveyances be sold or put to official use by the seizing agency
+6 for a period of not more than one year and when such property is no
+7 longer necessary for official use or at the end of two years, whichever
+8 comes first, such property shall be sold. Proceeds from the sale of any
+9 conveyance shall be distributed as provided in Article VII, section 5, of
+10 the Constitution of Nebraska; (iii) any electronic communication devices
+11 as defined in section 28-833, any equipment, components, peripherals,
+12 software, hardware, or accessories related to electronic communication
+13 devices, or any gambling devices as defined in section 28-1101 be
+14 destroyed by a law enforcement agency; and (iv) the disposition of
+15 firearms shall be effectuated pursuant to section 29-820.
+16 (c) As used in this subsection, official use means use directly in
+17 connection with enforcement of the Child Pornography Prevention Act, the
+18 Uniform Controlled Substances Act, or section 28-813.01, 28-1102,
+19 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+20 (9) (6) Any money, securities, negotiable instruments, firearms,
+21 conveyances, or electronic communication devices; as defined in section
+22 28-833, any equipment, components, peripherals, software, hardware, or
+23 accessories related to electronic communication devices; , or any
+24 gambling devices as defined in section 28-1101 may be forfeited pursuant
+25 to a plea agreement between the state and the defendant subject to notice
+26 to or approval of the court.
+27 (10) (7) Subdivision (2)(a) (1)(a) of this section does not apply if
+28 the owner or possessor of the property dies or is removed from the United
+29 States before charges are filed or a conviction obtained.
+30 (11) (8) Subdivision (2)(b) (1)(b) of this section does not apply if
+31 the owner or possessor of the property dies or is removed from the United
+-12-
+LB559 LB559
+2025 2025
+1 States before charges are filed so long as the statute of limitations for
+2 a covered offense violation of the Child Pornography Prevention Act,
+3 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+4 28-1104, 28-1105, 28-1105.01, or 28-1107 has not expired.
+5 (12) (9) Subdivision (2)(a) (1)(a) of this section does not apply if
+6 the owner or possessor of the property is unknown or incapable of being
+7 determined for some legitimate reason or fails to appear in court as
+8 ordered after prosecution for a covered offense violation of the Child
+9 Pornography Prevention Act, subsection (1) of section 28-416, or section
+10 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 is
+11 commenced and is not apprehended within twelve months after the failure
+12 to appear order was issued by the court.
+13 (13) (10) If the owner or possessor of the property fails to appear
+14 in court as ordered after prosecution for a covered offense violation of
+15 the Child Pornography Prevention Act, subsection (1) of section 28-416,
+16 or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+17 28-1107 is commenced but appears or is apprehended within twelve months
+18 after the failure to appear order was issued by the court, the court may
+19 order the owner or possessor of the property, as a part of any sentence
+20 imposed for either the failure to appear or the conviction for a covered
+21 offense of the Child Pornography Prevention Act, subsection (1) of
+22 section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+23 28-1105.01, or 28-1107, to pay a storage fee of one hundred dollars per
+24 month for each month the property was held following the issuance of the
+25 failure to appear order.
+26 Sec. 8. Section 28-1602, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 28-1602 (1) The prosecuting authority must specifically plead its
+29 intent to seek forfeiture of any property upon a conviction for a covered
+30 offense violation of the Child Pornography Prevention Act, subsection (1)
+31 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+-13-
+LB559 LB559
+2025 2025
+1 28-1105, 28-1105.01, or 28-1107 in the same criminal information charging
+2 the underlying covered offense violation of the Child Pornography
+3 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+4 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+5 (2) In pleading its intent to seek forfeiture, the information shall
+6 specifically (a) state the date the property was seized, (b) state the
+7 place the property was seized from, (c) describe the property sought to
+8 be forfeited, and (d) if known, state the name of the owner of the
+9 property, the name of the person or persons in possession of the property
+10 or in physical proximity to the property when it was seized, and the name
+11 of any other person or entity that may have a claim or interest in the
+12 property.
+13 Sec. 9. Original sections 28-618, 28-1601, and 28-1602, Reissue
+14 Revised Statutes of Nebraska, and section 28-101, Revised Statutes
+15 Cumulative Supplement, 2024, are repealed.
+-14-
+[DELETED: yBA B F A A r t c a o t a s2ap f o r t s d a cc e i f o t pp t d t t p f f t caB9L52]
+[DELETED: S 1 S 2 R S C S22aaS 2 S 2 R R S o N ia250( A h m s m t p o b e1n2f3(4i o a o s o o i w5a6f7( A b d m s m a m w8w9i0t1( C f t d m s m a2f t d w i f a f3s4o5a c l o a f f r d o6c7(8a9b0( E f t d m s m 1f9L52]
+[DELETED: s(dbc o a n r a f a S ds a t f i s o o o tfp( F e m s m0a e i m m p o o d1d u o c o b u t p a f2t d a c f t d o a3a4( H m s m a p m t u5l6( I t d m s m a u a t7s m c p o s f a i w8p o t a h f t b o a p o9t0(1e2o3(4a h i w i p o a m s o t5f t d a i c o b r b a6e7t8(9l n o s a t t a h o 0f t d b t i t p a1e9L52]
+[DELETED: (cd( R f t d m s m ft(ot0( S f p s m s m s1p2( S f p m s m a b f3i o o e w w a f a b f4a5(6d7t8( S d m a e o o d u t9c r s o t d f a f t0d o t c o r a a h p1i2( ( T f a a f t d m3s4t5o e o d i o n m6t7a f f a o p t b i a r a8a9(0s m t t a i d i a c o b1a i o c m w t a o a9L52]
+[DELETED: e t g s a s t t c d fa o p t b i a r a a c o of(m t m o m a d w c o iwwt( ( T m s m t d d s0t1o c o o u p w t i t d2d3S 3  ( I s b u t i a s d4w5t6c7( I o a s d s b c d8w a i s i i f a r d9w a b t i a h o o t0a1(2S 4  ( I s b u t u a s d o a3a b d o a p t i a4f p f t p o o m c p o5a6(7t8o9o0(1m9L52]
+[DELETED: (d(d(o(of0( F a s c u s ( o t1s a p s o s b g o a C 2m3( o t s t p s o s b g o 4C5(6s ( o ( o t s t p c m h7o8c9( T v o t m c p o t o v0o o t f p m p t o s o1c o c f o o m p m b a i t2i3o t o e t a s n b a i m4t5(6v7f8e9S0( F t o m a v o s12 t 2 a s 3 a 4 o t a f w t9L52]
+[DELETED: p(pl(p( S o i p o a c s o ft(0w1l2( S p o s i o r f s3a4(5(6w7(8( H a l t m d b l t f m9d i g r d a t p o t0e1(2w3(4( H a l f m d b l t t m5d i g r d a t p o t6e7(8w9(0(1t9L52]
+[DELETED: S 6  I a t t e p a f v o s 3 4 o 5 o t a a s c moS 7 S 2 R R S o N ia2( C o m a v o t C PP2041( E c d h t s m a i2s3(4( ( I a t e p f a v o 5c6s72 o 2 a c m o f o a m8s9c d a d i s 2 a e0c p s h o a r t1e2s3(4c o v o t C P P A5s627( T i c s v s r8t9s0(1s9L52]
+[DELETED: t f a c o v o t C PP2(oo s 2 o s 2 2 2 22pr0t b t t p s s t b f w1d f u o i t b u t f a c2o3o s 2 o s 2 2 2 2425t6p i p w t d a t f o t7i8( ( A a t a t f o t i i9d0p1i t p m p t i i t d c w2j3o d s p h h o i l i i t4p5s p w d f u o i t b u t6f a c o i v o t C P7P829(0s1i l i i t p a s p h h o i9L52]
+[DELETED: l o a k r t u o i u o tp( W t d a f a m t i tdcpna(0i1( E e ( t s p w a b t2c i g f a t c h s o i d n h3a4t b u t f a c o v o t C5P627(8b u t f a c o v o t C9P021( T c o i o m o u a o t2i3f4m o u a o t i c m a5c6i7m a r i t d t c s p8f9a0( ( A c b p t s f a c1o9L52]
+[DELETED: o s 2 o s 2 2 2 22 2 o 2 i c i w t pac s c a e h a w t pa m p b c a c e w saia c o v o t C P P As02 2 2 o 2 A t c o s1h2a3d f u o i t b u t f a c4o5o s 2 o s 2 2 2 262 2 o 2 T c s o a a o7p8o9C P P A s ( o s 2 o0s 2 2 2 2 2 2 o122s p b r t i r a l o o i3h4(5p p b t s b c a c e t b6d f u o i t b u t f a c7o8o s 2 o s 2 2 2 2920o s p b c i a w t s a1s9L52]
+[DELETED: e( A p o a d o p t c m ota(f a p o n m t o y a w s p i nlcc0t1a d i s 2 a e c p2s h o a r t e c3d o a g d a d i s 2 b4d b a l e a a ( t d o5f6(7c8U C S A o s 2 2920( ( A m s n i f1c22 a e c p s h o3a r t e c d , o a4g5t6t7(8t9S0(1t9L52]
+[DELETED: Sa c o v o t C P P As2(td f s l r o f t a i c aoP021c2t3(4i5t6o728a9o0i1o o t C P P A s ( o2s324m5f6S 8 S 2 R R S o N i7a82 ( T p a m s p i9i0o1o s 2 o s 2 2 2 29L52]
+[DELETED: 2t u c o v o t C PP2(spb f a ( i k s t n o t o o tp0o1o2p3S 9  O s 2 2 a 2 R4R S o N a s 2 R S5C9L52]
+
+
+================================================================================
+
+Raw Text:
+LB559 LB559
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 559
+Introduced by Bosn, 25.
+Read first time January 22, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to crimes and offenses; to amend sections
+2 28-618, 28-1601, and 28-1602, Reissue Revised Statutes of Nebraska,
+3 and section 28-101, Revised Statutes Cumulative Supplement, 2024; to
+4 provide for offenses relating to skimmer devices and continuing
+5 criminal enterprises involving financial offenses; to provide
+6 penalties; to define terms; to provide for forfeiture; to clarify
+7 and harmonize provisions; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB559 LB559
+2025 2025
+1 Section 1. Section 28-101, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 28-101 Sections 28-101 to 28-1357, 28-1601 to 28-1603, and 28-1701
+4 and sections 3, 4, 5, and 6 of this act shall be known and may be cited
+5 as the Nebraska Criminal Code.
+6 Sec. 2. Section 28-618, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 28-618 For purposes of sections 28-618 to 28-630 and sections 3, 4,
+9 5, and 6 of this act:
+10 (1) Account holder means shall mean the person or business entity
+11 named on the face of a financial transaction device for whose benefit the
+12 financial transaction device is issued by an issuer;
+13 (2) Acquirer means shall mean any business organization, financial
+14 institution, or agent of such organization or institution which
+15 authorizes a merchant to accept payment by financial transaction device
+16 for money, property, services, or anything else of value;
+17 (3) Automated banking device means shall mean any machine which,
+18 when properly activated by a financial transaction device or a personal
+19 identification code, may be used for any purpose for which a financial
+20 transaction device is issued;
+21 (4) Counterfeit financial transaction device means shall mean any
+22 financial transaction device which is fictitious, altered, forged,
+23 stolen, obtained as part of a scheme to defraud, or otherwise unlawfully
+24 obtained and which may or may not be embossed with account information or
+25 a company logo or any facsimile, false representation, depiction, or
+26 component of a financial transaction device;
+27 (5) Embossing means shall mean any process in which account numbers
+28 are placed on financial transaction devices that results in the number
+29 being raised from the surface of the device;
+30 (6) Expired financial transaction device means shall mean a
+31 financial transaction device which is no longer valid because the term
+-2-
+
+LB559 LB559
+2025 2025
+1 shown on it has elapsed;
+2 (7) Financial transaction device means shall mean any instrument or
+3 device whether known as a credit card, credit plate, bank service card,
+4 banking card, check guarantee card, debit card, electronic funds transfer
+5 card, or account number representing a financial account. Such device
+6 shall affect the financial interest, standing, or obligation of the
+7 financial account for services or financial payments for money, credit,
+8 property, or services;
+9 (8) Financial-transaction-device-making equipment means shall mean
+10 any equipment, impression, machine, mechanism, plate, or other device
+11 designed, used, or capable of being used to produce a financial
+12 transaction device, a counterfeit financial transaction device, or any
+13 aspect or component of a financial transaction device;
+14 (9) Holographic means shall mean a photographic method that uses
+15 laser light to produce three-dimensional images;
+16 (10) Intent to defraud means shall mean an unlawful attempt to
+17 secure money, credit, property, or services from an issuer, without
+18 permission of the account holder, for the benefit of any person other
+19 than the account holder;
+20 (11) Issuer means shall mean any person or any financial or business
+21 entity that acquires financial rights by issuing, canceling, controlling,
+22 or distributing a financial transaction device;
+23 (12) Magnetic encoding means shall mean any electronically encoded
+24 account holder information which is placed on a magnetic strip on the
+25 financial transaction device and is capable of being read by an
+26 electronic terminal such as an automatic teller machine or an electronic
+27 terminal at a merchant location also known as a point-of-sale terminal;
+28 (13) Personal identification code means shall mean any grouping of
+29 letters, numbers, or symbols assigned to the account holder of a
+30 financial transaction device by the issuer to permit authorized
+31 electronic access of that account;
+-3-
+
+LB559 LB559
+2025 2025
+1 (14) Receives or receiving means shall mean acquiring possession or
+2 control of or accepting as security for a loan a financial transaction
+3 device;
+4 (15) Revoked financial transaction device means shall mean a
+5 financial transaction device which is no longer valid because permission
+6 to use it has been suspended or terminated by the issuer;
+7 (16) Sales form means shall mean any written, electronic, magnetic,
+8 or printed record of a financial transaction involving use of a financial
+9 transaction device;
+10 (17) Sales form processing services means shall mean services
+11 provided to enable a person to obtain payment or credit for sales forms;
+12 (18) Sales form processor means shall mean any bank, financial
+13 institution, or other entity which with authority from a bona fide
+14 association of issuers provides sales form processing services;
+15 (19) Service mark means shall mean a word, name, symbol, or other
+16 device or any combination thereof to identify the goods or services of
+17 the entity from the goods and services of another entity;
+18 (20) Skimmer device means an electronic or other device used to
+19 capture, record, store or transmit data from a financial transaction
+20 device or to capture or record an account holder's personal
+21 identification code;
+22 (21) (20) To falsely alter a financial transaction device means
+23 shall mean to change such device without the authority of anyone entitled
+24 to grant such authority, whether in complete or incomplete form, by means
+25 of erasure, obliteration, deletion, insertion of new matter,
+26 transposition of matter, or any other means, so that such device in its
+27 altered form falsely appears or purports to be in all respects an
+28 authentic creation of or fully authorized by its ostensible issuer;
+29 (22) (21) To falsely complete a financial transaction device means
+30 shall mean to transform an incomplete device into a complete one by
+31 adding, inserting, or changing matter without the authority of anyone
+-4-
+
+LB559 LB559
+2025 2025
+1 entitled to grant such authority, so that the complete device falsely
+2 appears or purports to be in all respects an authentic creation of or
+3 fully authorized by its ostensible issuer;
+4 (23) (22) To falsely make a financial transaction device means shall
+5 mean to make or manufacture a device, whether complete or incomplete,
+6 which purports to be an authentic creation of its ostensible issuer but
+7 which is fictitious or, if real, the ostensible issuer did not authorize
+8 the making or the manufacturing thereof; and
+9 (24) (23) Traffic means shall mean to distribute, dispense, sell,
+10 transfer, or otherwise dispose of property or to buy, receive, possess,
+11 obtain control of, or use property with the intent to dispense,
+12 distribute, sell, transfer, or otherwise dispose of such property.
+13 Sec. 3. (1) It shall be unlawful to install a skimmer device,
+14 without authorization, on an automated banking device or a point-of-sale
+15 terminal, including any fuel pump, for the purpose of obtaining money,
+16 credit, property, or anything of value, and with the intent to defraud.
+17 (2) Installation of a skimmer device shall be considered done
+18 without authorization if such installation is, for any reason, done
+19 without authorization by the issuer, account holder, owner of the
+20 automated banking device, or owner of the point-of-sale terminal.
+21 (3) A violation of this section is a Class IV felony.
+22 Sec. 4. (1) It shall be unlawful to use a skimmer device on an
+23 automated banking device or any point-of-sale terminal, including any
+24 fuel pump, for the purpose of obtaining money, credit, property, or
+25 anything of value, and with the intent to defraud.
+26 (2) A violation of this section shall be punished according to the
+27 total value of the money, credit, property, or things of value obtained,
+28 or the financial payments made, as a result of the violation. A violation
+29 of this section shall be:
+30 (a) A Class IIA felony when such value is five thousand dollars or
+31 more;
+-5-
+
+LB559 LB559
+2025 2025
+1 (b) A Class IV felony when such value is one thousand five hundred
+2 dollars or more but less than five thousand dollars;
+3 (c) A Class I misdemeanor when such value is more than five hundred
+4 dollars but less than one thousand five hundred dollars; and
+5 (d) A Class II misdemeanor when such value is five hundred dollars
+6 or less.
+7 (3) For any second or subsequent conviction under subdivision (2)(c)
+8 of this section, any person so offending shall be guilty of a Class IV
+9 felony.
+10 (4) For any second conviction under subdivision (2)(d) of this
+11 section, any person so offending shall be guilty of a Class I
+12 misdemeanor, and for any third or subsequent conviction under subdivision
+13 (2)(d) of this section, the person so offending shall be guilty of a
+14 Class IV felony.
+15 (5) For a prior conviction to be used to enhance the penalty under
+16 subsection (3) or (4) of this section, the prior conviction must have
+17 occurred no more than ten years prior to the date of commission of the
+18 current offense.
+19 (6) The value of the money, credit, property, or things of value
+20 obtained, or the financial payments made, pursuant to one scheme or
+21 course of conduct from one or more persons may be aggregated in the
+22 indictment, information, or complaint in determining the classification
+23 of the offense, except that amounts shall not be aggregated into more
+24 than one offense.
+25 (7) In any prosecution for a violation of this section, the total
+26 value of the money, credit, property, or things of value obtained, or the
+27 financial payments made, as a result of the violation, is an essential
+28 element of the offense that must be proved beyond a reasonable doubt.
+29 Sec. 5. (1) For purposes of this section:
+30 (a) Financial transaction offense means any violation of sections
+31 28-618 to 28-630 and sections 3 and 4 of this act for which the
+-6-
+
+LB559 LB559
+2025 2025
+1 punishment is a felony; and
+2 (b) Leadership position means a position in which a person acts as a
+3 principal administrator, organizer, supervisor, or manager or otherwise
+4 leads or directs other persons.
+5 (2) A person is engaged in a continuing criminal enterprise if such
+6 person commits any financial transaction offense and:
+7 (a) Such offense is part of a continuing series of financial
+8 transaction offenses;
+9 (b) Such series of offenses is undertaken by such person in concert
+10 with two or more other persons with respect to whom such person acts in a
+11 leadership position; and
+12 (c) Such person obtains substantial income or resources from such
+13 activities.
+14 (3) A violation of this section shall be punished as a:
+15 (a) Class II felony if the enterprise, or any other enterprise in
+16 which the defendant was in a leadership position:
+17 (i) Included three or fewer persons; or
+18 (ii) Had at least two million dollars but less than five million
+19 dollars in gross receipts during any twelve-month period of the
+20 enterprise's existence;
+21 (b) Class ID felony if the enterprise, or any other enterprise in
+22 which the defendant was in a leadership position:
+23 (i) Included four or more persons but fewer than ten persons; or
+24 (ii) Had at least five million dollars but less than ten million
+25 dollars in gross receipts during any twelve-month period of the
+26 enterprise's existence; and
+27 (c) Class IC felony if the enterprise, or any other enterprise in
+28 which the defendant was in a leadership position:
+29 (i) Included ten or more persons; or
+30 (ii) Had at least ten million dollars in gross receipts during any
+31 twelve-month period of the enterprise's existence.
+-7-
+
+LB559 LB559
+2025 2025
+1 Sec. 6. In addition to the existing penalties available for a
+2 violation of sections 3, 4, or 5 of this act, a sentencing court may
+3 order forfeiture as provided in sections 28-1601 to 28-1603.
+4 Sec. 7. Section 28-1601, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 28-1601 (1) For purposes of sections 28-1601 to 28-1603:
+7 (a) Covered offense means a violation of the Child Pornography
+8 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+9 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 or section 3,
+10 4, or 5 of this act;
+11 (b) Electronic communication device has the same meaning as in
+12 section 28-833; and
+13 (c) Gambling device has the same meaning as in section 28-1101.
+14 (2) (1) In addition to existing penalties for a violation of a
+15 covered offense the Child Pornography Prevention Act, subsection (1) of
+16 section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+17 28-1105.01, or 28-1107, a court may order forfeiture of any money,
+18 securities, negotiable instruments, firearms, conveyances, or electronic
+19 communication devices; as defined in section 28-833, any equipment,
+20 components, peripherals, software, hardware, or accessories related to
+21 electronic communication devices; , or any gambling devices as defined in
+22 section 28-1101 if:
+23 (a) The owner or possessor of the property has been convicted of a
+24 covered offense violation of the Child Pornography Prevention Act,
+25 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+26 28-1104, 28-1105, 28-1105.01, or 28-1107;
+27 (b) The information charging such violation specifically requests
+28 the forfeiture of property upon conviction and is prepared pursuant to
+29 section 28-1602; and
+30 (c) It The property is found by clear and convincing evidence that
+31 such property was to have been derived from, used, or intended to be used
+-8-
+
+LB559 LB559
+2025 2025
+1 to facilitate a covered offense violation of the Child Pornography
+2 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+3 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+4 (3) (2) Following the filing of an information charging a violation
+5 of a covered offense the Child Pornography Prevention Act, subsection (1)
+6 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+7 28-1105, 28-1105.01, or 28-1107 that specifically seeks forfeiture of any
+8 property listed in subsection (2) (1) of this section, the defendant may
+9 request a pretrial hearing to determine the existence of probable cause
+10 to believe that the property specifically sought to be forfeited was
+11 derived from, used, or intended to be used to facilitate a covered
+12 offense violation of the Child Pornography Prevention Act, subsection (1)
+13 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+14 28-1105, 28-1105.01, or 28-1107. The request for a hearing pursuant to
+15 this section must be filed with the district court in which the criminal
+16 proceeding is pending within thirty days after the filing of the
+17 information.
+18 (4)(a) (3) At any time after the filing of the information in
+19 district court and prior to final disposition of the criminal case, any
+20 person or entity, other than the defendant, with a claimed legal interest
+21 in the property may petition to intervene in the district court with
+22 jurisdiction over the criminal case for the specific and limited purpose
+23 of demonstrating such person's his, her, or its legal interest in the
+24 property and such person's his, her, or its lack of actual knowledge that
+25 such property was derived from, used, or intended to be used to
+26 facilitate a covered offense in violation of the Child Pornography
+27 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+28 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+29 (b) In the petition to intervene, the intervening person or entity
+30 shall, at a minimum, state facts demonstrating such person's his, her, or
+31 its legal interest in the property and such person's his, her, or its
+-9-
+
+LB559 LB559
+2025 2025
+1 lack of actual knowledge regarding the use or intended use of the
+2 property.
+3 (5) Within thirty days after filing a motion to intervene, the
+4 district court shall conduct an evidentiary hearing on the matter. At the
+5 conclusion of such hearing, the court may order that any or all of the
+6 property be returned to the intervening claimant after it is no longer
+7 needed as evidence in the criminal case upon a showing by the claimant by
+8 a preponderance of the evidence:
+9 (a) That the claimant that he, she, or it has a legally recognized
+10 interest in the property; and
+11 (b) Either either (i) that such property was acquired by the
+12 claimant in good faith and the claimant he, she, or it did not have
+13 actual knowledge that such property was derived from, used, or intended
+14 to be used to facilitate a covered offense violation of the Child
+15 Pornography Prevention Act, subsection (1) of section 28-416, or section
+16 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 or
+17 (ii) that the property seized was not derived from, used, or intended to
+18 be used to facilitate a covered offense violation of the Child
+19 Pornography Prevention Act, subsection (1) of section 28-416, or section
+20 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+21 (6) The court, on its own motion or upon application of the
+22 intervening claimant, may permit the claimant such person to proceed in
+23 forma pauperis under sections 25-2301 to 25-2310. The court, on its own
+24 motion or upon application of the intervening claimant, may appoint
+25 counsel to represent the claimant such person if the claimant such person
+26 is indigent. If the claimant he or she asserts indigency, the court shall
+27 make a reasonable inquiry to determine the claimant's such person's
+28 financial condition and may require the claimant him or her to execute an
+29 affidavit of indigency for filing with the clerk of the court.
+30 (7) (4) After conviction but prior to sentencing for a covered
+31 offense violation of the Child Pornography Prevention Act, subsection (1)
+-10-
+
+LB559 LB559
+2025 2025
+1 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+2 28-1105, 28-1105.01, or 28-1107 in cases in which the prosecuting
+3 authority has specifically requested forfeiture of property, the district
+4 court shall conduct an evidentiary hearing at which the prosecuting
+5 authority must prove by clear and convincing evidence what specific
+6 amount or portion of the property specifically enumerated in the criminal
+7 information was derived from, used, or intended for use in furtherance of
+8 a covered offense violation of the Child Pornography Prevention Act,
+9 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+10 28-1104, 28-1105, 28-1105.01, or 28-1107. At the conclusion of such
+11 hearing, the court shall make specific findings of fact indicating what
+12 amount or portion of the property sought to be forfeited by the state was
+13 derived from, used, or intended to be used to facilitate a covered
+14 offense violation of the Child Pornography Prevention Act, subsection (1)
+15 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+16 28-1105, 28-1105.01, or 28-1107. The court shall order any amount or
+17 portion of the property not proven by the state to be derived from, used,
+18 or intended to be used to facilitate a covered offense violation of the
+19 Child Pornography Prevention Act, subsection (1) of section 28-416, or
+20 section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+21 28-1107 or the fair market value of the legally recognized interest in
+22 such property be returned to its rightful and legal owner or interest
+23 holder.
+24 (8)(a) (5)(a) The court shall order that any amount or portion of
+25 property proven by the state by clear and convincing evidence to be
+26 derived from, used, or intended to be used to facilitate a covered
+27 offense violation of the Child Pornography Prevention Act, subsection (1)
+28 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+29 28-1105, 28-1105.01, or 28-1107 be forfeited to the state and disposition
+30 of such property be conducted in accordance with this subsection and
+31 section 28-1439.02 at such time as the property is no longer required as
+-11-
+
+LB559 LB559
+2025 2025
+1 evidence in any criminal proceeding.
+2 (b) As part of any disposition of property, the court may order
+3 that: (i) Any money, securities, or negotiable instruments be distributed
+4 as provided in Article VII, section 5, of the Constitution of Nebraska;
+5 (ii) any conveyances be sold or put to official use by the seizing agency
+6 for a period of not more than one year and when such property is no
+7 longer necessary for official use or at the end of two years, whichever
+8 comes first, such property shall be sold. Proceeds from the sale of any
+9 conveyance shall be distributed as provided in Article VII, section 5, of
+10 the Constitution of Nebraska; (iii) any electronic communication devices
+11 as defined in section 28-833, any equipment, components, peripherals,
+12 software, hardware, or accessories related to electronic communication
+13 devices, or any gambling devices as defined in section 28-1101 be
+14 destroyed by a law enforcement agency; and (iv) the disposition of
+15 firearms shall be effectuated pursuant to section 29-820.
+16 (c) As used in this subsection, official use means use directly in
+17 connection with enforcement of the Child Pornography Prevention Act, the
+18 Uniform Controlled Substances Act, or section 28-813.01, 28-1102,
+19 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+20 (9) (6) Any money, securities, negotiable instruments, firearms,
+21 conveyances, or electronic communication devices; as defined in section
+22 28-833, any equipment, components, peripherals, software, hardware, or
+23 accessories related to electronic communication devices; , or any
+24 gambling devices as defined in section 28-1101 may be forfeited pursuant
+25 to a plea agreement between the state and the defendant subject to notice
+26 to or approval of the court.
+27 (10) (7) Subdivision (2)(a) (1)(a) of this section does not apply if
+28 the owner or possessor of the property dies or is removed from the United
+29 States before charges are filed or a conviction obtained.
+30 (11) (8) Subdivision (2)(b) (1)(b) of this section does not apply if
+31 the owner or possessor of the property dies or is removed from the United
+-12-
+
+LB559 LB559
+2025 2025
+1 States before charges are filed so long as the statute of limitations for
+2 a covered offense violation of the Child Pornography Prevention Act,
+3 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+4 28-1104, 28-1105, 28-1105.01, or 28-1107 has not expired.
+5 (12) (9) Subdivision (2)(a) (1)(a) of this section does not apply if
+6 the owner or possessor of the property is unknown or incapable of being
+7 determined for some legitimate reason or fails to appear in court as
+8 ordered after prosecution for a covered offense violation of the Child
+9 Pornography Prevention Act, subsection (1) of section 28-416, or section
+10 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 is
+11 commenced and is not apprehended within twelve months after the failure
+12 to appear order was issued by the court.
+13 (13) (10) If the owner or possessor of the property fails to appear
+14 in court as ordered after prosecution for a covered offense violation of
+15 the Child Pornography Prevention Act, subsection (1) of section 28-416,
+16 or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+17 28-1107 is commenced but appears or is apprehended within twelve months
+18 after the failure to appear order was issued by the court, the court may
+19 order the owner or possessor of the property, as a part of any sentence
+20 imposed for either the failure to appear or the conviction for a covered
+21 offense of the Child Pornography Prevention Act, subsection (1) of
+22 section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+23 28-1105.01, or 28-1107, to pay a storage fee of one hundred dollars per
+24 month for each month the property was held following the issuance of the
+25 failure to appear order.
+26 Sec. 8. Section 28-1602, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 28-1602 (1) The prosecuting authority must specifically plead its
+29 intent to seek forfeiture of any property upon a conviction for a covered
+30 offense violation of the Child Pornography Prevention Act, subsection (1)
+31 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+-13-
+
+LB559 LB559
+2025 2025
+1 28-1105, 28-1105.01, or 28-1107 in the same criminal information charging
+2 the underlying covered offense violation of the Child Pornography
+3 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+4 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+5 (2) In pleading its intent to seek forfeiture, the information shall
+6 specifically (a) state the date the property was seized, (b) state the
+7 place the property was seized from, (c) describe the property sought to
+8 be forfeited, and (d) if known, state the name of the owner of the
+9 property, the name of the person or persons in possession of the property
+10 or in physical proximity to the property when it was seized, and the name
+11 of any other person or entity that may have a claim or interest in the
+12 property.
+13 Sec. 9. Original sections 28-618, 28-1601, and 28-1602, Reissue
+14 Revised Statutes of Nebraska, and section 28-101, Revised Statutes
+15 Cumulative Supplement, 2024, are repealed.
+-14-
+
+[DELETED: yBA B F A A r t c a o t a s2ap f o r t s d a cc e i f o t pp t d t t p f f t caB9L52]
+[DELETED: S 1 S 2 R S C S22aaS 2 S 2 R R S o N ia250( A h m s m t p o b e1n2f3(4i o a o s o o i w5a6f7( A b d m s m a m w8w9i0t1( C f t d m s m a2f t d w i f a f3s4o5a c l o a f f r d o6c7(8a9b0( E f t d m s m 1f9L52]
+[DELETED: s(dbc o a n r a f a S ds a t f i s o o o tfp( F e m s m0a e i m m p o o d1d u o c o b u t p a f2t d a c f t d o a3a4( H m s m a p m t u5l6( I t d m s m a u a t7s m c p o s f a i w8p o t a h f t b o a p o9t0(1e2o3(4a h i w i p o a m s o t5f t d a i c o b r b a6e7t8(9l n o s a t t a h o 0f t d b t i t p a1e9L52]
+[DELETED: (cd( R f t d m s m ft(ot0( S f p s m s m s1p2( S f p m s m a b f3i o o e w w a f a b f4a5(6d7t8( S d m a e o o d u t9c r s o t d f a f t0d o t c o r a a h p1i2( ( T f a a f t d m3s4t5o e o d i o n m6t7a f f a o p t b i a r a8a9(0s m t t a i d i a c o b1a i o c m w t a o a9L52]
+[DELETED: e t g s a s t t c d fa o p t b i a r a a c o of(m t m o m a d w c o iwwt( ( T m s m t d d s0t1o c o o u p w t i t d2d3S 3  ( I s b u t i a s d4w5t6c7( I o a s d s b c d8w a i s i i f a r d9w a b t i a h o o t0a1(2S 4  ( I s b u t u a s d o a3a b d o a p t i a4f p f t p o o m c p o5a6(7t8o9o0(1m9L52]
+[DELETED: (d(d(o(of0( F a s c u s ( o t1s a p s o s b g o a C 2m3( o t s t p s o s b g o 4C5(6s ( o ( o t s t p c m h7o8c9( T v o t m c p o t o v0o o t f p m p t o s o1c o c f o o m p m b a i t2i3o t o e t a s n b a i m4t5(6v7f8e9S0( F t o m a v o s12 t 2 a s 3 a 4 o t a f w t9L52]
+[DELETED: p(pl(p( S o i p o a c s o ft(0w1l2( S p o s i o r f s3a4(5(6w7(8( H a l t m d b l t f m9d i g r d a t p o t0e1(2w3(4( H a l f m d b l t t m5d i g r d a t p o t6e7(8w9(0(1t9L52]
+[DELETED: S 6  I a t t e p a f v o s 3 4 o 5 o t a a s c moS 7 S 2 R R S o N ia2( C o m a v o t C PP2041( E c d h t s m a i2s3(4( ( I a t e p f a v o 5c6s72 o 2 a c m o f o a m8s9c d a d i s 2 a e0c p s h o a r t1e2s3(4c o v o t C P P A5s627( T i c s v s r8t9s0(1s9L52]
+[DELETED: t f a c o v o t C PP2(oo s 2 o s 2 2 2 22pr0t b t t p s s t b f w1d f u o i t b u t f a c2o3o s 2 o s 2 2 2 2425t6p i p w t d a t f o t7i8( ( A a t a t f o t i i9d0p1i t p m p t i i t d c w2j3o d s p h h o i l i i t4p5s p w d f u o i t b u t6f a c o i v o t C P7P829(0s1i l i i t p a s p h h o i9L52]
+[DELETED: l o a k r t u o i u o tp( W t d a f a m t i tdcpna(0i1( E e ( t s p w a b t2c i g f a t c h s o i d n h3a4t b u t f a c o v o t C5P627(8b u t f a c o v o t C9P021( T c o i o m o u a o t2i3f4m o u a o t i c m a5c6i7m a r i t d t c s p8f9a0( ( A c b p t s f a c1o9L52]
+[DELETED: o s 2 o s 2 2 2 22 2 o 2 i c i w t pac s c a e h a w t pa m p b c a c e w saia c o v o t C P P As02 2 2 o 2 A t c o s1h2a3d f u o i t b u t f a c4o5o s 2 o s 2 2 2 262 2 o 2 T c s o a a o7p8o9C P P A s ( o s 2 o0s 2 2 2 2 2 2 o122s p b r t i r a l o o i3h4(5p p b t s b c a c e t b6d f u o i t b u t f a c7o8o s 2 o s 2 2 2 2920o s p b c i a w t s a1s9L52]
+[DELETED: e( A p o a d o p t c m ota(f a p o n m t o y a w s p i nlcc0t1a d i s 2 a e c p2s h o a r t e c3d o a g d a d i s 2 b4d b a l e a a ( t d o5f6(7c8U C S A o s 2 2920( ( A m s n i f1c22 a e c p s h o3a r t e c d , o a4g5t6t7(8t9S0(1t9L52]
+[DELETED: Sa c o v o t C P P As2(td f s l r o f t a i c aoP021c2t3(4i5t6o728a9o0i1o o t C P P A s ( o2s324m5f6S 8 S 2 R R S o N i7a82 ( T p a m s p i9i0o1o s 2 o s 2 2 2 29L52]
+[DELETED: 2t u c o v o t C PP2(spb f a ( i k s t n o t o o tp0o1o2p3S 9  O s 2 2 a 2 R4R S o N a s 2 R S5C9L52]

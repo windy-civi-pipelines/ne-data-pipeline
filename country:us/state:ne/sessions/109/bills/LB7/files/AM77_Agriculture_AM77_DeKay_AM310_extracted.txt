@@ -1,0 +1,140 @@
+Title: 1 1. Strike original section 2 and insert the following new section:
+Official Title: 1 1. Strike original section 2 and insert the following new section:
+Number of Sections: 1
+Source: versions - Agriculture AM77 DeKay AM310
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+AM77 AM77
+LB7 LB7
+QNC - 01/28/2025 QNC - 01/28/2025
+AMENDMENTS TO LB7
+Introduced by Agriculture.
+2 Sec. 2. Section 76-3702, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 76-3702 For purposes of the Foreign-owned Real Estate National
+5 Security Act:
+6 (1) Foreign corporation means a corporation incorporated under the
+7 laws of a jurisdiction outside of the United States that would be a
+8 business corporation if incorporated under the laws of this state. A
+9 corporation incorporated in any state, territory, or Indian tribe of the
+10 United States is not a foreign corporation;
+11 (2) Foreign government means a government other than the federal
+12 government of the United States, the government of any territory or
+13 possession of the United States, or the government of any state,
+14 political subdivision of a state, or Indian tribe;
+15 (3) Indian tribe means an Indian tribe or band which is located in
+16 whole or in part within Nebraska and which is recognized by federal law
+17 or formally acknowledged by the state;
+18 (4) (1) Nonresident alien means any human being person who:
+19 (a) Is not a citizen of the United States;
+20 (b) Is not a national of the United States;
+21 (c) Is not a lawful permanent resident of the United States; and
+22 (d) Has not been physically present in the United States for at
+23 least one hundred eighty-three days during a three-year period that
+24 includes the current year and the two years immediately preceding the
+25 current year; and
+26 (5) Person means a human being, corporation, business trust, estate,
+27 trust, partnership, limited liability company, association, joint
+-1-
+AM77 AM77
+LB7 LB7
+QNC - 01/28/2025 QNC - 01/28/2025
+1 venture, agency, or instrumentality, or any other legal or commercial
+2 entity; and
+3 (6) (2) Restricted entity means:
+4 (a) Any person or entity identified on the sanctions lists
+5 maintained by the Office of Foreign Assets Control of the United States
+6 Department of the Treasury as such sanctions lists existed on January 1,
+7 2025; or
+8 (b) Any person or foreign government or entity determined by the
+9 United States Secretary of Commerce to have engaged in a long-term
+10 pattern or serious instances of conduct significantly adverse to the
+11 national security of the United States pursuant to 15 C.F.R. 791.4 7.4,
+12 as such regulation existed on January 1, 2025.
+13 2. On page 2, line 4, after "802.211(b)(3)" insert ", as such
+14 regulation existed on January 1, 2025".
+15 3. On page 4, after line 28 insert the following new subsection:
+16 "(3) Any person, nonresident alien, foreign corporation, or foreign
+17 government, or agent, trustee, or fiduciary thereof, of an excepted real
+18 estate foreign state as determined by the Committee on Foreign Investment
+19 in the United States pursuant to 31 C.F.R. 802.1001(a) and 802.214, as
+20 such regulations existed on January 1, 2025, is exempt from the Foreign-
+21 owned Real Estate National Security Act except for any restricted entity,
+22 or agent, trustee, or fiduciary thereof.".
+23 4. On page 10, line 25, after "and" insert "the Clerk of".
+-2-
+[DELETED: yA1S 2 S 7 R S C S27 F p o t F R E NS(l o a j o o t U S t w b b c i i u t l o t s c0U1( F g m a g o t t f2g o t U S t g o a t o3p o t U S o t g o a s4p5(6w7o8(9(0(1(2( H n b p p i t U S f a3l o h e d d a t p t4i t c y a t t y i p t5c6(7t p l l c a j7A7L5Q]
+[DELETED: v a o i o a o l o ce(( A p o e i o t s lmD2( A p o f g o e d b tU S S o C t h e i a l0p o s i o c s a t t1n2a32 O p 2 l 4 a " i " a s4r536"7g8e9i0s1o2o347A7L5Q]
+
+
+================================================================================
+
+Raw Text:
+AM77 AM77
+LB7 LB7
+QNC - 01/28/2025 QNC - 01/28/2025
+AMENDMENTS TO LB7
+Introduced by Agriculture.
+1 1. Strike original section 2 and insert the following new section:
+2 Sec. 2. Section 76-3702, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 76-3702 For purposes of the Foreign-owned Real Estate National
+5 Security Act:
+6 (1) Foreign corporation means a corporation incorporated under the
+7 laws of a jurisdiction outside of the United States that would be a
+8 business corporation if incorporated under the laws of this state. A
+9 corporation incorporated in any state, territory, or Indian tribe of the
+10 United States is not a foreign corporation;
+11 (2) Foreign government means a government other than the federal
+12 government of the United States, the government of any territory or
+13 possession of the United States, or the government of any state,
+14 political subdivision of a state, or Indian tribe;
+15 (3) Indian tribe means an Indian tribe or band which is located in
+16 whole or in part within Nebraska and which is recognized by federal law
+17 or formally acknowledged by the state;
+18 (4) (1) Nonresident alien means any human being person who:
+19 (a) Is not a citizen of the United States;
+20 (b) Is not a national of the United States;
+21 (c) Is not a lawful permanent resident of the United States; and
+22 (d) Has not been physically present in the United States for at
+23 least one hundred eighty-three days during a three-year period that
+24 includes the current year and the two years immediately preceding the
+25 current year; and
+26 (5) Person means a human being, corporation, business trust, estate,
+27 trust, partnership, limited liability company, association, joint
+-1-
+
+AM77 AM77
+LB7 LB7
+QNC - 01/28/2025 QNC - 01/28/2025
+1 venture, agency, or instrumentality, or any other legal or commercial
+2 entity; and
+3 (6) (2) Restricted entity means:
+4 (a) Any person or entity identified on the sanctions lists
+5 maintained by the Office of Foreign Assets Control of the United States
+6 Department of the Treasury as such sanctions lists existed on January 1,
+7 2025; or
+8 (b) Any person or foreign government or entity determined by the
+9 United States Secretary of Commerce to have engaged in a long-term
+10 pattern or serious instances of conduct significantly adverse to the
+11 national security of the United States pursuant to 15 C.F.R. 791.4 7.4,
+12 as such regulation existed on January 1, 2025.
+13 2. On page 2, line 4, after "802.211(b)(3)" insert ", as such
+14 regulation existed on January 1, 2025".
+15 3. On page 4, after line 28 insert the following new subsection:
+16 "(3) Any person, nonresident alien, foreign corporation, or foreign
+17 government, or agent, trustee, or fiduciary thereof, of an excepted real
+18 estate foreign state as determined by the Committee on Foreign Investment
+19 in the United States pursuant to 31 C.F.R. 802.1001(a) and 802.214, as
+20 such regulations existed on January 1, 2025, is exempt from the Foreign-
+21 owned Real Estate National Security Act except for any restricted entity,
+22 or agent, trustee, or fiduciary thereof.".
+23 4. On page 10, line 25, after "and" insert "the Clerk of".
+-2-
+
+[DELETED: yA1S 2 S 7 R S C S27 F p o t F R E NS(l o a j o o t U S t w b b c i i u t l o t s c0U1( F g m a g o t t f2g o t U S t g o a t o3p o t U S o t g o a s4p5(6w7o8(9(0(1(2( H n b p p i t U S f a3l o h e d d a t p t4i t c y a t t y i p t5c6(7t p l l c a j7A7L5Q]
+[DELETED: v a o i o a o l o ce(( A p o e i o t s lmD2( A p o f g o e d b tU S S o C t h e i a l0p o s i o c s a t t1n2a32 O p 2 l 4 a " i " a s4r536"7g8e9i0s1o2o347A7L5Q]

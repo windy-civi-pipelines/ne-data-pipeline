@@ -1,0 +1,35 @@
+Title: 1 1. On page 6, line 30, after "children" insert "six months of age
+Official Title: 1 1. On page 6, line 30, after "children" insert "six months of age
+Number of Sections: 1
+Source: versions - Health and Human Services AM102
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM102 AM102
+LB22 LB22
+DLM - 01/30/2025 DLM - 01/30/2025
+AMENDMENTS TO LB22
+Introduced by Health and Human Services.
+2 or"; strike beginning with "than" in line 30 through "age" in line 31;
+3 and in line 31 strike "or the Children's Health Insurance Program".
+-1-
+[DELETED: yH1oa2A2L5D]
+
+
+================================================================================
+
+Raw Text:
+AM102 AM102
+LB22 LB22
+DLM - 01/30/2025 DLM - 01/30/2025
+AMENDMENTS TO LB22
+Introduced by Health and Human Services.
+1 1. On page 6, line 30, after "children" insert "six months of age
+2 or"; strike beginning with "than" in line 30 through "age" in line 31;
+3 and in line 31 strike "or the Children's Health Insurance Program".
+-1-
+
+[DELETED: yH1oa2A2L5D]

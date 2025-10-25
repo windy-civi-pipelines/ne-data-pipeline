@@ -1,0 +1,393 @@
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+E AND R AMENDMENTS TO LB 609
+Introduced by Guereca, 7, Chairman Enrollment and Review
+1 1. Strike the original sections and all amendments thereto and
+2 insert the following new sections:
+3 Section 1. Sections 1 to 11 of this act shall be known and may be
+4 cited as the Controllable Electronic Record Fraud Prevention Act.
+5 Sec. 2. For purposes of the Controllable Electronic Record Fraud
+6 Prevention Act:
+7 (1) Blockchain analytics means the analysis of data from blockchains
+8 or public distributed ledgers, including associated transaction
+9 information;
+10 (2) Blockchain analytics software means a software service that uses
+11 blockchain analytics data to provide risk-specific information about
+12 controllable electronic record addresses, among other things;
+13 (3) Controllable electronic record has the same meaning as in
+14 section 8-3003;
+15 (4) Controllable electronic record address means an alphanumeric
+16 identifier associated with a controllable electronic record wallet
+17 identifying the location to which a controllable electronic record
+18 transaction can be sent;
+19 (5) Controllable electronic record kiosk means an electronic
+20 terminal acting as a mechanical agent of the controllable electronic
+21 record kiosk operator to enable the controllable electronic record kiosk
+22 operator to facilitate the exchange of controllable electronic records
+23 for money, bank credit, or other controllable electronic records,
+24 including, but not limited to, by (a) connecting directly to a separate
+25 controllable electronic record exchange that performs the actual
+26 controllable electronic record transmission or (b) drawing upon the
+27 controllable electronic record in the possession of the electronic
+-1-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 terminal's operator;
+2 (6) Controllable electronic record kiosk operator means a person, or
+3 a third party acting on behalf of another person, that engages in
+4 controllable electronic record business activity via a controllable
+5 electronic record kiosk located in this state or a person that owns,
+6 operates, or manages a money transmission kiosk located in this state
+7 through which controllable electronic record business activity is
+8 offered;
+9 (7) Controllable electronic record kiosk transaction means a
+10 transaction conducted or performed, in whole or in part, by electronic
+11 means via a controllable electronic record kiosk. Controllable electronic
+12 record kiosk transaction includes a transaction made at a controllable
+13 electronic record kiosk to purchase controllable electronic records with
+14 United States dollars or to sell controllable electronic records for
+15 United States dollars; and
+16 (8) Controllable electronic record wallet means a software
+17 application or other mechanism providing a means to hold the keys
+18 necessary to access and transfer controllable electronic records;
+19 (9) Customer means new customers and existing customers;
+20 (10) Department means the Department of Banking and Finance;
+21 (11) Existing customer means an individual whose first controllable
+22 electronic record kiosk transaction with the controllable electronic
+23 record kiosk operator was more than fourteen days prior;
+24 (12) New customer means an individual during the fourteen-day period
+25 after such individual's first transaction with the controllable
+26 electronic record kiosk operator that the individual has never previously
+27 transacted with. The individual shall remain defined as a new customer
+28 during the fourteen-day period after the first controllable electronic
+29 record kiosk transaction with the controllable electronic record kiosk
+30 operator; and
+31 (13) Transaction hash means a unique identifier made up of a string
+-2-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 of characters that acts as a record of and provides proof that the
+2 transaction was verified and added to the blockchain.
+3 Sec. 3. (1) A controllable electronic record kiosk operator shall
+4 not engage in controllable electronic record kiosk transactions or hold
+5 itself out as being able to engage in such transactions with or on behalf
+6 of another person unless the kiosk operator has a license issued under
+7 the Nebraska Money Transmitters Act pursuant to section 8-2725.
+8 (2) A controllable electronic record kiosk operator shall report
+9 each controllable electronic record kiosk as an authorized delegate under
+10 the Nebraska Money Transmitters Act pursuant to section 8-2730.
+11 (3) In addition to the required reporting of authorized delegates
+12 pursuant to section 8-2730, each controllable electronic record kiosk
+13 operator shall submit to the department within forty-five days after the
+14 end of each calendar quarter a list of all associated controllable
+15 electronic record addresses utilized by each controllable electronic
+16 record kiosk, on a form as prescribed by the department.
+17 Sec. 4. (1) A controllable electronic record kiosk operator shall
+18 disclose to a customer in a clear, conspicuous, and easily readable
+19 manner in the chosen language of the customer, all relevant terms and
+20 conditions generally associated with the products, services, and
+21 activities of the operator and controllable electronic record.
+22 (2) The controllable electronic record kiosk operator shall require
+23 acknowledgment of receipt of all disclosures required by this section via
+24 confirmation of consent by the customer.
+25 (3) The disclosures shall include a statement, written prominently
+26 and in bold type and provided separately from the other disclosures,
+27 warning customers about the potential for criminals to exploit
+28 controllable electronic record kiosks to commit illicit activity. The
+29 controllable electronic record kiosk operator may tailor the warning
+30 language to highlight evolving tactics and techniques. The warning
+31 language shall be similar to the following form:
+-3-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM A STRANGER
+2 WHO IS INITIATING A DISHONEST SCHEME. I UNDERSTAND THAT CRIMINAL ACTIVITY
+3 MAY APPEAR IN MANY FORMS, INCLUDING, BUT NOT LIMITED TO:
+4 (1) Claims of a frozen bank account or credit card;
+5 (2) Fraudulent bank transactions;
+6 (3) Claims of identity theft or job offerings in exchange for
+7 payments;
+8 (4) Requests for payments to government agencies or companies;
+9 (5) Requests for disaster relief donations or loans;
+10 (6) Offers to purchase tickets for lotteries, sweepstakes, or
+11 drawings for vehicles;
+12 (7) Prompts to click on desktop pop-ups, such as virus warnings or
+13 communication from alleged familiar merchants; and
+14 (8) Communication from someone impersonating a representative of
+15 your bank or a law enforcement officer.
+16 IF YOU BELIEVE YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+17 ENFORCEMENT AGENCY.
+18 WARNING: TRANSACTIONS CONDUCTED ON THIS CONTROLLABLE ELECTRONIC
+19 RECORD KIOSK ARE IRREVERSIBLE. PROTECT YOURSELF FROM FRAUD. NEVER SEND
+20 MONEY TO SOMEONE YOU DON'T KNOW.
+21 (4) The disclosure shall also include:
+22 (a) The material risks associated with controllable electronic
+23 records and controllable electronic record transactions, including:
+24 (i) The operator's liability for unauthorized controllable
+25 electronic record transactions;
+26 (ii) The customer's liability for unauthorized currency
+27 transactions;
+28 (iii) A warning that controllable electronic records are not legal
+29 tender, are not backed or issued by the United States Government, and are
+30 not subject to protections by the Federal Deposit Insurance Corporation,
+31 National Credit Union Administration, or Securities Investor Protection
+-4-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 Corporation;
+2 (iv) A warning that there may be delays in the processing and
+3 confirmation of controllable electronic record transactions;
+4 (v) A warning that the value of controllable electronic records is
+5 derived from supply and demand in the global marketplace which can rise
+6 or fall independently of any fiat currency. Holding controllable
+7 electronic records carries exchange rate and other types of risk;
+8 (vi) A warning that a person who accepts a controllable electronic
+9 record as payment today is not required to accept and might not accept
+10 controllable electronic records in the future;
+11 (vii) A warning that the volatility and unpredictability of the
+12 price of controllable electronic records relative to fiat currency may
+13 result in a significant loss over a short period; and
+14 (viii) A warning that any bond or trust maintained by the
+15 controllable electronic record kiosk operator for the benefit of a
+16 customer may not cover all losses;
+17 (b) The amount of the customer's controllable electronic record
+18 kiosk transaction denominated in United States dollars as well as the
+19 applicable controllable electronic records;
+20 (c) Any fees or expenses charged by the controllable electronic
+21 record kiosk operator;
+22 (d) Any applicable exchange rates;
+23 (e) The controllable electronic record transaction daily limit of
+24 two thousand dollars for new customers;
+25 (f) The controllable electronic record transaction daily limit of
+26 ten thousand five hundred dollars for existing customers;
+27 (g) The name, address, and telephone number of the operator of the
+28 controllable electronic record kiosk, the days, time, and means by which
+29 a customer can contact the operator for customer assistance, and any
+30 relevant state or local law enforcement agency or government agency for
+31 reporting fraud, all of which shall be displayed on or at the location of
+-5-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 the controllable electronic record kiosk, or on the first screen of such
+2 kiosk; and
+3 (h) Any other disclosures that are customarily given in connection
+4 with a controllable electronic record kiosk transaction.
+5 (5) Upon the completion of a controllable electronic record kiosk
+6 transaction, the controllable electronic record kiosk operator shall
+7 provide the customer with a receipt in the language chosen by such
+8 customer. The receipt shall be physical where possible. If necessary, the
+9 controllable electronic record kiosk operator may provide the receipt in
+10 multiple communications. The receipt shall contain the following
+11 information:
+12 (a) The operator's name and contact information, including a
+13 telephone number to answer questions and register complaints;
+14 (b) Relevant state law enforcement agencies and government agencies
+15 for reporting fraud;
+16 (c) The type, value, date, and precise time of the transaction, the
+17 transaction hash, and each applicable controllable electronic record
+18 address;
+19 (d) The name and contact information of the sender of the
+20 controllable electronic record transaction;
+21 (e) The name and contact information of the designated recipient of
+22 the controllable electronic record transaction;
+23 (f) All fees charged;
+24 (g) The exchange rate of the controllable electronic record to
+25 United States dollars;
+26 (h) The operator's liability for nondelivery or delayed delivery;
+27 (i) The operator's refund policy; and
+28 (j) Any additional information the department may require.
+29 Sec. 5. (1) All controllable electronic record kiosk operators
+30 shall use blockchain analytics software to assist in the prevention of
+31 sending purchased controllable electronic records from an operator to a
+-6-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 controllable electronic record wallet known to be affiliated with
+2 fraudulent activity at the time of a transaction. The department may
+3 request evidence from any controllable electronic record kiosk operator
+4 of current use of blockchain analytics.
+5 (2) All controllable electronic record kiosk operators shall take
+6 reasonable steps to detect and prevent fraud, including establishing and
+7 maintaining a written antifraud policy. The antifraud policy shall, at a
+8 minimum, include:
+9 (a) The identification and assessment of fraud-related risk areas;
+10 (b) Procedures and controls to protect against identified risks;
+11 (c) Allocation of responsibility for monitoring risks; and
+12 (d) Procedures for the periodic evaluation and revision of the
+13 antifraud procedures, controls, and monitoring mechanisms.
+14 Sec. 6. (1) Each controllable electronic record kiosk operator
+15 shall designate and employ a compliance officer on a full-time basis.
+16 (2) The compliance officer shall be qualified to coordinate and
+17 monitor compliance with the Controllable Electronic Record Fraud
+18 Prevention Act and all other applicable federal and state laws, rules,
+19 and regulations.
+20 (3) The compliance officer shall not own more than twenty percent of
+21 the controllable electronic record kiosk operator.
+22 (4) All compliance responsibilities required under federal and state
+23 laws, rules, and regulations shall be completed by full-time employees of
+24 the controllable electronic record kiosk operator or by approved outside
+25 vendors with compliance expertise supervised by full-time employees of
+26 such operator.
+27 Sec. 7. (1) If a new customer has been fraudulently induced to
+28 engage in a controllable electronic record kiosk transaction and contacts
+29 the controllable electronic record kiosk operator and a law enforcement
+30 agency or government agency to inform the operator and agency of the
+31 fraudulent nature of the transaction within ninety days after the
+-7-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 transaction, then, upon request of the customer, the operator shall issue
+2 a full refund for the fraudulently induced controllable electronic record
+3 transaction, including fees charged in association with the transaction.
+4 (2) If an existing customer has been fraudulently induced to engage
+5 in a controllable electronic record kiosk transaction and contacts the
+6 controllable electronic record kiosk operator and a law enforcement
+7 agency or government agency to inform the operator and agency of the
+8 fraudulent nature of the transaction within ninety days after the
+9 transaction, then, upon request of the customer, the operator shall issue
+10 a full refund for the fees charged in association with the transaction.
+11 Sec. 8. A controllable electronic record kiosk operator shall not
+12 accept transactions in a day in connection with controllable electronic
+13 record kiosk transactions for a single customer in this state via one or
+14 more controllable electronic record kiosks exceeding:
+15 (1) For new customers, two thousand United States dollars or the
+16 equivalent in controllable electronic records; or
+17 (2) For existing customers, ten thousand five hundred dollars or the
+18 equivalent in controllable electronic records.
+19 Sec. 9. The aggregate fees and charges, directly or indirectly,
+20 charged to a customer related to a single transaction or series of
+21 related transactions involving controllable electronic records effected
+22 through a controllable electronic record kiosk in this state, including
+23 any difference between the price charged to a customer to buy, sell,
+24 exchange, swap, or convert controllable electronic records and the
+25 prevailing market value of such controllable electronic records at the
+26 time of such transaction, shall not exceed eighteen percent of the value
+27 of the United States dollars involved in the transaction or transactions.
+28 Sec. 10. All controllable electronic record kiosk operators
+29 performing business in the state shall, at a minimum, provide live
+30 customer service on Monday through Friday between the hours of 7:00 a.m.
+31 and 9:00 p.m. via a toll-free telephone number. The telephone number
+-8-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 shall be displayed on the controllable electronic record kiosk or the
+2 kiosk screens.
+3 Sec. 11. All controllable electronic record kiosk operators
+4 performing business in the state shall, at a minimum, have a dedicated
+5 method of contact for law enforcement to contact the controllable
+6 electronic record kiosk operator. This method of communications shall be
+7 monitored at least daily. The contact method shall be displayed and
+8 available on the controllable electronic record kiosk operator's website
+9 and shall be updated as necessary.
+10 Sec. 12. (1) For purposes of this section, gift certificate or gift
+11 card means a certificate, electronic card, or other prefunded record that
+12 (a) is usable at a single merchant or an affiliated group of merchants
+13 that share the same name, mark, or logo, or is usable at multiple
+14 unaffiliated merchants or service providers, (b) is issued in a specified
+15 amount, (c) may or may not be increased in value or reloaded, (d) is
+16 purchased or loaded on a prepaid basis for the future purchase or
+17 delivery of any goods or services, and (e) is honored upon presentation.
+18 (2) Except as provided in subsection (7) of this section, if any
+19 person, firm, partnership, association, limited liability company,
+20 corporation, or other business entity sells one or more gift certificates
+21 or gift cards to a purchaser, the seller shall provide notice about the
+22 potential fraud to the purchaser.
+23 (3) The Consumer Protection Division of the Office of the Attorney
+24 General shall release model notice language. Entities listed in
+25 subsection (2) of this section may use the model notice or a notice
+26 substantially in the same form to comply with such subsection.
+27 (4) The notice required pursuant to subsection (2) of this section
+28 shall be provided conspicuously where gift certificates or gift cards are
+29 displayed or sold or at point of sale on an electronic payment system
+30 screen or in printed form.
+31 (5) If the Attorney General has cause to believe this section has
+-9-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 been violated, the Attorney General may provide a written citation to the
+2 violator. Any person, firm, partnership, association, limited liability
+3 company, corporation, or other business entity that receives more than
+4 one citation may be subject to a civil penalty of up to two hundred fifty
+5 dollars. The first written citation shall be considered a warning.
+6 (6) Subsection (2) of this section does not apply to a person, firm,
+7 partnership, association, limited liability company, corporation, or
+8 other business entity which sells only gift cards redeemable for goods or
+9 services exclusively by the same person, firm, partnership, association,
+10 limited liability company, corporation, or other business entity.
+11 (7) This section does not apply to a general-use, prepaid card
+12 issued by a financial institution as defined in section 8-101.03 in a
+13 predetermined amount, whether or not that amount can be increased or
+14 reloaded, which is usable at multiple unaffiliated sellers of goods or
+15 services, automatic teller machines, or both.
+16 Sec. 13. Section 29-817, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 29-817 Sections 29-812 to 29-821 do not modify any act inconsistent
+19 with it relating to search warrants, their issuance, and the execution of
+20 search warrants and acts relating to disposition of seized property in
+21 circumstances for which special provision is made. The term property is
+22 used in sections 29-812 to 29-821 to include documents, books, papers,
+23 and any other tangible objects, and controllable electronic records as
+24 defined in section 8-3003. Nothing in sections 29-812 to 29-821 shall be
+25 construed as restricting or in any way affecting the constitutional right
+26 of any officer to make reasonable searches and seizures as an incident to
+27 a lawful arrest nor to restrict or in any way affect reasonable searches
+28 and seizures authorized or consented to by the person being searched or
+29 in charge of the premises being searched, or in any other manner or way
+30 authorized or permitted to be made under the Constitution of the United
+31 States and the Constitution of the State of Nebraska.
+-10-
+
+ER14 ER14
+LB609 LB609
+MMM - 02/19/2025 MMM - 02/19/2025
+1 All search warrants shall be issued with all practicable secrecy and
+2 the complaint, affidavit, or testimony upon which it is based shall not
+3 be filed with the clerk of the court or made public in any way until the
+4 warrant is executed. Whoever discloses, prior to its execution, that a
+5 warrant has been applied for or issued, except so far as may be necessary
+6 to its execution, shall be guilty of a Class III misdemeanor, or he or
+7 she may be punished as for a criminal contempt of court.
+8 Sec. 14. If any section in this act or any part of any section is
+9 declared invalid or unconstitutional, the declaration shall not affect
+10 the validity or constitutionality of the remaining portions.
+11 Sec. 15. Original section 29-817, Reissue Revised Statutes of
+12 Nebraska, is repealed.
+13 2. On page 1, strike beginning with "fraud" in line 1 through line
+14 11 and insert "financial transactions; to amend section 29-817, Reissue
+15 Revised Statutes of Nebraska; to adopt the Controllable Electronic Record
+16 Fraud Prevention Act; to require notice of potential fraud for purchasers
+17 of gift certificates and gift cards; to change provisions relating to
+18 search warrants; to provide severability; and to repeal the original
+19 section.".
+-11-
+
+[DELETED: yG1 S t o s a a a t aiScS 2  F p o t C E R FP(o p d l i a ti0(1b a d t p r i a2c3( C e r h t s m a i4s5( C e r a m a a6i a w a c e r w7i t l t w a c e r8t9( C e r k m a e0t a a a m a o t c e1r2o t f t e o c e r3f m b c o o c e r4i5c e r e t p t a6c e r t o ( d u t7c e r i t p o t e4E9L5M]
+[DELETED: t(a t p a o b o a p t e ic e r b a v a ce r k l i t s o a p t oo o m a m t k l i t st w c e r b a io( C e r k t m 0t1m2r k t i a t m a a c3e4U S d o t s c e r f5U6( C e r w m a s7a o o m p a m t h t k8n9(0(1(2e r k t w t c e3r4(5a s i f t w t c6e7t8d t f p a t f c e9r k t w t c e r k0o1(4E9L5M]
+[DELETED: o c t a a a r o a p p t ttSniot( A c e r k o s re0t1( I a t t r r o a d2p t s 8 e c e r k3o4e o e c q a l o a a c5e r a u b e c e6r7S8d t a c i a c c a e r9m i t c l o t c a r t a0c g a w t p s a1a2(3a4c5(6a i b t a p s f t o d7w c a t p f c t e8c e r k t c i a T9c e r k o m t t w0l t h e t a t T w1l4E9L5M]
+[DELETED: W C F O S W C F A SWM((( C o i t o j o i e fp((0( O t p t f l s o1d2(3c4( C f s i a r o5y6I Y B Y A B S C Y L L7E8W T C O T C E9R K A I P Y F F N S0M1(2( T m r a w c e3r4( T o l f u c5e6( T c l f u c7t8(9t0n1N4E9L5M]
+[DELETED: C( A w t t m b d i t p ac(do f i o a f c H ce(r0c1( A w t t v a u o t2p o c e r r t f c m3r4( A w t a b o t m b t5c e r k o f t b o 6c7( T a o t c c e r8k t d i U S d a w a t9a0( A f o e c b t c e1r2(3( T c e r t d l o4t5( T c e r t d l o6t7(8c9a c c c t o f c a a a0r1r4E9L5M]
+[DELETED: tk(w( U t c o a c e r kt t c e r k o sp t c w a r i t l c b scc0m c T r s c t f1i2( T o n a c i i 3t4(5f6(7t h a e a c e r8a9( T n a c i o t s o t0c1(2t3(4( T e r o t c e r t5U6(7(8(9S 5  ( A c e r k o0s1s4E9L5M]
+[DELETED: c e r w k t b a wf a a t t o a t T d mro( A c e r k o s trmm(0(1(2( P f t p e a r o t3a4S 6  ( E c e r k o5s6( T c o s b q t c a7m c w t C E R F8P9a0(1t2(3l4t5v w c e s b f e o6s7S 7  ( I a n c h b f i t8e9t0a o g a t i t o a a o t1f n o t t w n d a t4E9L5M]
+[DELETED: tat(i a c e r k t a c tc e r k o a a l ea o g a t i t o a a o tf n o t t w n d a tt0a1S2a3r4m5( F n c t t U S d o t6e7(8e9S 9  T a f a c d o i0c t a c r t a s t o s o1r t i c e r e2t3a d b t p c t a c t b s4e s o c c e r a t5p m v o s c e r a t6t7o8S 1  A c e r k o9p b i t s s a a m p l0c1a 9 p v a t t n T t n4E9L5M]
+[DELETED: s b d o t c e r k o tkS 1  A c e r k opm o c f l e t c t cem a l d T c m s b d aaa0S1c2(3t s t s n m o l o i u a m4u5a ( m o m n b i i v o r ( i6p o l o a p b f t f p o7d8( E a p i s ( o t s i a9p f p a l l c0c1o2p3(4G s r m n l E l i5s ( o t s m u t m n o a n6s7(8s9d o s o a p o s o a e p s0s1(4E9L5M]
+[DELETED: bvc c o o b e t r m tod(p a l l c c oos0l1( T s d n a t a g p c2i b a f i a d i s 8 i 3p a w o n t a c b i o4r5s6S 1 S 2 R R S o N i7a829w0s1c2u3a a o t o a c e r a4d5c6o7a8a9i0a1S4E9L5M]
+[DELETED: AtbwwtsSd i o u t d s n a0t1S 1  O s 2 R R S o2N32415R6F7o g c a g c t c p r t8s w t p s a t r t o9s4E9L5M]

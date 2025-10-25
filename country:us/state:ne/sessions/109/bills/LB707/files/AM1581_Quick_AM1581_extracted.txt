@@ -1,0 +1,49 @@
+Title: 1 1. On page 11, after line 30 insert the following new subdivision:
+Official Title: 1 1. On page 11, after line 30 insert the following new subdivision:
+Number of Sections: 1
+Source: versions - Quick AM1581
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM1581 AM1581
+LB707 LB707
+MLU - 05/23/2025 MLU - 05/23/2025
+AMENDMENTS TO LB707
+(Amendments to AM1560)
+Introduced by Quick, 35.
+2 "(d) On and after July 1, 2025, and until October 1, 2025, any
+3 transactions occurring within a good life district and within a city or
+4 village that has implemented an occupation tax pursuant to section
+5 77-4413 shall be subject to a state sales tax rate that is fifty percent
+6 of the state sales tax rate provided in section 77-2701.02."; and in line
+7 31 strike "(d)" and insert "(e)".
+8 2. On page 12, line 4, strike "(e)" and insert "(f)".
+9 3. On page 32, line 19, after "(7)(c)" insert "or (d)".
+-1-
+[DELETED: yQ1" O a a J 1 2 a u O 1 2 atv t h i a o t p t s7o3231A7L5M]
+
+
+================================================================================
+
+Raw Text:
+AM1581 AM1581
+LB707 LB707
+MLU - 05/23/2025 MLU - 05/23/2025
+AMENDMENTS TO LB707
+(Amendments to AM1560)
+Introduced by Quick, 35.
+1 1. On page 11, after line 30 insert the following new subdivision:
+2 "(d) On and after July 1, 2025, and until October 1, 2025, any
+3 transactions occurring within a good life district and within a city or
+4 village that has implemented an occupation tax pursuant to section
+5 77-4413 shall be subject to a state sales tax rate that is fifty percent
+6 of the state sales tax rate provided in section 77-2701.02."; and in line
+7 31 strike "(d)" and insert "(e)".
+8 2. On page 12, line 4, strike "(e)" and insert "(f)".
+9 3. On page 32, line 19, after "(7)(c)" insert "or (d)".
+-1-
+
+[DELETED: yQ1" O a a J 1 2 a u O 1 2 atv t h i a o t p t s7o3231A7L5M]

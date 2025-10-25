@@ -1,0 +1,801 @@
+Title: 1 1. Strike the original sections and insert the following new
+Official Title: 1 1. Strike the original sections and insert the following new
+Number of Sections: 1
+Source: versions - McKeon AM213
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+AMENDMENTS TO LB490
+Introduced by McKeon, 41.
+2 sections:
+3 Section 1. Section 60-101, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 60-101 Sections 60-101 to 60-197 and section 6 of this act shall be
+6 known and may be cited as the Motor Vehicle Certificate of Title Act.
+7 Sec. 2. Section 60-137, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 60-137 (1) The Motor Vehicle Certificate of Title Act applies to all
+10 vehicles as defined in the act, except:
+11 (a) Farm trailers;
+12 (b) Well-boring apparatus, backhoes, bulldozers, and front-end
+13 loaders; and
+14 (c) Trucks and buses from other jurisdictions required to pay
+15 registration fees under the Motor Vehicle Registration Act, except a
+16 vehicle registered or eligible to be registered as part of a fleet of
+17 apportionable vehicles under section 60-3,198.
+18 (2)(a) All new all-terrain vehicles and minibikes sold on or after
+19 January 1, 2004, shall be required to have a certificate of title. An
+20 owner of an all-terrain vehicle or minibike sold prior to such date may
+21 apply for a certificate of title for such all-terrain vehicle or minibike
+22 as provided in rules and regulations of the department.
+23 (b) All new low-speed vehicles sold on or after January 1, 2012,
+24 shall be required to have a certificate of title. An owner of a low-speed
+25 vehicle sold prior to such date may apply for a certificate of title for
+26 such low-speed vehicle as provided in rules and regulations of the
+27 department.
+-1-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 (3) An owner of any of the following a utility trailer may apply for
+2 a certificate of title upon compliance with the Motor Vehicle Certificate
+3 of Title Act: .
+4 (a) Any utility trailer;
+5 (b) Beginning January 1, 2026, any self-propelled equipment designed
+6 and used exclusively to carry and apply fertilizer, chemicals, or related
+7 products to agricultural soil and crops, agricultural floater-spreader
+8 implements, and other implements of husbandry designed for and used
+9 primarily for tilling the soil and harvesting crops or feeding livestock;
+10 or
+11 (c) Beginning January 1, 2026, any power unit hay grinders or a
+12 combination that includes a power unit and a hay grinder when operated
+13 without cargo.
+14 (4)(a) Every owner of a manufactured home or mobile home shall
+15 obtain a certificate of title for the manufactured home or mobile home
+16 prior to affixing it to real estate.
+17 (b) If a manufactured home or mobile home has been affixed to real
+18 estate and a certificate of title was not issued before it was so
+19 affixed, the owner of such manufactured home or mobile home shall apply
+20 for and be issued a certificate of title at any time for surrender and
+21 cancellation as provided in section 60-169.
+22 (5) All new utility-type vehicles sold on or after January 1, 2011,
+23 shall be required to have a certificate of title. An owner of a utility-
+24 type vehicle sold prior to such date may apply for a certificate of title
+25 for such utility-type vehicle as provided in rules and regulations of the
+26 department.
+27 Sec. 3. Section 60-152, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 60-152 (1) The county treasurer shall issue a certificate of title
+30 for a vehicle in duplicate and retain one copy in his or her office. An
+31 electronic copy, in a form prescribed by the department, shall be
+-2-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 transmitted on the day of issuance to the department. The county
+2 treasurer shall sign and affix the appropriate seal to the original
+3 certificate of title and, if there are no liens on the vehicle, deliver
+4 the certificate to the applicant. If there are one or more liens on the
+5 vehicle, the certificate of title shall be handled as provided in section
+6 60-164 or 60-165 or section 6 of this act.
+7 (2) The county treasurers of the various counties shall adopt a
+8 circular seal with the words County Treasurer of ........... (insert
+9 name) County thereon. Such seal shall be used by the county treasurer or
+10 the deputy or legal authorized agent of such officer, without charge to
+11 the applicant, on any certificate of title, application for certificate
+12 of title, duplicate copy, assignment or reassignment, power of attorney,
+13 statement, or affidavit pertaining to the issuance of a Nebraska
+14 certificate of title.
+15 (3) The department shall prescribe a uniform method of numbering
+16 certificates of title.
+17 (4) The county treasurer shall (a) file all certificates of title
+18 according to rules and regulations adopted and promulgated by the
+19 department, (b) maintain in the office indices for such certificates of
+20 title, (c) be authorized to destroy all previous records five years after
+21 a subsequent transfer has been made on a vehicle, and (d) be authorized
+22 to destroy all certificates of title and all supporting records and
+23 documents which have been on file for a period of five years or more from
+24 the date of filing the certificate or a notation of lien, whichever
+25 occurs later.
+26 Sec. 4. Section 60-164, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 60-164 (1) The department shall implement an electronic title and
+29 lien system for vehicles. The holder of a security interest, trust
+30 receipt, conditional sales contract, or similar instrument regarding a
+31 vehicle, or beginning on the implementation date determined by the
+-3-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 director pursuant to subsection (7) of section 60-1507, a licensed
+2 dealer, may file a lien electronically as prescribed by the department.
+3 Upon receipt of an application for a certificate of title for a vehicle,
+4 any lien filed electronically shall become part of the electronic
+5 certificate of title record created by the county treasurer or department
+6 maintained on the electronic title and lien system. If an application for
+7 a certificate of title indicates that there is a lien or encumbrance on a
+8 vehicle or if a lien or notice of lien has been filed electronically, the
+9 department shall retain an electronic certificate of title record and
+10 shall note and cancel such liens electronically on the system. The
+11 department shall provide access to the electronic certificate of title
+12 records for licensed dealers and lienholders who participate in the
+13 system by a method determined by the director.
+14 (2) Except as provided in section 60-165 or section 6 of this act,
+15 the provisions of article 9, Uniform Commercial Code, shall never be
+16 construed to apply to or to permit or require the deposit, filing, or
+17 other record whatsoever of a security agreement, conveyance intended to
+18 operate as a mortgage, trust receipt, conditional sales contract, or
+19 similar instrument or any copy of the same covering a vehicle. Any
+20 mortgage, conveyance intended to operate as a security agreement as
+21 provided by article 9, Uniform Commercial Code, trust receipt,
+22 conditional sales contract, or other similar instrument covering a
+23 vehicle, if such instrument is accompanied by delivery of such
+24 manufacturer's or importer's certificate and followed by actual and
+25 continued possession of the same by the holder of such instrument or, in
+26 the case of a certificate of title, if a notation of the same has been
+27 made electronically as prescribed in subsection (1) of this section or by
+28 the county treasurer or department on the face of the certificate of
+29 title or on the electronic certificate of title record, shall be valid as
+30 against the creditors of the debtor, whether armed with process or not,
+31 and subsequent purchasers, secured parties, and other lienholders or
+-4-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 claimants but otherwise shall not be valid against them, except that
+2 during any period in which a vehicle is inventory, as defined in section
+3 9-102, Uniform Commercial Code, held for sale by a person or corporation
+4 that is required to be licensed as provided in the Motor Vehicle Industry
+5 Regulation Act and is in the business of selling such vehicles, the
+6 filing provisions of article 9, Uniform Commercial Code, as applied to
+7 inventory, shall apply to a security interest in such vehicle created by
+8 such person or corporation as debtor without the notation of lien on the
+9 certificate of title. A buyer of a vehicle at retail from a dealer
+10 required to be licensed as provided in the Motor Vehicle Industry
+11 Regulation Act shall take such vehicle free of any security interest. A
+12 purchase-money security interest, as defined in section 9-103, Uniform
+13 Commercial Code, in a vehicle is perfected against the rights of judicial
+14 lien creditors and execution creditors on and after the date the
+15 purchase-money security interest attaches.
+16 (3) Subject to subsections (1) and (2) of this section, all liens,
+17 security agreements, and encumbrances noted upon a certificate of title
+18 or an electronic certificate of title record and all liens noted
+19 electronically as prescribed in subsection (1) of this section shall take
+20 priority according to the order of time in which the same are noted by
+21 the county treasurer or department. Exposure for sale of any vehicle by
+22 the owner thereof with the knowledge or with the knowledge and consent of
+23 the holder of any lien, security agreement, or encumbrance on such
+24 vehicle shall not render the same void or ineffective as against the
+25 creditors of such owner or holder of subsequent liens, security
+26 agreements, or encumbrances upon such vehicle.
+27 (4) The holder of a security agreement, trust receipt, conditional
+28 sales contract, or similar instrument, upon presentation of such
+29 instrument to the department or to any county treasurer, together with
+30 the certificate of title and the fee prescribed for notation of lien, may
+31 have a notation of such lien made on the face of such certificate of
+-5-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 title. The owner of a vehicle may present a valid out-of-state
+2 certificate of title issued to such owner for such vehicle with a
+3 notation of lien on such certificate of title and the prescribed fee to
+4 the county treasurer or department and have the notation of lien made on
+5 the new certificate of title issued pursuant to section 60-144 without
+6 presenting a copy of the lien instrument. The county treasurer or the
+7 department shall enter the notation and the date thereof over the
+8 signature of the person making the notation and the seal of the office.
+9 If noted by a county treasurer, he or she shall on that day notify the
+10 department which shall note the lien on its records. The county treasurer
+11 or the department shall also indicate by appropriate notation and on such
+12 instrument itself the fact that such lien has been noted on the
+13 certificate of title.
+14 (5) A transaction does not create a sale or a security interest in a
+15 vehicle, other than an all-terrain vehicle, a utility-type vehicle, or a
+16 minibike, merely because it provides that the rental price is permitted
+17 or required to be adjusted under the agreement either upward or downward
+18 by reference to the amount realized upon sale or other disposition of the
+19 vehicle.
+20 (6) The county treasurer or the department, upon receipt of a lien
+21 instrument duly signed by the owner in the manner prescribed by law
+22 governing such lien instruments together with the fee prescribed for
+23 notation of lien, shall notify the first lienholder to deliver to the
+24 county treasurer or the department, within fifteen days after the date of
+25 notice, the certificate of title to permit notation of such other lien
+26 and, after notation of such other lien, the county treasurer or the
+27 department shall deliver the certificate of title to the first
+28 lienholder. The holder of a certificate of title who refuses to deliver a
+29 certificate of title to the county treasurer or the department for the
+30 purpose of showing such other lien on such certificate of title within
+31 fifteen days after the date of notice shall be liable for damages to such
+-6-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 other lienholder for the amount of damages such other lienholder suffered
+2 by reason of the holder of the certificate of title refusing to permit
+3 the showing of such lien on the certificate of title.
+4 (7) Upon receipt of a subsequent lien instrument duly signed by the
+5 owner in the manner prescribed by law governing such lien instruments or
+6 a notice of lien filed electronically, together with an application for
+7 notation of the subsequent lien, the fee prescribed in section 60-154,
+8 and, if a printed certificate of title exists, the presentation of the
+9 certificate of title, the county treasurer or department shall make
+10 notation of such other lien. If the certificate of title is not an
+11 electronic certificate of title record, the county treasurer or
+12 department, upon receipt of a lien instrument duly signed by the owner in
+13 the manner prescribed by law governing such lien instruments together
+14 with the fee prescribed for notation of lien, shall notify the first
+15 lienholder to deliver to the county treasurer or department, within
+16 fifteen days after the date of notice, the certificate of title to permit
+17 notation of such other lien. After such notation of lien, the lien shall
+18 become part of the electronic certificate of title record created by the
+19 county treasurer or department which is maintained on the electronic
+20 title and lien system. The holder of a certificate of title who refuses
+21 to deliver a certificate of title to the county treasurer or department
+22 for the purpose of noting such other lien on such certificate of title
+23 within fifteen days after the date when notified to do so shall be liable
+24 for damages to such other lienholder for the amount of damages such other
+25 lienholder suffered by reason of the holder of the certificate of title
+26 refusing to permit the noting of such lien on the certificate of title.
+27 (8) When a lien is discharged, the holder shall, within fifteen days
+28 after payment is received, note a cancellation of the lien on the
+29 certificate of title over his, her, or its signature and deliver the
+30 certificate of title to the county treasurer or the department, which
+31 shall note the cancellation of the lien on the face of the certificate of
+-7-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 title and on the records of such office. If delivered to a county
+2 treasurer, he or she shall on that day notify the department which shall
+3 note the cancellation on its records. The county treasurer or the
+4 department shall then return the certificate of title to the owner or as
+5 otherwise directed by the owner. The cancellation of lien shall be noted
+6 on the certificate of title without charge. For an electronic certificate
+7 of title record, the lienholder shall, within fifteen days after payment
+8 is received when such lien is discharged, notify the department
+9 electronically or provide written notice of such lien release, in a
+10 manner prescribed by the department, to the county treasurer or
+11 department. The department shall note the cancellation of lien and, if no
+12 other liens exist, issue the certificate of title to the owner or as
+13 otherwise directed by the owner or lienholder. If the holder of the title
+14 cannot locate a lienholder, a lien may be discharged ten years after the
+15 date of filing by presenting proof that thirty days have passed since the
+16 mailing of a written notice by certified mail, return receipt requested,
+17 to the last-known address of the lienholder.
+18 Sec. 5. Section 60-166, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 60-166 (1)(a) This subsection applies prior to the implementation
+21 date designated by the Director of Motor Vehicles pursuant to subsection
+22 (2) of section 60-1508.
+23 (b) In the event of (i) the transfer of ownership of a vehicle by
+24 operation of law as upon inheritance, devise, bequest, order in
+25 bankruptcy, insolvency, replevin, or execution sale or as provided in
+26 sections 30-24,125, 52-601.01 to 52-605, 60-1901 to 60-1911, and 60-2401
+27 to 60-2411, (ii) the engine of a vehicle being replaced by another
+28 engine, (iii) a vehicle being sold to satisfy storage or repair charges
+29 or under section 76-1607, or (iv) repossession being had upon default in
+30 performance of the terms of a chattel mortgage, trust receipt,
+31 conditional sales contract, or other like agreement, the county treasurer
+-8-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 of any county or the department, upon the surrender of the prior
+2 certificate of title or the manufacturer's or importer's certificate, or
+3 when that is not possible, upon presentation of satisfactory proof of
+4 ownership and right of possession to such vehicle, and upon payment of
+5 the appropriate fee and the presentation of an application for
+6 certificate of title, may issue to the applicant a certificate of title
+7 thereto.
+8 (2)(a) This subsection applies beginning on the implementation date
+9 designated by the director pursuant to subsection (2) of section 60-1508.
+10 (b) In the event of (i) the transfer of ownership of a vehicle by
+11 operation of law as upon inheritance, devise, bequest, order in
+12 bankruptcy, insolvency, replevin, or execution sale or as provided in
+13 section 30-24,125, sections 52-601.01 to 52-605, sections 60-1901 to
+14 60-1911, and sections 60-2401 to 60-2411, (ii) the engine of a vehicle
+15 being replaced by another engine, (iii) a vehicle being sold to satisfy
+16 storage or repair charges or under section 76-1607, or (iv) repossession
+17 being had upon default in performance of the terms of a chattel mortgage,
+18 trust receipt, conditional sales contract, or other like agreement, and
+19 upon acceptance of an electronic certificate of title record after
+20 repossession, in addition to the title requirements in this section, the
+21 county treasurer of any county or the department, upon the surrender of
+22 the prior certificate of title or the manufacturer's or importer's
+23 certificate, or when that is not possible, upon presentation of
+24 satisfactory proof of ownership and right of possession to such vehicle,
+25 and upon payment of the appropriate fee and the presentation of an
+26 application for certificate of title, may issue to the applicant a
+27 certificate of title thereto.
+28 (3) If the prior certificate of title issued for such vehicle
+29 provided for joint ownership with right of survivorship, a new
+30 certificate of title shall be issued to a subsequent purchaser upon the
+31 assignment of the prior certificate of title by the surviving owner and
+-9-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 presentation of satisfactory proof of death of the deceased owner.
+2 (4) Only an affidavit by the person or agent of the person to whom
+3 possession of such vehicle has so passed, setting forth facts entitling
+4 him or her to such possession and ownership, together with a copy of a
+5 court order or an instrument upon which such claim of possession and
+6 ownership is founded, shall be considered satisfactory proof of ownership
+7 and right of possession, except that if the applicant cannot produce such
+8 proof of ownership, he or she may submit to the department such evidence
+9 as he or she may have, and the department may thereupon, if it finds the
+10 evidence sufficient, issue the certificate of title or authorize any
+11 county treasurer to issue a certificate of title, as the case may be.
+12 (5) If from the records of the county treasurer or the department
+13 there appear to be any liens on such vehicle, such certificate of title
+14 shall comply with section 60-164 or 60-165 or section 6 of this act
+15 regarding such liens unless the application is accompanied by proper
+16 evidence of their satisfaction or extinction.
+17 Sec. 6. (1) For purposes of this section, device means any of the
+18 following for which a certificate of title has been issued under
+19 subsection (3) of section 60-137:
+20 (a) Any utility trailer;
+21 (b) Any self-propelled equipment designed and used exclusively to
+22 carry and apply fertilizer, chemicals, or related products to
+23 agricultural soil and crops, agricultural floater-spreader implements,
+24 and other implements of husbandry designed for and used primarily for
+25 tilling the soil and harvesting crops or feeding livestock; or
+26 (c) Any power unit hay grinders or a combination that includes a
+27 power unit and a hay grinder when operated without cargo.
+28 (2) Any security interest in a device that is perfected pursuant to
+29 article 9, Uniform Commercial Code, before, on, or after January 1, 2026,
+30 shall continue to be perfected until (a) the financing statement
+31 perfecting such security interest is terminated or lapses in the absence
+-10-
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 of the filing of a continuation statement pursuant to article 9, Uniform
+2 Commercial Code, or (b) a certificate of title is issued and a notation
+3 of lien is made for the device as provided in section 60-164.
+4 (3) Any lien noted on the face of a certificate of title for the
+5 device or on an electronic certificate of title record for the device
+6 pursuant to subsection (2), (4), or (5) of this section, on behalf of the
+7 holder of a security interest in the device that was previously perfected
+8 pursuant to article 9, Uniform Commercial Code, shall have priority as of
+9 the date such security interest was originally perfected.
+10 (4) The holder of a certificate of title for a device shall, upon
+11 request, surrender the certificate of title to a holder of a previously
+12 perfected security interest in the device to permit notation of a lien on
+13 the certificate of title or on an electronic certificate of title record
+14 and shall do such other acts as may be required to permit such notation.
+15 (5) If the owner of a device subject to a security interest
+16 perfected pursuant to article 9, Uniform Commercial Code, fails or
+17 refuses to obtain a certificate of title after January 1, 2026, the
+18 security interest holder may obtain a certificate of title in the name of
+19 the owner of the device following the procedures of section 60-144 and
+20 may have a lien noted on the certificate of title or on an electronic
+21 certificate of title record pursuant to section 60-164.
+22 (6) The assignment, release, or satisfaction of a security interest
+23 in a device shall be governed by the laws under which it was perfected.
+24 Sec. 7. Original sections 60-101, 60-137, 60-152, 60-164, and
+25 60-166, Reissue Revised Statutes of Nebraska, are repealed.
+-11-
+[DELETED: yM1 S t o s a i t f nsSa6kS 2 S 6 R R S o N ia60v1(2( W a b b a f3l4( T a b f o j r t p5r f u t M V R A e 6v r o e t b r a p o a f o7a8(9J 1 2 s b r t h a c o t A0o1a2a3( A n l v s o o a J 1 24s5v6s l v a p i r a r o t7d3A0L5M]
+[DELETED: (ao((ap t a s a c a fi a o i o h d f a up0o1( B J 1 2 a p u h g o 2c3w4( E o o a m h o m h s5o6p7(8e a a c o t w n i b i w s9a0f1c2(3s4t5f6d7S 3 S 6 R R S o N i8a960f1e c i a f p b t d s b3A0L5M]
+[DELETED: t o t d o i t t d T ct s s a a t a s t t octv6( T c t o t v c s a c s w t w C T o . (n0t1t2o3s o a p t t i o a N4c5( T d s p a u m o n6c7( T c t s ( f a c o t8a t r a r a a p b t9d0t1a2t d a c o t a a s r a3d4t d o f t c o a n o l w5o6S 4 S 6 R R S o N i7a86 ( T d s i a e t a9l s f v T h o a s i t0r c s c o s i r 1v o b o t i d d b t3A0L5M]
+[DELETED: d p t s ( o s 6 a ldUa l f e s b p o t ecmavd s r a e c o t r a0s n a c s l e o t s T1d s p a t t e c o t2r f l d a l w p i t3s4(5t p o a 9 U C C s n b6c t a t o t p o r t d f o7o8o a a m t r c s c o9s i o a c o t s c a v A0m c i t o a a s a a1p b a 9 U C C t r2c s c o o s i c 3v i s i i a b d o s4m o i c a f b a a5c6t7m8t c t o d o t f o t c o9t0a1a s p s p a o l o3A0L5M]
+[DELETED: c b o s n b v a t e td9tR A a i i t b o s s v tfisc o t A b o a v a r f a d0r t b l a p i t M V I1R2p s i a d i s 9 U3C4l c a e c o a a t d t5p6(7s8o a e c o t r a a l n9e0p1t2t3t h o a l s a o e o s4v s n r t s v o i a a t5c o s o o h o s l s6a7(8s c o s i u p o s9i0t1h a n o s l m o t f o s c o3A0L5M]
+[DELETED: t T o o a v m p a v oc o t i t s o f s v w nttp a c o t l i T c t o td s e t n a t d t o tsI0d1o2i i t f t s l h b n o t3c4(5v6m7o8b9v0(1i d s b t o i t m p b l2g s l i t w t f p f3n o l s n t f l t d t t4c5n6a a n o s o l t c t o t7d s d t c o t t t f8l9c0p1f3A0L5M]
+[DELETED: obt(oanac o t t c t o d s m0n o s o l I t c o t i n a1e c o t r t c t o2d3t m p b l g s l i t4w t f p f n o l s n t f5l t d t t c t o d w6f7n8b9c t o d w i m o t e0t1t2f3w4f5l6r7(8a p i r n a c o t l o t9c o t o h h o i s a d t0c o t t t c t o t d w1s3A0L5M]
+[DELETED: t a o t r o s o I d t a ctn t c o i r T c t o tdoooi r w s l i d n t de o p w n o s l r i 0m p b t d t t c t o1d2o l e i t c o t t t o o a3o4c5d6m7t8S 5 S 6 R R S o N i9a06 ( T s a p t t i1d2(3(4o o l a u i d b o i5b i r o e s o a p i6s7t 6 ( t e o a v b r b a8e9o0p o t t o a c m t r1c3A0L5M]
+[DELETED: o a c o t d u t s o t pcw t i n p u p o s p oot a f a t p o a a fct(d0(1o o l a u i d b o i2b i r o e s o a p i3s 3 s 5 t 5 s 6 t465b6s7b8t9u a o a e c o t r a0r1c2t p c o t o t m o i3c o w t i n p u p o4s5a u p o t a f a t p o a6a f c o t m i t t a 7c8( I t p c o t i f s v9p f j o w r o s a n0c1a3A0L5M]
+[DELETED: p(phc o o a i u w s c o p aoapa0e s i t c o t o a a1c2(3t4s c w s 6 o 6 o s 6 o t a5r s l u t a i a b p6e7S8f f w a c o t h b i u9s0(1( A s e d a u e t2c a a f c o r p t3a s a c a f i4a o i o h d f a u p f5t6( A p u h g o a c t i 7p8(9a0s c t b p u ( t f s1p3A0L5M]
+[DELETED: oCo( A l n o t f o a c o t f td o o a e c o t r f t dphpt0(1r2p3t4a5( I t o o a d s t a s i6p p t a 9 U C C f o7r t o a c o t a J 1 2 t8s9t0m1c2(3i4S 7  O s 6 6 6 6 a563A0L5M]
+
+
+================================================================================
+
+Raw Text:
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+AMENDMENTS TO LB490
+Introduced by McKeon, 41.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Section 60-101, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 60-101 Sections 60-101 to 60-197 and section 6 of this act shall be
+6 known and may be cited as the Motor Vehicle Certificate of Title Act.
+7 Sec. 2. Section 60-137, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 60-137 (1) The Motor Vehicle Certificate of Title Act applies to all
+10 vehicles as defined in the act, except:
+11 (a) Farm trailers;
+12 (b) Well-boring apparatus, backhoes, bulldozers, and front-end
+13 loaders; and
+14 (c) Trucks and buses from other jurisdictions required to pay
+15 registration fees under the Motor Vehicle Registration Act, except a
+16 vehicle registered or eligible to be registered as part of a fleet of
+17 apportionable vehicles under section 60-3,198.
+18 (2)(a) All new all-terrain vehicles and minibikes sold on or after
+19 January 1, 2004, shall be required to have a certificate of title. An
+20 owner of an all-terrain vehicle or minibike sold prior to such date may
+21 apply for a certificate of title for such all-terrain vehicle or minibike
+22 as provided in rules and regulations of the department.
+23 (b) All new low-speed vehicles sold on or after January 1, 2012,
+24 shall be required to have a certificate of title. An owner of a low-speed
+25 vehicle sold prior to such date may apply for a certificate of title for
+26 such low-speed vehicle as provided in rules and regulations of the
+27 department.
+-1-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 (3) An owner of any of the following a utility trailer may apply for
+2 a certificate of title upon compliance with the Motor Vehicle Certificate
+3 of Title Act: .
+4 (a) Any utility trailer;
+5 (b) Beginning January 1, 2026, any self-propelled equipment designed
+6 and used exclusively to carry and apply fertilizer, chemicals, or related
+7 products to agricultural soil and crops, agricultural floater-spreader
+8 implements, and other implements of husbandry designed for and used
+9 primarily for tilling the soil and harvesting crops or feeding livestock;
+10 or
+11 (c) Beginning January 1, 2026, any power unit hay grinders or a
+12 combination that includes a power unit and a hay grinder when operated
+13 without cargo.
+14 (4)(a) Every owner of a manufactured home or mobile home shall
+15 obtain a certificate of title for the manufactured home or mobile home
+16 prior to affixing it to real estate.
+17 (b) If a manufactured home or mobile home has been affixed to real
+18 estate and a certificate of title was not issued before it was so
+19 affixed, the owner of such manufactured home or mobile home shall apply
+20 for and be issued a certificate of title at any time for surrender and
+21 cancellation as provided in section 60-169.
+22 (5) All new utility-type vehicles sold on or after January 1, 2011,
+23 shall be required to have a certificate of title. An owner of a utility-
+24 type vehicle sold prior to such date may apply for a certificate of title
+25 for such utility-type vehicle as provided in rules and regulations of the
+26 department.
+27 Sec. 3. Section 60-152, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 60-152 (1) The county treasurer shall issue a certificate of title
+30 for a vehicle in duplicate and retain one copy in his or her office. An
+31 electronic copy, in a form prescribed by the department, shall be
+-2-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 transmitted on the day of issuance to the department. The county
+2 treasurer shall sign and affix the appropriate seal to the original
+3 certificate of title and, if there are no liens on the vehicle, deliver
+4 the certificate to the applicant. If there are one or more liens on the
+5 vehicle, the certificate of title shall be handled as provided in section
+6 60-164 or 60-165 or section 6 of this act.
+7 (2) The county treasurers of the various counties shall adopt a
+8 circular seal with the words County Treasurer of ........... (insert
+9 name) County thereon. Such seal shall be used by the county treasurer or
+10 the deputy or legal authorized agent of such officer, without charge to
+11 the applicant, on any certificate of title, application for certificate
+12 of title, duplicate copy, assignment or reassignment, power of attorney,
+13 statement, or affidavit pertaining to the issuance of a Nebraska
+14 certificate of title.
+15 (3) The department shall prescribe a uniform method of numbering
+16 certificates of title.
+17 (4) The county treasurer shall (a) file all certificates of title
+18 according to rules and regulations adopted and promulgated by the
+19 department, (b) maintain in the office indices for such certificates of
+20 title, (c) be authorized to destroy all previous records five years after
+21 a subsequent transfer has been made on a vehicle, and (d) be authorized
+22 to destroy all certificates of title and all supporting records and
+23 documents which have been on file for a period of five years or more from
+24 the date of filing the certificate or a notation of lien, whichever
+25 occurs later.
+26 Sec. 4. Section 60-164, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 60-164 (1) The department shall implement an electronic title and
+29 lien system for vehicles. The holder of a security interest, trust
+30 receipt, conditional sales contract, or similar instrument regarding a
+31 vehicle, or beginning on the implementation date determined by the
+-3-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 director pursuant to subsection (7) of section 60-1507, a licensed
+2 dealer, may file a lien electronically as prescribed by the department.
+3 Upon receipt of an application for a certificate of title for a vehicle,
+4 any lien filed electronically shall become part of the electronic
+5 certificate of title record created by the county treasurer or department
+6 maintained on the electronic title and lien system. If an application for
+7 a certificate of title indicates that there is a lien or encumbrance on a
+8 vehicle or if a lien or notice of lien has been filed electronically, the
+9 department shall retain an electronic certificate of title record and
+10 shall note and cancel such liens electronically on the system. The
+11 department shall provide access to the electronic certificate of title
+12 records for licensed dealers and lienholders who participate in the
+13 system by a method determined by the director.
+14 (2) Except as provided in section 60-165 or section 6 of this act,
+15 the provisions of article 9, Uniform Commercial Code, shall never be
+16 construed to apply to or to permit or require the deposit, filing, or
+17 other record whatsoever of a security agreement, conveyance intended to
+18 operate as a mortgage, trust receipt, conditional sales contract, or
+19 similar instrument or any copy of the same covering a vehicle. Any
+20 mortgage, conveyance intended to operate as a security agreement as
+21 provided by article 9, Uniform Commercial Code, trust receipt,
+22 conditional sales contract, or other similar instrument covering a
+23 vehicle, if such instrument is accompanied by delivery of such
+24 manufacturer's or importer's certificate and followed by actual and
+25 continued possession of the same by the holder of such instrument or, in
+26 the case of a certificate of title, if a notation of the same has been
+27 made electronically as prescribed in subsection (1) of this section or by
+28 the county treasurer or department on the face of the certificate of
+29 title or on the electronic certificate of title record, shall be valid as
+30 against the creditors of the debtor, whether armed with process or not,
+31 and subsequent purchasers, secured parties, and other lienholders or
+-4-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 claimants but otherwise shall not be valid against them, except that
+2 during any period in which a vehicle is inventory, as defined in section
+3 9-102, Uniform Commercial Code, held for sale by a person or corporation
+4 that is required to be licensed as provided in the Motor Vehicle Industry
+5 Regulation Act and is in the business of selling such vehicles, the
+6 filing provisions of article 9, Uniform Commercial Code, as applied to
+7 inventory, shall apply to a security interest in such vehicle created by
+8 such person or corporation as debtor without the notation of lien on the
+9 certificate of title. A buyer of a vehicle at retail from a dealer
+10 required to be licensed as provided in the Motor Vehicle Industry
+11 Regulation Act shall take such vehicle free of any security interest. A
+12 purchase-money security interest, as defined in section 9-103, Uniform
+13 Commercial Code, in a vehicle is perfected against the rights of judicial
+14 lien creditors and execution creditors on and after the date the
+15 purchase-money security interest attaches.
+16 (3) Subject to subsections (1) and (2) of this section, all liens,
+17 security agreements, and encumbrances noted upon a certificate of title
+18 or an electronic certificate of title record and all liens noted
+19 electronically as prescribed in subsection (1) of this section shall take
+20 priority according to the order of time in which the same are noted by
+21 the county treasurer or department. Exposure for sale of any vehicle by
+22 the owner thereof with the knowledge or with the knowledge and consent of
+23 the holder of any lien, security agreement, or encumbrance on such
+24 vehicle shall not render the same void or ineffective as against the
+25 creditors of such owner or holder of subsequent liens, security
+26 agreements, or encumbrances upon such vehicle.
+27 (4) The holder of a security agreement, trust receipt, conditional
+28 sales contract, or similar instrument, upon presentation of such
+29 instrument to the department or to any county treasurer, together with
+30 the certificate of title and the fee prescribed for notation of lien, may
+31 have a notation of such lien made on the face of such certificate of
+-5-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 title. The owner of a vehicle may present a valid out-of-state
+2 certificate of title issued to such owner for such vehicle with a
+3 notation of lien on such certificate of title and the prescribed fee to
+4 the county treasurer or department and have the notation of lien made on
+5 the new certificate of title issued pursuant to section 60-144 without
+6 presenting a copy of the lien instrument. The county treasurer or the
+7 department shall enter the notation and the date thereof over the
+8 signature of the person making the notation and the seal of the office.
+9 If noted by a county treasurer, he or she shall on that day notify the
+10 department which shall note the lien on its records. The county treasurer
+11 or the department shall also indicate by appropriate notation and on such
+12 instrument itself the fact that such lien has been noted on the
+13 certificate of title.
+14 (5) A transaction does not create a sale or a security interest in a
+15 vehicle, other than an all-terrain vehicle, a utility-type vehicle, or a
+16 minibike, merely because it provides that the rental price is permitted
+17 or required to be adjusted under the agreement either upward or downward
+18 by reference to the amount realized upon sale or other disposition of the
+19 vehicle.
+20 (6) The county treasurer or the department, upon receipt of a lien
+21 instrument duly signed by the owner in the manner prescribed by law
+22 governing such lien instruments together with the fee prescribed for
+23 notation of lien, shall notify the first lienholder to deliver to the
+24 county treasurer or the department, within fifteen days after the date of
+25 notice, the certificate of title to permit notation of such other lien
+26 and, after notation of such other lien, the county treasurer or the
+27 department shall deliver the certificate of title to the first
+28 lienholder. The holder of a certificate of title who refuses to deliver a
+29 certificate of title to the county treasurer or the department for the
+30 purpose of showing such other lien on such certificate of title within
+31 fifteen days after the date of notice shall be liable for damages to such
+-6-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 other lienholder for the amount of damages such other lienholder suffered
+2 by reason of the holder of the certificate of title refusing to permit
+3 the showing of such lien on the certificate of title.
+4 (7) Upon receipt of a subsequent lien instrument duly signed by the
+5 owner in the manner prescribed by law governing such lien instruments or
+6 a notice of lien filed electronically, together with an application for
+7 notation of the subsequent lien, the fee prescribed in section 60-154,
+8 and, if a printed certificate of title exists, the presentation of the
+9 certificate of title, the county treasurer or department shall make
+10 notation of such other lien. If the certificate of title is not an
+11 electronic certificate of title record, the county treasurer or
+12 department, upon receipt of a lien instrument duly signed by the owner in
+13 the manner prescribed by law governing such lien instruments together
+14 with the fee prescribed for notation of lien, shall notify the first
+15 lienholder to deliver to the county treasurer or department, within
+16 fifteen days after the date of notice, the certificate of title to permit
+17 notation of such other lien. After such notation of lien, the lien shall
+18 become part of the electronic certificate of title record created by the
+19 county treasurer or department which is maintained on the electronic
+20 title and lien system. The holder of a certificate of title who refuses
+21 to deliver a certificate of title to the county treasurer or department
+22 for the purpose of noting such other lien on such certificate of title
+23 within fifteen days after the date when notified to do so shall be liable
+24 for damages to such other lienholder for the amount of damages such other
+25 lienholder suffered by reason of the holder of the certificate of title
+26 refusing to permit the noting of such lien on the certificate of title.
+27 (8) When a lien is discharged, the holder shall, within fifteen days
+28 after payment is received, note a cancellation of the lien on the
+29 certificate of title over his, her, or its signature and deliver the
+30 certificate of title to the county treasurer or the department, which
+31 shall note the cancellation of the lien on the face of the certificate of
+-7-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 title and on the records of such office. If delivered to a county
+2 treasurer, he or she shall on that day notify the department which shall
+3 note the cancellation on its records. The county treasurer or the
+4 department shall then return the certificate of title to the owner or as
+5 otherwise directed by the owner. The cancellation of lien shall be noted
+6 on the certificate of title without charge. For an electronic certificate
+7 of title record, the lienholder shall, within fifteen days after payment
+8 is received when such lien is discharged, notify the department
+9 electronically or provide written notice of such lien release, in a
+10 manner prescribed by the department, to the county treasurer or
+11 department. The department shall note the cancellation of lien and, if no
+12 other liens exist, issue the certificate of title to the owner or as
+13 otherwise directed by the owner or lienholder. If the holder of the title
+14 cannot locate a lienholder, a lien may be discharged ten years after the
+15 date of filing by presenting proof that thirty days have passed since the
+16 mailing of a written notice by certified mail, return receipt requested,
+17 to the last-known address of the lienholder.
+18 Sec. 5. Section 60-166, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 60-166 (1)(a) This subsection applies prior to the implementation
+21 date designated by the Director of Motor Vehicles pursuant to subsection
+22 (2) of section 60-1508.
+23 (b) In the event of (i) the transfer of ownership of a vehicle by
+24 operation of law as upon inheritance, devise, bequest, order in
+25 bankruptcy, insolvency, replevin, or execution sale or as provided in
+26 sections 30-24,125, 52-601.01 to 52-605, 60-1901 to 60-1911, and 60-2401
+27 to 60-2411, (ii) the engine of a vehicle being replaced by another
+28 engine, (iii) a vehicle being sold to satisfy storage or repair charges
+29 or under section 76-1607, or (iv) repossession being had upon default in
+30 performance of the terms of a chattel mortgage, trust receipt,
+31 conditional sales contract, or other like agreement, the county treasurer
+-8-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 of any county or the department, upon the surrender of the prior
+2 certificate of title or the manufacturer's or importer's certificate, or
+3 when that is not possible, upon presentation of satisfactory proof of
+4 ownership and right of possession to such vehicle, and upon payment of
+5 the appropriate fee and the presentation of an application for
+6 certificate of title, may issue to the applicant a certificate of title
+7 thereto.
+8 (2)(a) This subsection applies beginning on the implementation date
+9 designated by the director pursuant to subsection (2) of section 60-1508.
+10 (b) In the event of (i) the transfer of ownership of a vehicle by
+11 operation of law as upon inheritance, devise, bequest, order in
+12 bankruptcy, insolvency, replevin, or execution sale or as provided in
+13 section 30-24,125, sections 52-601.01 to 52-605, sections 60-1901 to
+14 60-1911, and sections 60-2401 to 60-2411, (ii) the engine of a vehicle
+15 being replaced by another engine, (iii) a vehicle being sold to satisfy
+16 storage or repair charges or under section 76-1607, or (iv) repossession
+17 being had upon default in performance of the terms of a chattel mortgage,
+18 trust receipt, conditional sales contract, or other like agreement, and
+19 upon acceptance of an electronic certificate of title record after
+20 repossession, in addition to the title requirements in this section, the
+21 county treasurer of any county or the department, upon the surrender of
+22 the prior certificate of title or the manufacturer's or importer's
+23 certificate, or when that is not possible, upon presentation of
+24 satisfactory proof of ownership and right of possession to such vehicle,
+25 and upon payment of the appropriate fee and the presentation of an
+26 application for certificate of title, may issue to the applicant a
+27 certificate of title thereto.
+28 (3) If the prior certificate of title issued for such vehicle
+29 provided for joint ownership with right of survivorship, a new
+30 certificate of title shall be issued to a subsequent purchaser upon the
+31 assignment of the prior certificate of title by the surviving owner and
+-9-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 presentation of satisfactory proof of death of the deceased owner.
+2 (4) Only an affidavit by the person or agent of the person to whom
+3 possession of such vehicle has so passed, setting forth facts entitling
+4 him or her to such possession and ownership, together with a copy of a
+5 court order or an instrument upon which such claim of possession and
+6 ownership is founded, shall be considered satisfactory proof of ownership
+7 and right of possession, except that if the applicant cannot produce such
+8 proof of ownership, he or she may submit to the department such evidence
+9 as he or she may have, and the department may thereupon, if it finds the
+10 evidence sufficient, issue the certificate of title or authorize any
+11 county treasurer to issue a certificate of title, as the case may be.
+12 (5) If from the records of the county treasurer or the department
+13 there appear to be any liens on such vehicle, such certificate of title
+14 shall comply with section 60-164 or 60-165 or section 6 of this act
+15 regarding such liens unless the application is accompanied by proper
+16 evidence of their satisfaction or extinction.
+17 Sec. 6. (1) For purposes of this section, device means any of the
+18 following for which a certificate of title has been issued under
+19 subsection (3) of section 60-137:
+20 (a) Any utility trailer;
+21 (b) Any self-propelled equipment designed and used exclusively to
+22 carry and apply fertilizer, chemicals, or related products to
+23 agricultural soil and crops, agricultural floater-spreader implements,
+24 and other implements of husbandry designed for and used primarily for
+25 tilling the soil and harvesting crops or feeding livestock; or
+26 (c) Any power unit hay grinders or a combination that includes a
+27 power unit and a hay grinder when operated without cargo.
+28 (2) Any security interest in a device that is perfected pursuant to
+29 article 9, Uniform Commercial Code, before, on, or after January 1, 2026,
+30 shall continue to be perfected until (a) the financing statement
+31 perfecting such security interest is terminated or lapses in the absence
+-10-
+
+AM213 AM213
+LB490 LB490
+MJP - 02/11/2025 MJP - 02/11/2025
+1 of the filing of a continuation statement pursuant to article 9, Uniform
+2 Commercial Code, or (b) a certificate of title is issued and a notation
+3 of lien is made for the device as provided in section 60-164.
+4 (3) Any lien noted on the face of a certificate of title for the
+5 device or on an electronic certificate of title record for the device
+6 pursuant to subsection (2), (4), or (5) of this section, on behalf of the
+7 holder of a security interest in the device that was previously perfected
+8 pursuant to article 9, Uniform Commercial Code, shall have priority as of
+9 the date such security interest was originally perfected.
+10 (4) The holder of a certificate of title for a device shall, upon
+11 request, surrender the certificate of title to a holder of a previously
+12 perfected security interest in the device to permit notation of a lien on
+13 the certificate of title or on an electronic certificate of title record
+14 and shall do such other acts as may be required to permit such notation.
+15 (5) If the owner of a device subject to a security interest
+16 perfected pursuant to article 9, Uniform Commercial Code, fails or
+17 refuses to obtain a certificate of title after January 1, 2026, the
+18 security interest holder may obtain a certificate of title in the name of
+19 the owner of the device following the procedures of section 60-144 and
+20 may have a lien noted on the certificate of title or on an electronic
+21 certificate of title record pursuant to section 60-164.
+22 (6) The assignment, release, or satisfaction of a security interest
+23 in a device shall be governed by the laws under which it was perfected.
+24 Sec. 7. Original sections 60-101, 60-137, 60-152, 60-164, and
+25 60-166, Reissue Revised Statutes of Nebraska, are repealed.
+-11-
+
+[DELETED: yM1 S t o s a i t f nsSa6kS 2 S 6 R R S o N ia60v1(2( W a b b a f3l4( T a b f o j r t p5r f u t M V R A e 6v r o e t b r a p o a f o7a8(9J 1 2 s b r t h a c o t A0o1a2a3( A n l v s o o a J 1 24s5v6s l v a p i r a r o t7d3A0L5M]
+[DELETED: (ao((ap t a s a c a fi a o i o h d f a up0o1( B J 1 2 a p u h g o 2c3w4( E o o a m h o m h s5o6p7(8e a a c o t w n i b i w s9a0f1c2(3s4t5f6d7S 3 S 6 R R S o N i8a960f1e c i a f p b t d s b3A0L5M]
+[DELETED: t o t d o i t t d T ct s s a a t a s t t octv6( T c t o t v c s a c s w t w C T o . (n0t1t2o3s o a p t t i o a N4c5( T d s p a u m o n6c7( T c t s ( f a c o t8a t r a r a a p b t9d0t1a2t d a c o t a a s r a3d4t d o f t c o a n o l w5o6S 4 S 6 R R S o N i7a86 ( T d s i a e t a9l s f v T h o a s i t0r c s c o s i r 1v o b o t i d d b t3A0L5M]
+[DELETED: d p t s ( o s 6 a ldUa l f e s b p o t ecmavd s r a e c o t r a0s n a c s l e o t s T1d s p a t t e c o t2r f l d a l w p i t3s4(5t p o a 9 U C C s n b6c t a t o t p o r t d f o7o8o a a m t r c s c o9s i o a c o t s c a v A0m c i t o a a s a a1p b a 9 U C C t r2c s c o o s i c 3v i s i i a b d o s4m o i c a f b a a5c6t7m8t c t o d o t f o t c o9t0a1a s p s p a o l o3A0L5M]
+[DELETED: c b o s n b v a t e td9tR A a i i t b o s s v tfisc o t A b o a v a r f a d0r t b l a p i t M V I1R2p s i a d i s 9 U3C4l c a e c o a a t d t5p6(7s8o a e c o t r a a l n9e0p1t2t3t h o a l s a o e o s4v s n r t s v o i a a t5c o s o o h o s l s6a7(8s c o s i u p o s9i0t1h a n o s l m o t f o s c o3A0L5M]
+[DELETED: t T o o a v m p a v oc o t i t s o f s v w nttp a c o t l i T c t o td s e t n a t d t o tsI0d1o2i i t f t s l h b n o t3c4(5v6m7o8b9v0(1i d s b t o i t m p b l2g s l i t w t f p f3n o l s n t f l t d t t4c5n6a a n o s o l t c t o t7d s d t c o t t t f8l9c0p1f3A0L5M]
+[DELETED: obt(oanac o t t c t o d s m0n o s o l I t c o t i n a1e c o t r t c t o2d3t m p b l g s l i t4w t f p f n o l s n t f5l t d t t c t o d w6f7n8b9c t o d w i m o t e0t1t2f3w4f5l6r7(8a p i r n a c o t l o t9c o t o h h o i s a d t0c o t t t c t o t d w1s3A0L5M]
+[DELETED: t a o t r o s o I d t a ctn t c o i r T c t o tdoooi r w s l i d n t de o p w n o s l r i 0m p b t d t t c t o1d2o l e i t c o t t t o o a3o4c5d6m7t8S 5 S 6 R R S o N i9a06 ( T s a p t t i1d2(3(4o o l a u i d b o i5b i r o e s o a p i6s7t 6 ( t e o a v b r b a8e9o0p o t t o a c m t r1c3A0L5M]
+[DELETED: o a c o t d u t s o t pcw t i n p u p o s p oot a f a t p o a a fct(d0(1o o l a u i d b o i2b i r o e s o a p i3s 3 s 5 t 5 s 6 t465b6s7b8t9u a o a e c o t r a0r1c2t p c o t o t m o i3c o w t i n p u p o4s5a u p o t a f a t p o a6a f c o t m i t t a 7c8( I t p c o t i f s v9p f j o w r o s a n0c1a3A0L5M]
+[DELETED: p(phc o o a i u w s c o p aoapa0e s i t c o t o a a1c2(3t4s c w s 6 o 6 o s 6 o t a5r s l u t a i a b p6e7S8f f w a c o t h b i u9s0(1( A s e d a u e t2c a a f c o r p t3a s a c a f i4a o i o h d f a u p f5t6( A p u h g o a c t i 7p8(9a0s c t b p u ( t f s1p3A0L5M]
+[DELETED: oCo( A l n o t f o a c o t f td o o a e c o t r f t dphpt0(1r2p3t4a5( I t o o a d s t a s i6p p t a 9 U C C f o7r t o a c o t a J 1 2 t8s9t0m1c2(3i4S 7  O s 6 6 6 6 a563A0L5M]

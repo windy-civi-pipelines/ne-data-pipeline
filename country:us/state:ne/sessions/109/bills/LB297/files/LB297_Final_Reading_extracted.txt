@@ -1,0 +1,333 @@
+Title: LEGISLATIVE BILL 297
+Official Title: LEGISLATIVE BILL 297
+Number of Sections: 1
+Source: versions - Final Reading
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB297 LB297
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+FINAL READING
+Introduced by Ibach, 44.
+Read first time January 15, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to the Employment Security Law; to amend
+2 section 48-649.03, Revised Statutes Cumulative Supplement, 2024; to
+3 change provisions relating to the combined tax rate; to repeal the
+4 original section; and to declare an emergency.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB297 LB297
+2025 2025
+1 Section 1. Section 48-649.03, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 48-649.03 (1) Once benefits have been payable from and chargeable to
+4 an employer's experience account throughout the preceding four calendar
+5 quarters and wages for employment have been paid by the employer in each
+6 of the two preceding four-calendar-quarter periods, the employer's
+7 combined tax rate shall be calculated according to this section. The
+8 combined tax rate shall be based upon the employer's experience rating
+9 record and determined from the employer's reserve ratio.
+10 (2) The employer's reserve ratio is the percent obtained by dividing
+11 (a) the amount by which the employer's contributions credited from the
+12 time the employer first or most recently became an employer, whichever
+13 date is later, and up to and including September 30 of the year the rate
+14 computation is made, plus any part of the employer's contributions due
+15 for that year paid on or before October 31 of such year, exceed the
+16 employer's benefits charged during the same period, by (b) the employer's
+17 average annual taxable payroll for the sixteen-consecutive-calendar-
+18 quarter period ending September 30 of the year in which the rate
+19 computation is made. For an employer with less than sixteen consecutive
+20 calendar quarters of contribution experience, the employer's average
+21 taxable payroll shall be determined based upon the four-calendar-quarter
+22 periods for which contributions were payable.
+23 (3) Each eligible experience rated employer shall be assigned to one
+24 of twenty rate categories with a corresponding experience factor as
+25 follows:
+26 Category Experience Factor
+27 1 0.00
+28 2 0.25
+29 3 0.40
+30 4 0.45
+31 5 0.50
+-2-
+LB297 LB297
+2025 2025
+1 6 0.60
+2 7 0.65
+3 8 0.70
+4 9 0.80
+5 10 0.90
+6 11 0.95
+7 12 1.00
+8 13 1.05
+9 14 1.10
+10 15 1.20
+11 16 1.35
+12 17 1.55
+13 18 1.80
+14 19 2.15
+15 20 2.60
+16 Eligible experience rated employers shall be assigned to rate
+17 categories from highest to lowest according to their experience reserve
+18 ratio, with category one assigned to accounts with the highest reserve
+19 ratios and category twenty assigned to accounts with the lowest reserve
+20 ratios. Each category shall be limited to no more than five percent of
+21 the state's total taxable payroll, except that:
+22 (a) Any employer with a portion of its taxable wages falling into
+23 two consecutive categories shall be assigned to the lower category;
+24 (b) No employer with a reserve ratio calculated to five decimal
+25 places equal to the similarly calculated reserve ratio of another
+26 employer shall be assigned to a higher rate than the employer to which it
+27 has the equal reserve ratio; and
+28 (c) No employer with a positive experience account balance shall be
+29 assigned to category twenty.
+30 (4) The state's reserve ratio shall be calculated annually by
+31 dividing the amount available to pay benefits in the Unemployment Trust
+-3-
+LB297 LB297
+2025 2025
+1 Fund and the State Unemployment Insurance Trust Fund as of September 30,
+2 plus any amount of combined tax owed by employers eligible for and
+3 electing annual payment status for the four most recent quarters ending
+4 on September 30 in accordance with rules and regulations adopted by the
+5 commissioner, by the state's total wages for contributory employers from
+6 the four calendar quarters ending on September 30. For purposes of this
+7 section, total wages for contributory employers means all remuneration
+8 paid by a contributory an employer in employment. The state's reserve
+9 ratio shall be applied to the table in this subsection to determine the
+10 yield factor for the upcoming rate year.
+11 State's Reserve Ratio Yield Factor
+12 1.75 percent and above = 0.50
+13 1.60 percent up to but not including 1.75 = 0.60
+14 1.45 percent up to but not including 1.60 = 0.70
+15 1.30 percent up to but not including 1.45 = 0.75
+16 1.15 percent up to but not including 1.30 = 0.80
+17 1.00 percent up to but not including 1.15 = 0.90
+18 0.85 percent up to but not including 1.00 = 1.00
+19 0.70 percent up to but not including 0.85 = 1.10
+20 0.60 percent up to but not including 0.70 = 1.20
+21 0.50 percent up to but not including 0.60 = 1.25
+22 0.45 percent up to but not including 0.50 = 1.30
+23 0.40 percent up to but not including 0.45 = 1.35
+24 0.35 percent up to but not including 0.40 = 1.40
+25 0.30 percent up to but not including 0.35 = 1.45
+26 Below 0.30 percent = 1.50
+27 The commissioner may adjust the yield factor determined pursuant to
+28 the preceding table to a lower scheduled yield factor if the state's
+29 reserve ratio is 0.70 1.00 percent or greater. Once the yield factor for
+30 the upcoming rate year has been determined, it is multiplied by the
+31 amount of unemployment benefits paid from combined tax during the four
+-4-
+LB297 LB297
+2025 2025
+1 calendar quarters ending September 30 of the preceding year. The
+2 resulting figure is the planned yield for the rate year. The planned
+3 yield is divided by the total taxable wages for contributory employers
+4 for the four calendar quarters ending September 30 of the previous year
+5 and carried to four decimal places to create the average combined tax
+6 rate for the rate year. Beginning January 1, 2025, through December 31,
+7 2029, the final average combined tax rate shall be reduced by five
+8 percent.
+9 (5) Except in tax year 2025, the The average combined tax rate is
+10 assigned to rate category twelve as established in subsection (3) of this
+11 section. In tax year 2025 only, the category twelve rate shall be 0.48.
+12 Rates for each of the remaining nineteen categories are determined by
+13 multiplying the average combined tax rate by the experience factor
+14 associated with each category and carried to four decimal places.
+15 Employers who are delinquent in filing their combined tax reports as of
+16 October 31 of any year shall be assigned to category twenty for the
+17 following calendar year unless the delinquency is corrected prior to
+18 December 31 of the year of rate calculation.
+19 (6) In addition to required contributions, an employer may make
+20 voluntary contributions to the fund to be credited to his or her account.
+21 Voluntary contributions by employers may be made up to the amount
+22 necessary to qualify for one rate category reduction. Voluntary
+23 contributions received after February 28 shall not be used in rate
+24 calculations for the same calendar year.
+25 (7) As used in sections 48-648 to 48-654, the term payroll means the
+26 total amount of wages during a calendar year, except as otherwise
+27 provided in section 48-654, by which the combined tax was measured.
+28 Sec. 2. Original section 48-649.03, Revised Statutes Cumulative
+29 Supplement, 2024, is repealed.
+30 Sec. 3. Since an emergency exists, this act takes effect when
+31 passed and approved according to law.
+-5-
+[DELETED: yIA B F A A r t t E S L t ascoB7L52]
+[DELETED: S 1 S 4 R S CS4aqo t t p f p t ec t r s b c a t t s Tcr0(1(2t3d4c5f t y p o o b O 3 o s y e t6e7a a t p f t s8q p e S 3 o t y i w t r9c0c q o c e t e a1t2p3(4o t r c w a c e f a5f6CyE7108209300401507L52]
+[DELETED: 607080901001101211311410151116121713181419252026E e r e s b a t r7c8r9r0r1t2(3t4( N e w a r r c t f d5p e t t s c r r o a6e7h8(9a0( T s r r s b c a b1d7L52]
+[DELETED: Fp a a o c t o b e e f aeocts t w f c e m a rp b a c a e i e T s rr0y1So Y21e=0315=0410=0515=0610=0715=0800=1905=1000=1100=1200=1305=1400=1505=16Bt=17T8t p t t a l s y f i t s9r0t u r y h b d i i m b t1a7L52]
+[DELETED: c q e S 3 o t p y Tr f i t p y f t r y T pyfa c t f d p t c t a c tr2 t f a c t r s b r b fp(0a1s2R f e o t r n c a d b3m t a c t r b t e f4a w e c a c t f d p5E6O 3 o a y s b a t c t f t7f c y u t d i c p t8D9( I a t r c a e m m0v1V c b e m b m u t t a2n t q f o r c r V3c r a F 2 s n b u i r4c5(6t a o w d a c y e a o7p8S 2  O s 4 R S C9S0S 3  S a e e t a t e w1p7L52]
+
+
+================================================================================
+
+Raw Text:
+LB297 LB297
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 297
+FINAL READING
+Introduced by Ibach, 44.
+Read first time January 15, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to the Employment Security Law; to amend
+2 section 48-649.03, Revised Statutes Cumulative Supplement, 2024; to
+3 change provisions relating to the combined tax rate; to repeal the
+4 original section; and to declare an emergency.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB297 LB297
+2025 2025
+1 Section 1. Section 48-649.03, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 48-649.03 (1) Once benefits have been payable from and chargeable to
+4 an employer's experience account throughout the preceding four calendar
+5 quarters and wages for employment have been paid by the employer in each
+6 of the two preceding four-calendar-quarter periods, the employer's
+7 combined tax rate shall be calculated according to this section. The
+8 combined tax rate shall be based upon the employer's experience rating
+9 record and determined from the employer's reserve ratio.
+10 (2) The employer's reserve ratio is the percent obtained by dividing
+11 (a) the amount by which the employer's contributions credited from the
+12 time the employer first or most recently became an employer, whichever
+13 date is later, and up to and including September 30 of the year the rate
+14 computation is made, plus any part of the employer's contributions due
+15 for that year paid on or before October 31 of such year, exceed the
+16 employer's benefits charged during the same period, by (b) the employer's
+17 average annual taxable payroll for the sixteen-consecutive-calendar-
+18 quarter period ending September 30 of the year in which the rate
+19 computation is made. For an employer with less than sixteen consecutive
+20 calendar quarters of contribution experience, the employer's average
+21 taxable payroll shall be determined based upon the four-calendar-quarter
+22 periods for which contributions were payable.
+23 (3) Each eligible experience rated employer shall be assigned to one
+24 of twenty rate categories with a corresponding experience factor as
+25 follows:
+26 Category Experience Factor
+27 1 0.00
+28 2 0.25
+29 3 0.40
+30 4 0.45
+31 5 0.50
+-2-
+
+LB297 LB297
+2025 2025
+1 6 0.60
+2 7 0.65
+3 8 0.70
+4 9 0.80
+5 10 0.90
+6 11 0.95
+7 12 1.00
+8 13 1.05
+9 14 1.10
+10 15 1.20
+11 16 1.35
+12 17 1.55
+13 18 1.80
+14 19 2.15
+15 20 2.60
+16 Eligible experience rated employers shall be assigned to rate
+17 categories from highest to lowest according to their experience reserve
+18 ratio, with category one assigned to accounts with the highest reserve
+19 ratios and category twenty assigned to accounts with the lowest reserve
+20 ratios. Each category shall be limited to no more than five percent of
+21 the state's total taxable payroll, except that:
+22 (a) Any employer with a portion of its taxable wages falling into
+23 two consecutive categories shall be assigned to the lower category;
+24 (b) No employer with a reserve ratio calculated to five decimal
+25 places equal to the similarly calculated reserve ratio of another
+26 employer shall be assigned to a higher rate than the employer to which it
+27 has the equal reserve ratio; and
+28 (c) No employer with a positive experience account balance shall be
+29 assigned to category twenty.
+30 (4) The state's reserve ratio shall be calculated annually by
+31 dividing the amount available to pay benefits in the Unemployment Trust
+-3-
+
+LB297 LB297
+2025 2025
+1 Fund and the State Unemployment Insurance Trust Fund as of September 30,
+2 plus any amount of combined tax owed by employers eligible for and
+3 electing annual payment status for the four most recent quarters ending
+4 on September 30 in accordance with rules and regulations adopted by the
+5 commissioner, by the state's total wages for contributory employers from
+6 the four calendar quarters ending on September 30. For purposes of this
+7 section, total wages for contributory employers means all remuneration
+8 paid by a contributory an employer in employment. The state's reserve
+9 ratio shall be applied to the table in this subsection to determine the
+10 yield factor for the upcoming rate year.
+11 State's Reserve Ratio Yield Factor
+12 1.75 percent and above = 0.50
+13 1.60 percent up to but not including 1.75 = 0.60
+14 1.45 percent up to but not including 1.60 = 0.70
+15 1.30 percent up to but not including 1.45 = 0.75
+16 1.15 percent up to but not including 1.30 = 0.80
+17 1.00 percent up to but not including 1.15 = 0.90
+18 0.85 percent up to but not including 1.00 = 1.00
+19 0.70 percent up to but not including 0.85 = 1.10
+20 0.60 percent up to but not including 0.70 = 1.20
+21 0.50 percent up to but not including 0.60 = 1.25
+22 0.45 percent up to but not including 0.50 = 1.30
+23 0.40 percent up to but not including 0.45 = 1.35
+24 0.35 percent up to but not including 0.40 = 1.40
+25 0.30 percent up to but not including 0.35 = 1.45
+26 Below 0.30 percent = 1.50
+27 The commissioner may adjust the yield factor determined pursuant to
+28 the preceding table to a lower scheduled yield factor if the state's
+29 reserve ratio is 0.70 1.00 percent or greater. Once the yield factor for
+30 the upcoming rate year has been determined, it is multiplied by the
+31 amount of unemployment benefits paid from combined tax during the four
+-4-
+
+LB297 LB297
+2025 2025
+1 calendar quarters ending September 30 of the preceding year. The
+2 resulting figure is the planned yield for the rate year. The planned
+3 yield is divided by the total taxable wages for contributory employers
+4 for the four calendar quarters ending September 30 of the previous year
+5 and carried to four decimal places to create the average combined tax
+6 rate for the rate year. Beginning January 1, 2025, through December 31,
+7 2029, the final average combined tax rate shall be reduced by five
+8 percent.
+9 (5) Except in tax year 2025, the The average combined tax rate is
+10 assigned to rate category twelve as established in subsection (3) of this
+11 section. In tax year 2025 only, the category twelve rate shall be 0.48.
+12 Rates for each of the remaining nineteen categories are determined by
+13 multiplying the average combined tax rate by the experience factor
+14 associated with each category and carried to four decimal places.
+15 Employers who are delinquent in filing their combined tax reports as of
+16 October 31 of any year shall be assigned to category twenty for the
+17 following calendar year unless the delinquency is corrected prior to
+18 December 31 of the year of rate calculation.
+19 (6) In addition to required contributions, an employer may make
+20 voluntary contributions to the fund to be credited to his or her account.
+21 Voluntary contributions by employers may be made up to the amount
+22 necessary to qualify for one rate category reduction. Voluntary
+23 contributions received after February 28 shall not be used in rate
+24 calculations for the same calendar year.
+25 (7) As used in sections 48-648 to 48-654, the term payroll means the
+26 total amount of wages during a calendar year, except as otherwise
+27 provided in section 48-654, by which the combined tax was measured.
+28 Sec. 2. Original section 48-649.03, Revised Statutes Cumulative
+29 Supplement, 2024, is repealed.
+30 Sec. 3. Since an emergency exists, this act takes effect when
+31 passed and approved according to law.
+-5-
+
+[DELETED: yIA B F A A r t t E S L t ascoB7L52]
+[DELETED: S 1 S 4 R S CS4aqo t t p f p t ec t r s b c a t t s Tcr0(1(2t3d4c5f t y p o o b O 3 o s y e t6e7a a t p f t s8q p e S 3 o t y i w t r9c0c q o c e t e a1t2p3(4o t r c w a c e f a5f6CyE7108209300401507L52]
+[DELETED: 607080901001101211311410151116121713181419252026E e r e s b a t r7c8r9r0r1t2(3t4( N e w a r r c t f d5p e t t s c r r o a6e7h8(9a0( T s r r s b c a b1d7L52]
+[DELETED: Fp a a o c t o b e e f aeocts t w f c e m a rp b a c a e i e T s rr0y1So Y21e=0315=0410=0515=0610=0715=0800=1905=1000=1100=1200=1305=1400=1505=16Bt=17T8t p t t a l s y f i t s9r0t u r y h b d i i m b t1a7L52]
+[DELETED: c q e S 3 o t p y Tr f i t p y f t r y T pyfa c t f d p t c t a c tr2 t f a c t r s b r b fp(0a1s2R f e o t r n c a d b3m t a c t r b t e f4a w e c a c t f d p5E6O 3 o a y s b a t c t f t7f c y u t d i c p t8D9( I a t r c a e m m0v1V c b e m b m u t t a2n t q f o r c r V3c r a F 2 s n b u i r4c5(6t a o w d a c y e a o7p8S 2  O s 4 R S C9S0S 3  S a e e t a t e w1p7L52]

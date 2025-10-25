@@ -1,0 +1,149 @@
+Title: LEGISLATIVE BILL 338
+Official Title: LEGISLATIVE BILL 338
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LB338 LB338
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Wordekemper, 15.
+Read first time January 16, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to prohibit the use of genetic
+2 information for purposes of determining eligibility, setting premium
+3 rates, or imposing preexisting condition exclusions for life
+4 insurance, disability insurance, or long-term care insurance.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB338 LB338
+2025 2025
+1 Section 1. The Legislature hereby finds that:
+2 (1) Recent advances in genetic science have led to improvements in
+3 the diagnosis, treatment, and understanding of a significant number of
+4 human diseases;
+5 (2) Genetic testing can help individuals take steps to avoid disease
+6 entirely or identify disease earlier, maximizing an individual's health
+7 and lifespan and reducing health care costs for patients, families, and
+8 communities in the long term;
+9 (3) Concerns about ability to access insurance create a disincentive
+10 from seeking genetic testing for some individuals, preventing the full
+11 realization of opportunity for genetic testing;
+12 (4) The Genetic Information Nondiscrimination Act of 2008, 29 U.S.C.
+13 1182, prohibits genetic information from being used as a condition of
+14 eligibility, to set premium rates, or impose preexisting condition
+15 exclusions for health insurance;
+16 (5) The intent of section 2 of this act is to reduce barriers to the
+17 benefits of genetic testing by protecting genetic information from being
+18 used to impact access to life insurance, group disability insurance, or
+19 long-term care insurance coverage.
+20 Sec. 2. (1) In the absence of clinical diagnosis of a condition,
+21 life insurers, disability insurers, and long-term care insurers shall
+22 not:
+23 (a) Cancel, limit, or deny coverage, or establish differentials in
+24 premium rates based on genetic information collected, used, or stored for
+25 health care treatment; or
+26 (b) Require or solicit genetic information, use genetic test
+27 results, or consider an individual's decision or action relating to
+28 genetic testing in any manner or for any purpose related to life
+29 insurance, disability insurance, or long-term care insurance.
+30 (2) Nothing in this section shall be construed to:
+31 (a) Prevent life insurers, disability insurers, and long-term care
+-2-
+LB338 LB338
+2025 2025
+1 insurers from reviewing an individual's medical record as part of an
+2 application exam;
+3 (b) Prohibit requiring an applicant for insurance coverage to answer
+4 questions regarding family history; or
+5 (c) Prohibit a life insurer, disability insurer, or long-term care
+6 insurer from considering a clinical diagnosis included in an individual's
+7 medical record for insurance purposes.
+8 (3) For the purposes of this section:
+9 (a) Genetic information has the same meaning as defined in section
+10 48-236; and
+11 (b) Genetic test has the same meaning as defined in section 48-236.
+-3-
+[DELETED: yWAir o i p c e f liB8L52]
+[DELETED: S(t d t a u o a s n oh(eac(0f s g t f s i p t f1r2(31 p g i f b u a a c o4e t s p r o i p c5e6(7b8u9l0S1l i d i a l c i s2n3(4p5h6( R o s g i u g t7r o c a i d o a r t8g t i a m o f a p r t l9i0(1(8L52]
+[DELETED: i f r a i m r a p o aa(q(im((041(8L52]
+
+
+================================================================================
+
+Raw Text:
+LB338 LB338
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 338
+Introduced by Wordekemper, 15.
+Read first time January 16, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to prohibit the use of genetic
+2 information for purposes of determining eligibility, setting premium
+3 rates, or imposing preexisting condition exclusions for life
+4 insurance, disability insurance, or long-term care insurance.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB338 LB338
+2025 2025
+1 Section 1. The Legislature hereby finds that:
+2 (1) Recent advances in genetic science have led to improvements in
+3 the diagnosis, treatment, and understanding of a significant number of
+4 human diseases;
+5 (2) Genetic testing can help individuals take steps to avoid disease
+6 entirely or identify disease earlier, maximizing an individual's health
+7 and lifespan and reducing health care costs for patients, families, and
+8 communities in the long term;
+9 (3) Concerns about ability to access insurance create a disincentive
+10 from seeking genetic testing for some individuals, preventing the full
+11 realization of opportunity for genetic testing;
+12 (4) The Genetic Information Nondiscrimination Act of 2008, 29 U.S.C.
+13 1182, prohibits genetic information from being used as a condition of
+14 eligibility, to set premium rates, or impose preexisting condition
+15 exclusions for health insurance;
+16 (5) The intent of section 2 of this act is to reduce barriers to the
+17 benefits of genetic testing by protecting genetic information from being
+18 used to impact access to life insurance, group disability insurance, or
+19 long-term care insurance coverage.
+20 Sec. 2. (1) In the absence of clinical diagnosis of a condition,
+21 life insurers, disability insurers, and long-term care insurers shall
+22 not:
+23 (a) Cancel, limit, or deny coverage, or establish differentials in
+24 premium rates based on genetic information collected, used, or stored for
+25 health care treatment; or
+26 (b) Require or solicit genetic information, use genetic test
+27 results, or consider an individual's decision or action relating to
+28 genetic testing in any manner or for any purpose related to life
+29 insurance, disability insurance, or long-term care insurance.
+30 (2) Nothing in this section shall be construed to:
+31 (a) Prevent life insurers, disability insurers, and long-term care
+-2-
+
+LB338 LB338
+2025 2025
+1 insurers from reviewing an individual's medical record as part of an
+2 application exam;
+3 (b) Prohibit requiring an applicant for insurance coverage to answer
+4 questions regarding family history; or
+5 (c) Prohibit a life insurer, disability insurer, or long-term care
+6 insurer from considering a clinical diagnosis included in an individual's
+7 medical record for insurance purposes.
+8 (3) For the purposes of this section:
+9 (a) Genetic information has the same meaning as defined in section
+10 48-236; and
+11 (b) Genetic test has the same meaning as defined in section 48-236.
+-3-
+
+[DELETED: yWAir o i p c e f liB8L52]
+[DELETED: S(t d t a u o a s n oh(eac(0f s g t f s i p t f1r2(31 p g i f b u a a c o4e t s p r o i p c5e6(7b8u9l0S1l i d i a l c i s2n3(4p5h6( R o s g i u g t7r o c a i d o a r t8g t i a m o f a p r t l9i0(1(8L52]
+[DELETED: i f r a i m r a p o aa(q(im((041(8L52]

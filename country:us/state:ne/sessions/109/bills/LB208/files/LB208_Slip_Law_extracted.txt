@@ -1,0 +1,2141 @@
+Title: LEGISLATIVE BILL 208
+Official Title: LEGISLATIVE BILL 208
+Number of Sections: 12
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LB208 LB208
+2025 2025
+Approved by the Governor February 25, 2025
+Introduced by von Gillern, 4.
+A BILL FOR AN ACT relating to revenue and taxation; to amend sections
+77-2712.03 and 77-27,143, Reissue Revised Statutes of Nebraska, and
+
+Section 2:
+sections 77-2708, 77-2711, 77-2715.07, 77-27,241, 77-7012, and 77-7203,
+Revised Statutes Cumulative Supplement, 2024; to change provisions
+relating to sales tax collection fees, confidentiality of sales tax
+information, the streamlined sales and use tax agreement, a database for
+sales tax zip code information, annual limits for certain tax credits, and
+certain tax credits for parents and legal guardians; to harmonize
+provisions; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+
+Section 3:
+Section 1. Section 77-2708, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+77-2708 (1)(a) The sales and use taxes imposed by the Nebraska Revenue Act
+of 1967 shall be due and payable to the Tax Commissioner monthly on or before
+the twentieth day of the month next succeeding each monthly period unless
+otherwise provided pursuant to the Nebraska Revenue Act of 1967.
+(b)(i) On or before the twentieth day of the month following each monthly
+period or such other period as the Tax Commissioner may require, a return for
+such period, along with all taxes due, shall be filed with the Tax Commissioner
+in such form and content as the Tax Commissioner may prescribe and containing
+such information as the Tax Commissioner deems necessary for the proper
+administration of the Nebraska Revenue Act of 1967. The Tax Commissioner, if he
+or she deems it necessary in order to insure payment to or facilitate the
+collection by the state of the amount of sales or use taxes due, may require
+returns and payment of the amount of such taxes for periods other than monthly
+periods in the case of a particular seller, retailer, or purchaser, as the case
+may be. The Tax Commissioner shall by rule and regulation require reports and
+tax payments from sellers, retailers, or purchasers depending on their yearly
+tax liability. Except as required by the streamlined sales and use tax
+agreement, annual returns shall be required if such sellers', retailers', or
+purchasers' yearly tax liability is less than nine hundred dollars, quarterly
+returns shall be required if their yearly tax liability is nine hundred dollars
+or more and less than three thousand dollars, and monthly returns shall be
+required if their yearly tax liability is three thousand dollars or more. The
+Tax Commissioner shall have the discretion to allow an annual return for
+seasonal retailers, even when their yearly tax liability exceeds the amounts
+listed in this subdivision.
+The Tax Commissioner may adopt and promulgate rules and regulations to
+allow annual, semiannual, or quarterly returns for any retailer making monthly
+remittances or payments of sales and use taxes by electronic funds transfer or
+for any retailer remitting tax to the state pursuant to the streamlined sales
+and use tax agreement. Such rules and regulations may establish a method of
+determining the amount of the payment that will result in substantially all of
+the tax liability being paid each quarter. At least once each year, the
+difference between the amount paid and the amount due shall be reconciled. If
+the difference is more than ten percent of the amount paid, a penalty of fifty
+percent of the unpaid amount shall be imposed.
+(ii) For purposes of the sales tax, a return shall be filed by every
+retailer liable for collection from a purchaser and payment to the state of the
+tax, except that a combined sales tax return may be filed for all licensed
+locations which are subject to common ownership. For purposes of this
+subdivision, common ownership means the same person or persons own eighty
+percent or more of each licensed location. For purposes of the use tax, a
+return shall be filed by every retailer engaged in business in this state and
+by every person who has purchased property, the storage, use, or other
+consumption of which is subject to the use tax, but who has not paid the use
+tax due to a retailer required to collect the tax.
+(iii) The Tax Commissioner may require that returns be signed by the
+person required to file the return or by his or her duly authorized agent but
+need not be verified by oath.
+(iv) A taxpayer who keeps his or her regular books and records on a cash
+basis, an accrual basis, or any generally recognized accounting basis which
+correctly reflects the operation of the business may file the sales and use tax
+returns required by the Nebraska Revenue Act of 1967 on the same accounting
+basis that is used for the regular books and records, except that on credit,
+conditional, and installment sales, the retailer who keeps his or her books on
+an accrual basis may report such sales on the cash basis and pay the tax upon
+the collections made during each month. If a taxpayer transfers, sells,
+assigns, or otherwise disposes of an account receivable, he or she shall be
+deemed to have received the full balance of the consideration for the original
+sale and shall be liable for the remittance of the sales tax on the balance of
+the total sale price not previously reported, except that such transfer, sale,
+-1-
+LB208 LB208
+2025 2025
+assignment, or other disposition of an account receivable by a retailer to a
+subsidiary shall not be deemed to require the retailer to pay the sales tax on
+the credit sale represented by the account transferred prior to the time the
+customer makes payment on such account. If the subsidiary does not obtain a
+Nebraska sales tax permit, the taxpayer shall obtain a surety bond in favor of
+the State of Nebraska to insure payment of the tax and any interest and penalty
+imposed thereon under this section in an amount not less than two times the
+amount of tax payable on outstanding accounts receivable held by the subsidiary
+as of the end of the prior calendar year. Failure to obtain either a sales tax
+permit or a surety bond in accordance with this section shall result in the
+payment on the next required filing date of all sales taxes not previously
+remitted. When the retailer has adopted one basis or the other of reporting
+credit, conditional, or installment sales and paying the tax thereon, he or she
+will not be permitted to change from that basis without first having notified
+the Tax Commissioner.
+(c) Except as provided in the streamlined sales and use tax agreement, the
+taxpayer required to file the return shall deliver or mail any required return
+together with a remittance of the net amount of the tax due to the office of
+the Tax Commissioner on or before the required filing date. Failure to file the
+return, filing after the required filing date, failure to remit the net amount
+of the tax due, or remitting the net amount of the tax due after the required
+filing date shall be cause for a penalty, in addition to interest, of ten
+percent of the amount of tax not paid by the required filing date or twenty-
+five dollars, whichever is greater, unless the penalty is being collected under
+subdivision (1)(i), (1)(j)(i), or (1)(k)(i) of section 77-2703 by a county
+treasurer or the Department of Motor Vehicles, in which case the penalty shall
+be five dollars.
+(d) The taxpayer shall deduct and withhold, from the taxes otherwise due
+from him or her on his or her tax return, three percent of the first five
+thousand dollars remitted each month to reimburse himself or herself for the
+cost of collecting the tax. Taxpayers filing a combined return as allowed by
+subdivision (1)(b)(ii) of this subsection shall compute such collection fees on
+the basis of the receipts and liability of each licensed location. If a model 1
+seller's sales and use tax functions are performed by a certified service
+provider and the certified service provider is compensated pursuant to the
+streamlined sales and use tax agreement for performing such functions, then the
+model 1 seller shall not receive any collection fees under this subdivision.
+(e) A retailer that makes sales into Nebraska using a multivendor
+marketplace platform is relieved of its obligation to collect and remit sales
+taxes to Nebraska with regard to any sales taxes collected and remitted by the
+multivendor marketplace platform. Such a retailer must include all sales into
+Nebraska in its gross receipts in its return, but may claim credit for any
+sales taxes collected and remitted by the multivendor marketplace platform with
+respect to such retailer's sales. Such retailer is liable for the sales tax due
+on sales into Nebraska as provided in section 77-2704.35.
+(f) A multivendor marketplace platform is relieved of its obligation to
+collect and remit the correct amount of state and local sales taxes to Nebraska
+to the extent that the multivendor marketplace platform can establish that the
+error was due to insufficient or incorrect information given to the multivendor
+marketplace platform by the seller and relied on by the multivendor marketplace
+platform. This subdivision shall not apply if the multivendor marketplace
+platform and the seller are related persons under either section 267(b) or (c)
+or section 707(b) of the Internal Revenue Code of 1986 or if the seller is also
+the multivendor marketplace platform operator.
+(2)(a) If the Tax Commissioner determines that any sales or use tax
+amount, penalty, or interest has been paid more than once, has been erroneously
+or illegally collected or computed, or has been paid and the purchaser
+qualifies for a refund under section 77-2708.01, the Tax Commissioner shall set
+forth that fact in his or her records and the excess amount collected or paid
+may be credited on any sales, use, or income tax amounts then due and payable
+from the person under the Nebraska Revenue Act of 1967. Any balance may be
+refunded to the person by whom it was paid or his or her successors,
+administrators, or executors.
+(b) No refund shall be allowed unless a claim therefor is filed with the
+Tax Commissioner by the person who made the overpayment or his or her attorney,
+executor, or administrator within three years from the required filing date
+following the close of the period for which the overpayment was made, within
+six months after any determination becomes final under section 77-2709, or
+within six months from the date of overpayment with respect to such
+determinations, whichever of these three periods expires later, unless the
+credit relates to a period for which a waiver has been given. Failure to file a
+claim within the time prescribed in this subsection shall constitute a waiver
+of any demand against the state on account of overpayment.
+(c) Every claim shall be in writing on forms prescribed by the Tax
+Commissioner and shall state the specific amount and grounds upon which the
+claim is founded. No refund shall be made in any amount less than two dollars.
+(d) The Tax Commissioner shall allow or disallow a claim within one
+hundred eighty days after it has been filed. A request for a hearing shall
+constitute a waiver of the one-hundred-eighty-day period. The claimant and the
+Tax Commissioner may also agree to extend the one-hundred-eighty-day period. If
+a hearing has not been requested and the Tax Commissioner has neither allowed
+nor disallowed a claim within either the one hundred eighty days or the period
+agreed to by the claimant and the Tax Commissioner, the claim shall be deemed
+-2-
+LB208 LB208
+2025 2025
+to have been allowed.
+(e) Within thirty days after disallowing any claim in whole or in part,
+the Tax Commissioner shall serve notice of his or her action on the claimant in
+the manner prescribed for service of notice of a deficiency determination.
+(f) Within thirty days after the mailing of the notice of the Tax
+Commissioner's action upon a claim filed pursuant to the Nebraska Revenue Act
+of 1967, the action of the Tax Commissioner shall be final unless the taxpayer
+seeks review of the Tax Commissioner's determination as provided in section
+77-27,127.
+(g) Upon the allowance of a credit or refund of any sum erroneously or
+illegally assessed or collected, of any penalty collected without authority, or
+of any sum which was excessive or in any manner wrongfully collected, interest
+shall be allowed and paid on the amount of such credit or refund at the rate
+specified in section 45-104.02, as such rate may from time to time be adjusted,
+from the date such sum was paid or from the date the return was required to be
+filed, whichever date is later, to the date of the allowance of the refund or,
+in the case of a credit, to the due date of the amount against which the credit
+is allowed, but in the case of a voluntary and unrequested payment in excess of
+actual tax liability or a refund under section 77-2708.01, no interest shall be
+allowed when such excess is refunded or credited.
+(h) No suit or proceeding shall be maintained in any court for the
+recovery of any amount alleged to have been erroneously or illegally determined
+or collected unless a claim for refund or credit has been duly filed.
+(i) The Tax Commissioner may recover any refund or part thereof which is
+erroneously made and any credit or part thereof which is erroneously allowed by
+issuing a deficiency determination within one year from the date of refund or
+credit or within the period otherwise allowed for issuing a deficiency
+determination, whichever expires later.
+(j)(i) Credit shall be allowed to the retailer, contractor, or
+repairperson for sales or use taxes paid pursuant to the Nebraska Revenue Act
+of 1967 on any deduction taken that is attributed to bad debts not including
+interest. Bad debt has the same meaning as in 26 U.S.C. 166, as such section
+existed on January 1, 2003. However, the amount calculated pursuant to 26
+U.S.C. 166 shall be adjusted to exclude: Financing charges or interest; sales
+or use taxes charged on the purchase price; uncollectible amounts on property
+that remains in the possession of the seller until the full purchase price is
+paid; and expenses incurred in attempting to collect any debt and repossessed
+property.
+(ii) Bad debts may be deducted on the return for the period during which
+the bad debt is written off as uncollectible in the claimant's books and
+records and is eligible to be deducted for federal income tax purposes. A
+claimant who is not required to file federal income tax returns may deduct a
+bad debt on a return filed for the period in which the bad debt is written off
+as uncollectible in the claimant's books and records and would be eligible for
+a bad debt deduction for federal income tax purposes if the claimant was
+required to file a federal income tax return.
+(iii) If a deduction is taken for a bad debt and the debt is subsequently
+collected in whole or in part, the tax on the amount so collected must be paid
+and reported on the return filed for the period in which the collection is
+made.
+(iv) When the amount of bad debt exceeds the amount of taxable sales for
+the period during which the bad debt is written off, a refund claim may be
+filed within the otherwise applicable statute of limitations for refund claims.
+The statute of limitations shall be measured from the due date of the return on
+which the bad debt could first be claimed.
+(v) If filing responsibilities have been assumed by a certified service
+provider, the service provider may claim, on behalf of the retailer, any bad
+debt allowance provided by this section. The certified service provider shall
+credit or refund the full amount of any bad debt allowance or refund received
+to the retailer.
+(vi) For purposes of reporting a payment received on a previously claimed
+bad debt, any payments made on a debt or account are applied first
+proportionally to the taxable price of the property or service and the sales
+tax thereon, and secondly to interest, service charges, and any other charges.
+(vii) In situations in which the books and records of the party claiming
+the bad debt allowance support an allocation of the bad debts among the member
+states in the streamlined sales and use tax agreement, the state shall permit
+the allocation.
+(3) Beginning July 1, 2020, if a refund claim under this section involves
+a refund of a tax imposed under the Local Option Revenue Act or section 13-319,
+13-2813, or 77-6403 and the amount of such tax to be refunded is at least five
+thousand dollars, the Tax Commissioner shall notify the affected city, village,
+county, or municipal county of such claim within twenty days after receiving
+the claim. If the Tax Commissioner allows the claim and the refund of such tax
+is at least five thousand dollars, the Tax Commissioner shall notify the
+affected city, village, county, or municipal county of such refund and shall
+give the city, village, county, or municipal county the option of having such
+refund deducted from its tax proceeds in one lump sum or in twelve equal
+monthly installments. The city, village, county, or municipal county shall make
+its selection and shall certify the selection to the Tax Commissioner within
+twenty days after receiving notice of the refund. The Tax Commissioner shall
+then deduct such refund from the applicable tax proceeds in accordance with the
+selection when he or she deducts refunds pursuant to section 13-324, 13-2814,
+-3-
+LB208 LB208
+2025 2025
+or 77-6403 or subsection (1) of section 77-27,144, whichever is applicable.
+This subsection shall not apply to any refund that is subject to subdivision
+(2)(a) or (2)(b)(ii) or subsection (3) or (4) of section 77-27,144.
+Sec. 2. Section 77-2711, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-2711 (1)(a) The Tax Commissioner shall enforce sections 77-2701.04 to
+77-2713 and may prescribe, adopt, and enforce rules and regulations relating to
+the administration and enforcement of such sections.
+(b) The Tax Commissioner may prescribe the extent to which any ruling or
+regulation shall be applied without retroactive effect.
+(2) The Tax Commissioner may employ accountants, auditors, investigators,
+assistants, and clerks necessary for the efficient administration of the
+Nebraska Revenue Act of 1967 and may delegate authority to his or her
+representatives to conduct hearings, prescribe regulations, or perform any
+other duties imposed by such act.
+(3)(a) Every seller, every retailer, and every person storing, using, or
+otherwise consuming in this state property purchased from a retailer shall keep
+such records, receipts, invoices, and other pertinent papers in such form as
+the Tax Commissioner may reasonably require.
+(b) Every such seller, retailer, or person shall keep such records for not
+less than three years from the making of such records unless the Tax
+Commissioner in writing sooner authorized their destruction.
+(4) The Tax Commissioner or any person authorized in writing by him or her
+may examine the books, papers, records, and equipment of any person selling
+property and any person liable for the use tax and may investigate the
+character of the business of the person in order to verify the accuracy of any
+return made or, if no return is made by the person, to ascertain and determine
+the amount required to be paid. In the examination of any person selling
+property or of any person liable for the use tax, an inquiry shall be made as
+to the accuracy of the reporting of city and county sales and use taxes for
+which the person is liable under the Local Option Revenue Act or sections
+13-319, 13-324, 13-2813, and 77-6403 and the accuracy of the allocation made
+between the various counties, cities, villages, and municipal counties of the
+tax due. The Tax Commissioner may make or cause to be made copies of resale or
+exemption certificates and may pay a reasonable amount to the person having
+custody of the records for providing such copies.
+(5) The taxpayer shall have the right to keep or store his or her records
+at a point outside this state and shall make his or her records available to
+the Tax Commissioner at all times.
+(6) In administration of the use tax, the Tax Commissioner may require the
+filing of reports by any person or class of persons having in his, her, or
+their possession or custody information relating to sales of property, the
+storage, use, or other consumption of which is subject to the tax. The report
+shall be filed when the Tax Commissioner requires and shall set forth the names
+and addresses of purchasers of the property, the sales price of the property,
+the date of sale, and such other information as the Tax Commissioner may
+require.
+(7) It shall be a Class I misdemeanor for the Tax Commissioner, or any
+official or employee of the Tax Commissioner, the State Treasurer, or the
+Department of Administrative Services, or any other person to make known in any
+manner whatever the business affairs, operations, or information obtained by an
+investigation of records and activities of any retailer or any other person
+visited or examined in the discharge of official duty or the amount or source
+of income, profits, losses, expenditures, or any particular thereof, set forth
+or disclosed in any return, or to permit any return or copy thereof, or any
+book containing any abstract or particulars thereof to be seen or examined by
+any person not connected with the Tax Commissioner. Nothing in this section
+shall be construed to prohibit (a) the delivery to a taxpayer, his or her duly
+authorized representative, or his or her successors, receivers, trustees,
+executors, administrators, assignees, or guarantors, if directly interested, of
+a certified copy of any return or report in connection with his or her tax, (b)
+the publication of statistics so classified as to prevent the identification of
+particular reports or returns and the items thereof, (c) the inspection by the
+Attorney General, other legal representative of the state, or county attorney
+of the reports or returns of any taxpayer when either (i) information on the
+reports or returns is considered by the Attorney General to be relevant to any
+action or proceeding instituted by the taxpayer or against whom an action or
+proceeding is being considered or has been commenced by any state agency or the
+county or (ii) the taxpayer has instituted an action to review the tax based
+thereon or an action or proceeding against the taxpayer for collection of tax
+or failure to comply with the Nebraska Revenue Act of 1967 is being considered
+or has been commenced, (d) the furnishing of any information to the United
+States Government or to states allowing similar privileges to the Tax
+Commissioner, (e) the disclosure of information and records to a collection
+agency contracting with the Tax Commissioner pursuant to sections 77-377.01 to
+77-377.04, (f) the disclosure to another party to a transaction of information
+and records concerning the transaction between the taxpayer and the other
+party, (g) the disclosure of information pursuant to section 77-27,195,
+77-5731, 77-6837, 77-6839, or 77-6928, or (h) the disclosure of information to
+the Department of Labor necessary for the administration of the Employment
+Security Law, the Contractor Registration Act, or the Employee Classification
+Act.
+(8) Notwithstanding the provisions of subsection (7) of this section, the
+-4-
+LB208 LB208
+2025 2025
+Tax Commissioner may permit the Postal Inspector of the United States Postal
+Service or his or her delegates to inspect the reports or returns of any person
+filed pursuant to the Nebraska Revenue Act of 1967 when information on the
+reports or returns is relevant to any action or proceeding instituted or being
+considered by the United States Postal Service against such person for the
+fraudulent use of the mails to carry and deliver false and fraudulent tax
+returns to the Tax Commissioner with the intent to defraud the State of
+Nebraska or to evade the payment of Nebraska state taxes.
+(9) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may permit other tax officials of this state to inspect the
+tax returns, reports, and applications filed under sections 77-2701.04 to
+77-2713, but such inspection shall be permitted only for purposes of enforcing
+a tax law and only to the extent and under the conditions prescribed by the
+rules and regulations of the Tax Commissioner.
+(10) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may, upon request, provide the county board of any county
+which has exercised the authority granted by section 81-3716 with a list of the
+names and addresses of the hotels located within the county for which lodging
+sales tax returns have been filed or for which lodging sales taxes have been
+remitted for the county's County Visitors Promotion Fund under the Nebraska
+Visitors Development Act.
+The information provided by the Tax Commissioner shall indicate only the
+names and addresses of the hotels located within the requesting county for
+which lodging sales tax returns have been filed for a specified period and the
+fact that lodging sales taxes remitted by or on behalf of the hotel have
+constituted a portion of the total sum remitted by the state to the county for
+a specified period under the provisions of the Nebraska Visitors Development
+Act. No additional information shall be revealed.
+(11)(a) Notwithstanding the provisions of subsection (7) of this section,
+the Tax Commissioner shall, upon written request by the Auditor of Public
+Accounts or the office of Legislative Audit, make tax returns and tax return
+information open to inspection by or disclosure to the Auditor of Public
+Accounts or employees of the office of Legislative Audit for the purpose of and
+to the extent necessary in making an audit of the Department of Revenue
+pursuant to section 50-1205 or 84-304. Confidential tax returns and tax return
+information shall be audited only upon the premises of the Department of
+Revenue. All audit work papers pertaining to the audit of the Department of
+Revenue shall be stored in a secure place in the Department of Revenue.
+(b) No employee of the Auditor of Public Accounts or the office of
+Legislative Audit shall disclose to any person, other than another Auditor of
+Public Accounts or office employee whose official duties require such
+disclosure, any return or return information described in the Nebraska Revenue
+Act of 1967 in a form which can be associated with or otherwise identify,
+directly or indirectly, a particular taxpayer.
+(c) Any person who violates the provisions of this subsection shall be
+guilty of a Class I misdemeanor. For purposes of this subsection, employee
+includes a former Auditor of Public Accounts or office of Legislative Audit
+employee.
+(12) For purposes of this subsection and subsections (11) and (14) of this
+
+Section 4:
+section:
+(a) Disclosure means the making known to any person in any manner a tax
+return or return information;
+(b) Return information means:
+(i) A taxpayer's identification number and (A) the nature, source, or
+amount of his or her income, payments, receipts, deductions, exemptions,
+credits, assets, liabilities, net worth, tax liability, tax withheld,
+deficiencies, over assessments, or tax payments, whether the taxpayer's return
+was, is being, or will be examined or subject to other investigation or
+processing or (B) any other data received by, recorded by, prepared by,
+furnished to, or collected by the Tax Commissioner with respect to a return or
+the determination of the existence or possible existence of liability or the
+amount of liability of any person for any tax, penalty, interest, fine,
+forfeiture, or other imposition or offense; and
+(ii) Any part of any written determination or any background file document
+relating to such written determination; and
+(c) Tax return or return means any tax or information return or claim for
+refund required by, provided for, or permitted under sections 77-2701 to
+77-2713 which is filed with the Tax Commissioner by, on behalf of, or with
+respect to any person and any amendment or supplement thereto, including
+supporting schedules, attachments, or lists which are supplemental to or part
+of the filed return.
+(13) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner shall, upon request, provide any municipality which has
+adopted the local option sales tax under the Local Option Revenue Act with a
+list of the names and addresses of the retailers which have collected the local
+option sales tax for the municipality. The request may be made annually and
+shall be submitted to the Tax Commissioner on or before June 30 of each year.
+The information provided by the Tax Commissioner shall indicate only the names
+and addresses of the retailers. The Tax Commissioner may provide additional
+information to a municipality so long as the information does not include any
+data detailing the specific revenue, expenses, or operations of any particular
+business.
+(14)(a) Notwithstanding the provisions of subsection (7) of this section,
+-5-
+LB208 LB208
+2025 2025
+the Tax Commissioner shall, upon written request, provide an individual
+certified under subdivision (b) of this subsection representing a municipality
+which has adopted the local option sales and use tax under the Local Option
+Revenue Act with confidential sales and use tax returns and sales and use tax
+return information regarding taxpayers that possess a sales tax permit and the
+amounts remitted by such permitholders at locations within the boundaries of
+the requesting municipality or with confidential business use tax returns and
+business use tax return information regarding taxpayers that file a Nebraska
+and Local Business Use Tax Return and the amounts remitted by such taxpayers at
+locations within the boundaries of the requesting municipality. Any written
+request pursuant to this subsection shall provide the Department of Revenue
+with no less than ten business days to prepare the sales and use tax returns
+and sales and use tax return information requested. The individual certified
+under subdivision (b) of this subsection shall review such returns and return
+information only upon the premises of the department, except that such
+limitation shall not apply if the certifying municipality has an agreement in
+effect under the Nebraska Advantage Transformational Tourism and Redevelopment
+Act. In such case, the individual certified under subdivision (b) of this
+subsection may request that copies of such returns and return information be
+sent to him or her by electronic transmission, secured in a manner as
+determined by the Tax Commissioner.
+(b) Each municipality that seeks to request information under subdivision
+(a) of this subsection shall certify to the Department of Revenue one
+individual who is authorized by such municipality to make such request and
+review the documents described in subdivision (a) of this subsection. The
+individual may be a municipal employee or an individual who contracts with the
+requesting municipality to provide financial, accounting, or other
+administrative services.
+(c) No individual certified by a municipality pursuant to subdivision (b)
+of this subsection shall disclose to any person any information obtained
+pursuant to a review under this subsection. An individual certified by a
+municipality pursuant to subdivision (b) of this subsection shall remain
+subject to this subsection after he or she (i) is no longer certified or (ii)
+is no longer in the employment of or under contract with the certifying
+municipality.
+(d) Any person who violates the provisions of this subsection shall be
+guilty of a Class I misdemeanor.
+(e) The Department of Revenue shall not be held liable by any person for
+an impermissible disclosure by a municipality or any agent or employee thereof
+of any information obtained pursuant to a review under this subsection.
+(15) In all proceedings under the Nebraska Revenue Act of 1967, the Tax
+Commissioner may act for and on behalf of the people of the State of Nebraska.
+The Tax Commissioner in his or her discretion may waive all or part of any
+penalties provided by the provisions of such act or interest on delinquent
+taxes specified in section 45-104.02, as such rate may from time to time be
+adjusted.
+(16)(a) The purpose of this subsection is to set forth the state's policy
+for the protection of the confidentiality rights of all participants in the
+system operated pursuant to the streamlined sales and use tax agreement and of
+the privacy interests of consumers who deal with model 1 sellers.
+(b) For purposes of this subsection:
+(i) Anonymous data means information that does not identify a person;
+(ii) Confidential taxpayer information means all information that is
+protected under a member state's laws, regulations, and privileges; and
+(iii) Personally identifiable information means information that
+identifies a person.
+(c) The state agrees that a fundamental precept for model 1 sellers is to
+preserve the privacy of consumers by protecting their anonymity. With very
+limited exceptions, a certified service provider shall perform its tax
+calculation, remittance, and reporting functions without retaining the
+personally identifiable information of consumers.
+(d) The governing board of the member states in the streamlined sales and
+use tax agreement may certify a certified service provider only if that
+certified service provider certifies that:
+(i) Its system has been designed and tested to ensure that the fundamental
+precept of anonymity is respected;
+(ii) Personally identifiable information is only used and retained to the
+extent necessary for the administration of model 1 with respect to exempt
+purchasers;
+(iii) It provides consumers clear and conspicuous notice of its
+information practices, including what information it collects, how it collects
+the information, how it uses the information, how long, if at all, it retains
+the information, and whether it discloses the information to member states.
+Such notice shall be satisfied by a written privacy policy statement accessible
+by the public on the website of the certified service provider;
+(iv) Its collection, use, and retention of personally identifiable
+information is limited to that required by the member states to ensure the
+validity of exemptions from taxation that are claimed by reason of a consumer's
+status or the intended use of the goods or services purchased; and
+(v) It provides adequate technical, physical, and administrative
+safeguards so as to protect personally identifiable information from
+unauthorized access and disclosure.
+(e) The state shall provide public notification to consumers, including
+-6-
+LB208 LB208
+2025 2025
+exempt purchasers, of the state's practices relating to the collection, use,
+and retention of personally identifiable information.
+(f) When any personally identifiable information that has been collected
+and retained is no longer required for the purposes set forth in subdivision
+(16)(d)(iv) of this section, such information shall no longer be retained by
+the member states.
+(g) When personally identifiable information regarding an individual is
+retained by or on behalf of the state, it shall provide reasonable access by
+such individual to his or her own information in the state's possession and a
+right to correct any inaccurately recorded information.
+(h) If anyone other than a member state, or a person authorized by that
+state's law or the agreement, seeks to discover personally identifiable
+information, the state from whom the information is sought should make a
+reasonable and timely effort to notify the individual of such request.
+(i) This privacy policy is subject to enforcement by the Attorney General.
+(j) All other laws and regulations regarding the collection, use, and
+maintenance of confidential taxpayer information remain fully applicable and
+binding. Without limitation, this subsection does not enlarge or limit the
+state's authority to:
+(i) Conduct audits or other reviews as provided under the agreement and
+state law;
+(ii) Provide records pursuant to the federal Freedom of Information Act,
+disclosure laws with governmental agencies, or other regulations;
+(iii) Prevent, consistent with state law, disclosure of confidential
+taxpayer information;
+(iv) Prevent, consistent with federal law, disclosure or misuse of federal
+return information obtained under a disclosure agreement with the Internal
+Revenue Service; and
+(v) Collect, disclose, disseminate, or otherwise use anonymous data for
+governmental purposes.
+Sec. 3. Section 77-2712.03, Reissue Revised Statutes of Nebraska, is
+amended to read:
+77-2712.03 (1) The streamlined sales and use tax agreement, as adopted by
+the streamlined sales tax implementing states on November 12, 2002, including
+amendments through December 31, 2024 2015, is hereby ratified by the
+Legislature. The Governor shall enter into the agreement with one or more
+states to simplify and modernize sales and use tax administration in order to
+substantially reduce the burden of tax compliance for all sellers and for all
+types of commerce. In furtherance of the agreement, the Department of Revenue
+is authorized to act jointly with other states that are members under Articles
+VII or VIII of the agreement to establish standards for certification of a
+certified service provider and certified automated system and establish
+performance standards for multistate sellers. The department is further
+authorized to take other actions permissible under law reasonably required to
+implement the provisions set forth in the agreement. Other actions authorized
+by this section include, but are not limited to, the adoption and promulgation
+of rules and regulations and the joint procurement, with other member states,
+of goods and services in furtherance of the agreement.
+(2) The Tax Commissioner or his or her designee and two representatives of
+the Legislature appointed by the Executive Board of the Legislative Council are
+authorized to represent Nebraska before the other member states under the
+agreement. The state also agrees to participate in and comply with the
+procedures of and decisions made by the governing board of the member states.
+These provisions of the agreement include the creation of the organization as
+provided in Article VII of the agreement, the requirements for state entry and
+withdrawal as provided in Article VIII of the agreement, amendments to the
+agreement as provided in Article IX of the agreement, and a dispute resolution
+process as provided in Article X of the agreement.
+Sec. 4. Section 77-2715.07, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+77-2715.07 (1) There shall be allowed to qualified resident individuals as
+a nonrefundable credit against the income tax imposed by the Nebraska Revenue
+Act of 1967:
+(a) A credit equal to the federal credit allowed under section 22 of the
+Internal Revenue Code; and
+(b) A credit for taxes paid to another state as provided in section
+77-2730.
+(2) There shall be allowed to qualified resident individuals against the
+income tax imposed by the Nebraska Revenue Act of 1967:
+(a) For returns filed reporting federal adjusted gross incomes of greater
+than twenty-nine thousand dollars, a nonrefundable credit equal to twenty-five
+percent of the federal credit allowed under section 21 of the Internal Revenue
+Code of 1986, as amended, except that for taxable years beginning or deemed to
+begin on or after January 1, 2015, such nonrefundable credit shall be allowed
+only if the individual would have received the federal credit allowed under
+
+Section 5:
+section 21 of the code after adding back in any carryforward of a net operating
+loss that was deducted pursuant to such section in determining eligibility for
+the federal credit;
+(b) For returns filed reporting federal adjusted gross income of twenty-
+nine thousand dollars or less, a refundable credit equal to a percentage of the
+federal credit allowable under section 21 of the Internal Revenue Code of 1986,
+as amended, whether or not the federal credit was limited by the federal tax
+liability. The percentage of the federal credit shall be one hundred percent
+-7-
+LB208 LB208
+2025 2025
+for incomes not greater than twenty-two thousand dollars, and the percentage
+shall be reduced by ten percent for each one thousand dollars, or fraction
+thereof, by which the reported federal adjusted gross income exceeds twenty-two
+thousand dollars, except that for taxable years beginning or deemed to begin on
+or after January 1, 2015, such refundable credit shall be allowed only if the
+individual would have received the federal credit allowed under section 21 of
+the code after adding back in any carryforward of a net operating loss that was
+deducted pursuant to such section in determining eligibility for the federal
+credit;
+(c) A refundable credit as provided in section 77-5209.01 for individuals
+who qualify for an income tax credit as a qualified beginning farmer or
+livestock producer under the Beginning Farmer Tax Credit Act for all taxable
+years beginning or deemed to begin on or after January 1, 2006, under the
+Internal Revenue Code of 1986, as amended;
+(d) A refundable credit for individuals who qualify for an income tax
+credit under the Angel Investment Tax Credit Act, the Nebraska Advantage
+Microenterprise Tax Credit Act, the Nebraska Advantage Research and Development
+Act, the Reverse Osmosis System Tax Credit Act, or the Volunteer Emergency
+Responders Incentive Act; and
+(e) A refundable credit equal to ten percent of the federal credit allowed
+under section 32 of the Internal Revenue Code of 1986, as amended, except that
+for taxable years beginning or deemed to begin on or after January 1, 2015,
+such refundable credit shall be allowed only if the individual would have
+received the federal credit allowed under section 32 of the code after adding
+back in any carryforward of a net operating loss that was deducted pursuant to
+such section in determining eligibility for the federal credit; and .
+(f) A refundable credit as provided in section 77-7203 for individuals who
+qualify for an income tax credit under the Child Care Tax Credit Act for all
+taxable years beginning or deemed to begin on or after January 1, 2024, under
+the Internal Revenue Code of 1986, as amended.
+(3) There shall be allowed to all individuals as a nonrefundable credit
+against the income tax imposed by the Nebraska Revenue Act of 1967:
+(a) A credit for personal exemptions allowed under section 77-2716.01;
+(b) A credit for contributions to programs or projects certified for tax
+credit status as provided in the Creating High Impact Economic Futures Act.
+Each partner, each shareholder of an electing subchapter S corporation, each
+beneficiary of an estate or trust, or each member of a limited liability
+company shall report his or her share of the credit in the same manner and
+proportion as he or she reports the partnership, subchapter S corporation,
+estate, trust, or limited liability company income;
+(c) A credit for investment in a biodiesel facility as provided in section
+77-27,236;
+(d) A credit as provided in the New Markets Job Growth Investment Act;
+(e) A credit as provided in the Nebraska Job Creation and Mainstreet
+Revitalization Act;
+(f) A credit to employers as provided in sections 77-27,238 and 77-27,240;
+(g) A credit as provided in the Affordable Housing Tax Credit Act;
+(h) A credit to grocery store retailers, restaurants, and agricultural
+producers as provided in section 77-27,241;
+(i) A credit as provided in the Sustainable Aviation Fuel Tax Credit Act;
+(j) A credit as provided in the Nebraska Shortline Rail Modernization Act;
+(k) A credit as provided in the Nebraska Pregnancy Help Act; and
+(l) A credit as provided in the Caregiver Tax Credit Act.
+(4) There shall be allowed as a credit against the income tax imposed by
+the Nebraska Revenue Act of 1967:
+(a) A credit to all resident estates and trusts for taxes paid to another
+state as provided in section 77-2730;
+(b) A credit to all estates and trusts for contributions to programs or
+projects certified for tax credit status as provided in the Creating High
+Impact Economic Futures Act; and
+(c) A refundable credit for individuals who qualify for an income tax
+credit as an owner of agricultural assets under the Beginning Farmer Tax Credit
+Act for all taxable years beginning or deemed to begin on or after January 1,
+2009, under the Internal Revenue Code of 1986, as amended. The credit allowed
+for each partner, shareholder, member, or beneficiary of a partnership,
+corporation, limited liability company, or estate or trust qualifying for an
+income tax credit as an owner of agricultural assets under the Beginning Farmer
+Tax Credit Act shall be equal to the partner's, shareholder's, member's, or
+beneficiary's portion of the amount of tax credit distributed pursuant to
+subsection (6) of section 77-5211.
+(5)(a) For all taxable years beginning on or after January 1, 2007, and
+before January 1, 2009, under the Internal Revenue Code of 1986, as amended,
+there shall be allowed to each partner, shareholder, member, or beneficiary of
+a partnership, subchapter S corporation, limited liability company, or estate
+or trust a nonrefundable credit against the income tax imposed by the Nebraska
+Revenue Act of 1967 equal to fifty percent of the partner's, shareholder's,
+member's, or beneficiary's portion of the amount of franchise tax paid to the
+state under sections 77-3801 to 77-3807 by a financial institution.
+(b) For all taxable years beginning on or after January 1, 2009, under the
+Internal Revenue Code of 1986, as amended, there shall be allowed to each
+partner, shareholder, member, or beneficiary of a partnership, subchapter S
+corporation, limited liability company, or estate or trust a nonrefundable
+credit against the income tax imposed by the Nebraska Revenue Act of 1967 equal
+-8-
+LB208 LB208
+2025 2025
+to the partner's, shareholder's, member's, or beneficiary's portion of the
+amount of franchise tax paid to the state under sections 77-3801 to 77-3807 by
+a financial institution.
+(c) Each partner, shareholder, member, or beneficiary shall report his or
+her share of the credit in the same manner and proportion as he or she reports
+the partnership, subchapter S corporation, limited liability company, or estate
+or trust income. If any partner, shareholder, member, or beneficiary cannot
+fully utilize the credit for that year, the credit may not be carried forward
+or back.
+(6) There shall be allowed to all individuals nonrefundable credits
+against the income tax imposed by the Nebraska Revenue Act of 1967 as provided
+in section 77-3604 and refundable credits against the income tax imposed by the
+Nebraska Revenue Act of 1967 as provided in section 77-3605.
+(7)(a) For taxable years beginning or deemed to begin on or after January
+1, 2020, and before January 1, 2026, under the Internal Revenue Code of 1986,
+as amended, a nonrefundable credit against the income tax imposed by the
+Nebraska Revenue Act of 1967 in the amount of five thousand dollars shall be
+allowed to any individual who purchases a residence during the taxable year if
+such residence:
+(i) Is located within an area that has been declared an extremely blighted
+area under section 18-2101.02;
+(ii) Is the individual's primary residence; and
+(iii) Was not purchased from a family member of the individual or a family
+member of the individual's spouse.
+(b) The credit provided in this subsection shall be claimed for the
+taxable year in which the residence is purchased. If the individual cannot
+fully utilize the credit for such year, the credit may be carried forward to
+subsequent taxable years until fully utilized.
+(c) No more than one credit may be claimed under this subsection with
+respect to a single residence.
+(d) The credit provided in this subsection shall be subject to recapture
+by the Department of Revenue if the individual claiming the credit sells or
+otherwise transfers the residence or quits using the residence as his or her
+primary residence within five years after the end of the taxable year in which
+the credit was claimed.
+(e) For purposes of this subsection, family member means an individual's
+spouse, child, parent, brother, sister, grandchild, or grandparent, whether by
+blood, marriage, or adoption.
+(8) There shall be allowed to all individuals refundable credits against
+the income tax imposed by the Nebraska Revenue Act of 1967 as provided in the
+Cast and Crew Nebraska Act, the Nebraska Biodiesel Tax Credit Act, the Nebraska
+Higher Blend Tax Credit Act, the Nebraska Property Tax Incentive Act, the
+Relocation Incentive Act, and the Renewable Chemical Production Tax Credit Act.
+(9)(a) For taxable years beginning or deemed to begin on or after January
+1, 2022, under the Internal Revenue Code of 1986, as amended, a refundable
+credit against the income tax imposed by the Nebraska Revenue Act of 1967 shall
+be allowed to the parent of a stillborn child if:
+(i) A fetal death certificate is filed pursuant to subsection (1) of
+
+Section 6:
+section 71-606 for such child;
+(ii) Such child had advanced to at least the twentieth week of gestation;
+and
+(iii) Such child would have been a dependent of the individual claiming
+the credit.
+(b) The amount of the credit shall be two thousand dollars.
+(c) The credit shall be allowed for the taxable year in which the
+stillbirth occurred.
+(10) There shall be allowed to all individuals refundable credits against
+the income tax imposed by the Nebraska Revenue Act of 1967 as provided in
+
+Section 7:
+section 77-7203 and nonrefundable credits against the income tax imposed by the
+Nebraska Revenue Act of 1967 as provided in section 77-7204.
+(11) There shall be allowed to all individuals refundable credits against
+the income tax imposed by the Nebraska Revenue Act of 1967 as provided in
+
+Section 8:
+section 77-3157 and nonrefundable credits against the income tax imposed by the
+Nebraska Revenue Act of 1967 as provided in sections 77-3156, 77-3158, and
+77-3159.
+Sec. 5. Section 77-27,143, Reissue Revised Statutes of Nebraska, is
+amended to read:
+77-27,143 (1) The administration of all sales and use taxes adopted under
+the Local Option Revenue Act shall be by the Tax Commissioner who may prescribe
+forms and adopt and promulgate reasonable rules and regulations in conformity
+with the act for the making of returns and for the ascertainment, assessment,
+and collection of taxes imposed under such act. The incorporated municipality
+shall furnish a certified copy of the adopting or repealing ordinance to the
+Tax Commissioner in accordance with such rules and regulations as he or she may
+adopt and promulgate. For ordinances passed after October 1, 1969, the
+effective date shall be the first day of the next calendar quarter which is at
+least one hundred twenty days following receipt by the Tax Commissioner of the
+certified copy of the ordinance. The Tax Commissioner shall provide at least
+sixty days' notice of the change in tax to retailers. Notice shall be provided
+to retailers within the municipality. Notice to retailers may be provided
+through the website of the Department of Revenue or by other electronic means.
+(2) For ordinances containing a termination date and passed after October
+1, 1986, the termination date shall be the first day of a calendar quarter. The
+-9-
+LB208 LB208
+2025 2025
+incorporated municipality shall furnish a certified statement to the Tax
+Commissioner no more than one hundred eighty days and at least one hundred
+twenty days prior to the termination date that the termination date stated in
+the ordinance is still valid. If the certified statement is not furnished
+within the prescribed time, the tax shall remain in effect, and the Tax
+Commissioner shall continue to collect the tax until the first day of the
+calendar quarter which is at least one hundred twenty days after receipt of the
+certified statement notwithstanding the termination date stated in the
+ordinance. The Tax Commissioner shall provide at least sixty days' notice of
+the termination of the tax to retailers. Notice shall be provided to retailers
+within the municipality. Notice to retailers may be provided through the
+website of the department or by other electronic means.
+(3) For sales and use tax purposes only, local jurisdiction boundary
+changes apply only on the first day of a calendar quarter after a minimum of
+one hundred twenty days' notice to the Tax Commissioner and sixty days' notice
+to sellers.
+(4) The state shall provide and maintain a database that describes
+boundary changes for all local taxing jurisdictions. This database shall
+include a description of any change and the effective date of the change for
+sales and use tax purposes.
+(5) The state shall provide and maintain a database of all sales and use
+tax rates for all of the local jurisdictions levying taxes within the state.
+For the identification of counties, cities, and villages, codes corresponding
+to the rates shall be provided according to Federal Information Processing
+Standards as developed by the National Institute of Standards and Technology.
+(6) The state shall provide and maintain a database that assigns each
+five-digit and nine-digit zip code within the state to the proper tax rates and
+jurisdictions. For purposes of the streamlined sales and use tax agreement, the
+database shall apply the lowest combined tax rate imposed in the nine-digit zip
+code area if the area includes more than one tax rate in any level of taxing
+jurisdictions, and the database shall apply the highest combined tax rate
+imposed in the five-digit zip code area if the area includes more than one tax
+rate in any level of taxing jurisdictions. If a nine-digit zip code designation
+is not available for a street address or if a seller is unable to determine the
+nine-digit zip code designation applicable to a purchase after exercising due
+diligence to determine the designation, the seller or certified service
+provider may apply the rate for the five-digit zip code area. For purposes of
+this section, there is a rebuttable presumption that a seller or certified
+service provider has exercised due diligence if the seller has attempted to
+determine the nine-digit zip code designation by utilizing software approved by
+the governing board that makes this designation from the street address and the
+five-digit zip code applicable to a purchase.
+(7) For purposes of the streamlined sales and use tax agreement, the state
+may provide address-based boundary database records for assigning taxing
+jurisdictions and their associated rates which shall be in addition to the
+requirements of subsection (6) of this section. The database records shall be
+in the same approved format as the database records pursuant to subsection (6)
+of this section and shall meet the requirements developed pursuant to the
+federal Mobile Telecommunications Sourcing Act, 4 U.S.C. 119(a), as such act
+existed on January 1, 2003. The governing board may allow a member state to
+require sellers that register under the agreement to use an address-based
+boundary database provided by that member state. If any member state develops
+an address-based boundary database pursuant to the agreement, a seller or
+certified service provider may use those database records in place of the five-
+digit and nine-digit zip code database records provided for in subsection (6)
+of this section. If a seller or certified service provider is unable to
+determine the applicable rate and jurisdiction using an address-based boundary
+database after exercising due diligence, the seller or certified service
+provider may apply the nine-digit zip code designation applicable to a
+purchase. If a nine-digit zip code designation is not available for a street
+address or if a seller or certified service provider is unable to determine the
+nine-digit zip code designation applicable to a purchase after exercising due
+diligence to determine the designation, the seller or certified service
+provider may apply the rate for the five-digit zip code area. For the purposes
+of this section, there is a rebuttable presumption that a seller or certified
+service provider has exercised due diligence if the seller or certified service
+provider has attempted to determine the tax rate and jurisdiction by utilizing
+software approved by the governing board that makes this assignment from the
+address and zip code information applicable to the purchase.
+(8) The state may certify vendor-provided address-based boundary databases
+for assigning tax rates and jurisdictions. The databases shall be in the same
+approved format as the database records pursuant to subsection (7) of this
+
+Section 9:
+section and shall meet the requirements developed pursuant to the federal
+Mobile Telecommunications Sourcing Act, 4 U.S.C. 119(a) as such act existed on
+January 1, 2003. If a state certifies a vendor-provided address-based boundary
+database, a seller or certified service provider may use that database in place
+of the database provided for in subsection (6) or (7) of this section. Vendors
+providing address-based boundary databases may request certification of their
+databases from the governing board. Certification by the governing board does
+not replace the requirement that the databases be certified by the states
+individually.
+(9) Pursuant to the streamlined sales and use tax agreement, the state
+shall relieve retailers and certified service providers using databases
+-10-
+LB208 LB208
+2025 2025
+pursuant to subsection (6) or (7) of this section from liability to the state
+and local jurisdictions for having charged and collected the incorrect amount
+of sales or use tax resulting from the retailer or certified service provider
+relying on erroneous data provided by a member state on tax rates, boundaries,
+or taxing jurisdiction assignments. After providing adequate notice determined
+by the governing board, a member state that provides an address-based boundary
+database for assigning taxing jurisdictions pursuant to subsection (7) or (8)
+of this section may cease providing liability relief for errors resulting from
+the reliance on the database provided by the member state under the provisions
+of subsection (6) of this section. If a seller demonstrates that requiring the
+use of the address-based boundary database would create an undue hardship, the
+state and the governing board may extend the relief of liability to such seller
+for a designated period of time.
+(10) The databases provided for in this section shall be in a downloadable
+format approved by the governing board pursuant to the streamlined sales and
+use tax agreement. The databases may be directly provided by the state or
+provided by a vendor as designated by the state. A database provided by a
+vendor as designated by a state shall be applicable to and subject to all
+provisions of this section. The databases shall be provided at no cost to the
+user of the database. The provisions of subsections (6) and (7) of this section
+do not apply when the purchased product is received by the purchaser at the
+business location of the seller.
+(11) A seller that did not have a requirement to register in this state
+prior to registering pursuant to the agreement or a certified service provider
+shall not be required to collect sales or use taxes for a state until the first
+day of the calendar quarter commencing more than sixty days after the state has
+provided the databases required by this section.
+Sec. 6. Section 77-27,241, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+77-27,241 (1) For purposes of this section:
+(a) Agricultural producer means an individual or entity whose income is
+primarily attributable to crop or livestock production in the State of
+Nebraska;
+(b) Department means the Department of Revenue;
+(c) Food bank means an organization in this state that:
+(i) Is exempt from federal income taxation under section 501(c)(3) of the
+Internal Revenue Code of 1986, as amended; and
+(ii) Distributes food in ten or more counties in Nebraska and qualifies
+for the Emergency Food Assistance Program administered by the United States
+Department of Agriculture;
+(d) Food pantry means an organization in this state that:
+(i) Is exempt from federal income taxation under section 501(c)(3) of the
+Internal Revenue Code of 1986, as amended; and
+(ii) Distributes emergency food supplies to low-income individuals in this
+state who would otherwise not have access to such food supplies;
+(e) Food rescue means an organization in this state that:
+(i) Is exempt from federal income taxation under section 501(c)(3) of the
+Internal Revenue Code of 1986, as amended; and
+(ii) Accepts donations of food and delivers such food to food banks or
+food pantries so that such food may be distributed to low-income individuals in
+this state;
+(f) Grocery store retailer means a retailer located in this state that is
+primarily engaged in business activities classified as code 445110 under the
+North American Industry Classification System;
+(g) Qualifying agricultural food donation means a donation made by an
+agricultural producer to a food bank, food pantry, or food rescue of fresh or
+frozen fruits, vegetables, eggs, dairy products, or meat products grown or
+produced in the State of Nebraska which meets all applicable quality and
+labeling standards, along with any other applicable requirements of the food
+bank, food pantry, or food rescue to which the qualifying agricultural food
+donation is made; and
+(h) Restaurant means a business located in this state that is primarily
+engaged in business activities classified as code 722511, 722513, 722514, or
+722515 under the North American Industry Classification System.
+(2) For taxable years beginning or deemed to begin on or after January 1,
+2025, under the Internal Revenue Code of 1986, as amended, a credit against the
+income tax imposed by the Nebraska Revenue Act of 1967 shall be allowed to:
+(a) Any grocery store retailer or restaurant that donates food to a food
+bank, food pantry, or food rescue during the taxable year; and
+(b) Any agricultural producer that makes a qualifying agricultural food
+donation to a food bank, food pantry, or food rescue during the taxable year.
+(3) Subject to subsection (7) of this section, the credit provided in this
+
+Section 10:
+section shall be a nonrefundable credit in an amount equal to fifty percent of
+the value of the food donations or qualifying agricultural food donations made
+during the taxable year, not to exceed two thousand five hundred dollars. Any
+amount of the credit that the taxpayer is prohibited from claiming in a taxable
+year may be carried forward to any of the three subsequent taxable years.
+(4) For purposes of this section, food donated by a grocery store retailer
+or restaurant shall be valued at its wholesale value. A qualifying agricultural
+food donation shall be valued at the prevailing market value of the product at
+the time of donation, plus the direct cost incurred by the agricultural
+producer for processing the product.
+(5) To receive a credit under this section, a taxpayer shall submit an
+-11-
+LB208 LB208
+2025 2025
+application to the department in a form and manner prescribed by the
+department. The application shall include the amount of food donated during the
+taxable year and any other information required by the department.
+(6) If the department determines that an application is complete and that
+the taxpayer qualifies for credits, the department shall approve the
+application within the limits set forth in this section and shall certify the
+amount of credits approved to the taxpayer.
+(7) The department may approve up to five hundred thousand dollars of
+credits in fiscal year 2025-26 and each fiscal year thereafter. Once credits
+have reached the annual limit for any fiscal year, no additional credits shall
+be allowed for such fiscal year. Credits shall be prorated among the credit
+requests received on the day the annual limit is exceeded. If the amount of
+credits requested by qualified taxpayers in any year exceeds such limit, the
+department shall allocate credits proportionally based on the amounts requested
+so that the limit is not exceeded.
+(8) A taxpayer shall claim the credit by attaching the tax credit
+certification received from the department under subsection (6) of this section
+to the taxpayer's tax return.
+(9) Any amount relating to such food donations or qualifying agricultural
+food donations that was deducted as a charitable contribution on the taxpayer's
+federal income tax return must be added back in the determination of Nebraska
+taxable income before the credit provided in this section may be claimed.
+(10) No credit granted under this section shall be transferred, sold, or
+assigned. No taxpayer shall be eligible to receive a credit under this section
+if such taxpayer employs persons who are not authorized to work in the United
+States under federal law. No taxpayer shall be able to claim more than one
+credit under this section for a single donation.
+(11) A food bank, food pantry, or food rescue may accept or reject any
+food donated under this section for any reason. Any food that is rejected shall
+not qualify for a credit under this section.
+(12) The department may adopt and promulgate rules and regulations to
+carry out this section.
+Sec. 7. Section 77-7012, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-7012 (1) If the department determines that an application is complete
+and that the taxpayer qualifies for tax credits, the department shall approve
+the application within the limits set forth in this section and shall certify
+the amount of tax credits approved to the taxpayer.
+(2) The department may approve up to one million dollars in tax credits in
+fiscal year 2024-25 and up to one million five hundred thousand dollars in tax
+credits in any fiscal year thereafter. Once credits have reached the annual
+limit for any fiscal year, no additional credits shall be allowed for such
+fiscal year. Credits shall be prorated among the credit requests received on
+the day the annual limit is exceeded. If the total amount of tax credits
+requested in any fiscal year exceeds such limit, the department shall allocate
+the tax credits proportionally based upon amounts requested.
+Sec. 8. Section 77-7203, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-7203 (1) For taxable years beginning or deemed to begin on or after
+January 1, 2024, under the Internal Revenue Code of 1986, as amended, a parent
+or legal guardian who is a resident of the State of Nebraska shall be eligible
+to receive a credit against the income tax imposed by the Nebraska Revenue Act
+of 1967 if:
+(a) The parent's or legal guardian's child is enrolled in a child care
+program licensed pursuant to the Child Care Licensing Act;
+(b) The parent's or legal guardian's child receives care from an approved
+license-exempt provider enrolled in the child care subsidy program pursuant to
+
+Section 11:
+sections 68-1202 and 68-1206; or
+(c) The parent's or legal guardian's total household income is less than
+or equal to one hundred percent of the federal poverty level.
+(2) The credit provided in this section shall be a refundable tax credit
+equal to:
+(a) Two thousand dollars per child if the parent's or legal guardian's
+total household income is no more than seventy-five thousand dollars; or
+(b) One thousand dollars per child if the parent's or legal guardian's
+total household income is more than seventy-five thousand dollars but no more
+than one hundred fifty thousand dollars.
+(3) A parent or legal guardian shall not be eligible for a credit under
+this section if the parent's or legal guardian's total household income is more
+than one hundred fifty thousand dollars.
+(4) A parent or legal guardian shall apply for the credit provided in this
+
+Section 12:
+section by submitting an application to the department with the following
+information:
+(a) The number of children for which the parent or legal guardian is
+claiming a credit;
+(b) Documentation of the parent's or legal guardian's total household
+income; and
+(c) Any other documentation required by the department.
+(5) Subject to subsection (6) of this section, if the department
+determines that the parent or legal guardian qualifies for tax credits under
+this section, the department shall approve the application and certify the
+amount of credits approved to the parent or legal guardian.
+(6) The department shall consider applications in the order in which they
+-12-
+LB208 LB208
+2025 2025
+are received and may approve tax credits under this section each year until the
+total amount of credits approved for the year equals fifteen million dollars.
+Sec. 9. Original sections 77-2712.03 and 77-27,143, Reissue Revised
+Statutes of Nebraska, and sections 77-2708, 77-2711, 77-2715.07, 77-27,241,
+77-7012, and 77-7203, Revised Statutes Cumulative Supplement, 2024, are
+repealed.
+-13-
+[DELETED: yv B F A A r t r a t t a s a 7 R R S o N a 7 7 7 7 7 a 7 S C S 2 t c p t s t c f c o s t t c f p a l g t h t d o t m n s e m p u i a t T C d n f t p s d i n i o t i p t o f t l E a r b t s s a u t m a l t t t d a m r s b C s h t d t a a a r f T C m a a p r a r t u t a S r a r m e a m o t l b p e q A l o e y t F p o t s t a r s b f b e e t a c s t r m b f f a l w a s t c o F p o t c o m t s p o p o e o m o e l l F p o t u t  e p w h p p t s u o o T T C m r t r b s b t a a b o a g r a b w r b t N R A o 1 o t s a c m d e m I a t t s o o d o a a r h o s s b8L52]
+[DELETED:  m p o s a I t s d n o  o t n r f d o a s t n p W t r h a o b o t o o r d s b c f a p i a t i o t ( ( o ( o s 7 b a c h o h o h o h t r t p o t f f s a u t f a p b a c s a t c s p i c p t t A r t m s i N u a m i i g r i i r b m c c f a A m m p i r o i o t T s s n a i t m m I t T C d t a s o u t i c o c o h b p a t p t p u t N R A o 1 A b m b t t p b w i w p o h o h s o a w t y f t r f d m a a d b f u s 7 o s m f t d o o w r t s w o t t p e l u t E c s b i w o f p b t T a s s t s a a g u w t T T C s a o d a c w o e d a i h b f A r f a h s8L52]
+[DELETED:  W t d a t m o t n o t T r o t T C d a p i s U t a o a c o r o a s e o N s o p s b m i a c f t o w t p o a f i a d C s b a t t r c o o J 1 2 H t a c p t 2 b d i w o a u i t c b a a i e t b d f f i t p  b d d f f i t p i t c w r o t r f f t p i w t c i p d w t b d i w o a r c m b I f r h b a b a c s d a p m o a d o a a a f a l f t d t T C s n t d f i t p i o l s o i t e8L52]
+[DELETED:  7 o s ( o s 7 w i a a c n f t e a o t R A o 1 a m d a t h o h t c h p r o p a t t y f t m o s r u t T e t b p r a e o a p s a a p l f t u t a m i t a r t b p I t e o a p s t p i l u t L O R A o s c a m p a r a t t p h o r b a p o c o p h i h h o p o c i r t s o p t d o s a s o i a t T C m I s b a C I m f t T C o a o e o t T C t S T o t o r a a o a r o a o p p n c w t T C N i t s r o h o h s r t h b c ( t f o a i t t U G o t s a s p t t T ( t d o i a r t a c r c t t b t t a t o ( t d o i p t s 7 D o L n f t a o t E8L52]
+[DELETED:  p t t N R A o 1 w i o t b t U S P S a s p f t u o t m t c a d f a f t t t T C w t i t d t S o r r a a f u s 7 t C m u r p t c b o a c f t c C V P F u t N a a o t h l w t r c f t l s t r b o o b o t h h T C s u w r b t A o P o t i b o d t t A o P t e n i m a a o t D o R s b a o u t p o t D o A a w p p t t a o t D o N e o t A o P A o t o o A o o e w o d r s o 1 i a f w c b a w o o i A p w v t p o t s s b o a C I m F p o t s e a f A o P A o o o L A A t i n a ( t n s o o h o h i p r d e a l n w t l t w i b o w b e o s t o i o o ( a o d r b r b p b o l o a p f a t p i f r b p f o p u s 7 t w i f w t T C b o b o o w t a p a a a o s t i C s u r p a m w h s t f t m T r m b m a a a o t r T T C m p a8L52]
+[DELETED:  T C s u w r p a i w t b o t r m A w p t t s s p t D o R o u t p o t d e t s I s c t i c u s ( o t t h o h b e t s i a m a o t s s c t t D o R o w i a b s m t m s r a t d d i s ( o t s T m t p f a o o t s s d t a p a i o t a r u t s A i c b  p t s ( o t s s r n l i t e o o u c w t c A p w v t p o t s s b T C i h o h d m w a o p o a p b t p o s a o i o d t p o t c r o a p i t C t i m a i t i P i i m i t t p o c b p t a W v e a c s p s p i t r a r f w r t t a m c a c s p o i t n f t a o m 1 w r t e I p c c a c n o i i a w i d t i t m s I c u a r o p i i l t t r b t m s t e t I p a t p a a s a t p p i i f T s s p p n t c i8L52]
+[DELETED:  W p i i r a i i l o t a s t d p i t s f w t i i s s m  A o l a r r t c u a o c t i r f a a W l t s d n e o l t P c w s l d o c i o u a d a w t I C d d o o u a d f 3 S 7 R R S o N i t D 3 2 2 i h r b t T G s e i t a w o o m o V o t a t e s f c o  s p a c a s a e s f m s T d i f t r N b t o m s u t T s a a t p i a c w t a p i A V o t a a t t A c f t p t a s a p i s i t i w h r t f c a u8L52]
+[DELETED:  b r b t p f e o t d o f q f a i t c a a q b f o b o d t b o o a J 1 2 u t A r c f i w q f a i t u t A I T C A t N A t R O S T C A o t V E r c s b a o i t i w h s a p i t C H I E F A o a e o t o e m o a l l s r h o h s o t c i t s m a a h o s r t p s S c A c a p i t N J C a M A c t g s r r a a c f t c s a p i t C H A r c f i w q f a i t e p s m o b o a p C A s b e t t p s m o p o t a o t c d p t A o 1 e t f p o t p s R C o 1 a a t s b a t e s m o b o a p s  l l c o e o t a n8L52]
+[DELETED:  t p s m o b p o t t i I a p s m o b c T s b a t a i n c a a n c a t i t i b t T c p i t s s b c f t y i w t r i p I t i c N m t o c m b c u t s w t D o R i t i c t c s o B T C A t N P T I A t 2 u t I R C o 1 a a a r A f d c i f p t s ( o T c s b a f t t y i w t i t i b t N R A o 1 a p i i t i b t N R A o 1 a p i R A o 1 a p i s 7 7 a 5 S 7 R R S o N i a p F o p a O 1 1 t r w t m N t r m b p8L52]
+[DELETED:  m s f a c s t t T n m t o h e d a a l o h o i s v I t c s i n f t p t t t s r i e a t T s c t c t t u t f d o t s n t t d s i t t m N t r m b p t t F s a u t p o l j b T s s p a m a d t d c f a l t j T d s t r s b p a t F I P T s s p a m a d t a e a t d s a t h c t r t d t d t s o c s s t i a r p t a s o c p h e d d i t s h a t p a b d r f a t a t a r w s b i a t t t s a s m t r d p t t s t r u t a t u a a a b d p t t a a s o t s I a s o c s p i u t a e d d t s o c s m a t n z c d a t  t d t d t s o c s f a t d r p t s ( o t a s m t r d p t t f r t r t t d b c b t s P t t s s a u t a t s r r a c s p u d8L52]
+[DELETED:  t a T d m b d p b t s o b a v a d b t s A d p b  a d b a s s b a t a s t a A p m a i o e w i i a t c o l p i t S o t E F A P a b t U S A d o f a d s f t f b o Q a f d m a d m b a f v e d p o m p g o i t S o N w m a a q a f p o f r t w t q a f A a p t m a q a f t o d p t d c i b t a T r a c u t s a t s s a8L52]
+[DELETED:  t t d i a f a m p b t t q f c t d s a t T d m a u t f h t d o a f s f y C s b p a t c A t s c t c b a t t c u f l N t s b a t c m t o A f b f p o f r m a o r a T d m a a p r a r t i a f y t O c h r t a f a f y n a c s b a f s d t a l i e I t t a o t c ( F t y b o d t b o o a T p o l g c i e i a c c T t d p c i t p o l g O t d p c i t p o l g b s a a t t d w t f T n o c f w t p o l g i D o t p o l g t h S t s ( o t s i t d s t d s a t a a c t8L52]
+[DELETED:  9  O s 7 a 7 R R o N a s 7 7 7 7 a 7 R S C S 2 a8L52]
+
+
+================================================================================
+
+Raw Text:
+LB208 LB208
+2025 2025
+LEGISLATIVE BILL 208
+Approved by the Governor February 25, 2025
+Introduced by von Gillern, 4.
+A BILL FOR AN ACT relating to revenue and taxation; to amend sections
+77-2712.03 and 77-27,143, Reissue Revised Statutes of Nebraska, and
+sections 77-2708, 77-2711, 77-2715.07, 77-27,241, 77-7012, and 77-7203,
+Revised Statutes Cumulative Supplement, 2024; to change provisions
+relating to sales tax collection fees, confidentiality of sales tax
+information, the streamlined sales and use tax agreement, a database for
+sales tax zip code information, annual limits for certain tax credits, and
+certain tax credits for parents and legal guardians; to harmonize
+provisions; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 77-2708, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+77-2708 (1)(a) The sales and use taxes imposed by the Nebraska Revenue Act
+of 1967 shall be due and payable to the Tax Commissioner monthly on or before
+the twentieth day of the month next succeeding each monthly period unless
+otherwise provided pursuant to the Nebraska Revenue Act of 1967.
+(b)(i) On or before the twentieth day of the month following each monthly
+period or such other period as the Tax Commissioner may require, a return for
+such period, along with all taxes due, shall be filed with the Tax Commissioner
+in such form and content as the Tax Commissioner may prescribe and containing
+such information as the Tax Commissioner deems necessary for the proper
+administration of the Nebraska Revenue Act of 1967. The Tax Commissioner, if he
+or she deems it necessary in order to insure payment to or facilitate the
+collection by the state of the amount of sales or use taxes due, may require
+returns and payment of the amount of such taxes for periods other than monthly
+periods in the case of a particular seller, retailer, or purchaser, as the case
+may be. The Tax Commissioner shall by rule and regulation require reports and
+tax payments from sellers, retailers, or purchasers depending on their yearly
+tax liability. Except as required by the streamlined sales and use tax
+agreement, annual returns shall be required if such sellers', retailers', or
+purchasers' yearly tax liability is less than nine hundred dollars, quarterly
+returns shall be required if their yearly tax liability is nine hundred dollars
+or more and less than three thousand dollars, and monthly returns shall be
+required if their yearly tax liability is three thousand dollars or more. The
+Tax Commissioner shall have the discretion to allow an annual return for
+seasonal retailers, even when their yearly tax liability exceeds the amounts
+listed in this subdivision.
+The Tax Commissioner may adopt and promulgate rules and regulations to
+allow annual, semiannual, or quarterly returns for any retailer making monthly
+remittances or payments of sales and use taxes by electronic funds transfer or
+for any retailer remitting tax to the state pursuant to the streamlined sales
+and use tax agreement. Such rules and regulations may establish a method of
+determining the amount of the payment that will result in substantially all of
+the tax liability being paid each quarter. At least once each year, the
+difference between the amount paid and the amount due shall be reconciled. If
+the difference is more than ten percent of the amount paid, a penalty of fifty
+percent of the unpaid amount shall be imposed.
+(ii) For purposes of the sales tax, a return shall be filed by every
+retailer liable for collection from a purchaser and payment to the state of the
+tax, except that a combined sales tax return may be filed for all licensed
+locations which are subject to common ownership. For purposes of this
+subdivision, common ownership means the same person or persons own eighty
+percent or more of each licensed location. For purposes of the use tax, a
+return shall be filed by every retailer engaged in business in this state and
+by every person who has purchased property, the storage, use, or other
+consumption of which is subject to the use tax, but who has not paid the use
+tax due to a retailer required to collect the tax.
+(iii) The Tax Commissioner may require that returns be signed by the
+person required to file the return or by his or her duly authorized agent but
+need not be verified by oath.
+(iv) A taxpayer who keeps his or her regular books and records on a cash
+basis, an accrual basis, or any generally recognized accounting basis which
+correctly reflects the operation of the business may file the sales and use tax
+returns required by the Nebraska Revenue Act of 1967 on the same accounting
+basis that is used for the regular books and records, except that on credit,
+conditional, and installment sales, the retailer who keeps his or her books on
+an accrual basis may report such sales on the cash basis and pay the tax upon
+the collections made during each month. If a taxpayer transfers, sells,
+assigns, or otherwise disposes of an account receivable, he or she shall be
+deemed to have received the full balance of the consideration for the original
+sale and shall be liable for the remittance of the sales tax on the balance of
+the total sale price not previously reported, except that such transfer, sale,
+-1-
+
+LB208 LB208
+2025 2025
+assignment, or other disposition of an account receivable by a retailer to a
+subsidiary shall not be deemed to require the retailer to pay the sales tax on
+the credit sale represented by the account transferred prior to the time the
+customer makes payment on such account. If the subsidiary does not obtain a
+Nebraska sales tax permit, the taxpayer shall obtain a surety bond in favor of
+the State of Nebraska to insure payment of the tax and any interest and penalty
+imposed thereon under this section in an amount not less than two times the
+amount of tax payable on outstanding accounts receivable held by the subsidiary
+as of the end of the prior calendar year. Failure to obtain either a sales tax
+permit or a surety bond in accordance with this section shall result in the
+payment on the next required filing date of all sales taxes not previously
+remitted. When the retailer has adopted one basis or the other of reporting
+credit, conditional, or installment sales and paying the tax thereon, he or she
+will not be permitted to change from that basis without first having notified
+the Tax Commissioner.
+(c) Except as provided in the streamlined sales and use tax agreement, the
+taxpayer required to file the return shall deliver or mail any required return
+together with a remittance of the net amount of the tax due to the office of
+the Tax Commissioner on or before the required filing date. Failure to file the
+return, filing after the required filing date, failure to remit the net amount
+of the tax due, or remitting the net amount of the tax due after the required
+filing date shall be cause for a penalty, in addition to interest, of ten
+percent of the amount of tax not paid by the required filing date or twenty-
+five dollars, whichever is greater, unless the penalty is being collected under
+subdivision (1)(i), (1)(j)(i), or (1)(k)(i) of section 77-2703 by a county
+treasurer or the Department of Motor Vehicles, in which case the penalty shall
+be five dollars.
+(d) The taxpayer shall deduct and withhold, from the taxes otherwise due
+from him or her on his or her tax return, three percent of the first five
+thousand dollars remitted each month to reimburse himself or herself for the
+cost of collecting the tax. Taxpayers filing a combined return as allowed by
+subdivision (1)(b)(ii) of this subsection shall compute such collection fees on
+the basis of the receipts and liability of each licensed location. If a model 1
+seller's sales and use tax functions are performed by a certified service
+provider and the certified service provider is compensated pursuant to the
+streamlined sales and use tax agreement for performing such functions, then the
+model 1 seller shall not receive any collection fees under this subdivision.
+(e) A retailer that makes sales into Nebraska using a multivendor
+marketplace platform is relieved of its obligation to collect and remit sales
+taxes to Nebraska with regard to any sales taxes collected and remitted by the
+multivendor marketplace platform. Such a retailer must include all sales into
+Nebraska in its gross receipts in its return, but may claim credit for any
+sales taxes collected and remitted by the multivendor marketplace platform with
+respect to such retailer's sales. Such retailer is liable for the sales tax due
+on sales into Nebraska as provided in section 77-2704.35.
+(f) A multivendor marketplace platform is relieved of its obligation to
+collect and remit the correct amount of state and local sales taxes to Nebraska
+to the extent that the multivendor marketplace platform can establish that the
+error was due to insufficient or incorrect information given to the multivendor
+marketplace platform by the seller and relied on by the multivendor marketplace
+platform. This subdivision shall not apply if the multivendor marketplace
+platform and the seller are related persons under either section 267(b) or (c)
+or section 707(b) of the Internal Revenue Code of 1986 or if the seller is also
+the multivendor marketplace platform operator.
+(2)(a) If the Tax Commissioner determines that any sales or use tax
+amount, penalty, or interest has been paid more than once, has been erroneously
+or illegally collected or computed, or has been paid and the purchaser
+qualifies for a refund under section 77-2708.01, the Tax Commissioner shall set
+forth that fact in his or her records and the excess amount collected or paid
+may be credited on any sales, use, or income tax amounts then due and payable
+from the person under the Nebraska Revenue Act of 1967. Any balance may be
+refunded to the person by whom it was paid or his or her successors,
+administrators, or executors.
+(b) No refund shall be allowed unless a claim therefor is filed with the
+Tax Commissioner by the person who made the overpayment or his or her attorney,
+executor, or administrator within three years from the required filing date
+following the close of the period for which the overpayment was made, within
+six months after any determination becomes final under section 77-2709, or
+within six months from the date of overpayment with respect to such
+determinations, whichever of these three periods expires later, unless the
+credit relates to a period for which a waiver has been given. Failure to file a
+claim within the time prescribed in this subsection shall constitute a waiver
+of any demand against the state on account of overpayment.
+(c) Every claim shall be in writing on forms prescribed by the Tax
+Commissioner and shall state the specific amount and grounds upon which the
+claim is founded. No refund shall be made in any amount less than two dollars.
+(d) The Tax Commissioner shall allow or disallow a claim within one
+hundred eighty days after it has been filed. A request for a hearing shall
+constitute a waiver of the one-hundred-eighty-day period. The claimant and the
+Tax Commissioner may also agree to extend the one-hundred-eighty-day period. If
+a hearing has not been requested and the Tax Commissioner has neither allowed
+nor disallowed a claim within either the one hundred eighty days or the period
+agreed to by the claimant and the Tax Commissioner, the claim shall be deemed
+-2-
+
+LB208 LB208
+2025 2025
+to have been allowed.
+(e) Within thirty days after disallowing any claim in whole or in part,
+the Tax Commissioner shall serve notice of his or her action on the claimant in
+the manner prescribed for service of notice of a deficiency determination.
+(f) Within thirty days after the mailing of the notice of the Tax
+Commissioner's action upon a claim filed pursuant to the Nebraska Revenue Act
+of 1967, the action of the Tax Commissioner shall be final unless the taxpayer
+seeks review of the Tax Commissioner's determination as provided in section
+77-27,127.
+(g) Upon the allowance of a credit or refund of any sum erroneously or
+illegally assessed or collected, of any penalty collected without authority, or
+of any sum which was excessive or in any manner wrongfully collected, interest
+shall be allowed and paid on the amount of such credit or refund at the rate
+specified in section 45-104.02, as such rate may from time to time be adjusted,
+from the date such sum was paid or from the date the return was required to be
+filed, whichever date is later, to the date of the allowance of the refund or,
+in the case of a credit, to the due date of the amount against which the credit
+is allowed, but in the case of a voluntary and unrequested payment in excess of
+actual tax liability or a refund under section 77-2708.01, no interest shall be
+allowed when such excess is refunded or credited.
+(h) No suit or proceeding shall be maintained in any court for the
+recovery of any amount alleged to have been erroneously or illegally determined
+or collected unless a claim for refund or credit has been duly filed.
+(i) The Tax Commissioner may recover any refund or part thereof which is
+erroneously made and any credit or part thereof which is erroneously allowed by
+issuing a deficiency determination within one year from the date of refund or
+credit or within the period otherwise allowed for issuing a deficiency
+determination, whichever expires later.
+(j)(i) Credit shall be allowed to the retailer, contractor, or
+repairperson for sales or use taxes paid pursuant to the Nebraska Revenue Act
+of 1967 on any deduction taken that is attributed to bad debts not including
+interest. Bad debt has the same meaning as in 26 U.S.C. 166, as such section
+existed on January 1, 2003. However, the amount calculated pursuant to 26
+U.S.C. 166 shall be adjusted to exclude: Financing charges or interest; sales
+or use taxes charged on the purchase price; uncollectible amounts on property
+that remains in the possession of the seller until the full purchase price is
+paid; and expenses incurred in attempting to collect any debt and repossessed
+property.
+(ii) Bad debts may be deducted on the return for the period during which
+the bad debt is written off as uncollectible in the claimant's books and
+records and is eligible to be deducted for federal income tax purposes. A
+claimant who is not required to file federal income tax returns may deduct a
+bad debt on a return filed for the period in which the bad debt is written off
+as uncollectible in the claimant's books and records and would be eligible for
+a bad debt deduction for federal income tax purposes if the claimant was
+required to file a federal income tax return.
+(iii) If a deduction is taken for a bad debt and the debt is subsequently
+collected in whole or in part, the tax on the amount so collected must be paid
+and reported on the return filed for the period in which the collection is
+made.
+(iv) When the amount of bad debt exceeds the amount of taxable sales for
+the period during which the bad debt is written off, a refund claim may be
+filed within the otherwise applicable statute of limitations for refund claims.
+The statute of limitations shall be measured from the due date of the return on
+which the bad debt could first be claimed.
+(v) If filing responsibilities have been assumed by a certified service
+provider, the service provider may claim, on behalf of the retailer, any bad
+debt allowance provided by this section. The certified service provider shall
+credit or refund the full amount of any bad debt allowance or refund received
+to the retailer.
+(vi) For purposes of reporting a payment received on a previously claimed
+bad debt, any payments made on a debt or account are applied first
+proportionally to the taxable price of the property or service and the sales
+tax thereon, and secondly to interest, service charges, and any other charges.
+(vii) In situations in which the books and records of the party claiming
+the bad debt allowance support an allocation of the bad debts among the member
+states in the streamlined sales and use tax agreement, the state shall permit
+the allocation.
+(3) Beginning July 1, 2020, if a refund claim under this section involves
+a refund of a tax imposed under the Local Option Revenue Act or section 13-319,
+13-2813, or 77-6403 and the amount of such tax to be refunded is at least five
+thousand dollars, the Tax Commissioner shall notify the affected city, village,
+county, or municipal county of such claim within twenty days after receiving
+the claim. If the Tax Commissioner allows the claim and the refund of such tax
+is at least five thousand dollars, the Tax Commissioner shall notify the
+affected city, village, county, or municipal county of such refund and shall
+give the city, village, county, or municipal county the option of having such
+refund deducted from its tax proceeds in one lump sum or in twelve equal
+monthly installments. The city, village, county, or municipal county shall make
+its selection and shall certify the selection to the Tax Commissioner within
+twenty days after receiving notice of the refund. The Tax Commissioner shall
+then deduct such refund from the applicable tax proceeds in accordance with the
+selection when he or she deducts refunds pursuant to section 13-324, 13-2814,
+-3-
+
+LB208 LB208
+2025 2025
+or 77-6403 or subsection (1) of section 77-27,144, whichever is applicable.
+This subsection shall not apply to any refund that is subject to subdivision
+(2)(a) or (2)(b)(ii) or subsection (3) or (4) of section 77-27,144.
+Sec. 2. Section 77-2711, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-2711 (1)(a) The Tax Commissioner shall enforce sections 77-2701.04 to
+77-2713 and may prescribe, adopt, and enforce rules and regulations relating to
+the administration and enforcement of such sections.
+(b) The Tax Commissioner may prescribe the extent to which any ruling or
+regulation shall be applied without retroactive effect.
+(2) The Tax Commissioner may employ accountants, auditors, investigators,
+assistants, and clerks necessary for the efficient administration of the
+Nebraska Revenue Act of 1967 and may delegate authority to his or her
+representatives to conduct hearings, prescribe regulations, or perform any
+other duties imposed by such act.
+(3)(a) Every seller, every retailer, and every person storing, using, or
+otherwise consuming in this state property purchased from a retailer shall keep
+such records, receipts, invoices, and other pertinent papers in such form as
+the Tax Commissioner may reasonably require.
+(b) Every such seller, retailer, or person shall keep such records for not
+less than three years from the making of such records unless the Tax
+Commissioner in writing sooner authorized their destruction.
+(4) The Tax Commissioner or any person authorized in writing by him or her
+may examine the books, papers, records, and equipment of any person selling
+property and any person liable for the use tax and may investigate the
+character of the business of the person in order to verify the accuracy of any
+return made or, if no return is made by the person, to ascertain and determine
+the amount required to be paid. In the examination of any person selling
+property or of any person liable for the use tax, an inquiry shall be made as
+to the accuracy of the reporting of city and county sales and use taxes for
+which the person is liable under the Local Option Revenue Act or sections
+13-319, 13-324, 13-2813, and 77-6403 and the accuracy of the allocation made
+between the various counties, cities, villages, and municipal counties of the
+tax due. The Tax Commissioner may make or cause to be made copies of resale or
+exemption certificates and may pay a reasonable amount to the person having
+custody of the records for providing such copies.
+(5) The taxpayer shall have the right to keep or store his or her records
+at a point outside this state and shall make his or her records available to
+the Tax Commissioner at all times.
+(6) In administration of the use tax, the Tax Commissioner may require the
+filing of reports by any person or class of persons having in his, her, or
+their possession or custody information relating to sales of property, the
+storage, use, or other consumption of which is subject to the tax. The report
+shall be filed when the Tax Commissioner requires and shall set forth the names
+and addresses of purchasers of the property, the sales price of the property,
+the date of sale, and such other information as the Tax Commissioner may
+require.
+(7) It shall be a Class I misdemeanor for the Tax Commissioner, or any
+official or employee of the Tax Commissioner, the State Treasurer, or the
+Department of Administrative Services, or any other person to make known in any
+manner whatever the business affairs, operations, or information obtained by an
+investigation of records and activities of any retailer or any other person
+visited or examined in the discharge of official duty or the amount or source
+of income, profits, losses, expenditures, or any particular thereof, set forth
+or disclosed in any return, or to permit any return or copy thereof, or any
+book containing any abstract or particulars thereof to be seen or examined by
+any person not connected with the Tax Commissioner. Nothing in this section
+shall be construed to prohibit (a) the delivery to a taxpayer, his or her duly
+authorized representative, or his or her successors, receivers, trustees,
+executors, administrators, assignees, or guarantors, if directly interested, of
+a certified copy of any return or report in connection with his or her tax, (b)
+the publication of statistics so classified as to prevent the identification of
+particular reports or returns and the items thereof, (c) the inspection by the
+Attorney General, other legal representative of the state, or county attorney
+of the reports or returns of any taxpayer when either (i) information on the
+reports or returns is considered by the Attorney General to be relevant to any
+action or proceeding instituted by the taxpayer or against whom an action or
+proceeding is being considered or has been commenced by any state agency or the
+county or (ii) the taxpayer has instituted an action to review the tax based
+thereon or an action or proceeding against the taxpayer for collection of tax
+or failure to comply with the Nebraska Revenue Act of 1967 is being considered
+or has been commenced, (d) the furnishing of any information to the United
+States Government or to states allowing similar privileges to the Tax
+Commissioner, (e) the disclosure of information and records to a collection
+agency contracting with the Tax Commissioner pursuant to sections 77-377.01 to
+77-377.04, (f) the disclosure to another party to a transaction of information
+and records concerning the transaction between the taxpayer and the other
+party, (g) the disclosure of information pursuant to section 77-27,195,
+77-5731, 77-6837, 77-6839, or 77-6928, or (h) the disclosure of information to
+the Department of Labor necessary for the administration of the Employment
+Security Law, the Contractor Registration Act, or the Employee Classification
+Act.
+(8) Notwithstanding the provisions of subsection (7) of this section, the
+-4-
+
+LB208 LB208
+2025 2025
+Tax Commissioner may permit the Postal Inspector of the United States Postal
+Service or his or her delegates to inspect the reports or returns of any person
+filed pursuant to the Nebraska Revenue Act of 1967 when information on the
+reports or returns is relevant to any action or proceeding instituted or being
+considered by the United States Postal Service against such person for the
+fraudulent use of the mails to carry and deliver false and fraudulent tax
+returns to the Tax Commissioner with the intent to defraud the State of
+Nebraska or to evade the payment of Nebraska state taxes.
+(9) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may permit other tax officials of this state to inspect the
+tax returns, reports, and applications filed under sections 77-2701.04 to
+77-2713, but such inspection shall be permitted only for purposes of enforcing
+a tax law and only to the extent and under the conditions prescribed by the
+rules and regulations of the Tax Commissioner.
+(10) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may, upon request, provide the county board of any county
+which has exercised the authority granted by section 81-3716 with a list of the
+names and addresses of the hotels located within the county for which lodging
+sales tax returns have been filed or for which lodging sales taxes have been
+remitted for the county's County Visitors Promotion Fund under the Nebraska
+Visitors Development Act.
+The information provided by the Tax Commissioner shall indicate only the
+names and addresses of the hotels located within the requesting county for
+which lodging sales tax returns have been filed for a specified period and the
+fact that lodging sales taxes remitted by or on behalf of the hotel have
+constituted a portion of the total sum remitted by the state to the county for
+a specified period under the provisions of the Nebraska Visitors Development
+Act. No additional information shall be revealed.
+(11)(a) Notwithstanding the provisions of subsection (7) of this section,
+the Tax Commissioner shall, upon written request by the Auditor of Public
+Accounts or the office of Legislative Audit, make tax returns and tax return
+information open to inspection by or disclosure to the Auditor of Public
+Accounts or employees of the office of Legislative Audit for the purpose of and
+to the extent necessary in making an audit of the Department of Revenue
+pursuant to section 50-1205 or 84-304. Confidential tax returns and tax return
+information shall be audited only upon the premises of the Department of
+Revenue. All audit work papers pertaining to the audit of the Department of
+Revenue shall be stored in a secure place in the Department of Revenue.
+(b) No employee of the Auditor of Public Accounts or the office of
+Legislative Audit shall disclose to any person, other than another Auditor of
+Public Accounts or office employee whose official duties require such
+disclosure, any return or return information described in the Nebraska Revenue
+Act of 1967 in a form which can be associated with or otherwise identify,
+directly or indirectly, a particular taxpayer.
+(c) Any person who violates the provisions of this subsection shall be
+guilty of a Class I misdemeanor. For purposes of this subsection, employee
+includes a former Auditor of Public Accounts or office of Legislative Audit
+employee.
+(12) For purposes of this subsection and subsections (11) and (14) of this
+section:
+(a) Disclosure means the making known to any person in any manner a tax
+return or return information;
+(b) Return information means:
+(i) A taxpayer's identification number and (A) the nature, source, or
+amount of his or her income, payments, receipts, deductions, exemptions,
+credits, assets, liabilities, net worth, tax liability, tax withheld,
+deficiencies, over assessments, or tax payments, whether the taxpayer's return
+was, is being, or will be examined or subject to other investigation or
+processing or (B) any other data received by, recorded by, prepared by,
+furnished to, or collected by the Tax Commissioner with respect to a return or
+the determination of the existence or possible existence of liability or the
+amount of liability of any person for any tax, penalty, interest, fine,
+forfeiture, or other imposition or offense; and
+(ii) Any part of any written determination or any background file document
+relating to such written determination; and
+(c) Tax return or return means any tax or information return or claim for
+refund required by, provided for, or permitted under sections 77-2701 to
+77-2713 which is filed with the Tax Commissioner by, on behalf of, or with
+respect to any person and any amendment or supplement thereto, including
+supporting schedules, attachments, or lists which are supplemental to or part
+of the filed return.
+(13) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner shall, upon request, provide any municipality which has
+adopted the local option sales tax under the Local Option Revenue Act with a
+list of the names and addresses of the retailers which have collected the local
+option sales tax for the municipality. The request may be made annually and
+shall be submitted to the Tax Commissioner on or before June 30 of each year.
+The information provided by the Tax Commissioner shall indicate only the names
+and addresses of the retailers. The Tax Commissioner may provide additional
+information to a municipality so long as the information does not include any
+data detailing the specific revenue, expenses, or operations of any particular
+business.
+(14)(a) Notwithstanding the provisions of subsection (7) of this section,
+-5-
+
+LB208 LB208
+2025 2025
+the Tax Commissioner shall, upon written request, provide an individual
+certified under subdivision (b) of this subsection representing a municipality
+which has adopted the local option sales and use tax under the Local Option
+Revenue Act with confidential sales and use tax returns and sales and use tax
+return information regarding taxpayers that possess a sales tax permit and the
+amounts remitted by such permitholders at locations within the boundaries of
+the requesting municipality or with confidential business use tax returns and
+business use tax return information regarding taxpayers that file a Nebraska
+and Local Business Use Tax Return and the amounts remitted by such taxpayers at
+locations within the boundaries of the requesting municipality. Any written
+request pursuant to this subsection shall provide the Department of Revenue
+with no less than ten business days to prepare the sales and use tax returns
+and sales and use tax return information requested. The individual certified
+under subdivision (b) of this subsection shall review such returns and return
+information only upon the premises of the department, except that such
+limitation shall not apply if the certifying municipality has an agreement in
+effect under the Nebraska Advantage Transformational Tourism and Redevelopment
+Act. In such case, the individual certified under subdivision (b) of this
+subsection may request that copies of such returns and return information be
+sent to him or her by electronic transmission, secured in a manner as
+determined by the Tax Commissioner.
+(b) Each municipality that seeks to request information under subdivision
+(a) of this subsection shall certify to the Department of Revenue one
+individual who is authorized by such municipality to make such request and
+review the documents described in subdivision (a) of this subsection. The
+individual may be a municipal employee or an individual who contracts with the
+requesting municipality to provide financial, accounting, or other
+administrative services.
+(c) No individual certified by a municipality pursuant to subdivision (b)
+of this subsection shall disclose to any person any information obtained
+pursuant to a review under this subsection. An individual certified by a
+municipality pursuant to subdivision (b) of this subsection shall remain
+subject to this subsection after he or she (i) is no longer certified or (ii)
+is no longer in the employment of or under contract with the certifying
+municipality.
+(d) Any person who violates the provisions of this subsection shall be
+guilty of a Class I misdemeanor.
+(e) The Department of Revenue shall not be held liable by any person for
+an impermissible disclosure by a municipality or any agent or employee thereof
+of any information obtained pursuant to a review under this subsection.
+(15) In all proceedings under the Nebraska Revenue Act of 1967, the Tax
+Commissioner may act for and on behalf of the people of the State of Nebraska.
+The Tax Commissioner in his or her discretion may waive all or part of any
+penalties provided by the provisions of such act or interest on delinquent
+taxes specified in section 45-104.02, as such rate may from time to time be
+adjusted.
+(16)(a) The purpose of this subsection is to set forth the state's policy
+for the protection of the confidentiality rights of all participants in the
+system operated pursuant to the streamlined sales and use tax agreement and of
+the privacy interests of consumers who deal with model 1 sellers.
+(b) For purposes of this subsection:
+(i) Anonymous data means information that does not identify a person;
+(ii) Confidential taxpayer information means all information that is
+protected under a member state's laws, regulations, and privileges; and
+(iii) Personally identifiable information means information that
+identifies a person.
+(c) The state agrees that a fundamental precept for model 1 sellers is to
+preserve the privacy of consumers by protecting their anonymity. With very
+limited exceptions, a certified service provider shall perform its tax
+calculation, remittance, and reporting functions without retaining the
+personally identifiable information of consumers.
+(d) The governing board of the member states in the streamlined sales and
+use tax agreement may certify a certified service provider only if that
+certified service provider certifies that:
+(i) Its system has been designed and tested to ensure that the fundamental
+precept of anonymity is respected;
+(ii) Personally identifiable information is only used and retained to the
+extent necessary for the administration of model 1 with respect to exempt
+purchasers;
+(iii) It provides consumers clear and conspicuous notice of its
+information practices, including what information it collects, how it collects
+the information, how it uses the information, how long, if at all, it retains
+the information, and whether it discloses the information to member states.
+Such notice shall be satisfied by a written privacy policy statement accessible
+by the public on the website of the certified service provider;
+(iv) Its collection, use, and retention of personally identifiable
+information is limited to that required by the member states to ensure the
+validity of exemptions from taxation that are claimed by reason of a consumer's
+status or the intended use of the goods or services purchased; and
+(v) It provides adequate technical, physical, and administrative
+safeguards so as to protect personally identifiable information from
+unauthorized access and disclosure.
+(e) The state shall provide public notification to consumers, including
+-6-
+
+LB208 LB208
+2025 2025
+exempt purchasers, of the state's practices relating to the collection, use,
+and retention of personally identifiable information.
+(f) When any personally identifiable information that has been collected
+and retained is no longer required for the purposes set forth in subdivision
+(16)(d)(iv) of this section, such information shall no longer be retained by
+the member states.
+(g) When personally identifiable information regarding an individual is
+retained by or on behalf of the state, it shall provide reasonable access by
+such individual to his or her own information in the state's possession and a
+right to correct any inaccurately recorded information.
+(h) If anyone other than a member state, or a person authorized by that
+state's law or the agreement, seeks to discover personally identifiable
+information, the state from whom the information is sought should make a
+reasonable and timely effort to notify the individual of such request.
+(i) This privacy policy is subject to enforcement by the Attorney General.
+(j) All other laws and regulations regarding the collection, use, and
+maintenance of confidential taxpayer information remain fully applicable and
+binding. Without limitation, this subsection does not enlarge or limit the
+state's authority to:
+(i) Conduct audits or other reviews as provided under the agreement and
+state law;
+(ii) Provide records pursuant to the federal Freedom of Information Act,
+disclosure laws with governmental agencies, or other regulations;
+(iii) Prevent, consistent with state law, disclosure of confidential
+taxpayer information;
+(iv) Prevent, consistent with federal law, disclosure or misuse of federal
+return information obtained under a disclosure agreement with the Internal
+Revenue Service; and
+(v) Collect, disclose, disseminate, or otherwise use anonymous data for
+governmental purposes.
+Sec. 3. Section 77-2712.03, Reissue Revised Statutes of Nebraska, is
+amended to read:
+77-2712.03 (1) The streamlined sales and use tax agreement, as adopted by
+the streamlined sales tax implementing states on November 12, 2002, including
+amendments through December 31, 2024 2015, is hereby ratified by the
+Legislature. The Governor shall enter into the agreement with one or more
+states to simplify and modernize sales and use tax administration in order to
+substantially reduce the burden of tax compliance for all sellers and for all
+types of commerce. In furtherance of the agreement, the Department of Revenue
+is authorized to act jointly with other states that are members under Articles
+VII or VIII of the agreement to establish standards for certification of a
+certified service provider and certified automated system and establish
+performance standards for multistate sellers. The department is further
+authorized to take other actions permissible under law reasonably required to
+implement the provisions set forth in the agreement. Other actions authorized
+by this section include, but are not limited to, the adoption and promulgation
+of rules and regulations and the joint procurement, with other member states,
+of goods and services in furtherance of the agreement.
+(2) The Tax Commissioner or his or her designee and two representatives of
+the Legislature appointed by the Executive Board of the Legislative Council are
+authorized to represent Nebraska before the other member states under the
+agreement. The state also agrees to participate in and comply with the
+procedures of and decisions made by the governing board of the member states.
+These provisions of the agreement include the creation of the organization as
+provided in Article VII of the agreement, the requirements for state entry and
+withdrawal as provided in Article VIII of the agreement, amendments to the
+agreement as provided in Article IX of the agreement, and a dispute resolution
+process as provided in Article X of the agreement.
+Sec. 4. Section 77-2715.07, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+77-2715.07 (1) There shall be allowed to qualified resident individuals as
+a nonrefundable credit against the income tax imposed by the Nebraska Revenue
+Act of 1967:
+(a) A credit equal to the federal credit allowed under section 22 of the
+Internal Revenue Code; and
+(b) A credit for taxes paid to another state as provided in section
+77-2730.
+(2) There shall be allowed to qualified resident individuals against the
+income tax imposed by the Nebraska Revenue Act of 1967:
+(a) For returns filed reporting federal adjusted gross incomes of greater
+than twenty-nine thousand dollars, a nonrefundable credit equal to twenty-five
+percent of the federal credit allowed under section 21 of the Internal Revenue
+Code of 1986, as amended, except that for taxable years beginning or deemed to
+begin on or after January 1, 2015, such nonrefundable credit shall be allowed
+only if the individual would have received the federal credit allowed under
+section 21 of the code after adding back in any carryforward of a net operating
+loss that was deducted pursuant to such section in determining eligibility for
+the federal credit;
+(b) For returns filed reporting federal adjusted gross income of twenty-
+nine thousand dollars or less, a refundable credit equal to a percentage of the
+federal credit allowable under section 21 of the Internal Revenue Code of 1986,
+as amended, whether or not the federal credit was limited by the federal tax
+liability. The percentage of the federal credit shall be one hundred percent
+-7-
+
+LB208 LB208
+2025 2025
+for incomes not greater than twenty-two thousand dollars, and the percentage
+shall be reduced by ten percent for each one thousand dollars, or fraction
+thereof, by which the reported federal adjusted gross income exceeds twenty-two
+thousand dollars, except that for taxable years beginning or deemed to begin on
+or after January 1, 2015, such refundable credit shall be allowed only if the
+individual would have received the federal credit allowed under section 21 of
+the code after adding back in any carryforward of a net operating loss that was
+deducted pursuant to such section in determining eligibility for the federal
+credit;
+(c) A refundable credit as provided in section 77-5209.01 for individuals
+who qualify for an income tax credit as a qualified beginning farmer or
+livestock producer under the Beginning Farmer Tax Credit Act for all taxable
+years beginning or deemed to begin on or after January 1, 2006, under the
+Internal Revenue Code of 1986, as amended;
+(d) A refundable credit for individuals who qualify for an income tax
+credit under the Angel Investment Tax Credit Act, the Nebraska Advantage
+Microenterprise Tax Credit Act, the Nebraska Advantage Research and Development
+Act, the Reverse Osmosis System Tax Credit Act, or the Volunteer Emergency
+Responders Incentive Act; and
+(e) A refundable credit equal to ten percent of the federal credit allowed
+under section 32 of the Internal Revenue Code of 1986, as amended, except that
+for taxable years beginning or deemed to begin on or after January 1, 2015,
+such refundable credit shall be allowed only if the individual would have
+received the federal credit allowed under section 32 of the code after adding
+back in any carryforward of a net operating loss that was deducted pursuant to
+such section in determining eligibility for the federal credit; and .
+(f) A refundable credit as provided in section 77-7203 for individuals who
+qualify for an income tax credit under the Child Care Tax Credit Act for all
+taxable years beginning or deemed to begin on or after January 1, 2024, under
+the Internal Revenue Code of 1986, as amended.
+(3) There shall be allowed to all individuals as a nonrefundable credit
+against the income tax imposed by the Nebraska Revenue Act of 1967:
+(a) A credit for personal exemptions allowed under section 77-2716.01;
+(b) A credit for contributions to programs or projects certified for tax
+credit status as provided in the Creating High Impact Economic Futures Act.
+Each partner, each shareholder of an electing subchapter S corporation, each
+beneficiary of an estate or trust, or each member of a limited liability
+company shall report his or her share of the credit in the same manner and
+proportion as he or she reports the partnership, subchapter S corporation,
+estate, trust, or limited liability company income;
+(c) A credit for investment in a biodiesel facility as provided in section
+77-27,236;
+(d) A credit as provided in the New Markets Job Growth Investment Act;
+(e) A credit as provided in the Nebraska Job Creation and Mainstreet
+Revitalization Act;
+(f) A credit to employers as provided in sections 77-27,238 and 77-27,240;
+(g) A credit as provided in the Affordable Housing Tax Credit Act;
+(h) A credit to grocery store retailers, restaurants, and agricultural
+producers as provided in section 77-27,241;
+(i) A credit as provided in the Sustainable Aviation Fuel Tax Credit Act;
+(j) A credit as provided in the Nebraska Shortline Rail Modernization Act;
+(k) A credit as provided in the Nebraska Pregnancy Help Act; and
+(l) A credit as provided in the Caregiver Tax Credit Act.
+(4) There shall be allowed as a credit against the income tax imposed by
+the Nebraska Revenue Act of 1967:
+(a) A credit to all resident estates and trusts for taxes paid to another
+state as provided in section 77-2730;
+(b) A credit to all estates and trusts for contributions to programs or
+projects certified for tax credit status as provided in the Creating High
+Impact Economic Futures Act; and
+(c) A refundable credit for individuals who qualify for an income tax
+credit as an owner of agricultural assets under the Beginning Farmer Tax Credit
+Act for all taxable years beginning or deemed to begin on or after January 1,
+2009, under the Internal Revenue Code of 1986, as amended. The credit allowed
+for each partner, shareholder, member, or beneficiary of a partnership,
+corporation, limited liability company, or estate or trust qualifying for an
+income tax credit as an owner of agricultural assets under the Beginning Farmer
+Tax Credit Act shall be equal to the partner's, shareholder's, member's, or
+beneficiary's portion of the amount of tax credit distributed pursuant to
+subsection (6) of section 77-5211.
+(5)(a) For all taxable years beginning on or after January 1, 2007, and
+before January 1, 2009, under the Internal Revenue Code of 1986, as amended,
+there shall be allowed to each partner, shareholder, member, or beneficiary of
+a partnership, subchapter S corporation, limited liability company, or estate
+or trust a nonrefundable credit against the income tax imposed by the Nebraska
+Revenue Act of 1967 equal to fifty percent of the partner's, shareholder's,
+member's, or beneficiary's portion of the amount of franchise tax paid to the
+state under sections 77-3801 to 77-3807 by a financial institution.
+(b) For all taxable years beginning on or after January 1, 2009, under the
+Internal Revenue Code of 1986, as amended, there shall be allowed to each
+partner, shareholder, member, or beneficiary of a partnership, subchapter S
+corporation, limited liability company, or estate or trust a nonrefundable
+credit against the income tax imposed by the Nebraska Revenue Act of 1967 equal
+-8-
+
+LB208 LB208
+2025 2025
+to the partner's, shareholder's, member's, or beneficiary's portion of the
+amount of franchise tax paid to the state under sections 77-3801 to 77-3807 by
+a financial institution.
+(c) Each partner, shareholder, member, or beneficiary shall report his or
+her share of the credit in the same manner and proportion as he or she reports
+the partnership, subchapter S corporation, limited liability company, or estate
+or trust income. If any partner, shareholder, member, or beneficiary cannot
+fully utilize the credit for that year, the credit may not be carried forward
+or back.
+(6) There shall be allowed to all individuals nonrefundable credits
+against the income tax imposed by the Nebraska Revenue Act of 1967 as provided
+in section 77-3604 and refundable credits against the income tax imposed by the
+Nebraska Revenue Act of 1967 as provided in section 77-3605.
+(7)(a) For taxable years beginning or deemed to begin on or after January
+1, 2020, and before January 1, 2026, under the Internal Revenue Code of 1986,
+as amended, a nonrefundable credit against the income tax imposed by the
+Nebraska Revenue Act of 1967 in the amount of five thousand dollars shall be
+allowed to any individual who purchases a residence during the taxable year if
+such residence:
+(i) Is located within an area that has been declared an extremely blighted
+area under section 18-2101.02;
+(ii) Is the individual's primary residence; and
+(iii) Was not purchased from a family member of the individual or a family
+member of the individual's spouse.
+(b) The credit provided in this subsection shall be claimed for the
+taxable year in which the residence is purchased. If the individual cannot
+fully utilize the credit for such year, the credit may be carried forward to
+subsequent taxable years until fully utilized.
+(c) No more than one credit may be claimed under this subsection with
+respect to a single residence.
+(d) The credit provided in this subsection shall be subject to recapture
+by the Department of Revenue if the individual claiming the credit sells or
+otherwise transfers the residence or quits using the residence as his or her
+primary residence within five years after the end of the taxable year in which
+the credit was claimed.
+(e) For purposes of this subsection, family member means an individual's
+spouse, child, parent, brother, sister, grandchild, or grandparent, whether by
+blood, marriage, or adoption.
+(8) There shall be allowed to all individuals refundable credits against
+the income tax imposed by the Nebraska Revenue Act of 1967 as provided in the
+Cast and Crew Nebraska Act, the Nebraska Biodiesel Tax Credit Act, the Nebraska
+Higher Blend Tax Credit Act, the Nebraska Property Tax Incentive Act, the
+Relocation Incentive Act, and the Renewable Chemical Production Tax Credit Act.
+(9)(a) For taxable years beginning or deemed to begin on or after January
+1, 2022, under the Internal Revenue Code of 1986, as amended, a refundable
+credit against the income tax imposed by the Nebraska Revenue Act of 1967 shall
+be allowed to the parent of a stillborn child if:
+(i) A fetal death certificate is filed pursuant to subsection (1) of
+section 71-606 for such child;
+(ii) Such child had advanced to at least the twentieth week of gestation;
+and
+(iii) Such child would have been a dependent of the individual claiming
+the credit.
+(b) The amount of the credit shall be two thousand dollars.
+(c) The credit shall be allowed for the taxable year in which the
+stillbirth occurred.
+(10) There shall be allowed to all individuals refundable credits against
+the income tax imposed by the Nebraska Revenue Act of 1967 as provided in
+section 77-7203 and nonrefundable credits against the income tax imposed by the
+Nebraska Revenue Act of 1967 as provided in section 77-7204.
+(11) There shall be allowed to all individuals refundable credits against
+the income tax imposed by the Nebraska Revenue Act of 1967 as provided in
+section 77-3157 and nonrefundable credits against the income tax imposed by the
+Nebraska Revenue Act of 1967 as provided in sections 77-3156, 77-3158, and
+77-3159.
+Sec. 5. Section 77-27,143, Reissue Revised Statutes of Nebraska, is
+amended to read:
+77-27,143 (1) The administration of all sales and use taxes adopted under
+the Local Option Revenue Act shall be by the Tax Commissioner who may prescribe
+forms and adopt and promulgate reasonable rules and regulations in conformity
+with the act for the making of returns and for the ascertainment, assessment,
+and collection of taxes imposed under such act. The incorporated municipality
+shall furnish a certified copy of the adopting or repealing ordinance to the
+Tax Commissioner in accordance with such rules and regulations as he or she may
+adopt and promulgate. For ordinances passed after October 1, 1969, the
+effective date shall be the first day of the next calendar quarter which is at
+least one hundred twenty days following receipt by the Tax Commissioner of the
+certified copy of the ordinance. The Tax Commissioner shall provide at least
+sixty days' notice of the change in tax to retailers. Notice shall be provided
+to retailers within the municipality. Notice to retailers may be provided
+through the website of the Department of Revenue or by other electronic means.
+(2) For ordinances containing a termination date and passed after October
+1, 1986, the termination date shall be the first day of a calendar quarter. The
+-9-
+
+LB208 LB208
+2025 2025
+incorporated municipality shall furnish a certified statement to the Tax
+Commissioner no more than one hundred eighty days and at least one hundred
+twenty days prior to the termination date that the termination date stated in
+the ordinance is still valid. If the certified statement is not furnished
+within the prescribed time, the tax shall remain in effect, and the Tax
+Commissioner shall continue to collect the tax until the first day of the
+calendar quarter which is at least one hundred twenty days after receipt of the
+certified statement notwithstanding the termination date stated in the
+ordinance. The Tax Commissioner shall provide at least sixty days' notice of
+the termination of the tax to retailers. Notice shall be provided to retailers
+within the municipality. Notice to retailers may be provided through the
+website of the department or by other electronic means.
+(3) For sales and use tax purposes only, local jurisdiction boundary
+changes apply only on the first day of a calendar quarter after a minimum of
+one hundred twenty days' notice to the Tax Commissioner and sixty days' notice
+to sellers.
+(4) The state shall provide and maintain a database that describes
+boundary changes for all local taxing jurisdictions. This database shall
+include a description of any change and the effective date of the change for
+sales and use tax purposes.
+(5) The state shall provide and maintain a database of all sales and use
+tax rates for all of the local jurisdictions levying taxes within the state.
+For the identification of counties, cities, and villages, codes corresponding
+to the rates shall be provided according to Federal Information Processing
+Standards as developed by the National Institute of Standards and Technology.
+(6) The state shall provide and maintain a database that assigns each
+five-digit and nine-digit zip code within the state to the proper tax rates and
+jurisdictions. For purposes of the streamlined sales and use tax agreement, the
+database shall apply the lowest combined tax rate imposed in the nine-digit zip
+code area if the area includes more than one tax rate in any level of taxing
+jurisdictions, and the database shall apply the highest combined tax rate
+imposed in the five-digit zip code area if the area includes more than one tax
+rate in any level of taxing jurisdictions. If a nine-digit zip code designation
+is not available for a street address or if a seller is unable to determine the
+nine-digit zip code designation applicable to a purchase after exercising due
+diligence to determine the designation, the seller or certified service
+provider may apply the rate for the five-digit zip code area. For purposes of
+this section, there is a rebuttable presumption that a seller or certified
+service provider has exercised due diligence if the seller has attempted to
+determine the nine-digit zip code designation by utilizing software approved by
+the governing board that makes this designation from the street address and the
+five-digit zip code applicable to a purchase.
+(7) For purposes of the streamlined sales and use tax agreement, the state
+may provide address-based boundary database records for assigning taxing
+jurisdictions and their associated rates which shall be in addition to the
+requirements of subsection (6) of this section. The database records shall be
+in the same approved format as the database records pursuant to subsection (6)
+of this section and shall meet the requirements developed pursuant to the
+federal Mobile Telecommunications Sourcing Act, 4 U.S.C. 119(a), as such act
+existed on January 1, 2003. The governing board may allow a member state to
+require sellers that register under the agreement to use an address-based
+boundary database provided by that member state. If any member state develops
+an address-based boundary database pursuant to the agreement, a seller or
+certified service provider may use those database records in place of the five-
+digit and nine-digit zip code database records provided for in subsection (6)
+of this section. If a seller or certified service provider is unable to
+determine the applicable rate and jurisdiction using an address-based boundary
+database after exercising due diligence, the seller or certified service
+provider may apply the nine-digit zip code designation applicable to a
+purchase. If a nine-digit zip code designation is not available for a street
+address or if a seller or certified service provider is unable to determine the
+nine-digit zip code designation applicable to a purchase after exercising due
+diligence to determine the designation, the seller or certified service
+provider may apply the rate for the five-digit zip code area. For the purposes
+of this section, there is a rebuttable presumption that a seller or certified
+service provider has exercised due diligence if the seller or certified service
+provider has attempted to determine the tax rate and jurisdiction by utilizing
+software approved by the governing board that makes this assignment from the
+address and zip code information applicable to the purchase.
+(8) The state may certify vendor-provided address-based boundary databases
+for assigning tax rates and jurisdictions. The databases shall be in the same
+approved format as the database records pursuant to subsection (7) of this
+section and shall meet the requirements developed pursuant to the federal
+Mobile Telecommunications Sourcing Act, 4 U.S.C. 119(a) as such act existed on
+January 1, 2003. If a state certifies a vendor-provided address-based boundary
+database, a seller or certified service provider may use that database in place
+of the database provided for in subsection (6) or (7) of this section. Vendors
+providing address-based boundary databases may request certification of their
+databases from the governing board. Certification by the governing board does
+not replace the requirement that the databases be certified by the states
+individually.
+(9) Pursuant to the streamlined sales and use tax agreement, the state
+shall relieve retailers and certified service providers using databases
+-10-
+
+LB208 LB208
+2025 2025
+pursuant to subsection (6) or (7) of this section from liability to the state
+and local jurisdictions for having charged and collected the incorrect amount
+of sales or use tax resulting from the retailer or certified service provider
+relying on erroneous data provided by a member state on tax rates, boundaries,
+or taxing jurisdiction assignments. After providing adequate notice determined
+by the governing board, a member state that provides an address-based boundary
+database for assigning taxing jurisdictions pursuant to subsection (7) or (8)
+of this section may cease providing liability relief for errors resulting from
+the reliance on the database provided by the member state under the provisions
+of subsection (6) of this section. If a seller demonstrates that requiring the
+use of the address-based boundary database would create an undue hardship, the
+state and the governing board may extend the relief of liability to such seller
+for a designated period of time.
+(10) The databases provided for in this section shall be in a downloadable
+format approved by the governing board pursuant to the streamlined sales and
+use tax agreement. The databases may be directly provided by the state or
+provided by a vendor as designated by the state. A database provided by a
+vendor as designated by a state shall be applicable to and subject to all
+provisions of this section. The databases shall be provided at no cost to the
+user of the database. The provisions of subsections (6) and (7) of this section
+do not apply when the purchased product is received by the purchaser at the
+business location of the seller.
+(11) A seller that did not have a requirement to register in this state
+prior to registering pursuant to the agreement or a certified service provider
+shall not be required to collect sales or use taxes for a state until the first
+day of the calendar quarter commencing more than sixty days after the state has
+provided the databases required by this section.
+Sec. 6. Section 77-27,241, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+77-27,241 (1) For purposes of this section:
+(a) Agricultural producer means an individual or entity whose income is
+primarily attributable to crop or livestock production in the State of
+Nebraska;
+(b) Department means the Department of Revenue;
+(c) Food bank means an organization in this state that:
+(i) Is exempt from federal income taxation under section 501(c)(3) of the
+Internal Revenue Code of 1986, as amended; and
+(ii) Distributes food in ten or more counties in Nebraska and qualifies
+for the Emergency Food Assistance Program administered by the United States
+Department of Agriculture;
+(d) Food pantry means an organization in this state that:
+(i) Is exempt from federal income taxation under section 501(c)(3) of the
+Internal Revenue Code of 1986, as amended; and
+(ii) Distributes emergency food supplies to low-income individuals in this
+state who would otherwise not have access to such food supplies;
+(e) Food rescue means an organization in this state that:
+(i) Is exempt from federal income taxation under section 501(c)(3) of the
+Internal Revenue Code of 1986, as amended; and
+(ii) Accepts donations of food and delivers such food to food banks or
+food pantries so that such food may be distributed to low-income individuals in
+this state;
+(f) Grocery store retailer means a retailer located in this state that is
+primarily engaged in business activities classified as code 445110 under the
+North American Industry Classification System;
+(g) Qualifying agricultural food donation means a donation made by an
+agricultural producer to a food bank, food pantry, or food rescue of fresh or
+frozen fruits, vegetables, eggs, dairy products, or meat products grown or
+produced in the State of Nebraska which meets all applicable quality and
+labeling standards, along with any other applicable requirements of the food
+bank, food pantry, or food rescue to which the qualifying agricultural food
+donation is made; and
+(h) Restaurant means a business located in this state that is primarily
+engaged in business activities classified as code 722511, 722513, 722514, or
+722515 under the North American Industry Classification System.
+(2) For taxable years beginning or deemed to begin on or after January 1,
+2025, under the Internal Revenue Code of 1986, as amended, a credit against the
+income tax imposed by the Nebraska Revenue Act of 1967 shall be allowed to:
+(a) Any grocery store retailer or restaurant that donates food to a food
+bank, food pantry, or food rescue during the taxable year; and
+(b) Any agricultural producer that makes a qualifying agricultural food
+donation to a food bank, food pantry, or food rescue during the taxable year.
+(3) Subject to subsection (7) of this section, the credit provided in this
+section shall be a nonrefundable credit in an amount equal to fifty percent of
+the value of the food donations or qualifying agricultural food donations made
+during the taxable year, not to exceed two thousand five hundred dollars. Any
+amount of the credit that the taxpayer is prohibited from claiming in a taxable
+year may be carried forward to any of the three subsequent taxable years.
+(4) For purposes of this section, food donated by a grocery store retailer
+or restaurant shall be valued at its wholesale value. A qualifying agricultural
+food donation shall be valued at the prevailing market value of the product at
+the time of donation, plus the direct cost incurred by the agricultural
+producer for processing the product.
+(5) To receive a credit under this section, a taxpayer shall submit an
+-11-
+
+LB208 LB208
+2025 2025
+application to the department in a form and manner prescribed by the
+department. The application shall include the amount of food donated during the
+taxable year and any other information required by the department.
+(6) If the department determines that an application is complete and that
+the taxpayer qualifies for credits, the department shall approve the
+application within the limits set forth in this section and shall certify the
+amount of credits approved to the taxpayer.
+(7) The department may approve up to five hundred thousand dollars of
+credits in fiscal year 2025-26 and each fiscal year thereafter. Once credits
+have reached the annual limit for any fiscal year, no additional credits shall
+be allowed for such fiscal year. Credits shall be prorated among the credit
+requests received on the day the annual limit is exceeded. If the amount of
+credits requested by qualified taxpayers in any year exceeds such limit, the
+department shall allocate credits proportionally based on the amounts requested
+so that the limit is not exceeded.
+(8) A taxpayer shall claim the credit by attaching the tax credit
+certification received from the department under subsection (6) of this section
+to the taxpayer's tax return.
+(9) Any amount relating to such food donations or qualifying agricultural
+food donations that was deducted as a charitable contribution on the taxpayer's
+federal income tax return must be added back in the determination of Nebraska
+taxable income before the credit provided in this section may be claimed.
+(10) No credit granted under this section shall be transferred, sold, or
+assigned. No taxpayer shall be eligible to receive a credit under this section
+if such taxpayer employs persons who are not authorized to work in the United
+States under federal law. No taxpayer shall be able to claim more than one
+credit under this section for a single donation.
+(11) A food bank, food pantry, or food rescue may accept or reject any
+food donated under this section for any reason. Any food that is rejected shall
+not qualify for a credit under this section.
+(12) The department may adopt and promulgate rules and regulations to
+carry out this section.
+Sec. 7. Section 77-7012, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-7012 (1) If the department determines that an application is complete
+and that the taxpayer qualifies for tax credits, the department shall approve
+the application within the limits set forth in this section and shall certify
+the amount of tax credits approved to the taxpayer.
+(2) The department may approve up to one million dollars in tax credits in
+fiscal year 2024-25 and up to one million five hundred thousand dollars in tax
+credits in any fiscal year thereafter. Once credits have reached the annual
+limit for any fiscal year, no additional credits shall be allowed for such
+fiscal year. Credits shall be prorated among the credit requests received on
+the day the annual limit is exceeded. If the total amount of tax credits
+requested in any fiscal year exceeds such limit, the department shall allocate
+the tax credits proportionally based upon amounts requested.
+Sec. 8. Section 77-7203, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-7203 (1) For taxable years beginning or deemed to begin on or after
+January 1, 2024, under the Internal Revenue Code of 1986, as amended, a parent
+or legal guardian who is a resident of the State of Nebraska shall be eligible
+to receive a credit against the income tax imposed by the Nebraska Revenue Act
+of 1967 if:
+(a) The parent's or legal guardian's child is enrolled in a child care
+program licensed pursuant to the Child Care Licensing Act;
+(b) The parent's or legal guardian's child receives care from an approved
+license-exempt provider enrolled in the child care subsidy program pursuant to
+sections 68-1202 and 68-1206; or
+(c) The parent's or legal guardian's total household income is less than
+or equal to one hundred percent of the federal poverty level.
+(2) The credit provided in this section shall be a refundable tax credit
+equal to:
+(a) Two thousand dollars per child if the parent's or legal guardian's
+total household income is no more than seventy-five thousand dollars; or
+(b) One thousand dollars per child if the parent's or legal guardian's
+total household income is more than seventy-five thousand dollars but no more
+than one hundred fifty thousand dollars.
+(3) A parent or legal guardian shall not be eligible for a credit under
+this section if the parent's or legal guardian's total household income is more
+than one hundred fifty thousand dollars.
+(4) A parent or legal guardian shall apply for the credit provided in this
+section by submitting an application to the department with the following
+information:
+(a) The number of children for which the parent or legal guardian is
+claiming a credit;
+(b) Documentation of the parent's or legal guardian's total household
+income; and
+(c) Any other documentation required by the department.
+(5) Subject to subsection (6) of this section, if the department
+determines that the parent or legal guardian qualifies for tax credits under
+this section, the department shall approve the application and certify the
+amount of credits approved to the parent or legal guardian.
+(6) The department shall consider applications in the order in which they
+-12-
+
+LB208 LB208
+2025 2025
+are received and may approve tax credits under this section each year until the
+total amount of credits approved for the year equals fifteen million dollars.
+Sec. 9. Original sections 77-2712.03 and 77-27,143, Reissue Revised
+Statutes of Nebraska, and sections 77-2708, 77-2711, 77-2715.07, 77-27,241,
+77-7012, and 77-7203, Revised Statutes Cumulative Supplement, 2024, are
+repealed.
+-13-
+
+[DELETED: yv B F A A r t r a t t a s a 7 R R S o N a 7 7 7 7 7 a 7 S C S 2 t c p t s t c f c o s t t c f p a l g t h t d o t m n s e m p u i a t T C d n f t p s d i n i o t i p t o f t l E a r b t s s a u t m a l t t t d a m r s b C s h t d t a a a r f T C m a a p r a r t u t a S r a r m e a m o t l b p e q A l o e y t F p o t s t a r s b f b e e t a c s t r m b f f a l w a s t c o F p o t c o m t s p o p o e o m o e l l F p o t u t  e p w h p p t s u o o T T C m r t r b s b t a a b o a g r a b w r b t N R A o 1 o t s a c m d e m I a t t s o o d o a a r h o s s b8L52]
+[DELETED:  m p o s a I t s d n o  o t n r f d o a s t n p W t r h a o b o t o o r d s b c f a p i a t i o t ( ( o ( o s 7 b a c h o h o h o h t r t p o t f f s a u t f a p b a c s a t c s p i c p t t A r t m s i N u a m i i g r i i r b m c c f a A m m p i r o i o t T s s n a i t m m I t T C d t a s o u t i c o c o h b p a t p t p u t N R A o 1 A b m b t t p b w i w p o h o h s o a w t y f t r f d m a a d b f u s 7 o s m f t d o o w r t s w o t t p e l u t E c s b i w o f p b t T a s s t s a a g u w t T T C s a o d a c w o e d a i h b f A r f a h s8L52]
+[DELETED:  W t d a t m o t n o t T r o t T C d a p i s U t a o a c o r o a s e o N s o p s b m i a c f t o w t p o a f i a d C s b a t t r c o o J 1 2 H t a c p t 2 b d i w o a u i t c b a a i e t b d f f i t p  b d d f f i t p i t c w r o t r f f t p i w t c i p d w t b d i w o a r c m b I f r h b a b a c s d a p m o a d o a a a f a l f t d t T C s n t d f i t p i o l s o i t e8L52]
+[DELETED:  7 o s ( o s 7 w i a a c n f t e a o t R A o 1 a m d a t h o h t c h p r o p a t t y f t m o s r u t T e t b p r a e o a p s a a p l f t u t a m i t a r t b p I t e o a p s t p i l u t L O R A o s c a m p a r a t t p h o r b a p o c o p h i h h o p o c i r t s o p t d o s a s o i a t T C m I s b a C I m f t T C o a o e o t T C t S T o t o r a a o a r o a o p p n c w t T C N i t s r o h o h s r t h b c ( t f o a i t t U G o t s a s p t t T ( t d o i a r t a c r c t t b t t a t o ( t d o i p t s 7 D o L n f t a o t E8L52]
+[DELETED:  p t t N R A o 1 w i o t b t U S P S a s p f t u o t m t c a d f a f t t t T C w t i t d t S o r r a a f u s 7 t C m u r p t c b o a c f t c C V P F u t N a a o t h l w t r c f t l s t r b o o b o t h h T C s u w r b t A o P o t i b o d t t A o P t e n i m a a o t D o R s b a o u t p o t D o A a w p p t t a o t D o N e o t A o P A o t o o A o o e w o d r s o 1 i a f w c b a w o o i A p w v t p o t s s b o a C I m F p o t s e a f A o P A o o o L A A t i n a ( t n s o o h o h i p r d e a l n w t l t w i b o w b e o s t o i o o ( a o d r b r b p b o l o a p f a t p i f r b p f o p u s 7 t w i f w t T C b o b o o w t a p a a a o s t i C s u r p a m w h s t f t m T r m b m a a a o t r T T C m p a8L52]
+[DELETED:  T C s u w r p a i w t b o t r m A w p t t s s p t D o R o u t p o t d e t s I s c t i c u s ( o t t h o h b e t s i a m a o t s s c t t D o R o w i a b s m t m s r a t d d i s ( o t s T m t p f a o o t s s d t a p a i o t a r u t s A i c b  p t s ( o t s s r n l i t e o o u c w t c A p w v t p o t s s b T C i h o h d m w a o p o a p b t p o s a o i o d t p o t c r o a p i t C t i m a i t i P i i m i t t p o c b p t a W v e a c s p s p i t r a r f w r t t a m c a c s p o i t n f t a o m 1 w r t e I p c c a c n o i i a w i d t i t m s I c u a r o p i i l t t r b t m s t e t I p a t p a a s a t p p i i f T s s p p n t c i8L52]
+[DELETED:  W p i i r a i i l o t a s t d p i t s f w t i i s s m  A o l a r r t c u a o c t i r f a a W l t s d n e o l t P c w s l d o c i o u a d a w t I C d d o o u a d f 3 S 7 R R S o N i t D 3 2 2 i h r b t T G s e i t a w o o m o V o t a t e s f c o  s p a c a s a e s f m s T d i f t r N b t o m s u t T s a a t p i a c w t a p i A V o t a a t t A c f t p t a s a p i s i t i w h r t f c a u8L52]
+[DELETED:  b r b t p f e o t d o f q f a i t c a a q b f o b o d t b o o a J 1 2 u t A r c f i w q f a i t u t A I T C A t N A t R O S T C A o t V E r c s b a o i t i w h s a p i t C H I E F A o a e o t o e m o a l l s r h o h s o t c i t s m a a h o s r t p s S c A c a p i t N J C a M A c t g s r r a a c f t c s a p i t C H A r c f i w q f a i t e p s m o b o a p C A s b e t t p s m o p o t a o t c d p t A o 1 e t f p o t p s R C o 1 a a t s b a t e s m o b o a p s  l l c o e o t a n8L52]
+[DELETED:  t p s m o b p o t t i I a p s m o b c T s b a t a i n c a a n c a t i t i b t T c p i t s s b c f t y i w t r i p I t i c N m t o c m b c u t s w t D o R i t i c t c s o B T C A t N P T I A t 2 u t I R C o 1 a a a r A f d c i f p t s ( o T c s b a f t t y i w t i t i b t N R A o 1 a p i i t i b t N R A o 1 a p i R A o 1 a p i s 7 7 a 5 S 7 R R S o N i a p F o p a O 1 1 t r w t m N t r m b p8L52]
+[DELETED:  m s f a c s t t T n m t o h e d a a l o h o i s v I t c s i n f t p t t t s r i e a t T s c t c t t u t f d o t s n t t d s i t t m N t r m b p t t F s a u t p o l j b T s s p a m a d t d c f a l t j T d s t r s b p a t F I P T s s p a m a d t a e a t d s a t h c t r t d t d t s o c s s t i a r p t a s o c p h e d d i t s h a t p a b d r f a t a t a r w s b i a t t t s a s m t r d p t t s t r u t a t u a a a b d p t t a a s o t s I a s o c s p i u t a e d d t s o c s m a t n z c d a t  t d t d t s o c s f a t d r p t s ( o t a s m t r d p t t f r t r t t d b c b t s P t t s s a u t a t s r r a c s p u d8L52]
+[DELETED:  t a T d m b d p b t s o b a v a d b t s A d p b  a d b a s s b a t a s t a A p m a i o e w i i a t c o l p i t S o t E F A P a b t U S A d o f a d s f t f b o Q a f d m a d m b a f v e d p o m p g o i t S o N w m a a q a f p o f r t w t q a f A a p t m a q a f t o d p t d c i b t a T r a c u t s a t s s a8L52]
+[DELETED:  t t d i a f a m p b t t q f c t d s a t T d m a u t f h t d o a f s f y C s b p a t c A t s c t c b a t t c u f l N t s b a t c m t o A f b f p o f r m a o r a T d m a a p r a r t i a f y t O c h r t a f a f y n a c s b a f s d t a l i e I t t a o t c ( F t y b o d t b o o a T p o l g c i e i a c c T t d p c i t p o l g O t d p c i t p o l g b s a a t t d w t f T n o c f w t p o l g i D o t p o l g t h S t s ( o t s i t d s t d s a t a a c t8L52]
+[DELETED:  9  O s 7 a 7 R R o N a s 7 7 7 7 a 7 R S C S 2 a8L52]

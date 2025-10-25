@@ -1,0 +1,111 @@
+Title: LEGISLATIVE BILL 20
+Official Title: LEGISLATIVE BILL 20
+Number of Sections: 3
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+LB20 LB20
+2025 2025
+Approved by the Governor February 25, 2025
+Introduced by Cavanaugh, J., 9.
+A BILL FOR AN ACT relating to renewable energy; to define terms; and to provide
+for electric service between a local distribution system and an
+agricultural self-generation facility as prescribed.
+Be it enacted by the people of the State of Nebraska,
+
+Section 2:
+Section 1. (1) For purposes of this section:
+(a) Agricultural or horticultural purposes has the same meaning as in
+
+Section 3:
+section 77-1359;
+(b) Agricultural self-generation facility means a facility for the
+production of electricity that:
+(i) Uses methane, wind, solar, biomass, hydropower, or geothermal
+resources as its energy source;
+(ii) Is controlled by the owner-generator and located entirely on the same
+premises as the owner-generator's electric account with the local distribution
+utility;
+(iii) Is owned, leased, or otherwise controlled by the owner-generator and
+used for agricultural or horticultural purposes;
+(iv) Has a rated capacity of one hundred kilowatts or less;
+(v) Utilizes a device which prevents any backfeed of electricity to the
+local distribution system; and
+(vi) Is not used for purposes of net metering;
+(c) Local distribution system means the equipment and facilities used by a
+local distribution utility to distribute electricity to end-use customers;
+(d) Local distribution utility means the owner or operator of a local
+distribution system. Local distribution utility includes a public power
+district, a public power and irrigation district, an electric cooperative, or a
+municipal electric system;
+(e) Net metering has the same meaning as in section 70-2002; and
+(f) Owner-generator means the person controlling an agricultural self-
+generation facility.
+(2) No local distribution utility shall deny or refuse electric service to
+a customer that owns an agricultural self-generation facility. An owner-
+generator is subject to the interconnection requirements, safety standards,
+electric rates and charges, and service agreement requirements of the local
+distribution utility in whose service area the agricultural self-generation
+facility is located. Nothing in this subsection shall be construed to prohibit
+a local distribution utility from establishing the rates or fees necessary to
+fully cover its costs to serve a customer that is an owner-generator.
+(3) An owner-generator shall notify the local distribution utility of such
+owner-generator's intent to install an agricultural self-generation facility.
+-1-
+[DELETED: yC e s b a l d s a a A o h p h t s m a i A s f m a f f t U m w s b h o g L d u m t o o o o a l s L d u i a p p O m t p c a a s c t o a a s f A o i s t t i r s s r a c a s a r o t l u i w s a t a s0L52]
+
+
+================================================================================
+
+Raw Text:
+LB20 LB20
+2025 2025
+LEGISLATIVE BILL 20
+Approved by the Governor February 25, 2025
+Introduced by Cavanaugh, J., 9.
+A BILL FOR AN ACT relating to renewable energy; to define terms; and to provide
+for electric service between a local distribution system and an
+agricultural self-generation facility as prescribed.
+Be it enacted by the people of the State of Nebraska,
+Section 1. (1) For purposes of this section:
+(a) Agricultural or horticultural purposes has the same meaning as in
+section 77-1359;
+(b) Agricultural self-generation facility means a facility for the
+production of electricity that:
+(i) Uses methane, wind, solar, biomass, hydropower, or geothermal
+resources as its energy source;
+(ii) Is controlled by the owner-generator and located entirely on the same
+premises as the owner-generator's electric account with the local distribution
+utility;
+(iii) Is owned, leased, or otherwise controlled by the owner-generator and
+used for agricultural or horticultural purposes;
+(iv) Has a rated capacity of one hundred kilowatts or less;
+(v) Utilizes a device which prevents any backfeed of electricity to the
+local distribution system; and
+(vi) Is not used for purposes of net metering;
+(c) Local distribution system means the equipment and facilities used by a
+local distribution utility to distribute electricity to end-use customers;
+(d) Local distribution utility means the owner or operator of a local
+distribution system. Local distribution utility includes a public power
+district, a public power and irrigation district, an electric cooperative, or a
+municipal electric system;
+(e) Net metering has the same meaning as in section 70-2002; and
+(f) Owner-generator means the person controlling an agricultural self-
+generation facility.
+(2) No local distribution utility shall deny or refuse electric service to
+a customer that owns an agricultural self-generation facility. An owner-
+generator is subject to the interconnection requirements, safety standards,
+electric rates and charges, and service agreement requirements of the local
+distribution utility in whose service area the agricultural self-generation
+facility is located. Nothing in this subsection shall be construed to prohibit
+a local distribution utility from establishing the rates or fees necessary to
+fully cover its costs to serve a customer that is an owner-generator.
+(3) An owner-generator shall notify the local distribution utility of such
+owner-generator's intent to install an agricultural self-generation facility.
+-1-
+
+[DELETED: yC e s b a l d s a a A o h p h t s m a i A s f m a f f t U m w s b h o g L d u m t o o o o a l s L d u i a p p O m t p c a a s c t o a a s f A o i s t t i r s s r a c a s a r o t l u i w s a t a s0L52]

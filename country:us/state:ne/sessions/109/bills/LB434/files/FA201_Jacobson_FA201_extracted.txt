@@ -1,0 +1,30 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Jacobson FA201
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA201 FA201
+LB434 LB434
+Floor Amendment To LB434
+Introduced by Jacobson, 42.
+On page 5, line 15, strike new language.
+-1-
+[DELETED: yJ1F4L]
+
+
+================================================================================
+
+Raw Text:
+FA201 FA201
+LB434 LB434
+Floor Amendment To LB434
+Introduced by Jacobson, 42.
+On page 5, line 15, strike new language.
+-1-
+
+[DELETED: yJ1F4L]

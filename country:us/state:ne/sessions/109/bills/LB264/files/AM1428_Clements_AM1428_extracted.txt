@@ -1,0 +1,35 @@
+Title: 1 1. On page 5, line 7, strike "$2,000,000" and insert "$1,000,000".
+Official Title: 1 1. On page 5, line 7, strike "$2,000,000" and insert "$1,000,000".
+Number of Sections: 1
+Source: versions - Clements AM1428
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM1428 AM1428
+LB264 LB264
+MMM - 05/12/2025 MMM - 05/12/2025
+AMENDMENTS TO LB264
+(Amendments to E&R amendments, ER77)
+Introduced by Clements, 2.
+2 2. On page 16, line 13, strike "$1,000,000" and insert "$2,000,000".
+-1-
+[DELETED: yC128A4L5M]
+
+
+================================================================================
+
+Raw Text:
+AM1428 AM1428
+LB264 LB264
+MMM - 05/12/2025 MMM - 05/12/2025
+AMENDMENTS TO LB264
+(Amendments to E&R amendments, ER77)
+Introduced by Clements, 2.
+1 1. On page 5, line 7, strike "$2,000,000" and insert "$1,000,000".
+2 2. On page 16, line 13, strike "$1,000,000" and insert "$2,000,000".
+-1-
+
+[DELETED: yC128A4L5M]

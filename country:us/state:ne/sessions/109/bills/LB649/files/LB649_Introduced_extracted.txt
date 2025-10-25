@@ -1,0 +1,287 @@
+Title: LEGISLATIVE BILL 649
+Official Title: LEGISLATIVE BILL 649
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB649 LB649
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Revenue Committee: von Gillern, 4, Chairperson; Ibach, 44;
+Kauth, 31; Murman, 38; Sorrentino, 39.
+Read first time January 22, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to income taxes; to amend section 77-2715.03,
+2 Revised Statutes Cumulative Supplement, 2024; to change provisions
+3 relating to a certain tax rate; and to repeal the original section.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+LB649 LB649
+2025 2025
+1 Section 1. Section 77-2715.03, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 77-2715.03 (1) For taxable years beginning or deemed to begin on or
+4 after January 1, 2013, and before January 1, 2014, the following brackets
+5 and rates are hereby established for the Nebraska individual income tax:
+6 Individual Income Tax Brackets and Rates
+7 Bracket Single Married, Head of Married, Estates Tax
+8 Number Individuals Filing Household Filing and Rate
+9 Jointly Separate Trusts
+10 1 $0-2,399 $0-4,799 $0-4,499 $0-2,399 $0-499 2.46%
+11 2 $2,400- $4,800- $4,500- $2,400- $500-
+12 17,499 34,999 27,999 17,499 4,699 3.51%
+13 3 $17,500- $35,000- $28,000- $17,500- $4,700-
+14 26,999 53,999 39,999 26,999 15,149 5.01%
+15 4 $27,000 $54,000 $40,000 $27,000 $15,150
+16 and Over and Over and Over and Over and Over 6.84%
+17 (2)(a) For taxable years beginning or deemed to begin on or after
+18 January 1, 2014, the following brackets and rates are hereby established
+19 for the Nebraska individual income tax:
+20 Individual Income Tax Brackets and Rates
+21 Bracket Single Married, Head of Married, Estates Tax
+22 Number Individuals Filing Household Filing and Rate
+23 Jointly Separate Trusts
+24 1 $0-2,999 $0-5,999 $0-5,599 $0-2,999 $0-499 2.46%
+25 2 $3,000- $6,000- $5,600- $3,000- $500-
+26 17,999 35,999 28,799 17,999 4,699 3.51%
+27 3 $18,000- $36,000- $28,800- $18,000- $4,700- Rate
+28 28,999 57,999 42,999 28,999 15,149 Three
+29 4 $29,000 $58,000 $43,000 $29,000 $15,150 Rate
+30 and Over and Over and Over and Over and Over Four
+-2-
+LB649 LB649
+2025 2025
+1 (b) For purposes of this subsection, rate three shall be:
+2 (i) 5.01% for taxable years beginning or deemed to begin on or after
+3 January 1, 2014, and before January 1, 2026;
+4 (ii) 4.55% for taxable years beginning or deemed to begin on or
+5 after January 1, 2026, and before January 1, 2027; and
+6 (iii) 3.99% for taxable years beginning or deemed to begin on or
+7 after January 1, 2027.
+8 (c) For purposes of this subsection, rate four shall be:
+9 (i) 6.84% for taxable years beginning or deemed to begin on or after
+10 January 1, 2014, and before January 1, 2023;
+11 (ii) 6.64% for taxable years beginning or deemed to begin on or
+12 after January 1, 2023, and before January 1, 2024;
+13 (iii) 5.84% for taxable years beginning or deemed to begin on or
+14 after January 1, 2024, and before January 1, 2025;
+15 (iv) 5.20% for taxable years beginning or deemed to begin on or
+16 after January 1, 2025, and before January 1, 2026;
+17 (v) 4.55% for taxable years beginning or deemed to begin on or after
+18 January 1, 2026, and before January 1, 2027; and
+19 (vi) 3.99% for taxable years beginning or deemed to begin on or
+20 after January 1, 2027.
+21 (3)(a) For taxable years beginning or deemed to begin on or after
+22 January 1, 2015, the minimum and maximum dollar amounts for each income
+23 tax bracket provided in subsection (2) of this section shall be adjusted
+24 for inflation by the percentage determined under subdivision (3)(b) of
+25 this section. The rate applicable to any such income tax bracket shall
+26 not be changed as part of any adjustment under this subsection. The
+27 minimum and maximum dollar amounts for each income tax bracket as
+28 adjusted shall be rounded to the nearest ten-dollar amount. If the
+29 adjusted amount for any income tax bracket ends in a five, it shall be
+30 rounded up to the nearest ten-dollar amount.
+31 (b)(i) For taxable years beginning or deemed to begin on or after
+-3-
+LB649 LB649
+2025 2025
+1 January 1, 2015, and before January 1, 2018, the Tax Commissioner shall
+2 adjust the income tax brackets by the percentage determined pursuant to
+3 the provisions of section 1(f) of the Internal Revenue Code of 1986, as
+4 it existed prior to December 22, 2017, except that in section 1(f)(3)(B)
+5 of the code the year 2013 shall be substituted for the year 1992. For
+6 2015, the Tax Commissioner shall then determine the percent change from
+7 the twelve months ending on August 31, 2013, to the twelve months ending
+8 on August 31, 2014, and in each subsequent year, from the twelve months
+9 ending on August 31, 2013, to the twelve months ending on August 31 of
+10 the year preceding the taxable year. The Tax Commissioner shall prescribe
+11 new tax rate schedules that apply in lieu of the schedules set forth in
+12 subsection (2) of this section.
+13 (ii) For taxable years beginning or deemed to begin on or after
+14 January 1, 2018, the Tax Commissioner shall adjust the income tax
+15 brackets based on the percentage change in the Consumer Price Index for
+16 All Urban Consumers published by the federal Bureau of Labor Statistics
+17 from the twelve months ending on August 31, 2016, to the twelve months
+18 ending on August 31 of the year preceding the taxable year. The Tax
+19 Commissioner shall prescribe new tax rate schedules that apply in lieu of
+20 the schedules set forth in subsection (2) of this section.
+21 (4) Whenever the tax brackets or tax rates are changed by the
+22 Legislature, the Tax Commissioner shall update the tax rate schedules to
+23 reflect the new tax brackets or tax rates and shall publish such updated
+24 schedules.
+25 (5) The Tax Commissioner shall prepare, from the rate schedules, tax
+26 tables which can be used by a majority of the taxpayers to determine
+27 their Nebraska tax liability. The design of the tax tables shall be
+28 determined by the Tax Commissioner. The size of the tax table brackets
+29 may change as the level of income changes. The difference in tax between
+30 two tax table brackets shall not exceed fifteen dollars. The Tax
+31 Commissioner may build the personal exemption credit and standard
+-4-
+LB649 LB649
+2025 2025
+1 deduction amounts into the tax tables.
+2 (6) For taxable years beginning or deemed to begin on or after
+3 January 1, 2013, the tax rate applied to other federal taxes included in
+4 the computation of the Nebraska individual income tax shall be twenty-
+5 nine and six-tenths 29.6 percent.
+6 (7) The Tax Commissioner may require by rule and regulation that all
+7 taxpayers shall use the tax tables if their income is less than the
+8 maximum income included in the tax tables.
+9 Sec. 2. Original section 77-2715.03, Revised Statutes Cumulative
+10 Supplement, 2024, is repealed.
+-5-
+[DELETED: yRAR S C S 2 t c prB9L52]
+[DELETED: S 1 S 7 R S CS7aaIBtSeM,HfM,EsTNrIsFgHdFgadR  Jy SeTs01$9$9$9$9$9212$-$-$-$-$-2 1939291949333$-$-$-$-$-4 2959392919554$0$0$0$0$06 ararararar67(8J9f0I1BtSeM,HfM,EsT2NrIsFgHdFgadR3  Jy SeTs41$9$9$9$9$9252$-$-$-$-$-6 1939291949373$-$-$-$-$-R8 2959492919T94$0$0$0$0$0R0 arararararF9L52]
+[DELETED: ((J( 4 f t y b o d t b o oa( 3 f t y b o d t b o oa((0J1( 6 f t y b o d t b o o2a3( 5 f t y b o d t b o o4a5( 5 f t y b o d t b o o6a7(8J9( 3 f t y b o d t b o o0a1(2J3t4f i b t p d u s ( o5t6n b c a p o a a u t s T7m a m d a f e i t b a8a s b r t t n t a I t9a0r1(9L52]
+[DELETED: Jatio2toe0t1n2s3( F t y b o d t b o o a4J 1 2 t T C s a t i t5b6A7f8e o A 3 o t y p t t y T T9C0t1( W t t b o t r a c b t2L3r4s5(6t w c b u b a m o t t t d7t N t l T d o t t t s b8d9m0t t t b s n e f d T T1C m b t p e c a s9L52]
+[DELETED: d( F t y b o d t b o o aJt tn(t s u t t t i t i i l t tmS 2  O s 7 R S C0S9L52]
+
+
+================================================================================
+
+Raw Text:
+LB649 LB649
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 649
+Introduced by Revenue Committee: von Gillern, 4, Chairperson; Ibach, 44;
+Kauth, 31; Murman, 38; Sorrentino, 39.
+Read first time January 22, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to income taxes; to amend section 77-2715.03,
+2 Revised Statutes Cumulative Supplement, 2024; to change provisions
+3 relating to a certain tax rate; and to repeal the original section.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB649 LB649
+2025 2025
+1 Section 1. Section 77-2715.03, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 77-2715.03 (1) For taxable years beginning or deemed to begin on or
+4 after January 1, 2013, and before January 1, 2014, the following brackets
+5 and rates are hereby established for the Nebraska individual income tax:
+6 Individual Income Tax Brackets and Rates
+7 Bracket Single Married, Head of Married, Estates Tax
+8 Number Individuals Filing Household Filing and Rate
+9 Jointly Separate Trusts
+10 1 $0-2,399 $0-4,799 $0-4,499 $0-2,399 $0-499 2.46%
+11 2 $2,400- $4,800- $4,500- $2,400- $500-
+12 17,499 34,999 27,999 17,499 4,699 3.51%
+13 3 $17,500- $35,000- $28,000- $17,500- $4,700-
+14 26,999 53,999 39,999 26,999 15,149 5.01%
+15 4 $27,000 $54,000 $40,000 $27,000 $15,150
+16 and Over and Over and Over and Over and Over 6.84%
+17 (2)(a) For taxable years beginning or deemed to begin on or after
+18 January 1, 2014, the following brackets and rates are hereby established
+19 for the Nebraska individual income tax:
+20 Individual Income Tax Brackets and Rates
+21 Bracket Single Married, Head of Married, Estates Tax
+22 Number Individuals Filing Household Filing and Rate
+23 Jointly Separate Trusts
+24 1 $0-2,999 $0-5,999 $0-5,599 $0-2,999 $0-499 2.46%
+25 2 $3,000- $6,000- $5,600- $3,000- $500-
+26 17,999 35,999 28,799 17,999 4,699 3.51%
+27 3 $18,000- $36,000- $28,800- $18,000- $4,700- Rate
+28 28,999 57,999 42,999 28,999 15,149 Three
+29 4 $29,000 $58,000 $43,000 $29,000 $15,150 Rate
+30 and Over and Over and Over and Over and Over Four
+-2-
+
+LB649 LB649
+2025 2025
+1 (b) For purposes of this subsection, rate three shall be:
+2 (i) 5.01% for taxable years beginning or deemed to begin on or after
+3 January 1, 2014, and before January 1, 2026;
+4 (ii) 4.55% for taxable years beginning or deemed to begin on or
+5 after January 1, 2026, and before January 1, 2027; and
+6 (iii) 3.99% for taxable years beginning or deemed to begin on or
+7 after January 1, 2027.
+8 (c) For purposes of this subsection, rate four shall be:
+9 (i) 6.84% for taxable years beginning or deemed to begin on or after
+10 January 1, 2014, and before January 1, 2023;
+11 (ii) 6.64% for taxable years beginning or deemed to begin on or
+12 after January 1, 2023, and before January 1, 2024;
+13 (iii) 5.84% for taxable years beginning or deemed to begin on or
+14 after January 1, 2024, and before January 1, 2025;
+15 (iv) 5.20% for taxable years beginning or deemed to begin on or
+16 after January 1, 2025, and before January 1, 2026;
+17 (v) 4.55% for taxable years beginning or deemed to begin on or after
+18 January 1, 2026, and before January 1, 2027; and
+19 (vi) 3.99% for taxable years beginning or deemed to begin on or
+20 after January 1, 2027.
+21 (3)(a) For taxable years beginning or deemed to begin on or after
+22 January 1, 2015, the minimum and maximum dollar amounts for each income
+23 tax bracket provided in subsection (2) of this section shall be adjusted
+24 for inflation by the percentage determined under subdivision (3)(b) of
+25 this section. The rate applicable to any such income tax bracket shall
+26 not be changed as part of any adjustment under this subsection. The
+27 minimum and maximum dollar amounts for each income tax bracket as
+28 adjusted shall be rounded to the nearest ten-dollar amount. If the
+29 adjusted amount for any income tax bracket ends in a five, it shall be
+30 rounded up to the nearest ten-dollar amount.
+31 (b)(i) For taxable years beginning or deemed to begin on or after
+-3-
+
+LB649 LB649
+2025 2025
+1 January 1, 2015, and before January 1, 2018, the Tax Commissioner shall
+2 adjust the income tax brackets by the percentage determined pursuant to
+3 the provisions of section 1(f) of the Internal Revenue Code of 1986, as
+4 it existed prior to December 22, 2017, except that in section 1(f)(3)(B)
+5 of the code the year 2013 shall be substituted for the year 1992. For
+6 2015, the Tax Commissioner shall then determine the percent change from
+7 the twelve months ending on August 31, 2013, to the twelve months ending
+8 on August 31, 2014, and in each subsequent year, from the twelve months
+9 ending on August 31, 2013, to the twelve months ending on August 31 of
+10 the year preceding the taxable year. The Tax Commissioner shall prescribe
+11 new tax rate schedules that apply in lieu of the schedules set forth in
+12 subsection (2) of this section.
+13 (ii) For taxable years beginning or deemed to begin on or after
+14 January 1, 2018, the Tax Commissioner shall adjust the income tax
+15 brackets based on the percentage change in the Consumer Price Index for
+16 All Urban Consumers published by the federal Bureau of Labor Statistics
+17 from the twelve months ending on August 31, 2016, to the twelve months
+18 ending on August 31 of the year preceding the taxable year. The Tax
+19 Commissioner shall prescribe new tax rate schedules that apply in lieu of
+20 the schedules set forth in subsection (2) of this section.
+21 (4) Whenever the tax brackets or tax rates are changed by the
+22 Legislature, the Tax Commissioner shall update the tax rate schedules to
+23 reflect the new tax brackets or tax rates and shall publish such updated
+24 schedules.
+25 (5) The Tax Commissioner shall prepare, from the rate schedules, tax
+26 tables which can be used by a majority of the taxpayers to determine
+27 their Nebraska tax liability. The design of the tax tables shall be
+28 determined by the Tax Commissioner. The size of the tax table brackets
+29 may change as the level of income changes. The difference in tax between
+30 two tax table brackets shall not exceed fifteen dollars. The Tax
+31 Commissioner may build the personal exemption credit and standard
+-4-
+
+LB649 LB649
+2025 2025
+1 deduction amounts into the tax tables.
+2 (6) For taxable years beginning or deemed to begin on or after
+3 January 1, 2013, the tax rate applied to other federal taxes included in
+4 the computation of the Nebraska individual income tax shall be twenty-
+5 nine and six-tenths 29.6 percent.
+6 (7) The Tax Commissioner may require by rule and regulation that all
+7 taxpayers shall use the tax tables if their income is less than the
+8 maximum income included in the tax tables.
+9 Sec. 2. Original section 77-2715.03, Revised Statutes Cumulative
+10 Supplement, 2024, is repealed.
+-5-
+
+[DELETED: yRAR S C S 2 t c prB9L52]
+[DELETED: S 1 S 7 R S CS7aaIBtSeM,HfM,EsTNrIsFgHdFgadR  Jy SeTs01$9$9$9$9$9212$-$-$-$-$-2 1939291949333$-$-$-$-$-4 2959392919554$0$0$0$0$06 ararararar67(8J9f0I1BtSeM,HfM,EsT2NrIsFgHdFgadR3  Jy SeTs41$9$9$9$9$9252$-$-$-$-$-6 1939291949373$-$-$-$-$-R8 2959492919T94$0$0$0$0$0R0 arararararF9L52]
+[DELETED: ((J( 4 f t y b o d t b o oa( 3 f t y b o d t b o oa((0J1( 6 f t y b o d t b o o2a3( 5 f t y b o d t b o o4a5( 5 f t y b o d t b o o6a7(8J9( 3 f t y b o d t b o o0a1(2J3t4f i b t p d u s ( o5t6n b c a p o a a u t s T7m a m d a f e i t b a8a s b r t t n t a I t9a0r1(9L52]
+[DELETED: Jatio2toe0t1n2s3( F t y b o d t b o o a4J 1 2 t T C s a t i t5b6A7f8e o A 3 o t y p t t y T T9C0t1( W t t b o t r a c b t2L3r4s5(6t w c b u b a m o t t t d7t N t l T d o t t t s b8d9m0t t t b s n e f d T T1C m b t p e c a s9L52]
+[DELETED: d( F t y b o d t b o o aJt tn(t s u t t t i t i i l t tmS 2  O s 7 R S C0S9L52]

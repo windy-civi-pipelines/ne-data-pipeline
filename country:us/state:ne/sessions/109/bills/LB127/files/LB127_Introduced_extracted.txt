@@ -1,0 +1,185 @@
+Title: LEGISLATIVE BILL 127
+Official Title: LEGISLATIVE BILL 127
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LB127 LB127
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by McKeon, 41; Hardin, 48; Lippincott, 34; Lonowski, 33.
+Read first time January 10, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to criminal actions; to amend section 29-1208,
+2 Reissue Revised Statutes of Nebraska; to provide for damages for
+3 defendants in criminal actions that are dismissed or in which the
+4 defendant is found not guilty; to define a term; to harmonize
+5 provisions; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB127 LB127
+2025 2025
+1 Section 1. (1) The Legislature finds that people who are mistakenly
+2 or wrongfully prosecuted suffer significant financial hardship as a
+3 result. The purpose of this section is to lessen the hardship faced by
+4 such people and to serve as an incentive for the government to use
+5 caution and restraint in making prosecutorial decisions.
+6 (2) For purposes of this section, prosecutor includes the Attorney
+7 General, a deputy attorney general, assistant attorneys general, a county
+8 attorney, a deputy county attorney, a city attorney, or any other person
+9 with the authority to prosecute criminal actions.
+10 (3) Except as provided in subsection (4) of this section, a person
+11 against whom any criminal charge has been filed or prosecuted shall be
+12 awarded damages as provided in this section if:
+13 (a) The person is granted an absolute discharge as provided in
+14 section 29-1208;
+15 (b) The prosecutor voluntarily dismisses the charges, except as
+16 provided in subsection (5) of this section;
+17 (c) The charges are dismissed by the trial court or on appeal;
+18 (d) In a jury trial, the jury returns a verdict of not guilty;
+19 (e) In a bench trial, the court finds the person to be not guilty;
+20 or
+21 (f) The conviction is overturned on appeal or pursuant to any form
+22 of postconviction relief.
+23 (4)(a) A defendant is not entitled to relief under this section for
+24 any offense described in subsection (3) of this section if:
+25 (i) The defendant is convicted of another offense arising out of
+26 substantially the same misconduct;
+27 (ii) The other offense is classified as the same level of
+28 misdemeanor or felony or as a higher level;
+29 (iii) The conviction for such other offense is not dismissed,
+30 overturned, or vacated.
+31 (b) Misconduct is substantially the same if the misconduct arises
+-2-
+LB127 LB127
+2025 2025
+1 out of the same transaction or event, is part of a common scheme or plan,
+2 or is substantively similar and close in time. Factors to consider in
+3 determining whether misconduct is substantially similar include the
+4 passage of time between each occurrence; the parties involved in each
+5 occurrence, including the victims; and the charges brought.
+6 (5) A defendant may enter into an agreement with a prosecutor to
+7 dismiss charges and may waive the payment of damages under this section
+8 in such agreement.
+9 (6) Upon the occurrence of an event described in subsection (3) of
+10 this section, the trial court shall hold a hearing to determine the
+11 amount of damages to be awarded. The court shall award:
+12 (a) Reasonable attorney's fees and other litigation expenses,
+13 including for trial and any appeals or actions for postconviction relief;
+14 and
+15 (b) Actual damages caused by the filing of charges, arrest,
+16 detention, prosecution, conviction, or imprisonment, including, but not
+17 limited to, lost wages.
+18 Sec. 2. Section 29-1208, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 29-1208 If a defendant is not brought to trial before the running of
+21 the time for trial as provided for in section 29-1207, as extended by
+22 excluded periods, he or she shall be entitled to:
+23 (1) His his or her absolute discharge from the offense charged and
+24 for any other offense required by law to be joined with that offense;
+25 and .
+26 (2) Damages as provided in section 1 of this act.
+27 Sec. 3. Original section 29-1208, Reissue Revised Statutes of
+28 Nebraska, is repealed.
+-3-
+[DELETED: yMAR R S o N t p f d fd i c a t a d o i w td i f n g t d a t t hpB7L52]
+[DELETED: So w p s s f h a rs p a t s a a i f t g t uc(Gaw0(1a2a3( T p i g a a d a p i4s5( T p v d t c e a6p7(8(9(0o1(2o3(4a5( T d i c o a o a o o6s7( T o o i c a t s l o8m9( T c f s o o i n d0o1( M i s t s i t m a7L52]
+[DELETED: oo i s s a c i t F t c id w m i s s i tp o t b e o t p i i eo( A d m e i a a w a p tdi(0t s t t c s h a h t d t1a2( R a f a o l e3i4a5( A d c b t f o c a6d7l8S 2 S 2 R R S o N i9a021t t f t a p f i s 2 a e b2e3(4f a o o r b l t b j w t o5a6(7S 3  O s 2 R R S o8N7L52]
+
+
+================================================================================
+
+Raw Text:
+LB127 LB127
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 127
+Introduced by McKeon, 41; Hardin, 48; Lippincott, 34; Lonowski, 33.
+Read first time January 10, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to criminal actions; to amend section 29-1208,
+2 Reissue Revised Statutes of Nebraska; to provide for damages for
+3 defendants in criminal actions that are dismissed or in which the
+4 defendant is found not guilty; to define a term; to harmonize
+5 provisions; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB127 LB127
+2025 2025
+1 Section 1. (1) The Legislature finds that people who are mistakenly
+2 or wrongfully prosecuted suffer significant financial hardship as a
+3 result. The purpose of this section is to lessen the hardship faced by
+4 such people and to serve as an incentive for the government to use
+5 caution and restraint in making prosecutorial decisions.
+6 (2) For purposes of this section, prosecutor includes the Attorney
+7 General, a deputy attorney general, assistant attorneys general, a county
+8 attorney, a deputy county attorney, a city attorney, or any other person
+9 with the authority to prosecute criminal actions.
+10 (3) Except as provided in subsection (4) of this section, a person
+11 against whom any criminal charge has been filed or prosecuted shall be
+12 awarded damages as provided in this section if:
+13 (a) The person is granted an absolute discharge as provided in
+14 section 29-1208;
+15 (b) The prosecutor voluntarily dismisses the charges, except as
+16 provided in subsection (5) of this section;
+17 (c) The charges are dismissed by the trial court or on appeal;
+18 (d) In a jury trial, the jury returns a verdict of not guilty;
+19 (e) In a bench trial, the court finds the person to be not guilty;
+20 or
+21 (f) The conviction is overturned on appeal or pursuant to any form
+22 of postconviction relief.
+23 (4)(a) A defendant is not entitled to relief under this section for
+24 any offense described in subsection (3) of this section if:
+25 (i) The defendant is convicted of another offense arising out of
+26 substantially the same misconduct;
+27 (ii) The other offense is classified as the same level of
+28 misdemeanor or felony or as a higher level;
+29 (iii) The conviction for such other offense is not dismissed,
+30 overturned, or vacated.
+31 (b) Misconduct is substantially the same if the misconduct arises
+-2-
+
+LB127 LB127
+2025 2025
+1 out of the same transaction or event, is part of a common scheme or plan,
+2 or is substantively similar and close in time. Factors to consider in
+3 determining whether misconduct is substantially similar include the
+4 passage of time between each occurrence; the parties involved in each
+5 occurrence, including the victims; and the charges brought.
+6 (5) A defendant may enter into an agreement with a prosecutor to
+7 dismiss charges and may waive the payment of damages under this section
+8 in such agreement.
+9 (6) Upon the occurrence of an event described in subsection (3) of
+10 this section, the trial court shall hold a hearing to determine the
+11 amount of damages to be awarded. The court shall award:
+12 (a) Reasonable attorney's fees and other litigation expenses,
+13 including for trial and any appeals or actions for postconviction relief;
+14 and
+15 (b) Actual damages caused by the filing of charges, arrest,
+16 detention, prosecution, conviction, or imprisonment, including, but not
+17 limited to, lost wages.
+18 Sec. 2. Section 29-1208, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 29-1208 If a defendant is not brought to trial before the running of
+21 the time for trial as provided for in section 29-1207, as extended by
+22 excluded periods, he or she shall be entitled to:
+23 (1) His his or her absolute discharge from the offense charged and
+24 for any other offense required by law to be joined with that offense;
+25 and .
+26 (2) Damages as provided in section 1 of this act.
+27 Sec. 3. Original section 29-1208, Reissue Revised Statutes of
+28 Nebraska, is repealed.
+-3-
+
+[DELETED: yMAR R S o N t p f d fd i c a t a d o i w td i f n g t d a t t hpB7L52]
+[DELETED: So w p s s f h a rs p a t s a a i f t g t uc(Gaw0(1a2a3( T p i g a a d a p i4s5( T p v d t c e a6p7(8(9(0o1(2o3(4a5( T d i c o a o a o o6s7( T o o i c a t s l o8m9( T c f s o o i n d0o1( M i s t s i t m a7L52]
+[DELETED: oo i s s a c i t F t c id w m i s s i tp o t b e o t p i i eo( A d m e i a a w a p tdi(0t s t t c s h a h t d t1a2( R a f a o l e3i4a5( A d c b t f o c a6d7l8S 2 S 2 R R S o N i9a021t t f t a p f i s 2 a e b2e3(4f a o o r b l t b j w t o5a6(7S 3  O s 2 R R S o8N7L52]

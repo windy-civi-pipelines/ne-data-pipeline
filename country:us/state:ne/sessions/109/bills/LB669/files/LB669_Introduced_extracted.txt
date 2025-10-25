@@ -1,0 +1,978 @@
+Title: LEGISLATIVE BILL 669
+Official Title: LEGISLATIVE BILL 669
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+LB669 LB669
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Storer, 43; Andersen, 49; Bosn, 25; DeKay, 40; Holdcroft,
+36; Ibach, 44; Murman, 38; Rountree, 3.
+Read first time January 22, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to abortion; to amend sections 28-325,
+2 28-327.03, 28-327.04, 28-327.06, 28-327.11, and 28-327.12, Reissue
+3 Revised Statutes of Nebraska, and sections 28-326, 28-327, and
+4 38-2021, Revised Statutes Cumulative Supplement, 2024; to restate
+5 legislative intent; to eliminate defined terms; to change
+6 requirements for voluntary and informed consent; to change
+7 requirements relating to civil actions; to harmonize provisions; and
+8 to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+LB669 LB669
+2025 2025
+1 Section 1. Section 28-325, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 28-325 The Legislature hereby finds and declares:
+4 (1) That the following provisions were motivated by the legislative
+5 intrusion of the United States Supreme Court by virtue of its decision
+6 removing the protection afforded the unborn. Sections 28-325 to 28-345
+7 are in no way to be construed as legislatively encouraging abortions at
+8 any stage of unborn human development, but are rather an expression of
+9 the will of the people of the State of Nebraska and the members of the
+10 Legislature to provide protection for the life of the unborn child
+11 whenever possible;
+12 (2) That the members of the Legislature expressly deplore the
+13 destruction of the unborn human lives which has and will occur in
+14 Nebraska as a consequence of the United States Supreme Court's decision
+15 on abortion of January 22, 1973;
+16 (3) That it is in the interest of the people of the State of
+17 Nebraska that every precaution be taken to insure the protection of every
+18 viable unborn child being aborted, and every precaution be taken to
+19 provide life-supportive procedures to insure the unborn child its
+20 continued life after its abortion;
+21 (4) That currently this state is prevented from providing adequate
+22 legal remedies to protect the life, health, and welfare of pregnant women
+23 and unborn human life;
+24 (4) (5) That it is in the interest of the people of the State of
+25 Nebraska to maintain accurate statistical data to aid in providing proper
+26 maternal health regulations and education;
+27 (5) (6) That the existing standard of care for preabortion screening
+28 and counseling is not always adequate to protect the health needs of
+29 women;
+30 (6) (7) That clarifying the minimum standard of care for preabortion
+31 screening and counseling in statute is a practical means of protecting
+-2-
+LB669 LB669
+2025 2025
+1 the well-being of women and may better ensure that abortion doctors are
+2 sufficiently aware of each patient's risk profile so they may give each
+3 patient a well-informed medical opinion regarding her unique case; and
+4 (7) (8) That providing right to redress against nonphysicians who
+5 perform illegal abortions or encourage self-abortions is an important
+6 means of protecting women's health; and .
+7 (8) That abundant research indicates many pregnant women feel
+8 coerced or pressured into abortion, and that it is in the interest of the
+9 people and the State of Nebraska that these women be given an opportunity
+10 to report coercion, abuse, and human trafficking.
+11 Sec. 2. Section 28-326, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 28-326 For purposes of sections 28-325 to 28-345 and 28-347 to
+14 28-347.06, unless the context otherwise requires:
+15 (1) Abortion means the use or prescription of any instrument,
+16 medicine, drug, or other substance or device intentionally to terminate
+17 the pregnancy of a woman known to be pregnant with an intention other
+18 than to increase the probability of a live birth, to preserve the life or
+19 health of the child after live birth, or to remove a dead unborn child,
+20 and which causes the premature termination of the pregnancy;
+21 (2) Complications associated with abortion means any adverse
+22 physical, psychological, or emotional reaction that is reported in a
+23 peer-reviewed journal to be statistically associated with abortion such
+24 that there is less than a five percent probability (P &lt; .05) that the
+25 result is due to chance;
+26 (2) (3) Conception means the fecundation of the ovum by the
+27 spermatozoa;
+28 (3)(a) (4)(a) Dismemberment abortion means an abortion in which,
+29 with the purpose of causing the death of an unborn child, a person
+30 purposely dismembers the body of a living unborn child and extracts him
+31 or her one piece at a time from the uterus through use of clamps,
+-3-
+LB669 LB669
+2025 2025
+1 grasping forceps, tongs, scissors, or similar instruments that, through
+2 the convergence of two rigid levers, slice, crush, or grasp a portion of
+3 the unborn child's body to cut or rip it off.
+4 (b) Dismemberment abortion does not include:
+5 (i) An abortion in which suction is used to dismember the body of an
+6 unborn child by sucking fetal parts into a collection container; or
+7 (ii) The use of instruments or suction to remove the remains of an
+8 unborn child who has already died;
+9 (4) (5) Emergency situation means that condition which, on the basis
+10 of the physician's good faith clinical judgment, so complicates the
+11 medical condition of a pregnant woman as to necessitate the immediate
+12 abortion of her pregnancy to avert her death or for which a delay will
+13 create serious risk of substantial impairment of a major bodily function;
+14 (5) (6) Hospital means those institutions licensed by the Department
+15 of Health and Human Services pursuant to the Health Care Facility
+16 Licensure Act;
+17 (7) Negligible risk means a risk that a reasonable person would
+18 consider to be immaterial to a decision to undergo an elective medical
+19 procedure;
+20 (6) (8) Partial-birth abortion means an abortion procedure in which
+21 the person performing the abortion partially delivers vaginally a living
+22 unborn child before killing the unborn child and completing the delivery.
+23 For purposes of this subdivision, the term partially delivers vaginally a
+24 living unborn child before killing the unborn child means deliberately
+25 and intentionally delivering into the vagina a living unborn child, or a
+26 substantial portion thereof, for the purpose of performing a procedure
+27 that the person performing such procedure knows will kill the unborn
+28 child and does kill the unborn child;
+29 (7) (9) Physician means any person licensed to practice medicine in
+30 this state as provided in the Uniform Credentialing Act;
+31 (8) (10) Pregnant means that condition of a woman who has unborn
+-4-
+LB669 LB669
+2025 2025
+1 human life within her as the result of conception;
+2 (9) (11) Probable gestational age of the unborn child means what
+3 will with reasonable probability, in the judgment of the physician, be
+4 the gestational age of the unborn child at the time the abortion is
+5 planned to be performed;
+6 (12) Risk factor associated with abortion means any factor,
+7 including any physical, psychological, emotional, demographic, or
+8 situational factor, for which there is a statistical association with one
+9 or more complications associated with abortion such that there is less
+10 than a five percent probability (P &lt; .05) that such statistical
+11 association is due to chance. Such information on risk factors shall have
+12 been published in any peer-reviewed journals indexed by the United States
+13 National Library of Medicine's search services (PubMed or MEDLINE) or in
+14 any journal included in the Thomson Reuters Scientific Master Journal
+15 List not less than twelve months prior to the day preabortion screening
+16 was provided;
+17 (10) (13) Self-induced abortion means any abortion or menstrual
+18 extraction attempted or completed by a pregnant woman on her own body;
+19 (11) (14) Ultrasound means the use of ultrasonic waves for
+20 diagnostic or therapeutic purposes, specifically to monitor an unborn
+21 child;
+22 (12) (15) Viability means that stage of human development when the
+23 unborn child is potentially able to live more than merely momentarily
+24 outside the womb of the mother by natural or artificial means; and
+25 (13) (16) Woman means any female human being whether or not she has
+26 reached the age of majority.
+27 Sec. 3. Section 28-327, Revised Statutes Cumulative Supplement,
+28 2024, is amended to read:
+29 28-327 No abortion shall be performed except with the voluntary and
+30 informed consent of the woman upon whom the abortion is to be performed.
+31 Except in the case of an emergency situation, consent to an abortion is
+-5-
+LB669 LB669
+2025 2025
+1 voluntary and informed only if:
+2 (1) The woman is told the following by the physician who is to
+3 perform the abortion, by the referring physician, or by a physician
+4 assistant or registered nurse licensed under the Uniform Credentialing
+5 Act who is an agent of either physician, at least twenty-four hours
+6 before the abortion:
+7 (a) The particular medical risks associated with the particular
+8 abortion procedure to be employed including, when medically accurate, the
+9 risks of infection, hemorrhage, perforated uterus, danger to subsequent
+10 pregnancies, and infertility;
+11 (b) The probable gestational age of the unborn child at the time the
+12 abortion is to be performed;
+13 (c) The medical risks associated with carrying her child to term;
+14 (d) That she cannot be forced or required by anyone to have an
+15 abortion and is free to withhold or withdraw her consent for an abortion;
+16 and
+17 (e) Research indicates that mifepristone alone is not always
+18 effective in ending a pregnancy. You may still have a viable pregnancy
+19 after taking mifepristone. If you change your mind and want to continue
+20 your pregnancy after taking mifepristone, information on finding
+21 immediate medical assistance is available on the website of the
+22 Department of Health and Human Services.
+23 The person providing the information specified in this subdivision
+24 to the person upon whom the abortion is to be performed shall be deemed
+25 qualified to so advise and provide such information only if, at a
+26 minimum, he or she has had training in each of the following subjects:
+27 Sexual and reproductive health; abortion technology; contraceptive
+28 technology; short-term counseling skills; community resources and
+29 referral; and informed consent. The physician or the physician's agent
+30 may provide this information by telephone without conducting a physical
+31 examination or tests of the patient, in which case the information
+-6-
+LB669 LB669
+2025 2025
+1 required to be supplied may be based on facts supplied by the patient and
+2 whatever other relevant information is reasonably available to the
+3 physician or the physician's agent;
+4 (2) The woman is informed by telephone or in person, by the
+5 physician who is to perform the abortion, by the referring physician, or
+6 by an agent of either physician, at least twenty-four hours before the
+7 abortion:
+8 (a) The name of the physician who will perform the abortion;
+9 (b) That medical assistance benefits may be available for prenatal
+10 care, childbirth, and neonatal care;
+11 (c) That the father is liable to assist in the support of her child,
+12 even in instances in which the father has offered to pay for the
+13 abortion;
+14 (d) That she has the right to review the printed materials described
+15 in section 28-327.01. The physician or his or her agent shall orally
+16 inform the woman that the materials have been provided by the Department
+17 of Health and Human Services and that they describe the unborn child,
+18 list agencies which offer alternatives to abortion, and include
+19 information on finding immediate medical assistance if she changes her
+20 mind after taking mifepristone and wants to continue her pregnancy. If
+21 the woman chooses to review the materials, they shall either be given to
+22 her at least twenty-four hours before the abortion or mailed to her at
+23 least seventy-two hours before the abortion by certified mail, restricted
+24 delivery to addressee, which means the postal employee can only deliver
+25 the mail to the addressee. The physician and his or her agent may
+26 disassociate themselves from the materials and may comment or refrain
+27 from commenting on them as they choose; and
+28 (e) That she has the right to request a comprehensive list, compiled
+29 by the Department of Health and Human Services, of health care providers,
+30 facilities, and clinics that offer to have ultrasounds performed by a
+31 person at least as qualified as a registered nurse licensed under the
+-7-
+LB669 LB669
+2025 2025
+1 Uniform Credentialing Act, including and specifying those that offer to
+2 perform such ultrasounds free of charge. The list shall be arranged
+3 geographically and shall include the name, address, hours of operation,
+4 and telephone number of each entity. If requested by the woman, the
+5 physician who is to perform the abortion, the referring physician, or his
+6 or her agent shall provide such a list as compiled by the department; and
+7 (f) The telephone numbers for the national domestic violence hotline
+8 and the national human trafficking hotline.
+9 (3) If an ultrasound is used prior to the performance of an
+10 abortion, the physician who is to perform the abortion, the referring
+11 physician, or a physician assistant or registered nurse licensed under
+12 the Uniform Credentialing Act who is an agent of either physician, or any
+13 qualified agent of either physician, shall:
+14 (a) Perform an ultrasound of the woman's unborn child of a quality
+15 consistent with standard medical practice in the community at least one
+16 hour prior to the performance of the abortion;
+17 (b) Simultaneously display the ultrasound images so that the woman
+18 may choose to view the ultrasound images or not view the ultrasound
+19 images. The woman shall be informed that the ultrasound images will be
+20 displayed so that she is able to view them. Nothing in this subdivision
+21 shall be construed to require the woman to view the displayed ultrasound
+22 images; and
+23 (c) If the woman requests information about the displayed ultrasound
+24 image, her questions shall be answered. If she requests a detailed,
+25 simultaneous, medical description of the ultrasound image, one shall be
+26 provided that includes the dimensions of the unborn child, the presence
+27 of cardiac activity, if present and viewable, and the presence of
+28 external members and internal organs, if present and viewable;
+29 (4) At least one hour prior to the performance of an abortion, a
+30 physician, psychiatrist, psychologist, mental health practitioner,
+31 physician assistant, or registered nurse licensed under the Uniform
+-8-
+LB669 LB669
+2025 2025
+1 Credentialing Act; a social worker licensed under the Uniform
+2 Credentialing Act or holding a multistate authorization to practice in
+3 Nebraska under the Social Worker Licensure Compact; or a professional
+4 counselor holding a privilege to practice in Nebraska under the Licensed
+5 Professional Counselors Interstate Compact has, in a place and manner
+6 that ensures the privacy of the pregnant woman:
+7 (a) Asked and evaluated Evaluated the pregnant woman to identify if
+8 she is being the pregnant woman had the perception of feeling pressured
+9 or coerced into seeking or consenting to an abortion;
+10 (b) Asked and evaluated the pregnant woman to identify if she is or
+11 has been the victim of interpersonal or domestic violence;
+12 (c) Asked and evaluated the pregnant woman to identify if she is or
+13 has been the victim of human trafficking, including sex trafficking;
+14 (d) In the event the pregnant woman discloses that she: (i) Is being
+15 pressured or coerced into seeking or consenting to an abortion pursuant
+16 to subdivision (4)(a) of this section; (ii) is or has been the victim of
+17 interpersonal or domestic violence pursuant to subdivision (4)(b) of this
+18 section; or (iii) is or has been the victim of human trafficking pursuant
+19 to subdivision (4)(c) of this section, the licensed person to whom the
+20 disclosure has been made has (A) provided the pregnant woman with the
+21 telephone numbers for the national domestic violence hotline and the
+22 national human trafficking hotline; and (B) offered the pregnant woman an
+23 opportunity to make a confidential telephone call.
+24 (b) Evaluated the pregnant woman to identify the presence of any
+25 risk factors associated with abortion;
+26 (e) (c) Informed the pregnant woman and the physician who is to
+27 perform the abortion of the results of the evaluation in writing. The
+28 written evaluation shall include, at a minimum, a checklist identifying
+29 both the positive and negative results of the evaluation for each risk
+30 factor associated with abortion and both the licensed person's written
+31 certification and the woman's written certification that the pregnant
+-9-
+LB669 LB669
+2025 2025
+1 woman was asked the questions required by subdivisions (4)(a) through (c)
+2 of this section and, if applicable, was given the telephone numbers for
+3 the national domestic violence hotline and the national human trafficking
+4 hotline and the opportunity to make a confidential telephone call
+5 informed of the risk factors associated with abortion as discussed; and
+6 (f) (d) Retained a copy of the written evaluation results in the
+7 pregnant woman's permanent record;
+8 (5) If any risk factors associated with abortion were identified,
+9 the pregnant woman was informed of the following in such manner and
+10 detail that a reasonable person would consider material to a decision of
+11 undergoing an elective medical procedure:
+12 (a) Each complication associated with each identified risk factor;
+13 and
+14 (b) Any quantifiable risk rates whenever such relevant data exists;
+15 (6) The physician performing the abortion has formed a reasonable
+16 medical judgment, documented in the permanent record, that:
+17 (a) The preponderance of statistically validated medical studies
+18 demonstrates that the physical, psychological, and familial risks
+19 associated with abortion for patients with risk factors similar to the
+20 patient's risk factors are negligible risks;
+21 (b) Continuance of the pregnancy would involve risk of injury to the
+22 physical or mental health of the pregnant woman greater than if the
+23 pregnancy were terminated by induced abortion; or
+24 (c) Continuance of the pregnancy would involve less risk of injury
+25 to the physical or mental health of the pregnant woman than if the
+26 pregnancy were terminated by an induced abortion;
+27 (5) (7) The woman certifies in writing, prior to the abortion, that:
+28 (a) The information described in subdivisions (1) and (2)(a), (b),
+29 and (c) of this section has been furnished her;
+30 (b) She has been informed of her right to review the information
+31 referred to in subdivision (2)(d) of this section; and
+-10-
+LB669 LB669
+2025 2025
+1 (c) The requirements of subdivision (3) of this section have been
+2 performed if an ultrasound is performed prior to the performance of the
+3 abortion; and
+4 (6) (8) Prior to the performance of the abortion, the physician who
+5 is to perform the abortion or his or her agent receives a copy of the
+6 written certification prescribed by subdivision (5) (7) of this section.
+7 The physician or his or her agent shall retain a copy of the signed
+8 certification form in the woman's medical record.
+9 Sec. 4. Section 28-327.03, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 28-327.03 No civil liability for failure to comply with subdivision
+12 (2)(d) of section 28-327 or that portion of subdivision (5) (7) of such
+13 section requiring a written certification that the woman has been
+14 informed of her right to review the information referred to in
+15 subdivision (2)(d) of such section may be imposed unless the Department
+16 of Health and Human Services has published and made available the printed
+17 materials at the time the physician or his or her agent is required to
+18 inform the woman of her right to review them.
+19 Sec. 5. Section 28-327.04, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 28-327.04 Any person upon whom an abortion has been performed or
+22 attempted in violation of section 28-327 or the parent or guardian of a
+23 minor upon whom an abortion has been performed or attempted in violation
+24 of such section shall have a right to maintain a civil cause of action
+25 against the person who performed the abortion or attempted to perform the
+26 abortion. A violation of subdivision (1), (2), (3), (5), or (6) (7), or
+27 (8) of section 28-327 shall be prima facie evidence of professional
+28 negligence. The written certifications prescribed by subdivisions (4) and
+29 (5) (7) of section 28-327 signed by the person upon whom an abortion has
+30 been performed or attempted shall constitute and create a rebuttable
+31 presumption of full compliance with all provisions of section 28-327 in
+-11-
+LB669 LB669
+2025 2025
+1 favor of the physician who performed or attempted to perform the
+2 abortion, the referring physician, or the agent of either physician. The
+3 written certification shall be admissible as evidence in the cause of
+4 action for professional negligence or in any criminal action. If judgment
+5 is rendered in favor of the plaintiff in any such action, the court shall
+6 also render judgment for a reasonable attorney's fee in favor of the
+7 plaintiff against the defendant.
+8 Sec. 6. Section 28-327.06, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 28-327.06 Any waiver of the evaluations, and notices, and
+11 requirements provided for in subdivision (4) of section 28-327 is void
+12 and unenforceable.
+13 Sec. 7. Section 28-327.11, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 28-327.11 In a civil action involving section 28-327, the following
+16 shall apply:
+17 (1) In determining the liability of the physician and the validity
+18 of the consent of a pregnant woman, the failure to comply with the
+19 requirements of section 28-327 shall create a rebuttable presumption that
+20 the pregnant woman would not have undergone the recommended abortion had
+21 section 28-327 been complied with by the physician;
+22 (2) The absence of physical injury shall not preclude an award of
+23 noneconomic damages including pain, suffering, inconvenience, mental
+24 suffering, emotional distress, psychological trauma, loss of society or
+25 companionship, loss of consortium, injury to reputation, or humiliation
+26 associated with the abortion;
+27 (3) The fact that a physician does not perform elective abortions or
+28 has not performed elective abortions in the past shall not automatically
+29 disqualify such physician from being an expert witness. A licensed
+30 obstetrician or family practitioner who regularly assists pregnant women
+31 in resolving medical matters related to pregnancy may be qualified to
+-12-
+LB669 LB669
+2025 2025
+1 testify as an expert on the screening, counseling, management, and
+2 treatment of pregnancies; and
+3 (4) Any physician advertising services in this state shall be deemed
+4 to be transacting business in this state pursuant to section 25-536 and
+5 shall be subject to the provisions of section 28-327;
+6 (5) It shall be an affirmative defense to an allegation of
+7 inadequate disclosure under the requirements of section 28-327 that the
+8 defendant omitted the contested information because statistically
+9 validated surveys of the general population of women of reproductive age,
+10 conducted within the three years before or after the contested abortion,
+11 demonstrate that less than five percent of women would consider the
+12 contested information to be relevant to an abortion decision; and
+13 (4) (6) In addition to the other remedies available under the common
+14 or statutory law of this state, a woman or her survivors shall have a
+15 cause of action for reckless endangerment against any person, other than
+16 a physician or pharmacist licensed under the Uniform Credentialing Act,
+17 who attempts or completes an abortion on the pregnant woman or aids or
+18 abets the commission of a self-induced abortion. Proof of injury shall
+19 not be required to recover an award, including reasonable costs and
+20 attorney's fees, for wrongful death under this subdivision.
+21 Sec. 8. Section 28-327.12, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 28-327.12 (1) In the event that any portion of section 28-327 is
+24 enjoined and subsequently upheld, the statute of limitations for filing a
+25 civil suit under section 28-327 shall be tolled during the period for
+26 which the injunction is pending and for two years thereafter.
+27 (2) Nothing in section 28-327 shall be construed as defining a
+28 standard of care for any medical procedure other than an induced
+29 abortion.
+30 (3) A violation of subdivision (4) , (5), or (6) of section 28-327
+31 shall not provide grounds for any criminal action or disciplinary action
+-13-
+LB669 LB669
+2025 2025
+1 against or revocation of a license to practice medicine and surgery
+2 pursuant to the Uniform Credentialing Act.
+3 Sec. 9. Section 38-2021, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 38-2021 Unprofessional conduct means any departure from or failure
+6 to conform to the standards of acceptable and prevailing practice of
+7 medicine and surgery or the ethics of the profession, regardless of
+8 whether a person, patient, or entity is injured, or conduct that is
+9 likely to deceive or defraud the public or is detrimental to the public
+10 interest, including, but not limited to:
+11 (1) Performance by a physician of an abortion as defined in
+12 subdivision (1) of section 28-326 under circumstances when he or she will
+13 not be available for a period of at least forty-eight hours for
+14 postoperative care unless such postoperative care is delegated to and
+15 accepted by another physician;
+16 (2) Performing an abortion upon a minor without having satisfied the
+17 requirements of sections 71-6901 to 71-6911;
+18 (3) The intentional and knowing performance of a partial-birth
+19 abortion as defined in subdivision (6) (8) of section 28-326, unless such
+20 procedure is necessary to save the life of the mother whose life is
+21 endangered by a physical disorder, physical illness, or physical injury,
+22 including a life-endangering physical condition caused by or arising from
+23 the pregnancy itself;
+24 (4) Performance by a physician of an abortion in violation of the
+25 Pain-Capable Unborn Child Protection Act; and
+26 (5) Violation of the Preborn Child Protection Act.
+27 Sec. 10. Original sections 28-325, 28-327.03, 28-327.04, 28-327.06,
+28 28-327.11, and 28-327.12, Reissue Revised Statutes of Nebraska, and
+29 sections 28-326, 28-327, and 38-2021, Revised Statutes Cumulative
+30 Supplement, 2024, are repealed.
+-14-
+[DELETED: ySA B F A A r t a t a s 22 2 2 2 a 2 RR S o N a s 2 2 a3 R S C S 2 t rl i t e d t t cr f v a i c t crtB9L52]
+[DELETED: Sa2(ir t p a t u S 2 t 2aat0L t p p f t l o t u c1w2( T t m o t L e d t3d o t u h l w h a w o i4N5o6( T i i i t i o t p o t S o7N8v u c b a a e p b t t9p l p t i t u c i0c1(2l3a4(5N6m7(8a c i n a a t p t h n o9w0(1s9L52]
+[DELETED: tsp( ( T p r t r a n wp i a o e s i a im( T a r i m p w fcp0t1S 2 S 2 R S C S2232 F p o s 2 t 2 a 2 t425( A m t u o p o a i6m7t p o a w k t b p w a i o8t9h0a1( C a w a m a a2p p o e r t i r i 3p4t5r6( ( C m t f o t o b t7s8( ( D a m a a i w9w t p o c t d o a u c a p0p1o h o p a a t f t u t u o c9L52]
+[DELETED: gtt((u(u(0o t p g f c j s c t1m c o a p w a t n t i2a3c4(5o H a H S p t t H C F6L7( N r m a r t a r p w8c9p0(1t2u3F4l u c b k t u c m d5a6s p t f t p o p a p7t t p p s p k w k t u8c9(0t1( ( P m t c o a w w h u9L52]
+[DELETED: h( ( P g a o t u c m wwt g a o t u c a t t t a ip( R f a w a m a fi a p p e d oso0t a f p p ( & . t s s1a2b3N4a j i i t T R S M J5L6w7( ( S a m a a o m8e9( ( U m t u o u w f0d o t p s t m a u1c2(3u c i p a t l m t m m4o5(6r7S 3 S 2 R S C S82920i1E9L52]
+[DELETED: v( T w i t t f b t p w i tp t a b t r p o b a pa o r n l u t U CA w i a a o e p a l t hb( T p m r a w t par0p1(2a3(4( T s c b f o r b a t h a5a6a7( R i t m a i n a8e9a0y p a t m i o f1i m a i a o t w o t2D3T4t5q t s a a p s i o i a 6m7S a r h a t c8t s c s c r a9r a i c T p o t p a0m1e o t o t p i w c t i9L52]
+[DELETED: rw o r i i r a t tp( T w i i b t o i p b tpba((0c1(2e i i i w t f h o t p f t3a4(5i s 2 T p o h o h a s o6i7o H a H S a t t d t u c8l a w o a t a a i9i o f i m a i s c h0m1t2h3l4d5t m t t a T p a h o h a m6d t f t m a m c o r7f8(9b0f a c t o t h u p b 1p a l a q a a r n l u t9L52]
+[DELETED: Up s u f o c T l s b aga t n o e e I r b t w tpo(a( I a u i u p t t p o a0a t p w i t p t a t r1p o a p a o r n l u2t3q4(5c6h7(8m c t v t u i o n v t u9i0d1s2i3(4i h q s b a I s r a d5s6p7o c a i p a v a t p o8e9( A l o h p t t p o a a 0p p p m h p1p a o r n l u t U9L52]
+[DELETED: C A a s w l u t UC A o h a m a t p iN u t S W L C o a pcP C I C h i a p a mt(so0(1h2(3h4(5p6t7i8s9t0d h b m h ( p t p w w t1t n f t n d v h a t2n3o4( E t p w t i t p o a5r6( ( I t p w a t p w i t7p t a o t r o t e i w T8w9b0f a w a a b t l p w1c a t w w c t t p9L52]
+[DELETED: woth a t o t m a c t ci( ( R a c o t w e r i tp( I a r f a w a w it p w w i o t f i s m a0d1u2(3a4(5( T p p t a h f a r6m7( T p o s v m s8d t t p p a f r9a0p1(2p o m h o t p w g t i t3p4(5t t p o m h o t p w t i t6p7(8(9a0( S h b i o h r t r t i1r9L52]
+[DELETED: ( T r o s ( o t s h bpa(iwT p o h o h a s r a c o t scS0a122(3s r a w c t t w h b4i o h r t r t i r t i5s6o7m8i9S0a12 A p u w a a h b p o2a3m4o5a6a7( o s 2 s b p f e o p8n9(0b p o a s c a c a r1p9L52]
+[DELETED: f o t p w p o a t p taw c s b a a e i t c oaia r j f a r a f i f o tpSa02 A w o t e a n a1r2a3S4a526s7(8o t c o a p w t f t c w t9r0t1s2(3n d i p s i m4s5c6a7(8h9d s p f b a e w A l0o1i r m m r t p m b q t9L52]
+[DELETED: t a a e o t s c m at(ts( I s b a a d t a a oid o t c i b sv0c1d t l t f p o w w c t2c3(4o5c6a7w8a9n b r t r a a i r c a0a1S2a32 ( I t e t a p o s 2 i4e5c s u s 2 s b t d t p f6w7( N i s 2 s b c a d 8s o c f a m p o t a i9a0(1s9L52]
+[DELETED: a o r o a l t p m a spS 9 S 3 R S C S23t c t t s o a a p p om a s o t e o t p r ow a p p o e i i o c t il0i1( P b a p o a a a d i2s3n b a f a p o a l f h f4p c u s p c i d t a5a6(7r8( T i a k p o a p9a0p i n t s t l o t m w l i1e2i3t4(5P6(7S82 a 2 R R S o N a9s 2 2 a 3 R S C0S9L52]
+
+
+================================================================================
+
+Raw Text:
+LB669 LB669
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 669
+Introduced by Storer, 43; Andersen, 49; Bosn, 25; DeKay, 40; Holdcroft,
+36; Ibach, 44; Murman, 38; Rountree, 3.
+Read first time January 22, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to abortion; to amend sections 28-325,
+2 28-327.03, 28-327.04, 28-327.06, 28-327.11, and 28-327.12, Reissue
+3 Revised Statutes of Nebraska, and sections 28-326, 28-327, and
+4 38-2021, Revised Statutes Cumulative Supplement, 2024; to restate
+5 legislative intent; to eliminate defined terms; to change
+6 requirements for voluntary and informed consent; to change
+7 requirements relating to civil actions; to harmonize provisions; and
+8 to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB669 LB669
+2025 2025
+1 Section 1. Section 28-325, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 28-325 The Legislature hereby finds and declares:
+4 (1) That the following provisions were motivated by the legislative
+5 intrusion of the United States Supreme Court by virtue of its decision
+6 removing the protection afforded the unborn. Sections 28-325 to 28-345
+7 are in no way to be construed as legislatively encouraging abortions at
+8 any stage of unborn human development, but are rather an expression of
+9 the will of the people of the State of Nebraska and the members of the
+10 Legislature to provide protection for the life of the unborn child
+11 whenever possible;
+12 (2) That the members of the Legislature expressly deplore the
+13 destruction of the unborn human lives which has and will occur in
+14 Nebraska as a consequence of the United States Supreme Court's decision
+15 on abortion of January 22, 1973;
+16 (3) That it is in the interest of the people of the State of
+17 Nebraska that every precaution be taken to insure the protection of every
+18 viable unborn child being aborted, and every precaution be taken to
+19 provide life-supportive procedures to insure the unborn child its
+20 continued life after its abortion;
+21 (4) That currently this state is prevented from providing adequate
+22 legal remedies to protect the life, health, and welfare of pregnant women
+23 and unborn human life;
+24 (4) (5) That it is in the interest of the people of the State of
+25 Nebraska to maintain accurate statistical data to aid in providing proper
+26 maternal health regulations and education;
+27 (5) (6) That the existing standard of care for preabortion screening
+28 and counseling is not always adequate to protect the health needs of
+29 women;
+30 (6) (7) That clarifying the minimum standard of care for preabortion
+31 screening and counseling in statute is a practical means of protecting
+-2-
+
+LB669 LB669
+2025 2025
+1 the well-being of women and may better ensure that abortion doctors are
+2 sufficiently aware of each patient's risk profile so they may give each
+3 patient a well-informed medical opinion regarding her unique case; and
+4 (7) (8) That providing right to redress against nonphysicians who
+5 perform illegal abortions or encourage self-abortions is an important
+6 means of protecting women's health; and .
+7 (8) That abundant research indicates many pregnant women feel
+8 coerced or pressured into abortion, and that it is in the interest of the
+9 people and the State of Nebraska that these women be given an opportunity
+10 to report coercion, abuse, and human trafficking.
+11 Sec. 2. Section 28-326, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 28-326 For purposes of sections 28-325 to 28-345 and 28-347 to
+14 28-347.06, unless the context otherwise requires:
+15 (1) Abortion means the use or prescription of any instrument,
+16 medicine, drug, or other substance or device intentionally to terminate
+17 the pregnancy of a woman known to be pregnant with an intention other
+18 than to increase the probability of a live birth, to preserve the life or
+19 health of the child after live birth, or to remove a dead unborn child,
+20 and which causes the premature termination of the pregnancy;
+21 (2) Complications associated with abortion means any adverse
+22 physical, psychological, or emotional reaction that is reported in a
+23 peer-reviewed journal to be statistically associated with abortion such
+24 that there is less than a five percent probability (P &lt; .05) that the
+25 result is due to chance;
+26 (2) (3) Conception means the fecundation of the ovum by the
+27 spermatozoa;
+28 (3)(a) (4)(a) Dismemberment abortion means an abortion in which,
+29 with the purpose of causing the death of an unborn child, a person
+30 purposely dismembers the body of a living unborn child and extracts him
+31 or her one piece at a time from the uterus through use of clamps,
+-3-
+
+LB669 LB669
+2025 2025
+1 grasping forceps, tongs, scissors, or similar instruments that, through
+2 the convergence of two rigid levers, slice, crush, or grasp a portion of
+3 the unborn child's body to cut or rip it off.
+4 (b) Dismemberment abortion does not include:
+5 (i) An abortion in which suction is used to dismember the body of an
+6 unborn child by sucking fetal parts into a collection container; or
+7 (ii) The use of instruments or suction to remove the remains of an
+8 unborn child who has already died;
+9 (4) (5) Emergency situation means that condition which, on the basis
+10 of the physician's good faith clinical judgment, so complicates the
+11 medical condition of a pregnant woman as to necessitate the immediate
+12 abortion of her pregnancy to avert her death or for which a delay will
+13 create serious risk of substantial impairment of a major bodily function;
+14 (5) (6) Hospital means those institutions licensed by the Department
+15 of Health and Human Services pursuant to the Health Care Facility
+16 Licensure Act;
+17 (7) Negligible risk means a risk that a reasonable person would
+18 consider to be immaterial to a decision to undergo an elective medical
+19 procedure;
+20 (6) (8) Partial-birth abortion means an abortion procedure in which
+21 the person performing the abortion partially delivers vaginally a living
+22 unborn child before killing the unborn child and completing the delivery.
+23 For purposes of this subdivision, the term partially delivers vaginally a
+24 living unborn child before killing the unborn child means deliberately
+25 and intentionally delivering into the vagina a living unborn child, or a
+26 substantial portion thereof, for the purpose of performing a procedure
+27 that the person performing such procedure knows will kill the unborn
+28 child and does kill the unborn child;
+29 (7) (9) Physician means any person licensed to practice medicine in
+30 this state as provided in the Uniform Credentialing Act;
+31 (8) (10) Pregnant means that condition of a woman who has unborn
+-4-
+
+LB669 LB669
+2025 2025
+1 human life within her as the result of conception;
+2 (9) (11) Probable gestational age of the unborn child means what
+3 will with reasonable probability, in the judgment of the physician, be
+4 the gestational age of the unborn child at the time the abortion is
+5 planned to be performed;
+6 (12) Risk factor associated with abortion means any factor,
+7 including any physical, psychological, emotional, demographic, or
+8 situational factor, for which there is a statistical association with one
+9 or more complications associated with abortion such that there is less
+10 than a five percent probability (P &lt; .05) that such statistical
+11 association is due to chance. Such information on risk factors shall have
+12 been published in any peer-reviewed journals indexed by the United States
+13 National Library of Medicine's search services (PubMed or MEDLINE) or in
+14 any journal included in the Thomson Reuters Scientific Master Journal
+15 List not less than twelve months prior to the day preabortion screening
+16 was provided;
+17 (10) (13) Self-induced abortion means any abortion or menstrual
+18 extraction attempted or completed by a pregnant woman on her own body;
+19 (11) (14) Ultrasound means the use of ultrasonic waves for
+20 diagnostic or therapeutic purposes, specifically to monitor an unborn
+21 child;
+22 (12) (15) Viability means that stage of human development when the
+23 unborn child is potentially able to live more than merely momentarily
+24 outside the womb of the mother by natural or artificial means; and
+25 (13) (16) Woman means any female human being whether or not she has
+26 reached the age of majority.
+27 Sec. 3. Section 28-327, Revised Statutes Cumulative Supplement,
+28 2024, is amended to read:
+29 28-327 No abortion shall be performed except with the voluntary and
+30 informed consent of the woman upon whom the abortion is to be performed.
+31 Except in the case of an emergency situation, consent to an abortion is
+-5-
+
+LB669 LB669
+2025 2025
+1 voluntary and informed only if:
+2 (1) The woman is told the following by the physician who is to
+3 perform the abortion, by the referring physician, or by a physician
+4 assistant or registered nurse licensed under the Uniform Credentialing
+5 Act who is an agent of either physician, at least twenty-four hours
+6 before the abortion:
+7 (a) The particular medical risks associated with the particular
+8 abortion procedure to be employed including, when medically accurate, the
+9 risks of infection, hemorrhage, perforated uterus, danger to subsequent
+10 pregnancies, and infertility;
+11 (b) The probable gestational age of the unborn child at the time the
+12 abortion is to be performed;
+13 (c) The medical risks associated with carrying her child to term;
+14 (d) That she cannot be forced or required by anyone to have an
+15 abortion and is free to withhold or withdraw her consent for an abortion;
+16 and
+17 (e) Research indicates that mifepristone alone is not always
+18 effective in ending a pregnancy. You may still have a viable pregnancy
+19 after taking mifepristone. If you change your mind and want to continue
+20 your pregnancy after taking mifepristone, information on finding
+21 immediate medical assistance is available on the website of the
+22 Department of Health and Human Services.
+23 The person providing the information specified in this subdivision
+24 to the person upon whom the abortion is to be performed shall be deemed
+25 qualified to so advise and provide such information only if, at a
+26 minimum, he or she has had training in each of the following subjects:
+27 Sexual and reproductive health; abortion technology; contraceptive
+28 technology; short-term counseling skills; community resources and
+29 referral; and informed consent. The physician or the physician's agent
+30 may provide this information by telephone without conducting a physical
+31 examination or tests of the patient, in which case the information
+-6-
+
+LB669 LB669
+2025 2025
+1 required to be supplied may be based on facts supplied by the patient and
+2 whatever other relevant information is reasonably available to the
+3 physician or the physician's agent;
+4 (2) The woman is informed by telephone or in person, by the
+5 physician who is to perform the abortion, by the referring physician, or
+6 by an agent of either physician, at least twenty-four hours before the
+7 abortion:
+8 (a) The name of the physician who will perform the abortion;
+9 (b) That medical assistance benefits may be available for prenatal
+10 care, childbirth, and neonatal care;
+11 (c) That the father is liable to assist in the support of her child,
+12 even in instances in which the father has offered to pay for the
+13 abortion;
+14 (d) That she has the right to review the printed materials described
+15 in section 28-327.01. The physician or his or her agent shall orally
+16 inform the woman that the materials have been provided by the Department
+17 of Health and Human Services and that they describe the unborn child,
+18 list agencies which offer alternatives to abortion, and include
+19 information on finding immediate medical assistance if she changes her
+20 mind after taking mifepristone and wants to continue her pregnancy. If
+21 the woman chooses to review the materials, they shall either be given to
+22 her at least twenty-four hours before the abortion or mailed to her at
+23 least seventy-two hours before the abortion by certified mail, restricted
+24 delivery to addressee, which means the postal employee can only deliver
+25 the mail to the addressee. The physician and his or her agent may
+26 disassociate themselves from the materials and may comment or refrain
+27 from commenting on them as they choose; and
+28 (e) That she has the right to request a comprehensive list, compiled
+29 by the Department of Health and Human Services, of health care providers,
+30 facilities, and clinics that offer to have ultrasounds performed by a
+31 person at least as qualified as a registered nurse licensed under the
+-7-
+
+LB669 LB669
+2025 2025
+1 Uniform Credentialing Act, including and specifying those that offer to
+2 perform such ultrasounds free of charge. The list shall be arranged
+3 geographically and shall include the name, address, hours of operation,
+4 and telephone number of each entity. If requested by the woman, the
+5 physician who is to perform the abortion, the referring physician, or his
+6 or her agent shall provide such a list as compiled by the department; and
+7 (f) The telephone numbers for the national domestic violence hotline
+8 and the national human trafficking hotline.
+9 (3) If an ultrasound is used prior to the performance of an
+10 abortion, the physician who is to perform the abortion, the referring
+11 physician, or a physician assistant or registered nurse licensed under
+12 the Uniform Credentialing Act who is an agent of either physician, or any
+13 qualified agent of either physician, shall:
+14 (a) Perform an ultrasound of the woman's unborn child of a quality
+15 consistent with standard medical practice in the community at least one
+16 hour prior to the performance of the abortion;
+17 (b) Simultaneously display the ultrasound images so that the woman
+18 may choose to view the ultrasound images or not view the ultrasound
+19 images. The woman shall be informed that the ultrasound images will be
+20 displayed so that she is able to view them. Nothing in this subdivision
+21 shall be construed to require the woman to view the displayed ultrasound
+22 images; and
+23 (c) If the woman requests information about the displayed ultrasound
+24 image, her questions shall be answered. If she requests a detailed,
+25 simultaneous, medical description of the ultrasound image, one shall be
+26 provided that includes the dimensions of the unborn child, the presence
+27 of cardiac activity, if present and viewable, and the presence of
+28 external members and internal organs, if present and viewable;
+29 (4) At least one hour prior to the performance of an abortion, a
+30 physician, psychiatrist, psychologist, mental health practitioner,
+31 physician assistant, or registered nurse licensed under the Uniform
+-8-
+
+LB669 LB669
+2025 2025
+1 Credentialing Act; a social worker licensed under the Uniform
+2 Credentialing Act or holding a multistate authorization to practice in
+3 Nebraska under the Social Worker Licensure Compact; or a professional
+4 counselor holding a privilege to practice in Nebraska under the Licensed
+5 Professional Counselors Interstate Compact has, in a place and manner
+6 that ensures the privacy of the pregnant woman:
+7 (a) Asked and evaluated Evaluated the pregnant woman to identify if
+8 she is being the pregnant woman had the perception of feeling pressured
+9 or coerced into seeking or consenting to an abortion;
+10 (b) Asked and evaluated the pregnant woman to identify if she is or
+11 has been the victim of interpersonal or domestic violence;
+12 (c) Asked and evaluated the pregnant woman to identify if she is or
+13 has been the victim of human trafficking, including sex trafficking;
+14 (d) In the event the pregnant woman discloses that she: (i) Is being
+15 pressured or coerced into seeking or consenting to an abortion pursuant
+16 to subdivision (4)(a) of this section; (ii) is or has been the victim of
+17 interpersonal or domestic violence pursuant to subdivision (4)(b) of this
+18 section; or (iii) is or has been the victim of human trafficking pursuant
+19 to subdivision (4)(c) of this section, the licensed person to whom the
+20 disclosure has been made has (A) provided the pregnant woman with the
+21 telephone numbers for the national domestic violence hotline and the
+22 national human trafficking hotline; and (B) offered the pregnant woman an
+23 opportunity to make a confidential telephone call.
+24 (b) Evaluated the pregnant woman to identify the presence of any
+25 risk factors associated with abortion;
+26 (e) (c) Informed the pregnant woman and the physician who is to
+27 perform the abortion of the results of the evaluation in writing. The
+28 written evaluation shall include, at a minimum, a checklist identifying
+29 both the positive and negative results of the evaluation for each risk
+30 factor associated with abortion and both the licensed person's written
+31 certification and the woman's written certification that the pregnant
+-9-
+
+LB669 LB669
+2025 2025
+1 woman was asked the questions required by subdivisions (4)(a) through (c)
+2 of this section and, if applicable, was given the telephone numbers for
+3 the national domestic violence hotline and the national human trafficking
+4 hotline and the opportunity to make a confidential telephone call
+5 informed of the risk factors associated with abortion as discussed; and
+6 (f) (d) Retained a copy of the written evaluation results in the
+7 pregnant woman's permanent record;
+8 (5) If any risk factors associated with abortion were identified,
+9 the pregnant woman was informed of the following in such manner and
+10 detail that a reasonable person would consider material to a decision of
+11 undergoing an elective medical procedure:
+12 (a) Each complication associated with each identified risk factor;
+13 and
+14 (b) Any quantifiable risk rates whenever such relevant data exists;
+15 (6) The physician performing the abortion has formed a reasonable
+16 medical judgment, documented in the permanent record, that:
+17 (a) The preponderance of statistically validated medical studies
+18 demonstrates that the physical, psychological, and familial risks
+19 associated with abortion for patients with risk factors similar to the
+20 patient's risk factors are negligible risks;
+21 (b) Continuance of the pregnancy would involve risk of injury to the
+22 physical or mental health of the pregnant woman greater than if the
+23 pregnancy were terminated by induced abortion; or
+24 (c) Continuance of the pregnancy would involve less risk of injury
+25 to the physical or mental health of the pregnant woman than if the
+26 pregnancy were terminated by an induced abortion;
+27 (5) (7) The woman certifies in writing, prior to the abortion, that:
+28 (a) The information described in subdivisions (1) and (2)(a), (b),
+29 and (c) of this section has been furnished her;
+30 (b) She has been informed of her right to review the information
+31 referred to in subdivision (2)(d) of this section; and
+-10-
+
+LB669 LB669
+2025 2025
+1 (c) The requirements of subdivision (3) of this section have been
+2 performed if an ultrasound is performed prior to the performance of the
+3 abortion; and
+4 (6) (8) Prior to the performance of the abortion, the physician who
+5 is to perform the abortion or his or her agent receives a copy of the
+6 written certification prescribed by subdivision (5) (7) of this section.
+7 The physician or his or her agent shall retain a copy of the signed
+8 certification form in the woman's medical record.
+9 Sec. 4. Section 28-327.03, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 28-327.03 No civil liability for failure to comply with subdivision
+12 (2)(d) of section 28-327 or that portion of subdivision (5) (7) of such
+13 section requiring a written certification that the woman has been
+14 informed of her right to review the information referred to in
+15 subdivision (2)(d) of such section may be imposed unless the Department
+16 of Health and Human Services has published and made available the printed
+17 materials at the time the physician or his or her agent is required to
+18 inform the woman of her right to review them.
+19 Sec. 5. Section 28-327.04, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 28-327.04 Any person upon whom an abortion has been performed or
+22 attempted in violation of section 28-327 or the parent or guardian of a
+23 minor upon whom an abortion has been performed or attempted in violation
+24 of such section shall have a right to maintain a civil cause of action
+25 against the person who performed the abortion or attempted to perform the
+26 abortion. A violation of subdivision (1), (2), (3), (5), or (6) (7), or
+27 (8) of section 28-327 shall be prima facie evidence of professional
+28 negligence. The written certifications prescribed by subdivisions (4) and
+29 (5) (7) of section 28-327 signed by the person upon whom an abortion has
+30 been performed or attempted shall constitute and create a rebuttable
+31 presumption of full compliance with all provisions of section 28-327 in
+-11-
+
+LB669 LB669
+2025 2025
+1 favor of the physician who performed or attempted to perform the
+2 abortion, the referring physician, or the agent of either physician. The
+3 written certification shall be admissible as evidence in the cause of
+4 action for professional negligence or in any criminal action. If judgment
+5 is rendered in favor of the plaintiff in any such action, the court shall
+6 also render judgment for a reasonable attorney's fee in favor of the
+7 plaintiff against the defendant.
+8 Sec. 6. Section 28-327.06, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 28-327.06 Any waiver of the evaluations, and notices, and
+11 requirements provided for in subdivision (4) of section 28-327 is void
+12 and unenforceable.
+13 Sec. 7. Section 28-327.11, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 28-327.11 In a civil action involving section 28-327, the following
+16 shall apply:
+17 (1) In determining the liability of the physician and the validity
+18 of the consent of a pregnant woman, the failure to comply with the
+19 requirements of section 28-327 shall create a rebuttable presumption that
+20 the pregnant woman would not have undergone the recommended abortion had
+21 section 28-327 been complied with by the physician;
+22 (2) The absence of physical injury shall not preclude an award of
+23 noneconomic damages including pain, suffering, inconvenience, mental
+24 suffering, emotional distress, psychological trauma, loss of society or
+25 companionship, loss of consortium, injury to reputation, or humiliation
+26 associated with the abortion;
+27 (3) The fact that a physician does not perform elective abortions or
+28 has not performed elective abortions in the past shall not automatically
+29 disqualify such physician from being an expert witness. A licensed
+30 obstetrician or family practitioner who regularly assists pregnant women
+31 in resolving medical matters related to pregnancy may be qualified to
+-12-
+
+LB669 LB669
+2025 2025
+1 testify as an expert on the screening, counseling, management, and
+2 treatment of pregnancies; and
+3 (4) Any physician advertising services in this state shall be deemed
+4 to be transacting business in this state pursuant to section 25-536 and
+5 shall be subject to the provisions of section 28-327;
+6 (5) It shall be an affirmative defense to an allegation of
+7 inadequate disclosure under the requirements of section 28-327 that the
+8 defendant omitted the contested information because statistically
+9 validated surveys of the general population of women of reproductive age,
+10 conducted within the three years before or after the contested abortion,
+11 demonstrate that less than five percent of women would consider the
+12 contested information to be relevant to an abortion decision; and
+13 (4) (6) In addition to the other remedies available under the common
+14 or statutory law of this state, a woman or her survivors shall have a
+15 cause of action for reckless endangerment against any person, other than
+16 a physician or pharmacist licensed under the Uniform Credentialing Act,
+17 who attempts or completes an abortion on the pregnant woman or aids or
+18 abets the commission of a self-induced abortion. Proof of injury shall
+19 not be required to recover an award, including reasonable costs and
+20 attorney's fees, for wrongful death under this subdivision.
+21 Sec. 8. Section 28-327.12, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 28-327.12 (1) In the event that any portion of section 28-327 is
+24 enjoined and subsequently upheld, the statute of limitations for filing a
+25 civil suit under section 28-327 shall be tolled during the period for
+26 which the injunction is pending and for two years thereafter.
+27 (2) Nothing in section 28-327 shall be construed as defining a
+28 standard of care for any medical procedure other than an induced
+29 abortion.
+30 (3) A violation of subdivision (4) , (5), or (6) of section 28-327
+31 shall not provide grounds for any criminal action or disciplinary action
+-13-
+
+LB669 LB669
+2025 2025
+1 against or revocation of a license to practice medicine and surgery
+2 pursuant to the Uniform Credentialing Act.
+3 Sec. 9. Section 38-2021, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 38-2021 Unprofessional conduct means any departure from or failure
+6 to conform to the standards of acceptable and prevailing practice of
+7 medicine and surgery or the ethics of the profession, regardless of
+8 whether a person, patient, or entity is injured, or conduct that is
+9 likely to deceive or defraud the public or is detrimental to the public
+10 interest, including, but not limited to:
+11 (1) Performance by a physician of an abortion as defined in
+12 subdivision (1) of section 28-326 under circumstances when he or she will
+13 not be available for a period of at least forty-eight hours for
+14 postoperative care unless such postoperative care is delegated to and
+15 accepted by another physician;
+16 (2) Performing an abortion upon a minor without having satisfied the
+17 requirements of sections 71-6901 to 71-6911;
+18 (3) The intentional and knowing performance of a partial-birth
+19 abortion as defined in subdivision (6) (8) of section 28-326, unless such
+20 procedure is necessary to save the life of the mother whose life is
+21 endangered by a physical disorder, physical illness, or physical injury,
+22 including a life-endangering physical condition caused by or arising from
+23 the pregnancy itself;
+24 (4) Performance by a physician of an abortion in violation of the
+25 Pain-Capable Unborn Child Protection Act; and
+26 (5) Violation of the Preborn Child Protection Act.
+27 Sec. 10. Original sections 28-325, 28-327.03, 28-327.04, 28-327.06,
+28 28-327.11, and 28-327.12, Reissue Revised Statutes of Nebraska, and
+29 sections 28-326, 28-327, and 38-2021, Revised Statutes Cumulative
+30 Supplement, 2024, are repealed.
+-14-
+
+[DELETED: ySA B F A A r t a t a s 22 2 2 2 a 2 RR S o N a s 2 2 a3 R S C S 2 t rl i t e d t t cr f v a i c t crtB9L52]
+[DELETED: Sa2(ir t p a t u S 2 t 2aat0L t p p f t l o t u c1w2( T t m o t L e d t3d o t u h l w h a w o i4N5o6( T i i i t i o t p o t S o7N8v u c b a a e p b t t9p l p t i t u c i0c1(2l3a4(5N6m7(8a c i n a a t p t h n o9w0(1s9L52]
+[DELETED: tsp( ( T p r t r a n wp i a o e s i a im( T a r i m p w fcp0t1S 2 S 2 R S C S2232 F p o s 2 t 2 a 2 t425( A m t u o p o a i6m7t p o a w k t b p w a i o8t9h0a1( C a w a m a a2p p o e r t i r i 3p4t5r6( ( C m t f o t o b t7s8( ( D a m a a i w9w t p o c t d o a u c a p0p1o h o p a a t f t u t u o c9L52]
+[DELETED: gtt((u(u(0o t p g f c j s c t1m c o a p w a t n t i2a3c4(5o H a H S p t t H C F6L7( N r m a r t a r p w8c9p0(1t2u3F4l u c b k t u c m d5a6s p t f t p o p a p7t t p p s p k w k t u8c9(0t1( ( P m t c o a w w h u9L52]
+[DELETED: h( ( P g a o t u c m wwt g a o t u c a t t t a ip( R f a w a m a fi a p p e d oso0t a f p p ( & . t s s1a2b3N4a j i i t T R S M J5L6w7( ( S a m a a o m8e9( ( U m t u o u w f0d o t p s t m a u1c2(3u c i p a t l m t m m4o5(6r7S 3 S 2 R S C S82920i1E9L52]
+[DELETED: v( T w i t t f b t p w i tp t a b t r p o b a pa o r n l u t U CA w i a a o e p a l t hb( T p m r a w t par0p1(2a3(4( T s c b f o r b a t h a5a6a7( R i t m a i n a8e9a0y p a t m i o f1i m a i a o t w o t2D3T4t5q t s a a p s i o i a 6m7S a r h a t c8t s c s c r a9r a i c T p o t p a0m1e o t o t p i w c t i9L52]
+[DELETED: rw o r i i r a t tp( T w i i b t o i p b tpba((0c1(2e i i i w t f h o t p f t3a4(5i s 2 T p o h o h a s o6i7o H a H S a t t d t u c8l a w o a t a a i9i o f i m a i s c h0m1t2h3l4d5t m t t a T p a h o h a m6d t f t m a m c o r7f8(9b0f a c t o t h u p b 1p a l a q a a r n l u t9L52]
+[DELETED: Up s u f o c T l s b aga t n o e e I r b t w tpo(a( I a u i u p t t p o a0a t p w i t p t a t r1p o a p a o r n l u2t3q4(5c6h7(8m c t v t u i o n v t u9i0d1s2i3(4i h q s b a I s r a d5s6p7o c a i p a v a t p o8e9( A l o h p t t p o a a 0p p p m h p1p a o r n l u t U9L52]
+[DELETED: C A a s w l u t UC A o h a m a t p iN u t S W L C o a pcP C I C h i a p a mt(so0(1h2(3h4(5p6t7i8s9t0d h b m h ( p t p w w t1t n f t n d v h a t2n3o4( E t p w t i t p o a5r6( ( I t p w a t p w i t7p t a o t r o t e i w T8w9b0f a w a a b t l p w1c a t w w c t t p9L52]
+[DELETED: woth a t o t m a c t ci( ( R a c o t w e r i tp( I a r f a w a w it p w w i o t f i s m a0d1u2(3a4(5( T p p t a h f a r6m7( T p o s v m s8d t t p p a f r9a0p1(2p o m h o t p w g t i t3p4(5t t p o m h o t p w t i t6p7(8(9a0( S h b i o h r t r t i1r9L52]
+[DELETED: ( T r o s ( o t s h bpa(iwT p o h o h a s r a c o t scS0a122(3s r a w c t t w h b4i o h r t r t i r t i5s6o7m8i9S0a12 A p u w a a h b p o2a3m4o5a6a7( o s 2 s b p f e o p8n9(0b p o a s c a c a r1p9L52]
+[DELETED: f o t p w p o a t p taw c s b a a e i t c oaia r j f a r a f i f o tpSa02 A w o t e a n a1r2a3S4a526s7(8o t c o a p w t f t c w t9r0t1s2(3n d i p s i m4s5c6a7(8h9d s p f b a e w A l0o1i r m m r t p m b q t9L52]
+[DELETED: t a a e o t s c m at(ts( I s b a a d t a a oid o t c i b sv0c1d t l t f p o w w c t2c3(4o5c6a7w8a9n b r t r a a i r c a0a1S2a32 ( I t e t a p o s 2 i4e5c s u s 2 s b t d t p f6w7( N i s 2 s b c a d 8s o c f a m p o t a i9a0(1s9L52]
+[DELETED: a o r o a l t p m a spS 9 S 3 R S C S23t c t t s o a a p p om a s o t e o t p r ow a p p o e i i o c t il0i1( P b a p o a a a d i2s3n b a f a p o a l f h f4p c u s p c i d t a5a6(7r8( T i a k p o a p9a0p i n t s t l o t m w l i1e2i3t4(5P6(7S82 a 2 R R S o N a9s 2 2 a 3 R S C0S9L52]

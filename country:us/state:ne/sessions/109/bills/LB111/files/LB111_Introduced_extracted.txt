@@ -1,0 +1,189 @@
+Title: LEGISLATIVE BILL 111
+Official Title: LEGISLATIVE BILL 111
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LB111 LB111
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Quick, 35.
+Read first time January 10, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to define terms; to prohibit
+2 certain actions of insurers relating to repairing motor vehicles and
+3 nonoriginal equipment manufacturer parts; to require insurers to
+4 provide notice to consumers as prescribed; and to provide a penalty.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB111 LB111
+2025 2025
+1 Section 1. For purposes of sections 1 to 8 of this act:
+2 (1) Consumer has the same meaning as in section 60-2701;
+3 (2) Consumer care has the same meaning as in section 60-1401.10;
+4 (3) Insurer includes any:
+5 (a) Insurance company; and
+6 (b) Person authorized to represent an insurer with respect to a
+7 claim who is acting within the scope of such person's authority;
+8 (4) Nonoriginal equipment manufacturer means any manufacturer other
+9 than the original equipment manufacturer for the motor vehicle; and
+10 (5)(a) Part means any part that generally constitutes the exterior
+11 of a motor vehicle, including inner and outer panels; and
+12 (b) Part does not include any tire, windshield, or window.
+13 Sec. 2. No insurer shall directly or indirectly require the use of
+14 any nonoriginal equipment manufacturer part that does not carry
+15 sufficient permanent identification so as to identify the manufacturer of
+16 such part. Such identification shall be accessible to the extent possible
+17 after installation.
+18 Sec. 3. No insurer shall directly or indirectly require the use of
+19 any nonoriginal equipment manufacturer part unless such part is at least
+20 equal in quality to the corresponding original equipment manufacturer
+21 part in terms of fit and performance. The cost of any modification that
+22 becomes necessary when making the repair shall be considered as a factor
+23 in determining the quality of the nonoriginal equipment manufacturer
+24 part.
+25 Sec. 4. An insurer shall not directly or indirectly:
+26 (1) Accept any estimate or authorize any repair unless the consumer
+27 is advised that he or she is not required to accept any nonoriginal
+28 equipment manufacturer part in the repair of the motor vehicle and the
+29 consumer consents in writing to the use of any nonoriginal equipment
+30 manufacturer part before any repair is made; or
+31 (2) Require any consumer to pay any difference in price if the
+-2-
+LB111 LB111
+2025 2025
+1 consumer elects to use any original equipment manufacturer part in the
+2 repair of the consumer's motor vehicle.
+3 Sec. 5. (1) Prior to any repair being made on a consumer's vehicle
+4 that involves use of a nonoriginal equipment manufacturer part, the
+5 insurer of the motor vehicle shall provide the following notice to the
+6 consumer in a font that is no smaller print than ten-point type:
+7 THIS ESTIMATE HAS BEEN PREPARED BASED ON THE USE OF AT LEAST ONE
+8 AUTOMOBILE PART NOT MADE BY THE ORIGINAL EQUIPEMENT MANUFACTURER OF YOUR
+9 MOTOR VEHICLE. ANY NONORIGINAL EQUIPMENT MANUFACTURER PART USED IN THE
+10 REPAIR OF YOUR MOTOR VEHICLE IS REQUIRED TO BE AT LEAST OF EQUAL QUALITY
+11 IN TERMS OF FIT AND PERFORMANCE TO THE ORIGINAL EQUIPMENT MANUFACTURER
+12 PART IT IS REPLACING.
+13 (2) Any nonoriginal equipment manufacturer part that is intended to
+14 be installed on a consumer's motor vehicle shall be clearly identified in
+15 the estimate for the repair of the motor vehicle.
+16 Sec. 6. No insurer shall require consumer care of a motor vehicle
+17 to be completed with aftermarket parts if such motor vehicle was
+18 manufactured within thirty-six months of the date of the damage to the
+19 motor vehicle that is receiving such consumer care.
+20 Sec. 7. An insurer may include the following notice in a policy
+21 that covers consumer care of a motor vehicle manufactured more than
+22 thirty-six months prior to the date of the policy in capitalized ten-
+23 point font and without other policy language on the page:
+24 IN THE REPAIR OF YOUR COVERED MOTOR VEHICLE UNDER THE DAMAGE
+25 COVERAGE PROVISIONS OF THIS POLICY, WE MAY REQUIRE OR SPECIFY THE USE OF
+26 AFTERMARKET PARTS NOT MADE BY THE ORIGINAL EQUIPMENT MANUFACTURER. SUCH
+27 AFTERMARKET PARTS ARE REQUIRED TO BE AT LEAST EQUAL IN TERMS OF FIT,
+28 QUALITY, PERFORMANCE, AND WARRANTY TO ORIGINAL EQUIPMENT MANUFACTURER
+29 PARTS.
+30 Sec. 8. Each violation of sections 1 to 7 of this act by any
+31 insurer is a Class I misdemeanor.
+-3-
+[DELETED: yQA B F A A r t i t d t t pcn e m p t r i tpB1L52]
+[DELETED: S((((( P a t r a i w r t c(t0(1o2(3S4a n e m p t d n c5s6s7a8S9a0e i q t t c o e m1p2b3i d t q o t n e m4p5S6(7i a t h o s i n r t a a n8e9c c i w t t u o a n e0m1( R a c t p a d i p i t1L52]
+[DELETED: crSt i u o a n e m p ticT E H B P B O T U O A L OAM V A N E M P U I T0R1I2P3(4b5t6S7t b c w a p i s m v w8m9m0S 7  A i m i t f n i a p1t c c c o a m v m m t2t m p t t d o t p i c t3p4I T R O Y C M V U T D5C6A7A P A R T B A L E I T O F8Q P A W T O E M9P0S 8  E v o s 1 t 7 o t a b a1i1L52]
+
+
+================================================================================
+
+Raw Text:
+LB111 LB111
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 111
+Introduced by Quick, 35.
+Read first time January 10, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to define terms; to prohibit
+2 certain actions of insurers relating to repairing motor vehicles and
+3 nonoriginal equipment manufacturer parts; to require insurers to
+4 provide notice to consumers as prescribed; and to provide a penalty.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB111 LB111
+2025 2025
+1 Section 1. For purposes of sections 1 to 8 of this act:
+2 (1) Consumer has the same meaning as in section 60-2701;
+3 (2) Consumer care has the same meaning as in section 60-1401.10;
+4 (3) Insurer includes any:
+5 (a) Insurance company; and
+6 (b) Person authorized to represent an insurer with respect to a
+7 claim who is acting within the scope of such person's authority;
+8 (4) Nonoriginal equipment manufacturer means any manufacturer other
+9 than the original equipment manufacturer for the motor vehicle; and
+10 (5)(a) Part means any part that generally constitutes the exterior
+11 of a motor vehicle, including inner and outer panels; and
+12 (b) Part does not include any tire, windshield, or window.
+13 Sec. 2. No insurer shall directly or indirectly require the use of
+14 any nonoriginal equipment manufacturer part that does not carry
+15 sufficient permanent identification so as to identify the manufacturer of
+16 such part. Such identification shall be accessible to the extent possible
+17 after installation.
+18 Sec. 3. No insurer shall directly or indirectly require the use of
+19 any nonoriginal equipment manufacturer part unless such part is at least
+20 equal in quality to the corresponding original equipment manufacturer
+21 part in terms of fit and performance. The cost of any modification that
+22 becomes necessary when making the repair shall be considered as a factor
+23 in determining the quality of the nonoriginal equipment manufacturer
+24 part.
+25 Sec. 4. An insurer shall not directly or indirectly:
+26 (1) Accept any estimate or authorize any repair unless the consumer
+27 is advised that he or she is not required to accept any nonoriginal
+28 equipment manufacturer part in the repair of the motor vehicle and the
+29 consumer consents in writing to the use of any nonoriginal equipment
+30 manufacturer part before any repair is made; or
+31 (2) Require any consumer to pay any difference in price if the
+-2-
+
+LB111 LB111
+2025 2025
+1 consumer elects to use any original equipment manufacturer part in the
+2 repair of the consumer's motor vehicle.
+3 Sec. 5. (1) Prior to any repair being made on a consumer's vehicle
+4 that involves use of a nonoriginal equipment manufacturer part, the
+5 insurer of the motor vehicle shall provide the following notice to the
+6 consumer in a font that is no smaller print than ten-point type:
+7 THIS ESTIMATE HAS BEEN PREPARED BASED ON THE USE OF AT LEAST ONE
+8 AUTOMOBILE PART NOT MADE BY THE ORIGINAL EQUIPEMENT MANUFACTURER OF YOUR
+9 MOTOR VEHICLE. ANY NONORIGINAL EQUIPMENT MANUFACTURER PART USED IN THE
+10 REPAIR OF YOUR MOTOR VEHICLE IS REQUIRED TO BE AT LEAST OF EQUAL QUALITY
+11 IN TERMS OF FIT AND PERFORMANCE TO THE ORIGINAL EQUIPMENT MANUFACTURER
+12 PART IT IS REPLACING.
+13 (2) Any nonoriginal equipment manufacturer part that is intended to
+14 be installed on a consumer's motor vehicle shall be clearly identified in
+15 the estimate for the repair of the motor vehicle.
+16 Sec. 6. No insurer shall require consumer care of a motor vehicle
+17 to be completed with aftermarket parts if such motor vehicle was
+18 manufactured within thirty-six months of the date of the damage to the
+19 motor vehicle that is receiving such consumer care.
+20 Sec. 7. An insurer may include the following notice in a policy
+21 that covers consumer care of a motor vehicle manufactured more than
+22 thirty-six months prior to the date of the policy in capitalized ten-
+23 point font and without other policy language on the page:
+24 IN THE REPAIR OF YOUR COVERED MOTOR VEHICLE UNDER THE DAMAGE
+25 COVERAGE PROVISIONS OF THIS POLICY, WE MAY REQUIRE OR SPECIFY THE USE OF
+26 AFTERMARKET PARTS NOT MADE BY THE ORIGINAL EQUIPMENT MANUFACTURER. SUCH
+27 AFTERMARKET PARTS ARE REQUIRED TO BE AT LEAST EQUAL IN TERMS OF FIT,
+28 QUALITY, PERFORMANCE, AND WARRANTY TO ORIGINAL EQUIPMENT MANUFACTURER
+29 PARTS.
+30 Sec. 8. Each violation of sections 1 to 7 of this act by any
+31 insurer is a Class I misdemeanor.
+-3-
+
+[DELETED: yQA B F A A r t i t d t t pcn e m p t r i tpB1L52]
+[DELETED: S((((( P a t r a i w r t c(t0(1o2(3S4a n e m p t d n c5s6s7a8S9a0e i q t t c o e m1p2b3i d t q o t n e m4p5S6(7i a t h o s i n r t a a n8e9c c i w t t u o a n e0m1( R a c t p a d i p i t1L52]
+[DELETED: crSt i u o a n e m p ticT E H B P B O T U O A L OAM V A N E M P U I T0R1I2P3(4b5t6S7t b c w a p i s m v w8m9m0S 7  A i m i t f n i a p1t c c c o a m v m m t2t m p t t d o t p i c t3p4I T R O Y C M V U T D5C6A7A P A R T B A L E I T O F8Q P A W T O E M9P0S 8  E v o s 1 t 7 o t a b a1i1L52]

@@ -1,0 +1,792 @@
+Title: LEGISLATIVE BILL 7
+Official Title: LEGISLATIVE BILL 7
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+LB7 LB7
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by DeKay, 40; Hardin, 48.
+Read first time January 09, 2025
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to the real property; to amend sections
+2 76-2,141, 76-3702, 76-3703, 76-3704, 76-3708, 76-3709, 76-3710,
+3 76-3712, and 76-3715, Revised Statutes Cumulative Supplement, 2024;
+4 to change provisions relating to affidavits for covered real estate,
+5 foreign-owned real estate, oil and gas leases, real estate of
+6 railroads, public utilities, common carriers, and within cities or
+7 villages, manufacturing or industrial establishments, investigations
+8 and violations, and civil and criminal immunity; to define and
+9 redefine terms; to provide for exceptions and applicability; to
+10 harmonize provisions; to provide severability; and to repeal the
+11 original sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+LB7 LB7
+2025 2025
+1 Section 1. Section 76-2,141, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 76-2,141 (1) For purposes of this section, covered real estate means
+4 real estate described in 31 C.F.R. 802.211(b)(3).
+5 (2) Whenever there is a conveyance of covered real estate, the
+6 purchaser of the real estate shall complete and sign an affidavit stating
+7 that such purchaser is not affiliated with any foreign government or
+8 nongovernment person determined to be a foreign adversary pursuant to 15
+9 C.F.R. 791.4, as such regulation existed on January 1, 2025 7.4.
+10 (3) The affidavit shall be submitted to the register of deeds of the
+11 county in which the covered real estate is located. The register of deeds
+12 shall not record any instrument reflecting the conveyance of such real
+13 estate until he or she has received such affidavit. The register of deeds
+14 shall send a copy of the affidavit to the Attorney General.
+15 (4) Any person who swears falsely on such an affidavit shall be
+16 guilty of a violation of section 28-915.01.
+17 (5) The responsibility for determining whether an affidavit is
+18 required under this section rests solely with the purchaser, and no
+19 individual or entity other than the purchaser shall bear any civil or
+20 criminal liability under this section. A violation of this section shall
+21 not make any title or interest in land invalid or unmarketable.
+22 (6) The affidavit required under this section shall be in
+23 substantially the following form:
+24 STATE OF NEBRASKA )
+25 )ss.
+26 COUNTY OF ....... )
+27 I, .................. (Purchaser), certify under penalty of perjury
+28 that I am not affiliated with any foreign government or nongovernment
+29 person determined to be a foreign adversary pursuant to 15 C.F.R. 791.4
+30 as such regulation existed on January 1, 2025 7.4.
+31 .............................. ...............
+-2-
+LB7 LB7
+2025 2025
+1 Signature of Purchaser Date
+2 Sec. 2. Section 76-3702, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 76-3702 For purposes of the Foreign-owned Real Estate National
+5 Security Act:
+6 (1) Foreign government means a government other than the federal
+7 government of the United States, the government of any territory or
+8 possession of the United States, or the government of any state,
+9 political subdivision of a state, or Indian tribe;
+10 (2) Indian tribe means an Indian tribe or band which is located in
+11 whole or in part within Nebraska and which is recognized by federal law
+12 or formally acknowledged by the state;
+13 (3) (1) Nonresident alien means any person who:
+14 (a) Is not a citizen of the United States;
+15 (b) Is not a national of the United States;
+16 (c) Is not a lawful permanent resident of the United States; and
+17 (d) Has not been physically present in the United States for at
+18 least one hundred eighty-three days during a three-year period that
+19 includes the current year and the two years immediately preceding the
+20 current year; and
+21 (4) Person means an individual, corporation, business trust, estate,
+22 trust, partnership, limited liability company, association, joint
+23 venture, agency, or instrumentality, or any other legal or commercial
+24 entity; and
+25 (5) (2) Restricted entity means:
+26 (a) Any person or entity identified on the sanctions lists
+27 maintained by the Office of Foreign Assets Control of the United States
+28 Department of the Treasury as such sanctions lists existed on January 1,
+29 2025; or
+30 (b) Any person or foreign government or entity determined by the
+31 United States Secretary of Commerce to have engaged in a long-term
+-3-
+LB7 LB7
+2025 2025
+1 pattern or serious instances of conduct significantly adverse to the
+2 national security of the United States pursuant to 15 C.F.R. 791.4 7.4,
+3 as such regulation existed on January 1, 2025.
+4 Sec. 3. Section 76-3703, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 76-3703 (1) Except as provided in the Foreign-owned Real Estate
+7 National Security Act, a nonresident alien, a foreign corporation, or
+8 foreign a government other than the United States Government or a
+9 government of its states, political subdivisions, territories, or
+10 possessions, or an agent, a trustee, or a fiduciary thereof:
+11 (a) Shall not purchase, acquire title to, or take any real estate or
+12 any leasehold interest extending for a period for more than five years or
+13 any other greater interest less than fee in any real estate in this state
+14 by descent, devise, purchase or otherwise on or after January 1, 2025 ,
+15 except as provided in the Foreign-owned Real Estate National Security
+16 Act; and
+17 (b) Shall be in compliance with the federal Agricultural Foreign
+18 Investment Disclosure Act of 1978, 7 U.S.C. 3501 et seq., with respect to
+19 any real estate in Nebraska.
+20 (2) Except as provided in the Foreign-owned Real Estate National
+21 Security Act, a restricted entity, a nonresident alien, a foreign
+22 corporation, foreign a government other than the United States Government
+23 or a government of its states, political subdivisions, territories, or
+24 possessions, or an agent, a trustee, or a fiduciary thereof, who that on
+25 or after January 1, 2025, purchases, acquires title to, or takes any real
+26 estate or any leasehold interest in violation of the Foreign-owned Real
+27 Estate National Security Act shall be subject to divestment as prescribed
+28 under section 76-3712.
+29 Sec. 4. Section 76-3704, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 76-3704 (1) Except as provided in subsection (2) of this section,
+-4-
+LB7 LB7
+2025 2025
+1 corporations incorporated under the laws of the United States of America,
+2 or under the laws of any state of the United States of America, or any
+3 foreign corporation or any nonresident alien, doing business in this
+4 state, may acquire, own, hold, or operate leases for oil, gas, or other
+5 hydrocarbon substances, for a period as long as ten years and as long
+6 thereafter as oil, gas, or other hydrocarbon substances shall or can be
+7 produced in commercial quantities.
+8 (2) A Subsection (1) of this section shall not apply to a restricted
+9 entity or an agent, trustee, or fiduciary thereof may not acquire, own,
+10 hold, or operate leases for oil, gas, or other hydrocarbon substances
+11 pursuant to subsection (1) of this section. A restricted entity, or an
+12 agent, trustee, or fiduciary thereof, who that violates this section
+13 subsection (1) of this section shall be in violation of the Foreign-owned
+14 Real Estate National Security Act and subject to divestment as prescribed
+15 under section 76-3712.
+16 Sec. 5. Section 76-3708, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 76-3708 (1) Except as provided in subsection (2) of this section,
+19 the provisions of sections 76-3703, 76-3706, and 76-3707 shall not apply
+20 to the real estate necessary for the construction and operation of
+21 railroads, public utilities, and common carriers.
+22 (2) The provisions of sections 76-3703, 76-3706, and 76-3707
+23 Subsection (1) of this section shall not apply to the real estate of a
+24 restricted entity or an agent, trustee, or fiduciary thereof. A
+25 restricted entity, or an agent, trustee, or fiduciary thereof, who that
+26 violates this section subsection (1) of this section shall be in
+27 violation of the Foreign-owned Real Estate National Security Act and
+28 subject to divestment as prescribed under section 76-3712.
+29 Sec. 6. Section 76-3709, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 76-3709 (1) Except as provided in subsection (2) of this section,
+-5-
+LB7 LB7
+2025 2025
+1 any nonresident alien, foreign corporation, or foreign government other
+2 than the United States Government or a government of its states,
+3 political subdivisions, territories, or possessions, or an agent,
+4 trustee, or fiduciary thereof:
+5 (a) May purchase, acquire, hold title to, or be a lessor or lessee
+6 of as much real estate as shall be necessary for the purpose of (i)
+7 erecting on such real estate manufacturing or industrial establishments,
+8 and in addition thereto such real estate as may be required for
+9 facilities incidental to such establishments, or (ii) erecting and
+10 maintaining establishments primarily operated for the storage, sale, and
+11 distribution of petroleum products or hydrocarbon substances, commonly
+12 known as filling stations or bulk stations; and
+13 (b) Shall not expand establishments or facilities purchased,
+14 acquired, held, or leased pursuant to subdivision (1)(a) of this section
+15 or build new such establishments or facilities if a restricted entity, or
+16 an agent, trustee, or fiduciary thereof.
+17 (2)(a) (2) A restricted entity, or an agent, trustee, or fiduciary
+18 thereof, shall not purchase, acquire, hold title to, or be a lessor or
+19 lessee of real estate pursuant to subdivision (1)(a) of this section
+20 unless such restricted entity, or an agent, trustee, or fiduciary
+21 thereof, has received: has a national security agreement with the
+22 Committee on Foreign Investment in the United States as of January 1,
+23 2025, maintains such national security agreement, and certifies the
+24 validity of such national security agreement annually to the Department
+25 of Agriculture within thirty days after January 1, 2025, and on or before
+26 January 15 of each year thereafter.
+27 (i) A determination from the Committee on Foreign Investment in the
+28 United States that there are no unresolved national security concerns
+29 with respect to the real estate transaction and such restricted entity
+30 has not undergone a change in control constituting a covered control
+31 transaction, as defined in 31 C.F.R. 800.210, as such regulation existed
+-6-
+LB7 LB7
+2025 2025
+1 on January 1, 2025, since such determination; or
+2 (ii) A national security agreement with the Committee on Foreign
+3 Investment in the United States and maintains the validity of such
+4 national security agreement.
+5 (b) A restricted entity, or an agent, trustee, or fiduciary thereof,
+6 who complies with the requirements of subdivision (2)(a)(i) or (ii) of
+7 this section shall annually certify such compliance to the Department of
+8 Agriculture on or before January 15, 2026, and on or before January 15 of
+9 each year thereafter.
+10 (3) A restricted entity, or an agent, trustee, or fiduciary thereof,
+11 who that violates this section shall be in violation of the Foreign-owned
+12 Real Estate National Security Act and subject to divestment as prescribed
+13 under section 76-3712.
+14 Sec. 7. Section 76-3710, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 76-3710 (1) Except as provided in subsection (2) of this section,
+17 the provisions of the Foreign-owned Real Estate National Security Act
+18 shall not apply to any real estate lying within the corporate limits of
+19 cities and villages, or within three miles of such corporate limits, nor
+20 to any manufacturing or industrial establishment described in section
+21 76-3709.
+22 (2) A restricted entity, or an agent, trustee, or fiduciary thereof,
+23 who that purchases, acquires, holds title to, or is the lessor or lessee
+24 of any real estate lying within the corporate limits of cities and
+25 villages, or within three miles of such corporate limits, or any
+26 manufacturing or industrial establishment described in section 76-3709
+27 shall be subject to sections 76-3703 and 76-3709. A restricted entity, or
+28 an agent, trustee, or fiduciary thereof, who that violates this
+29 subsection shall be subject to divestment as prescribed under section
+30 76-3712.
+31 Sec. 8. Section 76-3712, Revised Statutes Cumulative Supplement,
+-7-
+LB7 LB7
+2025 2025
+1 2024, is amended to read:
+2 76-3712 (1) Any person may notify the Department of Agriculture or
+3 the Attorney General of a violation or potential violation of the
+4 Foreign-owned Real Estate National Security Act.
+5 (2) The Department of Agriculture shall investigate violations of
+6 the Foreign-owned Real Estate National Security Act. If the Director of
+7 Agriculture has reasonable suspicion to believe that a violation of the
+8 act has occurred, the director shall refer the suspected violation to the
+9 Attorney General or outside counsel retained by the Department of
+10 Agriculture for enforcement.
+11 (3) The Attorney General or retained outside counsel, upon a
+12 referral by the Director of Agriculture or upon the receipt of any
+13 information from any person that gives the Attorney General or retained
+14 counsel reasonable suspicion to believe that a violation of the Foreign-
+15 owned Real Estate National Security Act has occurred, may issue subpoenas
+16 requiring the appearance of witnesses, the production of documents, and
+17 the giving of relevant testimony. Service of any subpoena shall be made
+18 in the same manner as a subpoena issued by any court in this state.
+19 (4)(a) After investigation, if the Attorney General or retained
+20 outside counsel believes that a violation of the Foreign-owned Real
+21 Estate National Security Act has occurred, the Attorney General or
+22 retained outside counsel shall notify the person any restricted entity
+23 believed to have committed or be committing such violation that such
+24 person entity may voluntarily divest the any interest in the real estate
+25 that is the subject of the violation.
+26 (b) The person believed to have committed or be committing a
+27 violation restricted entity shall indicate to the Attorney General or
+28 retained outside counsel whether such person entity is voluntarily
+29 divesting the any interest in the real estate that is the subject of the
+30 violation within thirty days of receiving the notice under subdivision
+31 (4)(a) of this section.
+-8-
+LB7 LB7
+2025 2025
+1 (c) If the person believed to have committed or to be committing a
+2 violation restricted entity indicates that such person it is voluntarily
+3 divesting the any interest in the real estate that is the subject of the
+4 violation, such person the restricted entity shall be entitled to a grace
+5 period of one hundred eighty days to voluntarily divest the interest.
+6 (d) The grace period of one hundred eighty days shall begin upon the
+7 end of the thirty-day period under subdivision (4)(b) of this section.
+8 (e) No person The restricted entity shall not sell or otherwise
+9 transfer the real estate to another a person or entity prohibited under
+10 the act. Any person A restricted entity who violates this subdivision
+11 shall be subject to a civil penalty not to exceed fifty thousand dollars
+12 per parcel of real estate sold or otherwise transferred to another a
+13 person or entity prohibited under the act.
+14 (5) The Attorney General or retained outside counsel shall commence
+15 an action in either the district court in the county in which all or part
+16 of the real estate is located or in the district court of Lancaster
+17 County if:
+18 (a) The person described in subdivision (4)(a) of this section
+19 restricted entity fails to indicate to the Attorney General or retained
+20 outside counsel that such person the entity is voluntarily divesting the
+21 any interest in the real estate that is the subject of the violation
+22 within the thirty-day period under subdivision (4)(b) of this section; or
+23 (b) Such person The restricted entity fails to voluntarily divest
+24 the any interest in the real estate that is the subject of the violation
+25 within the grace period of one hundred eighty days.
+26 (6) Upon commencement of an action under this section, the Attorney
+27 General or retained counsel shall:
+28 (a) Promptly record a notice of the pendency of the action in
+29 records with the register of deeds in each county in which all or part of
+30 the real estate is located; and
+31 (b) Serve a copy of the petition by service of process in the same
+-9-
+LB7 LB7
+2025 2025
+1 manner as in civil cases as follows on:
+2 (i) The owner of the real estate if the owner's address is known;
+3 (ii) Any secured party who has registered or filed a lien, mortgage,
+4 or trust deed against the real estate or filed a financing statement
+5 against the real estate as provided by law if the identity of the secured
+6 party can be ascertained by the person entity filing the petition by
+7 making a good faith effort to ascertain the identity of the secured
+8 party;
+9 (iii) Any other bona fide lienholder or secured party or other
+10 person holding an interest in the real estate if such party is known; and
+11 (iv) Any person residing on the real estate subject to divestment at
+12 the time the petition is filed.
+13 (7) The court shall have power to hear and determine the questions
+14 presented in such case and to declare such real estate to be divested.
+15 The burden is on the state to prove by clear and convincing evidence that
+16 the real estate is subject to divestment under the Foreign-owned Real
+17 Estate National Security Act. If the court finds that the real estate
+18 that is the subject of an action commenced under the act was purchased,
+19 acquired, taken, or held in violation of the act, the court shall enter
+20 an order that:
+21 (a) States the findings of the court;
+22 (b) Orders the divestment of the interest in the real estate of the
+23 person or entity that violated the act;
+24 (c) Orders the Attorney General or retained outside counsel to
+25 promptly notify Notifies the Governor and the Legislature that the title
+26 to such real estate is ordered divested by the decree of the court;
+27 (d) Orders the Attorney General or retained outside counsel to
+28 promptly record a copy of such divestment order with the register of
+29 deeds of each county in which all or part of the real estate is located;
+30 (e) Appoints a receiver subject to sections 25-1081 to 25-1092 to
+31 manage and control the real estate through the final disposition of the
+-10-
+LB7 LB7
+2025 2025
+1 real estate; and
+2 (f) Authorizes the proceeds of the divestment to be disbursed in the
+3 following order:
+4 (i) The payment of any taxes and assessments due;
+5 (ii) The payment of court costs related to the action or actions
+6 commenced under the Foreign-owned Real Estate National Security Act;
+7 (iii) The payment of authorized costs of the sale, including all
+8 approved fees and pending sale expenses and expenses of the referee;
+9 (iv) Reimbursement of investigation and litigation costs and
+10 expenses, in an amount approved by the court, to the Attorney General or
+11 retained outside counsel;
+12 (v) Payment to bona fide lienholders of the real estate, in order of
+13 lien priority, except for liens which under the terms of the divestment
+14 are to remain on the real estate; and
+15 (vi) Remittance of any remaining proceeds to the State Treasurer for
+16 distribution in accordance with Article VII, section 5, of the
+17 Constitution of Nebraska.
+18 (8) If the interest is a lease, easement, or interest other than fee
+19 title, the court shall have power to declare such interest terminated.
+20 (9) If the respondent fails to answer or appear for the action
+21 commenced pursuant to this section, the court may enter default judgment.
+22 Sec. 9. Section 76-3715, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 76-3715 Nothing in the Foreign-owned Real Estate National Security
+25 Act shall be construed to require any person or entity to determine or
+26 inquire whether another person or entity is subject to or in violation of
+27 the act, and such person or entity shall bear no civil or criminal
+28 liability under the act for the failure to make such determination or
+29 inquiry. The Attorney General, retained outside counsel, and Director of
+30 Agriculture are responsible for determining whether a person or entity is
+31 subject to or in violation of the act.
+-11-
+LB7 LB7
+2025 2025
+1 Sec. 10. If any section in this act or any part of any section is
+2 declared invalid or unconstitutional, the declaration shall not affect
+3 the validity or constitutionality of the remaining portions.
+4 Sec. 11. Original sections 76-2,141, 76-3702, 76-3703, 76-3704,
+5 76-3708, 76-3709, 76-3710, 76-3712, and 76-3715, Revised Statutes
+6 Cumulative Supplement, 2024, are repealed.
+-12-
+[DELETED: yDA B F A A r t t r p t a s7 7 7 7 7 7 77tf r e o a g l r e orva v a c a c i t d ar t t p f e a a t0h p t p s a t r t1o2B7L52]
+[DELETED: S27r( W t i a c o c r e tpt s p i n a w a f g onC0(1c2s3e4s5( A p w s f o s a a s b6g7( T r f d w a a i8r u t s r s w t p a n9i o e o t t p s b a c o0c1n2( T a r u t s s b i3s4S5)6C7I8t I a n a w a f g o n9p0a1...7L52]
+[DELETED: SrDS 2 S 7 R S C S27 F p o t F R E NS( F g m a g o t t fg o t U S t g o a t op o t U S o t g o a sp0(1w2o3(4(5(6(7( H n b p p i t U S f a8l o h e d d a t p t9i t c y a t t y i p t0c1(2t p l l c a j3v a o i o a o l o c4e5(6( A p o e i o t s l7m8D920( A p o f g o e d b t1U S S o C t h e i a l7L52]
+[DELETED: p o s i o c s a t tnaS 3 S 7 R S C S27 ( E a p i t F R EN S A a n a a f c of a g o t t U S G o g o i s p s t o0p1(2a3a4b5e a p i t F R E N S6A7( S b i c w t f A F8I9a0( E a p i t F R E N1S A a r e a n a a f2c3o a g o i s p s t o4p5o6e7E8u9S 4 S 7 R S C S0217 ( E a p i s ( o t s7L52]
+[DELETED: cof c o a n a d b i tsh s f a p a l a t y a a ltp(e0h o o l f o g o o h s1p2a t o f t w t v t s3s4R5u6S 5 S 7 R S C S7287 ( E a p i s ( o t s9t0t t r e n f t c a o o1r2( T p o s 7 7 a 73S4r e o a a t o f t 5r6v t s s ( o t s s b i7v o t F R E N S A a8s9S 6 S 7 R S C S0217 ( E a p i s ( o t s7L52]
+[DELETED: at t U S G o a g o i sp s t o p o a at(o a m r e a s b n f t p o (ea i a t s r e a m b r ff i t s e o ( e a0m1d o p p o h s c2k3( S n e e o f p4a5o6a7(8t9l o r e p t s ( o t s0u s r e o a a t o f1t h r h a n s a w t2C o F I i t U S a o J 132 m s n s a a c t4v5o6J7(8U S t t a n u n s c9w0h n u a c i c c a c c1t7L52]
+[DELETED: o( A n s a w t C o FI i t U S a m t v o sn(wtAe0(1w2R3u4S 7 S 7 R S C S5267 ( E a p i s ( o t s7t p o t F R E N S A8s9c0t a m o i e d i s172(3w4o a r e l w t c l o c a5v o w t m o s c l o a6m o i e d i s 77s8a a t o f t w t v t9s s b s t d a p u s071S 8 S 7 R S C S7L52]
+[DELETED: 27t A G o a v o p v o tF( T D o A s i v otAaA G o o c r b t D o0A1( T A G o r o c u 2r b t D o A o u t r o a3i4c5o6r7t8i9( A i i t A G o r0o c b t a v o t F R1E N S A h o t A G o2r o c s n t p a r e3b t h c o b c s v t s4p5t6( T p b t h c o b c 7v r e s i t t A G o8r o c w s p e i v9d0v w t d o r t n u s1(7L52]
+[DELETED: (vdvp(e( N p T r e s n s o ot0t a A p A r e w v t s1s2p p o r e s o o t t a 3p4(5a6o t r e i l o i t d c o L7C8( T p d i s ( o t s9r0o1a i i t r e t i t s o t v2w3( S p T r e f t v d4t5w6(7G8( P r a n o t p o t a i9r0t1(7L52]
+[DELETED: m((o t d a t r e o f a f sap c b a b t p e f t p bm a g f e t a t i o t sp( A o b f l o s p o o0p1(2t3(4p5T6t r e i s t d u t F R7E N S A I t c f t t r e8t9a0a1(2(3p4( O t A G o r o c t5p6t7( O t A G o r o c t8p r a c o s d o w t r o9d0( A a r s t s 2 t 2 t1m7L52]
+[DELETED: r(f(( T p o c c r t t a o ac( T p o a c o t s i aa( R o i a l c a0e1r2(3l4a5(6d i a w A V s 5 o t7C8(9t0( I t r f t a o a f t a1c2S 9 S 7 R S C S32475A6i7t a a s p o e s b n c o c8l u t a f t f t m s d o9i0A1s7L52]
+[DELETED: Sd i o u t d s n atS 1  O s 7 7 7 77 7 7 7 a 7 R SC7L52]
+
+
+================================================================================
+
+Raw Text:
+LB7 LB7
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 7
+Introduced by DeKay, 40; Hardin, 48.
+Read first time January 09, 2025
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to the real property; to amend sections
+2 76-2,141, 76-3702, 76-3703, 76-3704, 76-3708, 76-3709, 76-3710,
+3 76-3712, and 76-3715, Revised Statutes Cumulative Supplement, 2024;
+4 to change provisions relating to affidavits for covered real estate,
+5 foreign-owned real estate, oil and gas leases, real estate of
+6 railroads, public utilities, common carriers, and within cities or
+7 villages, manufacturing or industrial establishments, investigations
+8 and violations, and civil and criminal immunity; to define and
+9 redefine terms; to provide for exceptions and applicability; to
+10 harmonize provisions; to provide severability; and to repeal the
+11 original sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB7 LB7
+2025 2025
+1 Section 1. Section 76-2,141, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 76-2,141 (1) For purposes of this section, covered real estate means
+4 real estate described in 31 C.F.R. 802.211(b)(3).
+5 (2) Whenever there is a conveyance of covered real estate, the
+6 purchaser of the real estate shall complete and sign an affidavit stating
+7 that such purchaser is not affiliated with any foreign government or
+8 nongovernment person determined to be a foreign adversary pursuant to 15
+9 C.F.R. 791.4, as such regulation existed on January 1, 2025 7.4.
+10 (3) The affidavit shall be submitted to the register of deeds of the
+11 county in which the covered real estate is located. The register of deeds
+12 shall not record any instrument reflecting the conveyance of such real
+13 estate until he or she has received such affidavit. The register of deeds
+14 shall send a copy of the affidavit to the Attorney General.
+15 (4) Any person who swears falsely on such an affidavit shall be
+16 guilty of a violation of section 28-915.01.
+17 (5) The responsibility for determining whether an affidavit is
+18 required under this section rests solely with the purchaser, and no
+19 individual or entity other than the purchaser shall bear any civil or
+20 criminal liability under this section. A violation of this section shall
+21 not make any title or interest in land invalid or unmarketable.
+22 (6) The affidavit required under this section shall be in
+23 substantially the following form:
+24 STATE OF NEBRASKA )
+25 )ss.
+26 COUNTY OF ....... )
+27 I, .................. (Purchaser), certify under penalty of perjury
+28 that I am not affiliated with any foreign government or nongovernment
+29 person determined to be a foreign adversary pursuant to 15 C.F.R. 791.4
+30 as such regulation existed on January 1, 2025 7.4.
+31 .............................. ...............
+-2-
+
+LB7 LB7
+2025 2025
+1 Signature of Purchaser Date
+2 Sec. 2. Section 76-3702, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 76-3702 For purposes of the Foreign-owned Real Estate National
+5 Security Act:
+6 (1) Foreign government means a government other than the federal
+7 government of the United States, the government of any territory or
+8 possession of the United States, or the government of any state,
+9 political subdivision of a state, or Indian tribe;
+10 (2) Indian tribe means an Indian tribe or band which is located in
+11 whole or in part within Nebraska and which is recognized by federal law
+12 or formally acknowledged by the state;
+13 (3) (1) Nonresident alien means any person who:
+14 (a) Is not a citizen of the United States;
+15 (b) Is not a national of the United States;
+16 (c) Is not a lawful permanent resident of the United States; and
+17 (d) Has not been physically present in the United States for at
+18 least one hundred eighty-three days during a three-year period that
+19 includes the current year and the two years immediately preceding the
+20 current year; and
+21 (4) Person means an individual, corporation, business trust, estate,
+22 trust, partnership, limited liability company, association, joint
+23 venture, agency, or instrumentality, or any other legal or commercial
+24 entity; and
+25 (5) (2) Restricted entity means:
+26 (a) Any person or entity identified on the sanctions lists
+27 maintained by the Office of Foreign Assets Control of the United States
+28 Department of the Treasury as such sanctions lists existed on January 1,
+29 2025; or
+30 (b) Any person or foreign government or entity determined by the
+31 United States Secretary of Commerce to have engaged in a long-term
+-3-
+
+LB7 LB7
+2025 2025
+1 pattern or serious instances of conduct significantly adverse to the
+2 national security of the United States pursuant to 15 C.F.R. 791.4 7.4,
+3 as such regulation existed on January 1, 2025.
+4 Sec. 3. Section 76-3703, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 76-3703 (1) Except as provided in the Foreign-owned Real Estate
+7 National Security Act, a nonresident alien, a foreign corporation, or
+8 foreign a government other than the United States Government or a
+9 government of its states, political subdivisions, territories, or
+10 possessions, or an agent, a trustee, or a fiduciary thereof:
+11 (a) Shall not purchase, acquire title to, or take any real estate or
+12 any leasehold interest extending for a period for more than five years or
+13 any other greater interest less than fee in any real estate in this state
+14 by descent, devise, purchase or otherwise on or after January 1, 2025 ,
+15 except as provided in the Foreign-owned Real Estate National Security
+16 Act; and
+17 (b) Shall be in compliance with the federal Agricultural Foreign
+18 Investment Disclosure Act of 1978, 7 U.S.C. 3501 et seq., with respect to
+19 any real estate in Nebraska.
+20 (2) Except as provided in the Foreign-owned Real Estate National
+21 Security Act, a restricted entity, a nonresident alien, a foreign
+22 corporation, foreign a government other than the United States Government
+23 or a government of its states, political subdivisions, territories, or
+24 possessions, or an agent, a trustee, or a fiduciary thereof, who that on
+25 or after January 1, 2025, purchases, acquires title to, or takes any real
+26 estate or any leasehold interest in violation of the Foreign-owned Real
+27 Estate National Security Act shall be subject to divestment as prescribed
+28 under section 76-3712.
+29 Sec. 4. Section 76-3704, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 76-3704 (1) Except as provided in subsection (2) of this section,
+-4-
+
+LB7 LB7
+2025 2025
+1 corporations incorporated under the laws of the United States of America,
+2 or under the laws of any state of the United States of America, or any
+3 foreign corporation or any nonresident alien, doing business in this
+4 state, may acquire, own, hold, or operate leases for oil, gas, or other
+5 hydrocarbon substances, for a period as long as ten years and as long
+6 thereafter as oil, gas, or other hydrocarbon substances shall or can be
+7 produced in commercial quantities.
+8 (2) A Subsection (1) of this section shall not apply to a restricted
+9 entity or an agent, trustee, or fiduciary thereof may not acquire, own,
+10 hold, or operate leases for oil, gas, or other hydrocarbon substances
+11 pursuant to subsection (1) of this section. A restricted entity, or an
+12 agent, trustee, or fiduciary thereof, who that violates this section
+13 subsection (1) of this section shall be in violation of the Foreign-owned
+14 Real Estate National Security Act and subject to divestment as prescribed
+15 under section 76-3712.
+16 Sec. 5. Section 76-3708, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 76-3708 (1) Except as provided in subsection (2) of this section,
+19 the provisions of sections 76-3703, 76-3706, and 76-3707 shall not apply
+20 to the real estate necessary for the construction and operation of
+21 railroads, public utilities, and common carriers.
+22 (2) The provisions of sections 76-3703, 76-3706, and 76-3707
+23 Subsection (1) of this section shall not apply to the real estate of a
+24 restricted entity or an agent, trustee, or fiduciary thereof. A
+25 restricted entity, or an agent, trustee, or fiduciary thereof, who that
+26 violates this section subsection (1) of this section shall be in
+27 violation of the Foreign-owned Real Estate National Security Act and
+28 subject to divestment as prescribed under section 76-3712.
+29 Sec. 6. Section 76-3709, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 76-3709 (1) Except as provided in subsection (2) of this section,
+-5-
+
+LB7 LB7
+2025 2025
+1 any nonresident alien, foreign corporation, or foreign government other
+2 than the United States Government or a government of its states,
+3 political subdivisions, territories, or possessions, or an agent,
+4 trustee, or fiduciary thereof:
+5 (a) May purchase, acquire, hold title to, or be a lessor or lessee
+6 of as much real estate as shall be necessary for the purpose of (i)
+7 erecting on such real estate manufacturing or industrial establishments,
+8 and in addition thereto such real estate as may be required for
+9 facilities incidental to such establishments, or (ii) erecting and
+10 maintaining establishments primarily operated for the storage, sale, and
+11 distribution of petroleum products or hydrocarbon substances, commonly
+12 known as filling stations or bulk stations; and
+13 (b) Shall not expand establishments or facilities purchased,
+14 acquired, held, or leased pursuant to subdivision (1)(a) of this section
+15 or build new such establishments or facilities if a restricted entity, or
+16 an agent, trustee, or fiduciary thereof.
+17 (2)(a) (2) A restricted entity, or an agent, trustee, or fiduciary
+18 thereof, shall not purchase, acquire, hold title to, or be a lessor or
+19 lessee of real estate pursuant to subdivision (1)(a) of this section
+20 unless such restricted entity, or an agent, trustee, or fiduciary
+21 thereof, has received: has a national security agreement with the
+22 Committee on Foreign Investment in the United States as of January 1,
+23 2025, maintains such national security agreement, and certifies the
+24 validity of such national security agreement annually to the Department
+25 of Agriculture within thirty days after January 1, 2025, and on or before
+26 January 15 of each year thereafter.
+27 (i) A determination from the Committee on Foreign Investment in the
+28 United States that there are no unresolved national security concerns
+29 with respect to the real estate transaction and such restricted entity
+30 has not undergone a change in control constituting a covered control
+31 transaction, as defined in 31 C.F.R. 800.210, as such regulation existed
+-6-
+
+LB7 LB7
+2025 2025
+1 on January 1, 2025, since such determination; or
+2 (ii) A national security agreement with the Committee on Foreign
+3 Investment in the United States and maintains the validity of such
+4 national security agreement.
+5 (b) A restricted entity, or an agent, trustee, or fiduciary thereof,
+6 who complies with the requirements of subdivision (2)(a)(i) or (ii) of
+7 this section shall annually certify such compliance to the Department of
+8 Agriculture on or before January 15, 2026, and on or before January 15 of
+9 each year thereafter.
+10 (3) A restricted entity, or an agent, trustee, or fiduciary thereof,
+11 who that violates this section shall be in violation of the Foreign-owned
+12 Real Estate National Security Act and subject to divestment as prescribed
+13 under section 76-3712.
+14 Sec. 7. Section 76-3710, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 76-3710 (1) Except as provided in subsection (2) of this section,
+17 the provisions of the Foreign-owned Real Estate National Security Act
+18 shall not apply to any real estate lying within the corporate limits of
+19 cities and villages, or within three miles of such corporate limits, nor
+20 to any manufacturing or industrial establishment described in section
+21 76-3709.
+22 (2) A restricted entity, or an agent, trustee, or fiduciary thereof,
+23 who that purchases, acquires, holds title to, or is the lessor or lessee
+24 of any real estate lying within the corporate limits of cities and
+25 villages, or within three miles of such corporate limits, or any
+26 manufacturing or industrial establishment described in section 76-3709
+27 shall be subject to sections 76-3703 and 76-3709. A restricted entity, or
+28 an agent, trustee, or fiduciary thereof, who that violates this
+29 subsection shall be subject to divestment as prescribed under section
+30 76-3712.
+31 Sec. 8. Section 76-3712, Revised Statutes Cumulative Supplement,
+-7-
+
+LB7 LB7
+2025 2025
+1 2024, is amended to read:
+2 76-3712 (1) Any person may notify the Department of Agriculture or
+3 the Attorney General of a violation or potential violation of the
+4 Foreign-owned Real Estate National Security Act.
+5 (2) The Department of Agriculture shall investigate violations of
+6 the Foreign-owned Real Estate National Security Act. If the Director of
+7 Agriculture has reasonable suspicion to believe that a violation of the
+8 act has occurred, the director shall refer the suspected violation to the
+9 Attorney General or outside counsel retained by the Department of
+10 Agriculture for enforcement.
+11 (3) The Attorney General or retained outside counsel, upon a
+12 referral by the Director of Agriculture or upon the receipt of any
+13 information from any person that gives the Attorney General or retained
+14 counsel reasonable suspicion to believe that a violation of the Foreign-
+15 owned Real Estate National Security Act has occurred, may issue subpoenas
+16 requiring the appearance of witnesses, the production of documents, and
+17 the giving of relevant testimony. Service of any subpoena shall be made
+18 in the same manner as a subpoena issued by any court in this state.
+19 (4)(a) After investigation, if the Attorney General or retained
+20 outside counsel believes that a violation of the Foreign-owned Real
+21 Estate National Security Act has occurred, the Attorney General or
+22 retained outside counsel shall notify the person any restricted entity
+23 believed to have committed or be committing such violation that such
+24 person entity may voluntarily divest the any interest in the real estate
+25 that is the subject of the violation.
+26 (b) The person believed to have committed or be committing a
+27 violation restricted entity shall indicate to the Attorney General or
+28 retained outside counsel whether such person entity is voluntarily
+29 divesting the any interest in the real estate that is the subject of the
+30 violation within thirty days of receiving the notice under subdivision
+31 (4)(a) of this section.
+-8-
+
+LB7 LB7
+2025 2025
+1 (c) If the person believed to have committed or to be committing a
+2 violation restricted entity indicates that such person it is voluntarily
+3 divesting the any interest in the real estate that is the subject of the
+4 violation, such person the restricted entity shall be entitled to a grace
+5 period of one hundred eighty days to voluntarily divest the interest.
+6 (d) The grace period of one hundred eighty days shall begin upon the
+7 end of the thirty-day period under subdivision (4)(b) of this section.
+8 (e) No person The restricted entity shall not sell or otherwise
+9 transfer the real estate to another a person or entity prohibited under
+10 the act. Any person A restricted entity who violates this subdivision
+11 shall be subject to a civil penalty not to exceed fifty thousand dollars
+12 per parcel of real estate sold or otherwise transferred to another a
+13 person or entity prohibited under the act.
+14 (5) The Attorney General or retained outside counsel shall commence
+15 an action in either the district court in the county in which all or part
+16 of the real estate is located or in the district court of Lancaster
+17 County if:
+18 (a) The person described in subdivision (4)(a) of this section
+19 restricted entity fails to indicate to the Attorney General or retained
+20 outside counsel that such person the entity is voluntarily divesting the
+21 any interest in the real estate that is the subject of the violation
+22 within the thirty-day period under subdivision (4)(b) of this section; or
+23 (b) Such person The restricted entity fails to voluntarily divest
+24 the any interest in the real estate that is the subject of the violation
+25 within the grace period of one hundred eighty days.
+26 (6) Upon commencement of an action under this section, the Attorney
+27 General or retained counsel shall:
+28 (a) Promptly record a notice of the pendency of the action in
+29 records with the register of deeds in each county in which all or part of
+30 the real estate is located; and
+31 (b) Serve a copy of the petition by service of process in the same
+-9-
+
+LB7 LB7
+2025 2025
+1 manner as in civil cases as follows on:
+2 (i) The owner of the real estate if the owner's address is known;
+3 (ii) Any secured party who has registered or filed a lien, mortgage,
+4 or trust deed against the real estate or filed a financing statement
+5 against the real estate as provided by law if the identity of the secured
+6 party can be ascertained by the person entity filing the petition by
+7 making a good faith effort to ascertain the identity of the secured
+8 party;
+9 (iii) Any other bona fide lienholder or secured party or other
+10 person holding an interest in the real estate if such party is known; and
+11 (iv) Any person residing on the real estate subject to divestment at
+12 the time the petition is filed.
+13 (7) The court shall have power to hear and determine the questions
+14 presented in such case and to declare such real estate to be divested.
+15 The burden is on the state to prove by clear and convincing evidence that
+16 the real estate is subject to divestment under the Foreign-owned Real
+17 Estate National Security Act. If the court finds that the real estate
+18 that is the subject of an action commenced under the act was purchased,
+19 acquired, taken, or held in violation of the act, the court shall enter
+20 an order that:
+21 (a) States the findings of the court;
+22 (b) Orders the divestment of the interest in the real estate of the
+23 person or entity that violated the act;
+24 (c) Orders the Attorney General or retained outside counsel to
+25 promptly notify Notifies the Governor and the Legislature that the title
+26 to such real estate is ordered divested by the decree of the court;
+27 (d) Orders the Attorney General or retained outside counsel to
+28 promptly record a copy of such divestment order with the register of
+29 deeds of each county in which all or part of the real estate is located;
+30 (e) Appoints a receiver subject to sections 25-1081 to 25-1092 to
+31 manage and control the real estate through the final disposition of the
+-10-
+
+LB7 LB7
+2025 2025
+1 real estate; and
+2 (f) Authorizes the proceeds of the divestment to be disbursed in the
+3 following order:
+4 (i) The payment of any taxes and assessments due;
+5 (ii) The payment of court costs related to the action or actions
+6 commenced under the Foreign-owned Real Estate National Security Act;
+7 (iii) The payment of authorized costs of the sale, including all
+8 approved fees and pending sale expenses and expenses of the referee;
+9 (iv) Reimbursement of investigation and litigation costs and
+10 expenses, in an amount approved by the court, to the Attorney General or
+11 retained outside counsel;
+12 (v) Payment to bona fide lienholders of the real estate, in order of
+13 lien priority, except for liens which under the terms of the divestment
+14 are to remain on the real estate; and
+15 (vi) Remittance of any remaining proceeds to the State Treasurer for
+16 distribution in accordance with Article VII, section 5, of the
+17 Constitution of Nebraska.
+18 (8) If the interest is a lease, easement, or interest other than fee
+19 title, the court shall have power to declare such interest terminated.
+20 (9) If the respondent fails to answer or appear for the action
+21 commenced pursuant to this section, the court may enter default judgment.
+22 Sec. 9. Section 76-3715, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 76-3715 Nothing in the Foreign-owned Real Estate National Security
+25 Act shall be construed to require any person or entity to determine or
+26 inquire whether another person or entity is subject to or in violation of
+27 the act, and such person or entity shall bear no civil or criminal
+28 liability under the act for the failure to make such determination or
+29 inquiry. The Attorney General, retained outside counsel, and Director of
+30 Agriculture are responsible for determining whether a person or entity is
+31 subject to or in violation of the act.
+-11-
+
+LB7 LB7
+2025 2025
+1 Sec. 10. If any section in this act or any part of any section is
+2 declared invalid or unconstitutional, the declaration shall not affect
+3 the validity or constitutionality of the remaining portions.
+4 Sec. 11. Original sections 76-2,141, 76-3702, 76-3703, 76-3704,
+5 76-3708, 76-3709, 76-3710, 76-3712, and 76-3715, Revised Statutes
+6 Cumulative Supplement, 2024, are repealed.
+-12-
+
+[DELETED: yDA B F A A r t t r p t a s7 7 7 7 7 7 77tf r e o a g l r e orva v a c a c i t d ar t t p f e a a t0h p t p s a t r t1o2B7L52]
+[DELETED: S27r( W t i a c o c r e tpt s p i n a w a f g onC0(1c2s3e4s5( A p w s f o s a a s b6g7( T r f d w a a i8r u t s r s w t p a n9i o e o t t p s b a c o0c1n2( T a r u t s s b i3s4S5)6C7I8t I a n a w a f g o n9p0a1...7L52]
+[DELETED: SrDS 2 S 7 R S C S27 F p o t F R E NS( F g m a g o t t fg o t U S t g o a t op o t U S o t g o a sp0(1w2o3(4(5(6(7( H n b p p i t U S f a8l o h e d d a t p t9i t c y a t t y i p t0c1(2t p l l c a j3v a o i o a o l o c4e5(6( A p o e i o t s l7m8D920( A p o f g o e d b t1U S S o C t h e i a l7L52]
+[DELETED: p o s i o c s a t tnaS 3 S 7 R S C S27 ( E a p i t F R EN S A a n a a f c of a g o t t U S G o g o i s p s t o0p1(2a3a4b5e a p i t F R E N S6A7( S b i c w t f A F8I9a0( E a p i t F R E N1S A a r e a n a a f2c3o a g o i s p s t o4p5o6e7E8u9S 4 S 7 R S C S0217 ( E a p i s ( o t s7L52]
+[DELETED: cof c o a n a d b i tsh s f a p a l a t y a a ltp(e0h o o l f o g o o h s1p2a t o f t w t v t s3s4R5u6S 5 S 7 R S C S7287 ( E a p i s ( o t s9t0t t r e n f t c a o o1r2( T p o s 7 7 a 73S4r e o a a t o f t 5r6v t s s ( o t s s b i7v o t F R E N S A a8s9S 6 S 7 R S C S0217 ( E a p i s ( o t s7L52]
+[DELETED: at t U S G o a g o i sp s t o p o a at(o a m r e a s b n f t p o (ea i a t s r e a m b r ff i t s e o ( e a0m1d o p p o h s c2k3( S n e e o f p4a5o6a7(8t9l o r e p t s ( o t s0u s r e o a a t o f1t h r h a n s a w t2C o F I i t U S a o J 132 m s n s a a c t4v5o6J7(8U S t t a n u n s c9w0h n u a c i c c a c c1t7L52]
+[DELETED: o( A n s a w t C o FI i t U S a m t v o sn(wtAe0(1w2R3u4S 7 S 7 R S C S5267 ( E a p i s ( o t s7t p o t F R E N S A8s9c0t a m o i e d i s172(3w4o a r e l w t c l o c a5v o w t m o s c l o a6m o i e d i s 77s8a a t o f t w t v t9s s b s t d a p u s071S 8 S 7 R S C S7L52]
+[DELETED: 27t A G o a v o p v o tF( T D o A s i v otAaA G o o c r b t D o0A1( T A G o r o c u 2r b t D o A o u t r o a3i4c5o6r7t8i9( A i i t A G o r0o c b t a v o t F R1E N S A h o t A G o2r o c s n t p a r e3b t h c o b c s v t s4p5t6( T p b t h c o b c 7v r e s i t t A G o8r o c w s p e i v9d0v w t d o r t n u s1(7L52]
+[DELETED: (vdvp(e( N p T r e s n s o ot0t a A p A r e w v t s1s2p p o r e s o o t t a 3p4(5a6o t r e i l o i t d c o L7C8( T p d i s ( o t s9r0o1a i i t r e t i t s o t v2w3( S p T r e f t v d4t5w6(7G8( P r a n o t p o t a i9r0t1(7L52]
+[DELETED: m((o t d a t r e o f a f sap c b a b t p e f t p bm a g f e t a t i o t sp( A o b f l o s p o o0p1(2t3(4p5T6t r e i s t d u t F R7E N S A I t c f t t r e8t9a0a1(2(3p4( O t A G o r o c t5p6t7( O t A G o r o c t8p r a c o s d o w t r o9d0( A a r s t s 2 t 2 t1m7L52]
+[DELETED: r(f(( T p o c c r t t a o ac( T p o a c o t s i aa( R o i a l c a0e1r2(3l4a5(6d i a w A V s 5 o t7C8(9t0( I t r f t a o a f t a1c2S 9 S 7 R S C S32475A6i7t a a s p o e s b n c o c8l u t a f t f t m s d o9i0A1s7L52]
+[DELETED: Sd i o u t d s n atS 1  O s 7 7 7 77 7 7 7 a 7 R SC7L52]

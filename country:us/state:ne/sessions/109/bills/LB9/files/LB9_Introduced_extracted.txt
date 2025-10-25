@@ -1,0 +1,1471 @@
+Title: LEGISLATIVE BILL 9
+Official Title: LEGISLATIVE BILL 9
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+LB9 LB9
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Hughes, 24.
+Read first time January 09, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to tobacco and related products; to amend
+2 sections 77-2604, 77-2612, 77-2615.01, and 77-4015, Reissue Revised
+3 Statutes of Nebraska, and sections 28-1418.01, 59-1523, 69-2705,
+4 69-2709, 69-2710.01, 77-4001, 77-4002, and 77-4003.01, Revised
+5 Statutes Cumulative Supplement, 2024; to define and redefine terms
+6 relating to nicotine and nicotine analogues; to provide for
+7 regulation of alternative nicotine products and electronic nicotine
+8 delivery systems containing nicotine analogues; to change provisions
+9 relating to notices of deficiency for certain cigarette taxes and
+10 under the Tobacco Products Tax Act; to provide for sanctions and
+11 administrative penalties under the Tobacco Products Tax Act, to
+12 declare tobacco products involved in violations of the act to be
+13 contraband and provide for their forfeiture, seizure, and disposal;
+14 to provide for immunity; to harmonize provisions; to provide an
+15 operative date; and to repeal the original sections.
+16 Be it enacted by the people of the State of Nebraska,
+-1-
+LB9 LB9
+2025 2025
+1 Section 1. Section 28-1418.01, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 28-1418.01 For purposes of sections 28-1418 to 28-1429.07:
+4 (1) Alternative nicotine product means any noncombustible product
+5 containing nicotine or a nicotine analogue that is intended for human
+6 consumption, whether chewed, absorbed, dissolved, or ingested by any
+7 other means. Alternative nicotine product does not include any electronic
+8 nicotine delivery system, cigarette, cigar, or other tobacco product, or
+9 any product regulated as a drug or device by the United States Food and
+10 Drug Administration under Chapter V of the Federal Food, Drug, and
+11 Cosmetic Act;
+12 (2) Cigarette means any product that contains nicotine, is intended
+13 to be burned or heated under ordinary conditions of use, and consists of
+14 or contains (a) any roll of tobacco wrapped in paper or in any substance
+15 not containing tobacco, (b) tobacco, in any form, that is functional in
+16 the product which, because of its appearance, the type of tobacco used in
+17 the filler, or its packaging and labeling, is likely to be offered to, or
+18 purchased by, consumers as a cigarette, or (c) any roll of tobacco
+19 wrapped in any substance containing tobacco which, because of its
+20 appearance, the type of tobacco used in the filler, or its packaging and
+21 labeling, is likely to be offered to, or purchased by, consumers as a
+22 cigarette described in subdivision (2)(a) of this section;
+23 (3) Delivery sale means to sell, give, or furnish products (a) by
+24 mail or delivery service, (b) through the Internet or a computer network,
+25 (c) by telephone, or (d) through any other electronic method;
+26 (4)(a) Electronic nicotine delivery system means any product or
+27 device containing nicotine, a nicotine analogue, tobacco, or tobacco
+28 derivatives that employs a heating element, power source, electronic
+29 circuit, or other electronic, chemical, or mechanical means, regardless
+30 of shape or size, to simulate smoking by delivering the nicotine,
+31 nicotine analogue, tobacco, or tobacco derivatives in vapor, fog, mist,
+-2-
+LB9 LB9
+2025 2025
+1 gas, or aerosol form to a person inhaling from the product or device.
+2 (b) Electronic nicotine delivery system includes, but is not limited
+3 to, the following:
+4 (i) Any substance containing nicotine, a nicotine analogue, tobacco,
+5 or tobacco derivatives, whether sold separately or sold in combination
+6 with a product or device that is intended to deliver to a person
+7 nicotine, nicotine analogue, tobacco, or tobacco derivatives in vapor,
+8 fog, mist, gas, or aerosol form;
+9 (ii) Any product or device marketed, manufactured, distributed, or
+10 sold as an electronic cigarette, electronic cigar, electronic cigarillo,
+11 electronic pipe, electronic hookah, or similar products, names,
+12 descriptors, or devices; and
+13 (iii) Any component, part, or accessory of such a product or device
+14 that is used during operation of the product or device when sold in
+15 combination with any substance containing nicotine, a nicotine analogue,
+16 tobacco, or tobacco derivatives.
+17 (c) Electronic nicotine delivery system does not include the
+18 following:
+19 (i) An alternative nicotine product, cigarette, cigar, or other
+20 tobacco product, or any product regulated as a drug or device by the
+21 United States Food and Drug Administration under Chapter V of the Federal
+22 Food, Drug, and Cosmetic Act; or
+23 (ii) Any component, part, or accessory of such a product or device
+24 that is used during operation of the product or device when not sold in
+25 combination with any substance containing nicotine, a nicotine analogue,
+26 tobacco, or tobacco derivatives;
+27 (5) Nicotine analogue means a substance that has:
+28 (a) A chemical structure substantially similar to nicotine; or
+29 (b) An effect on the central nervous system that is substantially
+30 similar to, or greater than, the effect on the central nervous system of
+31 nicotine;
+-3-
+LB9 LB9
+2025 2025
+1 (6) (5) Self-service display means a retail display that contains a
+2 tobacco product, a tobacco-derived product, an electronic nicotine
+3 delivery system, or an alternative nicotine product and is located in an
+4 area openly accessible to a retailer's customers and from which such
+5 customers can readily access the product without the assistance of a
+6 salesperson. Self-service display does not include a display case that
+7 holds tobacco products, tobacco-derived products, electronic nicotine
+8 delivery systems, or alternative nicotine products behind locked doors;
+9 and
+10 (7) (6) Tobacco specialty store means a retail store that (a)
+11 derives at least seventy-five percent of its revenue from tobacco
+12 products, tobacco-derived products, electronic nicotine delivery systems,
+13 or alternative nicotine products and (b) does not permit persons under
+14 the age of twenty-one years to enter the premises unless accompanied by a
+15 parent or legal guardian.
+16 Sec. 2. Section 59-1523, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 59-1523 (1) The cigarette tax division of the Tax Commissioner may,
+19 after notice and hearing, revoke or suspend for any violation of section
+20 59-1520 the:
+21 (a) License or licenses of any person licensed under sections
+22 28-1418 to 28-1429.07 or sections 77-2601 to 77-2622 and section 6 of
+23 this act; or
+24 (b) License or certification of any person licensed or certified
+25 under the Tobacco Products Tax Act.
+26 (2) Cigarettes that are acquired, held, owned, possessed,
+27 transported, sold, or distributed in or imported into this state in
+28 violation of section 59-1520 are declared to be contraband goods and are
+29 subject to seizure and forfeiture. Any cigarettes so seized and forfeited
+30 shall be destroyed. Such cigarettes shall be declared to be contraband
+31 goods whether the violation of section 59-1520 is knowing or otherwise.
+-4-
+LB9 LB9
+2025 2025
+1 Sec. 3. Section 69-2705, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 69-2705 For purposes of sections 69-2704 to 69-2711:
+4 (1) Brand family means all styles of cigarettes sold under the same
+5 trademark and differentiated from one another by means of additional
+6 modifiers or descriptors, including, but not limited to, menthol, lights,
+7 kings, and 100s, and includes any brand name, alone or in conjunction
+8 with any other word, trademark, logo, symbol, motto, selling message, or
+9 recognizable pattern of colors, or any other indicia of product
+10 identification identical or similar to, or identifiable with, a
+11 previously known brand of cigarettes;
+12 (2) Cigarette has the same meaning as in section 69-2702;
+13 (3) Cigarette inputs means any machinery or other component parts
+14 typically used in the manufacture of cigarettes, including, without
+15 limitation, tobacco whether processed or unprocessed, cigarette papers
+16 and tubes, cigarette filters or any component parts intended for use in
+17 the making of cigarette filters, and any machinery typically used in the
+18 making of cigarettes;
+19 (4) Days has the same meaning as in section 69-2702;
+20 (5) Directory means the directory compiled by the Tax Commissioner
+21 under section 69-2706 or, in the case of references to another state's
+22 directory, the directory compiled under the similar law in that other
+23 state;
+24 (6) Importer has the same meaning as in section 69-2702;
+25 (7) Indian country has the same meaning as in section 69-2702;
+26 (8) Indian tribe has the same meaning as in section 69-2702;
+27 (9) Master Settlement Agreement has the same meaning as in section
+28 69-2702;
+29 (10) Nonparticipating manufacturer means any tobacco product
+30 manufacturer that is not a participating manufacturer;
+31 (11) Nonparticipating manufacturer cigarettes means cigarettes (a)
+-5-
+LB9 LB9
+2025 2025
+1 of a brand family that is not included in the certification of a
+2 participating manufacturer under subsection (1) of section 69-2706, (b)
+3 that are subject to the escrow requirement under subdivision (2) of
+4 section 69-2703 because the participating manufacturer in whose
+5 certification the brand family is included is not generally performing
+6 its financial obligations under the Master Settlement Agreement, or (c)
+7 of a brand family of a participating manufacturer that is not otherwise
+8 listed on the directory under subsection (2) of section 69-2706;
+9 (12) Package means any pack or other container on which a state
+10 stamp or tribal stamp could be applied consistent with and as required by
+11 sections 69-2701 to 69-2711 and 77-2601 to 77-2622 and section 6 of this
+12 act that contains one or more individual cigarettes for sale. Nothing in
+13 such sections shall alter any other applicable requirement with respect
+14 to the minimum number of cigarettes that may be contained in a pack or
+15 other container of cigarettes. References to package do not include a
+16 container of multiple packages;
+17 (13) Participating manufacturer has the same meaning as in section
+18 II(jj) of the Master Settlement Agreement;
+19 (14) Person means any natural person, trustee, company, partnership,
+20 corporation, or other legal entity, including any Indian tribe or
+21 instrumentality thereof;
+22 (15) Purchase means any acquisition in any manner or by any means
+23 for any consideration. The term includes transporting or receiving
+24 product in connection with a purchase;
+25 (16) Qualified escrow fund has the same meaning as in section
+26 69-2702;
+27 (17) Retailer includes retail dealers as defined in section 77-2601
+28 or anyone who is licensed under sections 28-1420 to 28-1422;
+29 (18) Sale or sell means any transfer, exchange, or barter in any
+30 manner or by any means for any consideration. Sale or sell includes
+31 distributing or shipping product in connection with a sale;
+-6-
+LB9 LB9
+2025 2025
+1 (19) Shortfall amount means the difference between (a) the full
+2 amount of the deposit required to be made by a nonparticipating
+3 manufacturer for a calendar quarter under section 69-2703 and (b) the sum
+4 of (i) any amounts precollected by a stamping agent and deposited into
+5 escrow for that calendar quarter on behalf of the nonparticipating
+6 manufacturer under section 69-2708.01, (ii) the amount deposited into
+7 escrow by the nonparticipating manufacturer for that calendar quarter
+8 under section 69-2703, (iii) any amounts deposited into escrow for that
+9 calendar quarter under subdivision (2)(d) of section 69-2703 by an
+10 importer on such nonparticipating manufacturer's cigarettes, and (iv) any
+11 amounts collected by the state for that calendar quarter under the bond
+12 posted by the nonparticipating manufacturer under section 69-2707.01. The
+13 shortfall amount, if any, for a nonparticipating manufacturer for a
+14 calendar quarter shall be calculated by the Attorney General within
+15 fifteen days following the date on which the state determines the amount
+16 it will collect on the bond posted by the nonparticipating manufacturer
+17 as provided in section 69-2707.01;
+18 (20) Stamping agent means a person that is authorized to affix
+19 stamps to packages or other containers of cigarettes under section
+20 77-2603 or 77-2603.01 or any person that is required to pay the tobacco
+21 tax imposed pursuant to section 77-4008 on roll-your-own cigarettes;
+22 (21) Tax Commissioner means the Tax Commissioner of the State of
+23 Nebraska;
+24 (22) Tobacco product manufacturer has the same meaning as in section
+25 69-2702;
+26 (23) Units sold has the same meaning as in section 69-2702; and
+27 (24) Unstamped cigarettes means any cigarettes that are not
+28 contained in a package bearing a stamp required under section 77-2603 or
+29 77-2603.01.
+30 Sec. 4. Section 69-2709, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-7-
+LB9 LB9
+2025 2025
+1 69-2709 (1) In addition to or in lieu of any other civil or criminal
+2 remedy provided by law, upon a determination that a stamping agent has
+3 violated subsection (4) of section 69-2706 or any rule or regulation
+4 adopted and promulgated pursuant thereto, the Tax Commissioner may revoke
+5 or suspend the license of any stamping agent in the manner provided by
+6 section 77-2615.01. For each violation of subsection (4) of section
+7 69-2706 or the rules and regulations, the Tax Commissioner may also
+8 impose a civil penalty in an amount not to exceed the greater of five
+9 hundred percent of the retail value of the cigarettes or five thousand
+10 dollars upon a determination of violation of subsection (4) of section
+11 69-2706 or any rules or regulations adopted and promulgated pursuant
+12 thereto. Such penalty shall be imposed in the manner provided by section
+13 77-2615.01.
+14 (2) The license of a stamping agent shall be subject to termination
+15 if the stamping agent:
+16 (a) Fails to provide a report required under section 69-2708,
+17 69-2710.01, or 77-2604.01;
+18 (b) Files an incomplete or inaccurate report required under section
+19 69-2708, 69-2710.01, or 77-2604.01 or files an inaccurate certification
+20 required under section 69-2708, subsection (2) of section 77-2603, or
+21 section 69-2710.01;
+22 (c) Fails to pay taxes as provided in section 77-2602 or deposit
+23 escrow as provided in section 69-2708.01;
+24 (d) Sells cigarettes in or into the state in a package that bears a
+25 stamp required under section 77-2603 or 77-2603.01 that is not the
+26 correct stamp and provides for a lower level of tax than the correct
+27 stamp;
+28 (e) Sells unstamped cigarettes in, into, or from the state or
+29 possesses unstamped cigarettes in the state except as provided in section
+30 77-2607;
+31 (f) Purchases, sells in or into the state, or affixes a stamp to a
+-8-
+LB9 LB9
+2025 2025
+1 package containing cigarettes of a manufacturer or brand family that is
+2 not at the time listed in the directory, or possesses such cigarettes
+3 more than ten days after receiving notice that the manufacturer or brand
+4 family is not in the directory, unless such stamping agent possesses a
+5 directory license under section 77-2603 or unless expressly permitted
+6 under sections 69-2701 to 69-2711 or sections 77-2601 to 77-2622 and
+7 section 6 of this act; or
+8 (g) Purchases or sells cigarettes in violation of subsection (5) of
+9 this section or section 69-2710.02.
+10 (3) In the case of a violation under subdivision (2)(a), (b), (c),
+11 or (d) of this section that was not knowing or intentional, the stamping
+12 agent shall be entitled to cure the violation within ten days after
+13 receipt of notice of such violation. The license of a stamping agent that
+14 fully cures the violation during that period shall not be terminated on
+15 account of that violation.
+16 (4) In the case of a knowing or intentional violation under
+17 subdivision (2)(a), (b), (c), or (d) of this section, or of any violation
+18 described in subdivision (2)(e) or (f) of this section, the stamping
+19 agent shall for a first violation be subject to a civil penalty of up to
+20 one thousand dollars and be guilty of a Class IV misdemeanor and for a
+21 second or subsequent violation be subject to a civil penalty of up to
+22 five thousand dollars per violation and be guilty of a Class II
+23 misdemeanor. In the case of violations described in subdivision (2)(d),
+24 (e), or (f) of this section, each sale constitutes a separate offense.
+25 (5) The Tax Commissioner shall promptly remove any stamping agent
+26 whose license is terminated from the list required by subsection (4) of
+27 section 77-2603 and shall publish a notice of the termination on the Tax
+28 Commissioner's website and send notice of the termination to all stamping
+29 agents and to all persons listed in the directory. Beginning ten days
+30 following the publication and sending of such notice, no person may sell
+31 cigarettes to, or purchase cigarettes from, the stamping agent whose
+-9-
+LB9 LB9
+2025 2025
+1 license has been terminated.
+2 (6) If a stamping agent whose license has been terminated is a
+3 tobacco product manufacturer, the tobacco product manufacturer and its
+4 brand families shall be removed from the directory.
+5 (7) A stamping agent whose license is terminated shall be eligible
+6 for reinstatement:
+7 (a) Ninety days following the termination, in the case of a first
+8 failure under subdivision (2)(a), (b), (c), or (d) of this section that
+9 was not knowing or intentional;
+10 (b) One hundred eighty days following the termination, in the case
+11 of a second failure under subdivision (2)(a), (b), (c), or (d) of this
+12 section that was not knowing or intentional;
+13 (c) One year following the termination, in the case of a third or
+14 subsequent failure under subdivision (2)(a), (b), (c), or (d) of this
+15 section that was not knowing or intentional;
+16 (d) One year following the termination, in the case of a first
+17 knowing or intentional failure under subdivision (2)(a), (b), (c), or (d)
+18 of this section or a first violation described in subdivision (2)(e),
+19 (f), or (g) of this section; and
+20 (e) Three years following the termination, in the case of a second
+21 or subsequent knowing or intentional failure under subdivision (2)(a),
+22 (b), (c), or (d) of this section or a second or subsequent violation
+23 described in subdivision (2)(e), (f), or (g) of this section.
+24 (8) Any cigarettes that have been sold, offered for sale, or
+25 possessed for sale in this state in violation of subsection (4) of
+26 section 69-2706 shall be deemed contraband under section 77-2620 and such
+27 cigarettes shall be subject to seizure and forfeiture as provided in
+28 section 77-2620, except that all such cigarettes so seized and forfeited
+29 shall be destroyed and not resold. The stamping agent shall notify its
+30 customers for a brand family with regard to any notice of removal of a
+31 tobacco product manufacturer or a brand family from the directory and
+-10-
+LB9 LB9
+2025 2025
+1 give its customers a seven-day period for the return of cigarettes that
+2 become contraband.
+3 (9) The Attorney General, on behalf of the Tax Commissioner, may
+4 seek an injunction to restrain a threatened or actual violation of
+5 subsection (4) of section 69-2706 or section 69-2708 by a stamping agent
+6 and to compel the stamping agent to comply with subsection (4) of section
+7 69-2706 or section 69-2708. In any action brought pursuant to this
+8 section, the state shall be entitled to recover the costs of
+9 investigation, costs of the action, and reasonable attorney's fees. This
+10 subsection shall not apply to a stamping agent purchasing cigarettes
+11 which are not in violation of subsection (4) of section 69-2706 or
+12 section 69-2708.
+13 (10) It is unlawful for a person to (a) sell or distribute
+14 cigarettes for sale in this state or (b) acquire, hold, own, possess,
+15 transport, import, or cause to be imported cigarettes that the person
+16 knows or should know are intended for distribution or sale in the state
+17 in violation of subsection (4) of section 69-2706. A violation of this
+18 subsection is a Class III misdemeanor.
+19 (11) If a court determines that a person has violated any portion of
+20 sections 69-2704 to 69-2711, the court shall order the payment of any
+21 profits, gains, gross receipts, or other benefits from the violation to
+22 be remitted to the State Treasurer for distribution in accordance with
+23 Article VII, section 5, of the Constitution of Nebraska. Unless otherwise
+24 expressly provided, the remedies or penalties provided by sections
+25 69-2704 to 69-2711 are cumulative to each other and to the remedies or
+26 penalties available under all applicable laws of this state.
+27 (12) It is unlawful for any manufacturer, importer, or stamping
+28 agent to knowingly submit any false information required pursuant to
+29 sections 69-2703 to 69-2711. A violation of this subsection is a Class IV
+30 felony. Knowing submission of false information shall also be grounds for
+31 removal of a tobacco product manufacturer from the directory.
+-11-
+LB9 LB9
+2025 2025
+1 (13) A tobacco product manufacturer that knowingly or intentionally
+2 sells cigarettes in violation of subsection (5) of this section or
+3 section 69-2710.01 and its brand families shall be removed from the
+4 directory.
+5 (14) A nonparticipating manufacturer whose total nationwide reported
+6 sales on which federal excise tax is paid exceed the sum of its
+7 nationwide reports under 15 U.S.C. 375 et seq. and any intrastate sales
+8 reports under 15 U.S.C. 375 et seq. by more than five percent of its
+9 total sales or one million cigarettes, whichever is less, shall be
+10 subject to removal from the directory unless it cures or satisfactorily
+11 explains the discrepancy within ten days after receipt of notice of the
+12 discrepancy from the Attorney General pursuant to section 69-2708.01.
+13 (15) Any person that is not a stamping agent or tobacco product
+14 manufacturer that fails to file a complete and accurate report required
+15 under section 69-2708, 69-2710.01, 77-2604, or 77-2604.01 shall be
+16 entitled to cure the failure within ten days after receipt of notice of
+17 the discrepancy from the Attorney General pursuant to section 69-2708.01.
+18 If the person fails to fully cure the failure within such period, it
+19 shall be subject to a civil penalty of up to one thousand dollars per
+20 violation and shall be ineligible to hold any license of the state
+21 regarding cigarette sales until the date specified by subsection (7) of
+22 this section for violations of subdivision (2)(a) of this section.
+23 (16) A directory license shall be subject to termination if the
+24 licensee acts inconsistently with its certification under subsection (2)
+25 of section 77-2603 or violates sections 69-2701 to 69-2711.
+26 (17) Any person that knowingly or intentionally purchases or sells
+27 cigarettes in violation of subsection (5) of this section or section
+28 69-2710.01 or that knowingly or intentionally sells cigarettes in or into
+29 the state in a package that bears a stamp required under section 77-2603
+30 or 77-2603.01 that is not the correct stamp and provides for a lower
+31 level of tax than the correct stamp shall for a first violation be
+-12-
+LB9 LB9
+2025 2025
+1 subject to a civil penalty of up to one thousand dollars and be guilty of
+2 a Class IV misdemeanor and for a second or subsequent violation be
+3 subject to a civil penalty of up to five thousand dollars per violation
+4 and be guilty of a Class II misdemeanor. Each sale constitutes a separate
+5 violation.
+6 Sec. 5. Section 69-2710.01, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 69-2710.01 (1) Any person that during a month acquired, purchased,
+9 sold, possessed, transferred, transported, or caused to be transported in
+10 or into this state cigarettes of a tobacco product manufacturer or brand
+11 family that was not in the directory at the time shall, within fifteen
+12 days following the end of that month, file a report in the manner
+13 prescribed by the Tax Commissioner and certify to the state that the
+14 report is complete and accurate. The report shall contain, in addition to
+15 any further information that the Tax Commissioner may reasonably require
+16 to assist the Tax Commissioner in enforcing sections 69-2701 to 69-2711
+17 and 77-2601 to 77-2622 and section 6 of this act and the Tobacco Products
+18 Tax Act, the following information:
+19 (a) The total number of those cigarettes, in each case identifying
+20 by name and number of cigarettes (i) the manufacturers of those
+21 cigarettes, (ii) the brand families of those cigarettes, (iii) in the
+22 case of a sale or transfer, the name and address of the recipient of
+23 those cigarettes, (iv) in the case of an acquisition or purchase, the
+24 name and address of the seller or sender of those cigarettes, and (v) the
+25 other states in whose directory the manufacturer and brand family of
+26 those cigarettes were listed at the time and whose stamps the person is
+27 authorized to affix; and
+28 (b) In the case of acquisition, purchase, or possession, the details
+29 of the person's subsequent sale or transfer of those cigarettes,
+30 identifying by name and number of cigarettes (i) the brand families of
+31 those cigarettes, (ii) the date of the sale or transfer, (iii) the name
+-13-
+LB9 LB9
+2025 2025
+1 and address of the recipient, (iv) the number of stamps of each other
+2 state that the person affixed to the packages containing those cigarettes
+3 during that month, (v) the total number of cigarettes contained in the
+4 packages to which it affixed each respective other state's stamp, (vi)
+5 the manufacturers and brand families of the packages to which it affixed
+6 each respective other state's stamp, and (vii) a certification that it
+7 reported each sale or transfer to the taxing authority of the other state
+8 by fifteen days following the end of the month in which the sale or
+9 transfer was made and attaching a copy of all such reports. If the
+10 subsequent sale or transfer is from this state into another state in
+11 packages not bearing a stamp of the other state, the report shall also
+12 contain the information described in subdivision (2)(c) of section
+13 77-2604.01.
+14 (2) Reports under this section shall be in addition to reports under
+15 sections 69-2708, 77-2604, and 77-2604.01.
+16 Sec. 6. (1) As soon as practicable after any return is filed, the
+17 Tax Commissioner shall examine the return. If the commissioner, in his or
+18 her judgment, finds that the return is incorrect and any amount of tax
+19 due from a stamping agent, wholesale dealer, or retail dealer who is
+20 subject to sections 77-2601 to 77-2622 is unpaid, the commissioner shall
+21 notify such person of the deficiency. Such notice shall be delivered by
+22 mail or personal service.
+23 (2) Except as provided in subsection (3) of this section, a notice
+24 of a deficiency determination shall be personally served or mailed within
+25 three years after the later of:
+26 (a) The last day of the calendar month following the period for
+27 which the amount is proposed to be determined; or
+28 (b) The date the return was filed.
+29 (3) In the case of a person failing to make a return, filing a false
+30 or fraudulent return with the intent to evade the sections 77-2601 to
+31 77-2622, or omitting from a return an amount properly includable therein
+-14-
+LB9 LB9
+2025 2025
+1 which is in excess of twenty-five percent of the amount of tax stated in
+2 the return, a notice of determination shall be personally served within
+3 six years after the last day of the calendar month following the period
+4 for which the amount is proposed to be determined.
+5 (4) When, before the expiration of the time prescribed in this
+6 section for the mailing of a notice of deficiency determination, both the
+7 Tax Commissioner and the person to be sent the notice have consented in
+8 writing to its mailing after such time, the notice of the deficiency
+9 determination may be mailed at any time prior to the expiration of the
+10 period agreed upon. The agreed-upon period may be extended by subsequent
+11 agreement, in writing, made before the expiration of the period
+12 previously agreed upon.
+13 Sec. 7. Section 77-2604, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 77-2604 (1) Every stamping agent, wholesale dealer, and retail
+16 dealer who is subject to sections 77-2601 to 77-2622 and section 6 of
+17 this act shall make and file with the Tax Commissioner, on or before the
+18 fifteenth day of each calendar month in the manner prescribed by the Tax
+19 Commissioner, true, correct, and sworn reports covering, for the last
+20 preceding calendar month, the number of cigarettes purchased, from whom
+21 purchased, the specific kinds and brands thereof, the manufacturer, if
+22 known, and such other matters and in such detail as the Tax Commissioner
+23 may require.
+24 (2)(a) Each manufacturer and importer that sells cigarettes in or
+25 into the state shall, within fifteen days following the end of each
+26 month, file a report in the manner prescribed by the Tax Commissioner and
+27 certify to the state that the report is complete and accurate.
+28 (b) The report shall contain the following information: The total
+29 number of cigarettes sold by that manufacturer or importer in or into the
+30 state during that month and identifying by name and number of cigarettes,
+31 (i) the manufacturers of those cigarettes, (ii) the brand families of
+-15-
+LB9 LB9
+2025 2025
+1 those cigarettes, and (iii) the purchasers of those cigarettes. A
+2 manufacturer's or importer's report shall include cigarettes sold in or
+3 into the state through its sales entity affiliate.
+4 (c) The requirements of this subsection shall be satisfied and no
+5 further report shall be required under this section with respect to
+6 cigarettes if the manufacturer or importer timely submits to the Tax
+7 Commissioner the report or reports required to be submitted by it with
+8 respect to those cigarettes under 15 U.S.C. 376 to the Tax Commissioner
+9 and certifies to the state that the reports are complete and accurate.
+10 (d) Upon request by the Tax Commissioner, a manufacturer or importer
+11 shall provide copies of all sales reports referenced in subdivisions (2)
+12 (a) and (b) of this section that it filed in other states.
+13 (e) Each manufacturer and importer that sells cigarettes in or into
+14 the state shall either (i) submit its federal excise tax returns and all
+15 monthly operational reports on Alcohol and Tobacco Tax and Trade Bureau
+16 Form 5210.5 and all adjustments, changes, and amendments to such reports
+17 to the Tax Commissioner no later than sixty days after the close of the
+18 quarter in which the returns were filed or (ii) submit to the United
+19 States Treasury a request or consent under section 6103(c) of the
+20 Internal Revenue Code of 1986 as defined in section 49-801.01 authorizing
+21 the federal Alcohol and Tobacco Tax and Trade Bureau and, in the case of
+22 a foreign manufacturer or importer, the United States Customs Service to
+23 disclose the manufacturer's or importer's federal returns to the Tax
+24 Commissioner as of sixty days after the close of the quarter in which the
+25 returns were filed.
+26 Sec. 8. Section 77-2612, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 77-2612 The Tax Commissioner may employ, with the advice and consent
+29 of the Governor, a sufficient number of inspectors, clerks, assistants,
+30 and agents to enforce sections 77-2601 to 77-2622 and section 6 of this
+31 act, including the collection of all stamp taxes and all revenue from
+-16-
+LB9 LB9
+2025 2025
+1 cigarette tax meters. In such enforcement, the Tax Commissioner may call
+2 to his or her aid the Attorney General, any county attorney, any sheriff,
+3 any deputy sheriff, or any other peace officer. The compensation of all
+4 persons employed shall be fixed by the Governor and shall be paid from
+5 the revenue derived under such sections. The expenses of administering
+6 such sections, including necessary assistants, clerical help, cost of
+7 enforcement, cost of stamps, and incidental expenses, when approved by
+8 the Tax Commissioner, shall be paid by warrants, issued against the
+9 General Fund, but such warrants shall not exceed four percent of the
+10 funds collected under such sections, such expenses in each instance to be
+11 approved by the Tax Commissioner.
+12 The Tax Commissioner may adopt and promulgate rules and regulations
+13 which are consistent with sections 77-2601 to 77-2622 and section 6 of
+14 this act and their proper enforcement.
+15 Each stamping agent shall annually apply to the Tax Commissioner,
+16 upon forms to be furnished by the Tax Commissioner, for a license to use
+17 the tax meter machines, as set forth in section 77-2603, or to purchase
+18 such stamps as provided in section 77-2608, or both. The license shall
+19 expire on December 31 each year. Each wholesale dealer applying for a
+20 stamping agent license shall furnish with such application evidence
+21 satisfactory to the Tax Commissioner showing that the wholesale dealer
+22 has obtained a license as a wholesale dealer in accordance with section
+23 28-1423. The applicant shall accompany the application with a fee of five
+24 hundred dollars to be placed in the General Fund if the license is
+25 granted and otherwise to be returned to the applicant. If the applicant
+26 is an individual, the application shall include the applicant's social
+27 security number. If the application is approved and the bond referred to
+28 in section 77-2603 is given and approved, if such bond is required under
+29 section 77-2603, the Tax Commissioner shall issue such license which
+30 shall be conspicuously posted in the place of business of such stamping
+31 agent.
+-17-
+LB9 LB9
+2025 2025
+1 Sec. 9. Section 77-2615.01, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 77-2615.01 (1) In addition to sections 77-2615 and 77-2622, for any
+4 violation of sections 77-2601 to 77-2622 and section 6 of this act or the
+5 rules and regulations adopted and promulgated under such sections, the
+6 Tax Commissioner may:
+7 (a) After notice and hearing, suspend or revoke the licenses of any
+8 person licensed under sections 28-1420 to 28-1429 or 77-2601 to 77-2622
+9 and section 6 of this act. Notice of hearing shall be given as provided
+10 in the Administrative Procedure Act; and
+11 (b) Impose an administrative penalty not to exceed one thousand
+12 dollars for any violation.
+13 (2) No person whose license has been suspended or revoked shall sell
+14 cigarettes or permit cigarettes to be sold during the period of
+15 suspension or revocation on the premises occupied by him or her. No
+16 disciplinary proceeding or action shall be barred or abated by the
+17 expiration, transfer, surrender, continuance, renewal, or extension of
+18 any license issued under sections 28-1420 to 28-1429 or 77-2601 to
+19 77-2622 and section 6 of this act.
+20 (3) Any person aggrieved by any decision, order, or finding of the
+21 Tax Commissioner may appeal the decision, order, or finding, and the
+22 appeal shall be in accordance with the Administrative Procedure Act.
+23 (4) If a person's license has been suspended or revoked and the
+24 person's name has been removed for at least ten days from the list of
+25 licensed entities published by the Tax Commissioner under subsection (4)
+26 of section 77-2603, any person that sells cigarettes to or purchases
+27 cigarettes from such person shall be jointly and severally liable for any
+28 taxes applicable to such cigarettes under section 77-2602 and for any
+29 escrow due on such cigarettes under section 69-2703.
+30 Sec. 10. Section 77-4001, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-18-
+LB9 LB9
+2025 2025
+1 77-4001 Sections 77-4001 to 77-4025 and sections 13, 14, and 16 of
+2 this act shall be known and may be cited as the Tobacco Products Tax Act.
+3 Sec. 11. Section 77-4002, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 77-4002 For purposes of the Tobacco Products Tax Act, unless the
+6 context otherwise requires, the definitions found in sections 77-4003 to
+7 77-4007 and section 13 of this act shall be used.
+8 Sec. 12. Section 77-4003.01, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 77-4003.01 Consumable material means any liquid solution or other
+11 material containing nicotine or a nicotine analogue that is depleted as
+12 an electronic nicotine delivery system is used.
+13 Sec. 13. Nicotine analogue has the same meaning as in section
+14 28-1418.01.
+15 Sec. 14. (1) For any violation of the Tobacco Products Tax Act or
+16 the rules and regulations adopted and promulgated under the act, the Tax
+17 Commissioner may, in addition to any other penalty or sanction:
+18 (a) After notice and hearing, suspend or revoke the licenses of any
+19 person licensed under sections 28-1420 to 28-1429. Notice of hearing
+20 shall be given as provided in the Administrative Procedure Act; and
+21 (b) Impose an administrative penalty not to exceed five thousand
+22 dollars for any violation.
+23 (2) No person whose license has been suspended or revoked shall sell
+24 tobacco products or permit tobacco products to be sold during the period
+25 of suspension or revocation on the premises occupied by such person. No
+26 disciplinary proceeding or action shall be barred or abated by the
+27 expiration, transfer, surrender, continuance, renewal, or extension of
+28 any license issued under the Tobacco Products Tax Act or sections 28-1420
+29 to 28-1429.
+30 (3) Any person aggrieved by any decision, order, or finding of the
+31 Tax Commissioner may appeal the decision, order, or finding, and the
+-19-
+LB9 LB9
+2025 2025
+1 appeal shall be in accordance with the Administrative Procedure Act.
+2 Sec. 15. Section 77-4015, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 77-4015 As soon as practicable after any return is filed, the Tax
+5 Commissioner shall examine the return. If the Tax Commissioner, in his or
+6 her judgment, finds that the return is incorrect and any amount of tax
+7 due from the licensee is unpaid, he or she shall notify the licensee of
+8 the deficiency. Such notice shall be delivered by mail or personal
+9 service mailed to the licensee.
+10 (2) Except as provided in subsection (3) of this section, a notice
+11 of a deficiency determination shall be personally served or mailed within
+12 three years after the later of:
+13 (a) The last day of the calendar month following the period for
+14 which the amount is proposed to be determined; or
+15 (b) The date the return was filed.
+16 (3) In the case of a person failing to make a return, filing a false
+17 or fraudulent return with the intent to evade the Tobacco Products Tax
+18 Act, or omitting from a return an amount properly includable therein
+19 which is in excess of twenty-five percent of the amount of tax stated in
+20 the return, a notice of determination shall be personally served within
+21 six years after the last day of the calendar month following the period
+22 for which the amount is proposed to be determined.
+23 (4) When, before the expiration of the time prescribed in this
+24 section for the mailing of a notice of deficiency determination, both the
+25 Tax Commissioner and the person to be sent the notice have consented in
+26 writing to its mailing after such time, the notice of the deficiency
+27 determination may be mailed at any time prior to the expiration of the
+28 period agreed upon. The agreed-upon period may be extended by subsequent
+29 agreement, in writing, made before the expiration of the period
+30 previously agreed upon.
+31 Sec. 16. (1) Any tobacco products that have been sold, offered for
+-20-
+LB9 LB9
+2025 2025
+1 sale, or possessed for sale in this state in violation of the Tobacco
+2 Products Tax Act are declared to be contraband goods and may be seized by
+3 the Tax Commissioner, by the commissioner's agents or employees, or by
+4 any peace officer of this state, when directed by the commissioner to do
+5 so, without a warrant.
+6 (2) The Tax Commissioner may, upon satisfactory proof, direct the
+7 return of any confiscated tobacco products when the commissioner has
+8 reason to believe that the owner thereof has not willfully or
+9 intentionally evaded any tax imposed under section 77-4008.
+10 (3) Any tobacco products forfeited to the state under this section
+11 shall be destroyed or used for law enforcement purposes and then
+12 destroyed. The cost of such seizure, forfeiture, and destruction shall be
+13 borne by the person from whom the products are seized.
+14 (4) The Tax Commissioner, agents and employees of the commissioner,
+15 and any peace officer of this state, when acting pursuant to this
+16 section, shall not in any way be responsible in any court for the seizure
+17 or the confiscation of any tobacco products.
+18 Sec. 17. This act becomes operative on January 1, 2026.
+19 Sec. 18. Original sections 77-2604, 77-2612, 77-2615.01, and
+20 77-4015, Reissue Revised Statutes of Nebraska, and sections 28-1418.01,
+21 59-1523, 69-2705, 69-2709, 69-2710.01, 77-4001, 77-4002, and 77-4003.01,
+22 Revised Statutes Cumulative Supplement, 2024, are repealed.
+-21-
+[DELETED: yHA B F A A r t t a r p t asS o N a s 2 5 66 6 7 7 a 7 RSr t n a n a t p frdr t n o d f c c t a0u t T P T A t p f s a1a p u t T P T A t2d t p i i v o t a t b3c4t p f i t h p t p a5o6B9L52]
+[DELETED: S 1 S 2 R S CS2( A n p m a n pc n o a n a t i i f hc w c a d o i b aona0D A u C V o t F F D a1C2(3t4o5n6t7t8p b c a a c o ( a r o t9w i a s c t w b o i0a1l i l t b o t o p b c a 2c3(4m5(6( E n d s m a p o7d c n a n a t o t8d t e a h e p s e9c0o s o s t s s b d t n1n9L52]
+[DELETED: g(t(o t d w s s o s i cw a p o d t i i t d t a pn n a t o t d i vf(0s1e p e h o s p n2d3(4t i u d o o t p o d w s i5c6t7( E n d s d n i t8f9( A a n p c c o o0t p o a p r a a d o d b t1U2F3(4t5c6t7(8(9( A e o t c n s t i s0s1n9L52]
+[DELETED: (t p a t p a e nda o a t a r c a f w sc c r a t p w t a o s S d d n i a d c th t p t p e nda0( ( T s s m a r s t (1d a l s p o i r f t2p3o4t5p6S 2 S 5 R S C S72859a051( L o l o a p l u s22 t 2 o s 7 t 7 a s 6 o3t4( L o c o a p l o c5u6( C t a a h o p7t s o d i o i i t s i8v9s0s1g9L52]
+[DELETED: S 3 S 6 R S C S26(t a d f o a b m o amk a 1 a i a b n a o i cwr p o c o a o i o p0i i o s t o i w 1p2(3( C i m a m o o c p4t u i t m o c i w5l t w p o u c p6a7t8m9(0(1u2d t d c u t s l i t o3s4(5(6(7(869( N m m a t p0m1( N m c m c (9L52]
+[DELETED: o a b f t i n i i t c o pt a s t t e r u s ( os 6 b t p m i wc t b f i i i n g piol( P m a p o o c o w a s0s1s2a3s4t5o c o c R t p d n i 6c7(8I9(0c o o l e i a I t o1i2(3f a c T t i t o r4p5( Q e f h t s m a i s667(8o9( S o s m a t e o b i a0m o b a m f a c S o s i1d9L52]
+[DELETED: ( S a m t d b ( t fa o t d r t b m b a nmoe f t c q o b o t nm u s 6 ( t a d ie b t n m f t c quc q u s ( o s 6 b a0i1a2p3s a i a f a n m f 4c q s b c b t A G w5f6i7a8( S a m a p t i a t a9s t p o o c o c u s071t2( T C m t T C o t S o3N4(566(7( U c m a c t a n8c970S 4 S 6 R S C S129L52]
+[DELETED: 6rv s ( o s 6 o a r o raos 7 F e v o s ( o s6 o t r a r t T C m aih0d16 o a r o r a a p p2t374(5i6( F t p a r r u s 6768(960r u s 6 s ( o s 7 o1s2( F t p t a p i s 7 o d3e4(5s r u s 7 o 7 t i n t6c s a p f a l l o t t t c7s8( S u c i i o f t s o9p071(9L52]
+[DELETED: pn a t t l i t d o p s cmfd l u s 7 o u e pu s 6 t 6 o s 7 t 7 as(t0(1o2a s b e t c t v w t d a3r4f5a6( I t c o a k o i v u7s8d i s ( o ( o t s t s9a0o1s o s v b s t a c p o u t2f t d p v a b g o a C I3m4(5( T T C s p r a s a6w7s8C9a a t a p l i t d B t d0f1c t o p c f t s a w9L52]
+[DELETED: l( I a s a w l h b t i t p m t t p m a ib(f(fw0(1o2s3(4s f u s ( ( ( o ( o t5s6( O y f t t i t c o a f7k8o t s o a f v d i s (9(0(1o s k o i f u s (2( ( o ( o t s o a s o s v3d4( A c t h b s o f s o5p f s i t s i v o s ( o6s7c s b s t s a f a p i8s9s0c1t p m o a b f f t d a9L52]
+[DELETED: gb( T A G o b o t T C ms a i t r a t o a v osa6 o s 6 I a a b p t ts t s s b e t r t c oi0s s n a t a s a p c1w a n i v o s ( o s 6 o2s3( I i u f a p t ( s o d4c f s i t s o ( a h o p5t i o c t b i c t t p6k7i8s9(0s 6 t 6 t c s o t p o a1p2b3A4e p t r o p p b s566p7( I i u f a m i o s8a t k s a f i r p t9s0f1r9L52]
+[DELETED: (s c i v o s ( o t s os 6 a i b f s b r f td(s o w f e t i p e t s o inr u 1 U 3 e s b m t f p o it s o o m c w i l s b0s1e2d3( A p t i n a s a o t p4m5u s 6 6 7 o 7 s b6e7t8I t p f t f c t f w s p i9s0v a s b i t h a l o t s1r2t3( A d l s b s t t i t4l5o6(7c i v o s ( o t s o s869t0o 7 t i n t c s a p f a l1l o t t t c s s f a f v b9L52]
+[DELETED: sa C I m a f a s o s v bsavS26s0o1f2d f t e o t m f a r i t m3p b t T C a c t t s t t4r5a6t7a8T9(0b n a n o c ( t m o t1c ( t b f o t c ( i t2c o a s o t t n a a o t r o3t c ( i t c o a a o p t4n5o s i w d t m a b f o6t7a8(9o t p s s o t o t c0i1t9L52]
+[DELETED: a a o t r ( t n o s o e osdpterb f d f t e o t m i w t s ot w m a a a c o a s r I t0s s o t i f t s i a s i1p2c t i d i s ( o s374(5s6S7T8h9d f a s a w d o r d w i0s1n2m3(4o5t6( T l d o t c m f t p f7w8(9(0o f r w t i t e t s 7 t179L52]
+[DELETED: wtsf( W b t e o t t p i tsTw t i m a s t t n o t dd0p1a i w m b t e o t p2p3S 7 S 7 R R S o N i4a57 ( E s a w d a r6d w i s t s 7 t 7 a s 6 o7t8f9C t c a s r c f t l0p1p t s k a b t t m i2k3m4( E m a i t s c i o5i t s s w f d f t e o e6m7c8( T r s c t f i T t9n0s1( t m o t c ( t b f o9L52]
+[DELETED: t c a ( t p o t c mi( T r o t s s b s a nf r s b r u t s w r tc i t m o i t s t t TCra0(1s2(3(4t5m6F7t8q i w t r w f o ( s t t U9S T a r o c u s 6 o t0I1t2a3d t m o i f r t t T4C5r6S 8 S 7 R R S o N i7a879o0a1a i t c o a s t a a r f9L52]
+[DELETED: ctapt r d u s s T e o as s i n a c h c oe c o s a i e w a bt T C s b p b w i a tG F b s w s n e f p o t0f1a2T3w4t5E s a s a a t t T C6u7t8s9e o D 3 e y E w d a f 0s a l s f w s a e1s t t T C s t t w d2h324h d t b p i t G F i t l i5g6i a i t a s i t a s7s8i9s 7 t T C s i s l w0s1a9L52]
+[DELETED: Sa7vr a r a a p u s s tT(pa0i1( I a a p n t e o t2d3(4c o p c t b s d t p o5s o r o t p o b h o h N6d p o a s b b o a b t7e t s c r o e o8a l i u s 2 t 2 o 7 t970(1T C m a t d o o f a t2a3( I a p l h b s o r a t4p5l6o s 7 a p t s c t o p7c8t a t s c u s 7 a f a9e0S 1 S 7 R S C S129L52]
+[DELETED: 7tS 1 S 7 R S C S27 F p o t T P T A u tc7S207 C m m a l s o o1m2a3S 1  N a h t s m a i s425S6t7C8(9p l u s 2 t 2 N o h0s1( I a a p n t e f t2d3(4t5o6d p o a s b b o a b t7e t s c r o e o8a9t0(1T C m a t d o o f a t9L52]
+[DELETED: aSa7Chdt d S n s b d b m o ps0(1o2t3( T l d o t c m f t p f4w5(6(7o8A o o f a r a a p i t9w0t1s2f3( W b t e o t t p i t4s5T6w t i m a s t t n o t d7d8p9a i w m b t e o t p0p1S9L52]
+[DELETED: s o p f s i t s i v o t TPtas( T T C m u s p d tr o a c t p w t c hr t b t t o t h n w oi0(1s b d o u f l e p a t2d3b4(5a a p o o t s w a p t t6s7o8S9S 1  O s 7 7 7 a07152R9L52]
+
+
+================================================================================
+
+Raw Text:
+LB9 LB9
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 9
+Introduced by Hughes, 24.
+Read first time January 09, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to tobacco and related products; to amend
+2 sections 77-2604, 77-2612, 77-2615.01, and 77-4015, Reissue Revised
+3 Statutes of Nebraska, and sections 28-1418.01, 59-1523, 69-2705,
+4 69-2709, 69-2710.01, 77-4001, 77-4002, and 77-4003.01, Revised
+5 Statutes Cumulative Supplement, 2024; to define and redefine terms
+6 relating to nicotine and nicotine analogues; to provide for
+7 regulation of alternative nicotine products and electronic nicotine
+8 delivery systems containing nicotine analogues; to change provisions
+9 relating to notices of deficiency for certain cigarette taxes and
+10 under the Tobacco Products Tax Act; to provide for sanctions and
+11 administrative penalties under the Tobacco Products Tax Act, to
+12 declare tobacco products involved in violations of the act to be
+13 contraband and provide for their forfeiture, seizure, and disposal;
+14 to provide for immunity; to harmonize provisions; to provide an
+15 operative date; and to repeal the original sections.
+16 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB9 LB9
+2025 2025
+1 Section 1. Section 28-1418.01, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 28-1418.01 For purposes of sections 28-1418 to 28-1429.07:
+4 (1) Alternative nicotine product means any noncombustible product
+5 containing nicotine or a nicotine analogue that is intended for human
+6 consumption, whether chewed, absorbed, dissolved, or ingested by any
+7 other means. Alternative nicotine product does not include any electronic
+8 nicotine delivery system, cigarette, cigar, or other tobacco product, or
+9 any product regulated as a drug or device by the United States Food and
+10 Drug Administration under Chapter V of the Federal Food, Drug, and
+11 Cosmetic Act;
+12 (2) Cigarette means any product that contains nicotine, is intended
+13 to be burned or heated under ordinary conditions of use, and consists of
+14 or contains (a) any roll of tobacco wrapped in paper or in any substance
+15 not containing tobacco, (b) tobacco, in any form, that is functional in
+16 the product which, because of its appearance, the type of tobacco used in
+17 the filler, or its packaging and labeling, is likely to be offered to, or
+18 purchased by, consumers as a cigarette, or (c) any roll of tobacco
+19 wrapped in any substance containing tobacco which, because of its
+20 appearance, the type of tobacco used in the filler, or its packaging and
+21 labeling, is likely to be offered to, or purchased by, consumers as a
+22 cigarette described in subdivision (2)(a) of this section;
+23 (3) Delivery sale means to sell, give, or furnish products (a) by
+24 mail or delivery service, (b) through the Internet or a computer network,
+25 (c) by telephone, or (d) through any other electronic method;
+26 (4)(a) Electronic nicotine delivery system means any product or
+27 device containing nicotine, a nicotine analogue, tobacco, or tobacco
+28 derivatives that employs a heating element, power source, electronic
+29 circuit, or other electronic, chemical, or mechanical means, regardless
+30 of shape or size, to simulate smoking by delivering the nicotine,
+31 nicotine analogue, tobacco, or tobacco derivatives in vapor, fog, mist,
+-2-
+
+LB9 LB9
+2025 2025
+1 gas, or aerosol form to a person inhaling from the product or device.
+2 (b) Electronic nicotine delivery system includes, but is not limited
+3 to, the following:
+4 (i) Any substance containing nicotine, a nicotine analogue, tobacco,
+5 or tobacco derivatives, whether sold separately or sold in combination
+6 with a product or device that is intended to deliver to a person
+7 nicotine, nicotine analogue, tobacco, or tobacco derivatives in vapor,
+8 fog, mist, gas, or aerosol form;
+9 (ii) Any product or device marketed, manufactured, distributed, or
+10 sold as an electronic cigarette, electronic cigar, electronic cigarillo,
+11 electronic pipe, electronic hookah, or similar products, names,
+12 descriptors, or devices; and
+13 (iii) Any component, part, or accessory of such a product or device
+14 that is used during operation of the product or device when sold in
+15 combination with any substance containing nicotine, a nicotine analogue,
+16 tobacco, or tobacco derivatives.
+17 (c) Electronic nicotine delivery system does not include the
+18 following:
+19 (i) An alternative nicotine product, cigarette, cigar, or other
+20 tobacco product, or any product regulated as a drug or device by the
+21 United States Food and Drug Administration under Chapter V of the Federal
+22 Food, Drug, and Cosmetic Act; or
+23 (ii) Any component, part, or accessory of such a product or device
+24 that is used during operation of the product or device when not sold in
+25 combination with any substance containing nicotine, a nicotine analogue,
+26 tobacco, or tobacco derivatives;
+27 (5) Nicotine analogue means a substance that has:
+28 (a) A chemical structure substantially similar to nicotine; or
+29 (b) An effect on the central nervous system that is substantially
+30 similar to, or greater than, the effect on the central nervous system of
+31 nicotine;
+-3-
+
+LB9 LB9
+2025 2025
+1 (6) (5) Self-service display means a retail display that contains a
+2 tobacco product, a tobacco-derived product, an electronic nicotine
+3 delivery system, or an alternative nicotine product and is located in an
+4 area openly accessible to a retailer's customers and from which such
+5 customers can readily access the product without the assistance of a
+6 salesperson. Self-service display does not include a display case that
+7 holds tobacco products, tobacco-derived products, electronic nicotine
+8 delivery systems, or alternative nicotine products behind locked doors;
+9 and
+10 (7) (6) Tobacco specialty store means a retail store that (a)
+11 derives at least seventy-five percent of its revenue from tobacco
+12 products, tobacco-derived products, electronic nicotine delivery systems,
+13 or alternative nicotine products and (b) does not permit persons under
+14 the age of twenty-one years to enter the premises unless accompanied by a
+15 parent or legal guardian.
+16 Sec. 2. Section 59-1523, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 59-1523 (1) The cigarette tax division of the Tax Commissioner may,
+19 after notice and hearing, revoke or suspend for any violation of section
+20 59-1520 the:
+21 (a) License or licenses of any person licensed under sections
+22 28-1418 to 28-1429.07 or sections 77-2601 to 77-2622 and section 6 of
+23 this act; or
+24 (b) License or certification of any person licensed or certified
+25 under the Tobacco Products Tax Act.
+26 (2) Cigarettes that are acquired, held, owned, possessed,
+27 transported, sold, or distributed in or imported into this state in
+28 violation of section 59-1520 are declared to be contraband goods and are
+29 subject to seizure and forfeiture. Any cigarettes so seized and forfeited
+30 shall be destroyed. Such cigarettes shall be declared to be contraband
+31 goods whether the violation of section 59-1520 is knowing or otherwise.
+-4-
+
+LB9 LB9
+2025 2025
+1 Sec. 3. Section 69-2705, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 69-2705 For purposes of sections 69-2704 to 69-2711:
+4 (1) Brand family means all styles of cigarettes sold under the same
+5 trademark and differentiated from one another by means of additional
+6 modifiers or descriptors, including, but not limited to, menthol, lights,
+7 kings, and 100s, and includes any brand name, alone or in conjunction
+8 with any other word, trademark, logo, symbol, motto, selling message, or
+9 recognizable pattern of colors, or any other indicia of product
+10 identification identical or similar to, or identifiable with, a
+11 previously known brand of cigarettes;
+12 (2) Cigarette has the same meaning as in section 69-2702;
+13 (3) Cigarette inputs means any machinery or other component parts
+14 typically used in the manufacture of cigarettes, including, without
+15 limitation, tobacco whether processed or unprocessed, cigarette papers
+16 and tubes, cigarette filters or any component parts intended for use in
+17 the making of cigarette filters, and any machinery typically used in the
+18 making of cigarettes;
+19 (4) Days has the same meaning as in section 69-2702;
+20 (5) Directory means the directory compiled by the Tax Commissioner
+21 under section 69-2706 or, in the case of references to another state's
+22 directory, the directory compiled under the similar law in that other
+23 state;
+24 (6) Importer has the same meaning as in section 69-2702;
+25 (7) Indian country has the same meaning as in section 69-2702;
+26 (8) Indian tribe has the same meaning as in section 69-2702;
+27 (9) Master Settlement Agreement has the same meaning as in section
+28 69-2702;
+29 (10) Nonparticipating manufacturer means any tobacco product
+30 manufacturer that is not a participating manufacturer;
+31 (11) Nonparticipating manufacturer cigarettes means cigarettes (a)
+-5-
+
+LB9 LB9
+2025 2025
+1 of a brand family that is not included in the certification of a
+2 participating manufacturer under subsection (1) of section 69-2706, (b)
+3 that are subject to the escrow requirement under subdivision (2) of
+4 section 69-2703 because the participating manufacturer in whose
+5 certification the brand family is included is not generally performing
+6 its financial obligations under the Master Settlement Agreement, or (c)
+7 of a brand family of a participating manufacturer that is not otherwise
+8 listed on the directory under subsection (2) of section 69-2706;
+9 (12) Package means any pack or other container on which a state
+10 stamp or tribal stamp could be applied consistent with and as required by
+11 sections 69-2701 to 69-2711 and 77-2601 to 77-2622 and section 6 of this
+12 act that contains one or more individual cigarettes for sale. Nothing in
+13 such sections shall alter any other applicable requirement with respect
+14 to the minimum number of cigarettes that may be contained in a pack or
+15 other container of cigarettes. References to package do not include a
+16 container of multiple packages;
+17 (13) Participating manufacturer has the same meaning as in section
+18 II(jj) of the Master Settlement Agreement;
+19 (14) Person means any natural person, trustee, company, partnership,
+20 corporation, or other legal entity, including any Indian tribe or
+21 instrumentality thereof;
+22 (15) Purchase means any acquisition in any manner or by any means
+23 for any consideration. The term includes transporting or receiving
+24 product in connection with a purchase;
+25 (16) Qualified escrow fund has the same meaning as in section
+26 69-2702;
+27 (17) Retailer includes retail dealers as defined in section 77-2601
+28 or anyone who is licensed under sections 28-1420 to 28-1422;
+29 (18) Sale or sell means any transfer, exchange, or barter in any
+30 manner or by any means for any consideration. Sale or sell includes
+31 distributing or shipping product in connection with a sale;
+-6-
+
+LB9 LB9
+2025 2025
+1 (19) Shortfall amount means the difference between (a) the full
+2 amount of the deposit required to be made by a nonparticipating
+3 manufacturer for a calendar quarter under section 69-2703 and (b) the sum
+4 of (i) any amounts precollected by a stamping agent and deposited into
+5 escrow for that calendar quarter on behalf of the nonparticipating
+6 manufacturer under section 69-2708.01, (ii) the amount deposited into
+7 escrow by the nonparticipating manufacturer for that calendar quarter
+8 under section 69-2703, (iii) any amounts deposited into escrow for that
+9 calendar quarter under subdivision (2)(d) of section 69-2703 by an
+10 importer on such nonparticipating manufacturer's cigarettes, and (iv) any
+11 amounts collected by the state for that calendar quarter under the bond
+12 posted by the nonparticipating manufacturer under section 69-2707.01. The
+13 shortfall amount, if any, for a nonparticipating manufacturer for a
+14 calendar quarter shall be calculated by the Attorney General within
+15 fifteen days following the date on which the state determines the amount
+16 it will collect on the bond posted by the nonparticipating manufacturer
+17 as provided in section 69-2707.01;
+18 (20) Stamping agent means a person that is authorized to affix
+19 stamps to packages or other containers of cigarettes under section
+20 77-2603 or 77-2603.01 or any person that is required to pay the tobacco
+21 tax imposed pursuant to section 77-4008 on roll-your-own cigarettes;
+22 (21) Tax Commissioner means the Tax Commissioner of the State of
+23 Nebraska;
+24 (22) Tobacco product manufacturer has the same meaning as in section
+25 69-2702;
+26 (23) Units sold has the same meaning as in section 69-2702; and
+27 (24) Unstamped cigarettes means any cigarettes that are not
+28 contained in a package bearing a stamp required under section 77-2603 or
+29 77-2603.01.
+30 Sec. 4. Section 69-2709, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-7-
+
+LB9 LB9
+2025 2025
+1 69-2709 (1) In addition to or in lieu of any other civil or criminal
+2 remedy provided by law, upon a determination that a stamping agent has
+3 violated subsection (4) of section 69-2706 or any rule or regulation
+4 adopted and promulgated pursuant thereto, the Tax Commissioner may revoke
+5 or suspend the license of any stamping agent in the manner provided by
+6 section 77-2615.01. For each violation of subsection (4) of section
+7 69-2706 or the rules and regulations, the Tax Commissioner may also
+8 impose a civil penalty in an amount not to exceed the greater of five
+9 hundred percent of the retail value of the cigarettes or five thousand
+10 dollars upon a determination of violation of subsection (4) of section
+11 69-2706 or any rules or regulations adopted and promulgated pursuant
+12 thereto. Such penalty shall be imposed in the manner provided by section
+13 77-2615.01.
+14 (2) The license of a stamping agent shall be subject to termination
+15 if the stamping agent:
+16 (a) Fails to provide a report required under section 69-2708,
+17 69-2710.01, or 77-2604.01;
+18 (b) Files an incomplete or inaccurate report required under section
+19 69-2708, 69-2710.01, or 77-2604.01 or files an inaccurate certification
+20 required under section 69-2708, subsection (2) of section 77-2603, or
+21 section 69-2710.01;
+22 (c) Fails to pay taxes as provided in section 77-2602 or deposit
+23 escrow as provided in section 69-2708.01;
+24 (d) Sells cigarettes in or into the state in a package that bears a
+25 stamp required under section 77-2603 or 77-2603.01 that is not the
+26 correct stamp and provides for a lower level of tax than the correct
+27 stamp;
+28 (e) Sells unstamped cigarettes in, into, or from the state or
+29 possesses unstamped cigarettes in the state except as provided in section
+30 77-2607;
+31 (f) Purchases, sells in or into the state, or affixes a stamp to a
+-8-
+
+LB9 LB9
+2025 2025
+1 package containing cigarettes of a manufacturer or brand family that is
+2 not at the time listed in the directory, or possesses such cigarettes
+3 more than ten days after receiving notice that the manufacturer or brand
+4 family is not in the directory, unless such stamping agent possesses a
+5 directory license under section 77-2603 or unless expressly permitted
+6 under sections 69-2701 to 69-2711 or sections 77-2601 to 77-2622 and
+7 section 6 of this act; or
+8 (g) Purchases or sells cigarettes in violation of subsection (5) of
+9 this section or section 69-2710.02.
+10 (3) In the case of a violation under subdivision (2)(a), (b), (c),
+11 or (d) of this section that was not knowing or intentional, the stamping
+12 agent shall be entitled to cure the violation within ten days after
+13 receipt of notice of such violation. The license of a stamping agent that
+14 fully cures the violation during that period shall not be terminated on
+15 account of that violation.
+16 (4) In the case of a knowing or intentional violation under
+17 subdivision (2)(a), (b), (c), or (d) of this section, or of any violation
+18 described in subdivision (2)(e) or (f) of this section, the stamping
+19 agent shall for a first violation be subject to a civil penalty of up to
+20 one thousand dollars and be guilty of a Class IV misdemeanor and for a
+21 second or subsequent violation be subject to a civil penalty of up to
+22 five thousand dollars per violation and be guilty of a Class II
+23 misdemeanor. In the case of violations described in subdivision (2)(d),
+24 (e), or (f) of this section, each sale constitutes a separate offense.
+25 (5) The Tax Commissioner shall promptly remove any stamping agent
+26 whose license is terminated from the list required by subsection (4) of
+27 section 77-2603 and shall publish a notice of the termination on the Tax
+28 Commissioner's website and send notice of the termination to all stamping
+29 agents and to all persons listed in the directory. Beginning ten days
+30 following the publication and sending of such notice, no person may sell
+31 cigarettes to, or purchase cigarettes from, the stamping agent whose
+-9-
+
+LB9 LB9
+2025 2025
+1 license has been terminated.
+2 (6) If a stamping agent whose license has been terminated is a
+3 tobacco product manufacturer, the tobacco product manufacturer and its
+4 brand families shall be removed from the directory.
+5 (7) A stamping agent whose license is terminated shall be eligible
+6 for reinstatement:
+7 (a) Ninety days following the termination, in the case of a first
+8 failure under subdivision (2)(a), (b), (c), or (d) of this section that
+9 was not knowing or intentional;
+10 (b) One hundred eighty days following the termination, in the case
+11 of a second failure under subdivision (2)(a), (b), (c), or (d) of this
+12 section that was not knowing or intentional;
+13 (c) One year following the termination, in the case of a third or
+14 subsequent failure under subdivision (2)(a), (b), (c), or (d) of this
+15 section that was not knowing or intentional;
+16 (d) One year following the termination, in the case of a first
+17 knowing or intentional failure under subdivision (2)(a), (b), (c), or (d)
+18 of this section or a first violation described in subdivision (2)(e),
+19 (f), or (g) of this section; and
+20 (e) Three years following the termination, in the case of a second
+21 or subsequent knowing or intentional failure under subdivision (2)(a),
+22 (b), (c), or (d) of this section or a second or subsequent violation
+23 described in subdivision (2)(e), (f), or (g) of this section.
+24 (8) Any cigarettes that have been sold, offered for sale, or
+25 possessed for sale in this state in violation of subsection (4) of
+26 section 69-2706 shall be deemed contraband under section 77-2620 and such
+27 cigarettes shall be subject to seizure and forfeiture as provided in
+28 section 77-2620, except that all such cigarettes so seized and forfeited
+29 shall be destroyed and not resold. The stamping agent shall notify its
+30 customers for a brand family with regard to any notice of removal of a
+31 tobacco product manufacturer or a brand family from the directory and
+-10-
+
+LB9 LB9
+2025 2025
+1 give its customers a seven-day period for the return of cigarettes that
+2 become contraband.
+3 (9) The Attorney General, on behalf of the Tax Commissioner, may
+4 seek an injunction to restrain a threatened or actual violation of
+5 subsection (4) of section 69-2706 or section 69-2708 by a stamping agent
+6 and to compel the stamping agent to comply with subsection (4) of section
+7 69-2706 or section 69-2708. In any action brought pursuant to this
+8 section, the state shall be entitled to recover the costs of
+9 investigation, costs of the action, and reasonable attorney's fees. This
+10 subsection shall not apply to a stamping agent purchasing cigarettes
+11 which are not in violation of subsection (4) of section 69-2706 or
+12 section 69-2708.
+13 (10) It is unlawful for a person to (a) sell or distribute
+14 cigarettes for sale in this state or (b) acquire, hold, own, possess,
+15 transport, import, or cause to be imported cigarettes that the person
+16 knows or should know are intended for distribution or sale in the state
+17 in violation of subsection (4) of section 69-2706. A violation of this
+18 subsection is a Class III misdemeanor.
+19 (11) If a court determines that a person has violated any portion of
+20 sections 69-2704 to 69-2711, the court shall order the payment of any
+21 profits, gains, gross receipts, or other benefits from the violation to
+22 be remitted to the State Treasurer for distribution in accordance with
+23 Article VII, section 5, of the Constitution of Nebraska. Unless otherwise
+24 expressly provided, the remedies or penalties provided by sections
+25 69-2704 to 69-2711 are cumulative to each other and to the remedies or
+26 penalties available under all applicable laws of this state.
+27 (12) It is unlawful for any manufacturer, importer, or stamping
+28 agent to knowingly submit any false information required pursuant to
+29 sections 69-2703 to 69-2711. A violation of this subsection is a Class IV
+30 felony. Knowing submission of false information shall also be grounds for
+31 removal of a tobacco product manufacturer from the directory.
+-11-
+
+LB9 LB9
+2025 2025
+1 (13) A tobacco product manufacturer that knowingly or intentionally
+2 sells cigarettes in violation of subsection (5) of this section or
+3 section 69-2710.01 and its brand families shall be removed from the
+4 directory.
+5 (14) A nonparticipating manufacturer whose total nationwide reported
+6 sales on which federal excise tax is paid exceed the sum of its
+7 nationwide reports under 15 U.S.C. 375 et seq. and any intrastate sales
+8 reports under 15 U.S.C. 375 et seq. by more than five percent of its
+9 total sales or one million cigarettes, whichever is less, shall be
+10 subject to removal from the directory unless it cures or satisfactorily
+11 explains the discrepancy within ten days after receipt of notice of the
+12 discrepancy from the Attorney General pursuant to section 69-2708.01.
+13 (15) Any person that is not a stamping agent or tobacco product
+14 manufacturer that fails to file a complete and accurate report required
+15 under section 69-2708, 69-2710.01, 77-2604, or 77-2604.01 shall be
+16 entitled to cure the failure within ten days after receipt of notice of
+17 the discrepancy from the Attorney General pursuant to section 69-2708.01.
+18 If the person fails to fully cure the failure within such period, it
+19 shall be subject to a civil penalty of up to one thousand dollars per
+20 violation and shall be ineligible to hold any license of the state
+21 regarding cigarette sales until the date specified by subsection (7) of
+22 this section for violations of subdivision (2)(a) of this section.
+23 (16) A directory license shall be subject to termination if the
+24 licensee acts inconsistently with its certification under subsection (2)
+25 of section 77-2603 or violates sections 69-2701 to 69-2711.
+26 (17) Any person that knowingly or intentionally purchases or sells
+27 cigarettes in violation of subsection (5) of this section or section
+28 69-2710.01 or that knowingly or intentionally sells cigarettes in or into
+29 the state in a package that bears a stamp required under section 77-2603
+30 or 77-2603.01 that is not the correct stamp and provides for a lower
+31 level of tax than the correct stamp shall for a first violation be
+-12-
+
+LB9 LB9
+2025 2025
+1 subject to a civil penalty of up to one thousand dollars and be guilty of
+2 a Class IV misdemeanor and for a second or subsequent violation be
+3 subject to a civil penalty of up to five thousand dollars per violation
+4 and be guilty of a Class II misdemeanor. Each sale constitutes a separate
+5 violation.
+6 Sec. 5. Section 69-2710.01, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 69-2710.01 (1) Any person that during a month acquired, purchased,
+9 sold, possessed, transferred, transported, or caused to be transported in
+10 or into this state cigarettes of a tobacco product manufacturer or brand
+11 family that was not in the directory at the time shall, within fifteen
+12 days following the end of that month, file a report in the manner
+13 prescribed by the Tax Commissioner and certify to the state that the
+14 report is complete and accurate. The report shall contain, in addition to
+15 any further information that the Tax Commissioner may reasonably require
+16 to assist the Tax Commissioner in enforcing sections 69-2701 to 69-2711
+17 and 77-2601 to 77-2622 and section 6 of this act and the Tobacco Products
+18 Tax Act, the following information:
+19 (a) The total number of those cigarettes, in each case identifying
+20 by name and number of cigarettes (i) the manufacturers of those
+21 cigarettes, (ii) the brand families of those cigarettes, (iii) in the
+22 case of a sale or transfer, the name and address of the recipient of
+23 those cigarettes, (iv) in the case of an acquisition or purchase, the
+24 name and address of the seller or sender of those cigarettes, and (v) the
+25 other states in whose directory the manufacturer and brand family of
+26 those cigarettes were listed at the time and whose stamps the person is
+27 authorized to affix; and
+28 (b) In the case of acquisition, purchase, or possession, the details
+29 of the person's subsequent sale or transfer of those cigarettes,
+30 identifying by name and number of cigarettes (i) the brand families of
+31 those cigarettes, (ii) the date of the sale or transfer, (iii) the name
+-13-
+
+LB9 LB9
+2025 2025
+1 and address of the recipient, (iv) the number of stamps of each other
+2 state that the person affixed to the packages containing those cigarettes
+3 during that month, (v) the total number of cigarettes contained in the
+4 packages to which it affixed each respective other state's stamp, (vi)
+5 the manufacturers and brand families of the packages to which it affixed
+6 each respective other state's stamp, and (vii) a certification that it
+7 reported each sale or transfer to the taxing authority of the other state
+8 by fifteen days following the end of the month in which the sale or
+9 transfer was made and attaching a copy of all such reports. If the
+10 subsequent sale or transfer is from this state into another state in
+11 packages not bearing a stamp of the other state, the report shall also
+12 contain the information described in subdivision (2)(c) of section
+13 77-2604.01.
+14 (2) Reports under this section shall be in addition to reports under
+15 sections 69-2708, 77-2604, and 77-2604.01.
+16 Sec. 6. (1) As soon as practicable after any return is filed, the
+17 Tax Commissioner shall examine the return. If the commissioner, in his or
+18 her judgment, finds that the return is incorrect and any amount of tax
+19 due from a stamping agent, wholesale dealer, or retail dealer who is
+20 subject to sections 77-2601 to 77-2622 is unpaid, the commissioner shall
+21 notify such person of the deficiency. Such notice shall be delivered by
+22 mail or personal service.
+23 (2) Except as provided in subsection (3) of this section, a notice
+24 of a deficiency determination shall be personally served or mailed within
+25 three years after the later of:
+26 (a) The last day of the calendar month following the period for
+27 which the amount is proposed to be determined; or
+28 (b) The date the return was filed.
+29 (3) In the case of a person failing to make a return, filing a false
+30 or fraudulent return with the intent to evade the sections 77-2601 to
+31 77-2622, or omitting from a return an amount properly includable therein
+-14-
+
+LB9 LB9
+2025 2025
+1 which is in excess of twenty-five percent of the amount of tax stated in
+2 the return, a notice of determination shall be personally served within
+3 six years after the last day of the calendar month following the period
+4 for which the amount is proposed to be determined.
+5 (4) When, before the expiration of the time prescribed in this
+6 section for the mailing of a notice of deficiency determination, both the
+7 Tax Commissioner and the person to be sent the notice have consented in
+8 writing to its mailing after such time, the notice of the deficiency
+9 determination may be mailed at any time prior to the expiration of the
+10 period agreed upon. The agreed-upon period may be extended by subsequent
+11 agreement, in writing, made before the expiration of the period
+12 previously agreed upon.
+13 Sec. 7. Section 77-2604, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 77-2604 (1) Every stamping agent, wholesale dealer, and retail
+16 dealer who is subject to sections 77-2601 to 77-2622 and section 6 of
+17 this act shall make and file with the Tax Commissioner, on or before the
+18 fifteenth day of each calendar month in the manner prescribed by the Tax
+19 Commissioner, true, correct, and sworn reports covering, for the last
+20 preceding calendar month, the number of cigarettes purchased, from whom
+21 purchased, the specific kinds and brands thereof, the manufacturer, if
+22 known, and such other matters and in such detail as the Tax Commissioner
+23 may require.
+24 (2)(a) Each manufacturer and importer that sells cigarettes in or
+25 into the state shall, within fifteen days following the end of each
+26 month, file a report in the manner prescribed by the Tax Commissioner and
+27 certify to the state that the report is complete and accurate.
+28 (b) The report shall contain the following information: The total
+29 number of cigarettes sold by that manufacturer or importer in or into the
+30 state during that month and identifying by name and number of cigarettes,
+31 (i) the manufacturers of those cigarettes, (ii) the brand families of
+-15-
+
+LB9 LB9
+2025 2025
+1 those cigarettes, and (iii) the purchasers of those cigarettes. A
+2 manufacturer's or importer's report shall include cigarettes sold in or
+3 into the state through its sales entity affiliate.
+4 (c) The requirements of this subsection shall be satisfied and no
+5 further report shall be required under this section with respect to
+6 cigarettes if the manufacturer or importer timely submits to the Tax
+7 Commissioner the report or reports required to be submitted by it with
+8 respect to those cigarettes under 15 U.S.C. 376 to the Tax Commissioner
+9 and certifies to the state that the reports are complete and accurate.
+10 (d) Upon request by the Tax Commissioner, a manufacturer or importer
+11 shall provide copies of all sales reports referenced in subdivisions (2)
+12 (a) and (b) of this section that it filed in other states.
+13 (e) Each manufacturer and importer that sells cigarettes in or into
+14 the state shall either (i) submit its federal excise tax returns and all
+15 monthly operational reports on Alcohol and Tobacco Tax and Trade Bureau
+16 Form 5210.5 and all adjustments, changes, and amendments to such reports
+17 to the Tax Commissioner no later than sixty days after the close of the
+18 quarter in which the returns were filed or (ii) submit to the United
+19 States Treasury a request or consent under section 6103(c) of the
+20 Internal Revenue Code of 1986 as defined in section 49-801.01 authorizing
+21 the federal Alcohol and Tobacco Tax and Trade Bureau and, in the case of
+22 a foreign manufacturer or importer, the United States Customs Service to
+23 disclose the manufacturer's or importer's federal returns to the Tax
+24 Commissioner as of sixty days after the close of the quarter in which the
+25 returns were filed.
+26 Sec. 8. Section 77-2612, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 77-2612 The Tax Commissioner may employ, with the advice and consent
+29 of the Governor, a sufficient number of inspectors, clerks, assistants,
+30 and agents to enforce sections 77-2601 to 77-2622 and section 6 of this
+31 act, including the collection of all stamp taxes and all revenue from
+-16-
+
+LB9 LB9
+2025 2025
+1 cigarette tax meters. In such enforcement, the Tax Commissioner may call
+2 to his or her aid the Attorney General, any county attorney, any sheriff,
+3 any deputy sheriff, or any other peace officer. The compensation of all
+4 persons employed shall be fixed by the Governor and shall be paid from
+5 the revenue derived under such sections. The expenses of administering
+6 such sections, including necessary assistants, clerical help, cost of
+7 enforcement, cost of stamps, and incidental expenses, when approved by
+8 the Tax Commissioner, shall be paid by warrants, issued against the
+9 General Fund, but such warrants shall not exceed four percent of the
+10 funds collected under such sections, such expenses in each instance to be
+11 approved by the Tax Commissioner.
+12 The Tax Commissioner may adopt and promulgate rules and regulations
+13 which are consistent with sections 77-2601 to 77-2622 and section 6 of
+14 this act and their proper enforcement.
+15 Each stamping agent shall annually apply to the Tax Commissioner,
+16 upon forms to be furnished by the Tax Commissioner, for a license to use
+17 the tax meter machines, as set forth in section 77-2603, or to purchase
+18 such stamps as provided in section 77-2608, or both. The license shall
+19 expire on December 31 each year. Each wholesale dealer applying for a
+20 stamping agent license shall furnish with such application evidence
+21 satisfactory to the Tax Commissioner showing that the wholesale dealer
+22 has obtained a license as a wholesale dealer in accordance with section
+23 28-1423. The applicant shall accompany the application with a fee of five
+24 hundred dollars to be placed in the General Fund if the license is
+25 granted and otherwise to be returned to the applicant. If the applicant
+26 is an individual, the application shall include the applicant's social
+27 security number. If the application is approved and the bond referred to
+28 in section 77-2603 is given and approved, if such bond is required under
+29 section 77-2603, the Tax Commissioner shall issue such license which
+30 shall be conspicuously posted in the place of business of such stamping
+31 agent.
+-17-
+
+LB9 LB9
+2025 2025
+1 Sec. 9. Section 77-2615.01, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 77-2615.01 (1) In addition to sections 77-2615 and 77-2622, for any
+4 violation of sections 77-2601 to 77-2622 and section 6 of this act or the
+5 rules and regulations adopted and promulgated under such sections, the
+6 Tax Commissioner may:
+7 (a) After notice and hearing, suspend or revoke the licenses of any
+8 person licensed under sections 28-1420 to 28-1429 or 77-2601 to 77-2622
+9 and section 6 of this act. Notice of hearing shall be given as provided
+10 in the Administrative Procedure Act; and
+11 (b) Impose an administrative penalty not to exceed one thousand
+12 dollars for any violation.
+13 (2) No person whose license has been suspended or revoked shall sell
+14 cigarettes or permit cigarettes to be sold during the period of
+15 suspension or revocation on the premises occupied by him or her. No
+16 disciplinary proceeding or action shall be barred or abated by the
+17 expiration, transfer, surrender, continuance, renewal, or extension of
+18 any license issued under sections 28-1420 to 28-1429 or 77-2601 to
+19 77-2622 and section 6 of this act.
+20 (3) Any person aggrieved by any decision, order, or finding of the
+21 Tax Commissioner may appeal the decision, order, or finding, and the
+22 appeal shall be in accordance with the Administrative Procedure Act.
+23 (4) If a person's license has been suspended or revoked and the
+24 person's name has been removed for at least ten days from the list of
+25 licensed entities published by the Tax Commissioner under subsection (4)
+26 of section 77-2603, any person that sells cigarettes to or purchases
+27 cigarettes from such person shall be jointly and severally liable for any
+28 taxes applicable to such cigarettes under section 77-2602 and for any
+29 escrow due on such cigarettes under section 69-2703.
+30 Sec. 10. Section 77-4001, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-18-
+
+LB9 LB9
+2025 2025
+1 77-4001 Sections 77-4001 to 77-4025 and sections 13, 14, and 16 of
+2 this act shall be known and may be cited as the Tobacco Products Tax Act.
+3 Sec. 11. Section 77-4002, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 77-4002 For purposes of the Tobacco Products Tax Act, unless the
+6 context otherwise requires, the definitions found in sections 77-4003 to
+7 77-4007 and section 13 of this act shall be used.
+8 Sec. 12. Section 77-4003.01, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 77-4003.01 Consumable material means any liquid solution or other
+11 material containing nicotine or a nicotine analogue that is depleted as
+12 an electronic nicotine delivery system is used.
+13 Sec. 13. Nicotine analogue has the same meaning as in section
+14 28-1418.01.
+15 Sec. 14. (1) For any violation of the Tobacco Products Tax Act or
+16 the rules and regulations adopted and promulgated under the act, the Tax
+17 Commissioner may, in addition to any other penalty or sanction:
+18 (a) After notice and hearing, suspend or revoke the licenses of any
+19 person licensed under sections 28-1420 to 28-1429. Notice of hearing
+20 shall be given as provided in the Administrative Procedure Act; and
+21 (b) Impose an administrative penalty not to exceed five thousand
+22 dollars for any violation.
+23 (2) No person whose license has been suspended or revoked shall sell
+24 tobacco products or permit tobacco products to be sold during the period
+25 of suspension or revocation on the premises occupied by such person. No
+26 disciplinary proceeding or action shall be barred or abated by the
+27 expiration, transfer, surrender, continuance, renewal, or extension of
+28 any license issued under the Tobacco Products Tax Act or sections 28-1420
+29 to 28-1429.
+30 (3) Any person aggrieved by any decision, order, or finding of the
+31 Tax Commissioner may appeal the decision, order, or finding, and the
+-19-
+
+LB9 LB9
+2025 2025
+1 appeal shall be in accordance with the Administrative Procedure Act.
+2 Sec. 15. Section 77-4015, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 77-4015 As soon as practicable after any return is filed, the Tax
+5 Commissioner shall examine the return. If the Tax Commissioner, in his or
+6 her judgment, finds that the return is incorrect and any amount of tax
+7 due from the licensee is unpaid, he or she shall notify the licensee of
+8 the deficiency. Such notice shall be delivered by mail or personal
+9 service mailed to the licensee.
+10 (2) Except as provided in subsection (3) of this section, a notice
+11 of a deficiency determination shall be personally served or mailed within
+12 three years after the later of:
+13 (a) The last day of the calendar month following the period for
+14 which the amount is proposed to be determined; or
+15 (b) The date the return was filed.
+16 (3) In the case of a person failing to make a return, filing a false
+17 or fraudulent return with the intent to evade the Tobacco Products Tax
+18 Act, or omitting from a return an amount properly includable therein
+19 which is in excess of twenty-five percent of the amount of tax stated in
+20 the return, a notice of determination shall be personally served within
+21 six years after the last day of the calendar month following the period
+22 for which the amount is proposed to be determined.
+23 (4) When, before the expiration of the time prescribed in this
+24 section for the mailing of a notice of deficiency determination, both the
+25 Tax Commissioner and the person to be sent the notice have consented in
+26 writing to its mailing after such time, the notice of the deficiency
+27 determination may be mailed at any time prior to the expiration of the
+28 period agreed upon. The agreed-upon period may be extended by subsequent
+29 agreement, in writing, made before the expiration of the period
+30 previously agreed upon.
+31 Sec. 16. (1) Any tobacco products that have been sold, offered for
+-20-
+
+LB9 LB9
+2025 2025
+1 sale, or possessed for sale in this state in violation of the Tobacco
+2 Products Tax Act are declared to be contraband goods and may be seized by
+3 the Tax Commissioner, by the commissioner's agents or employees, or by
+4 any peace officer of this state, when directed by the commissioner to do
+5 so, without a warrant.
+6 (2) The Tax Commissioner may, upon satisfactory proof, direct the
+7 return of any confiscated tobacco products when the commissioner has
+8 reason to believe that the owner thereof has not willfully or
+9 intentionally evaded any tax imposed under section 77-4008.
+10 (3) Any tobacco products forfeited to the state under this section
+11 shall be destroyed or used for law enforcement purposes and then
+12 destroyed. The cost of such seizure, forfeiture, and destruction shall be
+13 borne by the person from whom the products are seized.
+14 (4) The Tax Commissioner, agents and employees of the commissioner,
+15 and any peace officer of this state, when acting pursuant to this
+16 section, shall not in any way be responsible in any court for the seizure
+17 or the confiscation of any tobacco products.
+18 Sec. 17. This act becomes operative on January 1, 2026.
+19 Sec. 18. Original sections 77-2604, 77-2612, 77-2615.01, and
+20 77-4015, Reissue Revised Statutes of Nebraska, and sections 28-1418.01,
+21 59-1523, 69-2705, 69-2709, 69-2710.01, 77-4001, 77-4002, and 77-4003.01,
+22 Revised Statutes Cumulative Supplement, 2024, are repealed.
+-21-
+
+[DELETED: yHA B F A A r t t a r p t asS o N a s 2 5 66 6 7 7 a 7 RSr t n a n a t p frdr t n o d f c c t a0u t T P T A t p f s a1a p u t T P T A t2d t p i i v o t a t b3c4t p f i t h p t p a5o6B9L52]
+[DELETED: S 1 S 2 R S CS2( A n p m a n pc n o a n a t i i f hc w c a d o i b aona0D A u C V o t F F D a1C2(3t4o5n6t7t8p b c a a c o ( a r o t9w i a s c t w b o i0a1l i l t b o t o p b c a 2c3(4m5(6( E n d s m a p o7d c n a n a t o t8d t e a h e p s e9c0o s o s t s s b d t n1n9L52]
+[DELETED: g(t(o t d w s s o s i cw a p o d t i i t d t a pn n a t o t d i vf(0s1e p e h o s p n2d3(4t i u d o o t p o d w s i5c6t7( E n d s d n i t8f9( A a n p c c o o0t p o a p r a a d o d b t1U2F3(4t5c6t7(8(9( A e o t c n s t i s0s1n9L52]
+[DELETED: (t p a t p a e nda o a t a r c a f w sc c r a t p w t a o s S d d n i a d c th t p t p e nda0( ( T s s m a r s t (1d a l s p o i r f t2p3o4t5p6S 2 S 5 R S C S72859a051( L o l o a p l u s22 t 2 o s 7 t 7 a s 6 o3t4( L o c o a p l o c5u6( C t a a h o p7t s o d i o i i t s i8v9s0s1g9L52]
+[DELETED: S 3 S 6 R S C S26(t a d f o a b m o amk a 1 a i a b n a o i cwr p o c o a o i o p0i i o s t o i w 1p2(3( C i m a m o o c p4t u i t m o c i w5l t w p o u c p6a7t8m9(0(1u2d t d c u t s l i t o3s4(5(6(7(869( N m m a t p0m1( N m c m c (9L52]
+[DELETED: o a b f t i n i i t c o pt a s t t e r u s ( os 6 b t p m i wc t b f i i i n g piol( P m a p o o c o w a s0s1s2a3s4t5o c o c R t p d n i 6c7(8I9(0c o o l e i a I t o1i2(3f a c T t i t o r4p5( Q e f h t s m a i s667(8o9( S o s m a t e o b i a0m o b a m f a c S o s i1d9L52]
+[DELETED: ( S a m t d b ( t fa o t d r t b m b a nmoe f t c q o b o t nm u s 6 ( t a d ie b t n m f t c quc q u s ( o s 6 b a0i1a2p3s a i a f a n m f 4c q s b c b t A G w5f6i7a8( S a m a p t i a t a9s t p o o c o c u s071t2( T C m t T C o t S o3N4(566(7( U c m a c t a n8c970S 4 S 6 R S C S129L52]
+[DELETED: 6rv s ( o s 6 o a r o raos 7 F e v o s ( o s6 o t r a r t T C m aih0d16 o a r o r a a p p2t374(5i6( F t p a r r u s 6768(960r u s 6 s ( o s 7 o1s2( F t p t a p i s 7 o d3e4(5s r u s 7 o 7 t i n t6c s a p f a l l o t t t c7s8( S u c i i o f t s o9p071(9L52]
+[DELETED: pn a t t l i t d o p s cmfd l u s 7 o u e pu s 6 t 6 o s 7 t 7 as(t0(1o2a s b e t c t v w t d a3r4f5a6( I t c o a k o i v u7s8d i s ( o ( o t s t s9a0o1s o s v b s t a c p o u t2f t d p v a b g o a C I3m4(5( T T C s p r a s a6w7s8C9a a t a p l i t d B t d0f1c t o p c f t s a w9L52]
+[DELETED: l( I a s a w l h b t i t p m t t p m a ib(f(fw0(1o2s3(4s f u s ( ( ( o ( o t5s6( O y f t t i t c o a f7k8o t s o a f v d i s (9(0(1o s k o i f u s (2( ( o ( o t s o a s o s v3d4( A c t h b s o f s o5p f s i t s i v o s ( o6s7c s b s t s a f a p i8s9s0c1t p m o a b f f t d a9L52]
+[DELETED: gb( T A G o b o t T C ms a i t r a t o a v osa6 o s 6 I a a b p t ts t s s b e t r t c oi0s s n a t a s a p c1w a n i v o s ( o s 6 o2s3( I i u f a p t ( s o d4c f s i t s o ( a h o p5t i o c t b i c t t p6k7i8s9(0s 6 t 6 t c s o t p o a1p2b3A4e p t r o p p b s566p7( I i u f a m i o s8a t k s a f i r p t9s0f1r9L52]
+[DELETED: (s c i v o s ( o t s os 6 a i b f s b r f td(s o w f e t i p e t s o inr u 1 U 3 e s b m t f p o it s o o m c w i l s b0s1e2d3( A p t i n a s a o t p4m5u s 6 6 7 o 7 s b6e7t8I t p f t f c t f w s p i9s0v a s b i t h a l o t s1r2t3( A d l s b s t t i t4l5o6(7c i v o s ( o t s o s869t0o 7 t i n t c s a p f a l1l o t t t c s s f a f v b9L52]
+[DELETED: sa C I m a f a s o s v bsavS26s0o1f2d f t e o t m f a r i t m3p b t T C a c t t s t t4r5a6t7a8T9(0b n a n o c ( t m o t1c ( t b f o t c ( i t2c o a s o t t n a a o t r o3t c ( i t c o a a o p t4n5o s i w d t m a b f o6t7a8(9o t p s s o t o t c0i1t9L52]
+[DELETED: a a o t r ( t n o s o e osdpterb f d f t e o t m i w t s ot w m a a a c o a s r I t0s s o t i f t s i a s i1p2c t i d i s ( o s374(5s6S7T8h9d f a s a w d o r d w i0s1n2m3(4o5t6( T l d o t c m f t p f7w8(9(0o f r w t i t e t s 7 t179L52]
+[DELETED: wtsf( W b t e o t t p i tsTw t i m a s t t n o t dd0p1a i w m b t e o t p2p3S 7 S 7 R R S o N i4a57 ( E s a w d a r6d w i s t s 7 t 7 a s 6 o7t8f9C t c a s r c f t l0p1p t s k a b t t m i2k3m4( E m a i t s c i o5i t s s w f d f t e o e6m7c8( T r s c t f i T t9n0s1( t m o t c ( t b f o9L52]
+[DELETED: t c a ( t p o t c mi( T r o t s s b s a nf r s b r u t s w r tc i t m o i t s t t TCra0(1s2(3(4t5m6F7t8q i w t r w f o ( s t t U9S T a r o c u s 6 o t0I1t2a3d t m o i f r t t T4C5r6S 8 S 7 R R S o N i7a879o0a1a i t c o a s t a a r f9L52]
+[DELETED: ctapt r d u s s T e o as s i n a c h c oe c o s a i e w a bt T C s b p b w i a tG F b s w s n e f p o t0f1a2T3w4t5E s a s a a t t T C6u7t8s9e o D 3 e y E w d a f 0s a l s f w s a e1s t t T C s t t w d2h324h d t b p i t G F i t l i5g6i a i t a s i t a s7s8i9s 7 t T C s i s l w0s1a9L52]
+[DELETED: Sa7vr a r a a p u s s tT(pa0i1( I a a p n t e o t2d3(4c o p c t b s d t p o5s o r o t p o b h o h N6d p o a s b b o a b t7e t s c r o e o8a l i u s 2 t 2 o 7 t970(1T C m a t d o o f a t2a3( I a p l h b s o r a t4p5l6o s 7 a p t s c t o p7c8t a t s c u s 7 a f a9e0S 1 S 7 R S C S129L52]
+[DELETED: 7tS 1 S 7 R S C S27 F p o t T P T A u tc7S207 C m m a l s o o1m2a3S 1  N a h t s m a i s425S6t7C8(9p l u s 2 t 2 N o h0s1( I a a p n t e f t2d3(4t5o6d p o a s b b o a b t7e t s c r o e o8a9t0(1T C m a t d o o f a t9L52]
+[DELETED: aSa7Chdt d S n s b d b m o ps0(1o2t3( T l d o t c m f t p f4w5(6(7o8A o o f a r a a p i t9w0t1s2f3( W b t e o t t p i t4s5T6w t i m a s t t n o t d7d8p9a i w m b t e o t p0p1S9L52]
+[DELETED: s o p f s i t s i v o t TPtas( T T C m u s p d tr o a c t p w t c hr t b t t o t h n w oi0(1s b d o u f l e p a t2d3b4(5a a p o o t s w a p t t6s7o8S9S 1  O s 7 7 7 a07152R9L52]

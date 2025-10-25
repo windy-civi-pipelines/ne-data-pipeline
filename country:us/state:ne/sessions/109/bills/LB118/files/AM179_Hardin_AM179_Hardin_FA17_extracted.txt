@@ -1,0 +1,65 @@
+Title: 1 1. Strike the original sections and insert the following new
+Official Title: 1 1. Strike the original sections and insert the following new
+Number of Sections: 1
+Source: versions - Hardin AM179 Hardin FA17
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM179 AM179
+LB118 LB118
+DLM - 02/05/2025 DLM - 02/05/2025
+AMENDMENTS TO LB118
+Introduced by Hardin, 48.
+2 sections:
+3 Section 1. Section 38-2866.01, Revised Statutes Cumulative
+4 Supplement, 2024, is amended to read:
+5 38-2866.01 (1) A pharmacist may supervise any combination of
+6 pharmacy technicians and pharmacist interns at any time up to a total of
+7 four three people.
+8 (2) A pharmacist intern shall be supervised at all times while
+9 performing the functions of a pharmacist intern which may include all
+10 aspects of the practice of pharmacy unless otherwise restricted. This
+11 subsection section does not apply to a pharmacist intern who is receiving
+12 experiential training directed by the accredited pharmacy program in
+13 which he or she is enrolled.
+14 (3) For any pharmacist supervising four pharmacy technicians or
+15 pharmacy interns, at least one person shall be a certified pharmacy
+16 technician pursuant to section 38-2890.
+17 Sec. 2. Original section 38-2866.01, Revised Statutes Cumulative
+18 Supplement, 2024, is repealed.
+-1-
+[DELETED: yH1 S t o s a i t f nsS 1 S 3 R S CS3 ( A p m s a c opf( A p i s b s a a t wp t f o a p i w m i a0a o t p o p u o r T1s2e t d b t a p p i3w4( F a p s f p t o5p i a l o p s b a c p6t7S 2  O s 3 R S C8S9A8L5D]
+
+
+================================================================================
+
+Raw Text:
+AM179 AM179
+LB118 LB118
+DLM - 02/05/2025 DLM - 02/05/2025
+AMENDMENTS TO LB118
+Introduced by Hardin, 48.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Section 38-2866.01, Revised Statutes Cumulative
+4 Supplement, 2024, is amended to read:
+5 38-2866.01 (1) A pharmacist may supervise any combination of
+6 pharmacy technicians and pharmacist interns at any time up to a total of
+7 four three people.
+8 (2) A pharmacist intern shall be supervised at all times while
+9 performing the functions of a pharmacist intern which may include all
+10 aspects of the practice of pharmacy unless otherwise restricted. This
+11 subsection section does not apply to a pharmacist intern who is receiving
+12 experiential training directed by the accredited pharmacy program in
+13 which he or she is enrolled.
+14 (3) For any pharmacist supervising four pharmacy technicians or
+15 pharmacy interns, at least one person shall be a certified pharmacy
+16 technician pursuant to section 38-2890.
+17 Sec. 2. Original section 38-2866.01, Revised Statutes Cumulative
+18 Supplement, 2024, is repealed.
+-1-
+
+[DELETED: yH1 S t o s a i t f nsS 1 S 3 R S CS3 ( A p m s a c opf( A p i s b s a a t wp t f o a p i w m i a0a o t p o p u o r T1s2e t d b t a p p i3w4( F a p s f p t o5p i a l o p s b a c p6t7S 2  O s 3 R S C8S9A8L5D]

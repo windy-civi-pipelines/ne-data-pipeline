@@ -1,0 +1,1017 @@
+Title: LEGISLATIVE BILL 185
+Official Title: LEGISLATIVE BILL 185
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+LB185 LB185
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Dover, 19.
+Read first time January 13, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to landlords and tenants; to amend sections
+2 76-1413, 76-1450, 76-1457, and 76-1474, Reissue Revised Statutes of
+3 Nebraska, and section 76-1410, Revised Statutes Cumulative
+4 Supplement, 2024; to provide for electronic notices by landlords to
+5 tenants under the Uniform Residential Landlord and Tenant Act and
+6 the Mobile Home Landlord and Tenant Act; to define terms; to
+7 harmonize provisions; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+LB185 LB185
+2025 2025
+1 Section 1. Section 76-1410, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 76-1410 Subject to additional definitions contained in the Uniform
+4 Residential Landlord and Tenant Act and unless the context otherwise
+5 requires:
+6 (1) Act of domestic violence means abuse as defined in section
+7 42-903, sexual assault under sections 28-319 to 28-320.01, domestic
+8 assault under section 28-323, stalking under section 28-311.03, labor or
+9 sex trafficking under section 28-831, and knowing and intentional abuse,
+10 neglect, or exploitation of a vulnerable adult or senior adult under
+11 section 28-386.
+12 (2) Action includes recoupment, counterclaim, setoff, suit in
+13 equity, and any other proceeding in which rights are determined,
+14 including an action for possession.
+15 (3) Building and housing codes include any law, ordinance, or
+16 governmental regulation concerning fitness for habitation, or the
+17 construction, maintenance, operation, occupancy, use, or appearance of
+18 any premises, or dwelling unit. Minimum housing code shall be limited to
+19 those laws, resolutions, or ordinances or regulations, or portions
+20 thereof, dealing specifically with health and minimum standards of
+21 fitness for habitation.
+22 (4) Dwelling unit means a structure or the part of a structure that
+23 is used as a home, residence, or sleeping place by one person who
+24 maintains a household or by two or more persons who maintain a common
+25 household.
+26 (5) Good faith means honesty in fact in the conduct of the
+27 transaction concerned.
+28 (6) Household member means a child or adult, other than the
+29 perpetrator of an act of domestic violence, who resides with a tenant.
+30 (7) Landlord means the owner, lessor, or sublessor of the dwelling
+31 unit or the building of which it is a part, and it also means a manager
+-2-
+LB185 LB185
+2025 2025
+1 of the premises who fails to disclose as required by section 76-1417.
+2 (8) Organization includes a corporation, government, governmental
+3 subdivision or agency, business trust, estate, trust, partnership,
+4 limited liability company, or association, two or more persons having a
+5 joint or common interest, and any other legal or commercial entity.
+6 (9) Owner means one or more persons, jointly or severally, in whom
+7 is vested (a) all or part of the legal title to property, or (b) all or
+8 part of the beneficial ownership and a right to present use and enjoyment
+9 of the premises; and the term includes a mortgagee in possession.
+10 (10) Person includes an individual, limited liability company, or
+11 organization.
+12 (11) Qualified third party means an organization that (a) is a
+13 nonprofit organization organized under section 501(c)(3) of the Internal
+14 Revenue Code or a federally recognized Indian tribe whose governmental
+15 body is within the borders of Nebraska and (b) has an affiliation
+16 agreement with the Department of Health and Human Services to provide
+17 services to victims of domestic violence and sexual assault under the
+18 Protection from Domestic Abuse Act.
+19 (12) Premises means a dwelling unit and the structure of which it is
+20 a part and facilities and appurtenances therein and grounds, areas, and
+21 facilities held out for the use of tenants generally or whose use is
+22 promised to the tenant.
+23 (13) Rent means all payments to be made to the landlord under the
+24 rental agreement.
+25 (14) Rental agreement means all agreements, written or oral, between
+26 a landlord and tenant, and valid rules and regulations adopted under
+27 section 76-1422 embodying the terms and conditions concerning the use and
+28 occupancy of a dwelling unit and premises.
+29 (15) Roomer means a person occupying a dwelling unit that lacks a
+30 major bathroom or kitchen facility, in a structure where one or more
+31 major facilities are used in common by occupants of the dwelling units.
+-3-
+LB185 LB185
+2025 2025
+1 Major facility in the case of a bathroom means toilet, or either a bath
+2 or shower, and in the case of a kitchen means refrigerator, stove, or
+3 sink.
+4 (16) Single-family residence means a structure maintained and used
+5 as a single dwelling unit. Notwithstanding that a dwelling unit shares
+6 one or more walls with another dwelling unit, it is a single-family
+7 residence if it has direct access to a street or thoroughfare and shares
+8 neither heating facilities, hot water equipment, nor any other essential
+9 facility or service with any other dwelling unit.
+10 (17) Tenant means a person entitled under a rental agreement to
+11 occupy a dwelling unit to the exclusion of others.
+12 (18) Writing or written, when used in reference to a notice or
+13 document to be provided by or to a landlord or tenant, includes a notice
+14 or document provided by electronic means in accordance with section
+15 76-1413.
+16 Sec. 2. Section 76-1413, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 76-1413 (1) A person has notice of a fact if:
+19 (a) Such person he has actual knowledge of it; ,
+20 (b) Such person he has received a notice or notification of it; , or
+21 (c) Such person from all facts and circumstances known to such
+22 person him at the time in question, such person he has reason to know
+23 that it exists. A person knows or has knowledge of a fact if such person
+24 he has actual knowledge of it.
+25 (2) A person notifies or gives a notice or notification to another
+26 by taking steps reasonably calculated to inform the other in ordinary
+27 course whether or not the other actually comes to know of it. A person
+28 receives a notice or notification when:
+29 (a) It it comes to such person's his attention; ,
+30 (b) In in the case of the landlord, it is:
+31 (i) Delivered delivered at the place of business of the landlord
+-4-
+LB185 LB185
+2025 2025
+1 through which the rental agreement was made or at any place held out by
+2 the landlord him as the place for receipt of the communication; , or
+3 (ii) Delivered by electronic means; or
+4 (c) In in the case of the tenant, it is:
+5 (i) Delivered delivered in hand to the tenant;
+6 (ii) Mailed or mailed to the tenant him at the place held out by the
+7 tenant him as the place for receipt of the communication, or in the
+8 absence of such designation, to the tenant's his last-known place of
+9 residence; or .
+10 (iii) Delivered by electronic means.
+11 (3) Notice, knowledge, or a notice or notification received by an
+12 organization is effective for a particular transaction from the time it
+13 is brought to the attention of the individual conducting that
+14 transaction, and in any event from the time it would have been brought to
+15 such individual's his attention if the organization had exercised
+16 reasonable diligence.
+17 (4) For purposes of this section, delivered by electronic means
+18 includes:
+19 (a) Delivery to an electronic mail address at which a tenant or
+20 landlord has consented to receive notices or documents; and
+21 (b) Posting on an electronic network or site accessible via the
+22 Internet, mobile application, computer, mobile device, tablet, or any
+23 other electronic device, together with separate notice of the posting,
+24 which shall be provided by electronic mail to the address at which the
+25 tenant or landlord has consented to receive notices or documents or by
+26 any other delivery method that has been consented to by the tenant or
+27 landlord.
+28 (5) Subject to the requirements of this section, any notice to a
+29 tenant or landlord or any other document required under applicable law
+30 regarding a rental agreement or that is to serve as evidence of action
+31 regarding a rental agreement may be delivered, stored, and presented by
+-5-
+LB185 LB185
+2025 2025
+1 electronic means so long as it meets the requirements of the Uniform
+2 Electronic Transactions Act.
+3 (6) Delivery of a notice or document by electronic means in
+4 accordance with this section shall be considered equivalent to any
+5 delivery method required under applicable law, including delivery by
+6 first-class mail, registered mail, certified mail, certificate of
+7 mailing, or a commercial mail delivery service. In any instance in which
+8 proof of receipt is required for a mailing, the electronic delivery
+9 method used shall provide for verification or acknowledgment of receipt.
+10 (7) A notice or document may be delivered by electronic means by a
+11 landlord to a tenant under this section if:
+12 (a) The tenant has affirmatively consented to such method of
+13 delivery and has not withdrawn the consent;
+14 (b) The tenant, before giving consent, is provided with a clear and
+15 conspicuous statement informing the tenant of:
+16 (i) The right of the tenant to withdraw consent to have a notice or
+17 document delivered by electronic means at any time;
+18 (ii) Any conditions or consequences imposed in the event consent is
+19 withdrawn;
+20 (iii) The transactions and types of notices and documents to which
+21 the tenant's consent would apply;
+22 (iv) The right of a tenant to have a notice or document delivered in
+23 paper form by mail and the means, after consent is given, by which a
+24 tenant may obtain a paper copy of a notice or document delivered by
+25 electronic means; and
+26 (v) The procedure a tenant shall follow to withdraw consent to have
+27 a notice or document delivered by electronic means or to update the
+28 tenant's electronic mail address;
+29 (c) The tenant:
+30 (i) Before giving consent, is provided with a statement of the
+31 hardware and software requirements for access to and retention of a
+-6-
+LB185 LB185
+2025 2025
+1 notice or document delivered by electronic means; and
+2 (ii) Consents electronically, or confirms consent electronically, in
+3 a manner that reasonably demonstrates that the tenant can access
+4 information in the electronic form that will be used for notices or
+5 documents delivered by electronic means as to which the tenant has given
+6 consent; and
+7 (d) After the tenant consents, if there is a change in the hardware
+8 or software requirements needed to access or retain a notice or document
+9 delivered by electronic means and such change creates a material risk
+10 that the tenant will not be able to access or retain a subsequent notice
+11 or document to which the consent applies, the landlord:
+12 (i) Provides the tenant with a statement that describes:
+13 (A) The revised hardware and software requirements for access to and
+14 retention of a notice or document delivered by electronic means; and
+15 (B) The right of the tenant to withdraw consent without the
+16 imposition of any condition or consequence that was not disclosed at the
+17 time of initial consent; and
+18 (ii) Complies with subdivision (7)(b) of this section.
+19 (8) A notice or document may be delivered by electronic means by a
+20 tenant to a landlord under this section if the landlord has consented to
+21 delivery by electronic means with respect to such tenant.
+22 (9) A landlord shall not, as part of a rental agreement or as a
+23 condition of entering into or renewing a rental agreement, require a
+24 tenant to accept delivery by electronic means.
+25 (10) This section does not affect any requirement related to the
+26 content or timing of any notice or document required under applicable
+27 law.
+28 (11)(a) If any provision of the Uniform Residential Landlord and
+29 Tenant Act or any other applicable law requiring a notice or document to
+30 be provided to a tenant or landlord expressly requires verification or
+31 acknowledgment of receipt of the notice or document, the notice or
+-7-
+LB185 LB185
+2025 2025
+1 document may be delivered by electronic means only if the method used
+2 provides for verification or acknowledgment of receipt.
+3 (b)(i) For a notice or document sent by a landlord to a tenant, if
+4 verification or acknowledgment of receipt is not obtained, the notice or
+5 document shall be sent to the tenant by mail as prescribed by the Uniform
+6 Residential Landlord and Tenant Act. If two or more electronic
+7 communications to the tenant are returned as undeliverable during a
+8 thirty-day period, all future communications shall be sent to the tenant
+9 by first-class or other mail as prescribed by law unless and until the
+10 tenant consents electronically, or confirms electronically, in a manner
+11 that reasonably demonstrates that the tenant can access information in
+12 the electronic form that will be used for notices or documents delivered
+13 by electronic means as to which the tenant has given consent.
+14 (ii) For a notice or document sent by a tenant to a landlord, if
+15 verification or acknowledgment of receipt is not obtained, the tenant
+16 shall send the notice or document by any other means prescribed by law.
+17 (12) A withdrawal of consent by a tenant or landlord does not affect
+18 the legal effectiveness, validity, or enforceability of a notice or
+19 document delivered by electronic means to the tenant or landlord before
+20 the withdrawal of consent is effective. A withdrawal of consent by a
+21 tenant or landlord is effective within a reasonable period of time after
+22 receipt of the withdrawal by the other party. Failure by a landlord to
+23 comply with subdivision (7)(d) of this section may be treated, at the
+24 election of the tenant, as a withdrawal of consent for purposes of this
+25 section.
+26 (13) The changes made to this section by this legislative bill do
+27 not apply to a notice or document delivered by electronic means before
+28 the effective date of this act to a tenant or landlord who, before such
+29 date, consented to receive notices or documents by electronic means.
+30 (14) If the consent of a tenant to receive certain notices or
+31 documents by delivery by electronic means is on file with a landlord
+-8-
+LB185 LB185
+2025 2025
+1 before the effective date of this act, and pursuant to this section a
+2 landlord intends to deliver by electronic means additional notices or
+3 documents to such tenant, then prior to delivering such additional
+4 notices or documents by electronic means, the landlord shall provide the
+5 tenant with a statement that describes:
+6 (a) The notices or documents that will be delivered by electronic
+7 means that were not previously delivered electronically; and
+8 (b) The tenant's right to withdraw consent to have notices or
+9 documents delivered by electronic means without the imposition of any
+10 condition or consequence that was not disclosed at the time of initial
+11 consent.
+12 (15) A landlord or tenant shall deliver a notice or document by any
+13 other delivery method permitted by law other than electronic means if:
+14 (a) The landlord or tenant attempts to deliver the notice or
+15 document by electronic means and has a reasonable basis for believing
+16 that the notice or document has not been received by the other party; or
+17 (b) The landlord or tenant becomes aware that the electronic mail
+18 address provided by the other party is no longer valid.
+19 (16) This section shall not be construed to modify, limit, or
+20 supersede the federal Electronic Signatures in Global and National
+21 Commerce Act, 15 U.S.C. 7001 et seq., as such act existed on January 1,
+22 2025.
+23 Sec. 3. Section 76-1450, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 76-1450 Sections 76-1450 to 76-14,111 and section 5 of this act
+26 shall be known and may be cited as the Mobile Home Landlord and Tenant
+27 Act.
+28 Sec. 4. Section 76-1457, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 76-1457 As used in the Mobile Home Landlord and Tenant Act, unless
+31 the context otherwise requires, the definitions found in sections 76-1458
+-9-
+LB185 LB185
+2025 2025
+1 to 76-1471 and section 5 of this act shall apply.
+2 Sec. 5. Writing or written, when used in reference to a notice or
+3 document to be provided by or to a landlord or tenant, includes a notice
+4 or document provided by electronic means in accordance with section
+5 76-1474.
+6 Sec. 6. Section 76-1474, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 76-1474 (1) A person shall be deemed to have notice of a fact if the
+9 person:
+10 (a) Has has actual knowledge of it; ,
+11 (b) Has has received a notice or notification of it; , or
+12 (c) From from all facts and circumstances known to him or her at the
+13 time in question has reason to know that it exists.
+14 (2) A person notifies or gives a notice or notification to another
+15 by taking steps reasonably calculated to inform the other whether or not
+16 the other actually comes to know of it. A person receives a notice or
+17 notification when:
+18 (a) It it comes to the person's attention; ,
+19 (b) In in the case of the landlord, it is:
+20 (i) Delivered delivered in hand or mailed by United States mail to
+21 the landlord's place of business at which the rental agreement was made
+22 or at any place held out by the landlord as the place for receipt of a
+23 communication or delivered to any individual who is deemed to be an agent
+24 pursuant to section 76-1480; , or
+25 (ii) Delivered by electronic means; or
+26 (c) In in the case of the tenant, it is:
+27 (i) Delivered delivered in hand to the tenant;
+28 (ii) Mailed or mailed by United States mail to the tenant at the
+29 place held out by the tenant as the place for receipt of a communication
+30 or, in the absence of such designation, to the tenant's last-known place
+31 of residence; or .
+-10-
+LB185 LB185
+2025 2025
+1 (iii) Delivered by electronic means.
+2 (3) Notice, knowledge, or a notice or notification received by an
+3 organization shall be effective for a particular transaction from the
+4 time it is brought to the attention of the individual conducting the
+5 transaction and in any event from the time it would have been brought to
+6 the person's attention if the organization had exercised reasonable
+7 diligence.
+8 (4) For purposes of this section, delivered by electronic means
+9 includes:
+10 (a) Delivery to an electronic mail address at which a tenant or
+11 landlord has consented to receive notices or documents; and
+12 (b) Posting on an electronic network or site accessible via the
+13 Internet, mobile application, computer, mobile device, tablet, or any
+14 other electronic device, together with separate notice of the posting,
+15 which shall be provided by electronic mail to the address at which the
+16 tenant or landlord has consented to receive notices or documents or by
+17 any other delivery method that has been consented to by the tenant or
+18 landlord.
+19 (5) Subject to the requirements of this section, any notice to a
+20 tenant or landlord or any other document required under applicable law
+21 regarding a rental agreement or that is to serve as evidence of action
+22 regarding a rental agreement may be delivered, stored, and presented by
+23 electronic means so long as it meets the requirements of the Uniform
+24 Electronic Transactions Act.
+25 (6) Delivery of a notice or document by electronic means in
+26 accordance with this section shall be considered equivalent to any
+27 delivery method required under applicable law, including delivery by
+28 first-class mail, registered mail, certified mail, certificate of
+29 mailing, or a commercial mail delivery service. In any instance in which
+30 proof of receipt is required for a mailing, the electronic delivery
+31 method used shall provide for verification or acknowledgment of receipt.
+-11-
+LB185 LB185
+2025 2025
+1 (7) A notice or document may be delivered by electronic means by a
+2 landlord to a tenant under this section if:
+3 (a) The tenant has affirmatively consented to such method of
+4 delivery and has not withdrawn the consent;
+5 (b) The tenant, before giving consent, is provided with a clear and
+6 conspicuous statement informing the tenant of:
+7 (i) The right of the tenant to withdraw consent to have a notice or
+8 document delivered by electronic means at any time;
+9 (ii) Any conditions or consequences imposed in the event consent is
+10 withdrawn;
+11 (iii) The transactions and types of notices and documents to which
+12 the tenant's consent would apply;
+13 (iv) The right of a tenant to have a notice or document delivered in
+14 paper form by mail and the means, after consent is given, by which a
+15 tenant may obtain a paper copy of a notice or document delivered by
+16 electronic means; and
+17 (v) The procedure a tenant shall follow to withdraw consent to have
+18 a notice or document delivered by electronic means or to update the
+19 tenant's electronic mail address;
+20 (c) The tenant:
+21 (i) Before giving consent, is provided with a statement of the
+22 hardware and software requirements for access to and retention of a
+23 notice or document delivered by electronic means; and
+24 (ii) Consents electronically, or confirms consent electronically, in
+25 a manner that reasonably demonstrates that the tenant can access
+26 information in the electronic form that will be used for notices or
+27 documents delivered by electronic means as to which the tenant has given
+28 consent; and
+29 (d) After the tenant consents, if there is a change in the hardware
+30 or software requirements needed to access or retain a notice or document
+31 delivered by electronic means and such change creates a material risk
+-12-
+LB185 LB185
+2025 2025
+1 that the tenant will not be able to access or retain a subsequent notice
+2 or document to which the consent applies, the landlord:
+3 (i) Provides the tenant with a statement that describes:
+4 (A) The revised hardware and software requirements for access to and
+5 retention of a notice or document delivered by electronic means; and
+6 (B) The right of the tenant to withdraw consent without the
+7 imposition of any condition or consequence that was not disclosed at the
+8 time of initial consent; and
+9 (ii) Complies with subdivision (7)(b) of this section.
+10 (8) A notice or document may be delivered by electronic means by a
+11 tenant to a landlord under this section if the landlord has consented to
+12 delivery by electronic means with respect to such tenant.
+13 (9) A landlord shall not, as part of a rental agreement or as a
+14 condition of entering into or renewing a rental agreement, require a
+15 tenant to accept delivery by electronic means.
+16 (10) This section does not affect any requirement related to the
+17 content or timing of any notice or document required under applicable
+18 law.
+19 (11)(a) If any provision of the Mobile Home Landlord and Tenant Act
+20 or any other applicable law requiring a notice or document to be provided
+21 to a tenant or landlord expressly requires verification or acknowledgment
+22 of receipt of the notice or document, the notice or document may be
+23 delivered by electronic means only if the method used provides for
+24 verification or acknowledgment of receipt.
+25 (b)(i) For a notice or document sent by a landlord to a tenant, if
+26 verification or acknowledgment of receipt is not obtained, the notice or
+27 document shall be sent to the tenant by mail as prescribed by the Mobile
+28 Home Landlord and Tenant Act. If two or more electronic communications to
+29 the tenant are returned as undeliverable during a thirty-day period, all
+30 future communications shall be sent to the tenant by first-class or other
+31 mail as prescribed by law unless and until the tenant consents
+-13-
+LB185 LB185
+2025 2025
+1 electronically, or confirms electronically, in a manner that reasonably
+2 demonstrates that the tenant can access information in the electronic
+3 form that will be used for notices or documents delivered by electronic
+4 means as to which the tenant has given consent.
+5 (ii) For a notice or document sent by a tenant to a landlord, if
+6 verification or acknowledgment of receipt is not obtained, the tenant
+7 shall send the notice or document by any other means prescribed by law.
+8 (12) A withdrawal of consent by a tenant or landlord does not affect
+9 the legal effectiveness, validity, or enforceability of a notice or
+10 document delivered by electronic means to the tenant or landlord before
+11 the withdrawal of consent is effective. A withdrawal of consent by a
+12 tenant or landlord is effective within a reasonable period of time after
+13 receipt of the withdrawal by the other party. Failure by a landlord to
+14 comply with subdivision (7)(d) of this section may be treated, at the
+15 election of the tenant, as a withdrawal of consent for purposes of this
+16 section.
+17 (13) The changes made to this section by this legislative bill do
+18 not apply to a notice or document delivered by electronic means before
+19 the effective date of this act to a tenant or landlord who, before such
+20 date, consented to receive notices or documents by electronic means.
+21 (14) If the consent of a tenant to receive certain notices or
+22 documents by delivery by electronic means is on file with a landlord
+23 before the effective date of this act, and pursuant to this section a
+24 landlord intends to deliver by electronic means additional notices or
+25 documents to such tenant, then prior to delivering such additional
+26 notices or documents by electronic means, the landlord shall provide the
+27 tenant with a statement that describes:
+28 (a) The notices or documents that will be delivered by electronic
+29 means that were not previously delivered electronically; and
+30 (b) The tenant's right to withdraw consent to have notices or
+31 documents delivered by electronic means without the imposition of any
+-14-
+LB185 LB185
+2025 2025
+1 condition or consequence that was not disclosed at the time of initial
+2 consent.
+3 (15) A landlord or tenant shall deliver a notice or document by any
+4 other delivery method permitted by law other than electronic means if:
+5 (a) The landlord or tenant attempts to deliver the notice or
+6 document by electronic means and has a reasonable basis for believing
+7 that the notice or document has not been received by the other party; or
+8 (b) The landlord or tenant becomes aware that the electronic mail
+9 address provided by the other party is no longer valid.
+10 (16) This section shall not be construed to modify, limit, or
+11 supersede the federal Electronic Signatures in Global and National
+12 Commerce Act, 15 U.S.C. 7001 et seq., as such act existed on January 1,
+13 2025.
+14 Sec. 7. Original sections 76-1413, 76-1450, 76-1457, and 76-1474,
+15 Reissue Revised Statutes of Nebraska, and section 76-1410, Revised
+16 Statutes Cumulative Supplement, 2024, are repealed.
+-15-
+[DELETED: yDA7N a s 7 R S CSt u t U R L a T A at M H L a T A t d t thB5L52]
+[DELETED: S27R L a T A a u t c or( A o d v m a a d i s4 s a u s 2 t 2 das0n o e o a v a o s a u1s2( A i r c s s i3e a a o p i w r a d4i5( B a h c i a l o o6g r c f f h o t7c m o o u o a o8a9t l r o o o r o p0t d s w h a m s o1f2(3i u a a h r o s p b o p w4m a h o b t o m p w m a c5h6( G f m h i f i t c o t7t8( H m m a c o a o t t9p0(1u5L52]
+[DELETED: o( O i a c g gs o a b t e t plj(ipo0( P i a i l l c o1o2( Q t p m a o t ( i 3n4R C o a f r I t w g5b i w t b o N a ( h a a6a w t D o H a H S t p7s t v o d v a s a u t8P9(0a1f h o f t u o t g o w u i2p3(4r5(6a l a t a v r a r a u7s8o9(0m b o k f i a s w o o m1m5L52]
+[DELETED: Mo s a i t c o a k m r s os(ao o m w w a d u i i a srnf0( T m a p e u a r a t1o2( W o w w u i r t a n o3d4o d p b e m i a w s576S 2 S 7 R R S o N i7a879(0(1( S p f a f a c k t s2p3t4h5(6b t s r c t i t o i o7c8r9(0(1( D d a t p o b o t l5L52]
+[DELETED: tt((((t h a t p f r o t c o i ta o s d t t t h l p or0(1( N k o a n o n r b a2o3i b t t a o t i c t4t5s i h a i t o h e6r7( F p o t s d b e m8i9( D t a e m a a w a t o0l1( P o a e n o s a v t2I m a c m d t o a3o e d t w s n o t p4w5t6a o d m t h b c t b t t o7l8( S t t r o t s a n t 9t0r1r5L52]
+[DELETED: e m s l a i m t r o t UE( D o a n o d b e m ia w t s s b c e t ad m r u a l i d bf m r m c m c omp o r i r f a m t e dm0(1l2( T t h a c t s m o3d4(5c6(7d8(9w0(1t2(3p f b m a t m a c i g b w 4t m o a p c o a n o d d b5e6(7a n o d d b e m o t u t8t9(0( B g c i p w a s o t1h a s r f a t a r o 5L52]
+[DELETED: n(a m t r d t t t c ai i t e f t w b u f n odc(od b e m a s c c a m r0t1o2(3(4r5( T r o t t t w c w t6i7t8(9(0t1d2( A l s n a p o a r a o a 3c o e i o r a r a r 4t5( T s d n a a r r t t6c o t o a n o d r u a7l8( I a p o t U R L a9T0b1a o r o t n o d t n o5L52]
+[DELETED: d m b d b e m o i t m up(vdR L a T A I t o m ec t t t a r a u d tb0t1t r d t t t c a i i2t3b4( F a n o d s b a t t a l i5v o a o r i n o t t6s7(8t l e v o e o a n o9d0t w o c i e A w o c b 1t2r3c w s ( o t s m b t a t4e5s6(7n8t9d0( I t c o a t t r c n o1d b d b e m i o f w a l5L52]
+[DELETED: b t e d o t a a p t t s l i t d b e m a n od t s t t p t d s ant( T n o d t w b d b em( T t r t w c t h n od d b e m w t i o a0c1c2(3o4( T l o t a t d t n o5d b e m a h a r b f b6t7( T l o t b a t t e m8a9( T s s n b c t m l o0s t f E S i G a N1C223S 3 S 7 R R S o N i4a57 S 7 t 7 a s 5 o t a6s7A8S 4 S 7 R R S o N i9a071t5L52]
+[DELETED: tSdo d p b e m i a w s7S 6 S 7 R R S o N ia7p0(1(2(3t4(5b6t7n8(9(0(1t2o3c4p5(6(7(8( M o m b U S m t t t a t9p0o1o5L52]
+[DELETED: (( N k o a n o n r b ao s b e f a p t f tt i i b t t a o t i c ttt p a i t o h e rd( F p o t s d b e mi0( D t a e m a a w a t o1l2( P o a e n o s a v t3I m a c m d t o a4o e d t w s n o t p5w6t7a o d m t h b c t b t t o8l9( S t t r o t s a n t 0t1r2r3e m s l a i m t r o t U4E5( D o a n o d b e m i6a w t s s b c e t a7d m r u a l i d b8f m r m c m c o9m0p o r i r f a m t e d1m5L52]
+[DELETED: (l( T t h a c t s m od(c(d(0w1(2t3(4p f b m a t m a c i g b w 5t m o a p c o a n o d d b6e7(8a n o d d b e m o t u t9t0(1( B g c i p w a s o t2h a s r f a t a r o 3n4(5a m t r d t t t c a6i i t e f t w b u f n o7d8c9(0o1d b e m a s c c a m r5L52]
+[DELETED: to((r( T r o t t t w c w tit(0(1t2d3( A l s n a p o a r a o a 4c o e i o r a r a r 5t6( T s d n a a r r t t7c o t o a n o d r u a8l9(0o1t2o r o t n o d t n o d m b3d b e m o i t m u p f4v5(6v7d8H9t0f1m a p b l u a u t t c5L52]
+[DELETED: ed t t t c a i i t efm( F a n o d s b a t t a l iv o a o r i n o t ts(t l e v o e o a n o0d1t w o c i e A w o c b 2t3r4c w s ( o t s m b t a t5e6s7(8n9t0d1( I t c o a t t r c n o2d b d b e m i o f w a l3b t e d o t a a p t t s 4l i t d b e m a n o5d t s t t p t d s a6n7t8( T n o d t w b d b e9m0( T t r t w c t h n o1d d b e m w t i o a5L52]
+[DELETED: cc(o( T l o t a t d t n od b e m a h a r b f bt( T l o t b a t t e ma0( T s s n b c t m l o1s t f E S i G a N2C324S5R R S o N a s 7 R6S5L52]
+
+
+================================================================================
+
+Raw Text:
+LB185 LB185
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 185
+Introduced by Dover, 19.
+Read first time January 13, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to landlords and tenants; to amend sections
+2 76-1413, 76-1450, 76-1457, and 76-1474, Reissue Revised Statutes of
+3 Nebraska, and section 76-1410, Revised Statutes Cumulative
+4 Supplement, 2024; to provide for electronic notices by landlords to
+5 tenants under the Uniform Residential Landlord and Tenant Act and
+6 the Mobile Home Landlord and Tenant Act; to define terms; to
+7 harmonize provisions; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB185 LB185
+2025 2025
+1 Section 1. Section 76-1410, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 76-1410 Subject to additional definitions contained in the Uniform
+4 Residential Landlord and Tenant Act and unless the context otherwise
+5 requires:
+6 (1) Act of domestic violence means abuse as defined in section
+7 42-903, sexual assault under sections 28-319 to 28-320.01, domestic
+8 assault under section 28-323, stalking under section 28-311.03, labor or
+9 sex trafficking under section 28-831, and knowing and intentional abuse,
+10 neglect, or exploitation of a vulnerable adult or senior adult under
+11 section 28-386.
+12 (2) Action includes recoupment, counterclaim, setoff, suit in
+13 equity, and any other proceeding in which rights are determined,
+14 including an action for possession.
+15 (3) Building and housing codes include any law, ordinance, or
+16 governmental regulation concerning fitness for habitation, or the
+17 construction, maintenance, operation, occupancy, use, or appearance of
+18 any premises, or dwelling unit. Minimum housing code shall be limited to
+19 those laws, resolutions, or ordinances or regulations, or portions
+20 thereof, dealing specifically with health and minimum standards of
+21 fitness for habitation.
+22 (4) Dwelling unit means a structure or the part of a structure that
+23 is used as a home, residence, or sleeping place by one person who
+24 maintains a household or by two or more persons who maintain a common
+25 household.
+26 (5) Good faith means honesty in fact in the conduct of the
+27 transaction concerned.
+28 (6) Household member means a child or adult, other than the
+29 perpetrator of an act of domestic violence, who resides with a tenant.
+30 (7) Landlord means the owner, lessor, or sublessor of the dwelling
+31 unit or the building of which it is a part, and it also means a manager
+-2-
+
+LB185 LB185
+2025 2025
+1 of the premises who fails to disclose as required by section 76-1417.
+2 (8) Organization includes a corporation, government, governmental
+3 subdivision or agency, business trust, estate, trust, partnership,
+4 limited liability company, or association, two or more persons having a
+5 joint or common interest, and any other legal or commercial entity.
+6 (9) Owner means one or more persons, jointly or severally, in whom
+7 is vested (a) all or part of the legal title to property, or (b) all or
+8 part of the beneficial ownership and a right to present use and enjoyment
+9 of the premises; and the term includes a mortgagee in possession.
+10 (10) Person includes an individual, limited liability company, or
+11 organization.
+12 (11) Qualified third party means an organization that (a) is a
+13 nonprofit organization organized under section 501(c)(3) of the Internal
+14 Revenue Code or a federally recognized Indian tribe whose governmental
+15 body is within the borders of Nebraska and (b) has an affiliation
+16 agreement with the Department of Health and Human Services to provide
+17 services to victims of domestic violence and sexual assault under the
+18 Protection from Domestic Abuse Act.
+19 (12) Premises means a dwelling unit and the structure of which it is
+20 a part and facilities and appurtenances therein and grounds, areas, and
+21 facilities held out for the use of tenants generally or whose use is
+22 promised to the tenant.
+23 (13) Rent means all payments to be made to the landlord under the
+24 rental agreement.
+25 (14) Rental agreement means all agreements, written or oral, between
+26 a landlord and tenant, and valid rules and regulations adopted under
+27 section 76-1422 embodying the terms and conditions concerning the use and
+28 occupancy of a dwelling unit and premises.
+29 (15) Roomer means a person occupying a dwelling unit that lacks a
+30 major bathroom or kitchen facility, in a structure where one or more
+31 major facilities are used in common by occupants of the dwelling units.
+-3-
+
+LB185 LB185
+2025 2025
+1 Major facility in the case of a bathroom means toilet, or either a bath
+2 or shower, and in the case of a kitchen means refrigerator, stove, or
+3 sink.
+4 (16) Single-family residence means a structure maintained and used
+5 as a single dwelling unit. Notwithstanding that a dwelling unit shares
+6 one or more walls with another dwelling unit, it is a single-family
+7 residence if it has direct access to a street or thoroughfare and shares
+8 neither heating facilities, hot water equipment, nor any other essential
+9 facility or service with any other dwelling unit.
+10 (17) Tenant means a person entitled under a rental agreement to
+11 occupy a dwelling unit to the exclusion of others.
+12 (18) Writing or written, when used in reference to a notice or
+13 document to be provided by or to a landlord or tenant, includes a notice
+14 or document provided by electronic means in accordance with section
+15 76-1413.
+16 Sec. 2. Section 76-1413, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 76-1413 (1) A person has notice of a fact if:
+19 (a) Such person he has actual knowledge of it; ,
+20 (b) Such person he has received a notice or notification of it; , or
+21 (c) Such person from all facts and circumstances known to such
+22 person him at the time in question, such person he has reason to know
+23 that it exists. A person knows or has knowledge of a fact if such person
+24 he has actual knowledge of it.
+25 (2) A person notifies or gives a notice or notification to another
+26 by taking steps reasonably calculated to inform the other in ordinary
+27 course whether or not the other actually comes to know of it. A person
+28 receives a notice or notification when:
+29 (a) It it comes to such person's his attention; ,
+30 (b) In in the case of the landlord, it is:
+31 (i) Delivered delivered at the place of business of the landlord
+-4-
+
+LB185 LB185
+2025 2025
+1 through which the rental agreement was made or at any place held out by
+2 the landlord him as the place for receipt of the communication; , or
+3 (ii) Delivered by electronic means; or
+4 (c) In in the case of the tenant, it is:
+5 (i) Delivered delivered in hand to the tenant;
+6 (ii) Mailed or mailed to the tenant him at the place held out by the
+7 tenant him as the place for receipt of the communication, or in the
+8 absence of such designation, to the tenant's his last-known place of
+9 residence; or .
+10 (iii) Delivered by electronic means.
+11 (3) Notice, knowledge, or a notice or notification received by an
+12 organization is effective for a particular transaction from the time it
+13 is brought to the attention of the individual conducting that
+14 transaction, and in any event from the time it would have been brought to
+15 such individual's his attention if the organization had exercised
+16 reasonable diligence.
+17 (4) For purposes of this section, delivered by electronic means
+18 includes:
+19 (a) Delivery to an electronic mail address at which a tenant or
+20 landlord has consented to receive notices or documents; and
+21 (b) Posting on an electronic network or site accessible via the
+22 Internet, mobile application, computer, mobile device, tablet, or any
+23 other electronic device, together with separate notice of the posting,
+24 which shall be provided by electronic mail to the address at which the
+25 tenant or landlord has consented to receive notices or documents or by
+26 any other delivery method that has been consented to by the tenant or
+27 landlord.
+28 (5) Subject to the requirements of this section, any notice to a
+29 tenant or landlord or any other document required under applicable law
+30 regarding a rental agreement or that is to serve as evidence of action
+31 regarding a rental agreement may be delivered, stored, and presented by
+-5-
+
+LB185 LB185
+2025 2025
+1 electronic means so long as it meets the requirements of the Uniform
+2 Electronic Transactions Act.
+3 (6) Delivery of a notice or document by electronic means in
+4 accordance with this section shall be considered equivalent to any
+5 delivery method required under applicable law, including delivery by
+6 first-class mail, registered mail, certified mail, certificate of
+7 mailing, or a commercial mail delivery service. In any instance in which
+8 proof of receipt is required for a mailing, the electronic delivery
+9 method used shall provide for verification or acknowledgment of receipt.
+10 (7) A notice or document may be delivered by electronic means by a
+11 landlord to a tenant under this section if:
+12 (a) The tenant has affirmatively consented to such method of
+13 delivery and has not withdrawn the consent;
+14 (b) The tenant, before giving consent, is provided with a clear and
+15 conspicuous statement informing the tenant of:
+16 (i) The right of the tenant to withdraw consent to have a notice or
+17 document delivered by electronic means at any time;
+18 (ii) Any conditions or consequences imposed in the event consent is
+19 withdrawn;
+20 (iii) The transactions and types of notices and documents to which
+21 the tenant's consent would apply;
+22 (iv) The right of a tenant to have a notice or document delivered in
+23 paper form by mail and the means, after consent is given, by which a
+24 tenant may obtain a paper copy of a notice or document delivered by
+25 electronic means; and
+26 (v) The procedure a tenant shall follow to withdraw consent to have
+27 a notice or document delivered by electronic means or to update the
+28 tenant's electronic mail address;
+29 (c) The tenant:
+30 (i) Before giving consent, is provided with a statement of the
+31 hardware and software requirements for access to and retention of a
+-6-
+
+LB185 LB185
+2025 2025
+1 notice or document delivered by electronic means; and
+2 (ii) Consents electronically, or confirms consent electronically, in
+3 a manner that reasonably demonstrates that the tenant can access
+4 information in the electronic form that will be used for notices or
+5 documents delivered by electronic means as to which the tenant has given
+6 consent; and
+7 (d) After the tenant consents, if there is a change in the hardware
+8 or software requirements needed to access or retain a notice or document
+9 delivered by electronic means and such change creates a material risk
+10 that the tenant will not be able to access or retain a subsequent notice
+11 or document to which the consent applies, the landlord:
+12 (i) Provides the tenant with a statement that describes:
+13 (A) The revised hardware and software requirements for access to and
+14 retention of a notice or document delivered by electronic means; and
+15 (B) The right of the tenant to withdraw consent without the
+16 imposition of any condition or consequence that was not disclosed at the
+17 time of initial consent; and
+18 (ii) Complies with subdivision (7)(b) of this section.
+19 (8) A notice or document may be delivered by electronic means by a
+20 tenant to a landlord under this section if the landlord has consented to
+21 delivery by electronic means with respect to such tenant.
+22 (9) A landlord shall not, as part of a rental agreement or as a
+23 condition of entering into or renewing a rental agreement, require a
+24 tenant to accept delivery by electronic means.
+25 (10) This section does not affect any requirement related to the
+26 content or timing of any notice or document required under applicable
+27 law.
+28 (11)(a) If any provision of the Uniform Residential Landlord and
+29 Tenant Act or any other applicable law requiring a notice or document to
+30 be provided to a tenant or landlord expressly requires verification or
+31 acknowledgment of receipt of the notice or document, the notice or
+-7-
+
+LB185 LB185
+2025 2025
+1 document may be delivered by electronic means only if the method used
+2 provides for verification or acknowledgment of receipt.
+3 (b)(i) For a notice or document sent by a landlord to a tenant, if
+4 verification or acknowledgment of receipt is not obtained, the notice or
+5 document shall be sent to the tenant by mail as prescribed by the Uniform
+6 Residential Landlord and Tenant Act. If two or more electronic
+7 communications to the tenant are returned as undeliverable during a
+8 thirty-day period, all future communications shall be sent to the tenant
+9 by first-class or other mail as prescribed by law unless and until the
+10 tenant consents electronically, or confirms electronically, in a manner
+11 that reasonably demonstrates that the tenant can access information in
+12 the electronic form that will be used for notices or documents delivered
+13 by electronic means as to which the tenant has given consent.
+14 (ii) For a notice or document sent by a tenant to a landlord, if
+15 verification or acknowledgment of receipt is not obtained, the tenant
+16 shall send the notice or document by any other means prescribed by law.
+17 (12) A withdrawal of consent by a tenant or landlord does not affect
+18 the legal effectiveness, validity, or enforceability of a notice or
+19 document delivered by electronic means to the tenant or landlord before
+20 the withdrawal of consent is effective. A withdrawal of consent by a
+21 tenant or landlord is effective within a reasonable period of time after
+22 receipt of the withdrawal by the other party. Failure by a landlord to
+23 comply with subdivision (7)(d) of this section may be treated, at the
+24 election of the tenant, as a withdrawal of consent for purposes of this
+25 section.
+26 (13) The changes made to this section by this legislative bill do
+27 not apply to a notice or document delivered by electronic means before
+28 the effective date of this act to a tenant or landlord who, before such
+29 date, consented to receive notices or documents by electronic means.
+30 (14) If the consent of a tenant to receive certain notices or
+31 documents by delivery by electronic means is on file with a landlord
+-8-
+
+LB185 LB185
+2025 2025
+1 before the effective date of this act, and pursuant to this section a
+2 landlord intends to deliver by electronic means additional notices or
+3 documents to such tenant, then prior to delivering such additional
+4 notices or documents by electronic means, the landlord shall provide the
+5 tenant with a statement that describes:
+6 (a) The notices or documents that will be delivered by electronic
+7 means that were not previously delivered electronically; and
+8 (b) The tenant's right to withdraw consent to have notices or
+9 documents delivered by electronic means without the imposition of any
+10 condition or consequence that was not disclosed at the time of initial
+11 consent.
+12 (15) A landlord or tenant shall deliver a notice or document by any
+13 other delivery method permitted by law other than electronic means if:
+14 (a) The landlord or tenant attempts to deliver the notice or
+15 document by electronic means and has a reasonable basis for believing
+16 that the notice or document has not been received by the other party; or
+17 (b) The landlord or tenant becomes aware that the electronic mail
+18 address provided by the other party is no longer valid.
+19 (16) This section shall not be construed to modify, limit, or
+20 supersede the federal Electronic Signatures in Global and National
+21 Commerce Act, 15 U.S.C. 7001 et seq., as such act existed on January 1,
+22 2025.
+23 Sec. 3. Section 76-1450, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 76-1450 Sections 76-1450 to 76-14,111 and section 5 of this act
+26 shall be known and may be cited as the Mobile Home Landlord and Tenant
+27 Act.
+28 Sec. 4. Section 76-1457, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 76-1457 As used in the Mobile Home Landlord and Tenant Act, unless
+31 the context otherwise requires, the definitions found in sections 76-1458
+-9-
+
+LB185 LB185
+2025 2025
+1 to 76-1471 and section 5 of this act shall apply.
+2 Sec. 5. Writing or written, when used in reference to a notice or
+3 document to be provided by or to a landlord or tenant, includes a notice
+4 or document provided by electronic means in accordance with section
+5 76-1474.
+6 Sec. 6. Section 76-1474, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 76-1474 (1) A person shall be deemed to have notice of a fact if the
+9 person:
+10 (a) Has has actual knowledge of it; ,
+11 (b) Has has received a notice or notification of it; , or
+12 (c) From from all facts and circumstances known to him or her at the
+13 time in question has reason to know that it exists.
+14 (2) A person notifies or gives a notice or notification to another
+15 by taking steps reasonably calculated to inform the other whether or not
+16 the other actually comes to know of it. A person receives a notice or
+17 notification when:
+18 (a) It it comes to the person's attention; ,
+19 (b) In in the case of the landlord, it is:
+20 (i) Delivered delivered in hand or mailed by United States mail to
+21 the landlord's place of business at which the rental agreement was made
+22 or at any place held out by the landlord as the place for receipt of a
+23 communication or delivered to any individual who is deemed to be an agent
+24 pursuant to section 76-1480; , or
+25 (ii) Delivered by electronic means; or
+26 (c) In in the case of the tenant, it is:
+27 (i) Delivered delivered in hand to the tenant;
+28 (ii) Mailed or mailed by United States mail to the tenant at the
+29 place held out by the tenant as the place for receipt of a communication
+30 or, in the absence of such designation, to the tenant's last-known place
+31 of residence; or .
+-10-
+
+LB185 LB185
+2025 2025
+1 (iii) Delivered by electronic means.
+2 (3) Notice, knowledge, or a notice or notification received by an
+3 organization shall be effective for a particular transaction from the
+4 time it is brought to the attention of the individual conducting the
+5 transaction and in any event from the time it would have been brought to
+6 the person's attention if the organization had exercised reasonable
+7 diligence.
+8 (4) For purposes of this section, delivered by electronic means
+9 includes:
+10 (a) Delivery to an electronic mail address at which a tenant or
+11 landlord has consented to receive notices or documents; and
+12 (b) Posting on an electronic network or site accessible via the
+13 Internet, mobile application, computer, mobile device, tablet, or any
+14 other electronic device, together with separate notice of the posting,
+15 which shall be provided by electronic mail to the address at which the
+16 tenant or landlord has consented to receive notices or documents or by
+17 any other delivery method that has been consented to by the tenant or
+18 landlord.
+19 (5) Subject to the requirements of this section, any notice to a
+20 tenant or landlord or any other document required under applicable law
+21 regarding a rental agreement or that is to serve as evidence of action
+22 regarding a rental agreement may be delivered, stored, and presented by
+23 electronic means so long as it meets the requirements of the Uniform
+24 Electronic Transactions Act.
+25 (6) Delivery of a notice or document by electronic means in
+26 accordance with this section shall be considered equivalent to any
+27 delivery method required under applicable law, including delivery by
+28 first-class mail, registered mail, certified mail, certificate of
+29 mailing, or a commercial mail delivery service. In any instance in which
+30 proof of receipt is required for a mailing, the electronic delivery
+31 method used shall provide for verification or acknowledgment of receipt.
+-11-
+
+LB185 LB185
+2025 2025
+1 (7) A notice or document may be delivered by electronic means by a
+2 landlord to a tenant under this section if:
+3 (a) The tenant has affirmatively consented to such method of
+4 delivery and has not withdrawn the consent;
+5 (b) The tenant, before giving consent, is provided with a clear and
+6 conspicuous statement informing the tenant of:
+7 (i) The right of the tenant to withdraw consent to have a notice or
+8 document delivered by electronic means at any time;
+9 (ii) Any conditions or consequences imposed in the event consent is
+10 withdrawn;
+11 (iii) The transactions and types of notices and documents to which
+12 the tenant's consent would apply;
+13 (iv) The right of a tenant to have a notice or document delivered in
+14 paper form by mail and the means, after consent is given, by which a
+15 tenant may obtain a paper copy of a notice or document delivered by
+16 electronic means; and
+17 (v) The procedure a tenant shall follow to withdraw consent to have
+18 a notice or document delivered by electronic means or to update the
+19 tenant's electronic mail address;
+20 (c) The tenant:
+21 (i) Before giving consent, is provided with a statement of the
+22 hardware and software requirements for access to and retention of a
+23 notice or document delivered by electronic means; and
+24 (ii) Consents electronically, or confirms consent electronically, in
+25 a manner that reasonably demonstrates that the tenant can access
+26 information in the electronic form that will be used for notices or
+27 documents delivered by electronic means as to which the tenant has given
+28 consent; and
+29 (d) After the tenant consents, if there is a change in the hardware
+30 or software requirements needed to access or retain a notice or document
+31 delivered by electronic means and such change creates a material risk
+-12-
+
+LB185 LB185
+2025 2025
+1 that the tenant will not be able to access or retain a subsequent notice
+2 or document to which the consent applies, the landlord:
+3 (i) Provides the tenant with a statement that describes:
+4 (A) The revised hardware and software requirements for access to and
+5 retention of a notice or document delivered by electronic means; and
+6 (B) The right of the tenant to withdraw consent without the
+7 imposition of any condition or consequence that was not disclosed at the
+8 time of initial consent; and
+9 (ii) Complies with subdivision (7)(b) of this section.
+10 (8) A notice or document may be delivered by electronic means by a
+11 tenant to a landlord under this section if the landlord has consented to
+12 delivery by electronic means with respect to such tenant.
+13 (9) A landlord shall not, as part of a rental agreement or as a
+14 condition of entering into or renewing a rental agreement, require a
+15 tenant to accept delivery by electronic means.
+16 (10) This section does not affect any requirement related to the
+17 content or timing of any notice or document required under applicable
+18 law.
+19 (11)(a) If any provision of the Mobile Home Landlord and Tenant Act
+20 or any other applicable law requiring a notice or document to be provided
+21 to a tenant or landlord expressly requires verification or acknowledgment
+22 of receipt of the notice or document, the notice or document may be
+23 delivered by electronic means only if the method used provides for
+24 verification or acknowledgment of receipt.
+25 (b)(i) For a notice or document sent by a landlord to a tenant, if
+26 verification or acknowledgment of receipt is not obtained, the notice or
+27 document shall be sent to the tenant by mail as prescribed by the Mobile
+28 Home Landlord and Tenant Act. If two or more electronic communications to
+29 the tenant are returned as undeliverable during a thirty-day period, all
+30 future communications shall be sent to the tenant by first-class or other
+31 mail as prescribed by law unless and until the tenant consents
+-13-
+
+LB185 LB185
+2025 2025
+1 electronically, or confirms electronically, in a manner that reasonably
+2 demonstrates that the tenant can access information in the electronic
+3 form that will be used for notices or documents delivered by electronic
+4 means as to which the tenant has given consent.
+5 (ii) For a notice or document sent by a tenant to a landlord, if
+6 verification or acknowledgment of receipt is not obtained, the tenant
+7 shall send the notice or document by any other means prescribed by law.
+8 (12) A withdrawal of consent by a tenant or landlord does not affect
+9 the legal effectiveness, validity, or enforceability of a notice or
+10 document delivered by electronic means to the tenant or landlord before
+11 the withdrawal of consent is effective. A withdrawal of consent by a
+12 tenant or landlord is effective within a reasonable period of time after
+13 receipt of the withdrawal by the other party. Failure by a landlord to
+14 comply with subdivision (7)(d) of this section may be treated, at the
+15 election of the tenant, as a withdrawal of consent for purposes of this
+16 section.
+17 (13) The changes made to this section by this legislative bill do
+18 not apply to a notice or document delivered by electronic means before
+19 the effective date of this act to a tenant or landlord who, before such
+20 date, consented to receive notices or documents by electronic means.
+21 (14) If the consent of a tenant to receive certain notices or
+22 documents by delivery by electronic means is on file with a landlord
+23 before the effective date of this act, and pursuant to this section a
+24 landlord intends to deliver by electronic means additional notices or
+25 documents to such tenant, then prior to delivering such additional
+26 notices or documents by electronic means, the landlord shall provide the
+27 tenant with a statement that describes:
+28 (a) The notices or documents that will be delivered by electronic
+29 means that were not previously delivered electronically; and
+30 (b) The tenant's right to withdraw consent to have notices or
+31 documents delivered by electronic means without the imposition of any
+-14-
+
+LB185 LB185
+2025 2025
+1 condition or consequence that was not disclosed at the time of initial
+2 consent.
+3 (15) A landlord or tenant shall deliver a notice or document by any
+4 other delivery method permitted by law other than electronic means if:
+5 (a) The landlord or tenant attempts to deliver the notice or
+6 document by electronic means and has a reasonable basis for believing
+7 that the notice or document has not been received by the other party; or
+8 (b) The landlord or tenant becomes aware that the electronic mail
+9 address provided by the other party is no longer valid.
+10 (16) This section shall not be construed to modify, limit, or
+11 supersede the federal Electronic Signatures in Global and National
+12 Commerce Act, 15 U.S.C. 7001 et seq., as such act existed on January 1,
+13 2025.
+14 Sec. 7. Original sections 76-1413, 76-1450, 76-1457, and 76-1474,
+15 Reissue Revised Statutes of Nebraska, and section 76-1410, Revised
+16 Statutes Cumulative Supplement, 2024, are repealed.
+-15-
+
+[DELETED: yDA7N a s 7 R S CSt u t U R L a T A at M H L a T A t d t thB5L52]
+[DELETED: S27R L a T A a u t c or( A o d v m a a d i s4 s a u s 2 t 2 das0n o e o a v a o s a u1s2( A i r c s s i3e a a o p i w r a d4i5( B a h c i a l o o6g r c f f h o t7c m o o u o a o8a9t l r o o o r o p0t d s w h a m s o1f2(3i u a a h r o s p b o p w4m a h o b t o m p w m a c5h6( G f m h i f i t c o t7t8( H m m a c o a o t t9p0(1u5L52]
+[DELETED: o( O i a c g gs o a b t e t plj(ipo0( P i a i l l c o1o2( Q t p m a o t ( i 3n4R C o a f r I t w g5b i w t b o N a ( h a a6a w t D o H a H S t p7s t v o d v a s a u t8P9(0a1f h o f t u o t g o w u i2p3(4r5(6a l a t a v r a r a u7s8o9(0m b o k f i a s w o o m1m5L52]
+[DELETED: Mo s a i t c o a k m r s os(ao o m w w a d u i i a srnf0( T m a p e u a r a t1o2( W o w w u i r t a n o3d4o d p b e m i a w s576S 2 S 7 R R S o N i7a879(0(1( S p f a f a c k t s2p3t4h5(6b t s r c t i t o i o7c8r9(0(1( D d a t p o b o t l5L52]
+[DELETED: tt((((t h a t p f r o t c o i ta o s d t t t h l p or0(1( N k o a n o n r b a2o3i b t t a o t i c t4t5s i h a i t o h e6r7( F p o t s d b e m8i9( D t a e m a a w a t o0l1( P o a e n o s a v t2I m a c m d t o a3o e d t w s n o t p4w5t6a o d m t h b c t b t t o7l8( S t t r o t s a n t 9t0r1r5L52]
+[DELETED: e m s l a i m t r o t UE( D o a n o d b e m ia w t s s b c e t ad m r u a l i d bf m r m c m c omp o r i r f a m t e dm0(1l2( T t h a c t s m o3d4(5c6(7d8(9w0(1t2(3p f b m a t m a c i g b w 4t m o a p c o a n o d d b5e6(7a n o d d b e m o t u t8t9(0( B g c i p w a s o t1h a s r f a t a r o 5L52]
+[DELETED: n(a m t r d t t t c ai i t e f t w b u f n odc(od b e m a s c c a m r0t1o2(3(4r5( T r o t t t w c w t6i7t8(9(0t1d2( A l s n a p o a r a o a 3c o e i o r a r a r 4t5( T s d n a a r r t t6c o t o a n o d r u a7l8( I a p o t U R L a9T0b1a o r o t n o d t n o5L52]
+[DELETED: d m b d b e m o i t m up(vdR L a T A I t o m ec t t t a r a u d tb0t1t r d t t t c a i i2t3b4( F a n o d s b a t t a l i5v o a o r i n o t t6s7(8t l e v o e o a n o9d0t w o c i e A w o c b 1t2r3c w s ( o t s m b t a t4e5s6(7n8t9d0( I t c o a t t r c n o1d b d b e m i o f w a l5L52]
+[DELETED: b t e d o t a a p t t s l i t d b e m a n od t s t t p t d s ant( T n o d t w b d b em( T t r t w c t h n od d b e m w t i o a0c1c2(3o4( T l o t a t d t n o5d b e m a h a r b f b6t7( T l o t b a t t e m8a9( T s s n b c t m l o0s t f E S i G a N1C223S 3 S 7 R R S o N i4a57 S 7 t 7 a s 5 o t a6s7A8S 4 S 7 R R S o N i9a071t5L52]
+[DELETED: tSdo d p b e m i a w s7S 6 S 7 R R S o N ia7p0(1(2(3t4(5b6t7n8(9(0(1t2o3c4p5(6(7(8( M o m b U S m t t t a t9p0o1o5L52]
+[DELETED: (( N k o a n o n r b ao s b e f a p t f tt i i b t t a o t i c ttt p a i t o h e rd( F p o t s d b e mi0( D t a e m a a w a t o1l2( P o a e n o s a v t3I m a c m d t o a4o e d t w s n o t p5w6t7a o d m t h b c t b t t o8l9( S t t r o t s a n t 0t1r2r3e m s l a i m t r o t U4E5( D o a n o d b e m i6a w t s s b c e t a7d m r u a l i d b8f m r m c m c o9m0p o r i r f a m t e d1m5L52]
+[DELETED: (l( T t h a c t s m od(c(d(0w1(2t3(4p f b m a t m a c i g b w 5t m o a p c o a n o d d b6e7(8a n o d d b e m o t u t9t0(1( B g c i p w a s o t2h a s r f a t a r o 3n4(5a m t r d t t t c a6i i t e f t w b u f n o7d8c9(0o1d b e m a s c c a m r5L52]
+[DELETED: to((r( T r o t t t w c w tit(0(1t2d3( A l s n a p o a r a o a 4c o e i o r a r a r 5t6( T s d n a a r r t t7c o t o a n o d r u a8l9(0o1t2o r o t n o d t n o d m b3d b e m o i t m u p f4v5(6v7d8H9t0f1m a p b l u a u t t c5L52]
+[DELETED: ed t t t c a i i t efm( F a n o d s b a t t a l iv o a o r i n o t ts(t l e v o e o a n o0d1t w o c i e A w o c b 2t3r4c w s ( o t s m b t a t5e6s7(8n9t0d1( I t c o a t t r c n o2d b d b e m i o f w a l3b t e d o t a a p t t s 4l i t d b e m a n o5d t s t t p t d s a6n7t8( T n o d t w b d b e9m0( T t r t w c t h n o1d d b e m w t i o a5L52]
+[DELETED: cc(o( T l o t a t d t n od b e m a h a r b f bt( T l o t b a t t e ma0( T s s n b c t m l o1s t f E S i G a N2C324S5R R S o N a s 7 R6S5L52]

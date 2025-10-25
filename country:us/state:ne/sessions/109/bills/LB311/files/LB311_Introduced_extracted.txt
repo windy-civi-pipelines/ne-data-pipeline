@@ -1,0 +1,189 @@
+Title: LEGISLATIVE BILL 311
+Official Title: LEGISLATIVE BILL 311
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LB311 LB311
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by DeBoer, 10.
+Read first time January 15, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to the Nebraska Telecommunications Regulation
+2 Act; to amend sections 86-111.01 and 86-124, Reissue Revised
+3 Statutes of Nebraska; to redefine a term; to change provisions
+4 relating to nonregulated activities; and to repeal the original
+5 sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB311 LB311
+2025 2025
+1 Section 1. Section 86-111.01, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 86-111.01 Internet-protocol-enabled service or IP-enabled service
+4 means any service, capability, functionality, or application, including
+5 broadband Internet access service as defined in 47 C.F.R. 8.1, as such
+6 section existed on January 1, 2025, provided using Internet protocol, or
+7 any successor protocol, that enables a service user to send or receive a
+8 communication in Internet protocol format, including, but not limited to,
+9 voice, data, or video.
+10 Sec. 2. Section 86-124, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 86-124 (1) The commission shall not regulate the following:
+13 (a) One-way broadcast or cable television transmission of television
+14 or radio signals;
+15 (b) Mobile radio services, radio paging services, and wireless
+16 telecommunications service;
+17 (c) Interexchange services; and
+18 (d) Internet-protocol-enabled service and voice over Internet
+19 protocol service, including rates, service or contract terms, conditions,
+20 or requirements for entry for such service.
+21 (2) The regulation of broadband Internet access service as defined
+22 in 47 C.F.R. 8.1, as such section existed on January 1, 2025, shall be
+23 vested with the Federal Communications Commission and no state agency,
+24 board, or commission or political subdivision of this state shall enact,
+25 adopt, or enforce any law, rule, regulation, or ordinance the effect of
+26 which would be to impose any regulation barred by subdivision (1)(d) of
+27 this section.
+28 (3) (2) This section shall not affect or modify:
+29 (a) The enforcement of criminal or civil laws, including, but not
+30 limited to, laws concerning consumer protection and unfair or deceptive
+31 trade practices which apply generally to the conduct of business;
+-2-
+LB311 LB311
+2025 2025
+1 (b)(i) Any entity's obligations or rights or commission authority
+2 under section 86-122 and under 47 U.S.C. 251 and 252, as such sections
+3 existed on January 1, 2019, and (ii) any carrier-to-carrier tariff rates,
+4 service quality standards, interconnection agreements, or other
+5 obligations for which the commission has jurisdiction under state or
+6 federal law;
+7 (c) Any requirement to contribute to any fund administered by the
+8 commission authorized by the Enhanced Wireless 911 Services Act or the
+9 Nebraska Telecommunications Universal Service Fund Act;
+10 (d) Any commission jurisdiction over intrastate switched access
+11 rates, terms, and conditions, including the resolution of disputes
+12 arising from, and implementation of federal and state law with respect
+13 to, intercarrier compensation;
+14 (e) The eligibility and requirements for the receipt of funds from
+15 the Nebraska Telecommunications Universal Service Fund and the rules,
+16 regulations, and orders under the Nebraska Telecommunications Universal
+17 Service Fund Act or the receipt of funds from the federal universal
+18 service fund, regardless of the unregulated status of the provider's
+19 service under this section;
+20 (f) Any entity's rights and obligations with respect to (i)
+21 registration under section 86-125, (ii) the use of public streets, roads,
+22 highways, and rights-of-way, or (iii) a certificate of public convenience
+23 and necessity or a permit; and
+24 (g) The commission's authority under section 86-1029.04; and .
+25 (h) Any authority delegated to the commission or to any state
+26 agency, including, but not limited to, the Nebraska Broadband Office, to
+27 administer a federal or state broadband grant program under a federal or
+28 state statute, rule, or order.
+29 Sec. 3. Original sections 86-111.01 and 86-124, Reissue Revised
+30 Statutes of Nebraska, are repealed.
+-3-
+[DELETED: yDAA t a s 8 a 8 R RS o N t r a t t c pr t n a a t r t osB1L52]
+[DELETED: Si8 I s o I smbsacv0S 2 S 8 R R S o N i1a283(4o5( M r s r p s a w6t7(8( I s a v o I9p0o1(2i3v w t F C C a n s a4b5a6w7t8(9( T e o c o c l i b n0l1t1L52]
+[DELETED: ( A e o o r o c aues q s i a o oo f w t c h j u s of( A r t c t a f a b tcN0( A c j o i s a1r t a c i t r o d2a3t4(5t N T U S F a t r6r7S F A o t r o f f t f u8s f r o t u s o t p9s0( A e r a o w r t (1r2h3a4(5( A a d t t c o t a s6a7a8s9S 3  O s 8 a 8 R R0S1L52]
+
+
+================================================================================
+
+Raw Text:
+LB311 LB311
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 311
+Introduced by DeBoer, 10.
+Read first time January 15, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to the Nebraska Telecommunications Regulation
+2 Act; to amend sections 86-111.01 and 86-124, Reissue Revised
+3 Statutes of Nebraska; to redefine a term; to change provisions
+4 relating to nonregulated activities; and to repeal the original
+5 sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB311 LB311
+2025 2025
+1 Section 1. Section 86-111.01, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 86-111.01 Internet-protocol-enabled service or IP-enabled service
+4 means any service, capability, functionality, or application, including
+5 broadband Internet access service as defined in 47 C.F.R. 8.1, as such
+6 section existed on January 1, 2025, provided using Internet protocol, or
+7 any successor protocol, that enables a service user to send or receive a
+8 communication in Internet protocol format, including, but not limited to,
+9 voice, data, or video.
+10 Sec. 2. Section 86-124, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 86-124 (1) The commission shall not regulate the following:
+13 (a) One-way broadcast or cable television transmission of television
+14 or radio signals;
+15 (b) Mobile radio services, radio paging services, and wireless
+16 telecommunications service;
+17 (c) Interexchange services; and
+18 (d) Internet-protocol-enabled service and voice over Internet
+19 protocol service, including rates, service or contract terms, conditions,
+20 or requirements for entry for such service.
+21 (2) The regulation of broadband Internet access service as defined
+22 in 47 C.F.R. 8.1, as such section existed on January 1, 2025, shall be
+23 vested with the Federal Communications Commission and no state agency,
+24 board, or commission or political subdivision of this state shall enact,
+25 adopt, or enforce any law, rule, regulation, or ordinance the effect of
+26 which would be to impose any regulation barred by subdivision (1)(d) of
+27 this section.
+28 (3) (2) This section shall not affect or modify:
+29 (a) The enforcement of criminal or civil laws, including, but not
+30 limited to, laws concerning consumer protection and unfair or deceptive
+31 trade practices which apply generally to the conduct of business;
+-2-
+
+LB311 LB311
+2025 2025
+1 (b)(i) Any entity's obligations or rights or commission authority
+2 under section 86-122 and under 47 U.S.C. 251 and 252, as such sections
+3 existed on January 1, 2019, and (ii) any carrier-to-carrier tariff rates,
+4 service quality standards, interconnection agreements, or other
+5 obligations for which the commission has jurisdiction under state or
+6 federal law;
+7 (c) Any requirement to contribute to any fund administered by the
+8 commission authorized by the Enhanced Wireless 911 Services Act or the
+9 Nebraska Telecommunications Universal Service Fund Act;
+10 (d) Any commission jurisdiction over intrastate switched access
+11 rates, terms, and conditions, including the resolution of disputes
+12 arising from, and implementation of federal and state law with respect
+13 to, intercarrier compensation;
+14 (e) The eligibility and requirements for the receipt of funds from
+15 the Nebraska Telecommunications Universal Service Fund and the rules,
+16 regulations, and orders under the Nebraska Telecommunications Universal
+17 Service Fund Act or the receipt of funds from the federal universal
+18 service fund, regardless of the unregulated status of the provider's
+19 service under this section;
+20 (f) Any entity's rights and obligations with respect to (i)
+21 registration under section 86-125, (ii) the use of public streets, roads,
+22 highways, and rights-of-way, or (iii) a certificate of public convenience
+23 and necessity or a permit; and
+24 (g) The commission's authority under section 86-1029.04; and .
+25 (h) Any authority delegated to the commission or to any state
+26 agency, including, but not limited to, the Nebraska Broadband Office, to
+27 administer a federal or state broadband grant program under a federal or
+28 state statute, rule, or order.
+29 Sec. 3. Original sections 86-111.01 and 86-124, Reissue Revised
+30 Statutes of Nebraska, are repealed.
+-3-
+
+[DELETED: yDAA t a s 8 a 8 R RS o N t r a t t c pr t n a a t r t osB1L52]
+[DELETED: Si8 I s o I smbsacv0S 2 S 8 R R S o N i1a283(4o5( M r s r p s a w6t7(8( I s a v o I9p0o1(2i3v w t F C C a n s a4b5a6w7t8(9( T e o c o c l i b n0l1t1L52]
+[DELETED: ( A e o o r o c aues q s i a o oo f w t c h j u s of( A r t c t a f a b tcN0( A c j o i s a1r t a c i t r o d2a3t4(5t N T U S F a t r6r7S F A o t r o f f t f u8s f r o t u s o t p9s0( A e r a o w r t (1r2h3a4(5( A a d t t c o t a s6a7a8s9S 3  O s 8 a 8 R R0S1L52]

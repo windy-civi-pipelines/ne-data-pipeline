@@ -1,0 +1,337 @@
+Title: LEGISLATIVE BILL 528
+Official Title: LEGISLATIVE BILL 528
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB528 LB528
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Jacobson, 42.
+Read first time January 22, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to learning platforms; to amend section
+2 79-1054, Reissue Revised Statutes of Nebraska; to define terms; to
+3 change provisions relating to grants funded from the State
+4 Department of Education Improvement Grant Fund; to provide powers
+5 and duties to the Department of Economic Development relating to
+6 grants for learning platforms; to eliminate obsolete provisions; and
+7 to repeal the original section.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+LB528 LB528
+2025 2025
+1 Section 1. Section 79-1054, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-1054 (1)(a) This subsection applies until July 1, 2024.
+4 (b) The State Board of Education shall establish a competitive
+5 innovation grant program with funding from the Nebraska Education
+6 Improvement Fund pursuant to section 79-3501. Grantees shall be a school
+7 district, an educational service unit, or a combination of entities that
+8 includes at least one school district or educational service unit. For
+9 grantees that consist of a combination of entities, a participating
+10 school district or educational service unit shall be designated to act as
+11 the fiscal agent and administer the program funded by the grant. The
+12 state board shall only award grants pursuant to applications that the
+13 state board deems to be sufficiently innovative and to have a high chance
+14 of success.
+15 (c) An application for a grant pursuant to this subsection shall
+16 describe:
+17 (i) Specific measurable objectives for improving education outcomes
+18 for early childhood students, elementary students, middle school
+19 students, or high school students or for improving the transitions
+20 between any successive stages of education or between education and the
+21 workforce;
+22 (ii) The method for annually evaluating progress toward a measurable
+23 objective, with a summative evaluation of progress submitted to the state
+24 board and electronically to the Education Committee of the Legislature on
+25 or before July 1, 2019;
+26 (iii) The potential for the project to be both scalable and
+27 replicable; and
+28 (iv) Any cost savings that could be achieved by reductions in other
+29 programs if the funded program is successful.
+30 (d) Based on evaluations received on or before July 1, 2019, for
+31 each grant, the State Board of Education shall recommend the grant
+-2-
+LB528 LB528
+2025 2025
+1 project as:
+2 (i) Representing a best practice;
+3 (ii) A model for a state-supported program; or
+4 (iii) A local issue for further study.
+5 (e) On or before December 1, 2017, and on or before December 1 of
+6 each year thereafter, the state board shall electronically submit a
+7 report to the Clerk of the Legislature on all such grants, including, but
+8 not limited to, the results of the evaluations for each grant. The state
+9 board may adopt and promulgate rules and regulations to carry out this
+10 subsection, including, but not limited to, application procedures,
+11 selection procedures, and annual evaluation reporting procedures.
+12 (1)(a) (2)(a) This subsection applies beginning July 1, 2024.
+13 (b) The State Board of Education shall establish an improvement
+14 grant program in areas including, but not limited to, (i) teacher
+15 recruitment and retention, (ii) improvement for schools and school
+16 districts, (iii) improvement in student performance in the subject areas
+17 of reading and mathematics, and (iv) other improvement areas identified
+18 by the state board. Such grants shall be funded using lottery funds under
+19 section 79-3501.
+20 (c) On or before December 1 of each calendar year, the state board
+21 shall electronically submit a report to the Clerk of the Legislature on
+22 all such grant programs, including, but not limited to, the recipients of
+23 the programs and evaluations of the effectiveness of each grant program.
+24 The state board may adopt and promulgate rules and regulations to carry
+25 out this subsection.
+26 (2)(a) (3)(a) This subsection applies beginning January 1, 2024.
+27 (b) For purposes of this subsection: ,
+28 (i) Department means the Department of Economic Development; and
+29 (ii) Learning learning platform means a three-dimensional, game-
+30 based learning platform for use by middle school and high school
+31 students.
+-3-
+LB528 LB528
+2025 2025
+1 (c)(i) The department State Board of Education shall establish a
+2 grant program to procure or purchase an annual license for a preexisting
+3 learning platform platforms for use in schools to engage students in
+4 coursework and careers in science, technology, and engineering , and
+5 mathematics. Such grants shall be funded using lottery funds pursuant to
+6 section 79-3501. Grant funds shall only be used to procure or purchase an
+7 annual license and shall not be awarded for the purpose of research and
+8 development of a learning platform.
+9 (ii) The State Board of Education shall establish standards that a
+10 learning platform shall meet in the subject areas of chemistry, physical
+11 science, and mathematics. The department state board shall develop the
+12 criteria to prioritize the grant applications.
+13 (iii)(A) (iii) A developer may apply to the department Commissioner
+14 of Education in a manner prescribed by the department state board for a
+15 grant under this subsection for a learning platform that:
+16 (I) (A) Is designed to teach information related to chemistry,
+17 physical science, or mathematics;
+18 (II) (B) Aligns with the academic content standards established by
+19 the State Board of Education state board relating to high school
+20 chemistry or , physical science and the equivalent of such standards used
+21 for middle school education , or mathematics;
+22 (III) (C) Connects such standards with real-world technologies and
+23 applications;
+24 (IV) (D) Highlights science, technology, and engineering , and
+25 mathematics career pathways in Nebraska; and
+26 (V) Complies with the ISO 27001 data security standards; and (E)
+27 Meets any additional requirements set out by the State Board of
+28 Education.
+29 (VI) Demonstrates experience with statewide implementation of a
+30 learning platform.
+31 (B) A grant application approved by the Department of Economic
+-4-
+LB528 LB528
+2025 2025
+1 Development shall be awarded from the State Department of Education
+2 Improvement Grant Fund administered by the State Department of Education.
+3 (iv) Any developer that receives a grant under this subsection shall
+4 provide access to and use of its learning platform to all Nebraska school
+5 districts.
+6 (v) Any grant awarded pursuant to this subsection shall be awarded
+7 by July 1 of each year.
+8 (d) On or before December 1 of each calendar year, the Department of
+9 Economic Development state board shall electronically submit a report to
+10 the Clerk of the Legislature on the grant program, including, but not
+11 limited to, the recipients of the program and evaluations of the
+12 effectiveness of the grant program. The department State Board of
+13 Education may adopt and promulgate rules and regulations to carry out
+14 this subsection.
+15 (3)(a) (4)(a) The State Department of Education Improvement Grant
+16 Fund is created. The fund shall be administered by the State Department
+17 of Education and shall consist of transfers pursuant to section 79-3501,
+18 repayments of grant funds, and interest payments received in the course
+19 of administering this section. The fund shall be used to carry out this
+20 section. Transfers may be made from the fund to the Education Future Fund
+21 at the direction of the Legislature. Any money in the State Department of
+22 Education Improvement Grant Fund available for investment shall be
+23 invested by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act.
+25 (b) Of the ten percent of funds transferred to the fund pursuant to
+26 section 79-3501, eight and three-fourths percent shall be used for
+27 improvement grants pursuant to subsection (2) (3) of this section and the
+28 remaining one and one-fourth percent shall be used for grants pursuant to
+29 subsection (1) (2) of this section.
+30 Sec. 2. Original section 79-1054, Reissue Revised Statutes of
+31 Nebraska, is repealed.
+-5-
+[DELETED: yJA B F A A r t l p t a s7c p r t g f f t SD o E I G F t p pa d t t D o E D r tgtB8L52]
+[DELETED: Sa7( T S B o E s e a ci g p w f f t N EIdig t c o a c o e a p0s1t f a a a t p f b t g T2s b s o a g p t a t t3s4o5( A a f a g p t t s s6d7(8f e c s e s m s9s o h s s o f i t t0b1w2(3o4b5o6( T p f t p t b b s a7r8(9p0( B o e r o o b J 1 2 f1e g t S B o E s r t g8L52]
+[DELETED: p((((e y t t s b s e s rnb0s i b n l t a p1s2(3( T S B o E s e a i4g p i a i b n l t ( t5r a r ( i f s a s6d7o8b9s0(1s2a3t4T5o6(7(8(9( L l p m a t g0b l p f u b m s a h s1s8L52]
+[DELETED: ( T d S B o E s e gl p p f u i s t e s ic a c i s t a e , amsad(0l1s a m T d s b s d t2c3(4o5g6( ( I d t t i r t c7p8(9t S B o E s b r t h s0c1f2(3a4( ( H s t a e , a5m6( C w t I 2 d s s a (7M a a r s o b t S B o8E9( D e w s i o 0l1( A g a a b t D o E8L52]
+[DELETED: D s b a f t S D o EI(pd(b(E0t C o t L o t g p i b n1l t t r o t p a e o t2e o t g p T d S B o3E m a a p r a r t c o4t5( ( T S D o E I G6F7o8r9o0s1a2E I G F a f i s b3i4E5(6s 7 e a t p s b u f7i8r9s0S 2  O s 7 R R S o1N8L52]
+
+
+================================================================================
+
+Raw Text:
+LB528 LB528
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 528
+Introduced by Jacobson, 42.
+Read first time January 22, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to learning platforms; to amend section
+2 79-1054, Reissue Revised Statutes of Nebraska; to define terms; to
+3 change provisions relating to grants funded from the State
+4 Department of Education Improvement Grant Fund; to provide powers
+5 and duties to the Department of Economic Development relating to
+6 grants for learning platforms; to eliminate obsolete provisions; and
+7 to repeal the original section.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB528 LB528
+2025 2025
+1 Section 1. Section 79-1054, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-1054 (1)(a) This subsection applies until July 1, 2024.
+4 (b) The State Board of Education shall establish a competitive
+5 innovation grant program with funding from the Nebraska Education
+6 Improvement Fund pursuant to section 79-3501. Grantees shall be a school
+7 district, an educational service unit, or a combination of entities that
+8 includes at least one school district or educational service unit. For
+9 grantees that consist of a combination of entities, a participating
+10 school district or educational service unit shall be designated to act as
+11 the fiscal agent and administer the program funded by the grant. The
+12 state board shall only award grants pursuant to applications that the
+13 state board deems to be sufficiently innovative and to have a high chance
+14 of success.
+15 (c) An application for a grant pursuant to this subsection shall
+16 describe:
+17 (i) Specific measurable objectives for improving education outcomes
+18 for early childhood students, elementary students, middle school
+19 students, or high school students or for improving the transitions
+20 between any successive stages of education or between education and the
+21 workforce;
+22 (ii) The method for annually evaluating progress toward a measurable
+23 objective, with a summative evaluation of progress submitted to the state
+24 board and electronically to the Education Committee of the Legislature on
+25 or before July 1, 2019;
+26 (iii) The potential for the project to be both scalable and
+27 replicable; and
+28 (iv) Any cost savings that could be achieved by reductions in other
+29 programs if the funded program is successful.
+30 (d) Based on evaluations received on or before July 1, 2019, for
+31 each grant, the State Board of Education shall recommend the grant
+-2-
+
+LB528 LB528
+2025 2025
+1 project as:
+2 (i) Representing a best practice;
+3 (ii) A model for a state-supported program; or
+4 (iii) A local issue for further study.
+5 (e) On or before December 1, 2017, and on or before December 1 of
+6 each year thereafter, the state board shall electronically submit a
+7 report to the Clerk of the Legislature on all such grants, including, but
+8 not limited to, the results of the evaluations for each grant. The state
+9 board may adopt and promulgate rules and regulations to carry out this
+10 subsection, including, but not limited to, application procedures,
+11 selection procedures, and annual evaluation reporting procedures.
+12 (1)(a) (2)(a) This subsection applies beginning July 1, 2024.
+13 (b) The State Board of Education shall establish an improvement
+14 grant program in areas including, but not limited to, (i) teacher
+15 recruitment and retention, (ii) improvement for schools and school
+16 districts, (iii) improvement in student performance in the subject areas
+17 of reading and mathematics, and (iv) other improvement areas identified
+18 by the state board. Such grants shall be funded using lottery funds under
+19 section 79-3501.
+20 (c) On or before December 1 of each calendar year, the state board
+21 shall electronically submit a report to the Clerk of the Legislature on
+22 all such grant programs, including, but not limited to, the recipients of
+23 the programs and evaluations of the effectiveness of each grant program.
+24 The state board may adopt and promulgate rules and regulations to carry
+25 out this subsection.
+26 (2)(a) (3)(a) This subsection applies beginning January 1, 2024.
+27 (b) For purposes of this subsection: ,
+28 (i) Department means the Department of Economic Development; and
+29 (ii) Learning learning platform means a three-dimensional, game-
+30 based learning platform for use by middle school and high school
+31 students.
+-3-
+
+LB528 LB528
+2025 2025
+1 (c)(i) The department State Board of Education shall establish a
+2 grant program to procure or purchase an annual license for a preexisting
+3 learning platform platforms for use in schools to engage students in
+4 coursework and careers in science, technology, and engineering , and
+5 mathematics. Such grants shall be funded using lottery funds pursuant to
+6 section 79-3501. Grant funds shall only be used to procure or purchase an
+7 annual license and shall not be awarded for the purpose of research and
+8 development of a learning platform.
+9 (ii) The State Board of Education shall establish standards that a
+10 learning platform shall meet in the subject areas of chemistry, physical
+11 science, and mathematics. The department state board shall develop the
+12 criteria to prioritize the grant applications.
+13 (iii)(A) (iii) A developer may apply to the department Commissioner
+14 of Education in a manner prescribed by the department state board for a
+15 grant under this subsection for a learning platform that:
+16 (I) (A) Is designed to teach information related to chemistry,
+17 physical science, or mathematics;
+18 (II) (B) Aligns with the academic content standards established by
+19 the State Board of Education state board relating to high school
+20 chemistry or , physical science and the equivalent of such standards used
+21 for middle school education , or mathematics;
+22 (III) (C) Connects such standards with real-world technologies and
+23 applications;
+24 (IV) (D) Highlights science, technology, and engineering , and
+25 mathematics career pathways in Nebraska; and
+26 (V) Complies with the ISO 27001 data security standards; and (E)
+27 Meets any additional requirements set out by the State Board of
+28 Education.
+29 (VI) Demonstrates experience with statewide implementation of a
+30 learning platform.
+31 (B) A grant application approved by the Department of Economic
+-4-
+
+LB528 LB528
+2025 2025
+1 Development shall be awarded from the State Department of Education
+2 Improvement Grant Fund administered by the State Department of Education.
+3 (iv) Any developer that receives a grant under this subsection shall
+4 provide access to and use of its learning platform to all Nebraska school
+5 districts.
+6 (v) Any grant awarded pursuant to this subsection shall be awarded
+7 by July 1 of each year.
+8 (d) On or before December 1 of each calendar year, the Department of
+9 Economic Development state board shall electronically submit a report to
+10 the Clerk of the Legislature on the grant program, including, but not
+11 limited to, the recipients of the program and evaluations of the
+12 effectiveness of the grant program. The department State Board of
+13 Education may adopt and promulgate rules and regulations to carry out
+14 this subsection.
+15 (3)(a) (4)(a) The State Department of Education Improvement Grant
+16 Fund is created. The fund shall be administered by the State Department
+17 of Education and shall consist of transfers pursuant to section 79-3501,
+18 repayments of grant funds, and interest payments received in the course
+19 of administering this section. The fund shall be used to carry out this
+20 section. Transfers may be made from the fund to the Education Future Fund
+21 at the direction of the Legislature. Any money in the State Department of
+22 Education Improvement Grant Fund available for investment shall be
+23 invested by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act.
+25 (b) Of the ten percent of funds transferred to the fund pursuant to
+26 section 79-3501, eight and three-fourths percent shall be used for
+27 improvement grants pursuant to subsection (2) (3) of this section and the
+28 remaining one and one-fourth percent shall be used for grants pursuant to
+29 subsection (1) (2) of this section.
+30 Sec. 2. Original section 79-1054, Reissue Revised Statutes of
+31 Nebraska, is repealed.
+-5-
+
+[DELETED: yJA B F A A r t l p t a s7c p r t g f f t SD o E I G F t p pa d t t D o E D r tgtB8L52]
+[DELETED: Sa7( T S B o E s e a ci g p w f f t N EIdig t c o a c o e a p0s1t f a a a t p f b t g T2s b s o a g p t a t t3s4o5( A a f a g p t t s s6d7(8f e c s e s m s9s o h s s o f i t t0b1w2(3o4b5o6( T p f t p t b b s a7r8(9p0( B o e r o o b J 1 2 f1e g t S B o E s r t g8L52]
+[DELETED: p((((e y t t s b s e s rnb0s i b n l t a p1s2(3( T S B o E s e a i4g p i a i b n l t ( t5r a r ( i f s a s6d7o8b9s0(1s2a3t4T5o6(7(8(9( L l p m a t g0b l p f u b m s a h s1s8L52]
+[DELETED: ( T d S B o E s e gl p p f u i s t e s ic a c i s t a e , amsad(0l1s a m T d s b s d t2c3(4o5g6( ( I d t t i r t c7p8(9t S B o E s b r t h s0c1f2(3a4( ( H s t a e , a5m6( C w t I 2 d s s a (7M a a r s o b t S B o8E9( D e w s i o 0l1( A g a a b t D o E8L52]
+[DELETED: D s b a f t S D o EI(pd(b(E0t C o t L o t g p i b n1l t t r o t p a e o t2e o t g p T d S B o3E m a a p r a r t c o4t5( ( T S D o E I G6F7o8r9o0s1a2E I G F a f i s b3i4E5(6s 7 e a t p s b u f7i8r9s0S 2  O s 7 R R S o1N8L52]

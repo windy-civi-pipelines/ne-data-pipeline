@@ -1,0 +1,1502 @@
+Title: LEGISLATIVE BILL 311
+Official Title: LEGISLATIVE BILL 311
+Number of Sections: 1
+Source: versions - Final Reading
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+LB311 LB311
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+FINAL READING
+Introduced by DeBoer, 10.
+Read first time January 15, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to law; to amend sections 75-342, 76-2325.01,
+2 86-111.01, 86-124, 86-704, and 86-1505, Reissue Revised Statutes of
+3 Nebraska, and sections 75-109.01 and 75-311, Revised Statutes
+4 Cumulative Supplement, 2024; to adopt the Telecommunications
+5 Exchange Deregulation Act; to provide certain restrictions on
+6 governing entities as prescribed; to change provisions relating to
+7 jurisdiction of the Public Service Commission; to change and provide
+8 provisions relating to certificates of public convenience and
+9 necessity, permits for certain common or contract carriers, medicaid
+10 nonemergency medical transportation services and certificates of
+11 authority, and certain transportation network companies and
+12 participating drivers; to provide duties for the Public Service
+13 Commission; to provide penalties for interference with certain
+14 facilities of broadband, communications, and wireless infrastructure
+15 companies; to redefine terms and change provisions of the Nebraska
+16 Telecommunications Regulation Act; to change provisions relating to
+17 telecommunications companies and governing entities as prescribed;
+18 to change provisions of the Rural Communications Sustainability Act;
+19 to eliminate requirements relating to issuance of securities by a
+20 common carrier; to provide operative dates; to repeal the original
+21 sections; to outright repeal section 75-148; and to declare an
+22 emergency.
+-1-
+LB311 LB311
+2025 2025
+1 Be it enacted by the people of the State of Nebraska,
+-2-
+LB311 LB311
+2025 2025
+1 Section 1. Sections 1 to 11 of this act shall be known and may be
+2 cited as the Telecommunications Exchange Deregulation Act.
+3 Sec. 2. For purposes of the Telecommunications Exchange
+4 Deregulation Act:
+5 (1) Carrier of last resort means a facilities-based
+6 telecommunications company, as determined by the commission, not
+7 inconsistent with the federal Telecommunications Act of 1996, which
+8 receives or has received high-cost support from the federal Universal
+9 Service Fund or the Nebraska Telecommunications Universal Service Fund
+10 and has the obligation to provide voice communications service, upon
+11 reasonable request, to all residential and single-line business customers
+12 within a defined service or geographic area;
+13 (2) Commission means the Public Service Commission;
+14 (3) Deregulated carrier means an electing local exchange carrier for
+15 which all of such carrier's markets have been deregulated;
+16 (4) Electing local exchange carrier means a telecommunications
+17 company holding a certificate to offer local exchange telecommunications
+18 services within Nebraska issued on or before February 8, 1996, or a
+19 carrier that has received a certificate in conjunction with the
+20 acquisition of a certificate issued on or before February 8, 1996;
+21 (5) Transitioning carrier means an electing local exchange carrier
+22 for which at least one, but not all, of such carrier's exchanges has been
+23 deregulated; and
+24 (6) Voice communications service means (a) the transmission,
+25 conveyance, or routing of real-time, two-way voice communications to a
+26 point or between or among points by or through any electronic, radio,
+27 satellite, cable, optical, microwave, wireline, wireless, or other medium
+28 or method, regardless of the protocol used, (b) the ability to receive
+29 and terminate voice calls to and from the public switched telephone
+30 network, or (c) voice over Internet protocol service as defined in
+31 section 86-121.01.
+-3-
+LB311 LB311
+2025 2025
+1 Sec. 3. (1) The commission may require disclosure of information
+2 from telecommunications carriers as necessary to implement and enforce
+3 the Telecommunications Exchange Deregulation Act.
+4 (2) The commission may maintain the confidentiality of any
+5 information collected under the Telecommunications Exchange Deregulation
+6 Act that is claimed to be confidential for containing proprietary or
+7 commercial information and withhold such information from public
+8 disclosure pursuant to subdivision (3) of section 84-712.05.
+9 (3) The Telecommunications Exchange Deregulation Act shall not
+10 affect or modify:
+11 (a) The enforcement of criminal or civil laws, including, but not
+12 limited to, laws concerning consumer protection and unfair or deceptive
+13 trade practices which apply generally to the conduct of business;
+14 (b) Any entity's obligations or rights or commission authority under
+15 section 86-122 and under 47 U.S.C. 251 and 252, as such sections existed
+16 on January 1, 2019, and any carrier-to-carrier tariff rates, wholesale
+17 service quality standards, interconnection agreements, or other
+18 obligations for which the commission has jurisdiction under state or
+19 federal law;
+20 (c) Any requirement to contribute to any fund administered by the
+21 commission authorized by the 911 Service System Act, the
+22 Telecommunications Relay System Act, or the Nebraska Telecommunications
+23 Universal Service Fund Act;
+24 (d) Any commission jurisdiction over intrastate switched access
+25 rates, terms, and conditions, including the resolution of disputes
+26 arising from, and implementation of federal and state law with respect
+27 to, intercarrier compensation;
+28 (e) The eligibility and requirements for the receipt of funds from
+29 the Nebraska Telecommunications Universal Service Fund and the rules,
+30 regulations, and orders under the Nebraska Telecommunications Universal
+31 Service Fund Act or the receipt of funds from the federal Universal
+-4-
+LB311 LB311
+2025 2025
+1 Service Fund, regardless of the unregulated status of the provider's
+2 service under the Telecommunications Exchange Deregulation Act;
+3 (f) Any entity's rights and obligations with respect to (i)
+4 registration under section 86-125, (ii) the use of public streets, roads,
+5 highways, and rights-of-way, or (iii) a certificate of public convenience
+6 and necessity or a permit;
+7 (g) The commission's authority under the 911 Service System Act or
+8 the Telecommunications Relay System Act;
+9 (h) Any provision of the Rural Communications Sustainability Act;
+10 and
+11 (i) The commission's authority to apply or enforce statutory or
+12 regulatory provisions against an incumbent local exchange carrier in a
+13 deregulated exchange if such statutory or regulatory provisions could
+14 otherwise be applicable to a competitive local exchange carrier.
+15 Sec. 4. (1) Notwithstanding any other provisions of Chapters 75 and
+16 86, only an electing local exchange carrier may initiate a proceeding to
+17 deregulate one of such carrier's exchanges. The commission may hold a
+18 hearing on the application and receive testimony from the applicant and
+19 any other interested person. No later than one hundred twenty days after
+20 the date the commission receives an application to initiate such
+21 proceeding, the commission shall determine whether the regulated exchange
+22 should be deregulated or remain regulated and issue a final order
+23 classifying the exchange in accordance with this section. An electing
+24 local exchange carrier may file an application with the commission to
+25 deregulate an exchange of the carrier that the commission previously
+26 determined should remain regulated upon a material change in the exchange
+27 including the entrance of additional carriers providing voice
+28 communications service by carriers previously operating in the exchange.
+29 The commission may set an application fee at an amount to cover the
+30 commission's cost of processing such application.
+31 (2)(a) In making a determination under subsection (1) of this
+-5-
+LB311 LB311
+2025 2025
+1 section, the commission shall presume that an exchange is competitive and
+2 that deregulation of the exchange is in the public interest if, in
+3 addition to the electing local exchange carrier, there are at least two
+4 other carriers, including one wireline or cable carrier, providing voice
+5 communications service in at least ninety percent of the household
+6 locations outside of tribal areas known at the time of application in the
+7 exchange. The presumption may be rebutted by evidence sufficient to
+8 determine that:
+9 (i) More than ten percent of the household locations outside of
+10 tribal areas known at the time of application in the exchange do not
+11 have, in addition to the electing local exchange carrier, at least two
+12 other carriers, including one wireline or cable carrier, providing voice
+13 communications service; or
+14 (ii) Household locations outside of tribal areas known at the time
+15 of application in the exchange have no carrier other than the electing
+16 local exchange carrier capable of providing voice communications service
+17 to locations known at the time of application. For purposes of this
+18 subdivision (2)(a)(ii), voice communications shall not include the
+19 transmission, conveyance, or routing of real-time, two-way voice
+20 communications to a point or between or among points by or through
+21 satellite.
+22 (b) In making a determination under subsection (1) of this section,
+23 the commission may determine that an exchange should be deregulated if,
+24 in addition to the electing local exchange carrier, at least two other
+25 carriers are providing, or are capable of providing, voice communications
+26 service in at least seventy-five percent of the household locations
+27 outside of tribal areas known at the time of application in the exchange.
+28 (c) In determining whether household locations are capable of being
+29 provided voice communications services by a carrier other than the
+30 electing local exchange carrier, the commission shall consider evidence
+31 related to vacant locations, declination of service to the location, and
+-6-
+LB311 LB311
+2025 2025
+1 other evidence related to inaccuracies in the Federal Communications
+2 Commission's Broadband Data Collection or other data related to service
+3 capability for the location.
+4 (d) For the purposes of this subsection, an electing local exchange
+5 carrier may rely on data available to the carrier regarding the voice
+6 communications service capability, including, but not limited to, data
+7 from the Federal Communications Commission's Broadband Data Collection
+8 that is available at the time of the application.
+9 (e) If the commission deregulates an exchange under this section and
+10 the deregulation results in a regulated carrier no longer regulated or a
+11 transitioning carrier no longer meeting the definition of a transitioning
+12 carrier, the commission shall issue an order reclassifying such carrier
+13 as a deregulated carrier.
+14 Sec. 5. (1) A deregulated carrier is not required to:
+15 (a) Fulfill the obligations of a carrier of last resort;
+16 (b) Comply with standards or reporting requirements related to
+17 quality of retail service;
+18 (c) Comply with restrictions on rates for retail telecommunications
+19 services, including advanced telecommunications services, unless the
+20 restrictions are a condition of receiving grant funds administered by the
+21 commission or imposed for compliance with sections 86-139 to 86-157; or
+22 (d) File an earnings report with the commission.
+23 (2) The commission shall not provide a deregulated carrier with any
+24 funds from the Nebraska Telecommunications Universal Service Fund.
+25 (3) Notwithstanding any other provisions of Chapter 86, the
+26 commission shall have only the authority over a deregulated carrier
+27 provided under the Telecommunications Exchange Deregulation Act. If there
+28 is a conflict between the Telecommunications Exchange Deregulation Act
+29 and the other applicable provisions of Chapter 86, the Telecommunications
+30 Exchange Deregulation Act shall control.
+31 (4) Nothing in this section affects the continuing applicability of
+-7-
+LB311 LB311
+2025 2025
+1 sections 86-122 to 86-124.
+2 (5) The commission may receive, mediate, and hear complaints filed
+3 by any retail or wholesale customers against a deregulated carrier that
+4 are in the scope of the commission's authority provided under Chapter 86.
+5 (6) A telecommunications company or communications provider shall
+6 not be required to fulfill the obligations of a carrier of last resort in
+7 an exchange that has been deregulated, unless such telecommunications
+8 company or communications provider consents to fulfilling such
+9 obligations.
+10 Sec. 6. Except as provided by section 7 of this act, a
+11 transitioning carrier is governed by the Telecommunications Exchange
+12 Deregulation Act and the provisions of Chapters 75 and 86 that applied to
+13 the carrier immediately before the date the carrier was classified as a
+14 transitioning carrier. If there is a conflict between the
+15 Telecommunications Exchange Deregulation Act and other applicable
+16 provisions of Chapter 86, the Telecommunications Exchange Deregulation
+17 Act shall control.
+18 Sec. 7. (1) A transitioning carrier is no longer required to do the
+19 following in the deregulated exchange:
+20 (a) Fulfill the obligations of a carrier of last resort;
+21 (b) Comply with standards or reporting requirements related to
+22 quality of retail service; or
+23 (c) Comply with a pricing requirement for retail service unless the
+24 requirement is a condition of receiving grant funds administered by the
+25 commission.
+26 (2) A transitioning carrier is not eligible to receive funds from
+27 the Nebraska Telecommunications Universal Service Fund for deregulated
+28 exchanges and the commission shall, to the extent feasible in the funding
+29 formula, reduce a transitioning carrier's allocation of funds from the
+30 Nebraska Telecommunications Universal Service Fund to account for
+31 deregulated exchanges.
+-8-
+LB311 LB311
+2025 2025
+1 Sec. 8. In an exchange that remains regulated, a transitioning
+2 carrier shall price the carrier's retail services in accordance with the
+3 provisions that applied to that carrier immediately before the date the
+4 carrier was classified by the commission as a transitioning carrier.
+5 Sec. 9. Nothing in the Telecommunications Exchange Deregulation Act
+6 shall relieve a telecommunications or communications provider from the
+7 requirements in section 86-124.
+8 Sec. 10. A telecommunications company seeking to discontinue
+9 service in a deregulated exchange shall be exempt from subdivision (1)(a)
+10 of section 86-134. A telecommunications company seeking to discontinue
+11 service in a deregulated exchange shall be solely subject to subdivision
+12 (1)(b) of section 86-134.
+13 Sec. 11. The commission may adopt and promulgate rules and
+14 regulations and conduct any proceedings necessary to administer and
+15 enforce the Telecommunications Exchange Deregulation Act, including rules
+16 and regulations to determine whether an exchange should remain regulated,
+17 be deregulated, or be reregulated.
+18 Sec. 12. (1) For purposes of this section:
+19 (a) Action means any law, rule, regulation, ordinance, resolution,
+20 or similar action by a governing entity;
+21 (b) Governing entity means (i) a state agency acting in any capacity
+22 and (ii) an agency, municipality, county, member of the public power
+23 industry, or other political subdivision that has jurisdiction over any
+24 portion of a public right-of-way or infrastructure;
+25 (c) Infrastructure means any land, easements, conduits, poles,
+26 towers, structures, and related facilities owned and managed by a
+27 governing entity;
+28 (d) Internet-protocol-enabled service has the same meaning as in
+29 section 86-111.01;
+30 (e) Provider means a provider of telecommunications service or
+31 Internet-protocol-enabled service;
+-9-
+LB311 LB311
+2025 2025
+1 (f) Public power industry has the same meaning as in section 70-601;
+2 (g) Public right-of-way means any right-of-way located in a highway
+3 as defined in section 60-624;
+4 (h) Telecommunications company has the same meaning as in section
+5 86-119;
+6 (i) Telecommunications service has the same meaning as in section
+7 86-121; and
+8 (j) Voice over Internet protocol service has the same meaning as in
+9 section 86-121.01.
+10 (2) No governing entity shall enact, adopt, or enforce any action
+11 the effect of which would be to:
+12 (a) Impose any regulation barred by subdivision (1)(d) of section
+13 86-124, including by conditioning any contract or grant upon acceptance
+14 of conditions constituting such regulation with respect to any service
+15 not offered under such contract or grant;
+16 (b) Impose any regulation on a provider that is preempted by federal
+17 law or on a telecommunications company that is prohibited by subsection
+18 (3) of section 86-123; or
+19 (c) Condition access to infrastructure or a public right-of-way upon
+20 any regulation of or acceptance of conditions regulating
+21 telecommunications service, Internet-protocol-enabled service, voice over
+22 Internet protocol service, rates, service, or service contract terms or
+23 conditions or by providing requirements inconsistent with section 86-704.
+24 (3) This section shall not affect or modify:
+25 (a) Any matter excluded from the scope of section 86-124 by
+26 subsection (2) thereof;
+27 (b) Any entity's rights, privileges, duties, and obligations with
+28 respect to the use of a public right-of-way or infrastructure;
+29 (c) The authority of the Public Service Commission under the 911
+30 Service System Act;
+31 (d) Any authority delegated to the Public Service Commission or to
+-10-
+LB311 LB311
+2025 2025
+1 any state agency to administer a state or federal grant program under a
+2 state or federal statute, rule, or order;
+3 (e) The authority of a governing entity to enter into agreements or
+4 contracts not in conflict with subsection (2) of this section; or
+5 (f) Any agreement, contract, or rights to rent or lease conduit from
+6 a conduit system owned and managed by a city of the primary class or a
+7 county containing a city of the primary class, provided that such conduit
+8 system was constructed and had at least one tenant before the operative
+9 date of this section, including any conduit system repairs or relocations
+10 subsequent to the operative date of this section.
+11 Sec. 13. Section 75-109.01, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 75-109.01 Except as otherwise specifically provided by law, the
+14 Public Service Commission shall have jurisdiction, as prescribed, over
+15 the following subjects:
+16 (1) Common carriers, generally, pursuant to sections 75-101 to
+17 75-158;
+18 (2) Grain pursuant to the Grain Dealer Act and the Grain Warehouse
+19 Act and sections 89-1,104 to 89-1,108;
+20 (3) Manufactured homes and recreational vehicles pursuant to the
+21 Uniform Standard Code for Manufactured Homes and Recreational Vehicles;
+22 (4) Modular housing units pursuant to the Nebraska Uniform Standards
+23 for Modular Housing Units Act;
+24 (5) Motor carrier registration, licensure, and safety pursuant to
+25 sections 75-301 to 75-343, 75-369.03, 75-370, and 75-371;
+26 (6) Pipeline carriers and rights-of-way pursuant to the Major Oil
+27 Pipeline Siting Act, the State Natural Gas Regulation Act, and sections
+28 75-501 to 75-503. If the provisions of Chapter 75 are inconsistent with
+29 the provisions of the Major Oil Pipeline Siting Act, the provisions of
+30 the Major Oil Pipeline Siting Act control;
+31 (7) Railroad carrier safety pursuant to sections 74-918, 74-919,
+-11-
+LB311 LB311
+2025 2025
+1 74-1323, and 75-401 to 75-430;
+2 (8) Telecommunications carriers pursuant to the Automatic Dialing-
+3 Announcing Devices Act, the Emergency Telephone Communications Systems
+4 Act, the Enhanced Wireless 911 Services Act, the 911 Service System Act,
+5 the Intrastate Pay-Per-Call Regulation Act, the Nebraska
+6 Telecommunications Regulation Act, the Nebraska Telecommunications
+7 Universal Service Fund Act, the Telecommunications Exchange Deregulation
+8 Act, the Telecommunications Relay System Act, the Telephone Consumer
+9 Slamming Prevention Act, and sections 86-574 to 86-578, 86-1031, 86-1307,
+10 and 86-1308;
+11 (9) Transmission lines and rights-of-way pursuant to sections 70-301
+12 and 75-702 to 75-724;
+13 (10) Water service pursuant to the Water Service Regulation Act; and
+14 (11) Jurisdictional utilities governed by the State Natural Gas
+15 Regulation Act. If the provisions of Chapter 75 are inconsistent with the
+16 provisions of the State Natural Gas Regulation Act, the provisions of the
+17 State Natural Gas Regulation Act control.
+18 Sec. 14. Section 75-311, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 75-311 (1)(a) (1) A certificate shall be issued to any qualified
+21 applicant authorizing the whole or any part of the operations covered by
+22 the application if it is found after notice and hearing that (i) (a) the
+23 applicant is fit, willing, and able properly to perform the service
+24 proposed and to conform to the provisions of sections 75-301 to 75-322
+25 and the requirements, rules, and regulations of the commission under such
+26 sections and (ii) (b) the proposed service, to the extent to be
+27 authorized by the certificate, whether regular or irregular, is or will
+28 be required by the present or future public convenience and necessity.
+29 Otherwise the application shall be denied.
+30 (b) The burden shall be on the applicant to show (i) that they are
+31 fit, willing, and able properly to perform the service proposed and to
+-12-
+LB311 LB311
+2025 2025
+1 conform to the provisions of sections 75-301 to 75-322 and the
+2 requirements, rules, and regulations of the commission and (ii) that the
+3 proposed service will be responsive to a public demand or need.
+4 (c) The burden shall be on any protestant to the application to show
+5 that (i) existing carriers are currently meeting, or will meet, the
+6 proposed need and (ii) that even if the applicant's service will be
+7 responsive to a public demand or need, that applicant would not be able
+8 to serve this need in a specified manner without endangering or impairing
+9 the operations of existing carriers contrary to the public interest.
+10 (2)(a) (2) A permit shall be issued to any qualified applicant
+11 therefor authorizing in whole or in part the operations covered by the
+12 application if it appears after notice and hearing from the application
+13 or from any hearing held on the application that (i) (a) the applicant is
+14 fit, willing, and able properly to perform the service of a contract
+15 carrier by motor vehicle and to conform to the provisions of such
+16 sections and the lawful requirements, rules, and regulations of the
+17 commission under such sections and (ii) (b) the proposed operation, to
+18 the extent authorized by the permit, will be consistent with the public
+19 interest by providing services designed to meet the distinct needs of
+20 each individual customer or a specifically designated class of customers
+21 as defined in subdivision (7) of section 75-302. Otherwise the
+22 application shall be denied.
+23 (b) For a designation of authority to provide medicaid nonemergency
+24 medical transportation services pursuant to a contract with (i) the
+25 Department of Health and Human Services, (ii) a medicaid-managed care
+26 organization under contract with the department, or (iii) another agent
+27 working on the department's behalf as provided under section 75-303.01,
+28 in determining whether the authorization will be consistent with the
+29 public interest, the commission shall consult with the Director of
+30 Medicaid and Long-Term Care of the Division of Medicaid and Long-Term
+31 Care of the department or his or her designee.
+-13-
+LB311 LB311
+2025 2025
+1 (3)(a) (3) A designation of authority shall be issued to any
+2 regulated motor carrier holding a certificate under subsection (1) of
+3 this section or a permit under subsection (2) of this section authorizing
+4 such carrier to provide medicaid nonemergency medical transportation
+5 services pursuant to a contract with (i) the Department of Health and
+6 Human Services, (ii) a medicaid-managed care organization under contract
+7 with the department, or (iii) another agent working on the department's
+8 behalf as provided under section 75-303.01, if it is found after notice
+9 and hearing from the application or from any hearing held on the
+10 application that the authorization is or will be required by the present
+11 or future convenience and necessity to serve the distinct needs of
+12 medicaid clients.
+13 (b) The burden shall be on the applicant to show that the proposed
+14 service will be responsive to a public demand or need. The burden shall
+15 be on any protestant to the application to show that (i) existing
+16 carriers are currently meeting, or will meet, the proposed need and (ii)
+17 that even if the applicant's service will be responsive to a public
+18 demand or need, that applicant would not be able to serve this need in a
+19 specified manner without endangering or impairing the operations of
+20 existing carriers contrary to the public interest.
+21 (c) In determining whether the authorization is or will be required
+22 by the present or future convenience and necessity to serve the distinct
+23 needs of medicaid clients, the commission shall consult with the Director
+24 of Medicaid and Long-Term Care of the Division of Medicaid and Long-Term
+25 Care of the department or his or her designee.
+26 (4) Until July 1, 2021, no person shall at the same time hold a
+27 certificate as a common carrier and a permit as a contract carrier for
+28 transportation of household goods by motor vehicles over the same route
+29 or within the same territory unless the commission finds that it is
+30 consistent with the public interest and with the policy declared in
+31 section 75-301.
+-14-
+LB311 LB311
+2025 2025
+1 (5) Until July 1, 2021, after the issuance of a certificate or
+2 permit, the commission shall review the operations of all common or
+3 contract carriers who hold authority from the commission to determine
+4 whether there are insufficient operations in the transportation of
+5 household goods to justify the commission's finding that such common or
+6 contract carrier has willfully failed to perform transportation under
+7 sections 75-301 to 75-322 and rules and regulations promulgated under
+8 such sections. If the commission determines that there are insufficient
+9 operations, then the commission shall commence proceedings under section
+10 75-315 to revoke the certificate or permit involved.
+11 (4) (6) This section shall not apply to transportation network
+12 companies holding a permit under section 75-324 or operations pursuant to
+13 a contract authorized by sections 75-303.02 and 75-303.03.
+14 Sec. 15. Section 75-342, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 75-342 No transportation network company or participating driver
+17 shall provide transportation for any person under contract with the
+18 Department of Health and Human Services or any contractors of the
+19 Department of Health and Human Services without specific authorization
+20 from the commission. The commission shall grant specific authorization to
+21 a requesting transportation network company or participating driver,
+22 unless a protestant shows that (1) existing carriers are currently
+23 meeting, or will meet, the proposed need for the proposed service and (2)
+24 that even if the applicant's service will be responsive to a public
+25 demand or need, that applicant would not be able to serve this need in a
+26 specified manner without endangering or impairing the operations of
+27 existing carriers contrary to the public interest. In order to receive
+28 such authorization, the transportation network company or participating
+29 driver shall demonstrate that such service is or will be required by the
+30 present or future public convenience and necessity.
+31 Sec. 16. Section 76-2325.01, Reissue Revised Statutes of Nebraska,
+-15-
+LB311 LB311
+2025 2025
+1 is amended to read:
+2 76-2325.01 Any person who willfully and maliciously breaks, injures,
+3 destroys, or otherwise interferes with the poles, wires, or other
+4 facilities of any telecommunications, broadband, communications, wireless
+5 infrastructure, or railroad company or electric light and power company
+6 in this state or who willfully and purposely interrupts or interferes
+7 with the transmission of telecommunications, broadband, communications,
+8 messages or the transmission of light, heat, or and power in this state
+9 shall be subject to the action and penalty prescribed in section 28-519.
+10 Sec. 17. Section 86-111.01, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 86-111.01 Internet-protocol-enabled service or IP-enabled service
+13 means any service, capability, functionality, or application, including
+14 broadband Internet access service as defined in 47 C.F.R. 8.1, as such
+15 regulation existed on January 1, 2025, provided using Internet protocol,
+16 or any successor protocol, that enables a service user to send or receive
+17 a communication in Internet protocol format, including, but not limited
+18 to, voice, data, or video.
+19 Sec. 18. Section 86-124, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 86-124 (1) The commission shall not regulate the following:
+22 (a) One-way broadcast or cable television transmission of television
+23 or radio signals;
+24 (b) Mobile radio services, radio paging services, and wireless
+25 telecommunications service;
+26 (c) Interexchange services; and
+27 (d) Internet-protocol-enabled service and voice over Internet
+28 protocol service, including rates, service or contract terms, conditions,
+29 or requirements for entry for such service.
+30 (2) This section shall not affect or modify:
+31 (a) The enforcement of criminal or civil laws, including, but not
+-16-
+LB311 LB311
+2025 2025
+1 limited to, laws concerning consumer protection and unfair or deceptive
+2 trade practices which apply generally to the conduct of business;
+3 (b)(i) Any entity's obligations or rights or commission authority
+4 under section 86-122 and under 47 U.S.C. 251 and 252, as such sections
+5 existed on January 1, 2019, and (ii) any carrier-to-carrier tariff rates,
+6 wholesale service quality standards, interconnection agreements, or other
+7 obligations for which the commission has jurisdiction under state or
+8 federal law;
+9 (c) Any requirement to contribute to any fund administered by the
+10 commission authorized by the Enhanced Wireless 911 Services Act or the
+11 Nebraska Telecommunications Universal Service Fund Act;
+12 (d) Any commission jurisdiction over intrastate switched access
+13 rates, terms, and conditions, including the resolution of disputes
+14 arising from, and implementation of federal and state law with respect
+15 to, intercarrier compensation;
+16 (e) The eligibility and requirements for the receipt of funds from
+17 the Nebraska Telecommunications Universal Service Fund and the rules,
+18 regulations, and orders under the Nebraska Telecommunications Universal
+19 Service Fund Act or the receipt of funds from the federal Universal
+20 Service Fund universal service fund, regardless of the unregulated status
+21 of the provider's service under this section;
+22 (f) Any entity's rights and obligations with respect to (i)
+23 registration under section 86-125, (ii) the use of public streets, roads,
+24 highways, and rights-of-way, or (iii) a certificate of public convenience
+25 and necessity or a permit; and
+26 (g) The commission's authority under section 86-1029.04.
+27 Sec. 19. Section 86-704, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 86-704 (1) Any telecommunications company, incorporated or qualified
+30 to do business in this state, is granted the right to construct, operate,
+31 and maintain telecommunications lines and related facilities along, upon,
+-17-
+LB311 LB311
+2025 2025
+1 across, and under the public highways of this state, and upon and under
+2 lands in this state, whether state or privately owned, except that (a)
+3 such lines and related facilities shall be so constructed and maintained
+4 as not to interfere with the ordinary use of such lands or of such
+5 highways by the public and (b) all aerial wires and cables shall be
+6 placed at a height of not less than eighteen feet above all highway
+7 crossings.
+8 (2) Sections 86-701 to 86-707 shall not transfer the rights now
+9 vested in governing entities municipalities in relation to the regulation
+10 of the poles, wires, cables, and other appliances or authorize a
+11 telecommunications company to erect any poles or construct any conduit,
+12 cable, or other facilities along, upon, across, or under a public highway
+13 within a municipality without first obtaining the consent of the
+14 governing entity body of the municipality. The governing entity
+15 municipality shall not exercise any authority over any rights the
+16 telecommunications company may have to deliver telecommunications
+17 services as authorized by the Public Service Commission or the Federal
+18 Communications Commission and shall not impose any requirement or
+19 condition on Internet-protocol-enabled service and voice over Internet
+20 protocol service, including rates, service, or service contract terms or
+21 conditions.
+22 (3) Consent from a governing entity body for the use of a public
+23 highway within a municipality shall be based upon a lawful exercise of
+24 the governing entity's its statutory and constitutional authority. Such
+25 consent shall not be unreasonably withheld, and a preference or
+26 disadvantage shall not be created through the granting or withholding of
+27 such consent. A governing entity municipality shall not adopt an
+28 ordinance, resolution, rule, or regulation that prohibits or has the
+29 effect of prohibiting the ability of a telecommunications company to
+30 provide telecommunications service.
+31 (4) (4)(a) A municipality shall not levy a tax, fee, or charge for
+-18-
+LB311 LB311
+2025 2025
+1 any right or privilege of engaging in a telecommunications business or
+2 for the use by a telecommunications company of a public highway other
+3 than:
+4 (a) (i) An occupation tax authorized under section 14-109, 15-202,
+5 15-203, 16-205, or 17-525 that meets the following requirements:
+6 (i) (A) The occupation tax shall be imposed only on the receipts
+7 from the sale of telecommunications service as defined in subdivision (7)
+8 (aa) of section 77-2703.04; and
+9 (ii) (B) Except as provided in subsection (5) of this section, the
+10 occupation tax shall not exceed:
+11 (A) (I) Before October 1, 2024, six and twenty-five hundredths
+12 percent; and
+13 (B) (II) Beginning October 1, 2024, four percent; and
+14 (b) (ii) A public highway construction permit fee or charge that
+15 complies with subsection (7) of this section. to the extent that the fee
+16 or charge applies to all persons seeking use of the public highway in a
+17 substantially similar manner. All public highway construction permit fees
+18 or charges shall be directly related to the costs incurred by the
+19 municipality in providing services relating to the granting or
+20 administration of permits. Any highway construction permit fee or charge
+21 shall also be reasonably related in time to the occurrence of such costs.
+22 (b) Any tax, fee, or charge imposed by a municipality shall be
+23 competitively neutral.
+24 (5) A municipality may increase an occupation tax described in
+25 subdivision (4)(a) (4)(a)(i) of this section to a rate that exceeds the
+26 limit contained in subdivision (4)(a)(ii) (4)(a)(i)(B) of this section if
+27 the question of whether to increase such rate has been submitted at a
+28 primary or general election at which members of the governing body of the
+29 municipality are nominated or elected or at a special election held
+30 within the municipality and in which all registered voters shall be
+31 entitled to vote on such question. A municipality may not increase its
+-19-
+LB311 LB311
+2025 2025
+1 existing rate pursuant to this subsection by more than twenty-five
+2 hundredths percent at any one election. The officials of the municipality
+3 shall order the submission of the question by submitting a certified copy
+4 of the resolution proposing the rate increase to the election
+5 commissioner or county clerk at least fifty days before the election. The
+6 election shall be conducted in accordance with the Election Act. If a
+7 majority of the votes cast upon such question are in favor of such rate
+8 increase, then the governing body of such municipality shall be empowered
+9 to impose the rate increase. If a majority of those voting on the
+10 question are opposed to such rate increase, then the governing body of
+11 the municipality shall not impose such rate increase.
+12 (6) The changes made by Laws 1999, LB 496, shall not be construed to
+13 affect the terms or conditions of any franchise, license, or permit
+14 issued by a municipality prior to August 28, 1999, or to release any
+15 party from any obligations thereunder. Such franchises, licenses, or
+16 permits shall remain fully enforceable in accordance with their terms. A
+17 municipality may lawfully enter into agreements with franchise holders,
+18 licensees, or permittees to modify or terminate an existing franchise,
+19 license, or agreement.
+20 (7) Any public highway construction permit fee or charge that is
+21 imposed by a governing entity for the use of a public highway shall (a)
+22 apply to all persons seeking use of the public highway in a substantially
+23 similar manner, (b) be directly related to the costs incurred by the
+24 governing entity in providing services relating to the granting or
+25 administration of permits, and (c) be reasonably related in time to the
+26 occurrence of such costs.
+27 (8) Any tax, fee, or charge imposed by a governing entity as
+28 described in this section shall be competitively neutral.
+29 (9) (7) Taxes or fees shall not be collected by a governing entity
+30 municipality through the provision of in-kind services by a
+31 telecommunications company, and a governing entity municipality shall not
+-20-
+LB311 LB311
+2025 2025
+1 require the provision of in-kind services as a condition of consent to
+2 the use of a public highway.
+3 (10) (8) The terms of any agreement between a governing entity
+4 municipality and a telecommunications company regarding use of public
+5 highways shall be matters of public record and shall be made available to
+6 any member of the public upon request, except that information submitted
+7 to a governing entity municipality by a telecommunications company which
+8 such telecommunications company determines to be proprietary shall be
+9 deemed to be a trade secret pursuant to subdivision (3) of section
+10 84-712.05 and shall be accorded full protection from disclosure to third
+11 parties in a manner consistent with state law.
+12 (11) For purposes of this section, unless the context otherwise
+13 requires:
+14 (a) Governing entity has the same meaning as in section 12 of this
+15 act;
+16 (b) Internet-protocol-enabled service has the same meaning as in
+17 section 86-111.01;
+18 (c) Telecommunications service has the same meaning as in section
+19 86-121; and
+20 (d) Voice over Internet protocol service has the same meaning as in
+21 section 86-121.01.
+22 Sec. 20. Section 86-1505, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 86-1505 After a granting agency makes final payment of public funds
+25 under a broadband deployment program to a competitive provider in a
+26 deployment project area that is part of a local exchange area served by
+27 an incumbent carrier, upon request by the incumbent carrier or
+28 competitive provider the commission expeditiously shall:
+29 (1) Upon finding that the granting agency has determined the
+30 competitive provider is in compliance with all requirements of the
+31 broadband deployment program, relieve the incumbent carrier of eligible
+-21-
+LB311 LB311
+2025 2025
+1 telecommunications carrier obligations and carrier of last resort
+2 obligations in the deployment project area;
+3 (2) Consistent with rules of procedure adopted and promulgated by
+4 the commission, make determinations related to allocations and
+5 distributions of support from the Nebraska Telecommunications Universal
+6 Service Fund for the deployment project area; and
+7 (3) In coordination with the Federal Communications Commission, and
+8 in consultation with the incumbent carrier and the competitive provider,
+9 determine whether eligible telecommunications carrier and carrier of last
+10 resort obligations corresponding with support from the Nebraska
+11 Telecommunications Universal Service Fund in the deployment project area
+12 should be transferred to the competitive provider.
+13 Sec. 21. Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15,
+14 16, 18, 20, 23, and 24 of this act become operative three calendar months
+15 after the adjournment of this legislative session. The other sections of
+16 this act become operative on their effective date.
+17 Sec. 22. Original sections 86-111.01 and 86-704, Reissue Revised
+18 Statutes of Nebraska, are repealed.
+19 Sec. 23. Original sections 75-342, 76-2325.01, 86-124, and 86-1505,
+20 Reissue Revised Statutes of Nebraska, and sections 75-109.01 and 75-311,
+21 Revised Statutes Cumulative Supplement, 2024, are repealed.
+22 Sec. 24. The following section is outright repealed: Section
+23 75-148, Reissue Revised Statutes of Nebraska.
+24 Sec. 25. Since an emergency exists, this act takes effect when
+25 passed and approved according to law.
+-22-
+[DELETED: yDA8N a s 7 a 7 R SC S 2 t a t TE D A t p c r ogjp r t c o p c an0n m t s a c o1a a c t n c a2p d t p d f t P S3C t p p f i w c4f5c6T7t c a g e a p8t9t e r r t i o s b 0c1s t o r s 7 a t d a2e1L52]
+[DELETED: B1L52]
+[DELETED: ScS 2  F p o t T ED( C o l r m a ft c a d b t c ni w t f T A o 1 wr o h r h s f t f US F o t N T U S F0a h t o t p v c s u1r2w3(4(5w6( E l e c m a t7c8s w N i o o b F 8 1 o 9c t h r a c i c w t0a1(2f3d4( V c s m ( t t5c o r o r t v c t 6p o b o a p b o t a e r7s8o9a t v c t a f t p s t0n o ( v o I p s a d i1s1L52]
+[DELETED: S 3  ( T c m r d o if t c a n t i a et( T c m m t c o aiA t i c t b c f c p oc i a w s i f pd( T T E D A s n0a1( T e o c o c l i b n2l3t4(5s6o J 1 2 a a c t r w7s q s i a o o8o f w t c h j u s o9f0( A r t c t a f a b t1c a b t 9 S S A t2T3U4( A c j o i s a5r t a c i t r o d6a7t8(9t N T U S F a t r0r1S F A o t r o f f t f U1L52]
+[DELETED: S F r o t u s o t ps( A e r a o w r t (rha(t( A p o t R C S A0a1( T c a t a o e s o2r p a a i l e c i 3d e i s s o r p c4o5S687d o o s c e T c m h 8h9a0t d t c r a a t i s1p2s b d o r r a i a f o3c t e i a w t s A e4l e c m f a a w t c t5d a e o t c t t c p6d7i t e o a c p v8c9T c m s a a f a a a t c t0c1( I m a d u s ( o t1L52]
+[DELETED: st d o t e i i t p i i iaoc s i a l n p o t hle T p m b r b e s td( M t t p o t h l o o0t a k a t t o a i t e d n1h2o3c4(5o6l7t l k a t t o a F p o t8s ( v c s n i t9t c o r o r t v0c t a p o b o a p b o t1s2(3t4i5c6s i a l s p o t h l7o8(9p v c s b a c o t t0e1r1L52]
+[DELETED: o e r t i i t F CCc(c m r o d a t t c r t vc s c i b n l t df t F C C B D Ct(0t1t2c3a4S5(6( C w s o r r r t7q8(9s i a t s u t0r1c2(3(4f5( N a o p o C 8 t6c s h o t a o a d c7p8i a c b t T E D A9a0E1(1L52]
+[DELETED: s(ba( A t c o c p sna e t h b d u s tc o c p c t f so0S 6  E a p b s 7 o t a 1t c i g b t T E2D3t4t c I t i a c b t5T E D A a o a6p o C 8 t T E D7A8S9f0(1( C w s o r r r t2q3(4r5c6( A t c i n e t r f f7t N T U S F f d8e9f r a t c a o f f t0N T U S F t a f1d1L52]
+[DELETED: S 8  I a e t r r a tcpcSs r a t o c p f trS 1  A t c s t ds0o s 8 A t c s t d1s2(3S 1  T c m a a p r a4r a c a p n t a a5e6a7b8S9(0o1(2a ( a a m c m o t p p3i4p5( I m a l e c p6t s a r f o a m b 7g8( I s h t s m a i9s0( P m a p o t s o1I1L52]
+[DELETED: ((a( T c h t s m a i s8( T s h t s m a i s8(s0( N g e s e a o e a a1t2( I a r b b s ( o s384o c c s r w r t a s5n6(7l8(9(0a r o o a o c r1t2I3c4(5( A m e f t s o s 8 b6s7( A e r p d a o w8r9( T a o t P S C u t 90S1(1L52]
+[DELETED: as(c(acsd0s1S2237 E a o s p b l t4P S C s h j a p o5t6( C c g p t s 7 t778(9A0( M h a r v p t t1U2(3f4( M c r l a s p t5s6( P c a r p t t M O7P879t0t1( R c s p t s 7 71L52]
+[DELETED: 7( T c p t t A DA D A t E T C SAt I P R A t NT R A t N TUA t T R S A t T CS0a1(2a3(4( J u g b t S N G5R6p7S8S 1 S 7 R S C S9207 ( ( A c s b i t a q1a2t3a i f w a a p t p t s4p5a6s a ( ( t p s t t e t b7a8b9O0(1f1L52]
+[DELETED: c t t p o s 7 t 7 a trp(t ( e c a c m o w m tp n a ( t e i t a s w brtt0( ( A p s b i t a q a1t2a3o4f w a a p t p t s o a c5c b m v a t c t t p o s6s a t l r r a r o t7c8t9i b p s d t m t d n o0e1a d i s ( o s 7 O t2a3(4m t s p t a c w ( t5D o H a H S ( a m c6o7w8i d w t a w b c w t9p i t c s c w t D o0M a L C o t D o M a L1C1L52]
+[DELETED: ( ( A d o a s b i t ar m c h a c u s ( ots c t p m n m ts p t a c w ( t D o H aHwba h f t a o f a h h o t0a1o f c a n t s t d n o2m3(4s5b o a p t t a t s t ( e6c7t e i t a s w b r t a p8d9s m w e o i t o o0e1(2b3n4o5C6( U J 1 2 n p s a t s t h 7c8t9o w t s t u t c f t i i0c w t p i a w t p d i1s1L52]
+[DELETED: ( U J 1 2 a t i o a c op t c s r t o o a c oc c w h a f t c t dw t a i o i t t ohc c h w f t p t us 7 t 7 a r a r p uso071( ( T s s n a t t n2c3a4S 1 S 7 R R S o N i5a67 N t n c o p d7s p t f a p u c w t8D o H a H S o a c o t9D o H a H S w s a0f1a r t n c o p d2u a p s t ( e c a c3m4t e i t a s w b r t a p5d6s m w e o i t o o7e8s9d0p1S1L52]
+[DELETED: i7d o o i w t p w o ofii t s o w w a p i o iw t t o t b cms0S1a28 I s o I s3m4b5r6o7a8t9S 1 S 8 R R S o N i0a182(3o4( M r s r p s a w5t6(7( I s a v o I8p9o0(1( T e o c o c l i b n1L52]
+[DELETED: lt( A e o o r o c auewo f w t c h j u s of( A r t c t a f a b t0c1N2( A c j o i s a3r t a c i t r o d4a5t6(7t N T U S F a t r8r9S F A o t r o f f t f U0S1o2( A e r a o w r t (3r4h5a6(7S 1 S 8 R R S o N i8a980t1a1L52]
+[DELETED: alsa n t i w t o u o s l o o sh b t p a ( a a w a c s bp a a h o n l t e f a a hc( S 8 t 8 s n t t r nv0o t p w c a o a o a 1t2c3w a m w f o t c o t4g e b o t m T g e5m s n e a a o a r t6t c m h t d t7s8C C a s n i a r o9c o I s a v o I0p1c2( C f a g e b f t u o a p3h4t5c s n b u w a a p o6d7s c A g e m s n a a8o r r o r t p o h t9e o p t a o a t c t0p1(1L52]
+[DELETED: af t u b a t c o a p h ot(1( ( T o t s b i o o t rf((0o1( ( B O 1 2 s a t h2p3(4( ( A p h c p f o c t5c6o7s8o c s b d r t t c i b t9m i p s r t t g o0a1s2( A t f o c i b a m s b3c4( A m m i a o t d i5s6l7t q o w t i s r h b s a 8p9m a n o e o a a s e h0w t m a i w a r v s b1e1L52]
+[DELETED: e r p t t s b m t thso t r p t r i t t ece s b c i a w t E A I mit i t r i I a m o t v o t0q1t2(3a t t o c o a f l o p4i b a m p t A 2 1 o t r a5p f a o t S f l o6p7m8l o p t m o t a e f9l0( A p h c p f o c t i1i2a3s m ( b d r t t c i b t4g e i p s r t t g o5a6o7( A t f o c i b a g e a8d9(0m t t p o i s b 1t1L52]
+[DELETED: rt( ( T t o a a b a g em a a t c r u o phats t c d t b p s bd t b a t s p t s ( o s081p2( F p o t s u t c o3r4(5a6( I s h t s m a i7s8( T s h t s m a i s980(1s2S3a485u a b d p t a c p i 6d7a i c u r b t i c o8c9( U f t t g a h d t0c p i i c w a r o t1b1L52]
+[DELETED: t c o a c o l ro( C w r o p a a p bt c m d r t a adS(id0r o c w s f t N1T2s3S415a6t7S 2  O s 8 a 8 R R8S9S0R1R2S 2  T f s i o r S374S 2  S a e e t a t e w5p1L52]
+
+
+================================================================================
+
+Raw Text:
+LB311 LB311
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 311
+FINAL READING
+Introduced by DeBoer, 10.
+Read first time January 15, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to law; to amend sections 75-342, 76-2325.01,
+2 86-111.01, 86-124, 86-704, and 86-1505, Reissue Revised Statutes of
+3 Nebraska, and sections 75-109.01 and 75-311, Revised Statutes
+4 Cumulative Supplement, 2024; to adopt the Telecommunications
+5 Exchange Deregulation Act; to provide certain restrictions on
+6 governing entities as prescribed; to change provisions relating to
+7 jurisdiction of the Public Service Commission; to change and provide
+8 provisions relating to certificates of public convenience and
+9 necessity, permits for certain common or contract carriers, medicaid
+10 nonemergency medical transportation services and certificates of
+11 authority, and certain transportation network companies and
+12 participating drivers; to provide duties for the Public Service
+13 Commission; to provide penalties for interference with certain
+14 facilities of broadband, communications, and wireless infrastructure
+15 companies; to redefine terms and change provisions of the Nebraska
+16 Telecommunications Regulation Act; to change provisions relating to
+17 telecommunications companies and governing entities as prescribed;
+18 to change provisions of the Rural Communications Sustainability Act;
+19 to eliminate requirements relating to issuance of securities by a
+20 common carrier; to provide operative dates; to repeal the original
+21 sections; to outright repeal section 75-148; and to declare an
+22 emergency.
+-1-
+
+LB311 LB311
+2025 2025
+1 Be it enacted by the people of the State of Nebraska,
+-2-
+
+LB311 LB311
+2025 2025
+1 Section 1. Sections 1 to 11 of this act shall be known and may be
+2 cited as the Telecommunications Exchange Deregulation Act.
+3 Sec. 2. For purposes of the Telecommunications Exchange
+4 Deregulation Act:
+5 (1) Carrier of last resort means a facilities-based
+6 telecommunications company, as determined by the commission, not
+7 inconsistent with the federal Telecommunications Act of 1996, which
+8 receives or has received high-cost support from the federal Universal
+9 Service Fund or the Nebraska Telecommunications Universal Service Fund
+10 and has the obligation to provide voice communications service, upon
+11 reasonable request, to all residential and single-line business customers
+12 within a defined service or geographic area;
+13 (2) Commission means the Public Service Commission;
+14 (3) Deregulated carrier means an electing local exchange carrier for
+15 which all of such carrier's markets have been deregulated;
+16 (4) Electing local exchange carrier means a telecommunications
+17 company holding a certificate to offer local exchange telecommunications
+18 services within Nebraska issued on or before February 8, 1996, or a
+19 carrier that has received a certificate in conjunction with the
+20 acquisition of a certificate issued on or before February 8, 1996;
+21 (5) Transitioning carrier means an electing local exchange carrier
+22 for which at least one, but not all, of such carrier's exchanges has been
+23 deregulated; and
+24 (6) Voice communications service means (a) the transmission,
+25 conveyance, or routing of real-time, two-way voice communications to a
+26 point or between or among points by or through any electronic, radio,
+27 satellite, cable, optical, microwave, wireline, wireless, or other medium
+28 or method, regardless of the protocol used, (b) the ability to receive
+29 and terminate voice calls to and from the public switched telephone
+30 network, or (c) voice over Internet protocol service as defined in
+31 section 86-121.01.
+-3-
+
+LB311 LB311
+2025 2025
+1 Sec. 3. (1) The commission may require disclosure of information
+2 from telecommunications carriers as necessary to implement and enforce
+3 the Telecommunications Exchange Deregulation Act.
+4 (2) The commission may maintain the confidentiality of any
+5 information collected under the Telecommunications Exchange Deregulation
+6 Act that is claimed to be confidential for containing proprietary or
+7 commercial information and withhold such information from public
+8 disclosure pursuant to subdivision (3) of section 84-712.05.
+9 (3) The Telecommunications Exchange Deregulation Act shall not
+10 affect or modify:
+11 (a) The enforcement of criminal or civil laws, including, but not
+12 limited to, laws concerning consumer protection and unfair or deceptive
+13 trade practices which apply generally to the conduct of business;
+14 (b) Any entity's obligations or rights or commission authority under
+15 section 86-122 and under 47 U.S.C. 251 and 252, as such sections existed
+16 on January 1, 2019, and any carrier-to-carrier tariff rates, wholesale
+17 service quality standards, interconnection agreements, or other
+18 obligations for which the commission has jurisdiction under state or
+19 federal law;
+20 (c) Any requirement to contribute to any fund administered by the
+21 commission authorized by the 911 Service System Act, the
+22 Telecommunications Relay System Act, or the Nebraska Telecommunications
+23 Universal Service Fund Act;
+24 (d) Any commission jurisdiction over intrastate switched access
+25 rates, terms, and conditions, including the resolution of disputes
+26 arising from, and implementation of federal and state law with respect
+27 to, intercarrier compensation;
+28 (e) The eligibility and requirements for the receipt of funds from
+29 the Nebraska Telecommunications Universal Service Fund and the rules,
+30 regulations, and orders under the Nebraska Telecommunications Universal
+31 Service Fund Act or the receipt of funds from the federal Universal
+-4-
+
+LB311 LB311
+2025 2025
+1 Service Fund, regardless of the unregulated status of the provider's
+2 service under the Telecommunications Exchange Deregulation Act;
+3 (f) Any entity's rights and obligations with respect to (i)
+4 registration under section 86-125, (ii) the use of public streets, roads,
+5 highways, and rights-of-way, or (iii) a certificate of public convenience
+6 and necessity or a permit;
+7 (g) The commission's authority under the 911 Service System Act or
+8 the Telecommunications Relay System Act;
+9 (h) Any provision of the Rural Communications Sustainability Act;
+10 and
+11 (i) The commission's authority to apply or enforce statutory or
+12 regulatory provisions against an incumbent local exchange carrier in a
+13 deregulated exchange if such statutory or regulatory provisions could
+14 otherwise be applicable to a competitive local exchange carrier.
+15 Sec. 4. (1) Notwithstanding any other provisions of Chapters 75 and
+16 86, only an electing local exchange carrier may initiate a proceeding to
+17 deregulate one of such carrier's exchanges. The commission may hold a
+18 hearing on the application and receive testimony from the applicant and
+19 any other interested person. No later than one hundred twenty days after
+20 the date the commission receives an application to initiate such
+21 proceeding, the commission shall determine whether the regulated exchange
+22 should be deregulated or remain regulated and issue a final order
+23 classifying the exchange in accordance with this section. An electing
+24 local exchange carrier may file an application with the commission to
+25 deregulate an exchange of the carrier that the commission previously
+26 determined should remain regulated upon a material change in the exchange
+27 including the entrance of additional carriers providing voice
+28 communications service by carriers previously operating in the exchange.
+29 The commission may set an application fee at an amount to cover the
+30 commission's cost of processing such application.
+31 (2)(a) In making a determination under subsection (1) of this
+-5-
+
+LB311 LB311
+2025 2025
+1 section, the commission shall presume that an exchange is competitive and
+2 that deregulation of the exchange is in the public interest if, in
+3 addition to the electing local exchange carrier, there are at least two
+4 other carriers, including one wireline or cable carrier, providing voice
+5 communications service in at least ninety percent of the household
+6 locations outside of tribal areas known at the time of application in the
+7 exchange. The presumption may be rebutted by evidence sufficient to
+8 determine that:
+9 (i) More than ten percent of the household locations outside of
+10 tribal areas known at the time of application in the exchange do not
+11 have, in addition to the electing local exchange carrier, at least two
+12 other carriers, including one wireline or cable carrier, providing voice
+13 communications service; or
+14 (ii) Household locations outside of tribal areas known at the time
+15 of application in the exchange have no carrier other than the electing
+16 local exchange carrier capable of providing voice communications service
+17 to locations known at the time of application. For purposes of this
+18 subdivision (2)(a)(ii), voice communications shall not include the
+19 transmission, conveyance, or routing of real-time, two-way voice
+20 communications to a point or between or among points by or through
+21 satellite.
+22 (b) In making a determination under subsection (1) of this section,
+23 the commission may determine that an exchange should be deregulated if,
+24 in addition to the electing local exchange carrier, at least two other
+25 carriers are providing, or are capable of providing, voice communications
+26 service in at least seventy-five percent of the household locations
+27 outside of tribal areas known at the time of application in the exchange.
+28 (c) In determining whether household locations are capable of being
+29 provided voice communications services by a carrier other than the
+30 electing local exchange carrier, the commission shall consider evidence
+31 related to vacant locations, declination of service to the location, and
+-6-
+
+LB311 LB311
+2025 2025
+1 other evidence related to inaccuracies in the Federal Communications
+2 Commission's Broadband Data Collection or other data related to service
+3 capability for the location.
+4 (d) For the purposes of this subsection, an electing local exchange
+5 carrier may rely on data available to the carrier regarding the voice
+6 communications service capability, including, but not limited to, data
+7 from the Federal Communications Commission's Broadband Data Collection
+8 that is available at the time of the application.
+9 (e) If the commission deregulates an exchange under this section and
+10 the deregulation results in a regulated carrier no longer regulated or a
+11 transitioning carrier no longer meeting the definition of a transitioning
+12 carrier, the commission shall issue an order reclassifying such carrier
+13 as a deregulated carrier.
+14 Sec. 5. (1) A deregulated carrier is not required to:
+15 (a) Fulfill the obligations of a carrier of last resort;
+16 (b) Comply with standards or reporting requirements related to
+17 quality of retail service;
+18 (c) Comply with restrictions on rates for retail telecommunications
+19 services, including advanced telecommunications services, unless the
+20 restrictions are a condition of receiving grant funds administered by the
+21 commission or imposed for compliance with sections 86-139 to 86-157; or
+22 (d) File an earnings report with the commission.
+23 (2) The commission shall not provide a deregulated carrier with any
+24 funds from the Nebraska Telecommunications Universal Service Fund.
+25 (3) Notwithstanding any other provisions of Chapter 86, the
+26 commission shall have only the authority over a deregulated carrier
+27 provided under the Telecommunications Exchange Deregulation Act. If there
+28 is a conflict between the Telecommunications Exchange Deregulation Act
+29 and the other applicable provisions of Chapter 86, the Telecommunications
+30 Exchange Deregulation Act shall control.
+31 (4) Nothing in this section affects the continuing applicability of
+-7-
+
+LB311 LB311
+2025 2025
+1 sections 86-122 to 86-124.
+2 (5) The commission may receive, mediate, and hear complaints filed
+3 by any retail or wholesale customers against a deregulated carrier that
+4 are in the scope of the commission's authority provided under Chapter 86.
+5 (6) A telecommunications company or communications provider shall
+6 not be required to fulfill the obligations of a carrier of last resort in
+7 an exchange that has been deregulated, unless such telecommunications
+8 company or communications provider consents to fulfilling such
+9 obligations.
+10 Sec. 6. Except as provided by section 7 of this act, a
+11 transitioning carrier is governed by the Telecommunications Exchange
+12 Deregulation Act and the provisions of Chapters 75 and 86 that applied to
+13 the carrier immediately before the date the carrier was classified as a
+14 transitioning carrier. If there is a conflict between the
+15 Telecommunications Exchange Deregulation Act and other applicable
+16 provisions of Chapter 86, the Telecommunications Exchange Deregulation
+17 Act shall control.
+18 Sec. 7. (1) A transitioning carrier is no longer required to do the
+19 following in the deregulated exchange:
+20 (a) Fulfill the obligations of a carrier of last resort;
+21 (b) Comply with standards or reporting requirements related to
+22 quality of retail service; or
+23 (c) Comply with a pricing requirement for retail service unless the
+24 requirement is a condition of receiving grant funds administered by the
+25 commission.
+26 (2) A transitioning carrier is not eligible to receive funds from
+27 the Nebraska Telecommunications Universal Service Fund for deregulated
+28 exchanges and the commission shall, to the extent feasible in the funding
+29 formula, reduce a transitioning carrier's allocation of funds from the
+30 Nebraska Telecommunications Universal Service Fund to account for
+31 deregulated exchanges.
+-8-
+
+LB311 LB311
+2025 2025
+1 Sec. 8. In an exchange that remains regulated, a transitioning
+2 carrier shall price the carrier's retail services in accordance with the
+3 provisions that applied to that carrier immediately before the date the
+4 carrier was classified by the commission as a transitioning carrier.
+5 Sec. 9. Nothing in the Telecommunications Exchange Deregulation Act
+6 shall relieve a telecommunications or communications provider from the
+7 requirements in section 86-124.
+8 Sec. 10. A telecommunications company seeking to discontinue
+9 service in a deregulated exchange shall be exempt from subdivision (1)(a)
+10 of section 86-134. A telecommunications company seeking to discontinue
+11 service in a deregulated exchange shall be solely subject to subdivision
+12 (1)(b) of section 86-134.
+13 Sec. 11. The commission may adopt and promulgate rules and
+14 regulations and conduct any proceedings necessary to administer and
+15 enforce the Telecommunications Exchange Deregulation Act, including rules
+16 and regulations to determine whether an exchange should remain regulated,
+17 be deregulated, or be reregulated.
+18 Sec. 12. (1) For purposes of this section:
+19 (a) Action means any law, rule, regulation, ordinance, resolution,
+20 or similar action by a governing entity;
+21 (b) Governing entity means (i) a state agency acting in any capacity
+22 and (ii) an agency, municipality, county, member of the public power
+23 industry, or other political subdivision that has jurisdiction over any
+24 portion of a public right-of-way or infrastructure;
+25 (c) Infrastructure means any land, easements, conduits, poles,
+26 towers, structures, and related facilities owned and managed by a
+27 governing entity;
+28 (d) Internet-protocol-enabled service has the same meaning as in
+29 section 86-111.01;
+30 (e) Provider means a provider of telecommunications service or
+31 Internet-protocol-enabled service;
+-9-
+
+LB311 LB311
+2025 2025
+1 (f) Public power industry has the same meaning as in section 70-601;
+2 (g) Public right-of-way means any right-of-way located in a highway
+3 as defined in section 60-624;
+4 (h) Telecommunications company has the same meaning as in section
+5 86-119;
+6 (i) Telecommunications service has the same meaning as in section
+7 86-121; and
+8 (j) Voice over Internet protocol service has the same meaning as in
+9 section 86-121.01.
+10 (2) No governing entity shall enact, adopt, or enforce any action
+11 the effect of which would be to:
+12 (a) Impose any regulation barred by subdivision (1)(d) of section
+13 86-124, including by conditioning any contract or grant upon acceptance
+14 of conditions constituting such regulation with respect to any service
+15 not offered under such contract or grant;
+16 (b) Impose any regulation on a provider that is preempted by federal
+17 law or on a telecommunications company that is prohibited by subsection
+18 (3) of section 86-123; or
+19 (c) Condition access to infrastructure or a public right-of-way upon
+20 any regulation of or acceptance of conditions regulating
+21 telecommunications service, Internet-protocol-enabled service, voice over
+22 Internet protocol service, rates, service, or service contract terms or
+23 conditions or by providing requirements inconsistent with section 86-704.
+24 (3) This section shall not affect or modify:
+25 (a) Any matter excluded from the scope of section 86-124 by
+26 subsection (2) thereof;
+27 (b) Any entity's rights, privileges, duties, and obligations with
+28 respect to the use of a public right-of-way or infrastructure;
+29 (c) The authority of the Public Service Commission under the 911
+30 Service System Act;
+31 (d) Any authority delegated to the Public Service Commission or to
+-10-
+
+LB311 LB311
+2025 2025
+1 any state agency to administer a state or federal grant program under a
+2 state or federal statute, rule, or order;
+3 (e) The authority of a governing entity to enter into agreements or
+4 contracts not in conflict with subsection (2) of this section; or
+5 (f) Any agreement, contract, or rights to rent or lease conduit from
+6 a conduit system owned and managed by a city of the primary class or a
+7 county containing a city of the primary class, provided that such conduit
+8 system was constructed and had at least one tenant before the operative
+9 date of this section, including any conduit system repairs or relocations
+10 subsequent to the operative date of this section.
+11 Sec. 13. Section 75-109.01, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 75-109.01 Except as otherwise specifically provided by law, the
+14 Public Service Commission shall have jurisdiction, as prescribed, over
+15 the following subjects:
+16 (1) Common carriers, generally, pursuant to sections 75-101 to
+17 75-158;
+18 (2) Grain pursuant to the Grain Dealer Act and the Grain Warehouse
+19 Act and sections 89-1,104 to 89-1,108;
+20 (3) Manufactured homes and recreational vehicles pursuant to the
+21 Uniform Standard Code for Manufactured Homes and Recreational Vehicles;
+22 (4) Modular housing units pursuant to the Nebraska Uniform Standards
+23 for Modular Housing Units Act;
+24 (5) Motor carrier registration, licensure, and safety pursuant to
+25 sections 75-301 to 75-343, 75-369.03, 75-370, and 75-371;
+26 (6) Pipeline carriers and rights-of-way pursuant to the Major Oil
+27 Pipeline Siting Act, the State Natural Gas Regulation Act, and sections
+28 75-501 to 75-503. If the provisions of Chapter 75 are inconsistent with
+29 the provisions of the Major Oil Pipeline Siting Act, the provisions of
+30 the Major Oil Pipeline Siting Act control;
+31 (7) Railroad carrier safety pursuant to sections 74-918, 74-919,
+-11-
+
+LB311 LB311
+2025 2025
+1 74-1323, and 75-401 to 75-430;
+2 (8) Telecommunications carriers pursuant to the Automatic Dialing-
+3 Announcing Devices Act, the Emergency Telephone Communications Systems
+4 Act, the Enhanced Wireless 911 Services Act, the 911 Service System Act,
+5 the Intrastate Pay-Per-Call Regulation Act, the Nebraska
+6 Telecommunications Regulation Act, the Nebraska Telecommunications
+7 Universal Service Fund Act, the Telecommunications Exchange Deregulation
+8 Act, the Telecommunications Relay System Act, the Telephone Consumer
+9 Slamming Prevention Act, and sections 86-574 to 86-578, 86-1031, 86-1307,
+10 and 86-1308;
+11 (9) Transmission lines and rights-of-way pursuant to sections 70-301
+12 and 75-702 to 75-724;
+13 (10) Water service pursuant to the Water Service Regulation Act; and
+14 (11) Jurisdictional utilities governed by the State Natural Gas
+15 Regulation Act. If the provisions of Chapter 75 are inconsistent with the
+16 provisions of the State Natural Gas Regulation Act, the provisions of the
+17 State Natural Gas Regulation Act control.
+18 Sec. 14. Section 75-311, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 75-311 (1)(a) (1) A certificate shall be issued to any qualified
+21 applicant authorizing the whole or any part of the operations covered by
+22 the application if it is found after notice and hearing that (i) (a) the
+23 applicant is fit, willing, and able properly to perform the service
+24 proposed and to conform to the provisions of sections 75-301 to 75-322
+25 and the requirements, rules, and regulations of the commission under such
+26 sections and (ii) (b) the proposed service, to the extent to be
+27 authorized by the certificate, whether regular or irregular, is or will
+28 be required by the present or future public convenience and necessity.
+29 Otherwise the application shall be denied.
+30 (b) The burden shall be on the applicant to show (i) that they are
+31 fit, willing, and able properly to perform the service proposed and to
+-12-
+
+LB311 LB311
+2025 2025
+1 conform to the provisions of sections 75-301 to 75-322 and the
+2 requirements, rules, and regulations of the commission and (ii) that the
+3 proposed service will be responsive to a public demand or need.
+4 (c) The burden shall be on any protestant to the application to show
+5 that (i) existing carriers are currently meeting, or will meet, the
+6 proposed need and (ii) that even if the applicant's service will be
+7 responsive to a public demand or need, that applicant would not be able
+8 to serve this need in a specified manner without endangering or impairing
+9 the operations of existing carriers contrary to the public interest.
+10 (2)(a) (2) A permit shall be issued to any qualified applicant
+11 therefor authorizing in whole or in part the operations covered by the
+12 application if it appears after notice and hearing from the application
+13 or from any hearing held on the application that (i) (a) the applicant is
+14 fit, willing, and able properly to perform the service of a contract
+15 carrier by motor vehicle and to conform to the provisions of such
+16 sections and the lawful requirements, rules, and regulations of the
+17 commission under such sections and (ii) (b) the proposed operation, to
+18 the extent authorized by the permit, will be consistent with the public
+19 interest by providing services designed to meet the distinct needs of
+20 each individual customer or a specifically designated class of customers
+21 as defined in subdivision (7) of section 75-302. Otherwise the
+22 application shall be denied.
+23 (b) For a designation of authority to provide medicaid nonemergency
+24 medical transportation services pursuant to a contract with (i) the
+25 Department of Health and Human Services, (ii) a medicaid-managed care
+26 organization under contract with the department, or (iii) another agent
+27 working on the department's behalf as provided under section 75-303.01,
+28 in determining whether the authorization will be consistent with the
+29 public interest, the commission shall consult with the Director of
+30 Medicaid and Long-Term Care of the Division of Medicaid and Long-Term
+31 Care of the department or his or her designee.
+-13-
+
+LB311 LB311
+2025 2025
+1 (3)(a) (3) A designation of authority shall be issued to any
+2 regulated motor carrier holding a certificate under subsection (1) of
+3 this section or a permit under subsection (2) of this section authorizing
+4 such carrier to provide medicaid nonemergency medical transportation
+5 services pursuant to a contract with (i) the Department of Health and
+6 Human Services, (ii) a medicaid-managed care organization under contract
+7 with the department, or (iii) another agent working on the department's
+8 behalf as provided under section 75-303.01, if it is found after notice
+9 and hearing from the application or from any hearing held on the
+10 application that the authorization is or will be required by the present
+11 or future convenience and necessity to serve the distinct needs of
+12 medicaid clients.
+13 (b) The burden shall be on the applicant to show that the proposed
+14 service will be responsive to a public demand or need. The burden shall
+15 be on any protestant to the application to show that (i) existing
+16 carriers are currently meeting, or will meet, the proposed need and (ii)
+17 that even if the applicant's service will be responsive to a public
+18 demand or need, that applicant would not be able to serve this need in a
+19 specified manner without endangering or impairing the operations of
+20 existing carriers contrary to the public interest.
+21 (c) In determining whether the authorization is or will be required
+22 by the present or future convenience and necessity to serve the distinct
+23 needs of medicaid clients, the commission shall consult with the Director
+24 of Medicaid and Long-Term Care of the Division of Medicaid and Long-Term
+25 Care of the department or his or her designee.
+26 (4) Until July 1, 2021, no person shall at the same time hold a
+27 certificate as a common carrier and a permit as a contract carrier for
+28 transportation of household goods by motor vehicles over the same route
+29 or within the same territory unless the commission finds that it is
+30 consistent with the public interest and with the policy declared in
+31 section 75-301.
+-14-
+
+LB311 LB311
+2025 2025
+1 (5) Until July 1, 2021, after the issuance of a certificate or
+2 permit, the commission shall review the operations of all common or
+3 contract carriers who hold authority from the commission to determine
+4 whether there are insufficient operations in the transportation of
+5 household goods to justify the commission's finding that such common or
+6 contract carrier has willfully failed to perform transportation under
+7 sections 75-301 to 75-322 and rules and regulations promulgated under
+8 such sections. If the commission determines that there are insufficient
+9 operations, then the commission shall commence proceedings under section
+10 75-315 to revoke the certificate or permit involved.
+11 (4) (6) This section shall not apply to transportation network
+12 companies holding a permit under section 75-324 or operations pursuant to
+13 a contract authorized by sections 75-303.02 and 75-303.03.
+14 Sec. 15. Section 75-342, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 75-342 No transportation network company or participating driver
+17 shall provide transportation for any person under contract with the
+18 Department of Health and Human Services or any contractors of the
+19 Department of Health and Human Services without specific authorization
+20 from the commission. The commission shall grant specific authorization to
+21 a requesting transportation network company or participating driver,
+22 unless a protestant shows that (1) existing carriers are currently
+23 meeting, or will meet, the proposed need for the proposed service and (2)
+24 that even if the applicant's service will be responsive to a public
+25 demand or need, that applicant would not be able to serve this need in a
+26 specified manner without endangering or impairing the operations of
+27 existing carriers contrary to the public interest. In order to receive
+28 such authorization, the transportation network company or participating
+29 driver shall demonstrate that such service is or will be required by the
+30 present or future public convenience and necessity.
+31 Sec. 16. Section 76-2325.01, Reissue Revised Statutes of Nebraska,
+-15-
+
+LB311 LB311
+2025 2025
+1 is amended to read:
+2 76-2325.01 Any person who willfully and maliciously breaks, injures,
+3 destroys, or otherwise interferes with the poles, wires, or other
+4 facilities of any telecommunications, broadband, communications, wireless
+5 infrastructure, or railroad company or electric light and power company
+6 in this state or who willfully and purposely interrupts or interferes
+7 with the transmission of telecommunications, broadband, communications,
+8 messages or the transmission of light, heat, or and power in this state
+9 shall be subject to the action and penalty prescribed in section 28-519.
+10 Sec. 17. Section 86-111.01, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 86-111.01 Internet-protocol-enabled service or IP-enabled service
+13 means any service, capability, functionality, or application, including
+14 broadband Internet access service as defined in 47 C.F.R. 8.1, as such
+15 regulation existed on January 1, 2025, provided using Internet protocol,
+16 or any successor protocol, that enables a service user to send or receive
+17 a communication in Internet protocol format, including, but not limited
+18 to, voice, data, or video.
+19 Sec. 18. Section 86-124, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 86-124 (1) The commission shall not regulate the following:
+22 (a) One-way broadcast or cable television transmission of television
+23 or radio signals;
+24 (b) Mobile radio services, radio paging services, and wireless
+25 telecommunications service;
+26 (c) Interexchange services; and
+27 (d) Internet-protocol-enabled service and voice over Internet
+28 protocol service, including rates, service or contract terms, conditions,
+29 or requirements for entry for such service.
+30 (2) This section shall not affect or modify:
+31 (a) The enforcement of criminal or civil laws, including, but not
+-16-
+
+LB311 LB311
+2025 2025
+1 limited to, laws concerning consumer protection and unfair or deceptive
+2 trade practices which apply generally to the conduct of business;
+3 (b)(i) Any entity's obligations or rights or commission authority
+4 under section 86-122 and under 47 U.S.C. 251 and 252, as such sections
+5 existed on January 1, 2019, and (ii) any carrier-to-carrier tariff rates,
+6 wholesale service quality standards, interconnection agreements, or other
+7 obligations for which the commission has jurisdiction under state or
+8 federal law;
+9 (c) Any requirement to contribute to any fund administered by the
+10 commission authorized by the Enhanced Wireless 911 Services Act or the
+11 Nebraska Telecommunications Universal Service Fund Act;
+12 (d) Any commission jurisdiction over intrastate switched access
+13 rates, terms, and conditions, including the resolution of disputes
+14 arising from, and implementation of federal and state law with respect
+15 to, intercarrier compensation;
+16 (e) The eligibility and requirements for the receipt of funds from
+17 the Nebraska Telecommunications Universal Service Fund and the rules,
+18 regulations, and orders under the Nebraska Telecommunications Universal
+19 Service Fund Act or the receipt of funds from the federal Universal
+20 Service Fund universal service fund, regardless of the unregulated status
+21 of the provider's service under this section;
+22 (f) Any entity's rights and obligations with respect to (i)
+23 registration under section 86-125, (ii) the use of public streets, roads,
+24 highways, and rights-of-way, or (iii) a certificate of public convenience
+25 and necessity or a permit; and
+26 (g) The commission's authority under section 86-1029.04.
+27 Sec. 19. Section 86-704, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 86-704 (1) Any telecommunications company, incorporated or qualified
+30 to do business in this state, is granted the right to construct, operate,
+31 and maintain telecommunications lines and related facilities along, upon,
+-17-
+
+LB311 LB311
+2025 2025
+1 across, and under the public highways of this state, and upon and under
+2 lands in this state, whether state or privately owned, except that (a)
+3 such lines and related facilities shall be so constructed and maintained
+4 as not to interfere with the ordinary use of such lands or of such
+5 highways by the public and (b) all aerial wires and cables shall be
+6 placed at a height of not less than eighteen feet above all highway
+7 crossings.
+8 (2) Sections 86-701 to 86-707 shall not transfer the rights now
+9 vested in governing entities municipalities in relation to the regulation
+10 of the poles, wires, cables, and other appliances or authorize a
+11 telecommunications company to erect any poles or construct any conduit,
+12 cable, or other facilities along, upon, across, or under a public highway
+13 within a municipality without first obtaining the consent of the
+14 governing entity body of the municipality. The governing entity
+15 municipality shall not exercise any authority over any rights the
+16 telecommunications company may have to deliver telecommunications
+17 services as authorized by the Public Service Commission or the Federal
+18 Communications Commission and shall not impose any requirement or
+19 condition on Internet-protocol-enabled service and voice over Internet
+20 protocol service, including rates, service, or service contract terms or
+21 conditions.
+22 (3) Consent from a governing entity body for the use of a public
+23 highway within a municipality shall be based upon a lawful exercise of
+24 the governing entity's its statutory and constitutional authority. Such
+25 consent shall not be unreasonably withheld, and a preference or
+26 disadvantage shall not be created through the granting or withholding of
+27 such consent. A governing entity municipality shall not adopt an
+28 ordinance, resolution, rule, or regulation that prohibits or has the
+29 effect of prohibiting the ability of a telecommunications company to
+30 provide telecommunications service.
+31 (4) (4)(a) A municipality shall not levy a tax, fee, or charge for
+-18-
+
+LB311 LB311
+2025 2025
+1 any right or privilege of engaging in a telecommunications business or
+2 for the use by a telecommunications company of a public highway other
+3 than:
+4 (a) (i) An occupation tax authorized under section 14-109, 15-202,
+5 15-203, 16-205, or 17-525 that meets the following requirements:
+6 (i) (A) The occupation tax shall be imposed only on the receipts
+7 from the sale of telecommunications service as defined in subdivision (7)
+8 (aa) of section 77-2703.04; and
+9 (ii) (B) Except as provided in subsection (5) of this section, the
+10 occupation tax shall not exceed:
+11 (A) (I) Before October 1, 2024, six and twenty-five hundredths
+12 percent; and
+13 (B) (II) Beginning October 1, 2024, four percent; and
+14 (b) (ii) A public highway construction permit fee or charge that
+15 complies with subsection (7) of this section. to the extent that the fee
+16 or charge applies to all persons seeking use of the public highway in a
+17 substantially similar manner. All public highway construction permit fees
+18 or charges shall be directly related to the costs incurred by the
+19 municipality in providing services relating to the granting or
+20 administration of permits. Any highway construction permit fee or charge
+21 shall also be reasonably related in time to the occurrence of such costs.
+22 (b) Any tax, fee, or charge imposed by a municipality shall be
+23 competitively neutral.
+24 (5) A municipality may increase an occupation tax described in
+25 subdivision (4)(a) (4)(a)(i) of this section to a rate that exceeds the
+26 limit contained in subdivision (4)(a)(ii) (4)(a)(i)(B) of this section if
+27 the question of whether to increase such rate has been submitted at a
+28 primary or general election at which members of the governing body of the
+29 municipality are nominated or elected or at a special election held
+30 within the municipality and in which all registered voters shall be
+31 entitled to vote on such question. A municipality may not increase its
+-19-
+
+LB311 LB311
+2025 2025
+1 existing rate pursuant to this subsection by more than twenty-five
+2 hundredths percent at any one election. The officials of the municipality
+3 shall order the submission of the question by submitting a certified copy
+4 of the resolution proposing the rate increase to the election
+5 commissioner or county clerk at least fifty days before the election. The
+6 election shall be conducted in accordance with the Election Act. If a
+7 majority of the votes cast upon such question are in favor of such rate
+8 increase, then the governing body of such municipality shall be empowered
+9 to impose the rate increase. If a majority of those voting on the
+10 question are opposed to such rate increase, then the governing body of
+11 the municipality shall not impose such rate increase.
+12 (6) The changes made by Laws 1999, LB 496, shall not be construed to
+13 affect the terms or conditions of any franchise, license, or permit
+14 issued by a municipality prior to August 28, 1999, or to release any
+15 party from any obligations thereunder. Such franchises, licenses, or
+16 permits shall remain fully enforceable in accordance with their terms. A
+17 municipality may lawfully enter into agreements with franchise holders,
+18 licensees, or permittees to modify or terminate an existing franchise,
+19 license, or agreement.
+20 (7) Any public highway construction permit fee or charge that is
+21 imposed by a governing entity for the use of a public highway shall (a)
+22 apply to all persons seeking use of the public highway in a substantially
+23 similar manner, (b) be directly related to the costs incurred by the
+24 governing entity in providing services relating to the granting or
+25 administration of permits, and (c) be reasonably related in time to the
+26 occurrence of such costs.
+27 (8) Any tax, fee, or charge imposed by a governing entity as
+28 described in this section shall be competitively neutral.
+29 (9) (7) Taxes or fees shall not be collected by a governing entity
+30 municipality through the provision of in-kind services by a
+31 telecommunications company, and a governing entity municipality shall not
+-20-
+
+LB311 LB311
+2025 2025
+1 require the provision of in-kind services as a condition of consent to
+2 the use of a public highway.
+3 (10) (8) The terms of any agreement between a governing entity
+4 municipality and a telecommunications company regarding use of public
+5 highways shall be matters of public record and shall be made available to
+6 any member of the public upon request, except that information submitted
+7 to a governing entity municipality by a telecommunications company which
+8 such telecommunications company determines to be proprietary shall be
+9 deemed to be a trade secret pursuant to subdivision (3) of section
+10 84-712.05 and shall be accorded full protection from disclosure to third
+11 parties in a manner consistent with state law.
+12 (11) For purposes of this section, unless the context otherwise
+13 requires:
+14 (a) Governing entity has the same meaning as in section 12 of this
+15 act;
+16 (b) Internet-protocol-enabled service has the same meaning as in
+17 section 86-111.01;
+18 (c) Telecommunications service has the same meaning as in section
+19 86-121; and
+20 (d) Voice over Internet protocol service has the same meaning as in
+21 section 86-121.01.
+22 Sec. 20. Section 86-1505, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 86-1505 After a granting agency makes final payment of public funds
+25 under a broadband deployment program to a competitive provider in a
+26 deployment project area that is part of a local exchange area served by
+27 an incumbent carrier, upon request by the incumbent carrier or
+28 competitive provider the commission expeditiously shall:
+29 (1) Upon finding that the granting agency has determined the
+30 competitive provider is in compliance with all requirements of the
+31 broadband deployment program, relieve the incumbent carrier of eligible
+-21-
+
+LB311 LB311
+2025 2025
+1 telecommunications carrier obligations and carrier of last resort
+2 obligations in the deployment project area;
+3 (2) Consistent with rules of procedure adopted and promulgated by
+4 the commission, make determinations related to allocations and
+5 distributions of support from the Nebraska Telecommunications Universal
+6 Service Fund for the deployment project area; and
+7 (3) In coordination with the Federal Communications Commission, and
+8 in consultation with the incumbent carrier and the competitive provider,
+9 determine whether eligible telecommunications carrier and carrier of last
+10 resort obligations corresponding with support from the Nebraska
+11 Telecommunications Universal Service Fund in the deployment project area
+12 should be transferred to the competitive provider.
+13 Sec. 21. Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15,
+14 16, 18, 20, 23, and 24 of this act become operative three calendar months
+15 after the adjournment of this legislative session. The other sections of
+16 this act become operative on their effective date.
+17 Sec. 22. Original sections 86-111.01 and 86-704, Reissue Revised
+18 Statutes of Nebraska, are repealed.
+19 Sec. 23. Original sections 75-342, 76-2325.01, 86-124, and 86-1505,
+20 Reissue Revised Statutes of Nebraska, and sections 75-109.01 and 75-311,
+21 Revised Statutes Cumulative Supplement, 2024, are repealed.
+22 Sec. 24. The following section is outright repealed: Section
+23 75-148, Reissue Revised Statutes of Nebraska.
+24 Sec. 25. Since an emergency exists, this act takes effect when
+25 passed and approved according to law.
+-22-
+
+[DELETED: yDA8N a s 7 a 7 R SC S 2 t a t TE D A t p c r ogjp r t c o p c an0n m t s a c o1a a c t n c a2p d t p d f t P S3C t p p f i w c4f5c6T7t c a g e a p8t9t e r r t i o s b 0c1s t o r s 7 a t d a2e1L52]
+[DELETED: B1L52]
+[DELETED: ScS 2  F p o t T ED( C o l r m a ft c a d b t c ni w t f T A o 1 wr o h r h s f t f US F o t N T U S F0a h t o t p v c s u1r2w3(4(5w6( E l e c m a t7c8s w N i o o b F 8 1 o 9c t h r a c i c w t0a1(2f3d4( V c s m ( t t5c o r o r t v c t 6p o b o a p b o t a e r7s8o9a t v c t a f t p s t0n o ( v o I p s a d i1s1L52]
+[DELETED: S 3  ( T c m r d o if t c a n t i a et( T c m m t c o aiA t i c t b c f c p oc i a w s i f pd( T T E D A s n0a1( T e o c o c l i b n2l3t4(5s6o J 1 2 a a c t r w7s q s i a o o8o f w t c h j u s o9f0( A r t c t a f a b t1c a b t 9 S S A t2T3U4( A c j o i s a5r t a c i t r o d6a7t8(9t N T U S F a t r0r1S F A o t r o f f t f U1L52]
+[DELETED: S F r o t u s o t ps( A e r a o w r t (rha(t( A p o t R C S A0a1( T c a t a o e s o2r p a a i l e c i 3d e i s s o r p c4o5S687d o o s c e T c m h 8h9a0t d t c r a a t i s1p2s b d o r r a i a f o3c t e i a w t s A e4l e c m f a a w t c t5d a e o t c t t c p6d7i t e o a c p v8c9T c m s a a f a a a t c t0c1( I m a d u s ( o t1L52]
+[DELETED: st d o t e i i t p i i iaoc s i a l n p o t hle T p m b r b e s td( M t t p o t h l o o0t a k a t t o a i t e d n1h2o3c4(5o6l7t l k a t t o a F p o t8s ( v c s n i t9t c o r o r t v0c t a p o b o a p b o t1s2(3t4i5c6s i a l s p o t h l7o8(9p v c s b a c o t t0e1r1L52]
+[DELETED: o e r t i i t F CCc(c m r o d a t t c r t vc s c i b n l t df t F C C B D Ct(0t1t2c3a4S5(6( C w s o r r r t7q8(9s i a t s u t0r1c2(3(4f5( N a o p o C 8 t6c s h o t a o a d c7p8i a c b t T E D A9a0E1(1L52]
+[DELETED: s(ba( A t c o c p sna e t h b d u s tc o c p c t f so0S 6  E a p b s 7 o t a 1t c i g b t T E2D3t4t c I t i a c b t5T E D A a o a6p o C 8 t T E D7A8S9f0(1( C w s o r r r t2q3(4r5c6( A t c i n e t r f f7t N T U S F f d8e9f r a t c a o f f t0N T U S F t a f1d1L52]
+[DELETED: S 8  I a e t r r a tcpcSs r a t o c p f trS 1  A t c s t ds0o s 8 A t c s t d1s2(3S 1  T c m a a p r a4r a c a p n t a a5e6a7b8S9(0o1(2a ( a a m c m o t p p3i4p5( I m a l e c p6t s a r f o a m b 7g8( I s h t s m a i9s0( P m a p o t s o1I1L52]
+[DELETED: ((a( T c h t s m a i s8( T s h t s m a i s8(s0( N g e s e a o e a a1t2( I a r b b s ( o s384o c c s r w r t a s5n6(7l8(9(0a r o o a o c r1t2I3c4(5( A m e f t s o s 8 b6s7( A e r p d a o w8r9( T a o t P S C u t 90S1(1L52]
+[DELETED: as(c(acsd0s1S2237 E a o s p b l t4P S C s h j a p o5t6( C c g p t s 7 t778(9A0( M h a r v p t t1U2(3f4( M c r l a s p t5s6( P c a r p t t M O7P879t0t1( R c s p t s 7 71L52]
+[DELETED: 7( T c p t t A DA D A t E T C SAt I P R A t NT R A t N TUA t T R S A t T CS0a1(2a3(4( J u g b t S N G5R6p7S8S 1 S 7 R S C S9207 ( ( A c s b i t a q1a2t3a i f w a a p t p t s4p5a6s a ( ( t p s t t e t b7a8b9O0(1f1L52]
+[DELETED: c t t p o s 7 t 7 a trp(t ( e c a c m o w m tp n a ( t e i t a s w brtt0( ( A p s b i t a q a1t2a3o4f w a a p t p t s o a c5c b m v a t c t t p o s6s a t l r r a r o t7c8t9i b p s d t m t d n o0e1a d i s ( o s 7 O t2a3(4m t s p t a c w ( t5D o H a H S ( a m c6o7w8i d w t a w b c w t9p i t c s c w t D o0M a L C o t D o M a L1C1L52]
+[DELETED: ( ( A d o a s b i t ar m c h a c u s ( ots c t p m n m ts p t a c w ( t D o H aHwba h f t a o f a h h o t0a1o f c a n t s t d n o2m3(4s5b o a p t t a t s t ( e6c7t e i t a s w b r t a p8d9s m w e o i t o o0e1(2b3n4o5C6( U J 1 2 n p s a t s t h 7c8t9o w t s t u t c f t i i0c w t p i a w t p d i1s1L52]
+[DELETED: ( U J 1 2 a t i o a c op t c s r t o o a c oc c w h a f t c t dw t a i o i t t ohc c h w f t p t us 7 t 7 a r a r p uso071( ( T s s n a t t n2c3a4S 1 S 7 R R S o N i5a67 N t n c o p d7s p t f a p u c w t8D o H a H S o a c o t9D o H a H S w s a0f1a r t n c o p d2u a p s t ( e c a c3m4t e i t a s w b r t a p5d6s m w e o i t o o7e8s9d0p1S1L52]
+[DELETED: i7d o o i w t p w o ofii t s o w w a p i o iw t t o t b cms0S1a28 I s o I s3m4b5r6o7a8t9S 1 S 8 R R S o N i0a182(3o4( M r s r p s a w5t6(7( I s a v o I8p9o0(1( T e o c o c l i b n1L52]
+[DELETED: lt( A e o o r o c auewo f w t c h j u s of( A r t c t a f a b t0c1N2( A c j o i s a3r t a c i t r o d4a5t6(7t N T U S F a t r8r9S F A o t r o f f t f U0S1o2( A e r a o w r t (3r4h5a6(7S 1 S 8 R R S o N i8a980t1a1L52]
+[DELETED: alsa n t i w t o u o s l o o sh b t p a ( a a w a c s bp a a h o n l t e f a a hc( S 8 t 8 s n t t r nv0o t p w c a o a o a 1t2c3w a m w f o t c o t4g e b o t m T g e5m s n e a a o a r t6t c m h t d t7s8C C a s n i a r o9c o I s a v o I0p1c2( C f a g e b f t u o a p3h4t5c s n b u w a a p o6d7s c A g e m s n a a8o r r o r t p o h t9e o p t a o a t c t0p1(1L52]
+[DELETED: af t u b a t c o a p h ot(1( ( T o t s b i o o t rf((0o1( ( B O 1 2 s a t h2p3(4( ( A p h c p f o c t5c6o7s8o c s b d r t t c i b t9m i p s r t t g o0a1s2( A t f o c i b a m s b3c4( A m m i a o t d i5s6l7t q o w t i s r h b s a 8p9m a n o e o a a s e h0w t m a i w a r v s b1e1L52]
+[DELETED: e r p t t s b m t thso t r p t r i t t ece s b c i a w t E A I mit i t r i I a m o t v o t0q1t2(3a t t o c o a f l o p4i b a m p t A 2 1 o t r a5p f a o t S f l o6p7m8l o p t m o t a e f9l0( A p h c p f o c t i1i2a3s m ( b d r t t c i b t4g e i p s r t t g o5a6o7( A t f o c i b a g e a8d9(0m t t p o i s b 1t1L52]
+[DELETED: rt( ( T t o a a b a g em a a t c r u o phats t c d t b p s bd t b a t s p t s ( o s081p2( F p o t s u t c o3r4(5a6( I s h t s m a i7s8( T s h t s m a i s980(1s2S3a485u a b d p t a c p i 6d7a i c u r b t i c o8c9( U f t t g a h d t0c p i i c w a r o t1b1L52]
+[DELETED: t c o a c o l ro( C w r o p a a p bt c m d r t a adS(id0r o c w s f t N1T2s3S415a6t7S 2  O s 8 a 8 R R8S9S0R1R2S 2  T f s i o r S374S 2  S a e e t a t e w5p1L52]

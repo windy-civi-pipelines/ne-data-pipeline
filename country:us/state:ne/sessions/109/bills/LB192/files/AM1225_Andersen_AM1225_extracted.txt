@@ -1,0 +1,57 @@
+Title: 1 1. On page 6, after line 29, insert the following new subsections:
+Official Title: 1 1. On page 6, after line 29, insert the following new subsections:
+Number of Sections: 1
+Source: versions - Andersen AM1225
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM1225 AM1225
+LB192 LB192
+DLM - 04/29/2025 DLM - 04/29/2025
+AMENDMENTS TO LB192
+(Amendments to Final Reading copy)
+Introduced by Andersen, 49.
+2 "(5) Unless expressly required by federal law, the department shall
+3 not seek, apply for, accept, or renew a waiver of any work requirement
+4 established by the Supplemental Nutrition Assistance Program under 7
+5 U.S.C. 2015(o), as such section existed on January 1, 2025, except that
+6 the department may exercise the state's option to provide an exemption
+7 from the work requirement under 7 U.S.C. 2015(o)(6), as such section
+8 existed on January 1, 2025.
+9 (6) The department may, at its discretion, exercise its authority
+10 under 7 U.S.C. 2015(d), as such section existed on January 1, 2025, to
+11 require individuals, unless specifically exempted by federal regulations
+12 or law, to participate in an employment and training program as defined
+13 in 7 U.S.C. 2015(d)(4), as such section existed on January 1, 2025.".
+-1-
+[DELETED: yA1"ne b t S N A P u Utf t w r u 7 U 2 a s se( T d m a i d e i a0u1r2o3i5A2L5D]
+
+
+================================================================================
+
+Raw Text:
+AM1225 AM1225
+LB192 LB192
+DLM - 04/29/2025 DLM - 04/29/2025
+AMENDMENTS TO LB192
+(Amendments to Final Reading copy)
+Introduced by Andersen, 49.
+1 1. On page 6, after line 29, insert the following new subsections:
+2 "(5) Unless expressly required by federal law, the department shall
+3 not seek, apply for, accept, or renew a waiver of any work requirement
+4 established by the Supplemental Nutrition Assistance Program under 7
+5 U.S.C. 2015(o), as such section existed on January 1, 2025, except that
+6 the department may exercise the state's option to provide an exemption
+7 from the work requirement under 7 U.S.C. 2015(o)(6), as such section
+8 existed on January 1, 2025.
+9 (6) The department may, at its discretion, exercise its authority
+10 under 7 U.S.C. 2015(d), as such section existed on January 1, 2025, to
+11 require individuals, unless specifically exempted by federal regulations
+12 or law, to participate in an employment and training program as defined
+13 in 7 U.S.C. 2015(d)(4), as such section existed on January 1, 2025.".
+-1-
+
+[DELETED: yA1"ne b t S N A P u Utf t w r u 7 U 2 a s se( T d m a i d e i a0u1r2o3i5A2L5D]

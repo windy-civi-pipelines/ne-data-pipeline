@@ -1,0 +1,1116 @@
+LB609 LB609
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 609
+Introduced by Bostar, 29.
+Read first time January 22, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to fraud; to amend sections 28-512, 28-602,
+2 28-603, 28-639, 28-1111, 28-1463.06, 28-1601, and 28-1602, Reissue
+3 Revised Statutes of Nebraska, and sections 28-416 and 28-813.01,
+4 Revised Statutes Cumulative Supplement, 2024; to adopt the
+5 Controllable Electronic Record Fraud Prevention Act; to require
+6 certain notice to purchasers of gift certificates or gift cards; to
+7 define a term; to provide for forfeiture for convictions for certain
+8 offenses involving theft by deception, forgery, and identity theft;
+9 to provide for forfeiture of controllable electronic records; to
+10 clarify and harmonize provisions; to provide severability; and to
+11 repeal the original sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB609 LB609
+2025 2025
+1 Section 1. Sections 1 to 11 of this act shall be known and may be
+2 cited as the Controllable Electronic Record Fraud Prevention Act.
+3 Sec. 2. For purposes of the Controllable Electronic Record Fraud
+4 Prevention Act:
+5 (1) Blockchain analytics means the analysis of data from blockchains
+6 or public distributed ledgers, including associated transaction
+7 information;
+8 (2) Blockchain analytics software means a software service that uses
+9 blockchain analytics data to provide risk-specific information about
+10 controllable electronic record addresses, among other things;
+11 (3) Controllable electronic record address means an alphanumeric
+12 identifier associated with a controllable electronic record wallet
+13 identifying the location to which a controllable electronic record
+14 transaction can be sent;
+15 (4) Controllable electronic record means a digital representation of
+16 value, other than a representation of the United States dollar or a
+17 foreign currency, that functions as a unit of account, a store of value,
+18 and a medium of exchange;
+19 (5) Controllable electronic record kiosk means an electronic
+20 terminal acting as a mechanical agent of the controllable electronic
+21 record kiosk operator to enable the controllable electronic record kiosk
+22 operator to facilitate the exchange of controllable electronic records
+23 for money, bank credit, or other controllable electronic records,
+24 including, but not limited to, by (a) connecting directly to a separate
+25 controllable electronic record exchange that performs the actual
+26 controllable electronic record transmission or (b) drawing upon the
+27 controllable electronic record in the possession of the electronic
+28 terminal's operator;
+29 (6) Controllable electronic record kiosk operator means a person
+30 that engages in controllable electronic record business activity via a
+31 controllable electronic record kiosk located in this state or a person
+-2-
+
+LB609 LB609
+2025 2025
+1 that owns, operates, or manages a money transmission kiosk located in
+2 this state through which controllable electronic record business activity
+3 is offered;
+4 (7) Controllable electronic record kiosk transaction means a
+5 transaction conducted or performed, in whole or in part, by electronic
+6 means via a controllable electronic record kiosk. Controllable electronic
+7 record kiosk transaction includes a transaction made at a controllable
+8 electronic record kiosk to purchase controllable electronic records with
+9 United States dollars or to sell controllable electronic records for
+10 United States dollars; and
+11 (8) Controllable electronic record wallet means a software
+12 application or other mechanism providing a means to hold the keys
+13 necessary to access and transfer controllable electronic records;
+14 (9) Customer means new customers and existing customers;
+15 (10) Department means the Department of Banking and Finance;
+16 (11) Existing customer means an individual whose first controllable
+17 electronic record kiosk transaction with the controllable electronic
+18 record kiosk operator was more than thirty days prior;
+19 (12) New customer means an individual during the thirty-day period
+20 after such individual's first transaction with the controllable
+21 electronic record kiosk operator that the individual has never previously
+22 transacted with. The individual shall remain defined as a new customer
+23 during the thirty-day period after the first controllable electronic
+24 record kiosk transaction with the controllable electronic record kiosk
+25 operator; and
+26 (13) Transaction hash means a unique identifier made up of a string
+27 of characters that acts as a record of and provides proof that the
+28 transaction was verified and added to the blockchain.
+29 Sec. 3. (1) A controllable electronic record kiosk operator shall
+30 not engage in controllable electronic record kiosk transactions or hold
+31 itself out as being able to engage in such transactions with or on behalf
+-3-
+
+LB609 LB609
+2025 2025
+1 of another person unless the kiosk operator has a license issued pursuant
+2 to the Nebraska Money Transmitters Act.
+3 (2) A controllable electronic record kiosk operator shall not
+4 locate, or allow a third party to locate, a controllable electronic
+5 record kiosk in this state unless the operator registers the kiosk with
+6 the department and obtains the prior approval of the department for the
+7 kiosk.
+8 (3) Each controllable electronic record kiosk operator shall submit
+9 a report to the department within forty-five days after the end of each
+10 calendar quarter. The report shall include, at a minimum, the following
+11 information for each controllable electronic record kiosk operated by the
+12 operator within the state:
+13 (a) The location and physical address;
+14 (b) The legal name and any fictitious or trade name of any location
+15 of the kiosk;
+16 (c) The start date of operation;
+17 (d) The end date of operation, if applicable; and
+18 (e) Any associated controllable electronic record address.
+19 Sec. 4. (1) A controllable electronic record kiosk operator shall
+20 disclose to a customer in a clear, conspicuous, and easily readable
+21 manner in the chosen language of the customer, all relevant terms and
+22 conditions generally associated with the products, services, and
+23 activities of the operator and controllable electronic record.
+24 (2) The controllable electronic record kiosk operator shall require
+25 acknowledgement of receipt of all disclosures required by this section
+26 via confirmation of consent by the customer.
+27 (3) The disclosures shall include a statement, written prominently
+28 and in bold type and provided separately from the other disclosures,
+29 warning customers about the potential for criminals to exploit
+30 controllable electronic record kiosks to commit illicit activity. The
+31 controllable electronic record kiosk operator may tailor the warning
+-4-
+
+LB609 LB609
+2025 2025
+1 language to highlight evolving tactics and techniques. The warning
+2 language shall be similar to the following form:
+3 WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM A STRANGER
+4 WHO IS INITIATING A DISHONEST SCHEME. I UNDERSTAND THAT CRIMINAL ACTIVITY
+5 MAY APPEAR IN MANY FORMS, INCLUDING, BUT NOT LIMITED TO:
+6 (1) Claims of a frozen bank account or credit card;
+7 (2) Fraudulent bank transactions;
+8 (3) Claims of identity theft or job offerings in exchange for
+9 payments;
+10 (4) Requests for payments to government agencies or companies;
+11 (5) Requests for disaster relief donations or loans;
+12 (6) Offers to purchase tickets for lotteries, sweepstakes, or
+13 drawings for vehicles;
+14 (7) Prompts to click on desktop pop-ups, such as virus warnings or
+15 communication from alleged familiar merchants; and
+16 (8) Communication from someone impersonating a representative of
+17 your bank or a law enforcement officer.
+18 IF YOU BELIEVE YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+19 ENFORCEMENT AGENCY.
+20 WARNING: TRANSACTIONS CONDUCTED ON THIS CONTROLLABLE ELECTRONIC
+21 RECORD KIOSK ARE IRREVERSIBLE. PROTECT YOURSELF FROM FRAUD. NEVER SEND
+22 MONEY TO SOMEONE YOU DON'T KNOW.
+23 (4) The disclosure shall also include:
+24 (a) The material risks associated with controllable electronic
+25 records and controllable electronic record transactions, including:
+26 (i) The operator's liability for unauthorized controllable
+27 electronic record transactions;
+28 (ii) The customer's liability for unauthorized currency
+29 transactions;
+30 (iii) A warning that controllable electronic records are not legal
+31 tender, not backed or issued by the United States Government, and are not
+-5-
+
+LB609 LB609
+2025 2025
+1 subject to protections by the Federal Deposit Insurance Corporation,
+2 National Credit Union Administration, or Securities Investor Protection
+3 Corporation;
+4 (iv) A warning that there may be delays in the processing and
+5 confirmation of controllable electronic record transactions;
+6 (v) A warning that the value of controllable electronic records is
+7 derived from supply and demand in the global marketplace which can rise
+8 or fall independently of any fiat currency. Holding controllable
+9 electronic records carries exchange rate and other types of risk;
+10 (vi) A warning that a person who accepts a controllable electronic
+11 record as payment today is not required to accept and might not accept
+12 controllable electronic records in the future;
+13 (vii) A warning that the volatility and unpredictability of the
+14 price of controllable electronic records relative to fiat currency may
+15 result in a significant loss over a short period;
+16 (viii) A warning that any bond or trust maintained by the
+17 controllable electronic record kiosk operator for the benefit of a
+18 customer may not cover all losses;
+19 (b) The amount of the customer's controllable electronic record
+20 kiosk transaction denominated in United States dollars as well as the
+21 applicable controllable electronic records;
+22 (c) Any fees or expenses charged by the controllable electronic
+23 record kiosk operator;
+24 (d) Any applicable exchange rates;
+25 (e) The controllable electronic record transaction daily limit of
+26 two thousand dollars for new customers;
+27 (f) The controllable electronic record transaction daily limit of
+28 five thousand dollars for existing customers;
+29 (g) The name, address, and telephone number of the operator of the
+30 controllable electronic record kiosk, the days, time, and means by which
+31 a customer can contact the operator for customer assistance, and any
+-6-
+
+LB609 LB609
+2025 2025
+1 relevant state or local law enforcement agency or government agency for
+2 reporting fraud, all of which shall be displayed on or at the location of
+3 the controllable electronic record kiosk, or on the first screen of such
+4 kiosk;
+5 (h) Any other disclosures that are customarily given in connection
+6 with a controllable electronic record kiosk transaction.
+7 (5) Upon the completion of a controllable electronic record kiosk
+8 transaction, the controllable electronic record kiosk operator shall
+9 provide the customer with a receipt in the language chosen by such
+10 customer. The receipt shall be physical where possible. If necessary, the
+11 controllable electronic record kiosk operator may provide the receipt in
+12 multiple communications. The receipt shall contain the following
+13 information:
+14 (a) The operator's name and contact information, including a
+15 telephone number to answer questions and register complaints;
+16 (b) Relevant state law enforcement agencies and government agencies
+17 for reporting fraud;
+18 (c) The type, value, date, and precise time of the transaction, the
+19 transaction hash, and each applicable controllable electronic record
+20 address;
+21 (d) The name and contact information of the sender of the
+22 controllable electronic record transaction;
+23 (e) The name and contact information of the designated recipient of
+24 the controllable electronic record transaction;
+25 (f) All fees charged;
+26 (g) The exchange rate of the controllable electronic record to
+27 United States dollars;
+28 (h) The operator's liability for nondelivery or delayed delivery;
+29 (i) The operator's refund policy; and
+30 (j) Any additional information the department may require.
+31 Sec. 5. (1) All controllable electronic record kiosk operators
+-7-
+
+LB609 LB609
+2025 2025
+1 shall use blockchain analytics software to assist in the prevention of
+2 sending purchased controllable electronic records from an operator to a
+3 controllable electronic record wallet known to be affiliated with
+4 fraudulent activity at the time of a transaction. The department may
+5 request evidence from any controllable electronic record kiosk operator
+6 of current use of blockchain analytics.
+7 (2) All controllable electronic record kiosk operators shall take
+8 reasonable steps to detect and prevent fraud, including establishing and
+9 maintaining a written anti-fraud policy. The anti-fraud policy shall, at
+10 a minimum, include:
+11 (a) The identification and assessment of fraud-related risk areas;
+12 (b) Procedures and controls to protect against identified risks;
+13 (c) Allocation of responsibility for monitoring risks; and
+14 (d) Procedures for the periodic evaluation and revision of the anti-
+15 fraud procedures, controls, and monitoring mechanisms.
+16 Sec. 6. (1) Each controllable electronic record kiosk operator
+17 shall designate and employ a compliance officer on a full-time basis.
+18 (2) The compliance officer shall be qualified to coordinate and
+19 monitor compliance with the Controllable Electronic Record Fraud
+20 Prevention Act and all other applicable federal and state laws, rules,
+21 and regulations.
+22 (3) The compliance officer shall not own more than twenty percent of
+23 the controllable electronic record kiosk operator.
+24 (4) All compliance responsibilities required under federal and state
+25 laws, rules, and regulations shall be completed by full-time employees of
+26 the controllable electronic record kiosk operator or by approved outside
+27 vendors with compliance expertise supervised by full-time employees of
+28 such operator.
+29 Sec. 7. (1) If a new customer has been fraudulently induced to
+30 engage in a controllable electronic record kiosk transaction and contacts
+31 the controllable electronic record kiosk operator and a law enforcement
+-8-
+
+LB609 LB609
+2025 2025
+1 agency or government agency to inform the operator and agency of the
+2 fraudulent nature of the transaction within ninety days after the
+3 transaction then, upon request of the customer, the operator shall issue
+4 a full refund for the fraudulently induced controllable electronic record
+5 transaction, including fees charged in association with the transaction.
+6 (2) If an existing customer has been fraudulently induced to engage
+7 in a controllable electronic record kiosk transaction and contacts the
+8 controllable electronic record kiosk operator and a law enforcement
+9 agency or government agency to inform the operator and agency of the
+10 fraudulent nature of the transaction within ninety days after the
+11 transaction then, upon request of the customer, the operator shall issue
+12 a full refund for the fees charged in association with the transaction.
+13 Sec. 8. A controllable electronic record kiosk operator shall not
+14 accept transactions in a day in connection with controllable electronic
+15 record kiosk transactions for a single customer in this state via one or
+16 more controllable electronic record kiosks exceeding:
+17 (1) For new customers, two thousand United States dollars or the
+18 equivalent in controllable electronic records; or
+19 (2) For existing customers, five thousand dollars or the equivalent
+20 in controllable electronic records.
+21 Sec. 9. The aggregate fees and charges, directly or indirectly,
+22 charged to a customer related to a single transaction or series of
+23 related transactions involving controllable electronic records effected
+24 through a controllable electronic record kiosk in this state, including
+25 any difference between the price charged to a customer to buy, sell,
+26 exchange, swap, or convert controllable electronic records and the
+27 prevailing market value of such controllable electronic records at the
+28 time of such transaction, shall not exceed eighteen percent of the value
+29 of the United States dollars involved in the transaction or transactions.
+30 Sec. 10. All controllable electronic record kiosk operators
+31 performing business in the state shall, at a minimum, provide live
+-9-
+
+LB609 LB609
+2025 2025
+1 customer service on Monday through Friday between the hours of 7:00 a.m.
+2 and 9:00 p.m. via a toll-free telephone number. The telephone number
+3 shall be displayed on the controllable electronic record kiosk or the
+4 kiosk screens.
+5 Sec. 11. All controllable electronic record kiosk operators
+6 performing business in the state shall, at a minimum, have a dedicated
+7 method of contact for law enforcement and regulatory agencies to contact
+8 the controllable electronic record kiosk operator. This method of
+9 communications shall be monitored at least daily. The contact method
+10 shall be displayed and available on the controllable electronic record
+11 kiosk operator's website and shall be updated as necessary.
+12 Sec. 12. (1) For purposes of this section, gift certificate or gift
+13 card means a certificate, electronic card, or other prefunded record that
+14 (a) is usable at a single merchant or an affiliated group of merchants
+15 that share the same name, mark, or logo, or is usable at multiple
+16 unaffiliated merchants or service providers, (b) is issued in a specified
+17 amount, (c) may or may not be increased in value or reloaded, (d) is
+18 purchased or loaded on a prepaid basis for the future purchase or
+19 delivery of any goods or services, and (e) is honored upon presentation.
+20 (2) Except as provided in subsection (7) of this section, if any
+21 person, firm, partnership, association, limited liability company,
+22 corporation, or other business entity sells one or more gift certificates
+23 or gift cards to a purchaser, the seller shall provide notice about the
+24 potential fraud to the purchaser.
+25 (3) Prior to enactment, the Consumer Protection Division of the
+26 Office of the Attorney General shall release model notice language which
+27 the entities listed in subsection (2) of this section may use to comply
+28 with such subsection.
+29 (4) The notice required pursuant to subsection (2) of this section
+30 shall be provided conspicuously where gift certificates or gift cards are
+31 displayed or sold or at point of sale on an electronic payment system
+-10-
+
+LB609 LB609
+2025 2025
+1 screen or in printed form.
+2 (5) If the Attorney General has cause to believe this section has
+3 been violated, the Attorney General may provide a written citation to the
+4 violator. Any person, firm, partnership, association, limited liability
+5 company, corporation, or other business entity that receives more than
+6 one citation may be subject to a civil penalty of up to two hundred fifty
+7 dollars. The first written citation shall be considered a warning.
+8 (6) Subsection (2) of this section does not apply to a person, firm,
+9 partnership, association, limited liability company, corporation, or
+10 other business entity which sells only gift cards redeemable for goods or
+11 services exclusively by the same person, firm, partnership, association,
+12 limited liability company, corporation, or other business entity.
+13 (7) This section does not apply to a general-use, prepaid card
+14 issued by a financial institution as defined in section 8-101.03 in a
+15 predetermined amount, whether or not that amount can be increased or
+16 reloaded, which is usable at multiple unaffiliated sellers of goods or
+17 services, automatic teller machines, or both.
+18 Sec. 13. Section 28-416, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 28-416 (1) Except as authorized by the Uniform Controlled Substances
+21 Act, it shall be unlawful for any person knowingly or intentionally: (a)
+22 To manufacture, distribute, deliver, dispense, or possess with intent to
+23 manufacture, distribute, deliver, or dispense a controlled substance; or
+24 (b) to create, distribute, or possess with intent to distribute a
+25 counterfeit controlled substance.
+26 (2) Except as provided in subsections (4), (5), (7), (8), (9), and
+27 (10) of this section, any person who violates subsection (1) of this
+28 section with respect to: (a) A controlled substance classified in
+29 Schedule I, II, or III of section 28-405 which is an exceptionally
+30 hazardous drug shall be guilty of a Class II felony; (b) any other
+31 controlled substance classified in Schedule I, II, or III of section
+-11-
+
+LB609 LB609
+2025 2025
+1 28-405 shall be guilty of a Class IIA felony; or (c) a controlled
+2 substance classified in Schedule IV or V of section 28-405 shall be
+3 guilty of a Class IIIA felony.
+4 (3) A person knowingly or intentionally possessing a controlled
+5 substance, except marijuana or any substance containing a quantifiable
+6 amount of the substances, chemicals, or compounds described, defined, or
+7 delineated in subdivision (c)(27) of Schedule I of section 28-405, unless
+8 such substance was obtained directly or pursuant to a medical order
+9 issued by a practitioner authorized to prescribe while acting in the
+10 course of his or her professional practice, or except as otherwise
+11 authorized by the act, shall be guilty of a Class IV felony. A person
+12 shall not be in violation of this subsection if section 28-472 or 28-1701
+13 applies.
+14 (4)(a) Except as authorized by the Uniform Controlled Substances
+15 Act, any person eighteen years of age or older who knowingly or
+16 intentionally manufactures, distributes, delivers, dispenses, or
+17 possesses with intent to manufacture, distribute, deliver, or dispense a
+18 controlled substance or a counterfeit controlled substance (i) to a
+19 person under the age of eighteen years, (ii) in, on, or within one
+20 thousand feet of the real property comprising a public or private
+21 elementary, vocational, or secondary school, a community college, a
+22 public or private college, junior college, or university, or a
+23 playground, or (iii) within one hundred feet of a public or private youth
+24 center, public swimming pool, or video arcade facility shall be punished
+25 by the next higher penalty classification than the penalty prescribed in
+26 subsection (2), (7), (8), (9), or (10) of this section, depending upon
+27 the controlled substance involved, for the first violation and for a
+28 second or subsequent violation shall be punished by the next higher
+29 penalty classification than that prescribed for a first violation of this
+30 subsection, but in no event shall such person be punished by a penalty
+31 greater than a Class IB felony.
+-12-
+
+LB609 LB609
+2025 2025
+1 (b) For purposes of this subsection:
+2 (i) Playground means any outdoor facility, including any parking lot
+3 appurtenant to the facility, intended for recreation, open to the public,
+4 and with any portion containing three or more apparatus intended for the
+5 recreation of children, including sliding boards, swingsets, and
+6 teeterboards;
+7 (ii) Video arcade facility means any facility legally accessible to
+8 persons under eighteen years of age, intended primarily for the use of
+9 pinball and video machines for amusement, and containing a minimum of ten
+10 pinball or video machines; and
+11 (iii) Youth center means any recreational facility or gymnasium,
+12 including any parking lot appurtenant to the facility or gymnasium,
+13 intended primarily for use by persons under eighteen years of age which
+14 regularly provides athletic, civic, or cultural activities.
+15 (5)(a) Except as authorized by the Uniform Controlled Substances
+16 Act, it shall be unlawful for any person eighteen years of age or older
+17 to knowingly and intentionally employ, hire, use, cause, persuade, coax,
+18 induce, entice, seduce, or coerce any person under the age of eighteen
+19 years to manufacture, transport, distribute, carry, deliver, dispense,
+20 prepare for delivery, offer for delivery, or possess with intent to do
+21 the same a controlled substance or a counterfeit controlled substance.
+22 (b) Except as authorized by the Uniform Controlled Substances Act,
+23 it shall be unlawful for any person eighteen years of age or older to
+24 knowingly and intentionally employ, hire, use, cause, persuade, coax,
+25 induce, entice, seduce, or coerce any person under the age of eighteen
+26 years to aid and abet any person in the manufacture, transportation,
+27 distribution, carrying, delivery, dispensing, preparation for delivery,
+28 offering for delivery, or possession with intent to do the same of a
+29 controlled substance or a counterfeit controlled substance.
+30 (c) Any person who violates subdivision (a) or (b) of this
+31 subsection shall be punished by the next higher penalty classification
+-13-
+
+LB609 LB609
+2025 2025
+1 than the penalty prescribed in subsection (2), (7), (8), (9), or (10) of
+2 this section, depending upon the controlled substance involved, for the
+3 first violation and for a second or subsequent violation shall be
+4 punished by the next higher penalty classification than that prescribed
+5 for a first violation of this subsection, but in no event shall such
+6 person be punished by a penalty greater than a Class IB felony.
+7 (6) It shall not be a defense to prosecution for violation of
+8 subsection (4) or (5) of this section that the defendant did not know the
+9 age of the person through whom the defendant violated such subsection.
+10 (7) Any person who violates subsection (1) of this section with
+11 respect to cocaine or any mixture or substance containing a detectable
+12 amount of cocaine in a quantity of:
+13 (a) One hundred forty grams or more shall be guilty of a Class IB
+14 felony;
+15 (b) At least twenty-eight grams but less than one hundred forty
+16 grams shall be guilty of a Class IC felony; or
+17 (c) At least ten grams but less than twenty-eight grams shall be
+18 guilty of a Class ID felony.
+19 (8) Any person who violates subsection (1) of this section with
+20 respect to base cocaine (crack) or any mixture or substance containing a
+21 detectable amount of base cocaine in a quantity of:
+22 (a) One hundred forty grams or more shall be guilty of a Class IB
+23 felony;
+24 (b) At least twenty-eight grams but less than one hundred forty
+25 grams shall be guilty of a Class IC felony; or
+26 (c) At least ten grams but less than twenty-eight grams shall be
+27 guilty of a Class ID felony.
+28 (9) Any person who violates subsection (1) of this section with
+29 respect to heroin or any mixture or substance containing a detectable
+30 amount of heroin in a quantity of:
+31 (a) One hundred forty grams or more shall be guilty of a Class IB
+-14-
+
+LB609 LB609
+2025 2025
+1 felony;
+2 (b) At least twenty-eight grams but less than one hundred forty
+3 grams shall be guilty of a Class IC felony; or
+4 (c) At least ten grams but less than twenty-eight grams shall be
+5 guilty of a Class ID felony.
+6 (10) Any person who violates subsection (1) of this section with
+7 respect to amphetamine, its salts, optical isomers, and salts of its
+8 isomers, or with respect to methamphetamine, its salts, optical isomers,
+9 and salts of its isomers, in a quantity of:
+10 (a) One hundred forty grams or more shall be guilty of a Class IB
+11 felony;
+12 (b) At least twenty-eight grams but less than one hundred forty
+13 grams shall be guilty of a Class IC felony; or
+14 (c) At least ten grams but less than twenty-eight grams shall be
+15 guilty of a Class ID felony.
+16 (11) Any person knowingly or intentionally possessing marijuana
+17 weighing more than one ounce but not more than one pound shall be guilty
+18 of a Class III misdemeanor.
+19 (12) Any person knowingly or intentionally possessing marijuana
+20 weighing more than one pound shall be guilty of a Class IV felony.
+21 (13) Except as provided in section 28-1701, any person knowingly or
+22 intentionally possessing marijuana weighing one ounce or less or any
+23 substance containing a quantifiable amount of the substances, chemicals,
+24 or compounds described, defined, or delineated in subdivision (c)(27) of
+25 Schedule I of section 28-405 shall:
+26 (a) For the first offense, be guilty of an infraction, receive a
+27 citation, be fined three hundred dollars, and be assigned to attend a
+28 course as prescribed in section 29-433 if the judge determines that
+29 attending such course is in the best interest of the individual
+30 defendant;
+31 (b) For the second offense, be guilty of a Class IV misdemeanor,
+-15-
+
+LB609 LB609
+2025 2025
+1 receive a citation, and be fined four hundred dollars and may be
+2 imprisoned not to exceed five days; and
+3 (c) For the third and all subsequent offenses, be guilty of a Class
+4 IIIA misdemeanor, receive a citation, be fined five hundred dollars, and
+5 be imprisoned not to exceed seven days.
+6 (14) Any person convicted of violating this section, if placed on
+7 probation, shall, as a condition of probation, satisfactorily attend and
+8 complete appropriate treatment and counseling on drug abuse provided by a
+9 program authorized under the Nebraska Behavioral Health Services Act or
+10 other licensed drug treatment facility.
+11 (15) Any person convicted of violating this section, if sentenced to
+12 the Department of Correctional Services, shall attend appropriate
+13 treatment and counseling on drug abuse.
+14 (16) Any person knowingly or intentionally possessing a firearm
+15 while in violation of subsection (1) of this section shall be punished by
+16 the next higher penalty classification than the penalty prescribed in
+17 subsection (2), (7), (8), (9), or (10) of this section, but in no event
+18 shall such person be punished by a penalty greater than a Class IB
+19 felony.
+20 (17) A person knowingly or intentionally in possession of money used
+21 or intended to be used to facilitate a violation of subsection (1) of
+22 this section shall be guilty of a Class IV felony.
+23 (18) In addition to the existing penalties available for a violation
+24 of subsection (1) of this section, including any criminal attempt or
+25 conspiracy to violate subsection (1) of this section, a sentencing court
+26 may order forfeiture as provided in sections 28-1601 to 28-1603. that any
+27 money, securities, negotiable instruments, firearms, conveyances, or
+28 electronic communication devices as defined in section 28-833 or any
+29 equipment, components, peripherals, software, hardware, or accessories
+30 related to electronic communication devices be forfeited as a part of the
+31 sentence imposed if it finds by clear and convincing evidence adduced at
+-16-
+
+LB609 LB609
+2025 2025
+1 a separate hearing in the same prosecution, following conviction for a
+2 violation of subsection (1) of this section, and conducted pursuant to
+3 section 28-1601, that any or all such property was derived from, used, or
+4 intended to be used to facilitate a violation of subsection (1) of this
+5 section.
+6 (19) In addition to the penalties provided in this section:
+7 (a) If the person convicted or adjudicated of violating this section
+8 is eighteen years of age or younger and has one or more licenses or
+9 permits issued under the Motor Vehicle Operator's License Act:
+10 (i) For the first offense, the court may, as a part of the judgment
+11 of conviction or adjudication, (A) impound any such licenses or permits
+12 for thirty days and (B) require such person to attend a drug education
+13 class;
+14 (ii) For a second offense, the court may, as a part of the judgment
+15 of conviction or adjudication, (A) impound any such licenses or permits
+16 for ninety days and (B) require such person to complete no fewer than
+17 twenty and no more than forty hours of community service and to attend a
+18 drug education class; and
+19 (iii) For a third or subsequent offense, the court may, as a part of
+20 the judgment of conviction or adjudication, (A) impound any such licenses
+21 or permits for twelve months and (B) require such person to complete no
+22 fewer than sixty hours of community service, to attend a drug education
+23 class, and to submit to a drug assessment by a licensed alcohol and drug
+24 counselor; and
+25 (b) If the person convicted or adjudicated of violating this section
+26 is eighteen years of age or younger and does not have a permit or license
+27 issued under the Motor Vehicle Operator's License Act:
+28 (i) For the first offense, the court may, as part of the judgment of
+29 conviction or adjudication, (A) prohibit such person from obtaining any
+30 permit or any license pursuant to the act for which such person would
+31 otherwise be eligible until thirty days after the date of such order and
+-17-
+
+LB609 LB609
+2025 2025
+1 (B) require such person to attend a drug education class;
+2 (ii) For a second offense, the court may, as part of the judgment of
+3 conviction or adjudication, (A) prohibit such person from obtaining any
+4 permit or any license pursuant to the act for which such person would
+5 otherwise be eligible until ninety days after the date of such order and
+6 (B) require such person to complete no fewer than twenty hours and no
+7 more than forty hours of community service and to attend a drug education
+8 class; and
+9 (iii) For a third or subsequent offense, the court may, as part of
+10 the judgment of conviction or adjudication, (A) prohibit such person from
+11 obtaining any permit or any license pursuant to the act for which such
+12 person would otherwise be eligible until twelve months after the date of
+13 such order and (B) require such person to complete no fewer than sixty
+14 hours of community service, to attend a drug education class, and to
+15 submit to a drug assessment by a licensed alcohol and drug counselor.
+16 A copy of an abstract of the court's conviction or adjudication
+17 shall be transmitted to the Director of Motor Vehicles pursuant to
+18 sections 60-497.01 to 60-497.04 if a license or permit is impounded or a
+19 juvenile is prohibited from obtaining a license or permit under this
+20 subsection.
+21 Sec. 14. Section 28-512, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 28-512 (1) A person commits theft if he obtains property of another
+24 by deception. A person deceives if he or she intentionally:
+25 (a) (1) Creates or reinforces a false impression, including false
+26 impressions as to law, value, intention, or other state of mind; but
+27 deception as to a person's intention to perform a promise shall not be
+28 inferred from the fact alone that he or she did not subsequently perform
+29 the promise; or
+30 (b) (2) Prevents another from acquiring information which would
+31 affect his or her judgment of a transaction; or
+-18-
+
+LB609 LB609
+2025 2025
+1 (c) (3) Fails to correct a false impression which the deceiver
+2 previously created or reinforced, or which the deceiver knows to be
+3 influencing another to whom he or she stands in a fiduciary or
+4 confidential relationship; or
+5 (d) (4) Uses a credit card, charge plate, or any other instrument
+6 which purports to evidence an undertaking to pay for property or services
+7 delivered or rendered to or upon the order of a designated person or
+8 bearer (a) where such instrument has been stolen, forged, revoked, or
+9 canceled, or where for any other reason its use by the actor is
+10 unauthorized, or (b) where the actor does not have the intention and
+11 ability to meet all obligations to the issuer arising out of his or her
+12 use of the instrument.
+13 (2) The word deceive does not include falsity as to matters having
+14 no pecuniary significance, or statements unlikely to deceive ordinary
+15 persons in the group addressed.
+16 (3) In addition to the existing penalties available for a violation
+17 of this section, including any criminal attempt or conspiracy to violate
+18 this section, a sentencing court may order forfeiture as provided in
+19 sections 28-1601 to 28-1603.
+20 Sec. 15. Section 28-602, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 28-602 (1) A person commits forgery in the first degree if, with
+23 intent to deceive or harm, he or she falsely makes, completes, endorses,
+24 alters, or utters a written instrument which is or purports to be, or
+25 which is calculated to become or to represent if completed:
+26 (a) Part of an issue of money, stamps, securities, or other valuable
+27 instruments issued by a government or governmental agency; or
+28 (b) Part of an issue of stock, bonds, bank notes, or other
+29 instruments representing interests in or claims against a corporate or
+30 other organization or its property.
+31 (2) Forgery in the first degree is a Class III felony.
+-19-
+
+LB609 LB609
+2025 2025
+1 (3) In addition to the existing penalties available for a violation
+2 of this section, including any criminal attempt or conspiracy to violate
+3 this section, a sentencing court may order forfeiture as provided in
+4 sections 28-1601 to 28-1603.
+5 Sec. 16. Section 28-603, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 28-603 (1) Whoever, with intent to deceive or harm, falsely makes,
+8 completes, endorses, alters, or utters any written instrument which is or
+9 purports to be, or which is calculated to become or to represent if
+10 completed, a written instrument which does or may evidence, create,
+11 transfer, terminate, or otherwise affect a legal right, interest,
+12 obligation, or status, commits forgery in the second degree.
+13 (2) Forgery in the second degree is a Class IIA felony when the face
+14 value, or purported face value, or the amount of any proceeds wrongfully
+15 procured or intended to be procured by the use of such instrument, is
+16 five thousand dollars or more.
+17 (3) Forgery in the second degree is a Class IV felony when the face
+18 value, or purported face value, or the amount of any proceeds wrongfully
+19 procured or intended to be procured by the use of such instrument, is one
+20 thousand five hundred dollars or more but is less than five thousand
+21 dollars.
+22 (4) Forgery in the second degree is a Class I misdemeanor when the
+23 face value, or purported face value, or the amount of any proceeds
+24 wrongfully procured or intended to be procured by the use of such
+25 instrument, is five hundred dollars or more but is less than one thousand
+26 five hundred dollars.
+27 (5) Forgery in the second degree is a Class II misdemeanor when the
+28 face value, or purported face value, or the amount of any proceeds
+29 wrongfully procured or intended to be procured by the use of such
+30 instrument, is less than five hundred dollars.
+31 (6) For the purpose of determining the class of penalty for forgery
+-20-
+
+LB609 LB609
+2025 2025
+1 in the second degree, the face values, or purported face values, or the
+2 amounts of any proceeds wrongfully procured or intended to be procured by
+3 the use of more than one such instrument, may be aggregated in the
+4 indictment or information if such instruments were part of the same
+5 scheme or course of conduct which took place within a sixty-day period
+6 and within one county. Such values or amounts shall not be aggregated
+7 into more than one offense.
+8 (7) In addition to the existing penalties available for a violation
+9 of this section, including any criminal attempt or conspiracy to violate
+10 this section, a sentencing court may order forfeiture as provided in
+11 sections 28-1601 to 28-1603.
+12 Sec. 17. Section 28-639, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 28-639 (1) A person commits the crime of identity theft if he or she
+15 knowingly takes, purchases, manufactures, records, possesses, or uses any
+16 personal identifying information or entity identifying information of
+17 another person or entity without the consent of that other person or
+18 entity or creates personal identifying information for a fictional person
+19 or entity, with the intent to obtain or use the other person's or
+20 entity's identity for any unlawful purpose or to cause loss to a person
+21 or entity whether or not the person or entity actually suffers any
+22 economic loss as a result of the offense, or with the intent to obtain or
+23 continue employment or with the intent to gain a pecuniary benefit for
+24 himself, herself, or another.
+25 (2) Identity theft is not:
+26 (a) The lawful obtaining of credit information in the course of a
+27 bona fide consumer or commercial transaction;
+28 (b) The lawful, good faith exercise of a security interest or a
+29 right of setoff by a creditor or a financial institution;
+30 (c) The lawful, good faith compliance by any person when required by
+31 any warrant, levy, garnishment, attachment, court order, or other
+-21-
+
+LB609 LB609
+2025 2025
+1 judicial or administrative order, decree, or directive; or
+2 (d) The investigative activities of law enforcement.
+3 (3)(a) Identity theft is a Class IIA felony if the credit, money,
+4 goods, services, or other thing of value that was gained or was attempted
+5 to be gained was five thousand dollars or more. Any second or subsequent
+6 conviction under this subdivision is a Class II felony.
+7 (b) Identity theft is a Class IV felony if the credit, money, goods,
+8 services, or other thing of value that was gained or was attempted to be
+9 gained was one thousand five hundred dollars or more but less than five
+10 thousand dollars. Any second or subsequent conviction under this
+11 subdivision is a Class III felony.
+12 (c) Identity theft is a Class I misdemeanor if the credit, money,
+13 goods, services, or other thing of value that was gained or was attempted
+14 to be gained was five hundred dollars or more but less than one thousand
+15 five hundred dollars. Any second or subsequent conviction under this
+16 subdivision is a Class IV felony.
+17 (d) Identity theft is a Class II misdemeanor if no credit, money,
+18 goods, services, or other thing of value was gained or was attempted to
+19 be gained, or if the credit, money, goods, services, or other thing of
+20 value that was gained or was attempted to be gained was less than five
+21 hundred dollars. Any second conviction under this subdivision is a Class
+22 I misdemeanor, and any third or subsequent conviction under this
+23 subdivision is a Class IV felony.
+24 (e) A person found guilty of violating this section may, in addition
+25 to the penalties under this subsection, be ordered to make restitution
+26 pursuant to sections 29-2280 to 29-2289.
+27 (4) In addition to the existing penalties available for a violation
+28 of this section, including any criminal attempt or conspiracy to violate
+29 this section, a sentencing court may order forfeiture as provided in
+30 sections 28-1601 to 28-1603.
+31 Sec. 18. Section 28-813.01, Revised Statutes Cumulative Supplement,
+-22-
+
+LB609 LB609
+2025 2025
+1 2024, is amended to read:
+2 28-813.01 (1) It shall be unlawful for a person nineteen years of
+3 age or older to knowingly possess any visual depiction of sexually
+4 explicit conduct which has a child as one of its participants or
+5 portrayed observers. Violation of this subsection is a Class IIA felony.
+6 (2) It shall be unlawful for a person under nineteen years of age to
+7 knowingly and intentionally possess any visual depiction of sexually
+8 explicit conduct which has a child other than the defendant as one of its
+9 participants or portrayed observers. Violation of this subsection is a
+10 Class I misdemeanor. A second or subsequent conviction under this
+11 subsection is a Class IV felony.
+12 (3) It shall be an affirmative defense to a charge made pursuant to
+13 subsection (2) of this section that:
+14 (a)(i) The defendant was less than nineteen years of age; (ii) the
+15 visual depiction of sexually explicit conduct portrays a child who is
+16 fifteen years of age or older; (iii) the visual depiction was knowingly
+17 and voluntarily generated by the child depicted therein; (iv) the visual
+18 depiction was knowingly and voluntarily provided by the child depicted in
+19 the visual depiction; (v) the visual depiction contains only one child;
+20 (vi) the defendant has not provided or made available the visual
+21 depiction to another person except the child depicted who originally sent
+22 the visual depiction to the defendant; and (vii) the defendant did not
+23 coerce the child in the visual depiction to either create or send the
+24 visual depiction; or
+25 (b)(i) The defendant was less than eighteen years of age; (ii) the
+26 difference in age between the defendant and the child portrayed is less
+27 than four years; (iii) the visual depiction was knowingly and voluntarily
+28 generated by the child depicted therein; (iv) the visual depiction was
+29 knowingly and voluntarily provided by the child depicted in the visual
+30 depiction; (v) the visual depiction contains only one child; (vi) the
+31 defendant has not provided or made available the visual depiction to
+-23-
+
+LB609 LB609
+2025 2025
+1 another person except the child depicted who originally sent the visual
+2 depiction to the defendant; and (vii) the defendant did not coerce the
+3 child in the visual depiction to either create or send the visual
+4 depiction.
+5 (4) Any person who violates subsection (1) or (2) of this section
+6 and has previously been convicted of a violation of this section or
+7 section 28-308, 28-309, 28-310, 28-311, 28-313, 28-314, 28-315, 28-319,
+8 28-319.01, 28-320.01, 28-833, 28-1463.03, or 28-1463.05 or subsection (1)
+9 or (2) of section 28-320 shall be guilty of a Class IC felony for each
+10 offense.
+11 (5) In addition to the penalties provided in this section, a
+12 sentencing court may order forfeiture as provided in sections 28-1601 to
+13 28-1603. that any money, securities, negotiable instruments, firearms,
+14 conveyances, or electronic communication devices as defined in section
+15 28-833 or any equipment, components, peripherals, software, hardware, or
+16 accessories related to electronic communication devices be forfeited as a
+17 part of the sentence imposed if it finds by clear and convincing evidence
+18 adduced at a separate hearing in the same prosecution, conducted pursuant
+19 to section 28-1601, that any or all such property was derived from, used,
+20 or intended to be used to facilitate a violation of this section.
+21 (6) The definitions in section 28-1463.02 shall apply to this
+22 section.
+23 Sec. 19. Section 28-1111, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 28-1111 In addition to any penalty provided in section 28-1102,
+26 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107, a sentencing court may
+27 order forfeiture as provided in sections 28-1601 to 28-1603. that any
+28 money, securities, negotiable instruments, firearms, conveyances, or
+29 electronic communication devices as defined in section 28-833 or any
+30 equipment, components, peripherals, software, hardware, or accessories
+31 related to electronic communication devices, or any gambling devices be
+-24-
+
+LB609 LB609
+2025 2025
+1 forfeited as a part of the sentence imposed if it finds by clear and
+2 convincing evidence adduced at a separate hearing in the same
+3 prosecution, conducted pursuant to section 28-1601, that any or all such
+4 property was derived from, used, or intended to be used to facilitate a
+5 violation of section 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+6 28-1107.
+7 Sec. 20. Section 28-1463.06, Reissue Revised Statutes of Nebraska,
+8 is amended to read:
+9 28-1463.06 In addition to the penalties provided in the Child
+10 Pornography Prevention Act, a sentencing court may order forfeiture as
+11 provided in sections 28-1601 to 28-1603. that any money, securities,
+12 negotiable instruments, firearms, conveyances, or electronic
+13 communication devices as defined in section 28-833 or any equipment,
+14 components, peripherals, software, hardware, or accessories related to
+15 electronic communication devices be forfeited as a part of the sentence
+16 imposed if it finds by clear and convincing evidence adduced at a
+17 separate hearing in the same prosecution, conducted pursuant to section
+18 28-1601, that any or all such property was derived from, used, or
+19 intended to be used to facilitate a violation of the Child Pornography
+20 Prevention Act.
+21 Sec. 21. Section 28-1601, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 28-1601 (1) For purposes of sections 28-1601 to 28-1603:
+24 (a) Controllable electronic record has the same meaning as in
+25 section 8-3003;
+26 (b) Covered offense means a violation of the Child Pornography
+27 Prevention Act, subsection (1) of section 28-416, or section 28-512,
+28 28-602, 28-603, 28-639, 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+29 28-1105.01, or 28-1107;
+30 (c) Electronic communication device has the same meaning as in
+31 section 28-833; and
+-25-
+
+LB609 LB609
+2025 2025
+1 (d) Gambling device has the same meaning as in section 28-1101.
+2 (2) (1) In addition to existing penalties for a violation of a
+3 covered offense the Child Pornography Prevention Act, subsection (1) of
+4 section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+5 28-1105.01, or 28-1107, a court may order forfeiture of any money,
+6 securities, negotiable instruments, controllable electronic records,
+7 firearms, conveyances, or electronic communication devices; as defined in
+8 section 28-833, any equipment, components, peripherals, software,
+9 hardware, or accessories related to electronic communication devices; ,
+10 or any gambling devices as defined in section 28-1101 if:
+11 (a) The owner or possessor of the property has been convicted of a
+12 covered offense violation of the Child Pornography Prevention Act,
+13 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+14 28-1104, 28-1105, 28-1105.01, or 28-1107;
+15 (b) The information charging such violation specifically requests
+16 the forfeiture of property upon conviction and is prepared pursuant to
+17 section 28-1602; and
+18 (c) It The property is found by clear and convincing evidence that
+19 such property was to have been derived from, used, or intended to be used
+20 to facilitate a covered offense violation of the Child Pornography
+21 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+22 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+23 (3) (2) Following the filing of an information charging a violation
+24 of a covered offense the Child Pornography Prevention Act, subsection (1)
+25 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+26 28-1105, 28-1105.01, or 28-1107 that specifically seeks forfeiture of any
+27 property listed in subsection (2) (1) of this section, the defendant may
+28 request a pretrial hearing to determine the existence of probable cause
+29 to believe that the property specifically sought to be forfeited was
+30 derived from, used, or intended to be used to facilitate a covered
+31 offense violation of the Child Pornography Prevention Act, subsection (1)
+-26-
+
+LB609 LB609
+2025 2025
+1 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+2 28-1105, 28-1105.01, or 28-1107. The request for a hearing pursuant to
+3 this section must be filed with the district court in which the criminal
+4 proceeding is pending within thirty days after the filing of the
+5 information.
+6 (4)(a) (3) At any time after the filing of the information in
+7 district court and prior to final disposition of the criminal case, any
+8 person or entity, other than the defendant, with a claimed legal interest
+9 in the property may petition to intervene in the district court with
+10 jurisdiction over the criminal case for the specific and limited purpose
+11 of demonstrating such person's his, her, or its legal interest in the
+12 property and such person's his, her, or its lack of actual knowledge that
+13 such property was derived from, used, or intended to be used to
+14 facilitate a covered offense in violation of the Child Pornography
+15 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+16 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+17 (b) In the petition to intervene, the intervening person or entity
+18 shall, at a minimum, state facts demonstrating such person's his, her, or
+19 its legal interest in the property and such person's his, her, or its
+20 lack of actual knowledge regarding the use or intended use of the
+21 property.
+22 (5) Within thirty days after filing a motion to intervene, the
+23 district court shall conduct an evidentiary hearing on the matter. At the
+24 conclusion of such hearing, the court may order that any or all of the
+25 property be returned to the intervening claimant after it is no longer
+26 needed as evidence in the criminal case upon a showing by the claimant by
+27 a preponderance of the evidence:
+28 (a) That the claimant that he, she, or it has a legally recognized
+29 interest in the property; and
+30 (b) Either either (i) that such property was acquired by the
+31 claimant in good faith and the claimant he, she, or it did not have
+-27-
+
+LB609 LB609
+2025 2025
+1 actual knowledge that such property was derived from, used, or intended
+2 to be used to facilitate a covered offense violation of the Child
+3 Pornography Prevention Act, subsection (1) of section 28-416, or section
+4 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 or
+5 (ii) that the property seized was not derived from, used, or intended to
+6 be used to facilitate a covered offense violation of the Child
+7 Pornography Prevention Act, subsection (1) of section 28-416, or section
+8 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+9 (6) The court, on its own motion or upon application of the
+10 intervening claimant, may permit the claimant such person to proceed in
+11 forma pauperis under sections 25-2301 to 25-2310. The court, on its own
+12 motion or upon application of the intervening claimant, may appoint
+13 counsel to represent the claimant such person if the claimant such person
+14 is indigent. If the claimant he or she asserts indigency, the court shall
+15 make a reasonable inquiry to determine the claimant's such person's
+16 financial condition and may require the claimant him or her to execute an
+17 affidavit of indigency for filing with the clerk of the court.
+18 (7) (4) After conviction but prior to sentencing for a covered
+19 offense violation of the Child Pornography Prevention Act, subsection (1)
+20 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+21 28-1105, 28-1105.01, or 28-1107 in cases in which the prosecuting
+22 authority has specifically requested forfeiture of property, the district
+23 court shall conduct an evidentiary hearing at which the prosecuting
+24 authority must prove by clear and convincing evidence what specific
+25 amount or portion of the property specifically enumerated in the criminal
+26 information was derived from, used, or intended for use in furtherance of
+27 a covered offense violation of the Child Pornography Prevention Act,
+28 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+29 28-1104, 28-1105, 28-1105.01, or 28-1107. At the conclusion of such
+30 hearing, the court shall make specific findings of fact indicating what
+31 amount or portion of the property sought to be forfeited by the state was
+-28-
+
+LB609 LB609
+2025 2025
+1 derived from, used, or intended to be used to facilitate a covered
+2 offense violation of the Child Pornography Prevention Act, subsection (1)
+3 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+4 28-1105, 28-1105.01, or 28-1107. The court shall order any amount or
+5 portion of the property not proven by the state to be derived from, used,
+6 or intended to be used to facilitate a covered offense violation of the
+7 Child Pornography Prevention Act, subsection (1) of section 28-416, or
+8 section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+9 28-1107 or the fair market value of the legally recognized interest in
+10 such property be returned to its rightful and legal owner or interest
+11 holder.
+12 (8)(a) (5)(a) The court shall order that any amount or portion of
+13 property proven by the state by clear and convincing evidence to be
+14 derived from, used, or intended to be used to facilitate a covered
+15 offense violation of the Child Pornography Prevention Act, subsection (1)
+16 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+17 28-1105, 28-1105.01, or 28-1107 be forfeited to the state and disposition
+18 of such property be conducted in accordance with this subsection and
+19 section 28-1439.02 at such time as the property is no longer required as
+20 evidence in any criminal proceeding.
+21 (b) As part of any disposition of property, the court may order
+22 that: (i) Any money, securities, or negotiable instruments be distributed
+23 as provided in Article VII, section 5, of the Constitution of Nebraska;
+24 (ii) any conveyances be sold or put to official use by the seizing agency
+25 for a period of not more than one year and when such property is no
+26 longer necessary for official use or at the end of two years, whichever
+27 comes first, such property shall be sold. Proceeds from the sale of any
+28 conveyance shall be distributed as provided in Article VII, section 5, of
+29 the Constitution of Nebraska; (iii) any electronic communication devices
+30 as defined in section 28-833, any equipment, components, peripherals,
+31 software, hardware, or accessories related to electronic communication
+-29-
+
+LB609 LB609
+2025 2025
+1 devices, or any gambling devices as defined in section 28-1101 be
+2 destroyed by a law enforcement agency; and (iv) the disposition of
+3 firearms shall be effectuated pursuant to section 29-820.
+4 (c) As used in this subsection, official use means use directly in
+5 connection with enforcement of the Child Pornography Prevention Act, the
+6 Uniform Controlled Substances Act, or section 28-813.01, 28-1102,
+7 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+8 (9) (6) Any money, securities, negotiable instruments, firearms,
+9 conveyances, or electronic communication devices; as defined in section
+10 28-833, any equipment, components, peripherals, software, hardware, or
+11 accessories related to electronic communication devices; , or any
+12 gambling devices as defined in section 28-1101 may be forfeited pursuant
+13 to a plea agreement between the state and the defendant subject to notice
+14 to or approval of the court.
+15 (10) (7) Subdivision (2)(a) (1)(a) of this section does not apply if
+16 the owner or possessor of the property dies or is removed from the United
+17 States before charges are filed or a conviction obtained.
+18 (11) (8) Subdivision (2)(b) (1)(b) of this section does not apply if
+19 the owner or possessor of the property dies or is removed from the United
+20 States before charges are filed so long as the statute of limitations for
+21 a covered offense violation of the Child Pornography Prevention Act,
+22 subsection (1) of section 28-416, or section 28-813.01, 28-1102, 28-1103,
+23 28-1104, 28-1105, 28-1105.01, or 28-1107 has not expired.
+24 (12) (9) Subdivision (2)(a) (1)(a) of this section does not apply if
+25 the owner or possessor of the property is unknown or incapable of being
+26 determined for some legitimate reason or fails to appear in court as
+27 ordered after prosecution for a covered offense violation of the Child
+28 Pornography Prevention Act, subsection (1) of section 28-416, or section
+29 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107 is
+30 commenced and is not apprehended within twelve months after the failure
+31 to appear order was issued by the court.
+-30-
+
+LB609 LB609
+2025 2025
+1 (13) (10) If the owner or possessor of the property fails to appear
+2 in court as ordered after prosecution for a covered offense violation of
+3 the Child Pornography Prevention Act, subsection (1) of section 28-416,
+4 or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or
+5 28-1107 is commenced but appears or is apprehended within twelve months
+6 after the failure to appear order was issued by the court, the court may
+7 order the owner or possessor of the property, as a part of any sentence
+8 imposed for either the failure to appear or the conviction for a covered
+9 offense of the Child Pornography Prevention Act, subsection (1) of
+10 section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104, 28-1105,
+11 28-1105.01, or 28-1107, to pay a storage fee of one hundred dollars per
+12 month for each month the property was held following the issuance of the
+13 failure to appear order.
+14 Sec. 22. Section 28-1602, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 28-1602 (1) The prosecuting authority must specifically plead its
+17 intent to seek forfeiture of any property upon a conviction for a covered
+18 offense violation of the Child Pornography Prevention Act, subsection (1)
+19 of section 28-416, or section 28-813.01, 28-1102, 28-1103, 28-1104,
+20 28-1105, 28-1105.01, or 28-1107 in the same criminal information charging
+21 the underlying covered offense violation of the Child Pornography
+22 Prevention Act, subsection (1) of section 28-416, or section 28-813.01,
+23 28-1102, 28-1103, 28-1104, 28-1105, 28-1105.01, or 28-1107.
+24 (2) In pleading its intent to seek forfeiture, the information shall
+25 specifically (a) state the date the property was seized, (b) state the
+26 place the property was seized from, (c) describe the property sought to
+27 be forfeited, and (d) if known, state the name of the owner of the
+28 property, the name of the person or persons in possession of the property
+29 or in physical proximity to the property when it was seized, and the name
+30 of any other person or entity that may have a claim or interest in the
+31 property.
+-31-
+
+LB609 LB609
+2025 2025
+1 Sec. 23. If any section in this act or any part of any section is
+2 declared invalid or unconstitutional, the declaration shall not affect
+3 the validity or constitutionality of the remaining portions.
+4 Sec. 24. Original sections 28-512, 28-602, 28-603, 28-639, 28-1111,
+5 28-1463.06, 28-1601, and 28-1602, Reissue Revised Statutes of Nebraska,
+6 and sections 28-416 and 28-813.01, Revised Statutes Cumulative
+7 Supplement, 2024, are repealed.
+-32-
+
+[DELETED: yBA2 2 2 2 2 a 2 RR S o N a s 2 a 2R S C S 2 t a tC E R F P A t rcdot p f f o c e r t0c a h p t p s a t1r2B9L52]
+[DELETED: ScS 2  F p o t C E R FP(o p d l i a ti(b a d t p r i a0c1( C e r a m a a2i a w a c e r w3i t l t w a c e r4t5(6v o t a r o t U S d o 7f8a9( C e r k m a e0t a a a m a o t c e1r2o t f t e o c e r3f m b c o o c e r4i5c e r e t p t a6c e r t o ( d u t7c e r i t p o t e8t9( C e r k o m a p0t e i c e r b a v 1c9L52]
+[DELETED: t o o o m a m t k l iti( C e r k t m tmr k t i a t m a a ceU S d o t s c e r f0U1( C e r w m a s2a o o m p a m t h t k3n4(5(6(7e r k t w t c e8r9(0a s i f t w t c1e2t3d t t p a t f c e4r k t w t c e r k5o6(7o c t a a a r o a p p t t8t9S0n1i9L52]
+[DELETED: ot( A c e r k o s nl o a a t p t l a c ertk(a0c1i2o3(4(5o6(7(8(9S0d t a c i a c c a e r1m i t c l o t c a r t a2c g a w t p s a3a4(5a o r o a d r b t s6v7(8a i b t a p s f t o d9w c a t p f c t e0c e r k t c i a T1c e r k o m t t w9L52]
+[DELETED: l t h e t a t T wlW C F O S W C F A SWM((( C o i t o j o i e fp0(1(2( O t p t f l s o3d4(5c6( C f s i a r o7y8I Y B Y A B S C Y L L9E0W T C O T C E1R K A I P Y F F N S2M3(4( T m r a w c e5r6( T o l f u c7e8( T c l f u c9t0(1t9L52]
+[DELETED: s t p b t F D I CNC( A w t t m b d i t p ac(do f i o a f c H ce0(1r2c3( A w t t v a u o t4p o c e r r t f c m5r6( A w t a b o t m b t7c e r k o f t b o 8c9( T a o t c c e r0k t d i U S d a w a t1a2( A f o e c b t c e3r4(5( T c e r t d l o6t7( T c e r t d l o8f9(0c1a c c c t o f c a a a9L52]
+[DELETED: rrtk(w( U t c o a c e r kt t c e r k o sp t c w a r i t l c b s0c1c2m c T r s c t f3i4( T o n a c i i 5t6(7f8(9t h a e a c e r0a1( T n a c i o t s o t2c3(4t5(6( T e r o t c e r t7U8(9(0(1S 5  ( A c e r k o9L52]
+[DELETED: ssc e r w k t b a wf a a t t o a t T d mro( A c e r k o s trm0a1(2(3(4(5f6S 6  ( E c e r k o7s8( T c o s b q t c a9m c w t C E R F0P1a2(3t4(5l6t7v w c e s b f e o8s9S 7  ( I a n c h b f i t0e1t9L52]
+[DELETED: a o g a t i t o a a o tf n o t t w n d a ttat(i a c e r k t a c tc e r k o a a l ea o g a t i t o a a o t0f n o t t w n d a t1t2a3S4a5r6m7( F n c t t U S d o t8e9(0i1S 9  T a f a c d o i2c t a c r t a s t o s o3r t i c e r e4t5a d b t p c t a c t b s6e s o c c e r a t7p m v o s c e r a t8t9o0S 1  A c e r k o1p b i t s s a a m p l9L52]
+[DELETED: ca 9 p v a t t n T t ns b d o t c e r k o tkS 1  A c e r k opmt c e r k o T m oc s b m a l d T c m0s b d a a o t c e r1k2S3c4(5t s t s n m o l o i u a m6u7a ( m o m n b i i v o r ( i8p o l o a p b f t f p o9d0( E a p i s ( o t s i a1p f p a l l c2c3o4p5( P t e t C P D o t6O7t8w9(0s1d o s o a p o s o a e p s9L52]
+[DELETED: s(bvc c o o b e t r m tod(p a l l c c o0o1s2l3( T s d n a t a g p c4i b a f i a d i s 8 i 5p a w o n t a c b i o6r7s8S 1 S 2 R S C S92021A2T3m4( t c d o p w i t d 5c6(7( o t s a p w v s ( o t8s w r t ( A c s c i9S I I o I o s 2 w i a e0h d s b g o a C I f ( a o1c s c i S I I o I o s9L52]
+[DELETED: 2 s b g o a C I f o ( a cs c i S I o V o s 2 s bg( A p k o i p a cs e m o a s c a qads s w o d o p t a m oi b a p a t p w a i t0c o h o h p p o e a o1a2s3a4( E a a b t U C S5A a p e y o a o o w k o6i m d d d o7p8c s o a c c s ( t 9p u t a o e y ( i o o w o0t f o t r p c a p o p1e v o s s a c c 2p o p c j c o u o 3p4c5b6s7t c s i f t f v a f 8s o s v s b p b t n h9p0s1g9L52]
+[DELETED: ((aar o c i s b s at(pp0p1( Y c m a r f o g2i a p l a t t f o g3i4r5( E a a b t U C S6A7t8i9y t m t d c d d0p1t2(3i4k a i e h u c p c5i6y t a a a a p i t m t7d c d d p f d8o f d o p w i t d t s o 9c0( A p w v s ( o ( o t1s s b p b t n h p c9L52]
+[DELETED: ttf v a f a s o s v s bpf a f v o t s b i n e s sp( I s n b a d t p f v osa0( A p w v s ( o t s w1r2a3(4f5( A l t g b l t o h f6g7( A l t g b l t t g s b8g9( A p w v s ( o t s w0r1d2(3f4( A l t g b l t o h f5g6( A l t g b l t t g s b7g8( A p w v s ( o t s w9r t h o a m o s c a d0a1(9L52]
+[DELETED: f( A l t g b l t o h fg( A l t g b l t t g s bg( A p w v s ( o t s wr t a i s o i a s o iia0(1f2( A l t g b l t o h f3g4( A l t g b l t t g s b5g6( A p k o i p m7w8o9( A p k o i p m0w1(2i p m w o o o l o a3s4o5S6( F t f o b g o a i r 7c b f t h d a b a t a 8c a p i s 2 i t j d t9a s c i i t b i o t i0d1( F t s o b g o a C I m9L52]
+[DELETED: r a c a b f f h d a m bi(Ib( A p c o v t s i p opcp0o1(2t D o C S s a a3t4( A p k o i p a f5w6t n h p c t t p p i7s8s s p b p b a p g t a C I9f0(1o i t b u t f a v o s ( o2t3(4o s ( o t s i a c a o5c6m7m s n i f c o8e c d a d i s 2 o a9e c p s h o a0r1s9L52]
+[DELETED: avsis((i e y o a o y a h o o m l op0(1o2f3c4(5o6f n d a ( r s p t c n f t7t8d9(0t1o2f3c4c5(6i7i8(9c0p o a l p t t a f w s p w1o9L52]
+[DELETED: ((cp o a l p t t a f w s p wo( r s p t c n f t t h a nmc(0t1o2p3s4h o c s t a a d e c a t5s6A c o a a o t c c o a7s b t t t D o M V p t8s9j i p f o a l o p u t0s1S 1 S 2 R R S o N i2a324b5( ( C o r a f i i f6i a t l v i o o s o m b7d8i9t0( ( P a f a i w w1a9L52]
+[DELETED: ( ( F t c a f i w t dp c o r o w t d k t bi a t w h o s s i a f oc(wd o r t o u t o o a d p ob ( w s i h b s f r oc o w f a o r i u b t a i0u o ( w t a d n h t i a1a2u3(4n p s o s u t d o5p6(7o8t s a s c m o f a p i9s0S 1 S 2 R R S o N i1a22 ( A p c f i t f d i w3i4a o u a w i w i o p t b o5w6(7i8( P o a i o s b b n o o9i r i i o c a a c o0o1(9L52]
+[DELETED: (ot s a s c m o f a p isS 1 S 2 R R S o N ia2cp t b o w i c t b o t r i0c a w i w d o m e c1t t o o a a l r i2o3(4v5p o i t b p b t u o s i i6f7(8v9p0t f h d o m b i l t f t1d2(3f v o p f v o t a o a p4w p o i t b p b t u o s5i6f7(8f v o p f v o t a o a p9w p o i t b p b t u o s0i1(9L52]
+[DELETED: iat u o m t o s i m b a i ti o i i s i w p o t ssa w o c S v o a s n b ai(o0t s a s c m o f a p i1s2S 1 S 2 R R S o N i3a425k6p i i o e i i o7a p o e w t c o t o p o8e9o e w t i t o o u t o p o0e1o e w o n t p o e a s a2e3c4h5(6(7b8( T l g f e o a s i o 9r0(1a w l g a c o o o9L52]
+[DELETED: j((gtc(sg0t d A s o s c u t1s2(3g4t5f h d A s o s c u t6s7(8g9b0v1h2I m a a t o s c u t3s4(5t6p7(8o9t s a s c m o f a p i0s1S9L52]
+[DELETED: 22a o o t k p a v d o se c w h a c a o o i p op(k a i p a v d o sep o p o V o t s i 0C I m A s o s c u t1s2(3s4(5v d o s e c p a c w i6f7a8d9t0( t d h n p o m a t v1d2t3c t c i t v d t e c o s t4v5(6d7t8g9k0d ( t v d c o o c ( t1d h n p o m a t v d t9L52]
+[DELETED: adc i t v d t e c o s t vd(a h p b c o a v o t s os2o0o1( I a t t p p i t s 2s32 t a m s n i f4c o e c d a d i s526a7p8a9t0o1( T d i s 2 s a t t2s3S4a52 I a t a p p i s 2627o f a p i s 2 t 2 t a8m s n i f c o9e c d a d i s 2 o a0e c p s h o a1r9L52]
+[DELETED: f a a p o t s i i i f b c ac e a a a s h i t sppv2Si2 I a t t p p i t C0P P A a s c m o f a1p i s 2 t 2 t a m s2n i f c o e3c d a d i s 2 o a e4c p s h o a r t5e6i i i f b c a c e a a 7s82 t a o a s p w d f u o9i0P1S2a324( C e r h t s m a i5s6( C o m a v o t C P7P A s ( o s 2 o s 282 2 2 2 2 2 2 2920( E c d h t s m a i1s9L52]
+[DELETED: (( ( I a t e p f a v o cs2 o 2 a c m o f o a ms n i c e rfs 2 a e c p sh0o1(2c o v o t C P P A3s425( T i c s v s r6t7s8(9s0t f a c o v o t C P1P223(4o5o s 2 o s 2 2 2 2627p8r9t b t t p s s t b f w0d f u o i t b u t f a c1o9L52]
+[DELETED: o s 2 o s 2 2 2 22tp i p w t d a t f o ti( ( A a t a t f o t i idpi t p m p t i i t d c w0j1o d s p h h o i l i i t2p3s p w d f u o i t b u t4f a c o i v o t C P5P627(8s9i l i i t p a s p h h o i0l o a k r t u o i u o t1p2( W t d a f a m t i t3d4c5p6n7a8(9i0( E e ( t s p w a b t1c i g f a t c h s o i d n h9L52]
+[DELETED: at b u t f a c o v o t CP2(b u t f a c o v o t CP2( T c o i o m o u a o t0i1f2m o u a o t i c m a3c4i5m a r i t d t c s p6f7a8( ( A c b p t s f a c9o0o s 2 o s 2 2 2 212 2 o 2 i c i w t p2a3c s c a e h a w t p4a m p b c a c e w s5a6i7a c o v o t C P P A8s92 2 2 o 2 A t c o s0h1a9L52]
+[DELETED: d f u o i t b u t f a coo s 2 o s 2 2 2 22 2 o 2 T c s o a a opoC P P A s ( o s 2 os 2 2 2 2 2 2 o20s p b r t i r a l o o i1h2(3p p b t s b c a c e t b4d f u o i t b u t f a c5o6o s 2 o s 2 2 2 2728o s p b c i a w t s a9s0e1( A p o a d o p t c m o2t3a4(5f a p o n m t o y a w s p i n6l7c8c9t0a d i s 2 a e c p1s h o a r t e c9L52]
+[DELETED: d o a g d a d i s 2 bd b a l e a a ( t d of(cU C S A o s 2 22( ( A m s n i fc02 a e c p s h o1a r t e c d , o a2g3t4t5(6t7S8(9t0S1a c o v o t C P P A2s324(5t6d f s l r o f t a i c a7o8P920c1t9L52]
+[DELETED: (ito2aoio o t C P P A s ( o0s122m3f4S5a62 ( T p a m s p i7i8o9o s 2 o s 2 2 2 2021t u c o v o t C P2P324(5s6p7b f a ( i k s t n o t o o t8p9o0o1p9L52]
+[DELETED: Sd i o u t d s n atS2a s 2 a 2 R S CS9L52]
