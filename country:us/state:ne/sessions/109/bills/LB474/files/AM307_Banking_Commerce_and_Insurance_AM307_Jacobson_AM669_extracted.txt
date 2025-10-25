@@ -1,0 +1,37 @@
+Title: 1 1. On page 21, after line 20 insert the following new subsection:
+Official Title: 1 1. On page 21, after line 20 insert the following new subsection:
+Number of Sections: 1
+Source: versions - Banking, Commerce and Insurance AM307 Jacobson AM669
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM307 AM307
+LB474 LB474
+QNC - 02/18/2025 QNC - 02/18/2025
+AMENDMENTS TO LB474
+Introduced by Banking, Commerce and Insurance.
+2 "(6) Loans made by financial institutions that are serviced by or
+3 purchased by a licensee shall not be subject to the interest rate
+4 limitations of the Nebraska Installment Loan and Sales Act.".
+-1-
+[DELETED: yB1" L m b f i t a s b op b a l s n b s t t i rl7A4L5Q]
+
+
+================================================================================
+
+Raw Text:
+AM307 AM307
+LB474 LB474
+QNC - 02/18/2025 QNC - 02/18/2025
+AMENDMENTS TO LB474
+Introduced by Banking, Commerce and Insurance.
+1 1. On page 21, after line 20 insert the following new subsection:
+2 "(6) Loans made by financial institutions that are serviced by or
+3 purchased by a licensee shall not be subject to the interest rate
+4 limitations of the Nebraska Installment Loan and Sales Act.".
+-1-
+
+[DELETED: yB1" L m b f i t a s b op b a l s n b s t t i rl7A4L5Q]

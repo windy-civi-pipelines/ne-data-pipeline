@@ -1,0 +1,55 @@
+Title: (Amendments to Standing Committee amendments, AM959)
+Official Title: (Amendments to Standing Committee amendments, AM959)
+Number of Sections: 1
+Source: versions - Andersen AM1205
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM1205 AM1205
+LB644 LB644
+AJC - 04/28/2025 AJC - 04/28/2025
+AMENDMENTS TO LB644
+Introduced by Andersen, 49.
+1 1. On page 32, line 21, strike "includes unmanned aircraft" and
+2 insert "does not include unmanned aerial systems"; and strike lines 22
+3 through 24 and insert the following new subdivisions:
+4 "(7) Unmanned aerial system means a powered, aerial vehicle that:
+5 (a) Does not carry a human operator and is operated without the
+6 possibility of direct human intervention from within or on the aircraft;
+7 (b) Uses aerodynamic forces to provide vehicle lift;
+8 (c) Can fly autonomously or be piloted remotely; and
+9 (d) Can be expendable or recoverable.".
+10 2. On page 34, line 2, after the semicolon insert "or"; in line 5
+11 strike "; or" and insert an underscored period; and strike lines 6
+12 through 9.
+-1-
+[DELETED: yA1 O p 3 l 2 s " u a ait"( D n c a h o a i o w tp(((021s " o a i a u p a s l 2t5A4L5A]
+
+
+================================================================================
+
+Raw Text:
+AM1205 AM1205
+LB644 LB644
+AJC - 04/28/2025 AJC - 04/28/2025
+AMENDMENTS TO LB644
+(Amendments to Standing Committee amendments, AM959)
+Introduced by Andersen, 49.
+1 1. On page 32, line 21, strike "includes unmanned aircraft" and
+2 insert "does not include unmanned aerial systems"; and strike lines 22
+3 through 24 and insert the following new subdivisions:
+4 "(7) Unmanned aerial system means a powered, aerial vehicle that:
+5 (a) Does not carry a human operator and is operated without the
+6 possibility of direct human intervention from within or on the aircraft;
+7 (b) Uses aerodynamic forces to provide vehicle lift;
+8 (c) Can fly autonomously or be piloted remotely; and
+9 (d) Can be expendable or recoverable.".
+10 2. On page 34, line 2, after the semicolon insert "or"; in line 5
+11 strike "; or" and insert an underscored period; and strike lines 6
+12 through 9.
+-1-
+
+[DELETED: yA1 O p 3 l 2 s " u a ait"( D n c a h o a i o w tp(((021s " o a i a u p a s l 2t5A4L5A]

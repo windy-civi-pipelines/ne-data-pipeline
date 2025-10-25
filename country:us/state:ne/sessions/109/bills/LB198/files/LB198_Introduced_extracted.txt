@@ -1,0 +1,597 @@
+Title: LEGISLATIVE BILL 198
+Official Title: LEGISLATIVE BILL 198
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+LB198 LB198
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Sorrentino, 39.
+Read first time January 14, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to the Pharmacy Benefit Manager Licensure and
+2 Regulation Act; to amend sections 44-4601, 44-4603, 44-4608, and
+3 44-4611, Revised Statutes Cumulative Supplement, 2024; to define and
+4 redefine terms; to change provisions relating to an appeal process;
+5 to prohibit pharmacy benefit managers from taking certain actions;
+6 to provide for pharmacy benefit manager duties; to prohibit spread
+7 pricing as prescribed; to change enforcement provisions; to
+8 harmonize provisions; and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+LB198 LB198
+2025 2025
+1 Section 1. Section 44-4601, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 44-4601 Sections 44-4601 to 44-4612 and sections 4 to 7 of this act
+4 shall be known and may be cited as the Pharmacy Benefit Manager Licensure
+5 and Regulation Act.
+6 Sec. 2. Section 44-4603, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 44-4603 For purposes of the Pharmacy Benefit Manager Licensure and
+9 Regulation Act:
+10 (1) Auditing entity means a pharmacy benefit manager or any person
+11 that represents a pharmacy benefit manager in conducting an audit for
+12 compliance with a contract between the pharmacy benefit manager and a
+13 pharmacy;
+14 (2) Claims processing service means an administrative service
+15 performed in connection with the processing and adjudicating of a claim
+16 relating to a pharmacist service that includes:
+17 (a) Receiving a payment for a pharmacist service; or
+18 (b) Making a payment to a pharmacist or pharmacy for a pharmacist
+19 service;
+20 (3) Covered person means a member, policyholder, subscriber,
+21 enrollee, beneficiary, dependent, or other individual participating in a
+22 health benefit plan;
+23 (4) Director means the Director of Insurance;
+24 (5) Health benefit plan means a policy, contract, certificate, plan,
+25 or agreement entered into, offered, or issued (a) by a health carrier or
+26 plan sponsor or (b) by a self-funded employee benefit plan to the extent
+27 not preempted by federal law, to provide, deliver, arrange for, pay for,
+28 or reimburse any of the costs of a physical, mental, or behavioral health
+29 care service;
+30 (6) Health carrier has the same meaning as in section 44-1303;
+31 (7) Other prescription drug or device service means a service other
+-2-
+LB198 LB198
+2025 2025
+1 than a claims processing service, provided directly or indirectly,
+2 whether in connection with or separate from a claims processing service,
+3 including, but not limited to:
+4 (a) Negotiating a rebate, discount, or other financial incentive or
+5 arrangement with a drug company;
+6 (b) Disbursing or distributing a rebate;
+7 (c) Managing or participating in an incentive program or arrangement
+8 for a pharmacist service;
+9 (d) Negotiating or entering into a contractual arrangement with a
+10 pharmacist or pharmacy;
+11 (e) Developing and maintaining a formulary;
+12 (f) Designing a prescription benefit program; or
+13 (g) Advertising or promoting a service;
+14 (8) Pharmacist has the same meaning as in section 38-2832;
+15 (9) Pharmacist service means a product, good, or service or any
+16 combination thereof provided as a part of the practice of pharmacy;
+17 (10) Pharmacy has the same meaning as in section 71-425;
+18 (11) Pharmacy acquisition cost means the amount that a
+19 pharmaceutical wholesaler charges for a pharmaceutical product as listed
+20 on the pharmacy's billing invoice;
+21 (12) Pharmacy benefit management services means claims processing
+22 services and other prescription drug or device services;
+23 (13)(a) (11)(a) Pharmacy benefit manager means a person, business,
+24 or entity, including a wholly or partially owned or controlled subsidiary
+25 of a pharmacy benefit manager, that provides a claims processing service
+26 or other prescription drug or device service for a health benefit plan to
+27 a covered person who is a resident of this state; and
+28 (b) Pharmacy benefit manager does not include:
+29 (i) A health care facility licensed in this state;
+30 (ii) A health care professional licensed in this state;
+31 (iii) A consultant who only provides advice as to the selection or
+-3-
+LB198 LB198
+2025 2025
+1 performance of a pharmacy benefit manager; or
+2 (iv) A health carrier to the extent that it performs any claims
+3 processing service or other prescription drug or device service
+4 exclusively for its enrollees; and
+5 (14) Pharmacy benefit manager affiliate means a pharmacy or
+6 pharmacist that directly or indirectly, through one or more
+7 intermediaries, owns or controls, is owned or controlled by, or is under
+8 common ownership or control with a pharmacy benefit manager;
+9 (15) Pharmacy benefit manager duty means a duty and obligation to
+10 perform pharmacy benefit management services with care, skill, prudence,
+11 diligence, fairness, transparency, and professionalism, and for the best
+12 interest of the covered person, the health benefit plan, and the
+13 provider, as consistent with the requirements of the Pharmacy Benefit
+14 Manager Licensure and Regulation Act and any rules and regulations
+15 adopted and promulgated under the act;
+16 (16) (12) Plan sponsor has the same meaning as in section 44-2702;
+17 and .
+18 (17) Spread pricing means any amount charged or claimed by a
+19 pharmacy benefit manager in excess of the ingredient cost for a dispensed
+20 prescription drug plus any dispensing fee paid directly or indirectly to
+21 any pharmacy, pharmacist, or other provider on behalf of the health
+22 benefit plan, less a pharmacy benefit management fee.
+23 Sec. 3. Section 44-4608, Revised Statutes Cumulative Supplement,
+24 2024, is amended to read:
+25 44-4608 (1) With respect to each contract and contract renewal
+26 between a pharmacy benefit manager and a pharmacy, the pharmacy benefit
+27 manager shall:
+28 (a) Update any maximum allowable cost price list at least every
+29 seven business days, noting any price change from the previous list, and
+30 provide a means by which a network pharmacy may promptly review a current
+31 price in an electronic, print, or telephonic format within one business
+-4-
+LB198 LB198
+2025 2025
+1 day of any such change at no cost to the pharmacy;
+2 (b) Maintain a procedure to eliminate a product from the maximum
+3 allowable cost price list in a timely manner to remain consistent with
+4 any change in the marketplace; and
+5 (c) Make the maximum allowable cost price list available to each
+6 contracted pharmacy in a format that is readily accessible and usable to
+7 the contracted pharmacy.
+8 (2) A pharmacy benefit manager shall not place a prescription drug
+9 on a maximum allowable cost price list unless the drug is available for
+10 purchase by pharmacies in this state from a national or regional drug
+11 wholesaler and is not obsolete.
+12 (3) Each contract between a pharmacy benefit manager and a pharmacy
+13 shall include a process to appeal, investigate, and resolve disputes
+14 regarding any maximum allowable cost price and reimbursements made under
+15 a maximum allowable cost price for a specific drug or drugs as: .
+16 (a) Not meeting the requirements of this section; or
+17 (b) Being below the pharmacy acquisition cost.
+18 (4) The process to appeal, investigate, and resolve disputes
+19 described in subsection (3) of this section shall include:
+20 (a) A fifteen-business-day limit on the right to appeal following
+21 submission of an initial claim by a pharmacy;
+22 (b) A requirement that any appeal be investigated and resolved
+23 within seven business days after the appeal is received by the pharmacy
+24 benefit manager; and
+25 (c)(i) (c) A requirement that the pharmacy benefit manager provide a
+26 reason for any denial of an appeal and identify the national drug code
+27 for the drug that may be purchased by the pharmacy at a price at or below
+28 the price on the maximum allowable cost price list as determined by the
+29 pharmacy benefit manager; or .
+30 (ii) If the national drug code provided by the pharmacy benefit
+31 manager is not available below the maximum allowable cost from the
+-5-
+LB198 LB198
+2025 2025
+1 pharmaceutical wholesaler from whom the pharmacy purchases the majority
+2 of prescription drugs for resale, then the pharmacy benefit manager shall
+3 adjust the maximum allowable cost price above the appealing pharmacy's
+4 pharmacy acquisition cost and permit the pharmacy to reverse and rebill
+5 each claim affected by the inability to procure the drug at a cost that
+6 is equal to or less than the previously appealed maximum allowable cost
+7 price.
+8 (5) (4) If an appeal is determined to be valid by the pharmacy
+9 benefit manager, the pharmacy benefit manager shall:
+10 (a) Make an adjustment in the maximum allowable cost drug price no
+11 later than one day after the appeal is resolved; and
+12 (b) Permit the appealing pharmacy to reverse and rebill the claim in
+13 question, using the date of the original claim; .
+14 (c) Provide the national drug code number that the increase or
+15 change is based on to the pharmacy; and
+16 (d) Make the change described in subdivision (5)(a) of this section
+17 effective for each similarly situated pharmacy subject to the maximum
+18 allowable cost price list.
+19 Sec. 4. Except as provided in section 44–4610, a pharmacy benefit
+20 manager shall not require pharmacy accreditation standards or
+21 recertification requirements to participate in a network which are
+22 inconsistent with, more stringent than, or in addition to the federal and
+23 state requirements for licensure as a pharmacy in the state.
+24 Sec. 5. (1)(a) A pharmacy benefit manager shall not reimburse a
+25 pharmacy or pharmacist in this state an amount less than the amount that
+26 the pharmacy benefit manager reimburses a pharmacy benefit manager
+27 affiliate for providing the same pharmacist services.
+28 (b) The amount shall be calculated on a per-unit basis based on the
+29 same generic product identifier or generic code number.
+30 (2) A pharmacy or pharmacist may decline to provide the pharmacist
+31 services to a covered person or pharmacy benefit manager if, as a result
+-6-
+LB198 LB198
+2025 2025
+1 of a maximum allowable cost price list, a pharmacy or pharmacist is to be
+2 paid less than the pharmacy acquisition cost of the pharmacy providing
+3 the pharmacist services.
+4 (3) A pharmacy benefit manager may not directly or indirectly engage
+5 in patient steering to a pharmacy benefit manager affiliate.
+6 Sec. 6. (1)(a) A pharmacy benefit manager shall owe the pharmacy
+7 benefit manager duty to any covered person, health benefit plan, or
+8 provider that receives pharmacy benefit management services from the
+9 pharmacy benefit manager or that furnishes, covers, receives, or is
+10 administered a unit of prescription drug for which the pharmacy benefit
+11 manager has provided pharmacy benefit management services.
+12 (b) The pharmacy benefit manager duty owed to covered persons shall
+13 include duties of care, good faith, and fair dealing. The director shall
+14 adopt and promulgate rules and regulations defining the scope of the
+15 duties owed to covered persons, including obligations of the pharmacy
+16 benefit manager to provide all pharmacy benefit management services
+17 related to formulary design, utilization management, and grievances and
+18 appeals to covered persons in a transparent manner and in a way that is
+19 consistent with the best interests of covered persons, and to disclose
+20 all conflicts of interest to covered persons.
+21 (c) The pharmacy benefit manager duty owed to health benefit plans
+22 shall include duties of care, good faith, and fair dealing. The director
+23 shall adopt and promulgate rules and regulations defining the scope of
+24 the duties owed to health benefit plans, including obligations of the
+25 pharmacy benefit manager to provide transparency to health benefit plans
+26 about amounts charged or claimed by the pharmacy benefit manager in a
+27 manner that is adequate to identify all instances of spread pricing and
+28 to disclose all conflicts of interest to health benefit plans.
+29 (d) The pharmacy benefit manager duty owed to providers shall
+30 include duties of care, good faith, and fair dealing. The director shall
+31 adopt and promulgate rules and regulations defining the scope of the
+-7-
+LB198 LB198
+2025 2025
+1 duties owed to providers, including obligations of the pharmacy benefit
+2 manager to provide transparency to providers about amounts charged or
+3 claimed by the pharmacy benefit manager in a manner that is adequate to
+4 identify all instances of spread pricing and to disclose all conflicts of
+5 interest to providers.
+6 (2) If there is a conflict between the pharmacy benefit manager
+7 duties owed under this section, the pharmacy benefit manager duty owed to
+8 a covered person shall be primary over the duty owed to any other party,
+9 and the pharmacy benefit manager duty owed to a provider shall be primary
+10 over the duty owed to a health benefit plan.
+11 Sec. 7. (1) No pharmacy benefit manager, health carrier, or health
+12 benefit plan may, either directly or through an intermediary, agent, or
+13 affiliate, engage in, facilitate, or enter into a contract with another
+14 person involving spread pricing in this state.
+15 (2) A pharmacy benefit manager contract with a health carrier or
+16 health benefit plan entered into on or after the effective date of this
+17 act must acknowledge that spread pricing is not permitted under the
+18 Pharmacy Benefit Manager Licensure and Regulation Act.
+19 Sec. 8. Section 44-4611, Revised Statutes Cumulative Supplement,
+20 2024, is amended to read:
+21 44-4611 (1) The director shall enforce compliance with the
+22 requirements of the Pharmacy Benefit Manager Licensure and Regulation
+23 Act.
+24 (2)(a) Pursuant to the Insurers Examination Act, the director may
+25 examine or audit the books and records of a pharmacy benefit manager
+26 providing a claims processing service or other prescription drug or
+27 device service for a health benefit plan to determine compliance with the
+28 act.
+29 (b) Information or data acquired during an examination under
+30 subdivision (2)(a) of this section is:
+31 (i) Considered proprietary and confidential;
+-8-
+LB198 LB198
+2025 2025
+1 (ii) Not subject to sections 84-712, 84-712.01, and 84-712.03 to
+2 84-712.09;
+3 (iii) Not subject to subpoena; and
+4 (iv) Not subject to discovery or admissible as evidence in any
+5 private civil action.
+6 (3) The director may use any document or information provided
+7 pursuant to subsection (3) or (4) of section 44-4606 in the performance
+8 of the director's duties to determine compliance with the Pharmacy
+9 Benefit Manager Licensure and Regulation Act.
+10 (4) The director may suspend or revoke the license of a pharmacy
+11 benefit manager and may impose a monetary penalty on a pharmacy benefit
+12 manager or the health carrier with which a pharmacy benefit manager is
+13 contracted for a violation of the Pharmacy Benefit Manager Licensure and
+14 Regulation Act. The director shall establish the monetary penalty for a
+15 violation of the act in an amount not to exceed one thousand dollars per
+16 entity for each violation.
+17 Sec. 9. Original sections 44-4601, 44-4603, 44-4608, and 44-4611,
+18 Revised Statutes Cumulative Supplement, 2024, are repealed.
+-9-
+[DELETED: ySAR A t a s 4 4 4 a4rttp a p t c e p thB8L52]
+[DELETED: S24saS 2 S 4 R S C S24R0(1t r a p b m i c a a f2c w a c b t p b m a 3p4( C p s m a a s5p6r7(8(9s0( C p m a m p s1e2h3(4(5o6p7n8o9c0(1(8L52]
+[DELETED: t a c p s p d o iwi(a((f( N o e i a c a w 0p1(2(3(4(5( P s m a p g o s o a6c7(8( P a c m t a t 9p0o1( P b m s m c p2s3(4o5o6o7a8(9(0(1(8L52]
+[DELETED: p( A h c t t e t i p a cp s o o p d o d se( P b m a m a p op t d o i t o o mic( P b m d m a d a o t0p1d2i o t c p t h b p a t3p a c w t r o t P B4M L a R A a a r a r5a6(7a8( S p m a a c o c b 9p0p1a p p o o p o b o t h2b3S 3 S 4 R S C S4254 ( W r t e c a c r6b7m8( U a m a c p l a l e9s0p1p8L52]
+[DELETED: d( M a p t e a p f t maa( M t m a c p l a t ect(o0p b p i t s f a n o r d1w2(3s i a p t a i a r d4r5a6(7(8( T p t a i a r d9d0( A f l o t r t a f1s2( A r t a a b i a r3w4b5(6r7f8t9p0( I t n d c p b t p b1m i n a b t m a c f t8L52]
+[DELETED: poa t m a c p a t a ppeip( ( I a a i d t b v b t pb0(1l2(3q4( P t n d c n t t i o5c6(7e f e s s p s t t m8a9S0m s n r p a s o1r r t p i a n w a2i3s4S 5  ( A p b m s n r 5p6t p b m r a p b m7a8(9s0(1s8L52]
+[DELETED: opt(iSb m d t a c p h b p op t r p b m s f tp b m o t f c r o i0a1m2(3i4a a p r a r d t s o t5d o t c p i o o t p6b m t p a p b m s7r8a9c0a1(2s3s4t d o t h b p i o o t5p6a a c o c b t p b m i 7m8t9( T p b m d o t p s0i1a a p r a r d t s o t8L52]
+[DELETED: dm t p t t p a a c ocii( I t i a c b t p b mdaa0o1S2b3a4p5( A p b m c w a h c o6h7a m a t s p i n p u t8P9S 8 S 4 R S C S0214 ( T d s e c w t2r o t P B M L a R3A4( P t t I E A t d m5e o a t b a r o a p b m6p a c p s o o p d o7d8a9( I o d a d a e u0s1(8L52]
+[DELETED: ( N s t s 8 8 a 8 t8(( N s t d o a a e i ap( T d m u a d o i ppo t d d t d c w t PB0( T d m s o r t l o a p1b2m3c4R5v6e7S8R8L52]
+
+
+================================================================================
+
+Raw Text:
+LB198 LB198
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 198
+Introduced by Sorrentino, 39.
+Read first time January 14, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to the Pharmacy Benefit Manager Licensure and
+2 Regulation Act; to amend sections 44-4601, 44-4603, 44-4608, and
+3 44-4611, Revised Statutes Cumulative Supplement, 2024; to define and
+4 redefine terms; to change provisions relating to an appeal process;
+5 to prohibit pharmacy benefit managers from taking certain actions;
+6 to provide for pharmacy benefit manager duties; to prohibit spread
+7 pricing as prescribed; to change enforcement provisions; to
+8 harmonize provisions; and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB198 LB198
+2025 2025
+1 Section 1. Section 44-4601, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 44-4601 Sections 44-4601 to 44-4612 and sections 4 to 7 of this act
+4 shall be known and may be cited as the Pharmacy Benefit Manager Licensure
+5 and Regulation Act.
+6 Sec. 2. Section 44-4603, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 44-4603 For purposes of the Pharmacy Benefit Manager Licensure and
+9 Regulation Act:
+10 (1) Auditing entity means a pharmacy benefit manager or any person
+11 that represents a pharmacy benefit manager in conducting an audit for
+12 compliance with a contract between the pharmacy benefit manager and a
+13 pharmacy;
+14 (2) Claims processing service means an administrative service
+15 performed in connection with the processing and adjudicating of a claim
+16 relating to a pharmacist service that includes:
+17 (a) Receiving a payment for a pharmacist service; or
+18 (b) Making a payment to a pharmacist or pharmacy for a pharmacist
+19 service;
+20 (3) Covered person means a member, policyholder, subscriber,
+21 enrollee, beneficiary, dependent, or other individual participating in a
+22 health benefit plan;
+23 (4) Director means the Director of Insurance;
+24 (5) Health benefit plan means a policy, contract, certificate, plan,
+25 or agreement entered into, offered, or issued (a) by a health carrier or
+26 plan sponsor or (b) by a self-funded employee benefit plan to the extent
+27 not preempted by federal law, to provide, deliver, arrange for, pay for,
+28 or reimburse any of the costs of a physical, mental, or behavioral health
+29 care service;
+30 (6) Health carrier has the same meaning as in section 44-1303;
+31 (7) Other prescription drug or device service means a service other
+-2-
+
+LB198 LB198
+2025 2025
+1 than a claims processing service, provided directly or indirectly,
+2 whether in connection with or separate from a claims processing service,
+3 including, but not limited to:
+4 (a) Negotiating a rebate, discount, or other financial incentive or
+5 arrangement with a drug company;
+6 (b) Disbursing or distributing a rebate;
+7 (c) Managing or participating in an incentive program or arrangement
+8 for a pharmacist service;
+9 (d) Negotiating or entering into a contractual arrangement with a
+10 pharmacist or pharmacy;
+11 (e) Developing and maintaining a formulary;
+12 (f) Designing a prescription benefit program; or
+13 (g) Advertising or promoting a service;
+14 (8) Pharmacist has the same meaning as in section 38-2832;
+15 (9) Pharmacist service means a product, good, or service or any
+16 combination thereof provided as a part of the practice of pharmacy;
+17 (10) Pharmacy has the same meaning as in section 71-425;
+18 (11) Pharmacy acquisition cost means the amount that a
+19 pharmaceutical wholesaler charges for a pharmaceutical product as listed
+20 on the pharmacy's billing invoice;
+21 (12) Pharmacy benefit management services means claims processing
+22 services and other prescription drug or device services;
+23 (13)(a) (11)(a) Pharmacy benefit manager means a person, business,
+24 or entity, including a wholly or partially owned or controlled subsidiary
+25 of a pharmacy benefit manager, that provides a claims processing service
+26 or other prescription drug or device service for a health benefit plan to
+27 a covered person who is a resident of this state; and
+28 (b) Pharmacy benefit manager does not include:
+29 (i) A health care facility licensed in this state;
+30 (ii) A health care professional licensed in this state;
+31 (iii) A consultant who only provides advice as to the selection or
+-3-
+
+LB198 LB198
+2025 2025
+1 performance of a pharmacy benefit manager; or
+2 (iv) A health carrier to the extent that it performs any claims
+3 processing service or other prescription drug or device service
+4 exclusively for its enrollees; and
+5 (14) Pharmacy benefit manager affiliate means a pharmacy or
+6 pharmacist that directly or indirectly, through one or more
+7 intermediaries, owns or controls, is owned or controlled by, or is under
+8 common ownership or control with a pharmacy benefit manager;
+9 (15) Pharmacy benefit manager duty means a duty and obligation to
+10 perform pharmacy benefit management services with care, skill, prudence,
+11 diligence, fairness, transparency, and professionalism, and for the best
+12 interest of the covered person, the health benefit plan, and the
+13 provider, as consistent with the requirements of the Pharmacy Benefit
+14 Manager Licensure and Regulation Act and any rules and regulations
+15 adopted and promulgated under the act;
+16 (16) (12) Plan sponsor has the same meaning as in section 44-2702;
+17 and .
+18 (17) Spread pricing means any amount charged or claimed by a
+19 pharmacy benefit manager in excess of the ingredient cost for a dispensed
+20 prescription drug plus any dispensing fee paid directly or indirectly to
+21 any pharmacy, pharmacist, or other provider on behalf of the health
+22 benefit plan, less a pharmacy benefit management fee.
+23 Sec. 3. Section 44-4608, Revised Statutes Cumulative Supplement,
+24 2024, is amended to read:
+25 44-4608 (1) With respect to each contract and contract renewal
+26 between a pharmacy benefit manager and a pharmacy, the pharmacy benefit
+27 manager shall:
+28 (a) Update any maximum allowable cost price list at least every
+29 seven business days, noting any price change from the previous list, and
+30 provide a means by which a network pharmacy may promptly review a current
+31 price in an electronic, print, or telephonic format within one business
+-4-
+
+LB198 LB198
+2025 2025
+1 day of any such change at no cost to the pharmacy;
+2 (b) Maintain a procedure to eliminate a product from the maximum
+3 allowable cost price list in a timely manner to remain consistent with
+4 any change in the marketplace; and
+5 (c) Make the maximum allowable cost price list available to each
+6 contracted pharmacy in a format that is readily accessible and usable to
+7 the contracted pharmacy.
+8 (2) A pharmacy benefit manager shall not place a prescription drug
+9 on a maximum allowable cost price list unless the drug is available for
+10 purchase by pharmacies in this state from a national or regional drug
+11 wholesaler and is not obsolete.
+12 (3) Each contract between a pharmacy benefit manager and a pharmacy
+13 shall include a process to appeal, investigate, and resolve disputes
+14 regarding any maximum allowable cost price and reimbursements made under
+15 a maximum allowable cost price for a specific drug or drugs as: .
+16 (a) Not meeting the requirements of this section; or
+17 (b) Being below the pharmacy acquisition cost.
+18 (4) The process to appeal, investigate, and resolve disputes
+19 described in subsection (3) of this section shall include:
+20 (a) A fifteen-business-day limit on the right to appeal following
+21 submission of an initial claim by a pharmacy;
+22 (b) A requirement that any appeal be investigated and resolved
+23 within seven business days after the appeal is received by the pharmacy
+24 benefit manager; and
+25 (c)(i) (c) A requirement that the pharmacy benefit manager provide a
+26 reason for any denial of an appeal and identify the national drug code
+27 for the drug that may be purchased by the pharmacy at a price at or below
+28 the price on the maximum allowable cost price list as determined by the
+29 pharmacy benefit manager; or .
+30 (ii) If the national drug code provided by the pharmacy benefit
+31 manager is not available below the maximum allowable cost from the
+-5-
+
+LB198 LB198
+2025 2025
+1 pharmaceutical wholesaler from whom the pharmacy purchases the majority
+2 of prescription drugs for resale, then the pharmacy benefit manager shall
+3 adjust the maximum allowable cost price above the appealing pharmacy's
+4 pharmacy acquisition cost and permit the pharmacy to reverse and rebill
+5 each claim affected by the inability to procure the drug at a cost that
+6 is equal to or less than the previously appealed maximum allowable cost
+7 price.
+8 (5) (4) If an appeal is determined to be valid by the pharmacy
+9 benefit manager, the pharmacy benefit manager shall:
+10 (a) Make an adjustment in the maximum allowable cost drug price no
+11 later than one day after the appeal is resolved; and
+12 (b) Permit the appealing pharmacy to reverse and rebill the claim in
+13 question, using the date of the original claim; .
+14 (c) Provide the national drug code number that the increase or
+15 change is based on to the pharmacy; and
+16 (d) Make the change described in subdivision (5)(a) of this section
+17 effective for each similarly situated pharmacy subject to the maximum
+18 allowable cost price list.
+19 Sec. 4. Except as provided in section 44–4610, a pharmacy benefit
+20 manager shall not require pharmacy accreditation standards or
+21 recertification requirements to participate in a network which are
+22 inconsistent with, more stringent than, or in addition to the federal and
+23 state requirements for licensure as a pharmacy in the state.
+24 Sec. 5. (1)(a) A pharmacy benefit manager shall not reimburse a
+25 pharmacy or pharmacist in this state an amount less than the amount that
+26 the pharmacy benefit manager reimburses a pharmacy benefit manager
+27 affiliate for providing the same pharmacist services.
+28 (b) The amount shall be calculated on a per-unit basis based on the
+29 same generic product identifier or generic code number.
+30 (2) A pharmacy or pharmacist may decline to provide the pharmacist
+31 services to a covered person or pharmacy benefit manager if, as a result
+-6-
+
+LB198 LB198
+2025 2025
+1 of a maximum allowable cost price list, a pharmacy or pharmacist is to be
+2 paid less than the pharmacy acquisition cost of the pharmacy providing
+3 the pharmacist services.
+4 (3) A pharmacy benefit manager may not directly or indirectly engage
+5 in patient steering to a pharmacy benefit manager affiliate.
+6 Sec. 6. (1)(a) A pharmacy benefit manager shall owe the pharmacy
+7 benefit manager duty to any covered person, health benefit plan, or
+8 provider that receives pharmacy benefit management services from the
+9 pharmacy benefit manager or that furnishes, covers, receives, or is
+10 administered a unit of prescription drug for which the pharmacy benefit
+11 manager has provided pharmacy benefit management services.
+12 (b) The pharmacy benefit manager duty owed to covered persons shall
+13 include duties of care, good faith, and fair dealing. The director shall
+14 adopt and promulgate rules and regulations defining the scope of the
+15 duties owed to covered persons, including obligations of the pharmacy
+16 benefit manager to provide all pharmacy benefit management services
+17 related to formulary design, utilization management, and grievances and
+18 appeals to covered persons in a transparent manner and in a way that is
+19 consistent with the best interests of covered persons, and to disclose
+20 all conflicts of interest to covered persons.
+21 (c) The pharmacy benefit manager duty owed to health benefit plans
+22 shall include duties of care, good faith, and fair dealing. The director
+23 shall adopt and promulgate rules and regulations defining the scope of
+24 the duties owed to health benefit plans, including obligations of the
+25 pharmacy benefit manager to provide transparency to health benefit plans
+26 about amounts charged or claimed by the pharmacy benefit manager in a
+27 manner that is adequate to identify all instances of spread pricing and
+28 to disclose all conflicts of interest to health benefit plans.
+29 (d) The pharmacy benefit manager duty owed to providers shall
+30 include duties of care, good faith, and fair dealing. The director shall
+31 adopt and promulgate rules and regulations defining the scope of the
+-7-
+
+LB198 LB198
+2025 2025
+1 duties owed to providers, including obligations of the pharmacy benefit
+2 manager to provide transparency to providers about amounts charged or
+3 claimed by the pharmacy benefit manager in a manner that is adequate to
+4 identify all instances of spread pricing and to disclose all conflicts of
+5 interest to providers.
+6 (2) If there is a conflict between the pharmacy benefit manager
+7 duties owed under this section, the pharmacy benefit manager duty owed to
+8 a covered person shall be primary over the duty owed to any other party,
+9 and the pharmacy benefit manager duty owed to a provider shall be primary
+10 over the duty owed to a health benefit plan.
+11 Sec. 7. (1) No pharmacy benefit manager, health carrier, or health
+12 benefit plan may, either directly or through an intermediary, agent, or
+13 affiliate, engage in, facilitate, or enter into a contract with another
+14 person involving spread pricing in this state.
+15 (2) A pharmacy benefit manager contract with a health carrier or
+16 health benefit plan entered into on or after the effective date of this
+17 act must acknowledge that spread pricing is not permitted under the
+18 Pharmacy Benefit Manager Licensure and Regulation Act.
+19 Sec. 8. Section 44-4611, Revised Statutes Cumulative Supplement,
+20 2024, is amended to read:
+21 44-4611 (1) The director shall enforce compliance with the
+22 requirements of the Pharmacy Benefit Manager Licensure and Regulation
+23 Act.
+24 (2)(a) Pursuant to the Insurers Examination Act, the director may
+25 examine or audit the books and records of a pharmacy benefit manager
+26 providing a claims processing service or other prescription drug or
+27 device service for a health benefit plan to determine compliance with the
+28 act.
+29 (b) Information or data acquired during an examination under
+30 subdivision (2)(a) of this section is:
+31 (i) Considered proprietary and confidential;
+-8-
+
+LB198 LB198
+2025 2025
+1 (ii) Not subject to sections 84-712, 84-712.01, and 84-712.03 to
+2 84-712.09;
+3 (iii) Not subject to subpoena; and
+4 (iv) Not subject to discovery or admissible as evidence in any
+5 private civil action.
+6 (3) The director may use any document or information provided
+7 pursuant to subsection (3) or (4) of section 44-4606 in the performance
+8 of the director's duties to determine compliance with the Pharmacy
+9 Benefit Manager Licensure and Regulation Act.
+10 (4) The director may suspend or revoke the license of a pharmacy
+11 benefit manager and may impose a monetary penalty on a pharmacy benefit
+12 manager or the health carrier with which a pharmacy benefit manager is
+13 contracted for a violation of the Pharmacy Benefit Manager Licensure and
+14 Regulation Act. The director shall establish the monetary penalty for a
+15 violation of the act in an amount not to exceed one thousand dollars per
+16 entity for each violation.
+17 Sec. 9. Original sections 44-4601, 44-4603, 44-4608, and 44-4611,
+18 Revised Statutes Cumulative Supplement, 2024, are repealed.
+-9-
+
+[DELETED: ySAR A t a s 4 4 4 a4rttp a p t c e p thB8L52]
+[DELETED: S24saS 2 S 4 R S C S24R0(1t r a p b m i c a a f2c w a c b t p b m a 3p4( C p s m a a s5p6r7(8(9s0( C p m a m p s1e2h3(4(5o6p7n8o9c0(1(8L52]
+[DELETED: t a c p s p d o iwi(a((f( N o e i a c a w 0p1(2(3(4(5( P s m a p g o s o a6c7(8( P a c m t a t 9p0o1( P b m s m c p2s3(4o5o6o7a8(9(0(1(8L52]
+[DELETED: p( A h c t t e t i p a cp s o o p d o d se( P b m a m a p op t d o i t o o mic( P b m d m a d a o t0p1d2i o t c p t h b p a t3p a c w t r o t P B4M L a R A a a r a r5a6(7a8( S p m a a c o c b 9p0p1a p p o o p o b o t h2b3S 3 S 4 R S C S4254 ( W r t e c a c r6b7m8( U a m a c p l a l e9s0p1p8L52]
+[DELETED: d( M a p t e a p f t maa( M t m a c p l a t ect(o0p b p i t s f a n o r d1w2(3s i a p t a i a r d4r5a6(7(8( T p t a i a r d9d0( A f l o t r t a f1s2( A r t a a b i a r3w4b5(6r7f8t9p0( I t n d c p b t p b1m i n a b t m a c f t8L52]
+[DELETED: poa t m a c p a t a ppeip( ( I a a i d t b v b t pb0(1l2(3q4( P t n d c n t t i o5c6(7e f e s s p s t t m8a9S0m s n r p a s o1r r t p i a n w a2i3s4S 5  ( A p b m s n r 5p6t p b m r a p b m7a8(9s0(1s8L52]
+[DELETED: opt(iSb m d t a c p h b p op t r p b m s f tp b m o t f c r o i0a1m2(3i4a a p r a r d t s o t5d o t c p i o o t p6b m t p a p b m s7r8a9c0a1(2s3s4t d o t h b p i o o t5p6a a c o c b t p b m i 7m8t9( T p b m d o t p s0i1a a p r a r d t s o t8L52]
+[DELETED: dm t p t t p a a c ocii( I t i a c b t p b mdaa0o1S2b3a4p5( A p b m c w a h c o6h7a m a t s p i n p u t8P9S 8 S 4 R S C S0214 ( T d s e c w t2r o t P B M L a R3A4( P t t I E A t d m5e o a t b a r o a p b m6p a c p s o o p d o7d8a9( I o d a d a e u0s1(8L52]
+[DELETED: ( N s t s 8 8 a 8 t8(( N s t d o a a e i ap( T d m u a d o i ppo t d d t d c w t PB0( T d m s o r t l o a p1b2m3c4R5v6e7S8R8L52]

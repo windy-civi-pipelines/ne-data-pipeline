@@ -1,0 +1,29 @@
+Title: On page 2, line 2, strike "establish" and replace it with "designate".
+Official Title: On page 2, line 2, strike "establish" and replace it with "designate".
+Number of Sections: 1
+Source: versions - McKinney FA329
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA329 FA329
+LB48 LB48
+Floor Amendment To LB48
+Introduced by McKinney, 11.
+-1-
+[DELETED: yM9F8L]
+
+
+================================================================================
+
+Raw Text:
+FA329 FA329
+LB48 LB48
+Floor Amendment To LB48
+Introduced by McKinney, 11.
+On page 2, line 2, strike "establish" and replace it with "designate".
+-1-
+
+[DELETED: yM9F8L]

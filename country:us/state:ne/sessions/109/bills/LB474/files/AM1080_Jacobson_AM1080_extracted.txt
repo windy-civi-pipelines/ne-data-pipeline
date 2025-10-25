@@ -1,0 +1,390 @@
+Title: 1 1. Strike sections 29, 110, and 111 and insert the following new
+Official Title: 1 1. Strike sections 29, 110, and 111 and insert the following new
+Number of Sections: 1
+Source: versions - Jacobson AM1080
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+AMENDMENTS TO LB474
+(Amendments to AM669)
+Introduced by Jacobson, 42.
+2 sections:
+3 Sec. 29. Section 8-2724, Revised Statutes Cumulative Supplement,
+4 2024, as amended by section 18, Legislative Bill 251, One Hundred Ninth
+5 Legislature, First Session, 2025, is amended to read:
+6 8-2724 (1) Before a licensee is authorized to conduct business
+7 through an authorized delegate or allows a person to act as the
+8 licensee's authorized delegate, the licensee shall:
+9 (a) Adopt, and update as necessary, written policies and procedures
+10 reasonably designed to ensure that the licensee's authorized delegates
+11 comply with applicable state and federal law;
+12 (b) Enter into a written contract that complies with subsection (3)
+13 of this section; and
+14 (c) Conduct a reasonable risk-based background investigation
+15 sufficient for the licensee to determine whether the authorized delegate
+16 has complied and will likely comply with applicable state and federal
+17 law.
+18 (2) An authorized delegate shall operate in full compliance with the
+19 Nebraska Money Transmitters Act.
+20 (3) The written contract required by subdivision (1)(b) of this
+21 section shall be signed by the licensee and the authorized delegate and,
+22 at a minimum, also shall:
+23 (a) Appoint the person signing the contract as the licensee's
+24 authorized delegate with the authority to conduct money transmission on
+25 behalf of the licensee;
+26 (b) Set forth the nature and scope of the relationship between the
+-1-
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 licensee and the authorized delegate and the respective rights and
+2 responsibilities of the parties;
+3 (c) Require the authorized delegate to agree to fully comply with
+4 all applicable state and federal laws, rules, and regulations pertaining
+5 to money transmission, including the Nebraska Money Transmitters Act and
+6 the rules and regulations implementing the act, the Bank Secrecy Act, and
+7 the Uniting and Strengthening America by Providing Appropriate Tools
+8 Required to Intercept and Obstruct Terrorism Act of 2001;
+9 (d) Require the authorized delegate to remit and handle money and
+10 monetary value in accordance with the terms of the contract between the
+11 licensee and the authorized delegate;
+12 (e) Impose a trust on money and monetary value net of fees received
+13 for money transmission for the benefit of the licensee;
+14 (f) Require the authorized delegate to prepare and maintain records
+15 as required by the Nebraska Money Transmitters Act or the rules and
+16 regulations implementing the act, or as reasonably requested by the
+17 director;
+18 (g) Acknowledge that the authorized delegate consents to examination
+19 or investigation by the director;
+20 (h) State that the licensee is subject to regulation by the director
+21 and that, as part of that regulation, the director may suspend or revoke
+22 an authorized delegate designation or require the licensee to terminate
+23 an authorized delegate designation; and
+24 (i) Acknowledge receipt of the written policies and procedures
+25 required under subdivision (1)(a) of this section.
+26 (4) If the licensee's license is suspended, revoked, canceled,
+27 surrendered, or expired, the licensee shall, within five business days,
+28 provide documentation to the director that the licensee has notified all
+29 applicable authorized delegates of the licensee whose names are in a
+30 record filed with the director of the suspension, revocation,
+31 cancellation, surrender, or expiration of the license. Upon suspension,
+-2-
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 revocation, cancellation, surrender, or expiration of the license,
+2 applicable authorized delegates shall immediately cease to provide money
+3 transmission as an authorized delegate of the licensee.
+4 (5) An authorized delegate of a licensee holds in trust for the
+5 benefit of the licensee all money net of fees received from money
+6 transmission. If any authorized delegate commingles any funds received
+7 from money transmission with any other funds or property owned or
+8 controlled by the authorized delegate, all commingled funds and other
+9 property shall be considered held in trust in favor of the licensee in an
+10 amount equal to the amount of money net of fees received from money
+11 transmission by the authorized delegate on behalf of the licensee.
+12 (6) An authorized delegate may not use a subdelegate to conduct
+13 money transmission on behalf of a licensee.
+14 (1) The requirement for a license under the Nebraska Money
+15 Transmitters Act does not apply to:
+16 (a) The United States or any department, agency, or instrumentality
+17 thereof;
+18 (b) Any post office of the United States Postal Service;
+19 (c) A state or any political subdivision thereof;
+20 (d)(i) Banks, credit unions, digital asset depository institutions
+21 as defined in section 8-3003, building and loan associations, savings and
+22 loan associations, savings banks, or mutual banks organized under the
+23 laws of any state or the United States;
+24 (ii) Subsidiaries of the institutions listed in subdivision (d)(i)
+25 of this subsection;
+26 (iii) Bank holding companies which have a banking subsidiary located
+27 in Nebraska and whose debt securities have an investment grade rating by
+28 a national rating agency; or
+29 (iv) Authorized delegates of the institutions and entities listed in
+30 subdivision (d)(i), (ii), or (iii) of this subsection, except that
+31 authorized delegates that are not banks, credit unions, building and loan
+-3-
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 associations, savings and loan associations, savings banks, mutual banks,
+2 subsidiaries of any of the foregoing, or bank holding companies shall
+3 comply with all requirements imposed upon authorized delegates under the
+4 act;
+5 (e) The provision of electronic transfer of government benefits for
+6 any federal, state, or county governmental agency, as defined in Consumer
+7 Financial Protection Bureau Regulation E, 12 C.F.R. part 1005, as such
+8 regulation existed on January 1, 2025, by a contractor for and on behalf
+9 of the United States or any department, agency, or instrumentality
+10 thereof or any state or any political subdivision thereof;
+11 (f) An operator of a payment system only to the extent that the
+12 payment system provides processing, clearing, or settlement services
+13 between or among persons who are all exempt under this section in
+14 connection with wire transfers, credit card transactions, debit card
+15 transactions, automated clearinghouse transfers, or similar fund
+16 transfers; or
+17 (g) A person, firm, corporation, or association licensed in this
+18 state and acting within this state within the scope of a license:
+19 (i) As a collection agency pursuant to the Collection Agency Act;
+20 (ii) As a credit services organization pursuant to the Credit
+21 Services Organization Act; or
+22 (iii) To engage in the debt management business pursuant to sections
+23 69-1201 to 69-1217.
+24 (2) An authorized delegate of a licensee or of an exempt entity,
+25 acting within the scope of its authority conferred by a written contract
+26 as described in section 8-2739, is not required to obtain a license under
+27 the Nebraska Money Transmitters Act, except that such an authorized
+28 delegate shall comply with the other provisions of the act which apply to
+29 money transmission transactions.
+30 Sec. 110. Section 4, Legislative Bill 527, One Hundred Ninth
+31 Legislature, First Session, 2025, is amended to read:
+-4-
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 Sec. 4. (1) No later than January 1, 2026, the Director of Insurance
+2 shall establish a schedule for the collection of a tax of not to exceed
+3 six percent of the gross amount of non-medicare direct writing premiums
+4 written under a health maintenance organization certificate of authority
+5 pursuant to section 44-32,115, to the extent not preempted by federal
+6 law, during the current year for business done in the state. The director
+7 shall remit the tax paid under this section to the State Treasurer. The
+8 State Treasurer shall annually credit the entirety of the tax remitted to
+9 the Medicaid Access and Quality Fund.
+10 (2) No later than August 1, 2025, the Department of Health and Human
+11 Services shall amend the medicaid state plan or file other federal
+12 authorizing documents necessary to receive federal financial
+13 participation for the Medicaid Access and Quality Act.
+14 (3) The tax established by this section shall be effective January
+15 1, 2026, and applies to premiums received during the current calendar
+16 year and each year thereafter.
+17 Sec. 111. Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+18 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32,
+19 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51,
+20 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70,
+21 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88,
+22 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105,
+23 106, 107, 108, 109, 113, and 114 of this act become operative on October
+24 1, 2025. The other sections of this act become operative on their
+25 effective date.
+26 Sec. 112. Original sections 44-502 and 44-4109.01, Reissue Revised
+27 Statutes of Nebraska, and section 4, Legislative Bill 527, One Hundred
+28 Ninth Legislature, First Session, 2025, are repealed.
+29 2. On page 203, line 12, strike "and" and strike "8-2724,"; and in
+30 line 14 after the last comma insert "and section 8-2724, Revised Statutes
+31 Cumulative Supplement, 2024, as amended by section 18, Legislative Bill
+-5-
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 251, One Hundred Ninth Legislature, First Session, 2025,".
+2 3. Renumber the remaining sections accordingly.
+-6-
+[DELETED: yJ1 S s 2 1 a 1 a i t f nsS 2 S 8 R S C S2L8 ( B a l i a t c bt a a d o a a p t a a tl(0r d t e t t l a d1c2(3o4( C a r r b i5s6h c a w l c w a s a f7l8(9N0( T w c r b s ( o t1s2a3( A t p s t c a t l4a5b6(0A4L5M]
+[DELETED: l a t a d a t r r ar( R t a d t a t f c wattt U a S A b P A TR( R t a d t r a h m a0m1l2(3f4(5a r b t N M T A o t r a6r i t a o a r r b t7d8(9o0(1a2a3a4( A r o t w p a p5r6( I t l l i s r c7s8p9a a d o t l w n a i 0r f w t d o t s r1c0A4L5M]
+[DELETED: r c s o e o t lat( A a d o a l h i t f tb o t l a m n o f r f mt I a a d c a f rf m t w a o f o p o oc b t a d a c f a op0a e t t a o m n o f r f m1t2( A a d m n u a s t c3m4( T r f a l u t N M5T6(7t8(9(0( B c u d a d i1a2l a s b o m b o u t3l4(5o6(7i8a9(0s ( ( o ( o t s e t1a0A4L5M]
+[DELETED: as o a o t f o b h c sca(aFro t U S o a d a o i0t1( A o o a p s o t t e t t2p s p p c o s s3b o a p w a a e u t s i4c w w t c c t d c5t a c t o s f6t7( A p f c o a l i t8s9(0( A a c s o p t t C1S2(364( A a d o a l o o a e e5a6a7t N M T A e t s a a8d9m0S 1  S 4 L B 5 O H N1L0A4L5M]
+[DELETED: Ssswp t s 4 t t e n p b flsSt0(1S s a t m s p o f o f2a d n t r f f3p4(51 2 a a t p r d t c c6y7S81930517283141 2 T o s o t a b o o t5e6S7S8N920l1C0A4L5M]
+[DELETED: 230A4L5M]
+
+
+================================================================================
+
+Raw Text:
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+AMENDMENTS TO LB474
+(Amendments to AM669)
+Introduced by Jacobson, 42.
+1 1. Strike sections 29, 110, and 111 and insert the following new
+2 sections:
+3 Sec. 29. Section 8-2724, Revised Statutes Cumulative Supplement,
+4 2024, as amended by section 18, Legislative Bill 251, One Hundred Ninth
+5 Legislature, First Session, 2025, is amended to read:
+6 8-2724 (1) Before a licensee is authorized to conduct business
+7 through an authorized delegate or allows a person to act as the
+8 licensee's authorized delegate, the licensee shall:
+9 (a) Adopt, and update as necessary, written policies and procedures
+10 reasonably designed to ensure that the licensee's authorized delegates
+11 comply with applicable state and federal law;
+12 (b) Enter into a written contract that complies with subsection (3)
+13 of this section; and
+14 (c) Conduct a reasonable risk-based background investigation
+15 sufficient for the licensee to determine whether the authorized delegate
+16 has complied and will likely comply with applicable state and federal
+17 law.
+18 (2) An authorized delegate shall operate in full compliance with the
+19 Nebraska Money Transmitters Act.
+20 (3) The written contract required by subdivision (1)(b) of this
+21 section shall be signed by the licensee and the authorized delegate and,
+22 at a minimum, also shall:
+23 (a) Appoint the person signing the contract as the licensee's
+24 authorized delegate with the authority to conduct money transmission on
+25 behalf of the licensee;
+26 (b) Set forth the nature and scope of the relationship between the
+-1-
+
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 licensee and the authorized delegate and the respective rights and
+2 responsibilities of the parties;
+3 (c) Require the authorized delegate to agree to fully comply with
+4 all applicable state and federal laws, rules, and regulations pertaining
+5 to money transmission, including the Nebraska Money Transmitters Act and
+6 the rules and regulations implementing the act, the Bank Secrecy Act, and
+7 the Uniting and Strengthening America by Providing Appropriate Tools
+8 Required to Intercept and Obstruct Terrorism Act of 2001;
+9 (d) Require the authorized delegate to remit and handle money and
+10 monetary value in accordance with the terms of the contract between the
+11 licensee and the authorized delegate;
+12 (e) Impose a trust on money and monetary value net of fees received
+13 for money transmission for the benefit of the licensee;
+14 (f) Require the authorized delegate to prepare and maintain records
+15 as required by the Nebraska Money Transmitters Act or the rules and
+16 regulations implementing the act, or as reasonably requested by the
+17 director;
+18 (g) Acknowledge that the authorized delegate consents to examination
+19 or investigation by the director;
+20 (h) State that the licensee is subject to regulation by the director
+21 and that, as part of that regulation, the director may suspend or revoke
+22 an authorized delegate designation or require the licensee to terminate
+23 an authorized delegate designation; and
+24 (i) Acknowledge receipt of the written policies and procedures
+25 required under subdivision (1)(a) of this section.
+26 (4) If the licensee's license is suspended, revoked, canceled,
+27 surrendered, or expired, the licensee shall, within five business days,
+28 provide documentation to the director that the licensee has notified all
+29 applicable authorized delegates of the licensee whose names are in a
+30 record filed with the director of the suspension, revocation,
+31 cancellation, surrender, or expiration of the license. Upon suspension,
+-2-
+
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 revocation, cancellation, surrender, or expiration of the license,
+2 applicable authorized delegates shall immediately cease to provide money
+3 transmission as an authorized delegate of the licensee.
+4 (5) An authorized delegate of a licensee holds in trust for the
+5 benefit of the licensee all money net of fees received from money
+6 transmission. If any authorized delegate commingles any funds received
+7 from money transmission with any other funds or property owned or
+8 controlled by the authorized delegate, all commingled funds and other
+9 property shall be considered held in trust in favor of the licensee in an
+10 amount equal to the amount of money net of fees received from money
+11 transmission by the authorized delegate on behalf of the licensee.
+12 (6) An authorized delegate may not use a subdelegate to conduct
+13 money transmission on behalf of a licensee.
+14 (1) The requirement for a license under the Nebraska Money
+15 Transmitters Act does not apply to:
+16 (a) The United States or any department, agency, or instrumentality
+17 thereof;
+18 (b) Any post office of the United States Postal Service;
+19 (c) A state or any political subdivision thereof;
+20 (d)(i) Banks, credit unions, digital asset depository institutions
+21 as defined in section 8-3003, building and loan associations, savings and
+22 loan associations, savings banks, or mutual banks organized under the
+23 laws of any state or the United States;
+24 (ii) Subsidiaries of the institutions listed in subdivision (d)(i)
+25 of this subsection;
+26 (iii) Bank holding companies which have a banking subsidiary located
+27 in Nebraska and whose debt securities have an investment grade rating by
+28 a national rating agency; or
+29 (iv) Authorized delegates of the institutions and entities listed in
+30 subdivision (d)(i), (ii), or (iii) of this subsection, except that
+31 authorized delegates that are not banks, credit unions, building and loan
+-3-
+
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 associations, savings and loan associations, savings banks, mutual banks,
+2 subsidiaries of any of the foregoing, or bank holding companies shall
+3 comply with all requirements imposed upon authorized delegates under the
+4 act;
+5 (e) The provision of electronic transfer of government benefits for
+6 any federal, state, or county governmental agency, as defined in Consumer
+7 Financial Protection Bureau Regulation E, 12 C.F.R. part 1005, as such
+8 regulation existed on January 1, 2025, by a contractor for and on behalf
+9 of the United States or any department, agency, or instrumentality
+10 thereof or any state or any political subdivision thereof;
+11 (f) An operator of a payment system only to the extent that the
+12 payment system provides processing, clearing, or settlement services
+13 between or among persons who are all exempt under this section in
+14 connection with wire transfers, credit card transactions, debit card
+15 transactions, automated clearinghouse transfers, or similar fund
+16 transfers; or
+17 (g) A person, firm, corporation, or association licensed in this
+18 state and acting within this state within the scope of a license:
+19 (i) As a collection agency pursuant to the Collection Agency Act;
+20 (ii) As a credit services organization pursuant to the Credit
+21 Services Organization Act; or
+22 (iii) To engage in the debt management business pursuant to sections
+23 69-1201 to 69-1217.
+24 (2) An authorized delegate of a licensee or of an exempt entity,
+25 acting within the scope of its authority conferred by a written contract
+26 as described in section 8-2739, is not required to obtain a license under
+27 the Nebraska Money Transmitters Act, except that such an authorized
+28 delegate shall comply with the other provisions of the act which apply to
+29 money transmission transactions.
+30 Sec. 110. Section 4, Legislative Bill 527, One Hundred Ninth
+31 Legislature, First Session, 2025, is amended to read:
+-4-
+
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 Sec. 4. (1) No later than January 1, 2026, the Director of Insurance
+2 shall establish a schedule for the collection of a tax of not to exceed
+3 six percent of the gross amount of non-medicare direct writing premiums
+4 written under a health maintenance organization certificate of authority
+5 pursuant to section 44-32,115, to the extent not preempted by federal
+6 law, during the current year for business done in the state. The director
+7 shall remit the tax paid under this section to the State Treasurer. The
+8 State Treasurer shall annually credit the entirety of the tax remitted to
+9 the Medicaid Access and Quality Fund.
+10 (2) No later than August 1, 2025, the Department of Health and Human
+11 Services shall amend the medicaid state plan or file other federal
+12 authorizing documents necessary to receive federal financial
+13 participation for the Medicaid Access and Quality Act.
+14 (3) The tax established by this section shall be effective January
+15 1, 2026, and applies to premiums received during the current calendar
+16 year and each year thereafter.
+17 Sec. 111. Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+18 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32,
+19 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51,
+20 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70,
+21 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88,
+22 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105,
+23 106, 107, 108, 109, 113, and 114 of this act become operative on October
+24 1, 2025. The other sections of this act become operative on their
+25 effective date.
+26 Sec. 112. Original sections 44-502 and 44-4109.01, Reissue Revised
+27 Statutes of Nebraska, and section 4, Legislative Bill 527, One Hundred
+28 Ninth Legislature, First Session, 2025, are repealed.
+29 2. On page 203, line 12, strike "and" and strike "8-2724,"; and in
+30 line 14 after the last comma insert "and section 8-2724, Revised Statutes
+31 Cumulative Supplement, 2024, as amended by section 18, Legislative Bill
+-5-
+
+AM1080 AM1080
+LB474 LB474
+MMM - 04/15/2025 MMM - 04/15/2025
+1 251, One Hundred Ninth Legislature, First Session, 2025,".
+2 3. Renumber the remaining sections accordingly.
+-6-
+
+[DELETED: yJ1 S s 2 1 a 1 a i t f nsS 2 S 8 R S C S2L8 ( B a l i a t c bt a a d o a a p t a a tl(0r d t e t t l a d1c2(3o4( C a r r b i5s6h c a w l c w a s a f7l8(9N0( T w c r b s ( o t1s2a3( A t p s t c a t l4a5b6(0A4L5M]
+[DELETED: l a t a d a t r r ar( R t a d t a t f c wattt U a S A b P A TR( R t a d t r a h m a0m1l2(3f4(5a r b t N M T A o t r a6r i t a o a r r b t7d8(9o0(1a2a3a4( A r o t w p a p5r6( I t l l i s r c7s8p9a a d o t l w n a i 0r f w t d o t s r1c0A4L5M]
+[DELETED: r c s o e o t lat( A a d o a l h i t f tb o t l a m n o f r f mt I a a d c a f rf m t w a o f o p o oc b t a d a c f a op0a e t t a o m n o f r f m1t2( A a d m n u a s t c3m4( T r f a l u t N M5T6(7t8(9(0( B c u d a d i1a2l a s b o m b o u t3l4(5o6(7i8a9(0s ( ( o ( o t s e t1a0A4L5M]
+[DELETED: as o a o t f o b h c sca(aFro t U S o a d a o i0t1( A o o a p s o t t e t t2p s p p c o s s3b o a p w a a e u t s i4c w w t c c t d c5t a c t o s f6t7( A p f c o a l i t8s9(0( A a c s o p t t C1S2(364( A a d o a l o o a e e5a6a7t N M T A e t s a a8d9m0S 1  S 4 L B 5 O H N1L0A4L5M]
+[DELETED: Ssswp t s 4 t t e n p b flsSt0(1S s a t m s p o f o f2a d n t r f f3p4(51 2 a a t p r d t c c6y7S81930517283141 2 T o s o t a b o o t5e6S7S8N920l1C0A4L5M]
+[DELETED: 230A4L5M]

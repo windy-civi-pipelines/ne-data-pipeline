@@ -1,0 +1,676 @@
+Title: LEGISLATIVE BILL 198
+Official Title: LEGISLATIVE BILL 198
+Number of Sections: 6
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LB198 LB198
+2025 2025
+Approved by the Governor May 20, 2025
+Introduced by Sorrentino, 39; Hallstrom, 1; Sanders, 45.
+A BILL FOR AN ACT relating to the Pharmacy Benefit Manager Licensure and
+Regulation Act; amend sections 44-4601, 44-4603, and 44-4610, Revised
+Statutes Cumulative Supplement, 2024; to define terms; to change
+provisions relating to specialty pharmacies and clinician-administered
+drugs; to prohibit health benefit plans, health carriers, and pharmacy
+benefit managers from taking certain actions; to authorize a network
+pharmacy or network pharmacist to decline to provide a drug as prescribed;
+to change provisions relating to retail pharmacies; to prohibit spread
+pricing as prescribed; to harmonize provisions; to provide an operative
+date; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+
+Section 2:
+Section 1. Section 44-4601, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+44-4601 Sections 44-4601 to 44-4612 and sections 4 to 8 of this act shall
+be known and may be cited as the Pharmacy Benefit Manager Licensure and
+Regulation Act.
+Sec. 2. Section 44-4603, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+44-4603 For purposes of the Pharmacy Benefit Manager Licensure and
+Regulation Act:
+(1) Auditing entity means a pharmacy benefit manager or any person that
+represents a pharmacy benefit manager in conducting an audit for compliance
+with a contract between the pharmacy benefit manager and a pharmacy;
+(2) Claims processing service means an administrative service performed in
+connection with the processing and adjudicating of a claim relating to a
+pharmacist service that includes:
+(a) Receiving a payment for a pharmacist service; or
+(b) Making a payment to a pharmacist or pharmacy for a pharmacist service;
+(3) Clinician-administered drug means an outpatient prescription drug
+other than a vaccine that:
+(a) Cannot reasonably be self-administered by the covered person to whom
+the drug is prescribed or by an individual assisting the covered person with
+self-administration; and
+(b) Is typically administered:
+(i) By a health care provider authorized to administer the drug, including
+when acting under a physician's delegation and supervision; and
+(ii) In a physician's office, hospital outpatient infusion center, or
+other clinical setting;
+(4) (3) Covered person means a member, policyholder, subscriber, enrollee,
+beneficiary, dependent, or other individual participating in a health benefit
+plan;
+(5) (4) Director means the Director of Insurance;
+(6) (5) Health benefit plan means a policy, contract, certificate, plan,
+or agreement entered into, offered, or issued by a health carrier or self-
+funded employee benefit plan to the extent not preempted by federal law to
+provide, deliver, arrange for, pay for, or reimburse any of the costs of a
+physical, mental, or behavioral health care service;
+(7) (6) Health carrier has the same meaning as in section 44-1303;
+(8) Maintenance medication means a drug prescribed for a chronic, long-
+term condition and taken on a regular, recurring basis;
+(9) Network pharmacist means a pharmacist that has a contract, either
+directly or through a pharmacy services administrative organization, with a
+pharmacy benefit manager to provide covered drugs at a negotiated reimbursement
+rate;
+(10) Network pharmacy means a pharmacy that has a contract, either
+directly or through a pharmacy services administrative organization, with a
+pharmacy benefit manager to provide covered drugs at a negotiated reimbursement
+rate;
+(11) (7) Other prescription drug or device service means a service other
+than a claims processing service, provided directly or indirectly, whether in
+connection with or separate from a claims processing service, including, but
+not limited to:
+(a) Negotiating a rebate, discount, or other financial incentive or
+arrangement with a drug company;
+(b) Disbursing or distributing a rebate;
+(c) Managing or participating in an incentive program or arrangement for a
+pharmacist service;
+(d) Negotiating or entering into a contractual arrangement with a
+pharmacist or pharmacy;
+(e) Developing and maintaining a formulary;
+(f) Designing a prescription benefit program; or
+(g) Advertising or promoting a service;
+-1-
+LB198 LB198
+2025 2025
+(12) Participating provider has the same meaning as in section 44-7103;
+(13) (8) Pharmacist has the same meaning as in section 38-2832;
+(14) (9) Pharmacist service means a product, good, or service or any
+combination thereof provided as a part of the practice of pharmacy;
+(15) (10) Pharmacy has the same meaning as in section 71-425;
+(16)(a) (11)(a) Pharmacy benefit manager means a person, business, or
+entity, including a wholly or partially owned or controlled subsidiary of a
+pharmacy benefit manager, that provides a claims processing service or other
+prescription drug or device service for a health benefit plan to a covered
+person who is a resident of this state; and
+(b) Pharmacy benefit manager does not include:
+(i) A health care facility licensed in this state;
+(ii) A health care professional licensed in this state;
+(iii) A consultant who only provides advice as to the selection or
+performance of a pharmacy benefit manager; or
+(iv) A health carrier to the extent that it performs any claims processing
+service or other prescription drug or device service exclusively for its
+enrollees; and
+(17) Pharmacy benefit manager affiliate means a pharmacy or pharmacist
+that directly or indirectly, through one or more intermediaries, owns or
+controls, is owned or controlled by, or is under common ownership or control
+with a pharmacy benefit manager;
+(18) Pharmacy services administrative organization means an entity that
+provides a contracted pharmacy with contracting administrative services
+relating to prescription drug benefits;
+(19) (12) Plan sponsor has the same meaning as in section 44-2702; .
+(20) Specialty pharmacy means:
+(a) A pharmacy that specializes in dispensing drugs for patients with rare
+or complex medical conditions;
+(b) A pharmacy that specializes in prescription drugs that have specific
+storage or dispensing requirements; or
+(c) A pharmacy that holds a specialty pharmacy accreditation from a
+nationally recognized independent accrediting organization; and
+(21) Spread pricing means the method of pricing a drug in which the
+contracted price for a drug that a pharmacy benefit manager charges a health
+benefit plan differs from the amount the pharmacy benefit manager directly or
+indirectly pays the pharmacist or pharmacy for pharmacist services.
+Sec. 3. Section 44-4610, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+44-4610 (1) A pharmacy benefit manager shall not exclude a Nebraska
+pharmacy from participation in the pharmacy benefit manager's specialty
+pharmacy network if:
+(a) (1) The pharmacy holds a specialty pharmacy accreditation from a
+nationally recognized independent accrediting organization; and
+(b) (2) The pharmacy is willing to accept the terms and conditions of the
+pharmacy benefit manager's agreement with the pharmacy benefit manager's
+specialty pharmacies.
+(2) A pharmacy benefit manager shall not:
+(a) Apply terms and conditions to an unaffiliated specialty pharmacy that
+are stricter than the terms and conditions required for any specialty pharmacy
+affiliated with the pharmacy benefit manager;
+(b) Apply terms and conditions to specialty pharmacies that are
+inconsistent with the Pharmacy Benefit Manager Licensure and Regulation Act; or
+(c) Require data reporting from specialty pharmacies more frequently than
+quarterly unless reasonably necessary for the pharmacy benefit manager to
+collect or report data obtained pursuant to subdivision (3)(a) or (b) of this
+
+Section 3:
+section.
+(3) A pharmacy benefit manager shall not impose reporting terms and
+conditions that require a specialty pharmacy to collect and remit data unless
+such terms and conditions are:
+(a) Necessary for a pharmacy benefit manager to meet reporting obligations
+required by federal or state laws or regulations;
+(b) Related to data (i) that may only be obtained from the specialty
+pharmacy and (ii) that a pharmacy benefit manager is contractually obligated to
+provide to another entity in order for that entity to meet reporting
+obligations required by federal or state laws or regulations;
+(c) Necessary for purposes of payment integrity or rebate administration;
+or
+(d) Submitted by the specialty pharmacy to the nationally recognized
+independent accrediting organization from which the specialty pharmacy holds an
+accreditation.
+(4) In addition to other terms and conditions consistent with this
+
+Section 4:
+section, a pharmacy benefit manager may impose contract terms and conditions
+that are reasonably necessary to demonstrate that the specialty pharmacy has
+sufficient:
+(a) Policies and metrics related to providing quality and consistent care
+for patients using the pharmacy; and
+(b) Policies and procedures consistent with industry standards to avoid
+instances of fraud, waste, or abuse.
+Sec. 4. (1) A specialty pharmacy that ships a clinician-administered drug
+to a health care provider or pharmacy shall:
+(a) Comply with all federal laws regulating the shipment of drugs,
+including, but not limited to, general chapter 800 of the United States
+-2-
+LB198 LB198
+2025 2025
+Pharmacopeia;
+(b) In response to questions from a health care provider or pharmacy,
+provide access to a pharmacist or nurse employed by the specialty pharmacy
+twenty-four hours per day, seven days per week;
+(c) Allow a covered person and health care provider to request a refill of
+a clinician-administered drug on behalf of a covered person in accordance with
+the pharmacy benefit manager's or health carrier's utilization review
+procedures; and
+(d) Adhere to the track and trace requirements, as described in the
+federal Drug Supply Chain Security Act, 21 U.S.C. 360eee et seq., for a
+clinician-administered drug that needs to be compounded or manipulated and, if
+requested by the health care provider or the provider's designee, provide the
+track and trace information to the health care provider or designee.
+(2) For any clinician-administered drug dispensed by a specialty pharmacy
+selected by the pharmacy benefit manager or health carrier, the requesting
+health care provider or the provider's designee shall provide the requested
+date, approximate time, and place of delivery of a clinician-administered drug
+at least five business days before the date of delivery. The specialty pharmacy
+shall require a signature of the health care provider or the provider's
+designee upon receipt of the shipment when shipped to a health care provider.
+If any clinician-administered drug dispensed by a specialty pharmacy is not
+delivered as specified in this subsection, the covered person shall not be
+financially responsible if the clinician-administered drug is not able to be
+administered to the covered person.
+(3) The requirements of subsections (1) and (2) of this section do not
+apply when the specialty pharmacy and the health care provider administering
+the clinician-administered drug have shared ownership.
+(4) A pharmacy benefit manager or health carrier that requires dispensing
+of a clinician-administered drug through a specialty pharmacy shall establish
+and disclose a process which allows the health care provider or pharmacy to
+appeal and have exceptions to the use of a specialty pharmacy when:
+(a) A drug is not delivered as specified in subsection (2) of this
+
+Section 5:
+section; or
+(b) An attending health care provider reasonably believes a covered person
+may experience harm without the immediate use of a clinician-administered drug
+that a health care provider or pharmacy has in stock.
+(5) A pharmacy benefit manager or health carrier shall not:
+(a) Require a specialty pharmacy to dispense a covered clinician-
+administered drug directly to a covered person with the intention that the
+covered person will transport the clinician-administered drug to a health care
+provider for administration;
+(b) Refuse to authorize or reimburse a participating provider for
+dispensing a covered clinician-administered drug based on costs if the costs of
+the drug to the health benefit plan are substantially similar as compared to
+the costs of the drug if provided from a specialty pharmacy selected by the
+pharmacy benefit manager or health carrier;
+(c) Refuse to authorize or reimburse a participating provider pursuant to
+the network agreement for the administration of covered clinician-administered
+drugs;
+(d) Penalize or remove from the network a participating provider solely
+for refusing to administer a covered clinician-administered drug received from
+a specialty pharmacy selected by the pharmacy benefit manager or health
+carrier. If a participating provider refuses to source covered clinician-
+administered drugs from a specialty pharmacy selected by the pharmacy benefit
+manager or health carrier, the participating provider shall direct the covered
+person to contact the health carrier for coverage options; or
+(e) Require a covered person to obtain a clinician-administered drug from
+a specialty pharmacy selected by the pharmacy benefit manager or health carrier
+if a participating provider of the covered person's choice sources the drug and
+provides for administration at substantially similar costs.
+Sec. 5. (1) A health benefit plan, health carrier, or pharmacy benefit
+manager shall not:
+(a) Require a covered person, as a condition of payment or reimbursement,
+to obtain pharmacist services exclusively through the mail-order pharmacy or
+pharmacy benefit manager affiliate;
+(b) Prohibit or limit a covered person from selecting a network pharmacist
+or network pharmacy of the covered person's choice;
+(c) Transfer a covered person's prescriptions from a network pharmacy to
+another pharmacy unless requested by the covered person;
+(d) Use financial incentives, including, but not limited to, adjustments
+in cost-sharing obligations of a covered person, to the exclusive benefit of
+the pharmacy benefit manager affiliate pharmacy; or
+(e) Except as provided in subdivision (2)(b) of this section, auto-enroll
+a covered person in mail-order pharmacist services.
+(2) Nothing in this section shall be construed to prevent a health benefit
+plan, health carrier, or pharmacy benefit manager from:
+(a) Requiring a covered person to use a network specialty pharmacy;
+(b) Auto-enrolling a covered person in mail-order pharmacist services for
+a maintenance medication, provided that a covered person:
+(i) Shall not be auto-enrolled for the first ninety days of a new
+maintenance medication; and
+(ii) Shall have the ability to opt out of mail-order pharmacist services
+at any time;
+-3-
+LB198 LB198
+2025 2025
+(c) Informing a covered person of an ability to obtain pharmacist services
+at a lower cost; or
+(d) Requiring a covered person to obtain pharmacist services from a mail-
+order pharmacy or pharmacy benefit manager affiliate when such services are not
+otherwise available from another network pharmacy.
+Sec. 6. (1) A network pharmacy or network pharmacist may decline to
+provide a drug if the pharmacy or pharmacist will be or is paid less than the
+acquisition cost for the drug.
+(2) If a network pharmacy or network pharmacist declines to provide a drug
+as authorized in subsection (1) of this section, the pharmacy or pharmacist
+shall provide the covered person with adequate information as to where the
+prescription for the drug may be filled or shall refer the covered person to
+his or her plan sponsor.
+(3) A pharmacy benefit manager, pharmacy services administrative
+organization, or any person acting on behalf of a pharmacy benefit manager or
+pharmacy services administrative organization shall not penalize, remove from
+the network, or otherwise retaliate against a network pharmacy or network
+pharmacist solely for declining to provide a drug as provided in subsection (1)
+of this section.
+Sec. 7. (1) A contract between a retail pharmacy and a pharmacy benefit
+manager or plan sponsor shall not prohibit the retail pharmacy from offering
+the following as an ancillary service of the retail pharmacy:
+(a) The delivery of a prescription drug by mail or common carrier to a
+covered person or his or her personal representative on request of the covered
+person or personal representative if the request is made before the drug is
+delivered; or
+(b) The delivery of a prescription to a covered person or his or her
+personal representative by an employee or contractor of the retail pharmacy.
+(2) Nothing in this section shall require a retail pharmacy to receive a
+request from a covered person or his or her personal representative for
+delivery of a drug by mail, common carrier, or an employee or contractor of the
+retail pharmacy when refilling or renewing prescription drug services for which
+a request was previously received, so long as the retail pharmacy has confirmed
+that the covered person wishes to receive the drug.
+(3) A pharmacy benefit manager or plan sponsor shall not remove a retail
+pharmacy from its networks or require a retail pharmacy to join a mail-order
+pharmacy network for the sole reason of providing ancillary delivery services
+as long as the ancillary delivery services were provided in compliance with
+this section and with the terms and conditions of the retail pharmacy's
+contract with the pharmacy benefit manager or plan sponsor and its pharmacy
+services administrative organization, if applicable.
+(4) Except as otherwise provided in a contract described in subsection (1)
+of this section, a retail pharmacy shall not charge a plan sponsor or pharmacy
+benefit manager for the delivery service described in subsection (1) of this
+
+Section 6:
+section.
+(5) If a retail pharmacy provides a delivery service described in
+subsection (1) of this section to a covered person, the retail pharmacy shall
+disclose both of the following to the covered person or his or her personal
+representative:
+(a) Any fee charged to the covered person for the delivery of a
+prescription drug; and
+(b) That the plan sponsor or pharmacy benefit manager may not reimburse
+the covered person for the fee described in subdivision (a) of this subsection.
+(6) For purposes of this section, retail pharmacy means a pharmacy that
+dispenses prescription drugs to the public at retail primarily to individuals
+who reside in close proximity or who are receiving care from a provider in
+close proximity to the pharmacy, typically by face-to-face interaction with the
+individual or the individual's caregiver.
+Sec. 8. (1) A contract between a pharmacy benefit manager and a health
+benefit plan that is issued on or after January 1, 2026, shall not contain
+spread pricing unless such contract is an extension of a contract entered into
+prior to January 1, 2026, which included spread pricing.
+(2) Beginning January 1, 2029, no contract between a pharmacy benefit
+manager and a health benefit plan shall include spread pricing.
+Sec. 9. This act becomes operative on January 1, 2026.
+Sec. 10. Original sections 44-4601, 44-4603, and 44-4610, Revised
+Statutes Cumulative Supplement, 2024, are repealed.
+-4-
+[DELETED: yS B F A A r t t P B M L a A a s 4 4 a 4 R C S 2 t d t t c r t s p a c t p h b p h c a p m f t c a t a a n c p r t r p t p s a p t h p t p a o k a m b c a t P B M L a F p o t P B M L a a p b m i c a a f c w t p a a o a c r t  C d m a o p d I a p o h o i c o a e i o o i b a h c o s e b p t t e n p b f l t d a f p f o r a o t c o  M m m a d p f a c l N p m a p t h a c e o t a p s a o w  N p m a p t h a c e o t a p s a o w  N a r d o o f i o N o e i a c a w 8L52]
+[DELETED:  ( P s m a p g o s o a ( P b m m a p b o i a w o p o o c s o  d o d s f a h b p t a c A c w o p a a t t s o o o p d o d s e f i P b m a m a p o p d o i t o o m i o o P s a o m a e t a c p w c a s A p t h a s p a f  S p m t m o p a d i w t ( A p b m s n e a N f p i t p b m s ( T p h a s p a f  b m a w t p b m A t a c t s p t a u r n f t p b m t A p b m s n i r t a R t d ( t m o b o f t s t a e i o f t e t m r S b t s p t t n r I a t o t a c c w t P a p c w i s t a C w a f l r t s o d b n l t g c 8 o t U S8L52]
+[DELETED:  I r t q f a h c p o p a t a p o n e b t s p p b m o h c u r A t t t a t r a d i t D S C S A 2 U 3 e s f  b t p b m o h c t r c p o t p d s p t r r a s o t h c p o t p a c d d b a s p i n a s i t s t c p s n b T r o s ( a ( o t s d n d a p w a t h c p o p t A d i n d a s i s ( o t R a s p t d a c c d d t a c p w t i t t R t a o r a p p f P o r f t n a p p s s p s b t p b m o h I a p p r t s c c o p s e t t m p o S n b a f t f n d o a n8L52]
+[DELETED:  6  ( A n p o n p m d t a i s ( o t s t p o p p t c p w a i a t w t A p b m p s a n o o r a a n p o n T d o a p d b m o c c t  o p r i t r i m b t d i T d o a p t a c p o h o h f a c p o h o h p r f l a t a d s w p i c w s a w t t a c o t r p w t p b m o p s a i p I a r p p a d s d i A f c t t c p f t d o  r i c p o w a r c f a p i p t i i o o a J 1 2 s n c B J 1 2 n c b a p b 1  O s 4 4 a 4 R8L52]
+
+
+================================================================================
+
+Raw Text:
+LB198 LB198
+2025 2025
+LEGISLATIVE BILL 198
+Approved by the Governor May 20, 2025
+Introduced by Sorrentino, 39; Hallstrom, 1; Sanders, 45.
+A BILL FOR AN ACT relating to the Pharmacy Benefit Manager Licensure and
+Regulation Act; amend sections 44-4601, 44-4603, and 44-4610, Revised
+Statutes Cumulative Supplement, 2024; to define terms; to change
+provisions relating to specialty pharmacies and clinician-administered
+drugs; to prohibit health benefit plans, health carriers, and pharmacy
+benefit managers from taking certain actions; to authorize a network
+pharmacy or network pharmacist to decline to provide a drug as prescribed;
+to change provisions relating to retail pharmacies; to prohibit spread
+pricing as prescribed; to harmonize provisions; to provide an operative
+date; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 44-4601, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+44-4601 Sections 44-4601 to 44-4612 and sections 4 to 8 of this act shall
+be known and may be cited as the Pharmacy Benefit Manager Licensure and
+Regulation Act.
+Sec. 2. Section 44-4603, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+44-4603 For purposes of the Pharmacy Benefit Manager Licensure and
+Regulation Act:
+(1) Auditing entity means a pharmacy benefit manager or any person that
+represents a pharmacy benefit manager in conducting an audit for compliance
+with a contract between the pharmacy benefit manager and a pharmacy;
+(2) Claims processing service means an administrative service performed in
+connection with the processing and adjudicating of a claim relating to a
+pharmacist service that includes:
+(a) Receiving a payment for a pharmacist service; or
+(b) Making a payment to a pharmacist or pharmacy for a pharmacist service;
+(3) Clinician-administered drug means an outpatient prescription drug
+other than a vaccine that:
+(a) Cannot reasonably be self-administered by the covered person to whom
+the drug is prescribed or by an individual assisting the covered person with
+self-administration; and
+(b) Is typically administered:
+(i) By a health care provider authorized to administer the drug, including
+when acting under a physician's delegation and supervision; and
+(ii) In a physician's office, hospital outpatient infusion center, or
+other clinical setting;
+(4) (3) Covered person means a member, policyholder, subscriber, enrollee,
+beneficiary, dependent, or other individual participating in a health benefit
+plan;
+(5) (4) Director means the Director of Insurance;
+(6) (5) Health benefit plan means a policy, contract, certificate, plan,
+or agreement entered into, offered, or issued by a health carrier or self-
+funded employee benefit plan to the extent not preempted by federal law to
+provide, deliver, arrange for, pay for, or reimburse any of the costs of a
+physical, mental, or behavioral health care service;
+(7) (6) Health carrier has the same meaning as in section 44-1303;
+(8) Maintenance medication means a drug prescribed for a chronic, long-
+term condition and taken on a regular, recurring basis;
+(9) Network pharmacist means a pharmacist that has a contract, either
+directly or through a pharmacy services administrative organization, with a
+pharmacy benefit manager to provide covered drugs at a negotiated reimbursement
+rate;
+(10) Network pharmacy means a pharmacy that has a contract, either
+directly or through a pharmacy services administrative organization, with a
+pharmacy benefit manager to provide covered drugs at a negotiated reimbursement
+rate;
+(11) (7) Other prescription drug or device service means a service other
+than a claims processing service, provided directly or indirectly, whether in
+connection with or separate from a claims processing service, including, but
+not limited to:
+(a) Negotiating a rebate, discount, or other financial incentive or
+arrangement with a drug company;
+(b) Disbursing or distributing a rebate;
+(c) Managing or participating in an incentive program or arrangement for a
+pharmacist service;
+(d) Negotiating or entering into a contractual arrangement with a
+pharmacist or pharmacy;
+(e) Developing and maintaining a formulary;
+(f) Designing a prescription benefit program; or
+(g) Advertising or promoting a service;
+-1-
+
+LB198 LB198
+2025 2025
+(12) Participating provider has the same meaning as in section 44-7103;
+(13) (8) Pharmacist has the same meaning as in section 38-2832;
+(14) (9) Pharmacist service means a product, good, or service or any
+combination thereof provided as a part of the practice of pharmacy;
+(15) (10) Pharmacy has the same meaning as in section 71-425;
+(16)(a) (11)(a) Pharmacy benefit manager means a person, business, or
+entity, including a wholly or partially owned or controlled subsidiary of a
+pharmacy benefit manager, that provides a claims processing service or other
+prescription drug or device service for a health benefit plan to a covered
+person who is a resident of this state; and
+(b) Pharmacy benefit manager does not include:
+(i) A health care facility licensed in this state;
+(ii) A health care professional licensed in this state;
+(iii) A consultant who only provides advice as to the selection or
+performance of a pharmacy benefit manager; or
+(iv) A health carrier to the extent that it performs any claims processing
+service or other prescription drug or device service exclusively for its
+enrollees; and
+(17) Pharmacy benefit manager affiliate means a pharmacy or pharmacist
+that directly or indirectly, through one or more intermediaries, owns or
+controls, is owned or controlled by, or is under common ownership or control
+with a pharmacy benefit manager;
+(18) Pharmacy services administrative organization means an entity that
+provides a contracted pharmacy with contracting administrative services
+relating to prescription drug benefits;
+(19) (12) Plan sponsor has the same meaning as in section 44-2702; .
+(20) Specialty pharmacy means:
+(a) A pharmacy that specializes in dispensing drugs for patients with rare
+or complex medical conditions;
+(b) A pharmacy that specializes in prescription drugs that have specific
+storage or dispensing requirements; or
+(c) A pharmacy that holds a specialty pharmacy accreditation from a
+nationally recognized independent accrediting organization; and
+(21) Spread pricing means the method of pricing a drug in which the
+contracted price for a drug that a pharmacy benefit manager charges a health
+benefit plan differs from the amount the pharmacy benefit manager directly or
+indirectly pays the pharmacist or pharmacy for pharmacist services.
+Sec. 3. Section 44-4610, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+44-4610 (1) A pharmacy benefit manager shall not exclude a Nebraska
+pharmacy from participation in the pharmacy benefit manager's specialty
+pharmacy network if:
+(a) (1) The pharmacy holds a specialty pharmacy accreditation from a
+nationally recognized independent accrediting organization; and
+(b) (2) The pharmacy is willing to accept the terms and conditions of the
+pharmacy benefit manager's agreement with the pharmacy benefit manager's
+specialty pharmacies.
+(2) A pharmacy benefit manager shall not:
+(a) Apply terms and conditions to an unaffiliated specialty pharmacy that
+are stricter than the terms and conditions required for any specialty pharmacy
+affiliated with the pharmacy benefit manager;
+(b) Apply terms and conditions to specialty pharmacies that are
+inconsistent with the Pharmacy Benefit Manager Licensure and Regulation Act; or
+(c) Require data reporting from specialty pharmacies more frequently than
+quarterly unless reasonably necessary for the pharmacy benefit manager to
+collect or report data obtained pursuant to subdivision (3)(a) or (b) of this
+section.
+(3) A pharmacy benefit manager shall not impose reporting terms and
+conditions that require a specialty pharmacy to collect and remit data unless
+such terms and conditions are:
+(a) Necessary for a pharmacy benefit manager to meet reporting obligations
+required by federal or state laws or regulations;
+(b) Related to data (i) that may only be obtained from the specialty
+pharmacy and (ii) that a pharmacy benefit manager is contractually obligated to
+provide to another entity in order for that entity to meet reporting
+obligations required by federal or state laws or regulations;
+(c) Necessary for purposes of payment integrity or rebate administration;
+or
+(d) Submitted by the specialty pharmacy to the nationally recognized
+independent accrediting organization from which the specialty pharmacy holds an
+accreditation.
+(4) In addition to other terms and conditions consistent with this
+section, a pharmacy benefit manager may impose contract terms and conditions
+that are reasonably necessary to demonstrate that the specialty pharmacy has
+sufficient:
+(a) Policies and metrics related to providing quality and consistent care
+for patients using the pharmacy; and
+(b) Policies and procedures consistent with industry standards to avoid
+instances of fraud, waste, or abuse.
+Sec. 4. (1) A specialty pharmacy that ships a clinician-administered drug
+to a health care provider or pharmacy shall:
+(a) Comply with all federal laws regulating the shipment of drugs,
+including, but not limited to, general chapter 800 of the United States
+-2-
+
+LB198 LB198
+2025 2025
+Pharmacopeia;
+(b) In response to questions from a health care provider or pharmacy,
+provide access to a pharmacist or nurse employed by the specialty pharmacy
+twenty-four hours per day, seven days per week;
+(c) Allow a covered person and health care provider to request a refill of
+a clinician-administered drug on behalf of a covered person in accordance with
+the pharmacy benefit manager's or health carrier's utilization review
+procedures; and
+(d) Adhere to the track and trace requirements, as described in the
+federal Drug Supply Chain Security Act, 21 U.S.C. 360eee et seq., for a
+clinician-administered drug that needs to be compounded or manipulated and, if
+requested by the health care provider or the provider's designee, provide the
+track and trace information to the health care provider or designee.
+(2) For any clinician-administered drug dispensed by a specialty pharmacy
+selected by the pharmacy benefit manager or health carrier, the requesting
+health care provider or the provider's designee shall provide the requested
+date, approximate time, and place of delivery of a clinician-administered drug
+at least five business days before the date of delivery. The specialty pharmacy
+shall require a signature of the health care provider or the provider's
+designee upon receipt of the shipment when shipped to a health care provider.
+If any clinician-administered drug dispensed by a specialty pharmacy is not
+delivered as specified in this subsection, the covered person shall not be
+financially responsible if the clinician-administered drug is not able to be
+administered to the covered person.
+(3) The requirements of subsections (1) and (2) of this section do not
+apply when the specialty pharmacy and the health care provider administering
+the clinician-administered drug have shared ownership.
+(4) A pharmacy benefit manager or health carrier that requires dispensing
+of a clinician-administered drug through a specialty pharmacy shall establish
+and disclose a process which allows the health care provider or pharmacy to
+appeal and have exceptions to the use of a specialty pharmacy when:
+(a) A drug is not delivered as specified in subsection (2) of this
+section; or
+(b) An attending health care provider reasonably believes a covered person
+may experience harm without the immediate use of a clinician-administered drug
+that a health care provider or pharmacy has in stock.
+(5) A pharmacy benefit manager or health carrier shall not:
+(a) Require a specialty pharmacy to dispense a covered clinician-
+administered drug directly to a covered person with the intention that the
+covered person will transport the clinician-administered drug to a health care
+provider for administration;
+(b) Refuse to authorize or reimburse a participating provider for
+dispensing a covered clinician-administered drug based on costs if the costs of
+the drug to the health benefit plan are substantially similar as compared to
+the costs of the drug if provided from a specialty pharmacy selected by the
+pharmacy benefit manager or health carrier;
+(c) Refuse to authorize or reimburse a participating provider pursuant to
+the network agreement for the administration of covered clinician-administered
+drugs;
+(d) Penalize or remove from the network a participating provider solely
+for refusing to administer a covered clinician-administered drug received from
+a specialty pharmacy selected by the pharmacy benefit manager or health
+carrier. If a participating provider refuses to source covered clinician-
+administered drugs from a specialty pharmacy selected by the pharmacy benefit
+manager or health carrier, the participating provider shall direct the covered
+person to contact the health carrier for coverage options; or
+(e) Require a covered person to obtain a clinician-administered drug from
+a specialty pharmacy selected by the pharmacy benefit manager or health carrier
+if a participating provider of the covered person's choice sources the drug and
+provides for administration at substantially similar costs.
+Sec. 5. (1) A health benefit plan, health carrier, or pharmacy benefit
+manager shall not:
+(a) Require a covered person, as a condition of payment or reimbursement,
+to obtain pharmacist services exclusively through the mail-order pharmacy or
+pharmacy benefit manager affiliate;
+(b) Prohibit or limit a covered person from selecting a network pharmacist
+or network pharmacy of the covered person's choice;
+(c) Transfer a covered person's prescriptions from a network pharmacy to
+another pharmacy unless requested by the covered person;
+(d) Use financial incentives, including, but not limited to, adjustments
+in cost-sharing obligations of a covered person, to the exclusive benefit of
+the pharmacy benefit manager affiliate pharmacy; or
+(e) Except as provided in subdivision (2)(b) of this section, auto-enroll
+a covered person in mail-order pharmacist services.
+(2) Nothing in this section shall be construed to prevent a health benefit
+plan, health carrier, or pharmacy benefit manager from:
+(a) Requiring a covered person to use a network specialty pharmacy;
+(b) Auto-enrolling a covered person in mail-order pharmacist services for
+a maintenance medication, provided that a covered person:
+(i) Shall not be auto-enrolled for the first ninety days of a new
+maintenance medication; and
+(ii) Shall have the ability to opt out of mail-order pharmacist services
+at any time;
+-3-
+
+LB198 LB198
+2025 2025
+(c) Informing a covered person of an ability to obtain pharmacist services
+at a lower cost; or
+(d) Requiring a covered person to obtain pharmacist services from a mail-
+order pharmacy or pharmacy benefit manager affiliate when such services are not
+otherwise available from another network pharmacy.
+Sec. 6. (1) A network pharmacy or network pharmacist may decline to
+provide a drug if the pharmacy or pharmacist will be or is paid less than the
+acquisition cost for the drug.
+(2) If a network pharmacy or network pharmacist declines to provide a drug
+as authorized in subsection (1) of this section, the pharmacy or pharmacist
+shall provide the covered person with adequate information as to where the
+prescription for the drug may be filled or shall refer the covered person to
+his or her plan sponsor.
+(3) A pharmacy benefit manager, pharmacy services administrative
+organization, or any person acting on behalf of a pharmacy benefit manager or
+pharmacy services administrative organization shall not penalize, remove from
+the network, or otherwise retaliate against a network pharmacy or network
+pharmacist solely for declining to provide a drug as provided in subsection (1)
+of this section.
+Sec. 7. (1) A contract between a retail pharmacy and a pharmacy benefit
+manager or plan sponsor shall not prohibit the retail pharmacy from offering
+the following as an ancillary service of the retail pharmacy:
+(a) The delivery of a prescription drug by mail or common carrier to a
+covered person or his or her personal representative on request of the covered
+person or personal representative if the request is made before the drug is
+delivered; or
+(b) The delivery of a prescription to a covered person or his or her
+personal representative by an employee or contractor of the retail pharmacy.
+(2) Nothing in this section shall require a retail pharmacy to receive a
+request from a covered person or his or her personal representative for
+delivery of a drug by mail, common carrier, or an employee or contractor of the
+retail pharmacy when refilling or renewing prescription drug services for which
+a request was previously received, so long as the retail pharmacy has confirmed
+that the covered person wishes to receive the drug.
+(3) A pharmacy benefit manager or plan sponsor shall not remove a retail
+pharmacy from its networks or require a retail pharmacy to join a mail-order
+pharmacy network for the sole reason of providing ancillary delivery services
+as long as the ancillary delivery services were provided in compliance with
+this section and with the terms and conditions of the retail pharmacy's
+contract with the pharmacy benefit manager or plan sponsor and its pharmacy
+services administrative organization, if applicable.
+(4) Except as otherwise provided in a contract described in subsection (1)
+of this section, a retail pharmacy shall not charge a plan sponsor or pharmacy
+benefit manager for the delivery service described in subsection (1) of this
+section.
+(5) If a retail pharmacy provides a delivery service described in
+subsection (1) of this section to a covered person, the retail pharmacy shall
+disclose both of the following to the covered person or his or her personal
+representative:
+(a) Any fee charged to the covered person for the delivery of a
+prescription drug; and
+(b) That the plan sponsor or pharmacy benefit manager may not reimburse
+the covered person for the fee described in subdivision (a) of this subsection.
+(6) For purposes of this section, retail pharmacy means a pharmacy that
+dispenses prescription drugs to the public at retail primarily to individuals
+who reside in close proximity or who are receiving care from a provider in
+close proximity to the pharmacy, typically by face-to-face interaction with the
+individual or the individual's caregiver.
+Sec. 8. (1) A contract between a pharmacy benefit manager and a health
+benefit plan that is issued on or after January 1, 2026, shall not contain
+spread pricing unless such contract is an extension of a contract entered into
+prior to January 1, 2026, which included spread pricing.
+(2) Beginning January 1, 2029, no contract between a pharmacy benefit
+manager and a health benefit plan shall include spread pricing.
+Sec. 9. This act becomes operative on January 1, 2026.
+Sec. 10. Original sections 44-4601, 44-4603, and 44-4610, Revised
+Statutes Cumulative Supplement, 2024, are repealed.
+-4-
+
+[DELETED: yS B F A A r t t P B M L a A a s 4 4 a 4 R C S 2 t d t t c r t s p a c t p h b p h c a p m f t c a t a a n c p r t r p t p s a p t h p t p a o k a m b c a t P B M L a F p o t P B M L a a p b m i c a a f c w t p a a o a c r t  C d m a o p d I a p o h o i c o a e i o o i b a h c o s e b p t t e n p b f l t d a f p f o r a o t c o  M m m a d p f a c l N p m a p t h a c e o t a p s a o w  N p m a p t h a c e o t a p s a o w  N a r d o o f i o N o e i a c a w 8L52]
+[DELETED:  ( P s m a p g o s o a ( P b m m a p b o i a w o p o o c s o  d o d s f a h b p t a c A c w o p a a t t s o o o p d o d s e f i P b m a m a p o p d o i t o o m i o o P s a o m a e t a c p w c a s A p t h a s p a f  S p m t m o p a d i w t ( A p b m s n e a N f p i t p b m s ( T p h a s p a f  b m a w t p b m A t a c t s p t a u r n f t p b m t A p b m s n i r t a R t d ( t m o b o f t s t a e i o f t e t m r S b t s p t t n r I a t o t a c c w t P a p c w i s t a C w a f l r t s o d b n l t g c 8 o t U S8L52]
+[DELETED:  I r t q f a h c p o p a t a p o n e b t s p p b m o h c u r A t t t a t r a d i t D S C S A 2 U 3 e s f  b t p b m o h c t r c p o t p d s p t r r a s o t h c p o t p a c d d b a s p i n a s i t s t c p s n b T r o s ( a ( o t s d n d a p w a t h c p o p t A d i n d a s i s ( o t R a s p t d a c c d d t a c p w t i t t R t a o r a p p f P o r f t n a p p s s p s b t p b m o h I a p p r t s c c o p s e t t m p o S n b a f t f n d o a n8L52]
+[DELETED:  6  ( A n p o n p m d t a i s ( o t s t p o p p t c p w a i a t w t A p b m p s a n o o r a a n p o n T d o a p d b m o c c t  o p r i t r i m b t d i T d o a p t a c p o h o h f a c p o h o h p r f l a t a d s w p i c w s a w t t a c o t r p w t p b m o p s a i p I a r p p a d s d i A f c t t c p f t d o  r i c p o w a r c f a p i p t i i o o a J 1 2 s n c B J 1 2 n c b a p b 1  O s 4 4 a 4 R8L52]

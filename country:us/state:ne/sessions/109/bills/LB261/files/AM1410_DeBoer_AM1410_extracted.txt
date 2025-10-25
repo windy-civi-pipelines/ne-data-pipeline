@@ -1,0 +1,33 @@
+Title: 1 1. On page 32, line 22, strike "$5,000,000" and insert "$1,800,000".
+Official Title: 1 1. On page 32, line 22, strike "$5,000,000" and insert "$1,800,000".
+Number of Sections: 1
+Source: versions - DeBoer AM1410
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM1410 AM1410
+LB261 LB261
+MMM - 05/12/2025 MMM - 05/12/2025
+AMENDMENTS TO LB261
+(Amendments to AM1320)
+Introduced by DeBoer, 10.
+-1-
+[DELETED: yD10A1L5M]
+
+
+================================================================================
+
+Raw Text:
+AM1410 AM1410
+LB261 LB261
+MMM - 05/12/2025 MMM - 05/12/2025
+AMENDMENTS TO LB261
+(Amendments to AM1320)
+Introduced by DeBoer, 10.
+1 1. On page 32, line 22, strike "$5,000,000" and insert "$1,800,000".
+-1-
+
+[DELETED: yD10A1L5M]

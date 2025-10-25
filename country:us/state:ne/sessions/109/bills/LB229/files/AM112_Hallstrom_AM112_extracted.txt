@@ -1,0 +1,33 @@
+Title: 1 1. On page 12, strike beginning with the period in line 23 through
+Official Title: 1 1. On page 12, strike beginning with the period in line 23 through
+Number of Sections: 1
+Source: versions - Hallstrom AM112
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM112 AM112
+LB229 LB229
+AJC - 01/31/2025 AJC - 01/31/2025
+AMENDMENTS TO LB229
+Introduced by Hallstrom, 1.
+2 "compensation" in line 26.
+-1-
+[DELETED: yH1"2A9L5A]
+
+
+================================================================================
+
+Raw Text:
+AM112 AM112
+LB229 LB229
+AJC - 01/31/2025 AJC - 01/31/2025
+AMENDMENTS TO LB229
+Introduced by Hallstrom, 1.
+1 1. On page 12, strike beginning with the period in line 23 through
+2 "compensation" in line 26.
+-1-
+
+[DELETED: yH1"2A9L5A]

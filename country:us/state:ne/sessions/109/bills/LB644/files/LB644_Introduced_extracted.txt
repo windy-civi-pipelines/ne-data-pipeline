@@ -1,0 +1,2613 @@
+Title: LEGISLATIVE BILL 644
+Official Title: LEGISLATIVE BILL 644
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 37 sections found
+
+================================================================================
+
+Section 1:
+LB644 LB644
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Bostar, 29; at the request of the Governor.
+Read first time January 22, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to foreign entities; to amend sections
+2 49-1480, 49-14,126, and 49-14,140, Reissue Revised Statutes of
+3 Nebraska, and sections 73-901, 73-903, 73-905, and 73-906, Revised
+4 Statutes Cumulative Supplement, 2024; to adopt the Foreign Adversary
+5 and Terrorist Agent Registration Act and the Crush Transnational
+6 Repression in Nebraska Act; to provide requirements under the
+7 Nebraska Political Accountability and Disclosure Act for a lobbyist
+8 engaged in lobbying activity or a consultant engaged in influencing
+9 activity on behalf of a Chinese military company; to provide for
+10 payments by the Nebraska Accountability and Disclosure Commission to
+11 persons reporting certain violations; to provide civil penalties; to
+12 define terms; to provide duties; to change provisions of the Foreign
+13 Adversary Contracting Prohibition Act relating to certain allowed
+14 contracts; to prohibit certain companies from receiving benefits
+15 from incentive programs; to provide requirements and restrictions
+16 relating to genetic sequencing activities by medical and research
+17 facilities; to provide storage requirements for genetic sequencing
+18 data and prohibit remote access of such data; to harmonize
+19 provisions; to an provide operative date; to provide severability;
+20 and to repeal the original sections.
+21 Be it enacted by the people of the State of Nebraska,
+-1-
+LB644 LB644
+2025 2025
+1 Section 1. Sections 1 to 13 of this act shall be known and may be
+2 cited as the Foreign Adversary and Terrorist Agent Registration Act.
+3 Sec. 2. The purpose of the Foreign Adversary and Terrorist Agent
+4 Registration Act is to provide public transparency for the political and
+5 propaganda activities and influence operations of agents of adversary
+6 nations and foreign terror organizations in Nebraska.
+7 Sec. 3. For purposes of the Foreign Adversary and Terrorist Agent
+8 Registration Act:
+9 (1) Adversary nation means those countries listed in 15 C.F.R.
+10 791.4;
+11 (2)(a) Agent of a foreign principal means:
+12 (i) Any person who directly, or through any other person, within the
+13 State of Nebraska, engages in covered activities and who acts:
+14 (A) As an agent, representative, employee, or servant, of a foreign
+15 principal;
+16 (B) In any other capacity at the order, request, or under the
+17 direction or control of a foreign principal or of a person, any of whose
+18 activities are directly or indirectly supervised, directed, controlled,
+19 financed, or subsidized in whole or in part by, a foreign principal; or
+20 (ii) Any person who agrees, consents, assumes, or purports to act
+21 as, or who is or purports to be, whether or not pursuant to contractual
+22 relationship, an agent of a foreign principal as defined in subdivision
+23 (1)(a)(i) of this section.
+24 (b) Agent of a foreign principal does not include any media entity,
+25 solely by virtue of any bona fide news or journalistic activities,
+26 including the solicitation or acceptance of advertisements,
+27 subscriptions, or other compensation therefor, so long as:
+28 (i) The media entity is at least eighty percent beneficially owned
+29 by citizens of the United States;
+30 (ii) Any officers and directors of the media entity are citizens of
+31 the United States; and
+-2-
+LB644 LB644
+2025 2025
+1 (iii) The media entity is not owned, directed, supervised,
+2 controlled, subsidized, or financed, and none of its policies are
+3 determined by, any foreign principal or by any agent of a foreign
+4 principal required to register under the Foreign Adversary and Terrorist
+5 Agent Registration Act;
+6 (3) Covered activities means:
+7 (a) Engaging in political activities for, or in the interests of, a
+8 foreign principal;
+9 (b) Acting as a public relations counsel, publicity agent,
+10 information-service employee or political consultant for, or in the
+11 interests of, a foreign principal;
+12 (c) Soliciting, collecting, disbursing, or dispensing contributions,
+13 loans, money, or other things of value for, or in the interests of, a
+14 foreign principal; or
+15 (d) Representing the interests of such foreign principal before any
+16 agency or official of this state or a political subdivision of this
+17 state;
+18 (4) False statement of material fact includes any of the following
+19 with respect to a registration statement, a supplement to such statement,
+20 or any document filed with or furnished to the Attorney General under the
+21 act:
+22 (a) A false statement of material fact;
+23 (b) Omission of a material fact required to be reported; and
+24 (c) Omission of a material fact or copy of a material document
+25 necessary to make the statements made in such statement, supplement, or
+26 document not misleading;
+27 (5) Foreign political party means any organization or any other
+28 combination of individuals in a country other than the United States, or
+29 any unit or branch thereof, having for an aim or purpose, or which is
+30 engaged in any activity devoted in whole or in part to, the
+31 establishment, administration, control, or acquisition of administration
+-3-
+LB644 LB644
+2025 2025
+1 or control, of a government of a foreign country or a subdivision
+2 thereof, or the furtherance or influencing of the political or public
+3 interests, policies, or relations of a government of a foreign country or
+4 a subdivision thereof;
+5 (6) Foreign principal means:
+6 (a) A government of a foreign country, any agency or instrumentality
+7 of such government, or a foreign political party;
+8 (b) A person outside of the United States, unless it is established
+9 that such person is an individual and a citizen or permanent resident of
+10 and domiciled within the United States, or that such person is not an
+11 individual and is organized under or created by the laws of the United
+12 States or of any state or other place subject to the jurisdiction of the
+13 United States and has its principal place of business within the United
+14 States;
+15 (c) A partnership, association, corporation, organization, or other
+16 combination of persons organized under the laws of, or having its
+17 principal place of business in, a foreign country;
+18 (d) A partnership, association, corporation, organization, or other
+19 combination of persons that is at least twenty percent beneficially owned
+20 by a partnership, association, corporation, organization, or other
+21 combination of persons organized under the laws of, or having its
+22 principal place of business in, a foreign country;
+23 (e) Any person that owns or operates in whole or in part an entity
+24 described in subdivision (6)(d) of this section;
+25 (f) Any person that is owned or operated in whole or in part by a
+26 person or entity described in subdivision (6)(a), (b), (c), or (e) of
+27 this section; or
+28 (g) A foreign terrorist organization;
+29 (7) Foreign terrorist organization means an organization included on
+30 the United States Department of State's list of designated foreign
+31 terrorist organizations pursuant to 8 U.S.C. 1189;
+-4-
+LB644 LB644
+2025 2025
+1 (8) Government of a foreign country means any person or group of
+2 persons exercising sovereign de facto or de jure political jurisdiction
+3 over any country, other than the United States, or over any part of such
+4 country, and includes any subdivision of any such group and any group or
+5 agency to which such sovereign de facto or de jure authority or functions
+6 are directly or indirectly delegated. Such term shall include any faction
+7 or body of insurgents within a country assuming to exercise governmental
+8 authority whether such faction or body of insurgents has or has not been
+9 recognized by the United States;
+10 (9) Information service employee means any person who is engaged in
+11 furnishing, disseminating, or publishing accounts, descriptions,
+12 information, or data with respect to the political, industrial,
+13 employment, economic, social, cultural, or other benefits, advantages,
+14 facts, or conditions of any country other than the United States, any
+15 government of a foreign country, any foreign political party, or a
+16 partnership, association, corporation, organization, or other combination
+17 of individuals organized under the laws of, or having its principal place
+18 of business in, a foreign country;
+19 (10) Media entity means any:
+20 (a) News or press service or association organized under the laws of
+21 the United States, any state, or any other place subject to the
+22 jurisdiction of the United States;
+23 (b) Newspaper, magazine, periodical, or other publication; or
+24 (c) Website or application that enables users to create and share
+25 content or to participate in social networking;
+26 (11) Owned or operated in whole or in part means that a person has
+27 the power, directly or indirectly, whether or not exercised, to
+28 determine, direct, or decide important matters affecting an entity
+29 including through:
+30 (a) The ownership of at least twenty percent of the total
+31 outstanding voting interest in an entity;
+-5-
+LB644 LB644
+2025 2025
+1 (b) Board representation;
+2 (c) The ability to appoint or discharge any board members, officers,
+3 or directors;
+4 (d) Proxy voting, a special share, contractual arrangements, legal
+5 obligations, or formal or informal arrangements to act in concert; or
+6 (e) Other means;
+7 (12) Person means an individual, a partnership, an association, a
+8 corporation, an organization, or any other entity or combination of
+9 individuals;
+10 (13) Political activities means any activity that the person
+11 engaging in believes will, or that the person intends to, in any way
+12 influence any agency or official of this state or a political subdivision
+13 of this state with reference to formulating, adopting, or changing the
+14 domestic or foreign policies of the United States or of the State of
+15 Nebraska with reference to the political or public interests, policies,
+16 or relations of a government of a foreign country or a foreign political
+17 party;
+18 (14) Political consultant means any person who engages in informing
+19 or advising any other person with reference to the policies of the State
+20 of Nebraska or the political or public interest, policies, or relations
+21 of a foreign country or of a foreign political party;
+22 (15) Postsecondary educational institution has the same meaning as
+23 postsecondary institution in section 85-2403;
+24 (16) Prints means newspapers and periodicals, books, pamphlets,
+25 sheet music, visiting cards, address cards, printing proofs, engravings,
+26 photographs, pictures, drawings, plans, maps, patterns to be cut out,
+27 catalogs, prospectuses, and advertisements; printed, engraved,
+28 lithographed, or autographed notices of various kinds; and, in general,
+29 all impressions or reproductions obtained on paper or other material
+30 assimilable to paper, on parchment or on cardboard, by means of printing,
+31 engraving, lithography, autography, or any other easily recognizable
+-6-
+LB644 LB644
+2025 2025
+1 mechanical process, with the exception of the copying press, stamps with
+2 movable or immovable type, and the typewriter;
+3 (17) Public relations counsel means any person who engages directly
+4 or indirectly in informing, advising, or in any way representing a
+5 principal in any public relations matter pertaining to political or
+6 public interests, policies, or relations of such principal;
+7 (18) Publicity agent means any person who engages directly or
+8 indirectly in the publication or dissemination of oral, visual, graphic,
+9 written, or pictorial information or matter of any kind, including
+10 publication by means of advertising, books, periodicals, newspapers,
+11 lectures, broadcasts, motion pictures, or otherwise;
+12 (19) Registration statement means the registration statement
+13 required to be filed with the Attorney General under section 4 of this
+14 act, and any supplements to such statement required to be filed under
+15 such section, and includes all documents and papers required to be filed
+16 with, or in amendment to, such statement or supplements, whether attached
+17 or incorporated by reference; and
+18 (20) United States, when used in a geographical sense, means the
+19 several states, the District of Columbia, the territories, the insular
+20 possessions, and all other places now or hereafter subject to the civil
+21 or military jurisdiction of the United States.
+22 Sec. 4. (1) No person shall act as an agent of a foreign principal
+23 from an adversary nation or foreign terrorist organization unless such
+24 person has filed with the Attorney General a true and complete
+25 registration statement and supplements to such statement as required by
+26 this section or unless such person is exempt from registration under the
+27 Foreign Adversary and Terrorist Agent Registration Act. Except as
+28 otherwise provided under the act, every person who becomes an agent of a
+29 foreign principal from an adversary nation or foreign terrorist
+30 organization shall, within ten days thereafter, file with the Attorney
+31 General, in duplicate, a registration statement, under oath on a form
+-7-
+LB644 LB644
+2025 2025
+1 prescribed by the Attorney General. The obligation of such an agent to
+2 file a registration statement shall, after the tenth day of such person
+3 becoming such an agent, continue from day to day, and termination of such
+4 status shall not relieve such agent from the obligation to file a
+5 registration statement for the period during which such agent was an
+6 agent of a foreign principal from an adversary nation or foreign
+7 terrorist organization. The registration statement shall include the
+8 following, which shall be regarded as material for the purposes of this
+9 subsection:
+10 (a) The registrant's name, principal business address, and all other
+11 business addresses in the United States or elsewhere, and all residence
+12 addresses, if any;
+13 (b) The status of the registrant, including:
+14 (i) If an individual, such individual's nationality;
+15 (ii) If a partnership, the name, residence addresses, and
+16 nationality of each partner and a true and complete copy of its articles
+17 of partnership;
+18 (iii) If an association, corporation, organization, or any other
+19 combination of individuals, the name, residence addresses, and
+20 nationality of each director and officer and of each person performing
+21 the functions of a director or officer and a true and complete copy of
+22 its charter, articles of incorporation, association, constitution, and
+23 bylaws, and any amendments thereto; and
+24 (iv) A copy of every other instrument or document and a statement of
+25 the terms and conditions of every oral agreement relating to the
+26 registrant's organization, powers, and purposes, and a statement of
+27 ownership and control;
+28 (c)(i) A comprehensive statement of the nature of the registrant's
+29 business;
+30 (ii) A complete list of the registrant's employees and a statement
+31 of the nature of the work of each;
+-8-
+LB644 LB644
+2025 2025
+1 (iii) The name and address of every foreign principal from an
+2 adversary nation or foreign terrorist organization for whom the
+3 registrant is acting, assuming or purporting to act, or has agreed to
+4 act;
+5 (iv) The character of the business or other activities of every such
+6 foreign principal from an adversary nation or foreign terrorist
+7 organization, and, if any such principal is not an individual, a
+8 statement of the ownership and control of each; and
+9 (v) The extent, if any, to which each such foreign principal from an
+10 adversary nation or foreign terrorist organization is supervised,
+11 directed, owned, controlled, financed, or subsidized, in whole or in
+12 part, by any government of a foreign country or foreign political party,
+13 or by any other foreign principal from an adversary nation or foreign
+14 terrorist organization;
+15 (d)(i) Copies of each written agreement and the terms and conditions
+16 of each oral agreement, including all modifications of such agreements,
+17 or, where no agreement exists, a full statement of all the circumstances,
+18 by reason of which the registrant is an agent of a foreign principal from
+19 an adversary nation or foreign terrorist organization; and
+20 (ii) A comprehensive statement of the nature and method of
+21 performance of each such agreement, and of the existing and proposed
+22 activity or activities engaged in or to be engaged in by the registrant
+23 as agent of a foreign principal from an adversary nation or foreign
+24 terrorist organization for each such principal, including a detailed
+25 statement of any such activity which is a political activity;
+26 (e) The nature and amount of any contributions, income, money, or
+27 thing of value that the registrant has received within the preceding one
+28 hundred eighty days from each such foreign principal from an adversary
+29 nation or foreign terrorist organization, either as compensation or for
+30 disbursement or otherwise, and the form and time of each such payment and
+31 from whom received;
+-9-
+LB644 LB644
+2025 2025
+1 (f)(i) A detailed statement of every activity which the registrant
+2 is performing, assuming or purporting to perform, directing others to
+3 perform, or has agreed to perform for the registrant or for any other
+4 person other than a foreign principal from an adversary nation or foreign
+5 terrorist organization and which requires registration under this
+6 section, including a detailed statement of any such activity which is a
+7 political activity;
+8 (ii) The name, business, and residence addresses, and if an
+9 individual, such individual's nationality, of any such other person;
+10 (iii) The extent to which each such other person is supervised,
+11 directed, owned, controlled, financed, or subsidized, in whole or in
+12 part, by any government of a foreign country or foreign political party
+13 or by any other foreign principal from an adversary nation or foreign
+14 terrorist organization; and
+15 (iv) The nature and amount of contributions, income, money, or thing
+16 of value, if any, that the registrant has received during the preceding
+17 one hundred eighty days from each such other person in connection with
+18 any of the activities referred to in subdivision (1)(f)(i) of this
+19 section, either as compensation or for disbursement or otherwise, and the
+20 form and time of each such payment and from whom received;
+21 (g)(i) A detailed statement of the money and other things of value
+22 spent or disposed of by the registrant during the preceding one hundred
+23 eighty days in furtherance of or in connection with activities which
+24 require registration under this section and which have been undertaken by
+25 the registrant either as an agent of a foreign principal from an
+26 adversary nation or foreign terrorist organization, for the registrant,
+27 or for any other person or in connection with any activities relating to
+28 the registrant becoming an agent of such principal; and
+29 (ii) A detailed statement of any contributions of money or other
+30 things of value made by the registrant during the preceding one hundred
+31 eighty days, other than contributions prohibited under 52 U.S.C. 30121,
+-10-
+LB644 LB644
+2025 2025
+1 in connection with an election to any political office or in connection
+2 with any primary election, convention, or caucus held to select
+3 candidates for any political office;
+4 (h) Copies of each written agreement and the terms and conditions of
+5 each oral agreement, including all modifications of such agreements, or,
+6 where no agreement exists, a full statement of all the circumstances, by
+7 reason of which the registrant is performing, assuming or purporting to
+8 perform, directing others to perform, or has agreed to perform for the
+9 registrant, for a foreign principal from an adversary nation or foreign
+10 terrorist organization, or for any other person, any activities which
+11 require registration under this section;
+12 (i) Such other statements, information, or documents pertinent to
+13 the purposes of this subsection as the Attorney General, having due
+14 regard for the national security and the public interest, may from time
+15 to time require; and
+16 (j) Such further statements and such further copies of documents as
+17 are necessary to make the statements made in the registration statement
+18 and supplements to such statement, and the copies of documents furnished
+19 therewith, not misleading.
+20 (2) Every agent of a foreign principal from an adversary nation or
+21 foreign terrorist organization who has filed a registration statement
+22 required by subsection (1) of this section shall, within thirty days
+23 after the expiration of each period of six months succeeding such filing,
+24 file with the Attorney General a supplement to such statement under oath,
+25 on a form prescribed by the Attorney General. Such statement shall set
+26 forth with respect to such preceding six months' period such facts as the
+27 Attorney General, having due regard for the national security and the
+28 public interest, may deem necessary to make the information required
+29 under this section accurate, complete, and current with respect to such
+30 period. In connection with the information furnished under subdivisions
+31 (1)(c), (d), (f)(i), and (h) of this section, the registrant shall give
+-11-
+LB644 LB644
+2025 2025
+1 notice to the Attorney General of any changes therein within ten days
+2 after such changes occur. If the Attorney General, having due regard for
+3 the national security and the public interest, determines that it is
+4 necessary to carry out the purposes of the Foreign Adversary and
+5 Terrorist Agent Registration Act, the Attorney General may, in any
+6 particular case, require supplements to the registration statement to be
+7 filed at more frequent intervals in respect to all or particular items of
+8 information to be furnished.
+9 (3) The registration statement and supplements to such statement
+10 shall be executed under oath as follows:
+11 (a) If the registrant is an individual, by such individual;
+12 (b) If the registrant is a partnership, by the majority of the
+13 members thereof; and
+14 (c) If the registrant is a person other than an individual or a
+15 partnership, by a majority of the officers thereof or persons performing
+16 the functions of officers or by a majority of the board of directors
+17 thereof or persons performing the functions of directors, if any.
+18 (4) The fact that a registration statement or supplement has been
+19 filed shall not:
+20 (a) Necessarily be deemed full compliance with the Foreign Adversary
+21 and Terrorist Agent Registration Act and the rules and regulations
+22 adopted and promulgated under the act on the part of the registrant;
+23 (b) Indicate that the Attorney General has in any way passed upon
+24 the merits of such statement or supplement; or
+25 (c) Preclude liability for willfully:
+26 (i) Failing to file a registration statement or supplement when due;
+27 or
+28 (ii) Making a false statement of a material fact in such statement,
+29 supplement, or any other document filed with or furnished to the Attorney
+30 General under the act.
+31 (5) If any agent of a foreign principal required to register under
+-12-
+LB644 LB644
+2025 2025
+1 the Foreign Adversary and Terrorist Agent Registration Act has previously
+2 registered with the Attorney General under the act, the Attorney General,
+3 in order to eliminate inappropriate duplication, may permit the
+4 incorporation by reference in the registration statement or supplements
+5 of any information or documents previously filed by such agent.
+6 (6) Any agent of a foreign principal from an adversary nation or
+7 foreign terrorist organization who has, within the State of Nebraska,
+8 conducted activity regulated under the Foreign Adversary and Terrorist
+9 Agent Registration Act on or after January 1, 2020, shall, within one
+10 hundred eighty days after the operative date of this act, come into
+11 compliance with the requirements of the act. This requirement applies to
+12 those persons who are no longer foreign agents but who were foreign
+13 agents on or after January 1, 2020. All persons who have performed
+14 activities as an agent of a foreign principal from an adversary nation or
+15 foreign terrorist organization are liable for the requirements of this
+16 subsection even if such persons have ceased being such agent, if the
+17 covered activity occurred on or after January 1, 2020.
+18 Sec. 5. (1) The requirements of section 4 of this act shall not
+19 apply to the following agents of foreign principals:
+20 (a) A duly accredited diplomatic or consular officer of a foreign
+21 government who is so recognized by the United States Department of State,
+22 while such officer is engaged exclusively in activities which are
+23 recognized by the United States Department of State as being within the
+24 scope of the functions of such officer;
+25 (b) Any official of a foreign government, if such government is
+26 recognized by the United States, who is not a public relations counsel,
+27 publicity agent, information service employee, or a citizen of the United
+28 States, whose name and status and the character of whose duties as such
+29 official are of public record in the United States Department of State,
+30 while such official is engaged exclusively in activities which are
+31 recognized by the United States Department of State as being within the
+-13-
+LB644 LB644
+2025 2025
+1 scope of the functions of such official;
+2 (c) Any member of the staff of, or any person employed by, a duly
+3 accredited diplomatic or consular officer of a foreign government who is
+4 so recognized by the United States Department of State, other than a
+5 public relations counsel, publicity agent, or information service
+6 employee, whose name and status and the character of whose duties as such
+7 member or employee are of public record in the United States Department
+8 of State, while such member or employee is engaged exclusively in the
+9 performance of activities which are recognized by the United States
+10 Department of State as being within the scope of the functions of such
+11 member or employee; or
+12 (d) Any person qualified to practice law in the State of Nebraska,
+13 insofar as such person engages or agrees to engage in the legal
+14 representation of a disclosed foreign principal from an adversary nation
+15 or foreign terrorist organization before any state court of law or any
+16 agency of the state or political subdivision of the state, except that
+17 for the purposes of the Foreign Adversary and Terrorist Agent
+18 Registration Act, legal representation does not include attempts to
+19 influence or persuade agency personnel or officials other than in the
+20 course of judicial proceedings, criminal or civil law enforcement
+21 inquiries, investigations, or proceedings, or agency proceedings required
+22 by statute or regulation to be conducted on the record.
+23 (2) No person acting as an agent of a foreign principal from an
+24 adversary nation or foreign terrorist organization shall subcontract for
+25 services for activities regulated under the Foreign Adversary and
+26 Terrorist Agent Registration Act requiring registration as a foreign
+27 agent, or otherwise induce another person to carry out activities that
+28 are so regulated under the act unless such person fully informs all
+29 parties of their status as an agent of a principal from a foreign
+30 adversary or foreign terrorist organization. The requirements of this
+31 subsection apply to any person carrying out services or activities
+-14-
+LB644 LB644
+2025 2025
+1 regulated under the act requiring registration as a foreign agent of a
+2 foreign principal.
+3 Sec. 6. (1) Every person within the State of Nebraska who is an
+4 agent of a foreign principal from an adversary nation or foreign
+5 terrorist organization and who is required to register under the Foreign
+6 Adversary and Terrorist Agent Registration Act and who transmits or
+7 causes to be transmitted in the United States mail, through digital
+8 communication, or by any means or instrumentality of interstate or
+9 foreign commerce any informational materials for, or in the interests of,
+10 such foreign principal in the form of prints or in any other form which
+11 is reasonably adapted to being, which such person believes will be, or
+12 which such person intends to be, disseminated or circulated among two or
+13 more persons shall, not later than forty-eight hours after the beginning
+14 of the transmittal thereof, file with the Attorney General two copies
+15 thereof.
+16 (2) It shall be unlawful for any person within the State of Nebraska
+17 who is an agent of a foreign principal from an adversary nation or
+18 foreign terrorist organization and required to register under the Foreign
+19 Adversary and Terrorist Agent Registration Act to transmit or cause to be
+20 transmitted in the United States mail, through digital communication, or
+21 by any means or instrumentality of interstate or foreign commerce any
+22 informational materials for, or in the interests of, such foreign
+23 principal without placing in such informational materials a conspicuous
+24 statement that the materials are distributed by the agent on behalf of
+25 such foreign principal, and that additional information is on file with
+26 the Attorney General. The Attorney General may by rule and regulation
+27 define what constitutes a conspicuous statement for the purposes of this
+28 section.
+29 (3) The copies of informational materials required by this section
+30 to be filed with the Attorney General shall be available for public
+31 inspection under such rules and regulations as the Attorney General may
+-15-
+LB644 LB644
+2025 2025
+1 adopt and promulgate.
+2 (4) It shall be unlawful for any person within the State of Nebraska
+3 who is an agent of a foreign principal from an adversary nation or
+4 foreign terrorist organization required to register under the Foreign
+5 Adversary and Terrorist Agent Registration Act to transmit, convey, or
+6 otherwise furnish to any agency or official of the state, including any
+7 agency or official of a political subdivision of the state, for or in the
+8 interests of such foreign principal any political propaganda, or to
+9 request from any such agency or official for or in the interests of such
+10 foreign principal any information or advice with respect to any matter
+11 pertaining to the political or public interests, policies, or relations
+12 of a foreign adversary nation or foreign terrorist organization or of a
+13 political party from an adversary nation or foreign terrorist
+14 organization, or pertaining to the foreign or domestic policies of the
+15 United States or the State of Nebraska, unless the propaganda or the
+16 request is prefaced or accompanied by a true and accurate statement to
+17 the effect that such person is registered as an agent of such foreign
+18 principal under the Foreign Adversary and Terrorist Agent Registration
+19 Act.
+20 (5) Whenever any agent of a foreign principal from an adversary
+21 nation or foreign terrorist organization required to register under the
+22 Foreign Adversary and Terrorist Agent Registration Act appears before any
+23 committee of the Legislature or a local government to testify for, or in
+24 the interests of, such foreign principal, such agent shall, at the time
+25 of such appearance, furnish the committee with a copy of such agent's
+26 most recent registration statement filed with the Attorney General for
+27 inclusion in the records of the committee as part of such agent's
+28 testimony.
+29 Sec. 7. (1) Every person who is an agent of a foreign principal
+30 from an adversary nation or foreign terrorist organization registered
+31 under the Foreign Adversary and Terrorist Agent Registration Act shall
+-16-
+LB644 LB644
+2025 2025
+1 keep and preserve, while such person is such an agent, such books of
+2 account and other records with respect to all activities, the disclosure
+3 of which is required under the act, in accordance with such business and
+4 accounting practices, as the Attorney General, having due regard for the
+5 national security and the public interest, may by rule and regulation
+6 require as necessary or appropriate for the enforcement of the act and
+7 shall preserve such records for a period of three years following the
+8 termination of such status. Until rules and regulations are in effect
+9 under this section, every agent of a foreign principal from an adversary
+10 nation or foreign terrorist organization shall keep books of account and
+11 shall preserve all written records with respect to their activities. Such
+12 books and records shall be open at all reasonable times to the inspection
+13 of any official charged with the enforcement of the act.
+14 (2) It shall be unlawful for any person to willfully (a) conceal,
+15 destroy, obliterate, mutilate, or falsify, any books or records required
+16 to be kept under the act, (b) to attempt such conduct, or (c) to cause
+17 such conduct to be done.
+18 Sec. 8. (1) The Attorney General shall retain in permanent form one
+19 copy of each registration statement furnished under the Foreign Adversary
+20 and Terrorist Agent Registration Act, and such statement shall be a
+21 public record and open to public examination and inspection at such
+22 reasonable hours, under such rules and regulations as the Attorney
+23 General may adopt and promulgate.
+24 (2) The Attorney General shall, upon receipt, promptly transmit one
+25 copy of any registration statement filed, and one copy of every amendment
+26 or supplement to such statement filed, to the United States Secretary of
+27 State for such comment and use as the secretary may determine to be
+28 appropriate from the point of view of the foreign relations of the United
+29 States. Failure of the Attorney General to transmit such copy shall not
+30 be a bar to prosecution under the Foreign Adversary and Terrorist Agent
+31 Registration Act.
+-17-
+LB644 LB644
+2025 2025
+1 (3) The Attorney General may furnish information obtained by the
+2 Attorney General in the administration of the act to state and federal
+3 agencies and to committees of the Legislature. The Attorney General may
+4 furnish such information as may be appropriate in light of the purposes
+5 of the act. This includes, but is not limited to, the names of
+6 registrants under the act, copies of registration statements, or parts
+7 thereof, and other documents or information filed under the act.
+8 (4) The Attorney General shall every six months report to the
+9 Legislature concerning administration of the Foreign Adversary and
+10 Terrorist Agent Registration Act, including registrations filed pursuant
+11 to the act, and the nature, sources, and content of political propaganda
+12 disseminated and distributed.
+13 (5) The Attorney General shall post a monthly report on the portal
+14 described in section 12 of this act concerning administration of the
+15 Foreign Adversary and Terrorist Agent Registration Act, including
+16 registrations filed pursuant to the act, and the nature, sources, and
+17 content of political propaganda disseminated and distributed.
+18 Sec. 9. For an agent of a foreign principal from an adversary
+19 nation or foreign terrorist organization that is not an individual, each
+20 officer or director of such agent or person performing the functions of
+21 an officer or a director shall cause such agent to execute and file a
+22 registration statement and supplements to such statement as and when such
+23 filing is required under section 4 of this act and shall also cause such
+24 agent to comply with all the requirements of sections 6 and 7 of this act
+25 and all other requirements of the Foreign Adversary and Terrorist Agent
+26 Registration Act. Dissolution of any organization acting as an agent of a
+27 foreign principal from an adversary nation or foreign terrorist
+28 organization shall not relieve any such person from complying with this
+29 section. In case of the failure of any such agent to comply with any of
+30 the requirements of the act, each of such agent's officers, directors, or
+31 persons performing the functions of officers or directors shall be
+-18-
+LB644 LB644
+2025 2025
+1 subject to prosecution under the act.
+2 Sec. 10. (1) Any person who (a) willfully violates any provision of
+3 the Foreign Adversary and Terrorist Agent Registration Act or any rule or
+4 regulation under the act or (b) in any registration statement, supplement
+5 to such statement, or any other document filed with or furnished to the
+6 Attorney General under the act, willfully makes a false statement of a
+7 material fact, shall be subject to a civil penalty of up to fifty
+8 thousand dollars. The total civil penalties under this subsection shall
+9 not exceed fifty thousand dollars for any violations occurring in the
+10 same calendar year.
+11 (2) If the person found to be in violation of subsection (1) of this
+12 section is a student, a faculty member, a researcher, or an adjunct or is
+13 otherwise employed by or associated with a postsecondary educational
+14 institution, such person shall be expelled or dismissed from any role
+15 with any postsecondary educational institution in Nebraska and shall be
+16 prohibited from entering any campus of such an institution in this state.
+17 (3) Each postsecondary educational institution in Nebraska shall
+18 adopt a policy for permanent expulsion and dismissal of individuals found
+19 to be in violation of subsection (1) of this section.
+20 (4) In any proceeding under the act in which it is alleged that a
+21 person is an agent of a foreign principal from an adversary nation or
+22 foreign terrorist organization, proof of the specific identity of such
+23 principal shall be permissible but not necessary.
+24 (5) Any alien found to be in violation of any provision of the act
+25 or any rule or regulation under the act shall be subject to referral to
+26 the United States Department of Justice for removal pursuant to the
+27 federal Immigration and Nationality Act, 8 U.S.C. 1101, et seq.
+28 (6) Failure to file any such registration statement or supplements
+29 to such statement as required by section 4 of this act shall be
+30 considered a continuing violation for as long as such failure exists,
+31 notwithstanding any statute of limitation or other statute to the
+-19-
+LB644 LB644
+2025 2025
+1 contrary.
+2 (7) Whenever, in the judgment of the Attorney General, any person
+3 has engaged in any acts or practices which constitute a violation of the
+4 Foreign Adversary and Terrorist Agent Registration Act or any rule or
+5 regulation under the act, the Attorney General may apply to the district
+6 court for an order enjoining such acts or practices or for an order
+7 directing compliance. Upon a showing by the Attorney General that such
+8 person has engaged in any such acts or practices, the court may issue a
+9 temporary or permanent injunction, restraining order, or such other order
+10 which it may deem proper.
+11 (8) If the Attorney General determines that a registration statement
+12 does not comply with the requirements of the act or the rules and
+13 regulations issued under the act, the Attorney General shall notify the
+14 registrant in writing, specifying in what respects the statement is
+15 deficient. It shall be unlawful for any person to act as an agent of a
+16 foreign principal from an adversary nation or foreign terrorist
+17 organization at any time ten days or more after receipt of such
+18 notification without filing an amended registration statement in full
+19 compliance with the requirements of the act and such rules and
+20 regulations.
+21 (9) It shall be unlawful for any agent of a foreign principal from
+22 an adversary nation or a foreign terrorist organization required to
+23 register under the Foreign Adversary and Terrorist Agent Registration Act
+24 to be a party to any contract, agreement, or understanding, either
+25 express or implied, with such foreign principal pursuant to which the
+26 amount or payment of the compensation, fee, or other remuneration of such
+27 agent is contingent, in whole or in part, upon the success of any
+28 political activities carried on by such agent.
+29 Sec. 11. (1)(a) Each employee of the State of Nebraska or any state
+30 agency shall submit a signed affidavit to his or her employer attesting
+31 that the employee is not an agent of a foreign principal from an
+-20-
+LB644 LB644
+2025 2025
+1 adversary nation or foreign terrorist organization.
+2 (b) The affidavit shall be in a form developed by the Department of
+3 Administrative Services in consultation with the Attorney General.
+4 (c) A state employee of a postsecondary educational institution
+5 shall submit such affidavit at the beginning of each academic year. Any
+6 other state employee shall submit such affidavit on or before January 1
+7 of every other year.
+8 (2) All businesses and nonprofit organizations operating within the
+9 State of Nebraska shall annually attest on a form to be filed with the
+10 Secretary of State, that they are cognizant of and in compliance with the
+11 Foreign Adversary and Terrorist Agent Registration Act. The Secretary of
+12 State shall provide a simple one-page attestation form for all such
+13 businesses and nonprofit organizations. The Attorney General shall assist
+14 the secretary in developing such form.
+15 Sec. 12. (1) In order to increase public transparency, the Attorney
+16 General shall provide information about foreign agents registered in
+17 Nebraska on a portal of the Attorney General's website. The portal shall
+18 contain the information about each registrant and each registrant's
+19 activities within the State of Nebraska.
+20 (2) The Attorney General may exchange data with government officials
+21 in other states and the federal government in order to increase the
+22 transparency and registration compliance of foreign principals from
+23 adversary nations or foreign terrorist organizations that operate in
+24 multiple states.
+25 Sec. 13. (1) In order to ensure compliance with the Foreign
+26 Adversary and Terrorist Agent Registration Act, the Attorney General
+27 shall have the power to issue civil investigative demands to persons
+28 suspected of being agents of foreign principals from adversary nations or
+29 foreign terrorist organizations.
+30 (2) The Attorney General may adopt and promulgate rules and
+31 regulations to carry out the act.
+-21-
+LB644 LB644
+2025 2025
+1 Sec. 14. Sections 14 to 21 of this act shall be known and may be
+2 cited as the Crush Transnational Repression in Nebraska Act.
+3 Sec. 15. The purpose of the Crush Transnational Repression in
+4 Nebraska Act is to counter the threat and practice of transnational
+5 repression committed by foreign governments or foreign terrorist
+6 organizations against the citizens and residents of this state, and to
+7 counter the threat and practice of foreign government interstate
+8 harassment through extranational enforcement of foreign government laws
+9 and directives.
+10 Sec. 16. For purposes of the Crush Transnational Repression in
+11 Nebraska Act:
+12 (1) Agent of a foreign principal means an agent directed or
+13 controlled by a foreign principal, or the proxies of such agent;
+14 (2) Foreign adversary means a foreign adversary as determined
+15 pursuant to 15 C.F.R. 791.4 as such regulation existed on January 1,
+16 2025;
+17 (3) Foreign political party means any organization or any other
+18 combination of individuals in a country other than the United States, or
+19 any unit or branch thereof, having for an aim or purpose, or which is
+20 engaged in any activity devoted in whole or in part to:
+21 (a) The establishment, administration, control, or acquisition of
+22 administration or control, of a government of a foreign country or a
+23 subdivision thereof; or
+24 (b) The furtherance or influencing of the political or public
+25 interests, policies, or relations of a government of a foreign country or
+26 a subdivision thereof;
+27 (4) Foreign principal means:
+28 (a) The government of a foreign country or any official or
+29 subdivision of such government;
+30 (b) A foreign political party or any member or subdivision of such
+31 party;
+-22-
+LB644 LB644
+2025 2025
+1 (c) A foreign terrorist organization or any member or subdivision of
+2 such organization;
+3 (d) A partnership, association, corporation, organization, or other
+4 combination of persons which is:
+5 (i) Organized under the laws of, or has its principal place of
+6 business in, a foreign adversary, or a subsidiary of such entity; or
+7 (ii) Owned or controlled wholly or in part by any person or
+8 combination of persons of a foreign adversary or foreign terrorist
+9 organization; or
+10 (e) Any entity that is owned or controlled in whole or in part by a
+11 person or entity described in subdivision (4)(a), (b), (c), or (d) of
+12 this section;
+13 (5) Foreign terrorist organization means an organization included on
+14 the United States Department of State's list of designated foreign
+15 terrorist organizations pursuant to 8 U.S.C. 1189;
+16 (6)(a) Government of a foreign country means any person or group of
+17 persons exercising sovereign de facto or de jure political jurisdiction
+18 over any country, other than the United States, or over any part of such
+19 country, and includes any subdivision of any such group and any group or
+20 agency to which such sovereign de facto or de jure authority or functions
+21 are directly or indirectly delegated.
+22 (b) Government of a foreign country also includes any faction or
+23 body of insurgents within a country, other than the United States,
+24 assuming to exercise governmental authority whether such faction or body
+25 of insurgents has or has not been recognized by the United States; and
+26 (7) Transnational repression includes actions and behaviors
+27 emanating from or attributable to a foreign principal committed by an
+28 agent of such foreign principal, acting outside or within the foreign
+29 principal's territory, with the intention of harassing, intimidating,
+30 censoring, or otherwise extending such principal's ability to influence,
+31 control, or impose such principal's preferences on the behavior of
+-23-
+LB644 LB644
+2025 2025
+1 individuals outside of the principal's territory or jurisdiction. Such
+2 actions and behaviors include direct and indirect methods, including
+3 physical contact, threats, electronic targeting, actual or credible
+4 threats of collective punishment or harassment of individuals under the
+5 principal's effective control, financial coercion, abuse of
+6 administrative processes, selective prosecution of laws of general
+7 application, or the use or direction of social media and
+8 telecommunications entities.
+9 Sec. 17. (1) For purposes of this section:
+10 (a) Covered offense means:
+11 (i) Assault in the first degree, section 28-308;
+12 (ii) Assault in the second degree, section 28-309;
+13 (iii) Assault in the third degree, section 28-310;
+14 (iv) Terroristic threats, section 28-311.01;
+15 (v) Stalking, section 28-311.03;
+16 (vi) Violation of a harassment protection order, section 28-311.09;
+17 (vii) False imprisonment in the first degree, section 28-314;
+18 (viii) False imprisonment in the second degree, section 28-315; and
+19 (ix) Attempt, conspiracy, solicitation, being an accessory to,
+20 aiding and abetting, aiding the consummation of, or compounding a felony
+21 with any of the other offenses in subdivision (1)(a) of this section as
+22 the underlying offense; and
+23 (b) Protected conduct means conduct that is lawful under local,
+24 state, and federal law and consists of:
+25 (i) The free exercise of religion;
+26 (ii) Speech, orally or in writing in print or digital form, on a
+27 matter of public interest or concern;
+28 (iii) Petitioning any local, state, or federal government entity for
+29 redress of grievances; or
+30 (iv) Peaceably assembling.
+31 (2) Any person who commits a covered offense shall be punished by
+-24-
+LB644 LB644
+2025 2025
+1 the imposition of the next higher penalty classification than the penalty
+2 classification prescribed for the covered offense if:
+3 (a) The person committing the offense is an agent of a foreign
+4 principal who acts knowingly at the direction of, on behalf of, or under
+5 the influence of such foreign principal; and
+6 (b) The person committed the offense with the intent to:
+7 (i) Coerce another person to act on behalf of a foreign principal;
+8 (ii) Coerce another person to leave the United States or cause
+9 another person to leave the United States;
+10 (iii) Cause another person to forebear from engaging in protected
+11 conduct; or
+12 (iv) Retaliate against another person for engaging in protected
+13 conduct.
+14 (3) If an offense is punishable as a Class I misdemeanor, the
+15 enhanced penalty under this section is a Class IV felony.
+16 (4) The allegations supporting an enhancement under this section
+17 shall be set forth in the indictment or information, and it shall be the
+18 burden of the prosecuting attorney to prove such allegations beyond a
+19 reasonable doubt to the judge or jury in the state's case in chief.
+20 Sec. 18. (1) A person commits an offense if, while acting as the
+21 agent of a foreign principal, such person:
+22 (a) Intentionally engages in the prevention, detection,
+23 investigation, monitoring, surveilling, or prosecution of an offense
+24 under the law or rule of a government of a foreign country or a foreign
+25 terrorist organization at the direction of such foreign principal,
+26 government, or organization; and
+27 (b) Such person acts without the knowledge and approval of the
+28 appropriate state or federal law enforcement agency of the United States.
+29 (2) A violation of this section is a Class IIA felony.
+30 Sec. 19. On or before January 1, 2026, the Nebraska State Patrol
+31 shall prepare or commission an empirical and qualitative report on the
+-25-
+LB644 LB644
+2025 2025
+1 threat of transnational repression in Nebraska and electronically submit
+2 such report to the Legislature.
+3 Sec. 20. (1) On or before January 1, 2026, the Nebraska State
+4 Patrol shall develop a transnational repression recognition and response
+5 training. The training shall be regularly updated to address emerging
+6 threats and specific information on tactics used by specific foreign
+7 principals.
+8 (2) Such training shall include:
+9 (a) How to identify different tactics of transnational repression in
+10 physical and nonphysical forms;
+11 (b) Those foreign principals that are known to employ transnational
+12 repression, including not only those who use it most frequently, but also
+13 those who use it most egregiously, including, but not limited to, tools
+14 of digital surveillance and other Internet-based tools frequently used to
+15 carry out transnational repression activities;
+16 (c) Best practices for appropriate local and state law enforcement
+17 prevention, reporting, and response tactics; and
+18 (d) Information about communities targeted by transnational
+19 repression and misinformation that may be perpetuated by foreign
+20 principals.
+21 Sec. 21. (1) On or before January 1, 2026, the Nebraska State
+22 Patrol shall develop a centralized and convenient website that allows
+23 members of the public to report instances of transnational repression.
+24 The website shall include options for reporting in languages commonly
+25 spoken in Nebraska, including particularly languages of communities
+26 affected more frequently by transnational repression.
+27 (2) On or before January 1, 2026, the patrol shall conduct a public
+28 awareness campaign to inform the public:
+29 (a) How to identify and report instances of transnational
+30 repression;
+31 (b) How to use the website created under this section; and
+-26-
+LB644 LB644
+2025 2025
+1 (c) What tools and remedies are available for victims of
+2 transnational repression.
+3 (3) On or before January 1, 2027, and on or before each January 1
+4 thereafter, the patrol shall electronically submit a report to the
+5 Legislature concerning complaints received on the website, outcomes of
+6 such complaints, and any instances of interference by foreign principals
+7 in the reporting process.
+8 Sec. 22. Section 49-1480, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 49-1480 (1) Every person employed, retained, or authorized as a
+11 lobbyist shall, before commencing any lobbying activity:
+12 (a) File , file an application with the Clerk of the Legislature for
+13 registration as a lobbyist, and if the clerk is satisfied that the
+14 application has been properly prepared the registration shall be deemed
+15 to be complete. The application shall be on a form prescribed by the
+16 clerk and approved by the Executive Board of the Legislative Council, and
+17 shall include as a minimum the following:
+18 (i) (1) The name, permanent residence address, and office address of
+19 the lobbyist;
+20 (ii) (2) The name and address of the principal of such lobbyist;
+21 (iii) (3) The nature of the business of such principal and the
+22 amounts or sums given or to be given the lobbyist as compensation or
+23 reimbursement for lobbying. A lobbyist who is salaried or retained by a
+24 principal need only report that portion of compensation or reimbursement
+25 reasonably attributable to lobbying;
+26 (iv) (4) A description of the business activity of the lobbyist;
+27 (v) (5) An identification of the matters on which the principal or
+28 lobbyist expects to lobby;
+29 (vi) If the principal is a Chinese military company, an affirmative
+30 acknowledgment by the lobbyist that such lobbyist is lobbying on behalf
+31 of, and thereby acting as an agent of, a foreign adversary of the United
+-27-
+LB644 LB644
+2025 2025
+1 States;
+2 (vii) (6) If the principal is an industry, trade, or professional
+3 association, a specific description of the industry, trade, or profession
+4 represented by the principal and the names and addresses of its officers;
+5 (viii) (7) If the principal is not an industry, trade, or
+6 professional association, a specific description of the interests and
+7 groups represented by the principal and the names and addresses of its
+8 officers; and
+9 (ix) (8) The name and address of any official in the legislative or
+10 executive branch, and of any members of any such official's staff or
+11 immediate family, who are employed by the lobbyist or any person acting
+12 on behalf of such lobbyist if such information is known or reasonably
+13 should have been known to the lobbyist.
+14 (b) If any such lobbying activity is on behalf of a Chinese military
+15 company, disclose that such Chinese military company is a foreign
+16 adversary of the United States. For purposes of this subdivision (b),
+17 lobbying activity includes, but is not limited to, lobbying by means of
+18 telephone, electronic mail, United States mail or other mail delivery
+19 service, in-person meetings, or testimony at legislative hearings.
+20 (2)(a) Every person employed, retained, or authorized as a
+21 consultant for a Chinese military company shall, before commencing any
+22 influencing activity in Nebraska for such Chinese military company:
+23 (i) File with the commission, on a form prescribed by the
+24 commission, information which shall include as a minimum, the following:
+25 (A) The name, permanent residence address, and office address of the
+26 consultant;
+27 (B) The name and address of the Chinese military company represented
+28 by such consultant;
+29 (C) A description of the business activity of the consultant;
+30 (D) An identification of the matters on which the consultant expects
+31 to conduct influencing activity on behalf of such Chinese military
+-28-
+LB644 LB644
+2025 2025
+1 company;
+2 (E) An affirmative acknowledgment by the consultant that such
+3 consultant is influencing on behalf of, and thereby acting as an agent
+4 of, a foreign adversary of the United States; and
+5 (F) The name and address of any official in the legislative or
+6 executive branch, and of any members of any such official's staff or
+7 immediate family, who are employed by the consultant or any person acting
+8 on behalf of such consultant if such information is known or reasonably
+9 should have been known to the consultant; and
+10 (ii) Disclose that such Chinese military company is a foreign
+11 adversary of the United States.
+12 (b) For purposes of this subsection, influencing activity includes,
+13 but is not limited to, influencing by means of telephone, electronic
+14 mail, United States mail or other mail delivery service, or in-person
+15 meetings.
+16 (3) Any person who violates subdivision (1)(a)(vi) or (1)(b) or
+17 subsection (2) of this section shall be subject to a civil penalty of one
+18 hundred thousand dollars for each violation. For any subsequent
+19 violation, the civil penalty shall be increased by one hundred thousand
+20 dollars more than the previously assessed penalty, not to exceed one
+21 million dollars per violation.
+22 (4) For purposes of this section, Chinese military company has the
+23 same meaning as in section 1260H of Public Law 116-283, as such section
+24 existed on January 1, 2025, and includes any subsidiary of a Chinese
+25 military company or any company owned or controlled, in whole or in part,
+26 by a Chinese military company.
+27 Sec. 23. Section 49-14,126, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 49-14,126 The commission, upon finding that there has been a
+30 violation of the Nebraska Political Accountability and Disclosure Act or
+31 any rule or regulation promulgated thereunder, may issue an order:
+-29-
+LB644 LB644
+2025 2025
+1 (1) Requiring requiring the violator to do one or more of the
+2 following:
+3 (a) (1) Cease and desist from the violation;
+4 (b) (2) File any report, statement, or other information as
+5 required;
+6 (c) (3) Pay a civil penalty of not more than five thousand dollars
+7 for each violation of the act, rule, or regulation; or
+8 (d) (4) Pay the costs of the hearing in a contested case if the
+9 violator did not appear at the hearing personally or by counsel; and .
+10 (2) Paying any person who provided information that resulted in the
+11 finding of a violation of subdivision (1)(a)(vi) or (1)(b) or subsection
+12 (2) of section 49-1480 a sum of fifty thousand dollars.
+13 Sec. 24. Section 49-14,140, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 49-14,140 The Nebraska Accountability and Disclosure Commission Cash
+16 Fund is hereby created. The fund shall consist of funds received by the
+17 commission pursuant to sections 49-1449.01, 49-1470, 49-1480.01, 49-1482,
+18 49-14,123, and 49-14,123.01 and subdivision (1)(d) (4) of section
+19 49-14,126. The fund shall be used by the commission in administering the
+20 Nebraska Political Accountability and Disclosure Act. Any money in the
+21 Nebraska Accountability and Disclosure Commission Cash Fund available for
+22 investment shall be invested by the state investment officer pursuant to
+23 the Nebraska Capital Expansion Act and the Nebraska State Funds
+24 Investment Act. Transfers may be made from the fund to the General Fund
+25 at the direction of the Legislature.
+26 On April 25, 2013, the State Treasurer shall transfer $630,870 from
+27 the Campaign Finance Limitation Cash Fund to the Nebraska Accountability
+28 and Disclosure Commission Cash Fund to be used for development,
+29 implementation, and maintenance of an electronic filing system for
+30 campaign statements and other reports under the Nebraska Political
+31 Accountability and Disclosure Act and for making such statements and
+-30-
+LB644 LB644
+2025 2025
+1 reports available to the public on the website of the commission. The
+2 State Treasurer shall transfer the balance of the Campaign Finance
+3 Limitation Cash Fund to the Election Administration Fund on or before
+4 July 5, 2013, or as soon thereafter as administratively possible.
+5 Sec. 25. Section 73-901, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 73-901 Sections 73-901 to 73-907 and section 29 of this act shall be
+8 known and may be cited as the Foreign Adversary Contracting Prohibition
+9 Act.
+10 Sec. 26. Section 73-903, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 73-903 For purposes of the Foreign Adversary Contracting Prohibition
+13 Act:
+14 (1) Company means any sole proprietorship, organization,
+15 association, corporation, partnership, joint venture, limited
+16 partnership, limited liability partnership, limited liability company, or
+17 other entity or business association that exists for the purpose of
+18 making a profit, including all wholly owned subsidiaries, majority owned
+19 subsidiaries, parent companies, or affiliates of any such entity or
+20 business association;
+21 (2) Foreign adversary means a foreign adversary as determined
+22 pursuant to 15 C.F.R. 791.4, as such regulation existed on January 1,
+23 2025 7.4;
+24 (3) Owned in whole or in part means:
+25 (a) For a publicly traded company, any share of ownership that
+26 entails the ability to direct or influence the operations of the company,
+27 the ability to appoint or discharge any board members, officers, or
+28 directors, or any other rights beyond those available to a retail
+29 investor holding an equivalent share of ownership; and
+30 (b) For a privately held company, any share of ownership;
+31 (4) Public entity means the state or any department, agency,
+-31-
+LB644 LB644
+2025 2025
+1 commission, or other body of state government, including publicly funded
+2 institutions of higher education, any political subdivision of the state,
+3 and any other public or private agency, person, partnership, corporation,
+4 or business entity acting on behalf of any such public entity;
+5 (5) Scrutinized company means:
+6 (a) Any company organized under the laws of a foreign adversary or
+7 having its principal place of business within a foreign adversary, and
+8 any subsidiary of any such company;
+9 (b) Any company owned in whole or in part or operated by the
+10 government of a foreign adversary, an entity controlled by the government
+11 of a foreign adversary, or any subsidiary or parent of any such company;
+12 or
+13 (c) Any company that sells to a public entity a final technology-
+14 related product or service that originates with a company described in
+15 subdivision (5)(a) or (b) of this section without incorporating that
+16 product or service into another final product or service; and
+17 (6) Technology-related product or service means a product or service
+18 used for information systems, surveillance, light detection and ranging,
+19 or communications. The term includes unmanned aircraft; and
+20 (7) Unmanned aircraft means an aircraft, including an aircraft
+21 commonly known as a drone, which is operated without the possibility of
+22 direct human intervention from within or on the aircraft.
+23 Sec. 27. Section 73-905, Revised Statutes Cumulative Supplement,
+24 2024, is amended to read:
+25 73-905 (1) A public entity shall require a company that submits a
+26 bid or proposal or enters into any contract or contract renewal with any
+27 public entity for any technology-related product or service to certify:
+28 (a) (1) That the company is not a scrutinized company;
+29 (b) (2) That the company will not subcontract with any scrutinized
+30 company for any aspect of performance of the contemplated contract; and
+31 (c) (3) That any products or services to be provided do not
+-32-
+LB644 LB644
+2025 2025
+1 originate with a scrutinized company.
+2 (2) This section shall not apply to the contracts described in
+3 section 29 of this act.
+4 Sec. 28. Section 73-906, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 73-906 (1) No public entity shall enter into any contract or
+7 contract renewal that would result in any state or local government funds
+8 being transferred:
+9 (1) (a) To a scrutinized company in connection with any technology-
+10 related product or service; or
+11 (2) (b) To any company in connection with any technology-related
+12 product or service that originates with a scrutinized company.
+13 (2) Notwithstanding subsection (1) of this section, a public entity
+14 may enter into a contract for goods manufactured by a scrutinized company
+15 if:
+16 (a)(i) There is no other reasonable option for procuring such good;
+17 (ii) The contract is preapproved by the Department of Administrative
+18 Services; and
+19 (iii) Not procuring such good would pose a greater threat to the
+20 state than the threat associated with the good itself; or
+21 (b) The purchasing entity is an electric supplier that is not out of
+22 compliance with the Critical Infrastructure Protection requirements
+23 issued by the North American Electric Reliability Corporation.
+24 Sec. 29. Notwithstanding sections 73-904 and 73-906, a public
+25 entity may enter into a contract for goods manufactured by a scrutinized
+26 company if:
+27 (1)(a) There is no other reasonable option for procuring such good;
+28 (b) The contract is preapproved by the Department of Administrative
+29 Services; and
+30 (c) Not procuring such good would pose a greater threat to the state
+31 than the threat associated with the good itself;
+-33-
+LB644 LB644
+2025 2025
+1 (2) The purchasing entity is an electric supplier that is not out of
+2 compliance with the Critical Infrastructure Protection requirements
+3 issued by the North American Electric Reliability Corporation; or
+4 (3) The contract involves the procurement of unmanned aircraft and
+5 such contract is entered into prior to July 1, 2026. A public entity
+6 shall not use any unmanned aircraft procured pursuant to this subdivision
+7 on or after July 1, 2028.
+8 Sec. 30. (1) For purposes of this section:
+9 (a) Company means any corporation, partnership, association,
+10 organization, or other combination of persons;
+11 (b) Foreign adversary means those countries listed in 15 C.F.R.
+12 791.4;
+13 (c) Foreign adversarial company means a company that:
+14 (i) Is organized under the laws of a foreign adversary;
+15 (ii) Has its principal place of business within a foreign adversary;
+16 (iii) Is owned in whole or in part, operated, or controlled by the
+17 government of a foreign adversary; or
+18 (iv) Is a subsidiary or parent of any company otherwise described in
+19 subdivision (1)(c) of this section; and
+20 (d) Government of a foreign adversary means any person or group of
+21 persons exercising sovereign de facto or de jure political jurisdiction
+22 over any foreign adversary, or over any part of such country, and
+23 includes any subdivision of any such group and any group or agency to
+24 which such sovereign de facto or de jure authority or functions are
+25 directly or indirectly delegated. Such term shall include any faction or
+26 body of insurgents within a country assuming to exercise governmental
+27 authority whether such faction or body of insurgents has or has not been
+28 recognized by the United States.
+29 (2) A foreign adversarial company shall be ineligible to receive any
+30 benefits under an incentive program of the State of Nebraska, including
+31 under:
+-34-
+LB644 LB644
+2025 2025
+1 (a) The Beginning Farmer Tax Credit Act;
+2 (b) The ImagiNE Nebraska Act;
+3 (c) The Nebraska Advantage Microenterprise Tax Credit Act;
+4 (d) The Nebraska Advantage Research and Development Act;
+5 (e) The Nebraska Advantage Rural Development Act;
+6 (f) The Nebraska Job Creation and Mainstreet Revitalization Act;
+7 (g) The New Markets Job Growth Investment Act;
+8 (h) The Urban Redevelopment Act; and
+9 (i) Any other tax or other incentive program created by legislative
+10 or executive action for the purpose of recruitment or retention of
+11 businesses in Nebraska.
+12 Sec. 31. For purposes of sections 31 to 34 of this act:
+13 (1) Business means any:
+14 (a) Sole proprietorship, organization, association, corporation,
+15 partnership, joint venture, limited partnership, limited liability
+16 partnership, or limited liability business, including a wholly owned
+17 subsidiary, majority-owned subsidiary, parent business, or affiliate of
+18 those entities or business associations that exists to make a profit; and
+19 (b) Nonprofit organization;
+20 (2) Domicile means the country where:
+21 (a) A business is registered and headquartered;
+22 (b) A business primarily completes its affairs; and
+23 (c) The majority stake of ownership of a business is located;
+24 (3) Foreign adversary means any foreign government specified in
+25 federal code 15 C.F.R. 791.4, as such part existed on January 1, 2025;
+26 (4) Genetic sequencer means any device or platform used to conduct
+27 genetic sequencing, resequencing, isolation, or other genetic research;
+28 (5) Genetic sequencing means any method used to determine the
+29 identity and order of nucleotide bases in the human genome;
+30 (6) Human genome means deoxyribonucleic acid or ribonucleic acid
+31 found in human cells;
+-35-
+LB644 LB644
+2025 2025
+1 (7) Medical facility means a facility that provides any health
+2 service and:
+3 (a) Receives any money from the State of Nebraska or the United
+4 States Government;
+5 (b) Is registered with the State of Nebraska to provide any health
+6 care service; or
+7 (c) Conducts research or testing on, with, or relating to genetic
+8 sequencing or the human genome;
+9 (8) Operational and research software means any computer program
+10 used for any operation, control, analysis, or other necessary function of
+11 genetic sequencing or genetic sequencers;
+12 (9) Research facility means a facility that conducts research on,
+13 with, or relating to genetic sequencing or the human genome; and
+14 (10) Software means any program, routine, or set of one or more
+15 programs or routines that is used or intended for use to cause the
+16 performance of a task or set of tasks relating to genetic sequencing or
+17 genetic sequencers by any computer, computer-related peripheral
+18 equipment, or combination thereof.
+19 Sec. 32. No medical facility or research facility shall use any
+20 genetic sequencer or operational and research software for genetic
+21 sequencing if such genetic sequencer or operational and research software
+22 is produced in or by any:
+23 (1) Foreign adversary;
+24 (2) State-owned enterprise of any foreign adversary;
+25 (3) Business domiciled in any foreign adversary; or
+26 (4) Subsidiary or affiliate of a business domiciled in any foreign
+27 adversary.
+28 Sec. 33. Any medical facility or research facility that is in
+29 possession of any genetic sequencer or operational and research software
+30 that is described in section 32 of this act shall:
+31 (1) Permanently disable such genetic sequencer or operational and
+-36-
+LB644 LB644
+2025 2025
+1 research software; or
+2 (2) Remove such genetic sequencer or operational and research
+3 software from any facility associated with such medical facility or
+4 research facility.
+5 Sec. 34. (1) Any genetic sequencing data that is utilized in the
+6 State of Nebraska shall be stored within the borders of any state of the
+7 United States or any territory of the United States.
+8 (2) No person shall remotely access genetic sequencing data that is
+9 stored in the State of Nebraska from outside the borders of any state of
+10 the United States or any territory of the United States unless such
+11 remote access is approved in a written document that is signed by the
+12 Governor.
+13 Sec. 35. This act becomes operative on October 1, 2025.
+14 Sec. 36. If any section in this act or any part of any section is
+15 declared invalid or unconstitutional, the declaration shall not affect
+16 the validity or constitutionality of the remaining portions.
+17 Sec. 37. Original sections 49-1480, 49-14,126, and 49-14,140,
+18 Reissue Revised Statutes of Nebraska, and sections 73-901, 73-903,
+19 73-905, and 73-906, Revised Statutes Cumulative Supplement, 2024, are
+20 repealed.
+-37-
+[DELETED: yBA B F A A r t f e t a s4 4 a 4 R R S oNSa T A R A a t C TR i N A t p r u tNea o b o a C m c t p f0p1p2d3A C P A r t c a4c t p c c f r b5f i p t p r a r6r t g s a b m a r7f t p s r f g s8d a p r a o s d t h9p0a1B4L52]
+[DELETED: ScSRp a a i o o a o anSR( A n m t c l i 1 C071(2(3S4(5p6( I a o c a t o r o u t7d8a9f0( A p w a c a o p t a1a2r3(4(5s b v o a b f n o j a6i t s o a o a7s8(9b0(1t4L52]
+[DELETED: ( T m e i n o d sc s o f a n o i p ad b a f p o b a a o a fpA((f( A a a p r c p a0i e o p c f o i t1i2(3l4f5(6a o o o t s o a p s o t7s8(9w0o1a2(3(4( O o a m f o c o a m d5n6d7( F p p m a o o a o8c9a0e i a a d i w o i p t t1e4L52]
+[DELETED: o c o a g o a f c o a st o t f o i o t p o pia((o(t0a d w t U S o t s p i n a1i2S3U4S5(6c o p o u t l o o h i7p8(9c0b a p a c o o o1c o p o u t l o o h i2p3(4d5(6p o e d i s ( ( ( o ( o7t8(9(0t U S D o S l o d f1t4L52]
+[DELETED: ( G o a f c m a p o g opocaaoar0(1f d o p a d2i o d w r t t p i3e e s c o o b a4f o c o a c o t t U S a5g o a f c a f p p o 6p7o8o9(0(1t U S a s o a o p s t t2j3(4( W o a t e u t c a s5c6(7t p d o i w o n e t8d d o d i m a a e9i0( T o o a l t p o t t1o4L52]
+[DELETED: ((o(o(( P m a i a p a a c a o o a o e o c oi0( P a m a a t t p1e i b w o t t p i t i a w2i3o4d o f p o t U S o o t S o5N6o7p8(9o0o1o2(3p4( P m n a p b p5s6p p d p m p t b c o7c p a a p e8l9a i o r o o p o o m0a1e l a o a o e r4L52]
+[DELETED: mm(o i i i a o i a w r p i a p r m p t p op( P a m a p w e d oiw o p i o m o a k i0p b m o a b p n1l2( R s m t r s3r4a a a s t s s r t b f u5s6w7o8( U S w u i a g s m t9s s t D o C t t t i0p1o2S3f a a n o f t o u s4p h f w t A G a t a c5r6t7F A a T A R A E a8o9f p f a a n o f t0o s w t d t f w t A1G i d a r s u o o a f4L52]
+[DELETED: pfbs s n r s a f t o t f r s f t p d w s a w aa o a f p f a a n o ft o T r s s i tfs0(1b2a3(4(5( I a p t n r a a6n7o8( I a a c o o a o9c o i t n r a a0n1t2i c a o i a c a3b4(5t t a c o e o a r t t6r o p a p a a s o7o8(9b0(1o4L52]
+[DELETED: ( T n a a o e f p f aa n o f t o f w tr i a a o p t a o h a ta(f p f a a n o f to a i a s p i n a i s(0a n o f t o i s1d o c f o s i w o i2p3o b a o f p f a a n o f4t5(6o7o8b9a0( A c s o t n a m o1p o e s a a o t e a p2a3a a o a f p f a a n o f4t o f e s p i a d5s6( T n a a o a c i m o7t8h9n0d1f4L52]
+[DELETED: (i p a o p t p d o tp o h a t p f t r o f a opt o a w r r u tsp( T n b a r a a i ai0( T e t w e s o p i s1d o c f o s i w o i2p3o b a o f p f a a n o f4t5(6o7o8a o t a r t i s ( o t9s0f1(2s3e d i f o o i c w a w4r5t r e a a a o a f p f a6a7o8t9( A d s o a c o m o o0t1e4L52]
+[DELETED: iw a p e c o c h t sc(ewrpr0t o o f a o p a a w1r2( S o s i o d p t3t p o t s a t A G h d4r5t6(7a8a9t0(1f t o w h f a r s2r b s ( o t s s w t d3a4f5o6f7A G h d r f t n s a t8p i m d n t m t i r9u0p1(4L52]
+[DELETED: n t t A G o a c t w t dat n s a t p i d t i in t c o t p o t F A aT A R A t A G m i apfi( T r s a s t s s0s1(2( I t r i a p b t m o t3m4( I t r i a p o t a i o 5p6t f o o o b a m o t b o d7t8( T f t a r s o s h b9f0(1a T A R A a t r a r2a3(4t5(6(7o8(9s0G1(4L52]
+[DELETED: tri o t e i d m p tio( A a o a f p f a a n of t o w h w t S o Nc a r u t F A a TA R A o o a J 1 2 s w o0h e d a t o d o t a c i1c2t p w a n l f a b w w f3a o o a J 1 2 A p w h p4a5f t o a l f t r o t6s e i s p h c b s a i t7c8S 5  ( T r o s 4 o t a s n9a0( A d a d o c o o a f1g2w s o i e e i a w a3r4s5( A o o a f g i s g i6r7p8S9o0w s o i e e i a w a1r4L52]
+[DELETED: s(as r b t U S D o S o t p r c p a o i semo S w s m o e i e e i tp o a w a r b t U S0D1m2(3i a s p e o a t e i t l4r5o6a7f t p o t F A a T A8R A l r d n i a t9i o p a p o o o t i t0c o j p c o c l e1i2b3( N p a a a a o a f p f a4a5s f a r u t F A a6T A R A r r a a f7a8a s r u t a u s p f i a9p o t s a a a o a p f a f0a o f t o T r o t1s a t a p c o s o a4L52]
+[DELETED: rfS 6  ( E p w t S o N w i aa o a f p f a a n o ftA a T A R A a w t oc t b t i t U S m t dc o b a m o i o i of0s1i2w3m4o t t t f w t A G t c5t6(7w i a a o a f p f a a n o8f9A0t1b a m o i o i o f c a2i m f o i t i o s f3p4s5s6t A G T A G m b r a r7d8s9(0t b f w t A G s b a f p1i4L52]
+[DELETED: a(w i a a o a f p f a a n of t o r t r u t FA a T A R A t t c ooai o s f p a p p o tr0f1p2o3p p f a a n o f t4o5U S o t S o N u t p o t6r7t e t s p i r a a a o s f8p u t F A a T A R9A0( W a a o a f p f a a1n2F3c4t5o s a f t c w a c o s a6m r r s f w t A G f7i i t r o t c a p o s a8t9S 7  ( E p w i a a o a f p0f a a n o f t o r1u t F A a T A R A s4L52]
+[DELETED: k a p w s p i s a a s b oaoan s a t p i m b r a rrs p s r f a p o t y f tt o s s U r a r a i eu0n1s2b3o4(5d6t7s8S9c0a T A R A a s s s b 1p r a o t p e a i a s2r h u s r a r a t A3G4(5c6o7S f s c a u a t s m d t b8a9S0b1R4L52]
+[DELETED: ( T A G m f i o b tAafo t a T i b i n l t t n or u t a c o r s o pt( T A G s e s m r t tL c a o t F A a0T1t2d3(4d i s 1 o t a c a o t5F A a T A R A i6r f p t t a a t n s a7c8S 9  F a a o a f p f a a9n0o1a2r3f4a5a6R7f p f a a n o f t8o9s0t1p p t f o o o d s b4L52]
+[DELETED: sStrtAm f s b s t a c p o u t ftn e f t d f a v o i t0s1(2s3o e b o a w a p e4i s p s b e o d f a r5w6p7( E p e i i N s8a9t0(1p i a a o a f p f a a n o2f t o p o t s i o s3p4(5o6t U S D o J f r p t t7f8(9t s s a r b s 4 o t a s b0c a c v f a l a s f e1n a s o l o o s t t4L52]
+[DELETED: c( W i t j o t A G a phF A a T A R A o a r orc f a o e s a o p o f a odpt0w1(2d n c w t r o t a o t r a3r4r i w s i w r t s i5d6f p f a a n o f t7o a a t t d o m a r o s8n w f a a r s i f9c w t r o t a a s r a0r1(2a a n o a f t o r t3r4t b a p t a c a o u e5e o i w s f p p t w t6a7a i c i w o i p u t s o a8p9S0a1t t e i n a a o a f p f a4L52]
+[DELETED: a(A( A s e o a p e isoo(S0S1F2S s p a s o a f f a s3b4t5S6G s p i a f a r i7N8c t i a e r a e r9a0(1i o s a t f g i o t i t2t a r c o f p f3a n o f t o t o i4m5S 1  ( I o t e c w t F6A a T A R A t A G7s h t p t i c i d t p8s9f0( T A G m a a p r a1r4L52]
+[DELETED: ScS 1  T p o t C T R iN A i t c t t a p o tr c b f g o f toc t t a p o f g iha0S 1  F p o t C T R i1N2( A o a f p m a a d o3c4( F a m a f a a d5p t 1 C 7 a s r e o J 1627( F p p m a o o a o8c9a0e1( T e a c o a o2a o c o a g o a f c o 3s4( T f o i o t p o p5i6a7(8( T g o a f c o a o o9s0(1p4L52]
+[DELETED: (s(c( O u t l o o h i p p ob( O o c w o i p b a p oc o p o a f a o f to0(1p o e d i s ( ( ( o ( o2t3(4t U S D o S l o d f5t6(7p8o9c0a1a2( G o a f c a i a f o3b o i w a c o t t U S4a5o6( T r i a a b7e f o a t a f p c b a8a o s f p a o o w t f9p t w t i o h i0c1c o i s p p o t b o4L52]
+[DELETED: i o o t p t o j Sa a b i d a i m ip c t e t a o ctp e c f c a oa p s p o l o ga o t u o d o s m atS0(1(2(3(4(5(6(7(8(9( A c s b a a t0a1w2t3( P c m c t i l u l4s5(6( S o o i w i p o d f o 7m8(9r0(1(4L52]
+[DELETED: tc( T p c t o i a a o a fpt((( C a p t l t U S o ca0( C a p t f f e i p1c2( R a a p f e i p3c4( I a o i p a a C I m t5e6( T a s a e u t s7s8b o t p a t p s a b 9r0S1a2( I e i t p d3i m s o p o a o4u5t o a t d o s f p6g7( S p a w t k a a o t8a9(0S1s4L52]
+[DELETED: tsS 2  ( O o b J 1 2 t N SPt T t s b r u t a et a s i o t u b s fp((0p1(2r3t4o5c6(7p8( I a c t b t9r a m t m b p b f0p1S 2  ( O o b J 1 2 t N S2P s d a c a c w t a3m o t p t r i o t r4T w s i o f r i l c5s i N i p l o c6a7(8a9( H t i a r i o t0r1(4L52]
+[DELETED: ( W t a r a a f v ot(t t p s e s a r t tL c c r o t w o osiSa04 ( E p e r o a a 1l2(3r a a l a i t c i s t t4a5t b c T a s b o a f p b t6c7s8(9t0(1( ( T n o t b o s p a t2a o s g o t b g t l a c o3r4p5r6(7(8l9(0a1o4L52]
+[DELETED: S( ( I t p i a i t o par( ( I t p i n a i t op a a s d o t i ago(0e b a o a m o a s o s o1i2o b o s l i s i i k o r3s4(5c d t s C m c i a f6a o t U S F p o t s (7l8t e m U S m o o m d9s0( E p e r o a a 1c f a C m c s b c a2i3( F w t c o a f p b t4c5(6c7(8b9(0(1t c i a o b o s C m4L52]
+[DELETED: c( A a a b t c t sco( T n a a o a o i t l oe b a o a m o a s o s oios0( D t s C m c i a f1a2(3b i n l t i b m o t e4m U S m o o m d s o i5m6( A p w v s ( o ( o7s8h t d f e v F a s9v0d m t t p a p n t e o1m2(3s4e o J 1 2 a i a s o a C5m6b7S8a94 T c u f t t h b 0v1a4L52]
+[DELETED: ( R r t v t d o o m o tf(( ( F a r s o o i ar(f( ( P t c o t h i a c c i tv0(1f2(3S4a546F7c84 a 4 a s ( ( o s940N P A a D A A m i t1N2i3t N C E A a t N S F4I5a6O7t8a D C C F t b u f d9i a m o a e f s f0c s a o r u t N P1A a D A a f m s s a4L52]
+[DELETED: r a t t p o t w o t c TS T s t t b o t C FL C F t t E A F o o bJS 2 S 7 R S C S27kA0S 2 S 7 R S C S12273A4( C m a s p o5a c p j v l6p7o e o b a t e f t p o8m9s p c o a o a s e o0b1( F a m a f a a d2p t 1 C 7 a s r e o J 1324(5( F a p t c a s o o t6e7t a t a o d a b m o o8d o a o r b t a t a r9i0(1( P e m t s o a d a4L52]
+[DELETED: ciao((ha( A c o i w o i p o o b t0g1o2o3(4r5s ( o ( o t s w i t6p7(8u9o0( U a m a a i a a1c2d3S 2 S 7 R S C S42576b7p8(9(0c1( ( T a p o s t b p d n4L52]
+[DELETED: o( T s s n a t t c d isS 2 S 7 R S C S27  ( N p e s e i a c ocb(0r1( ( T a c i c w a t2p3(4m5i6(7(8S9( N p s g w p a g t t t0s1(2c w t C I P r3i4S 2  N s 7 a 7 a p5e6c7(8(9S0(1t4L52]
+[DELETED: (c w t C I P ri(s c i e i p t J 1 2 A p esoS( C m a c p a0o1( F a m t c l i 1 C273(4(5(6(7g8(9s0(1p2o a f a o o a p o s c a3i a s o a s g a a g o a t4w s s d f o d j a o f a5d6b o i w a c a t e g7a8r9(0b1u4L52]
+[DELETED: (((((((((0o e a f t p o r o r o1b2S3(4( S p o a c5p j v l p l l6p o l l b i a w o7s8t9(0(1(2(3(4( F a m a f g s i5f6(7g8( G s m a m u t d t9i0( H g m d a o r a1f4L52]
+[DELETED: ( M f m a f t p a hs( R a m f t S o N o t US(c( C r o t o w o r t gs( O a r s m a c p0u1g2( R f m a f t c r o3w4( S m a p r o s o o o m5p o r t i u o i f u t c t6p7g s b a c c p8e9S 3  N m f o r f s u a0g s o o a r s f g1s2i3(4(5(6(7a8S 3  A m f o r f t i i9p0t1( P d s g s o o a4L52]
+[DELETED: r( R s g s o o a rs f a f a w s m f orSSU(s0t U S o a t o t U S u s1r a i a i a w d t i s b t2G3S4S5d i o u t d s n a6t7S 3  O s 4 4 a 48R R S o N a s 7 797 a 7 R S C S 2 a0r4L52]
+
+
+================================================================================
+
+Raw Text:
+LB644 LB644
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 644
+Introduced by Bostar, 29; at the request of the Governor.
+Read first time January 22, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to foreign entities; to amend sections
+2 49-1480, 49-14,126, and 49-14,140, Reissue Revised Statutes of
+3 Nebraska, and sections 73-901, 73-903, 73-905, and 73-906, Revised
+4 Statutes Cumulative Supplement, 2024; to adopt the Foreign Adversary
+5 and Terrorist Agent Registration Act and the Crush Transnational
+6 Repression in Nebraska Act; to provide requirements under the
+7 Nebraska Political Accountability and Disclosure Act for a lobbyist
+8 engaged in lobbying activity or a consultant engaged in influencing
+9 activity on behalf of a Chinese military company; to provide for
+10 payments by the Nebraska Accountability and Disclosure Commission to
+11 persons reporting certain violations; to provide civil penalties; to
+12 define terms; to provide duties; to change provisions of the Foreign
+13 Adversary Contracting Prohibition Act relating to certain allowed
+14 contracts; to prohibit certain companies from receiving benefits
+15 from incentive programs; to provide requirements and restrictions
+16 relating to genetic sequencing activities by medical and research
+17 facilities; to provide storage requirements for genetic sequencing
+18 data and prohibit remote access of such data; to harmonize
+19 provisions; to an provide operative date; to provide severability;
+20 and to repeal the original sections.
+21 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB644 LB644
+2025 2025
+1 Section 1. Sections 1 to 13 of this act shall be known and may be
+2 cited as the Foreign Adversary and Terrorist Agent Registration Act.
+3 Sec. 2. The purpose of the Foreign Adversary and Terrorist Agent
+4 Registration Act is to provide public transparency for the political and
+5 propaganda activities and influence operations of agents of adversary
+6 nations and foreign terror organizations in Nebraska.
+7 Sec. 3. For purposes of the Foreign Adversary and Terrorist Agent
+8 Registration Act:
+9 (1) Adversary nation means those countries listed in 15 C.F.R.
+10 791.4;
+11 (2)(a) Agent of a foreign principal means:
+12 (i) Any person who directly, or through any other person, within the
+13 State of Nebraska, engages in covered activities and who acts:
+14 (A) As an agent, representative, employee, or servant, of a foreign
+15 principal;
+16 (B) In any other capacity at the order, request, or under the
+17 direction or control of a foreign principal or of a person, any of whose
+18 activities are directly or indirectly supervised, directed, controlled,
+19 financed, or subsidized in whole or in part by, a foreign principal; or
+20 (ii) Any person who agrees, consents, assumes, or purports to act
+21 as, or who is or purports to be, whether or not pursuant to contractual
+22 relationship, an agent of a foreign principal as defined in subdivision
+23 (1)(a)(i) of this section.
+24 (b) Agent of a foreign principal does not include any media entity,
+25 solely by virtue of any bona fide news or journalistic activities,
+26 including the solicitation or acceptance of advertisements,
+27 subscriptions, or other compensation therefor, so long as:
+28 (i) The media entity is at least eighty percent beneficially owned
+29 by citizens of the United States;
+30 (ii) Any officers and directors of the media entity are citizens of
+31 the United States; and
+-2-
+
+LB644 LB644
+2025 2025
+1 (iii) The media entity is not owned, directed, supervised,
+2 controlled, subsidized, or financed, and none of its policies are
+3 determined by, any foreign principal or by any agent of a foreign
+4 principal required to register under the Foreign Adversary and Terrorist
+5 Agent Registration Act;
+6 (3) Covered activities means:
+7 (a) Engaging in political activities for, or in the interests of, a
+8 foreign principal;
+9 (b) Acting as a public relations counsel, publicity agent,
+10 information-service employee or political consultant for, or in the
+11 interests of, a foreign principal;
+12 (c) Soliciting, collecting, disbursing, or dispensing contributions,
+13 loans, money, or other things of value for, or in the interests of, a
+14 foreign principal; or
+15 (d) Representing the interests of such foreign principal before any
+16 agency or official of this state or a political subdivision of this
+17 state;
+18 (4) False statement of material fact includes any of the following
+19 with respect to a registration statement, a supplement to such statement,
+20 or any document filed with or furnished to the Attorney General under the
+21 act:
+22 (a) A false statement of material fact;
+23 (b) Omission of a material fact required to be reported; and
+24 (c) Omission of a material fact or copy of a material document
+25 necessary to make the statements made in such statement, supplement, or
+26 document not misleading;
+27 (5) Foreign political party means any organization or any other
+28 combination of individuals in a country other than the United States, or
+29 any unit or branch thereof, having for an aim or purpose, or which is
+30 engaged in any activity devoted in whole or in part to, the
+31 establishment, administration, control, or acquisition of administration
+-3-
+
+LB644 LB644
+2025 2025
+1 or control, of a government of a foreign country or a subdivision
+2 thereof, or the furtherance or influencing of the political or public
+3 interests, policies, or relations of a government of a foreign country or
+4 a subdivision thereof;
+5 (6) Foreign principal means:
+6 (a) A government of a foreign country, any agency or instrumentality
+7 of such government, or a foreign political party;
+8 (b) A person outside of the United States, unless it is established
+9 that such person is an individual and a citizen or permanent resident of
+10 and domiciled within the United States, or that such person is not an
+11 individual and is organized under or created by the laws of the United
+12 States or of any state or other place subject to the jurisdiction of the
+13 United States and has its principal place of business within the United
+14 States;
+15 (c) A partnership, association, corporation, organization, or other
+16 combination of persons organized under the laws of, or having its
+17 principal place of business in, a foreign country;
+18 (d) A partnership, association, corporation, organization, or other
+19 combination of persons that is at least twenty percent beneficially owned
+20 by a partnership, association, corporation, organization, or other
+21 combination of persons organized under the laws of, or having its
+22 principal place of business in, a foreign country;
+23 (e) Any person that owns or operates in whole or in part an entity
+24 described in subdivision (6)(d) of this section;
+25 (f) Any person that is owned or operated in whole or in part by a
+26 person or entity described in subdivision (6)(a), (b), (c), or (e) of
+27 this section; or
+28 (g) A foreign terrorist organization;
+29 (7) Foreign terrorist organization means an organization included on
+30 the United States Department of State's list of designated foreign
+31 terrorist organizations pursuant to 8 U.S.C. 1189;
+-4-
+
+LB644 LB644
+2025 2025
+1 (8) Government of a foreign country means any person or group of
+2 persons exercising sovereign de facto or de jure political jurisdiction
+3 over any country, other than the United States, or over any part of such
+4 country, and includes any subdivision of any such group and any group or
+5 agency to which such sovereign de facto or de jure authority or functions
+6 are directly or indirectly delegated. Such term shall include any faction
+7 or body of insurgents within a country assuming to exercise governmental
+8 authority whether such faction or body of insurgents has or has not been
+9 recognized by the United States;
+10 (9) Information service employee means any person who is engaged in
+11 furnishing, disseminating, or publishing accounts, descriptions,
+12 information, or data with respect to the political, industrial,
+13 employment, economic, social, cultural, or other benefits, advantages,
+14 facts, or conditions of any country other than the United States, any
+15 government of a foreign country, any foreign political party, or a
+16 partnership, association, corporation, organization, or other combination
+17 of individuals organized under the laws of, or having its principal place
+18 of business in, a foreign country;
+19 (10) Media entity means any:
+20 (a) News or press service or association organized under the laws of
+21 the United States, any state, or any other place subject to the
+22 jurisdiction of the United States;
+23 (b) Newspaper, magazine, periodical, or other publication; or
+24 (c) Website or application that enables users to create and share
+25 content or to participate in social networking;
+26 (11) Owned or operated in whole or in part means that a person has
+27 the power, directly or indirectly, whether or not exercised, to
+28 determine, direct, or decide important matters affecting an entity
+29 including through:
+30 (a) The ownership of at least twenty percent of the total
+31 outstanding voting interest in an entity;
+-5-
+
+LB644 LB644
+2025 2025
+1 (b) Board representation;
+2 (c) The ability to appoint or discharge any board members, officers,
+3 or directors;
+4 (d) Proxy voting, a special share, contractual arrangements, legal
+5 obligations, or formal or informal arrangements to act in concert; or
+6 (e) Other means;
+7 (12) Person means an individual, a partnership, an association, a
+8 corporation, an organization, or any other entity or combination of
+9 individuals;
+10 (13) Political activities means any activity that the person
+11 engaging in believes will, or that the person intends to, in any way
+12 influence any agency or official of this state or a political subdivision
+13 of this state with reference to formulating, adopting, or changing the
+14 domestic or foreign policies of the United States or of the State of
+15 Nebraska with reference to the political or public interests, policies,
+16 or relations of a government of a foreign country or a foreign political
+17 party;
+18 (14) Political consultant means any person who engages in informing
+19 or advising any other person with reference to the policies of the State
+20 of Nebraska or the political or public interest, policies, or relations
+21 of a foreign country or of a foreign political party;
+22 (15) Postsecondary educational institution has the same meaning as
+23 postsecondary institution in section 85-2403;
+24 (16) Prints means newspapers and periodicals, books, pamphlets,
+25 sheet music, visiting cards, address cards, printing proofs, engravings,
+26 photographs, pictures, drawings, plans, maps, patterns to be cut out,
+27 catalogs, prospectuses, and advertisements; printed, engraved,
+28 lithographed, or autographed notices of various kinds; and, in general,
+29 all impressions or reproductions obtained on paper or other material
+30 assimilable to paper, on parchment or on cardboard, by means of printing,
+31 engraving, lithography, autography, or any other easily recognizable
+-6-
+
+LB644 LB644
+2025 2025
+1 mechanical process, with the exception of the copying press, stamps with
+2 movable or immovable type, and the typewriter;
+3 (17) Public relations counsel means any person who engages directly
+4 or indirectly in informing, advising, or in any way representing a
+5 principal in any public relations matter pertaining to political or
+6 public interests, policies, or relations of such principal;
+7 (18) Publicity agent means any person who engages directly or
+8 indirectly in the publication or dissemination of oral, visual, graphic,
+9 written, or pictorial information or matter of any kind, including
+10 publication by means of advertising, books, periodicals, newspapers,
+11 lectures, broadcasts, motion pictures, or otherwise;
+12 (19) Registration statement means the registration statement
+13 required to be filed with the Attorney General under section 4 of this
+14 act, and any supplements to such statement required to be filed under
+15 such section, and includes all documents and papers required to be filed
+16 with, or in amendment to, such statement or supplements, whether attached
+17 or incorporated by reference; and
+18 (20) United States, when used in a geographical sense, means the
+19 several states, the District of Columbia, the territories, the insular
+20 possessions, and all other places now or hereafter subject to the civil
+21 or military jurisdiction of the United States.
+22 Sec. 4. (1) No person shall act as an agent of a foreign principal
+23 from an adversary nation or foreign terrorist organization unless such
+24 person has filed with the Attorney General a true and complete
+25 registration statement and supplements to such statement as required by
+26 this section or unless such person is exempt from registration under the
+27 Foreign Adversary and Terrorist Agent Registration Act. Except as
+28 otherwise provided under the act, every person who becomes an agent of a
+29 foreign principal from an adversary nation or foreign terrorist
+30 organization shall, within ten days thereafter, file with the Attorney
+31 General, in duplicate, a registration statement, under oath on a form
+-7-
+
+LB644 LB644
+2025 2025
+1 prescribed by the Attorney General. The obligation of such an agent to
+2 file a registration statement shall, after the tenth day of such person
+3 becoming such an agent, continue from day to day, and termination of such
+4 status shall not relieve such agent from the obligation to file a
+5 registration statement for the period during which such agent was an
+6 agent of a foreign principal from an adversary nation or foreign
+7 terrorist organization. The registration statement shall include the
+8 following, which shall be regarded as material for the purposes of this
+9 subsection:
+10 (a) The registrant's name, principal business address, and all other
+11 business addresses in the United States or elsewhere, and all residence
+12 addresses, if any;
+13 (b) The status of the registrant, including:
+14 (i) If an individual, such individual's nationality;
+15 (ii) If a partnership, the name, residence addresses, and
+16 nationality of each partner and a true and complete copy of its articles
+17 of partnership;
+18 (iii) If an association, corporation, organization, or any other
+19 combination of individuals, the name, residence addresses, and
+20 nationality of each director and officer and of each person performing
+21 the functions of a director or officer and a true and complete copy of
+22 its charter, articles of incorporation, association, constitution, and
+23 bylaws, and any amendments thereto; and
+24 (iv) A copy of every other instrument or document and a statement of
+25 the terms and conditions of every oral agreement relating to the
+26 registrant's organization, powers, and purposes, and a statement of
+27 ownership and control;
+28 (c)(i) A comprehensive statement of the nature of the registrant's
+29 business;
+30 (ii) A complete list of the registrant's employees and a statement
+31 of the nature of the work of each;
+-8-
+
+LB644 LB644
+2025 2025
+1 (iii) The name and address of every foreign principal from an
+2 adversary nation or foreign terrorist organization for whom the
+3 registrant is acting, assuming or purporting to act, or has agreed to
+4 act;
+5 (iv) The character of the business or other activities of every such
+6 foreign principal from an adversary nation or foreign terrorist
+7 organization, and, if any such principal is not an individual, a
+8 statement of the ownership and control of each; and
+9 (v) The extent, if any, to which each such foreign principal from an
+10 adversary nation or foreign terrorist organization is supervised,
+11 directed, owned, controlled, financed, or subsidized, in whole or in
+12 part, by any government of a foreign country or foreign political party,
+13 or by any other foreign principal from an adversary nation or foreign
+14 terrorist organization;
+15 (d)(i) Copies of each written agreement and the terms and conditions
+16 of each oral agreement, including all modifications of such agreements,
+17 or, where no agreement exists, a full statement of all the circumstances,
+18 by reason of which the registrant is an agent of a foreign principal from
+19 an adversary nation or foreign terrorist organization; and
+20 (ii) A comprehensive statement of the nature and method of
+21 performance of each such agreement, and of the existing and proposed
+22 activity or activities engaged in or to be engaged in by the registrant
+23 as agent of a foreign principal from an adversary nation or foreign
+24 terrorist organization for each such principal, including a detailed
+25 statement of any such activity which is a political activity;
+26 (e) The nature and amount of any contributions, income, money, or
+27 thing of value that the registrant has received within the preceding one
+28 hundred eighty days from each such foreign principal from an adversary
+29 nation or foreign terrorist organization, either as compensation or for
+30 disbursement or otherwise, and the form and time of each such payment and
+31 from whom received;
+-9-
+
+LB644 LB644
+2025 2025
+1 (f)(i) A detailed statement of every activity which the registrant
+2 is performing, assuming or purporting to perform, directing others to
+3 perform, or has agreed to perform for the registrant or for any other
+4 person other than a foreign principal from an adversary nation or foreign
+5 terrorist organization and which requires registration under this
+6 section, including a detailed statement of any such activity which is a
+7 political activity;
+8 (ii) The name, business, and residence addresses, and if an
+9 individual, such individual's nationality, of any such other person;
+10 (iii) The extent to which each such other person is supervised,
+11 directed, owned, controlled, financed, or subsidized, in whole or in
+12 part, by any government of a foreign country or foreign political party
+13 or by any other foreign principal from an adversary nation or foreign
+14 terrorist organization; and
+15 (iv) The nature and amount of contributions, income, money, or thing
+16 of value, if any, that the registrant has received during the preceding
+17 one hundred eighty days from each such other person in connection with
+18 any of the activities referred to in subdivision (1)(f)(i) of this
+19 section, either as compensation or for disbursement or otherwise, and the
+20 form and time of each such payment and from whom received;
+21 (g)(i) A detailed statement of the money and other things of value
+22 spent or disposed of by the registrant during the preceding one hundred
+23 eighty days in furtherance of or in connection with activities which
+24 require registration under this section and which have been undertaken by
+25 the registrant either as an agent of a foreign principal from an
+26 adversary nation or foreign terrorist organization, for the registrant,
+27 or for any other person or in connection with any activities relating to
+28 the registrant becoming an agent of such principal; and
+29 (ii) A detailed statement of any contributions of money or other
+30 things of value made by the registrant during the preceding one hundred
+31 eighty days, other than contributions prohibited under 52 U.S.C. 30121,
+-10-
+
+LB644 LB644
+2025 2025
+1 in connection with an election to any political office or in connection
+2 with any primary election, convention, or caucus held to select
+3 candidates for any political office;
+4 (h) Copies of each written agreement and the terms and conditions of
+5 each oral agreement, including all modifications of such agreements, or,
+6 where no agreement exists, a full statement of all the circumstances, by
+7 reason of which the registrant is performing, assuming or purporting to
+8 perform, directing others to perform, or has agreed to perform for the
+9 registrant, for a foreign principal from an adversary nation or foreign
+10 terrorist organization, or for any other person, any activities which
+11 require registration under this section;
+12 (i) Such other statements, information, or documents pertinent to
+13 the purposes of this subsection as the Attorney General, having due
+14 regard for the national security and the public interest, may from time
+15 to time require; and
+16 (j) Such further statements and such further copies of documents as
+17 are necessary to make the statements made in the registration statement
+18 and supplements to such statement, and the copies of documents furnished
+19 therewith, not misleading.
+20 (2) Every agent of a foreign principal from an adversary nation or
+21 foreign terrorist organization who has filed a registration statement
+22 required by subsection (1) of this section shall, within thirty days
+23 after the expiration of each period of six months succeeding such filing,
+24 file with the Attorney General a supplement to such statement under oath,
+25 on a form prescribed by the Attorney General. Such statement shall set
+26 forth with respect to such preceding six months' period such facts as the
+27 Attorney General, having due regard for the national security and the
+28 public interest, may deem necessary to make the information required
+29 under this section accurate, complete, and current with respect to such
+30 period. In connection with the information furnished under subdivisions
+31 (1)(c), (d), (f)(i), and (h) of this section, the registrant shall give
+-11-
+
+LB644 LB644
+2025 2025
+1 notice to the Attorney General of any changes therein within ten days
+2 after such changes occur. If the Attorney General, having due regard for
+3 the national security and the public interest, determines that it is
+4 necessary to carry out the purposes of the Foreign Adversary and
+5 Terrorist Agent Registration Act, the Attorney General may, in any
+6 particular case, require supplements to the registration statement to be
+7 filed at more frequent intervals in respect to all or particular items of
+8 information to be furnished.
+9 (3) The registration statement and supplements to such statement
+10 shall be executed under oath as follows:
+11 (a) If the registrant is an individual, by such individual;
+12 (b) If the registrant is a partnership, by the majority of the
+13 members thereof; and
+14 (c) If the registrant is a person other than an individual or a
+15 partnership, by a majority of the officers thereof or persons performing
+16 the functions of officers or by a majority of the board of directors
+17 thereof or persons performing the functions of directors, if any.
+18 (4) The fact that a registration statement or supplement has been
+19 filed shall not:
+20 (a) Necessarily be deemed full compliance with the Foreign Adversary
+21 and Terrorist Agent Registration Act and the rules and regulations
+22 adopted and promulgated under the act on the part of the registrant;
+23 (b) Indicate that the Attorney General has in any way passed upon
+24 the merits of such statement or supplement; or
+25 (c) Preclude liability for willfully:
+26 (i) Failing to file a registration statement or supplement when due;
+27 or
+28 (ii) Making a false statement of a material fact in such statement,
+29 supplement, or any other document filed with or furnished to the Attorney
+30 General under the act.
+31 (5) If any agent of a foreign principal required to register under
+-12-
+
+LB644 LB644
+2025 2025
+1 the Foreign Adversary and Terrorist Agent Registration Act has previously
+2 registered with the Attorney General under the act, the Attorney General,
+3 in order to eliminate inappropriate duplication, may permit the
+4 incorporation by reference in the registration statement or supplements
+5 of any information or documents previously filed by such agent.
+6 (6) Any agent of a foreign principal from an adversary nation or
+7 foreign terrorist organization who has, within the State of Nebraska,
+8 conducted activity regulated under the Foreign Adversary and Terrorist
+9 Agent Registration Act on or after January 1, 2020, shall, within one
+10 hundred eighty days after the operative date of this act, come into
+11 compliance with the requirements of the act. This requirement applies to
+12 those persons who are no longer foreign agents but who were foreign
+13 agents on or after January 1, 2020. All persons who have performed
+14 activities as an agent of a foreign principal from an adversary nation or
+15 foreign terrorist organization are liable for the requirements of this
+16 subsection even if such persons have ceased being such agent, if the
+17 covered activity occurred on or after January 1, 2020.
+18 Sec. 5. (1) The requirements of section 4 of this act shall not
+19 apply to the following agents of foreign principals:
+20 (a) A duly accredited diplomatic or consular officer of a foreign
+21 government who is so recognized by the United States Department of State,
+22 while such officer is engaged exclusively in activities which are
+23 recognized by the United States Department of State as being within the
+24 scope of the functions of such officer;
+25 (b) Any official of a foreign government, if such government is
+26 recognized by the United States, who is not a public relations counsel,
+27 publicity agent, information service employee, or a citizen of the United
+28 States, whose name and status and the character of whose duties as such
+29 official are of public record in the United States Department of State,
+30 while such official is engaged exclusively in activities which are
+31 recognized by the United States Department of State as being within the
+-13-
+
+LB644 LB644
+2025 2025
+1 scope of the functions of such official;
+2 (c) Any member of the staff of, or any person employed by, a duly
+3 accredited diplomatic or consular officer of a foreign government who is
+4 so recognized by the United States Department of State, other than a
+5 public relations counsel, publicity agent, or information service
+6 employee, whose name and status and the character of whose duties as such
+7 member or employee are of public record in the United States Department
+8 of State, while such member or employee is engaged exclusively in the
+9 performance of activities which are recognized by the United States
+10 Department of State as being within the scope of the functions of such
+11 member or employee; or
+12 (d) Any person qualified to practice law in the State of Nebraska,
+13 insofar as such person engages or agrees to engage in the legal
+14 representation of a disclosed foreign principal from an adversary nation
+15 or foreign terrorist organization before any state court of law or any
+16 agency of the state or political subdivision of the state, except that
+17 for the purposes of the Foreign Adversary and Terrorist Agent
+18 Registration Act, legal representation does not include attempts to
+19 influence or persuade agency personnel or officials other than in the
+20 course of judicial proceedings, criminal or civil law enforcement
+21 inquiries, investigations, or proceedings, or agency proceedings required
+22 by statute or regulation to be conducted on the record.
+23 (2) No person acting as an agent of a foreign principal from an
+24 adversary nation or foreign terrorist organization shall subcontract for
+25 services for activities regulated under the Foreign Adversary and
+26 Terrorist Agent Registration Act requiring registration as a foreign
+27 agent, or otherwise induce another person to carry out activities that
+28 are so regulated under the act unless such person fully informs all
+29 parties of their status as an agent of a principal from a foreign
+30 adversary or foreign terrorist organization. The requirements of this
+31 subsection apply to any person carrying out services or activities
+-14-
+
+LB644 LB644
+2025 2025
+1 regulated under the act requiring registration as a foreign agent of a
+2 foreign principal.
+3 Sec. 6. (1) Every person within the State of Nebraska who is an
+4 agent of a foreign principal from an adversary nation or foreign
+5 terrorist organization and who is required to register under the Foreign
+6 Adversary and Terrorist Agent Registration Act and who transmits or
+7 causes to be transmitted in the United States mail, through digital
+8 communication, or by any means or instrumentality of interstate or
+9 foreign commerce any informational materials for, or in the interests of,
+10 such foreign principal in the form of prints or in any other form which
+11 is reasonably adapted to being, which such person believes will be, or
+12 which such person intends to be, disseminated or circulated among two or
+13 more persons shall, not later than forty-eight hours after the beginning
+14 of the transmittal thereof, file with the Attorney General two copies
+15 thereof.
+16 (2) It shall be unlawful for any person within the State of Nebraska
+17 who is an agent of a foreign principal from an adversary nation or
+18 foreign terrorist organization and required to register under the Foreign
+19 Adversary and Terrorist Agent Registration Act to transmit or cause to be
+20 transmitted in the United States mail, through digital communication, or
+21 by any means or instrumentality of interstate or foreign commerce any
+22 informational materials for, or in the interests of, such foreign
+23 principal without placing in such informational materials a conspicuous
+24 statement that the materials are distributed by the agent on behalf of
+25 such foreign principal, and that additional information is on file with
+26 the Attorney General. The Attorney General may by rule and regulation
+27 define what constitutes a conspicuous statement for the purposes of this
+28 section.
+29 (3) The copies of informational materials required by this section
+30 to be filed with the Attorney General shall be available for public
+31 inspection under such rules and regulations as the Attorney General may
+-15-
+
+LB644 LB644
+2025 2025
+1 adopt and promulgate.
+2 (4) It shall be unlawful for any person within the State of Nebraska
+3 who is an agent of a foreign principal from an adversary nation or
+4 foreign terrorist organization required to register under the Foreign
+5 Adversary and Terrorist Agent Registration Act to transmit, convey, or
+6 otherwise furnish to any agency or official of the state, including any
+7 agency or official of a political subdivision of the state, for or in the
+8 interests of such foreign principal any political propaganda, or to
+9 request from any such agency or official for or in the interests of such
+10 foreign principal any information or advice with respect to any matter
+11 pertaining to the political or public interests, policies, or relations
+12 of a foreign adversary nation or foreign terrorist organization or of a
+13 political party from an adversary nation or foreign terrorist
+14 organization, or pertaining to the foreign or domestic policies of the
+15 United States or the State of Nebraska, unless the propaganda or the
+16 request is prefaced or accompanied by a true and accurate statement to
+17 the effect that such person is registered as an agent of such foreign
+18 principal under the Foreign Adversary and Terrorist Agent Registration
+19 Act.
+20 (5) Whenever any agent of a foreign principal from an adversary
+21 nation or foreign terrorist organization required to register under the
+22 Foreign Adversary and Terrorist Agent Registration Act appears before any
+23 committee of the Legislature or a local government to testify for, or in
+24 the interests of, such foreign principal, such agent shall, at the time
+25 of such appearance, furnish the committee with a copy of such agent's
+26 most recent registration statement filed with the Attorney General for
+27 inclusion in the records of the committee as part of such agent's
+28 testimony.
+29 Sec. 7. (1) Every person who is an agent of a foreign principal
+30 from an adversary nation or foreign terrorist organization registered
+31 under the Foreign Adversary and Terrorist Agent Registration Act shall
+-16-
+
+LB644 LB644
+2025 2025
+1 keep and preserve, while such person is such an agent, such books of
+2 account and other records with respect to all activities, the disclosure
+3 of which is required under the act, in accordance with such business and
+4 accounting practices, as the Attorney General, having due regard for the
+5 national security and the public interest, may by rule and regulation
+6 require as necessary or appropriate for the enforcement of the act and
+7 shall preserve such records for a period of three years following the
+8 termination of such status. Until rules and regulations are in effect
+9 under this section, every agent of a foreign principal from an adversary
+10 nation or foreign terrorist organization shall keep books of account and
+11 shall preserve all written records with respect to their activities. Such
+12 books and records shall be open at all reasonable times to the inspection
+13 of any official charged with the enforcement of the act.
+14 (2) It shall be unlawful for any person to willfully (a) conceal,
+15 destroy, obliterate, mutilate, or falsify, any books or records required
+16 to be kept under the act, (b) to attempt such conduct, or (c) to cause
+17 such conduct to be done.
+18 Sec. 8. (1) The Attorney General shall retain in permanent form one
+19 copy of each registration statement furnished under the Foreign Adversary
+20 and Terrorist Agent Registration Act, and such statement shall be a
+21 public record and open to public examination and inspection at such
+22 reasonable hours, under such rules and regulations as the Attorney
+23 General may adopt and promulgate.
+24 (2) The Attorney General shall, upon receipt, promptly transmit one
+25 copy of any registration statement filed, and one copy of every amendment
+26 or supplement to such statement filed, to the United States Secretary of
+27 State for such comment and use as the secretary may determine to be
+28 appropriate from the point of view of the foreign relations of the United
+29 States. Failure of the Attorney General to transmit such copy shall not
+30 be a bar to prosecution under the Foreign Adversary and Terrorist Agent
+31 Registration Act.
+-17-
+
+LB644 LB644
+2025 2025
+1 (3) The Attorney General may furnish information obtained by the
+2 Attorney General in the administration of the act to state and federal
+3 agencies and to committees of the Legislature. The Attorney General may
+4 furnish such information as may be appropriate in light of the purposes
+5 of the act. This includes, but is not limited to, the names of
+6 registrants under the act, copies of registration statements, or parts
+7 thereof, and other documents or information filed under the act.
+8 (4) The Attorney General shall every six months report to the
+9 Legislature concerning administration of the Foreign Adversary and
+10 Terrorist Agent Registration Act, including registrations filed pursuant
+11 to the act, and the nature, sources, and content of political propaganda
+12 disseminated and distributed.
+13 (5) The Attorney General shall post a monthly report on the portal
+14 described in section 12 of this act concerning administration of the
+15 Foreign Adversary and Terrorist Agent Registration Act, including
+16 registrations filed pursuant to the act, and the nature, sources, and
+17 content of political propaganda disseminated and distributed.
+18 Sec. 9. For an agent of a foreign principal from an adversary
+19 nation or foreign terrorist organization that is not an individual, each
+20 officer or director of such agent or person performing the functions of
+21 an officer or a director shall cause such agent to execute and file a
+22 registration statement and supplements to such statement as and when such
+23 filing is required under section 4 of this act and shall also cause such
+24 agent to comply with all the requirements of sections 6 and 7 of this act
+25 and all other requirements of the Foreign Adversary and Terrorist Agent
+26 Registration Act. Dissolution of any organization acting as an agent of a
+27 foreign principal from an adversary nation or foreign terrorist
+28 organization shall not relieve any such person from complying with this
+29 section. In case of the failure of any such agent to comply with any of
+30 the requirements of the act, each of such agent's officers, directors, or
+31 persons performing the functions of officers or directors shall be
+-18-
+
+LB644 LB644
+2025 2025
+1 subject to prosecution under the act.
+2 Sec. 10. (1) Any person who (a) willfully violates any provision of
+3 the Foreign Adversary and Terrorist Agent Registration Act or any rule or
+4 regulation under the act or (b) in any registration statement, supplement
+5 to such statement, or any other document filed with or furnished to the
+6 Attorney General under the act, willfully makes a false statement of a
+7 material fact, shall be subject to a civil penalty of up to fifty
+8 thousand dollars. The total civil penalties under this subsection shall
+9 not exceed fifty thousand dollars for any violations occurring in the
+10 same calendar year.
+11 (2) If the person found to be in violation of subsection (1) of this
+12 section is a student, a faculty member, a researcher, or an adjunct or is
+13 otherwise employed by or associated with a postsecondary educational
+14 institution, such person shall be expelled or dismissed from any role
+15 with any postsecondary educational institution in Nebraska and shall be
+16 prohibited from entering any campus of such an institution in this state.
+17 (3) Each postsecondary educational institution in Nebraska shall
+18 adopt a policy for permanent expulsion and dismissal of individuals found
+19 to be in violation of subsection (1) of this section.
+20 (4) In any proceeding under the act in which it is alleged that a
+21 person is an agent of a foreign principal from an adversary nation or
+22 foreign terrorist organization, proof of the specific identity of such
+23 principal shall be permissible but not necessary.
+24 (5) Any alien found to be in violation of any provision of the act
+25 or any rule or regulation under the act shall be subject to referral to
+26 the United States Department of Justice for removal pursuant to the
+27 federal Immigration and Nationality Act, 8 U.S.C. 1101, et seq.
+28 (6) Failure to file any such registration statement or supplements
+29 to such statement as required by section 4 of this act shall be
+30 considered a continuing violation for as long as such failure exists,
+31 notwithstanding any statute of limitation or other statute to the
+-19-
+
+LB644 LB644
+2025 2025
+1 contrary.
+2 (7) Whenever, in the judgment of the Attorney General, any person
+3 has engaged in any acts or practices which constitute a violation of the
+4 Foreign Adversary and Terrorist Agent Registration Act or any rule or
+5 regulation under the act, the Attorney General may apply to the district
+6 court for an order enjoining such acts or practices or for an order
+7 directing compliance. Upon a showing by the Attorney General that such
+8 person has engaged in any such acts or practices, the court may issue a
+9 temporary or permanent injunction, restraining order, or such other order
+10 which it may deem proper.
+11 (8) If the Attorney General determines that a registration statement
+12 does not comply with the requirements of the act or the rules and
+13 regulations issued under the act, the Attorney General shall notify the
+14 registrant in writing, specifying in what respects the statement is
+15 deficient. It shall be unlawful for any person to act as an agent of a
+16 foreign principal from an adversary nation or foreign terrorist
+17 organization at any time ten days or more after receipt of such
+18 notification without filing an amended registration statement in full
+19 compliance with the requirements of the act and such rules and
+20 regulations.
+21 (9) It shall be unlawful for any agent of a foreign principal from
+22 an adversary nation or a foreign terrorist organization required to
+23 register under the Foreign Adversary and Terrorist Agent Registration Act
+24 to be a party to any contract, agreement, or understanding, either
+25 express or implied, with such foreign principal pursuant to which the
+26 amount or payment of the compensation, fee, or other remuneration of such
+27 agent is contingent, in whole or in part, upon the success of any
+28 political activities carried on by such agent.
+29 Sec. 11. (1)(a) Each employee of the State of Nebraska or any state
+30 agency shall submit a signed affidavit to his or her employer attesting
+31 that the employee is not an agent of a foreign principal from an
+-20-
+
+LB644 LB644
+2025 2025
+1 adversary nation or foreign terrorist organization.
+2 (b) The affidavit shall be in a form developed by the Department of
+3 Administrative Services in consultation with the Attorney General.
+4 (c) A state employee of a postsecondary educational institution
+5 shall submit such affidavit at the beginning of each academic year. Any
+6 other state employee shall submit such affidavit on or before January 1
+7 of every other year.
+8 (2) All businesses and nonprofit organizations operating within the
+9 State of Nebraska shall annually attest on a form to be filed with the
+10 Secretary of State, that they are cognizant of and in compliance with the
+11 Foreign Adversary and Terrorist Agent Registration Act. The Secretary of
+12 State shall provide a simple one-page attestation form for all such
+13 businesses and nonprofit organizations. The Attorney General shall assist
+14 the secretary in developing such form.
+15 Sec. 12. (1) In order to increase public transparency, the Attorney
+16 General shall provide information about foreign agents registered in
+17 Nebraska on a portal of the Attorney General's website. The portal shall
+18 contain the information about each registrant and each registrant's
+19 activities within the State of Nebraska.
+20 (2) The Attorney General may exchange data with government officials
+21 in other states and the federal government in order to increase the
+22 transparency and registration compliance of foreign principals from
+23 adversary nations or foreign terrorist organizations that operate in
+24 multiple states.
+25 Sec. 13. (1) In order to ensure compliance with the Foreign
+26 Adversary and Terrorist Agent Registration Act, the Attorney General
+27 shall have the power to issue civil investigative demands to persons
+28 suspected of being agents of foreign principals from adversary nations or
+29 foreign terrorist organizations.
+30 (2) The Attorney General may adopt and promulgate rules and
+31 regulations to carry out the act.
+-21-
+
+LB644 LB644
+2025 2025
+1 Sec. 14. Sections 14 to 21 of this act shall be known and may be
+2 cited as the Crush Transnational Repression in Nebraska Act.
+3 Sec. 15. The purpose of the Crush Transnational Repression in
+4 Nebraska Act is to counter the threat and practice of transnational
+5 repression committed by foreign governments or foreign terrorist
+6 organizations against the citizens and residents of this state, and to
+7 counter the threat and practice of foreign government interstate
+8 harassment through extranational enforcement of foreign government laws
+9 and directives.
+10 Sec. 16. For purposes of the Crush Transnational Repression in
+11 Nebraska Act:
+12 (1) Agent of a foreign principal means an agent directed or
+13 controlled by a foreign principal, or the proxies of such agent;
+14 (2) Foreign adversary means a foreign adversary as determined
+15 pursuant to 15 C.F.R. 791.4 as such regulation existed on January 1,
+16 2025;
+17 (3) Foreign political party means any organization or any other
+18 combination of individuals in a country other than the United States, or
+19 any unit or branch thereof, having for an aim or purpose, or which is
+20 engaged in any activity devoted in whole or in part to:
+21 (a) The establishment, administration, control, or acquisition of
+22 administration or control, of a government of a foreign country or a
+23 subdivision thereof; or
+24 (b) The furtherance or influencing of the political or public
+25 interests, policies, or relations of a government of a foreign country or
+26 a subdivision thereof;
+27 (4) Foreign principal means:
+28 (a) The government of a foreign country or any official or
+29 subdivision of such government;
+30 (b) A foreign political party or any member or subdivision of such
+31 party;
+-22-
+
+LB644 LB644
+2025 2025
+1 (c) A foreign terrorist organization or any member or subdivision of
+2 such organization;
+3 (d) A partnership, association, corporation, organization, or other
+4 combination of persons which is:
+5 (i) Organized under the laws of, or has its principal place of
+6 business in, a foreign adversary, or a subsidiary of such entity; or
+7 (ii) Owned or controlled wholly or in part by any person or
+8 combination of persons of a foreign adversary or foreign terrorist
+9 organization; or
+10 (e) Any entity that is owned or controlled in whole or in part by a
+11 person or entity described in subdivision (4)(a), (b), (c), or (d) of
+12 this section;
+13 (5) Foreign terrorist organization means an organization included on
+14 the United States Department of State's list of designated foreign
+15 terrorist organizations pursuant to 8 U.S.C. 1189;
+16 (6)(a) Government of a foreign country means any person or group of
+17 persons exercising sovereign de facto or de jure political jurisdiction
+18 over any country, other than the United States, or over any part of such
+19 country, and includes any subdivision of any such group and any group or
+20 agency to which such sovereign de facto or de jure authority or functions
+21 are directly or indirectly delegated.
+22 (b) Government of a foreign country also includes any faction or
+23 body of insurgents within a country, other than the United States,
+24 assuming to exercise governmental authority whether such faction or body
+25 of insurgents has or has not been recognized by the United States; and
+26 (7) Transnational repression includes actions and behaviors
+27 emanating from or attributable to a foreign principal committed by an
+28 agent of such foreign principal, acting outside or within the foreign
+29 principal's territory, with the intention of harassing, intimidating,
+30 censoring, or otherwise extending such principal's ability to influence,
+31 control, or impose such principal's preferences on the behavior of
+-23-
+
+LB644 LB644
+2025 2025
+1 individuals outside of the principal's territory or jurisdiction. Such
+2 actions and behaviors include direct and indirect methods, including
+3 physical contact, threats, electronic targeting, actual or credible
+4 threats of collective punishment or harassment of individuals under the
+5 principal's effective control, financial coercion, abuse of
+6 administrative processes, selective prosecution of laws of general
+7 application, or the use or direction of social media and
+8 telecommunications entities.
+9 Sec. 17. (1) For purposes of this section:
+10 (a) Covered offense means:
+11 (i) Assault in the first degree, section 28-308;
+12 (ii) Assault in the second degree, section 28-309;
+13 (iii) Assault in the third degree, section 28-310;
+14 (iv) Terroristic threats, section 28-311.01;
+15 (v) Stalking, section 28-311.03;
+16 (vi) Violation of a harassment protection order, section 28-311.09;
+17 (vii) False imprisonment in the first degree, section 28-314;
+18 (viii) False imprisonment in the second degree, section 28-315; and
+19 (ix) Attempt, conspiracy, solicitation, being an accessory to,
+20 aiding and abetting, aiding the consummation of, or compounding a felony
+21 with any of the other offenses in subdivision (1)(a) of this section as
+22 the underlying offense; and
+23 (b) Protected conduct means conduct that is lawful under local,
+24 state, and federal law and consists of:
+25 (i) The free exercise of religion;
+26 (ii) Speech, orally or in writing in print or digital form, on a
+27 matter of public interest or concern;
+28 (iii) Petitioning any local, state, or federal government entity for
+29 redress of grievances; or
+30 (iv) Peaceably assembling.
+31 (2) Any person who commits a covered offense shall be punished by
+-24-
+
+LB644 LB644
+2025 2025
+1 the imposition of the next higher penalty classification than the penalty
+2 classification prescribed for the covered offense if:
+3 (a) The person committing the offense is an agent of a foreign
+4 principal who acts knowingly at the direction of, on behalf of, or under
+5 the influence of such foreign principal; and
+6 (b) The person committed the offense with the intent to:
+7 (i) Coerce another person to act on behalf of a foreign principal;
+8 (ii) Coerce another person to leave the United States or cause
+9 another person to leave the United States;
+10 (iii) Cause another person to forebear from engaging in protected
+11 conduct; or
+12 (iv) Retaliate against another person for engaging in protected
+13 conduct.
+14 (3) If an offense is punishable as a Class I misdemeanor, the
+15 enhanced penalty under this section is a Class IV felony.
+16 (4) The allegations supporting an enhancement under this section
+17 shall be set forth in the indictment or information, and it shall be the
+18 burden of the prosecuting attorney to prove such allegations beyond a
+19 reasonable doubt to the judge or jury in the state's case in chief.
+20 Sec. 18. (1) A person commits an offense if, while acting as the
+21 agent of a foreign principal, such person:
+22 (a) Intentionally engages in the prevention, detection,
+23 investigation, monitoring, surveilling, or prosecution of an offense
+24 under the law or rule of a government of a foreign country or a foreign
+25 terrorist organization at the direction of such foreign principal,
+26 government, or organization; and
+27 (b) Such person acts without the knowledge and approval of the
+28 appropriate state or federal law enforcement agency of the United States.
+29 (2) A violation of this section is a Class IIA felony.
+30 Sec. 19. On or before January 1, 2026, the Nebraska State Patrol
+31 shall prepare or commission an empirical and qualitative report on the
+-25-
+
+LB644 LB644
+2025 2025
+1 threat of transnational repression in Nebraska and electronically submit
+2 such report to the Legislature.
+3 Sec. 20. (1) On or before January 1, 2026, the Nebraska State
+4 Patrol shall develop a transnational repression recognition and response
+5 training. The training shall be regularly updated to address emerging
+6 threats and specific information on tactics used by specific foreign
+7 principals.
+8 (2) Such training shall include:
+9 (a) How to identify different tactics of transnational repression in
+10 physical and nonphysical forms;
+11 (b) Those foreign principals that are known to employ transnational
+12 repression, including not only those who use it most frequently, but also
+13 those who use it most egregiously, including, but not limited to, tools
+14 of digital surveillance and other Internet-based tools frequently used to
+15 carry out transnational repression activities;
+16 (c) Best practices for appropriate local and state law enforcement
+17 prevention, reporting, and response tactics; and
+18 (d) Information about communities targeted by transnational
+19 repression and misinformation that may be perpetuated by foreign
+20 principals.
+21 Sec. 21. (1) On or before January 1, 2026, the Nebraska State
+22 Patrol shall develop a centralized and convenient website that allows
+23 members of the public to report instances of transnational repression.
+24 The website shall include options for reporting in languages commonly
+25 spoken in Nebraska, including particularly languages of communities
+26 affected more frequently by transnational repression.
+27 (2) On or before January 1, 2026, the patrol shall conduct a public
+28 awareness campaign to inform the public:
+29 (a) How to identify and report instances of transnational
+30 repression;
+31 (b) How to use the website created under this section; and
+-26-
+
+LB644 LB644
+2025 2025
+1 (c) What tools and remedies are available for victims of
+2 transnational repression.
+3 (3) On or before January 1, 2027, and on or before each January 1
+4 thereafter, the patrol shall electronically submit a report to the
+5 Legislature concerning complaints received on the website, outcomes of
+6 such complaints, and any instances of interference by foreign principals
+7 in the reporting process.
+8 Sec. 22. Section 49-1480, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 49-1480 (1) Every person employed, retained, or authorized as a
+11 lobbyist shall, before commencing any lobbying activity:
+12 (a) File , file an application with the Clerk of the Legislature for
+13 registration as a lobbyist, and if the clerk is satisfied that the
+14 application has been properly prepared the registration shall be deemed
+15 to be complete. The application shall be on a form prescribed by the
+16 clerk and approved by the Executive Board of the Legislative Council, and
+17 shall include as a minimum the following:
+18 (i) (1) The name, permanent residence address, and office address of
+19 the lobbyist;
+20 (ii) (2) The name and address of the principal of such lobbyist;
+21 (iii) (3) The nature of the business of such principal and the
+22 amounts or sums given or to be given the lobbyist as compensation or
+23 reimbursement for lobbying. A lobbyist who is salaried or retained by a
+24 principal need only report that portion of compensation or reimbursement
+25 reasonably attributable to lobbying;
+26 (iv) (4) A description of the business activity of the lobbyist;
+27 (v) (5) An identification of the matters on which the principal or
+28 lobbyist expects to lobby;
+29 (vi) If the principal is a Chinese military company, an affirmative
+30 acknowledgment by the lobbyist that such lobbyist is lobbying on behalf
+31 of, and thereby acting as an agent of, a foreign adversary of the United
+-27-
+
+LB644 LB644
+2025 2025
+1 States;
+2 (vii) (6) If the principal is an industry, trade, or professional
+3 association, a specific description of the industry, trade, or profession
+4 represented by the principal and the names and addresses of its officers;
+5 (viii) (7) If the principal is not an industry, trade, or
+6 professional association, a specific description of the interests and
+7 groups represented by the principal and the names and addresses of its
+8 officers; and
+9 (ix) (8) The name and address of any official in the legislative or
+10 executive branch, and of any members of any such official's staff or
+11 immediate family, who are employed by the lobbyist or any person acting
+12 on behalf of such lobbyist if such information is known or reasonably
+13 should have been known to the lobbyist.
+14 (b) If any such lobbying activity is on behalf of a Chinese military
+15 company, disclose that such Chinese military company is a foreign
+16 adversary of the United States. For purposes of this subdivision (b),
+17 lobbying activity includes, but is not limited to, lobbying by means of
+18 telephone, electronic mail, United States mail or other mail delivery
+19 service, in-person meetings, or testimony at legislative hearings.
+20 (2)(a) Every person employed, retained, or authorized as a
+21 consultant for a Chinese military company shall, before commencing any
+22 influencing activity in Nebraska for such Chinese military company:
+23 (i) File with the commission, on a form prescribed by the
+24 commission, information which shall include as a minimum, the following:
+25 (A) The name, permanent residence address, and office address of the
+26 consultant;
+27 (B) The name and address of the Chinese military company represented
+28 by such consultant;
+29 (C) A description of the business activity of the consultant;
+30 (D) An identification of the matters on which the consultant expects
+31 to conduct influencing activity on behalf of such Chinese military
+-28-
+
+LB644 LB644
+2025 2025
+1 company;
+2 (E) An affirmative acknowledgment by the consultant that such
+3 consultant is influencing on behalf of, and thereby acting as an agent
+4 of, a foreign adversary of the United States; and
+5 (F) The name and address of any official in the legislative or
+6 executive branch, and of any members of any such official's staff or
+7 immediate family, who are employed by the consultant or any person acting
+8 on behalf of such consultant if such information is known or reasonably
+9 should have been known to the consultant; and
+10 (ii) Disclose that such Chinese military company is a foreign
+11 adversary of the United States.
+12 (b) For purposes of this subsection, influencing activity includes,
+13 but is not limited to, influencing by means of telephone, electronic
+14 mail, United States mail or other mail delivery service, or in-person
+15 meetings.
+16 (3) Any person who violates subdivision (1)(a)(vi) or (1)(b) or
+17 subsection (2) of this section shall be subject to a civil penalty of one
+18 hundred thousand dollars for each violation. For any subsequent
+19 violation, the civil penalty shall be increased by one hundred thousand
+20 dollars more than the previously assessed penalty, not to exceed one
+21 million dollars per violation.
+22 (4) For purposes of this section, Chinese military company has the
+23 same meaning as in section 1260H of Public Law 116-283, as such section
+24 existed on January 1, 2025, and includes any subsidiary of a Chinese
+25 military company or any company owned or controlled, in whole or in part,
+26 by a Chinese military company.
+27 Sec. 23. Section 49-14,126, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 49-14,126 The commission, upon finding that there has been a
+30 violation of the Nebraska Political Accountability and Disclosure Act or
+31 any rule or regulation promulgated thereunder, may issue an order:
+-29-
+
+LB644 LB644
+2025 2025
+1 (1) Requiring requiring the violator to do one or more of the
+2 following:
+3 (a) (1) Cease and desist from the violation;
+4 (b) (2) File any report, statement, or other information as
+5 required;
+6 (c) (3) Pay a civil penalty of not more than five thousand dollars
+7 for each violation of the act, rule, or regulation; or
+8 (d) (4) Pay the costs of the hearing in a contested case if the
+9 violator did not appear at the hearing personally or by counsel; and .
+10 (2) Paying any person who provided information that resulted in the
+11 finding of a violation of subdivision (1)(a)(vi) or (1)(b) or subsection
+12 (2) of section 49-1480 a sum of fifty thousand dollars.
+13 Sec. 24. Section 49-14,140, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 49-14,140 The Nebraska Accountability and Disclosure Commission Cash
+16 Fund is hereby created. The fund shall consist of funds received by the
+17 commission pursuant to sections 49-1449.01, 49-1470, 49-1480.01, 49-1482,
+18 49-14,123, and 49-14,123.01 and subdivision (1)(d) (4) of section
+19 49-14,126. The fund shall be used by the commission in administering the
+20 Nebraska Political Accountability and Disclosure Act. Any money in the
+21 Nebraska Accountability and Disclosure Commission Cash Fund available for
+22 investment shall be invested by the state investment officer pursuant to
+23 the Nebraska Capital Expansion Act and the Nebraska State Funds
+24 Investment Act. Transfers may be made from the fund to the General Fund
+25 at the direction of the Legislature.
+26 On April 25, 2013, the State Treasurer shall transfer $630,870 from
+27 the Campaign Finance Limitation Cash Fund to the Nebraska Accountability
+28 and Disclosure Commission Cash Fund to be used for development,
+29 implementation, and maintenance of an electronic filing system for
+30 campaign statements and other reports under the Nebraska Political
+31 Accountability and Disclosure Act and for making such statements and
+-30-
+
+LB644 LB644
+2025 2025
+1 reports available to the public on the website of the commission. The
+2 State Treasurer shall transfer the balance of the Campaign Finance
+3 Limitation Cash Fund to the Election Administration Fund on or before
+4 July 5, 2013, or as soon thereafter as administratively possible.
+5 Sec. 25. Section 73-901, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 73-901 Sections 73-901 to 73-907 and section 29 of this act shall be
+8 known and may be cited as the Foreign Adversary Contracting Prohibition
+9 Act.
+10 Sec. 26. Section 73-903, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 73-903 For purposes of the Foreign Adversary Contracting Prohibition
+13 Act:
+14 (1) Company means any sole proprietorship, organization,
+15 association, corporation, partnership, joint venture, limited
+16 partnership, limited liability partnership, limited liability company, or
+17 other entity or business association that exists for the purpose of
+18 making a profit, including all wholly owned subsidiaries, majority owned
+19 subsidiaries, parent companies, or affiliates of any such entity or
+20 business association;
+21 (2) Foreign adversary means a foreign adversary as determined
+22 pursuant to 15 C.F.R. 791.4, as such regulation existed on January 1,
+23 2025 7.4;
+24 (3) Owned in whole or in part means:
+25 (a) For a publicly traded company, any share of ownership that
+26 entails the ability to direct or influence the operations of the company,
+27 the ability to appoint or discharge any board members, officers, or
+28 directors, or any other rights beyond those available to a retail
+29 investor holding an equivalent share of ownership; and
+30 (b) For a privately held company, any share of ownership;
+31 (4) Public entity means the state or any department, agency,
+-31-
+
+LB644 LB644
+2025 2025
+1 commission, or other body of state government, including publicly funded
+2 institutions of higher education, any political subdivision of the state,
+3 and any other public or private agency, person, partnership, corporation,
+4 or business entity acting on behalf of any such public entity;
+5 (5) Scrutinized company means:
+6 (a) Any company organized under the laws of a foreign adversary or
+7 having its principal place of business within a foreign adversary, and
+8 any subsidiary of any such company;
+9 (b) Any company owned in whole or in part or operated by the
+10 government of a foreign adversary, an entity controlled by the government
+11 of a foreign adversary, or any subsidiary or parent of any such company;
+12 or
+13 (c) Any company that sells to a public entity a final technology-
+14 related product or service that originates with a company described in
+15 subdivision (5)(a) or (b) of this section without incorporating that
+16 product or service into another final product or service; and
+17 (6) Technology-related product or service means a product or service
+18 used for information systems, surveillance, light detection and ranging,
+19 or communications. The term includes unmanned aircraft; and
+20 (7) Unmanned aircraft means an aircraft, including an aircraft
+21 commonly known as a drone, which is operated without the possibility of
+22 direct human intervention from within or on the aircraft.
+23 Sec. 27. Section 73-905, Revised Statutes Cumulative Supplement,
+24 2024, is amended to read:
+25 73-905 (1) A public entity shall require a company that submits a
+26 bid or proposal or enters into any contract or contract renewal with any
+27 public entity for any technology-related product or service to certify:
+28 (a) (1) That the company is not a scrutinized company;
+29 (b) (2) That the company will not subcontract with any scrutinized
+30 company for any aspect of performance of the contemplated contract; and
+31 (c) (3) That any products or services to be provided do not
+-32-
+
+LB644 LB644
+2025 2025
+1 originate with a scrutinized company.
+2 (2) This section shall not apply to the contracts described in
+3 section 29 of this act.
+4 Sec. 28. Section 73-906, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 73-906 (1) No public entity shall enter into any contract or
+7 contract renewal that would result in any state or local government funds
+8 being transferred:
+9 (1) (a) To a scrutinized company in connection with any technology-
+10 related product or service; or
+11 (2) (b) To any company in connection with any technology-related
+12 product or service that originates with a scrutinized company.
+13 (2) Notwithstanding subsection (1) of this section, a public entity
+14 may enter into a contract for goods manufactured by a scrutinized company
+15 if:
+16 (a)(i) There is no other reasonable option for procuring such good;
+17 (ii) The contract is preapproved by the Department of Administrative
+18 Services; and
+19 (iii) Not procuring such good would pose a greater threat to the
+20 state than the threat associated with the good itself; or
+21 (b) The purchasing entity is an electric supplier that is not out of
+22 compliance with the Critical Infrastructure Protection requirements
+23 issued by the North American Electric Reliability Corporation.
+24 Sec. 29. Notwithstanding sections 73-904 and 73-906, a public
+25 entity may enter into a contract for goods manufactured by a scrutinized
+26 company if:
+27 (1)(a) There is no other reasonable option for procuring such good;
+28 (b) The contract is preapproved by the Department of Administrative
+29 Services; and
+30 (c) Not procuring such good would pose a greater threat to the state
+31 than the threat associated with the good itself;
+-33-
+
+LB644 LB644
+2025 2025
+1 (2) The purchasing entity is an electric supplier that is not out of
+2 compliance with the Critical Infrastructure Protection requirements
+3 issued by the North American Electric Reliability Corporation; or
+4 (3) The contract involves the procurement of unmanned aircraft and
+5 such contract is entered into prior to July 1, 2026. A public entity
+6 shall not use any unmanned aircraft procured pursuant to this subdivision
+7 on or after July 1, 2028.
+8 Sec. 30. (1) For purposes of this section:
+9 (a) Company means any corporation, partnership, association,
+10 organization, or other combination of persons;
+11 (b) Foreign adversary means those countries listed in 15 C.F.R.
+12 791.4;
+13 (c) Foreign adversarial company means a company that:
+14 (i) Is organized under the laws of a foreign adversary;
+15 (ii) Has its principal place of business within a foreign adversary;
+16 (iii) Is owned in whole or in part, operated, or controlled by the
+17 government of a foreign adversary; or
+18 (iv) Is a subsidiary or parent of any company otherwise described in
+19 subdivision (1)(c) of this section; and
+20 (d) Government of a foreign adversary means any person or group of
+21 persons exercising sovereign de facto or de jure political jurisdiction
+22 over any foreign adversary, or over any part of such country, and
+23 includes any subdivision of any such group and any group or agency to
+24 which such sovereign de facto or de jure authority or functions are
+25 directly or indirectly delegated. Such term shall include any faction or
+26 body of insurgents within a country assuming to exercise governmental
+27 authority whether such faction or body of insurgents has or has not been
+28 recognized by the United States.
+29 (2) A foreign adversarial company shall be ineligible to receive any
+30 benefits under an incentive program of the State of Nebraska, including
+31 under:
+-34-
+
+LB644 LB644
+2025 2025
+1 (a) The Beginning Farmer Tax Credit Act;
+2 (b) The ImagiNE Nebraska Act;
+3 (c) The Nebraska Advantage Microenterprise Tax Credit Act;
+4 (d) The Nebraska Advantage Research and Development Act;
+5 (e) The Nebraska Advantage Rural Development Act;
+6 (f) The Nebraska Job Creation and Mainstreet Revitalization Act;
+7 (g) The New Markets Job Growth Investment Act;
+8 (h) The Urban Redevelopment Act; and
+9 (i) Any other tax or other incentive program created by legislative
+10 or executive action for the purpose of recruitment or retention of
+11 businesses in Nebraska.
+12 Sec. 31. For purposes of sections 31 to 34 of this act:
+13 (1) Business means any:
+14 (a) Sole proprietorship, organization, association, corporation,
+15 partnership, joint venture, limited partnership, limited liability
+16 partnership, or limited liability business, including a wholly owned
+17 subsidiary, majority-owned subsidiary, parent business, or affiliate of
+18 those entities or business associations that exists to make a profit; and
+19 (b) Nonprofit organization;
+20 (2) Domicile means the country where:
+21 (a) A business is registered and headquartered;
+22 (b) A business primarily completes its affairs; and
+23 (c) The majority stake of ownership of a business is located;
+24 (3) Foreign adversary means any foreign government specified in
+25 federal code 15 C.F.R. 791.4, as such part existed on January 1, 2025;
+26 (4) Genetic sequencer means any device or platform used to conduct
+27 genetic sequencing, resequencing, isolation, or other genetic research;
+28 (5) Genetic sequencing means any method used to determine the
+29 identity and order of nucleotide bases in the human genome;
+30 (6) Human genome means deoxyribonucleic acid or ribonucleic acid
+31 found in human cells;
+-35-
+
+LB644 LB644
+2025 2025
+1 (7) Medical facility means a facility that provides any health
+2 service and:
+3 (a) Receives any money from the State of Nebraska or the United
+4 States Government;
+5 (b) Is registered with the State of Nebraska to provide any health
+6 care service; or
+7 (c) Conducts research or testing on, with, or relating to genetic
+8 sequencing or the human genome;
+9 (8) Operational and research software means any computer program
+10 used for any operation, control, analysis, or other necessary function of
+11 genetic sequencing or genetic sequencers;
+12 (9) Research facility means a facility that conducts research on,
+13 with, or relating to genetic sequencing or the human genome; and
+14 (10) Software means any program, routine, or set of one or more
+15 programs or routines that is used or intended for use to cause the
+16 performance of a task or set of tasks relating to genetic sequencing or
+17 genetic sequencers by any computer, computer-related peripheral
+18 equipment, or combination thereof.
+19 Sec. 32. No medical facility or research facility shall use any
+20 genetic sequencer or operational and research software for genetic
+21 sequencing if such genetic sequencer or operational and research software
+22 is produced in or by any:
+23 (1) Foreign adversary;
+24 (2) State-owned enterprise of any foreign adversary;
+25 (3) Business domiciled in any foreign adversary; or
+26 (4) Subsidiary or affiliate of a business domiciled in any foreign
+27 adversary.
+28 Sec. 33. Any medical facility or research facility that is in
+29 possession of any genetic sequencer or operational and research software
+30 that is described in section 32 of this act shall:
+31 (1) Permanently disable such genetic sequencer or operational and
+-36-
+
+LB644 LB644
+2025 2025
+1 research software; or
+2 (2) Remove such genetic sequencer or operational and research
+3 software from any facility associated with such medical facility or
+4 research facility.
+5 Sec. 34. (1) Any genetic sequencing data that is utilized in the
+6 State of Nebraska shall be stored within the borders of any state of the
+7 United States or any territory of the United States.
+8 (2) No person shall remotely access genetic sequencing data that is
+9 stored in the State of Nebraska from outside the borders of any state of
+10 the United States or any territory of the United States unless such
+11 remote access is approved in a written document that is signed by the
+12 Governor.
+13 Sec. 35. This act becomes operative on October 1, 2025.
+14 Sec. 36. If any section in this act or any part of any section is
+15 declared invalid or unconstitutional, the declaration shall not affect
+16 the validity or constitutionality of the remaining portions.
+17 Sec. 37. Original sections 49-1480, 49-14,126, and 49-14,140,
+18 Reissue Revised Statutes of Nebraska, and sections 73-901, 73-903,
+19 73-905, and 73-906, Revised Statutes Cumulative Supplement, 2024, are
+20 repealed.
+-37-
+
+[DELETED: yBA B F A A r t f e t a s4 4 a 4 R R S oNSa T A R A a t C TR i N A t p r u tNea o b o a C m c t p f0p1p2d3A C P A r t c a4c t p c c f r b5f i p t p r a r6r t g s a b m a r7f t p s r f g s8d a p r a o s d t h9p0a1B4L52]
+[DELETED: ScSRp a a i o o a o anSR( A n m t c l i 1 C071(2(3S4(5p6( I a o c a t o r o u t7d8a9f0( A p w a c a o p t a1a2r3(4(5s b v o a b f n o j a6i t s o a o a7s8(9b0(1t4L52]
+[DELETED: ( T m e i n o d sc s o f a n o i p ad b a f p o b a a o a fpA((f( A a a p r c p a0i e o p c f o i t1i2(3l4f5(6a o o o t s o a p s o t7s8(9w0o1a2(3(4( O o a m f o c o a m d5n6d7( F p p m a o o a o8c9a0e i a a d i w o i p t t1e4L52]
+[DELETED: o c o a g o a f c o a st o t f o i o t p o pia((o(t0a d w t U S o t s p i n a1i2S3U4S5(6c o p o u t l o o h i7p8(9c0b a p a c o o o1c o p o u t l o o h i2p3(4d5(6p o e d i s ( ( ( o ( o7t8(9(0t U S D o S l o d f1t4L52]
+[DELETED: ( G o a f c m a p o g opocaaoar0(1f d o p a d2i o d w r t t p i3e e s c o o b a4f o c o a c o t t U S a5g o a f c a f p p o 6p7o8o9(0(1t U S a s o a o p s t t2j3(4( W o a t e u t c a s5c6(7t p d o i w o n e t8d d o d i m a a e9i0( T o o a l t p o t t1o4L52]
+[DELETED: ((o(o(( P m a i a p a a c a o o a o e o c oi0( P a m a a t t p1e i b w o t t p i t i a w2i3o4d o f p o t U S o o t S o5N6o7p8(9o0o1o2(3p4( P m n a p b p5s6p p d p m p t b c o7c p a a p e8l9a i o r o o p o o m0a1e l a o a o e r4L52]
+[DELETED: mm(o i i i a o i a w r p i a p r m p t p op( P a m a p w e d oiw o p i o m o a k i0p b m o a b p n1l2( R s m t r s3r4a a a s t s s r t b f u5s6w7o8( U S w u i a g s m t9s s t D o C t t t i0p1o2S3f a a n o f t o u s4p h f w t A G a t a c5r6t7F A a T A R A E a8o9f p f a a n o f t0o s w t d t f w t A1G i d a r s u o o a f4L52]
+[DELETED: pfbs s n r s a f t o t f r s f t p d w s a w aa o a f p f a a n o ft o T r s s i tfs0(1b2a3(4(5( I a p t n r a a6n7o8( I a a c o o a o9c o i t n r a a0n1t2i c a o i a c a3b4(5t t a c o e o a r t t6r o p a p a a s o7o8(9b0(1o4L52]
+[DELETED: ( T n a a o e f p f aa n o f t o f w tr i a a o p t a o h a ta(f p f a a n o f to a i a s p i n a i s(0a n o f t o i s1d o c f o s i w o i2p3o b a o f p f a a n o f4t5(6o7o8b9a0( A c s o t n a m o1p o e s a a o t e a p2a3a a o a f p f a a n o f4t o f e s p i a d5s6( T n a a o a c i m o7t8h9n0d1f4L52]
+[DELETED: (i p a o p t p d o tp o h a t p f t r o f a opt o a w r r u tsp( T n b a r a a i ai0( T e t w e s o p i s1d o c f o s i w o i2p3o b a o f p f a a n o f4t5(6o7o8a o t a r t i s ( o t9s0f1(2s3e d i f o o i c w a w4r5t r e a a a o a f p f a6a7o8t9( A d s o a c o m o o0t1e4L52]
+[DELETED: iw a p e c o c h t sc(ewrpr0t o o f a o p a a w1r2( S o s i o d p t3t p o t s a t A G h d4r5t6(7a8a9t0(1f t o w h f a r s2r b s ( o t s s w t d3a4f5o6f7A G h d r f t n s a t8p i m d n t m t i r9u0p1(4L52]
+[DELETED: n t t A G o a c t w t dat n s a t p i d t i in t c o t p o t F A aT A R A t A G m i apfi( T r s a s t s s0s1(2( I t r i a p b t m o t3m4( I t r i a p o t a i o 5p6t f o o o b a m o t b o d7t8( T f t a r s o s h b9f0(1a T A R A a t r a r2a3(4t5(6(7o8(9s0G1(4L52]
+[DELETED: tri o t e i d m p tio( A a o a f p f a a n of t o w h w t S o Nc a r u t F A a TA R A o o a J 1 2 s w o0h e d a t o d o t a c i1c2t p w a n l f a b w w f3a o o a J 1 2 A p w h p4a5f t o a l f t r o t6s e i s p h c b s a i t7c8S 5  ( T r o s 4 o t a s n9a0( A d a d o c o o a f1g2w s o i e e i a w a3r4s5( A o o a f g i s g i6r7p8S9o0w s o i e e i a w a1r4L52]
+[DELETED: s(as r b t U S D o S o t p r c p a o i semo S w s m o e i e e i tp o a w a r b t U S0D1m2(3i a s p e o a t e i t l4r5o6a7f t p o t F A a T A8R A l r d n i a t9i o p a p o o o t i t0c o j p c o c l e1i2b3( N p a a a a o a f p f a4a5s f a r u t F A a6T A R A r r a a f7a8a s r u t a u s p f i a9p o t s a a a o a p f a f0a o f t o T r o t1s a t a p c o s o a4L52]
+[DELETED: rfS 6  ( E p w t S o N w i aa o a f p f a a n o ftA a T A R A a w t oc t b t i t U S m t dc o b a m o i o i of0s1i2w3m4o t t t f w t A G t c5t6(7w i a a o a f p f a a n o8f9A0t1b a m o i o i o f c a2i m f o i t i o s f3p4s5s6t A G T A G m b r a r7d8s9(0t b f w t A G s b a f p1i4L52]
+[DELETED: a(w i a a o a f p f a a n of t o r t r u t FA a T A R A t t c ooai o s f p a p p o tr0f1p2o3p p f a a n o f t4o5U S o t S o N u t p o t6r7t e t s p i r a a a o s f8p u t F A a T A R9A0( W a a o a f p f a a1n2F3c4t5o s a f t c w a c o s a6m r r s f w t A G f7i i t r o t c a p o s a8t9S 7  ( E p w i a a o a f p0f a a n o f t o r1u t F A a T A R A s4L52]
+[DELETED: k a p w s p i s a a s b oaoan s a t p i m b r a rrs p s r f a p o t y f tt o s s U r a r a i eu0n1s2b3o4(5d6t7s8S9c0a T A R A a s s s b 1p r a o t p e a i a s2r h u s r a r a t A3G4(5c6o7S f s c a u a t s m d t b8a9S0b1R4L52]
+[DELETED: ( T A G m f i o b tAafo t a T i b i n l t t n or u t a c o r s o pt( T A G s e s m r t tL c a o t F A a0T1t2d3(4d i s 1 o t a c a o t5F A a T A R A i6r f p t t a a t n s a7c8S 9  F a a o a f p f a a9n0o1a2r3f4a5a6R7f p f a a n o f t8o9s0t1p p t f o o o d s b4L52]
+[DELETED: sStrtAm f s b s t a c p o u t ftn e f t d f a v o i t0s1(2s3o e b o a w a p e4i s p s b e o d f a r5w6p7( E p e i i N s8a9t0(1p i a a o a f p f a a n o2f t o p o t s i o s3p4(5o6t U S D o J f r p t t7f8(9t s s a r b s 4 o t a s b0c a c v f a l a s f e1n a s o l o o s t t4L52]
+[DELETED: c( W i t j o t A G a phF A a T A R A o a r orc f a o e s a o p o f a odpt0w1(2d n c w t r o t a o t r a3r4r i w s i w r t s i5d6f p f a a n o f t7o a a t t d o m a r o s8n w f a a r s i f9c w t r o t a a s r a0r1(2a a n o a f t o r t3r4t b a p t a c a o u e5e o i w s f p p t w t6a7a i c i w o i p u t s o a8p9S0a1t t e i n a a o a f p f a4L52]
+[DELETED: a(A( A s e o a p e isoo(S0S1F2S s p a s o a f f a s3b4t5S6G s p i a f a r i7N8c t i a e r a e r9a0(1i o s a t f g i o t i t2t a r c o f p f3a n o f t o t o i4m5S 1  ( I o t e c w t F6A a T A R A t A G7s h t p t i c i d t p8s9f0( T A G m a a p r a1r4L52]
+[DELETED: ScS 1  T p o t C T R iN A i t c t t a p o tr c b f g o f toc t t a p o f g iha0S 1  F p o t C T R i1N2( A o a f p m a a d o3c4( F a m a f a a d5p t 1 C 7 a s r e o J 1627( F p p m a o o a o8c9a0e1( T e a c o a o2a o c o a g o a f c o 3s4( T f o i o t p o p5i6a7(8( T g o a f c o a o o9s0(1p4L52]
+[DELETED: (s(c( O u t l o o h i p p ob( O o c w o i p b a p oc o p o a f a o f to0(1p o e d i s ( ( ( o ( o2t3(4t U S D o S l o d f5t6(7p8o9c0a1a2( G o a f c a i a f o3b o i w a c o t t U S4a5o6( T r i a a b7e f o a t a f p c b a8a o s f p a o o w t f9p t w t i o h i0c1c o i s p p o t b o4L52]
+[DELETED: i o o t p t o j Sa a b i d a i m ip c t e t a o ctp e c f c a oa p s p o l o ga o t u o d o s m atS0(1(2(3(4(5(6(7(8(9( A c s b a a t0a1w2t3( P c m c t i l u l4s5(6( S o o i w i p o d f o 7m8(9r0(1(4L52]
+[DELETED: tc( T p c t o i a a o a fpt((( C a p t l t U S o ca0( C a p t f f e i p1c2( R a a p f e i p3c4( I a o i p a a C I m t5e6( T a s a e u t s7s8b o t p a t p s a b 9r0S1a2( I e i t p d3i m s o p o a o4u5t o a t d o s f p6g7( S p a w t k a a o t8a9(0S1s4L52]
+[DELETED: tsS 2  ( O o b J 1 2 t N SPt T t s b r u t a et a s i o t u b s fp((0p1(2r3t4o5c6(7p8( I a c t b t9r a m t m b p b f0p1S 2  ( O o b J 1 2 t N S2P s d a c a c w t a3m o t p t r i o t r4T w s i o f r i l c5s i N i p l o c6a7(8a9( H t i a r i o t0r1(4L52]
+[DELETED: ( W t a r a a f v ot(t t p s e s a r t tL c c r o t w o osiSa04 ( E p e r o a a 1l2(3r a a l a i t c i s t t4a5t b c T a s b o a f p b t6c7s8(9t0(1( ( T n o t b o s p a t2a o s g o t b g t l a c o3r4p5r6(7(8l9(0a1o4L52]
+[DELETED: S( ( I t p i a i t o par( ( I t p i n a i t op a a s d o t i ago(0e b a o a m o a s o s o1i2o b o s l i s i i k o r3s4(5c d t s C m c i a f6a o t U S F p o t s (7l8t e m U S m o o m d9s0( E p e r o a a 1c f a C m c s b c a2i3( F w t c o a f p b t4c5(6c7(8b9(0(1t c i a o b o s C m4L52]
+[DELETED: c( A a a b t c t sco( T n a a o a o i t l oe b a o a m o a s o s oios0( D t s C m c i a f1a2(3b i n l t i b m o t e4m U S m o o m d s o i5m6( A p w v s ( o ( o7s8h t d f e v F a s9v0d m t t p a p n t e o1m2(3s4e o J 1 2 a i a s o a C5m6b7S8a94 T c u f t t h b 0v1a4L52]
+[DELETED: ( R r t v t d o o m o tf(( ( F a r s o o i ar(f( ( P t c o t h i a c c i tv0(1f2(3S4a546F7c84 a 4 a s ( ( o s940N P A a D A A m i t1N2i3t N C E A a t N S F4I5a6O7t8a D C C F t b u f d9i a m o a e f s f0c s a o r u t N P1A a D A a f m s s a4L52]
+[DELETED: r a t t p o t w o t c TS T s t t b o t C FL C F t t E A F o o bJS 2 S 7 R S C S27kA0S 2 S 7 R S C S12273A4( C m a s p o5a c p j v l6p7o e o b a t e f t p o8m9s p c o a o a s e o0b1( F a m a f a a d2p t 1 C 7 a s r e o J 1324(5( F a p t c a s o o t6e7t a t a o d a b m o o8d o a o r b t a t a r9i0(1( P e m t s o a d a4L52]
+[DELETED: ciao((ha( A c o i w o i p o o b t0g1o2o3(4r5s ( o ( o t s w i t6p7(8u9o0( U a m a a i a a1c2d3S 2 S 7 R S C S42576b7p8(9(0c1( ( T a p o s t b p d n4L52]
+[DELETED: o( T s s n a t t c d isS 2 S 7 R S C S27  ( N p e s e i a c ocb(0r1( ( T a c i c w a t2p3(4m5i6(7(8S9( N p s g w p a g t t t0s1(2c w t C I P r3i4S 2  N s 7 a 7 a p5e6c7(8(9S0(1t4L52]
+[DELETED: (c w t C I P ri(s c i e i p t J 1 2 A p esoS( C m a c p a0o1( F a m t c l i 1 C273(4(5(6(7g8(9s0(1p2o a f a o o a p o s c a3i a s o a s g a a g o a t4w s s d f o d j a o f a5d6b o i w a c a t e g7a8r9(0b1u4L52]
+[DELETED: (((((((((0o e a f t p o r o r o1b2S3(4( S p o a c5p j v l p l l6p o l l b i a w o7s8t9(0(1(2(3(4( F a m a f g s i5f6(7g8( G s m a m u t d t9i0( H g m d a o r a1f4L52]
+[DELETED: ( M f m a f t p a hs( R a m f t S o N o t US(c( C r o t o w o r t gs( O a r s m a c p0u1g2( R f m a f t c r o3w4( S m a p r o s o o o m5p o r t i u o i f u t c t6p7g s b a c c p8e9S 3  N m f o r f s u a0g s o o a r s f g1s2i3(4(5(6(7a8S 3  A m f o r f t i i9p0t1( P d s g s o o a4L52]
+[DELETED: r( R s g s o o a rs f a f a w s m f orSSU(s0t U S o a t o t U S u s1r a i a i a w d t i s b t2G3S4S5d i o u t d s n a6t7S 3  O s 4 4 a 48R R S o N a s 7 797 a 7 R S C S 2 a0r4L52]

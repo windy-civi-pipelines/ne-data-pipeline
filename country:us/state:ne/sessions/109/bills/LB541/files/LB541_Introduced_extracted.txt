@@ -1,0 +1,2899 @@
+Title: LEGISLATIVE BILL 541
+Official Title: LEGISLATIVE BILL 541
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 41 sections found
+
+================================================================================
+
+Section 1:
+LB541 LB541
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Holdcroft, 36.
+Read first time January 22, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend sections 32-306,
+2 32-307, 32-310, 32-311.01, 32-312.05, 32-315, 32-320, 32-321,
+3 32-323, 32-325, 32-806, 32-808, 32-902, 32-938, 32-1118, and
+4 32-1119, Reissue Revised Statutes of Nebraska, and sections 32-101,
+5 32-103, 32-202, 32-203, 32-206, 32-308, 32-312, 32-941, 32-942,
+6 32-943, 32-947, 32-950.01, 32-960, 32-1002, 32-1041, and 32-1049,
+7 Revised Statutes Cumulative Supplement, 2024; to eliminate online
+8 voter registration; to restrict voter registration by mail; to
+9 change voter registration provisions; to require watermarks on
+10 official ballots; to provide requirements to vote by means of a
+11 ballot for early voting; to provide requirements for secure ballot
+12 drop-boxes; to provide requirements for hand counts; to change
+13 provisions relating to voting and counting methods; to eliminate
+14 obsolete provisions; to harmonize provisions; to repeal the original
+15 sections; and to outright repeal section 32-309, Reissue Revised
+16 Statutes of Nebraska, and sections 32-304 and 32-320.01, Revised
+17 Statutes Cumulative Supplement, 2024.
+18 Be it enacted by the people of the State of Nebraska,
+-1-
+LB541 LB541
+2025 2025
+1 Section 1. Section 32-101, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 32-101 Sections 32-101 to 32-1552 and sections 3 and 30 of this act
+4 shall be known and may be cited as the Election Act.
+5 Sec. 2. Section 32-103, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 32-103 For purposes of the Election Act, the definitions found in
+8 sections 32-104 to 32-120 and 32-123 and section 3 of this act shall be
+9 used.
+10 Sec. 3. Hand count means to conduct a count or recount of ballots
+11 by hand as required by section 30 of this act, without the assistance of
+12 any electronic device or equipment, including, but not limited to,
+13 scanners. This definition shall not be construed to exclude the use of
+14 desktop or handheld calculators or adding machines.
+15 Sec. 4. Section 32-202, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 32-202 In addition to any other duties prescribed by law, the
+18 Secretary of State shall:
+19 (1) Supervise the conduct of primary and general elections in this
+20 state;
+21 (2) Provide training and support for election commissioners, county
+22 clerks, and other election officials in providing for day-to-day
+23 operations of the office, registration of voters, and the conduct of
+24 elections;
+25 (3) Enforce the Election Act;
+26 (4) With the assistance and advice of the Attorney General, make
+27 uniform interpretations of the act;
+28 (5) Provide periodic training for the agencies and their agents and
+29 contractors in carrying out their duties under sections 32-308 and to
+30 32-310;
+31 (6) Develop and print forms for use as required by sections 32-308,
+-2-
+LB541 LB541
+2025 2025
+1 32-310, 32-320, 32-329, 32-947, 32-956, and 32-958;
+2 (7) Contract with the Department of Administrative Services for
+3 storage and distribution of the forms;
+4 (8) Require reporting to ensure compliance with sections 32-308 and
+5 to 32-310;
+6 (9) Prepare and transmit reports as required by the National Voter
+7 Registration Act of 1993, 52 U.S.C. 20501 et seq.;
+8 (10) Develop and print a manual describing the requirements of the
+9 initiative and referendum process and distribute the manual to election
+10 commissioners and county clerks for distribution to the public upon
+11 request;
+12 (11) Develop and print pamphlets described in section 32-1405.01;
+13 (12) Adopt and promulgate rules and regulations as necessary for
+14 elections conducted under sections 32-952 to 32-959;
+15 (13) Establish a free access system, such as a toll-free telephone
+16 number or an Internet website, that any voter who casts a provisional
+17 ballot may access to discover whether the vote of that voter was counted
+18 and, if the vote was not counted, the reason that the vote was not
+19 counted. The Secretary of State shall establish and maintain reasonable
+20 procedures necessary to protect the security, confidentiality, and
+21 integrity of personal information collected, stored, or otherwise used by
+22 the free access system. Access to information about an individual
+23 provisional ballot shall be restricted to the individual who cast the
+24 ballot;
+25 (14) Provide a website dedicated to voter identification
+26 requirements and procedures. The Secretary of State shall establish,
+27 maintain, and regularly update on the website a document entitled "List
+28 of Acceptable Forms of Identification" that lists forms of identification
+29 that qualify as valid photographic identification for purposes of voter
+30 identification;
+31 (15) Provide a public awareness campaign regarding the voter
+-3-
+LB541 LB541
+2025 2025
+1 identification requirements and procedures, including communication
+2 through multiple mediums and in-person events;
+3 (16) Provide instructions and information to the Department of
+4 Health and Human Services, the Department of Motor Vehicles, and the
+5 State Department of Education for distribution by such agencies to
+6 Nebraska residents regarding the requirement to present valid
+7 photographic identification in order to vote and the way to obtain free
+8 valid photographic identification; and
+9 (17) Not use or allow the use of citizenship information shared with
+10 or collected by the Secretary of State pursuant to the Election Act for
+11 any purpose other than maintenance of the voter registration list,
+12 including law enforcement purposes.
+13 Sec. 5. Section 32-203, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 32-203 In addition to any other powers prescribed by law, the
+16 Secretary of State may:
+17 (1) Inspect, with or without the filing of a complaint by any
+18 person, and review the practices and procedures of election
+19 commissioners, county clerks, their employees, and other election
+20 officials in the day-to-day operations of the office, the conduct of
+21 primary and general elections, and the registration of qualified
+22 electors;
+23 (2) Employ such personnel as necessary to efficiently carry out his
+24 or her powers and duties as prescribed in the Election Act;
+25 (3) Adopt and promulgate rules and regulations in regard to the
+26 registration of voters and the conduct of elections, especially regarding
+27 returning ballots by agents under section 32-943 and secure ballot drop-
+28 boxes under section 32-950.01; and
+29 (4) Enforce the act by injunctive action brought by the Attorney
+30 General in the district court for the county in which any violation of
+31 the act occurs.
+-4-
+LB541 LB541
+2025 2025
+1 Sec. 6. Section 32-206, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 32-206 (1) The Secretary of State shall publish an official election
+4 calendar by November 1 prior to the statewide primary election. Such
+5 calendar, to be approved as to form by the Attorney General, shall set
+6 forth the various election deadline dates and other pertinent data as
+7 determined by the Secretary of State. The official election calendar
+8 shall be merely a guideline and shall in no way legally bind the
+9 Secretary of State or the Attorney General.
+10 (2) The Secretary of State shall deliver a copy of the official
+11 election calendar to the state party headquarters of each recognized
+12 political party within ten days after publication under subsection (1) of
+13 this section.
+14 (3) Except as provided in sections 32-302 , 32-304, and 32-306, any
+15 filing or other act required to be performed by a specified day shall be
+16 performed by 5 p.m. of such day, except that if such day falls upon a
+17 Saturday, Sunday, or legal holiday, performance shall be required on the
+18 next business day.
+19 Sec. 7. Section 32-306, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 32-306 Deputy registrars shall register voters in teams of at least
+22 two deputies, one of whom is not a member of the same political party as
+23 the other or others. The deputy registrars shall only complete
+24 registration applications for applicants who present valid photographic
+25 identification. The deputy registrars shall return the completed
+26 registration applications to the office of the election commissioner or
+27 county clerk of the county in which the registrations are to be effective
+28 no later than the end of the next business day after the registrations
+29 are taken. The election commissioner or county clerk shall mail an
+30 acknowledgment of registration at least five days prior to the next
+31 election to each person registered by a deputy registrar. Deputy
+-5-
+LB541 LB541
+2025 2025
+1 registrars shall not register voters after 6 p.m. on the third Friday
+2 preceding any election. A registration application received after the
+3 deadline shall not be processed by the election commissioner or county
+4 clerk until after the election. This section shall not apply to
+5 registration done by the employees of the election commissioner or county
+6 clerk.
+7 Sec. 8. Section 32-307, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 32-307 No materials advocating or advertising any political issue,
+10 candidate, or party shall be displayed or distributed within fifty feet
+11 of any voter registration site. No alcohol shall be served within fifty
+12 feet of any voter registration site. The registration procedure shall be
+13 conducted in a neutral manner and shall not be connected with anything
+14 unrelated to the object of registering electors except as otherwise
+15 provided in sections 32-308 and to 32-310.
+16 Sec. 9. Section 32-308, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 32-308 (1) The Secretary of State and the Director of Motor Vehicles
+19 shall enter into an agreement to match information in the computerized
+20 statewide voter registration list with information in the database of the
+21 Department of Motor Vehicles to the extent required to enable each such
+22 official to verify the accuracy of the information, including
+23 citizenship, provided on applications for voter registration. The
+24 Director of Motor Vehicles shall enter into an agreement with the
+25 Commissioner of Social Security under section 205(r)(8) of the federal
+26 Social Security Act, 42 U.S.C. 405(r)(8), as such section existed on
+27 April 17, 2003, for purposes of the Election Act.
+28 (2) The Department of Motor Vehicles, with the assistance of the
+29 Secretary of State, shall prescribe a voter registration application
+30 which may be used to register to vote or change an elector's his or her
+31 address for voting purposes at the same time an elector applies for an
+-6-
+LB541 LB541
+2025 2025
+1 original or renewal motor vehicle operator's license, an original or
+2 renewal state identification card, or a replacement thereof. The voter
+3 registration application shall contain the information required pursuant
+4 to section 32-312 and shall be designed so that it does not require the
+5 duplication of information in the application for the motor vehicle
+6 operator's license or state identification card, except that it may
+7 require a second signature of the applicant. The department and the
+8 Secretary of State shall make the voter registration application
+9 available to any person applying for an operator's license or state
+10 identification card. The application shall be completed at the office of
+11 the department by the close of business on the third Friday preceding any
+12 election to be registered to vote at such election. A registration
+13 application received after the deadline shall not be processed by the
+14 election commissioner or county clerk until after the election.
+15 (3) The Department of Motor Vehicles, in conjunction with the
+16 Secretary of State, shall develop a process to electronically transmit
+17 voter registration application information received under subsection (2)
+18 of this section to the election commissioner or county clerk of the
+19 county in which the applicant resides within the time limits prescribed
+20 in subsection (4) of this section. The Director of Motor Vehicles shall
+21 designate an implementation date for the process which shall be on or
+22 before January 1, 2016.(4) The voter registration application information
+23 shall be transmitted to the election commissioner or county clerk of the
+24 county in which the applicant resides not later than ten days after
+25 receipt, except that if the voter registration application information is
+26 received within five days prior to the third Friday preceding any
+27 election, it shall be transmitted not later than five days after its
+28 original submission. Any information on whether an applicant registers or
+29 declines to register and the location of the office at which he or she
+30 registers shall be confidential and shall only be used for voter
+31 registration purposes.
+-7-
+LB541 LB541
+2025 2025
+1 (4) (5) For each voter registration application for which
+2 information is transmitted electronically pursuant to this section, the
+3 Secretary of State shall obtain a copy of the electronic representation
+4 of the applicant's digital image and signature from the Department of
+5 Motor Vehicles' records of his or her motor vehicle operator's license or
+6 state identification card for purposes of voter registration and voting.
+7 Each voter registration application electronically transmitted under this
+8 section shall include information provided by the applicant that includes
+9 whether the applicant is a citizen of the United States, whether the
+10 applicant is of sufficient age to register to vote, the applicant's
+11 residence address, the applicant's postal address if different from the
+12 residence address, the date of birth of the applicant, the party
+13 affiliation of the applicant or an indication that the applicant is not
+14 affiliated with any political party, the applicant's motor vehicle
+15 operator's license number, the applicant's previous registration location
+16 by city, county, or state, if applicable, and the applicant's signature.
+17 (5) (6) State agency personnel involved in the voter registration
+18 process pursuant to this section and section 32-309 shall not be
+19 considered deputy registrars or agents or employees of the election
+20 commissioner or county clerk.
+21 Sec. 10. Section 32-310, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 32-310 (1) The State Department of Education and the Department of
+24 Health and Human Services shall provide the opportunity to register to
+25 vote at the time of application, review, or change of address for the
+26 following programs, as applicable: (a) The Supplemental Nutrition
+27 Assistance Program; (b) the medicaid program; (c) the WIC program as
+28 defined in section 71-2225; (d) the aid to dependent children program;
+29 (e) the vocational rehabilitation program; and (f) any other public
+30 assistance program or program primarily for the purpose of providing
+31 services to persons with disabilities. If the application, review, or
+-8-
+LB541 LB541
+2025 2025
+1 change of address is accomplished through an agent or contractor of the
+2 department, the agent or contractor shall provide the opportunity to
+3 register to vote. Any information on whether an applicant registers or
+4 declines to register and the agency at which he or she registers shall be
+5 confidential and shall only be used for voter registration purposes.
+6 (2) The department, agent, or contractor shall make the mail-in
+7 registration application described in section 32-320 available at the
+8 time of application, review, or change of address, and shall provide
+9 assistance, if necessary, to the applicant in completing the application
+10 to register to vote, and shall only accept complete voter registration
+11 applications for applicants who present valid photographic
+12 identification. The department shall retain records indicating whether an
+13 applicant accepted or declined the opportunity to register to vote.
+14 (3) Department personnel, agents, and contractors involved in the
+15 voter registration process pursuant to this section shall not be
+16 considered deputy registrars or agents or employees of the election
+17 commissioner or county clerk.
+18 (4) The applicant may return the completed voter registration
+19 application to the department, agent, or contractor or may personally
+20 mail or deliver the application to the election commissioner or county
+21 clerk as provided in section 32-321. If the applicant returns the
+22 completed application to the department, agent, or contractor, the
+23 department, agent, or contractor shall deliver the application to the
+24 election commissioner or county clerk of the county in which the office
+25 of the department, agent, or contractor is located not later than ten
+26 days after receipt by the department, agent, or contractor, except that
+27 if the application is completed returned to the department, agent, or
+28 contractor within five days prior to the third Friday preceding any
+29 election, it shall be delivered not later than five days after the date
+30 it is returned. The election commissioner or county clerk shall, if
+31 necessary, forward the application to the election commissioner or county
+-9-
+LB541 LB541
+2025 2025
+1 clerk of the county in which the applicant resides within such prescribed
+2 time limits. The application shall be completed and returned to the
+3 department, agency, or contractor by the close of business on the third
+4 Friday preceding any election to be registered to vote at such election.
+5 A registration application received after the deadline shall not be
+6 processed by the election commissioner or county clerk until after the
+7 election.
+8 (5) The departments shall adopt and promulgate rules and regulations
+9 to ensure compliance with this section.
+10 Sec. 11. Section 32-311.01, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 32-311.01 (1) The Secretary of State shall prescribe and distribute
+13 a registration application which may be used statewide to register to
+14 vote and update voter registration records. An applicant may use the
+15 application to register to vote or to update his or her voter
+16 registration record with changes in his or her personal information or
+17 other information related to his or her eligibility to vote. An applicant
+18 shall may submit the application in person along with valid photographic
+19 identification , through a personal messenger or personal agent, or by
+20 mail. Every election commissioner or county clerk shall accept such an
+21 application for registration. The If an applicant who is eligible to
+22 register to vote submits the application in person at the office of the
+23 election commissioner or county clerk, the information from the
+24 application shall be entered into the voter registration register in the
+25 presence of the applicant if possible.
+26 (2) The application shall contain substantially all the information
+27 provided in section 32-312 and the following informational statements:
+28 (a) An applicant who is unable to sign his or her name may affix his
+29 or her mark next to his or her name written on the signature line by some
+30 other person;
+31 (b) If the application is submitted by mail and the applicant is
+-10-
+LB541 LB541
+2025 2025
+1 registering in the state for the first time and has not previously voted
+2 within the state, the applicant must submit with the application a copy
+3 of a photo identification which is current and valid or a copy of a
+4 utility bill, bank statement, government check, paycheck, or other
+5 government document that is current and that shows the name and address
+6 of the applicant as they appear on the application in order to avoid
+7 additional identification requirements when voting for the first time;
+8 (b) (c) An applicant must may deliver the application to the office
+9 of the election commissioner or county clerk in person and present valid
+10 photographic identification , through a personal messenger or personal
+11 agent, or by mail;
+12 (c) (d) To vote at the polling place on election day, the completed
+13 application must be delivered :(i) Delivered by the applicant in person
+14 to the office of the election commissioner or county clerk on or before
+15 the deadline prescribed in section 32-302; and
+16 (ii) Delivered by the applicant's personal messenger or personal
+17 agent to the office of the election commissioner or county clerk on or
+18 before the third Friday before the election; or
+19 (iii) Postmarked on or before the third Friday before the election
+20 if the application is submitted by mail; and
+21 (d) (e) The election commissioner or county clerk will, upon receipt
+22 of the application for registration, send an acknowledgment of
+23 registration to the applicant indicating whether the application is
+24 proper or not.
+25 Sec. 12. Section 32-312, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 32-312 The registration application prescribed by the Secretary of
+28 State pursuant to section 32-304 or 32-311.01 shall provide the
+29 instructional statements and request the information from the applicant
+30 as provided in this section.
+31 CITIZENSHIP—"Are you a citizen of the United States of America?"
+-11-
+LB541 LB541
+2025 2025
+1 with boxes to check to indicate whether the applicant is or is not a
+2 citizen of the United States.
+3 AGE—"Are you at least eighteen years of age or will you be eighteen
+4 years of age on or before the first Tuesday following the first Monday of
+5 November of this year?" with boxes to check to indicate whether or not
+6 the applicant will be eighteen years of age or older on election day.
+7 WARNING—"If you checked 'no' in response to either of these
+8 questions, do not complete this application.".
+9 NAME—the name of the applicant giving the first and last name in
+10 full, the middle name in full or the middle initial, and the maiden name
+11 of the applicant, if applicable.
+12 RESIDENCE—the name and number of the street, avenue, or other
+13 location of the dwelling where the applicant resides if there is a
+14 number. If the registrant resides in a hotel, apartment, tenement house,
+15 or institution, such additional information shall be included as will
+16 give the exact location of such registrant's place of residence. If the
+17 registrant lives in an incorporated or unincorporated area not identified
+18 by the use of roads, road names, or house numbers, the registrant shall
+19 state the section, township, and range of his or her residence and the
+20 corporate name of the school district as described in section 79-405 in
+21 which he or she is located.
+22 POSTAL ADDRESS—the address at which the applicant receives mail if
+23 different from the residence address.
+24 ADDRESS OF LAST REGISTRATION—the name and number of the street,
+25 avenue, or other location of the dwelling from which the applicant last
+26 registered.
+27 TELEPHONE NUMBERS—the telephone numbers of the applicant. At the
+28 request of the applicant, a designation shall be made that a telephone
+29 number is an unlisted number, and such designation shall preclude the
+30 listing of such telephone number on any list of voter registrations.
+31 EMAIL ADDRESS—an email address of the applicant. At the request of
+-12-
+LB541 LB541
+2025 2025
+1 the applicant, a designation shall be made that the email address is
+2 private, and such designation shall preclude the listing of the
+3 applicant's email address on any list of voter registrations.
+4 DRIVER'S LICENSE NUMBER OR LAST FOUR DIGITS OF SOCIAL SECURITY
+5 NUMBER—if the applicant has a Nebraska driver's license, the license
+6 number, and if the applicant does not have a Nebraska driver's license,
+7 the last four digits of the applicant's social security number.
+8 DATE OF APPLICATION FOR REGISTRATION—the month, day, and year when
+9 the applicant presented himself or herself for registration, or when the
+10 applicant completed and signed the registration application if the
+11 application was submitted by mail or delivered to the election official
+12 by the applicant's personal messenger or personal agent, or when the
+13 completed application was submitted if the registration application was
+14 completed pursuant to section 32-304.
+15 PLACE OF BIRTH—show the state, country, kingdom, empire, or dominion
+16 where the applicant was born.
+17 DATE OF BIRTH—show the date of the applicant's birth. The applicant
+18 shall be at least eighteen years of age or attain eighteen years of age
+19 on or before the first Tuesday after the first Monday in November to have
+20 the right to register and vote in any election in the present calendar
+21 year.
+22 REGISTRATION TAKEN BY—show the signature of the authorized official
+23 or staff member accepting the application pursuant to section 32-309 or
+24 32-310 or at least one of the deputy registrars taking the application
+25 pursuant to section 32-306, if applicable.
+26 PARTY AFFILIATION—show the party affiliation of the applicant as
+27 Democratic, Republican, or Other ........ or show no party affiliation as
+28 Nonpartisan. (Note: If you wish to vote in both partisan and nonpartisan
+29 primary elections for state and local offices, you must indicate a
+30 political party affiliation on the registration application. If you
+31 register without a political party affiliation (nonpartisan), you will
+-13-
+LB541 LB541
+2025 2025
+1 receive only the nonpartisan ballots for state and local offices at
+2 primary elections. If you register without a political party affiliation,
+3 you may vote in partisan primary elections for congressional offices.)
+4 OTHER—information the Secretary of State determines will assist in
+5 the proper and accurate registration of the voter.
+6 Immediately following the spaces for inserting information as
+7 provided in this section, the following statement shall be printed:
+8 To the best of my knowledge and belief, I declare under penalty of
+9 election falsification that:
+10 (1) I live in the State of Nebraska at the address provided in this
+11 application;
+12 (2) I have not been convicted of a felony or, if convicted, I have
+13 completed my sentence for the felony, including any parole term;
+14 (3) I have not been officially found to be non compos mentis
+15 (mentally incompetent); and
+16 (4) I am a citizen of the United States.
+17 Any registrant who signs this application knowing that any of the
+18 information in the application is false shall be guilty of a Class IV
+19 felony under section 32-1502 of the statutes of Nebraska. The penalty for
+20 a Class IV felony is up to two years imprisonment and twelve months post-
+21 release supervision, a fine of up to ten thousand dollars, or both.
+22 APPLICANT'S SIGNATURE—require the applicant to affix his or her
+23 signature to the application.
+24 Sec. 13. Section 32-312.05, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 32-312.05 The date that a person's voter registration record or an
+27 update of his or her voter registration record becomes effective is the
+28 date the person presented himself or herself in person to register, the
+29 date the registration application was delivered to the election
+30 commissioner or county clerk, or the date the registration application
+31 was received by the election commissioner or county clerk if the person
+-14-
+LB541 LB541
+2025 2025
+1 submitted the registration application by mail or pursuant to section
+2 32-304 or 32-308.
+3 Sec. 14. Section 32-315, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 32-315 Upon receiving a completed voter registration application
+6 pursuant to section 32-308 , 32-309, or 32-310 indicating that a voter
+7 who is registered in the county has changed his or her name or moved to
+8 another residence within the same county, the election commissioner or
+9 county clerk shall change the voter registration record of the registered
+10 voter to the new name or new address and shall send an acknowledgment
+11 card to the registered voter indicating that the change of registration
+12 has been completed and the address of the voter's new polling place.
+13 Sec. 15. Section 32-320, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 32-320 The only mail-in forms which may be used to register to vote
+16 shall be the official registration application prescribed by the
+17 Secretary of State or the national mail voter registration application
+18 prescribed by the federal Election Assistance Commission. The Secretary
+19 of State shall provide such official registration applications to all
+20 recruitment offices of the United States Armed Forces in the State of
+21 Nebraska. The counties and state agencies listed in section 32-310 shall
+22 purchase such official registration applications from the Secretary of
+23 State. The Secretary of State shall remit proceeds from the sale of such
+24 applications to the State Treasurer for credit to the Election
+25 Administration Fund.
+26 Sec. 16. Section 32-321, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 32-321 (1) Any elector may request a voter registration application
+29 from the office of the Secretary of State or the election commissioner or
+30 county clerk. The Secretary of State and the election commissioner or
+31 county clerk shall make registration applications prescribed by the
+-15-
+LB541 LB541
+2025 2025
+1 Secretary of State available and may place the applications in public
+2 places. The Secretary of State and the election commissioner or county
+3 clerk may require that all unused applications be returned to his or her
+4 office and may place reasonable limits on the amount of applications
+5 requested.
+6 (2) If an elector returns the completed application to the office of
+7 the Secretary of State or submits an application to the Secretary of
+8 State pursuant to section 32-304, the office shall deliver the
+9 application to the election commissioner or county clerk of the county in
+10 which the elector resides not later than ten days after receipt by the
+11 office, except that if the application is returned to the office or
+12 submitted pursuant to section 32-304 within five days prior to the third
+13 Friday preceding any election, it shall be delivered not later than five
+14 days after the date it is returned. The deadline for returning a
+15 completed application to the office of the Secretary of State or
+16 submitting an application pursuant to section 32-304 is the close of
+17 business on the third Friday preceding an election to be registered to
+18 vote at such election. A registration application received after the
+19 deadline shall not be processed by the election commissioner or county
+20 clerk until after the election. The office of the Secretary of State
+21 shall be a designated voter registration agency for purposes of section 7
+22 of the National Voter Registration Act of 1993, 42 U.S.C. 1973gg-5, as
+23 such section existed on March 11, 2008.
+24 (3) The elector shall also present valid photographic identification
+25 to the election commissioner or county clerk of the county in which the
+26 elector resides. If an elector mails the registration application to the
+27 election commissioner or county clerk:
+28 (a)(i) The application shall be postmarked on or before the third
+29 Friday before the next election; or
+30 (ii) The application shall be received not later than the second
+31 Tuesday before the next election if the postmark is unreadable; and
+-16-
+LB541 LB541
+2025 2025
+1 (b) The application shall be processed by the election office as a
+2 proper registration for the voter to be entitled to vote on the day of
+3 the next election.
+4 (4) If the registration application arrives after the registration
+5 deadline, the application shall not be processed until after the
+6 election. Written notice shall be given to any applicant whose
+7 registration application failed to meet the registration deadline or was
+8 found to be incorrect or incomplete and shall state the specific reason
+9 for rejection. If the application is incomplete, the election
+10 commissioner or county clerk shall notify the applicant of the failure to
+11 provide the required information, including failure to provide valid
+12 photographic identification if required, and provide the applicant with
+13 the opportunity to submit an identification document as described in
+14 section 32-318.01 prior to the deadline for voter registration or to
+15 complete and submit a corrected registration application in a timely
+16 manner to allow for the proper registration of the applicant prior to the
+17 next election. All postage costs related to returning registration
+18 applications to the election commissioner or county clerk shall be paid
+19 by the registrant.
+20 Sec. 17. Section 32-323, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 32-323 Registration pursuant to section 32-304 or 32-308 or by mail
+23 shall not constitute a valid registration for purposes of signing any
+24 type of petition requiring the validation of the signatures of registered
+25 voters until a complete and correct registration application has been
+26 received by the election commissioner or county clerk and the applicant
+27 has presented valid photographic identification. A signature on a
+28 petition shall be considered a valid signature as of the date that the
+29 election commissioner or county clerk receives the registration
+30 application of the registrant and the registrant has presented valid
+31 photographic identification.
+-17-
+LB541 LB541
+2025 2025
+1 Sec. 18. Section 32-325, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 32-325 (1) A registration application completed and signed by a
+4 registered voter seeking to update his or her voter registration record
+5 shall be completed in person at or delivered or mailed to the office of
+6 the election commissioner or county clerk or submitted pursuant to
+7 section 32-304 to the Secretary of State. To avoid additional
+8 requirements at the polling place pursuant to section 32-914.01,
+9 32-914.02, or 32-915, an application to update a voter registration
+10 record must be:
+11 (a) Completed or delivered by the applicant in person at the office
+12 of the election commissioner or county clerk on or before the deadline
+13 prescribed in section 32-302; or
+14 (b) Delivered by a personal messenger or personal agent , submitted
+15 pursuant to section 32-304, or mailed so that it is received by the
+16 election commissioner or county clerk on or before the deadline
+17 prescribed in section 32-321.
+18 (2) After verifying the signature on the previous registration of
+19 the registered voter, the election commissioner or county clerk shall
+20 make the change of name, party affiliation, or address on all pertinent
+21 election records. The election commissioner or county clerk shall send an
+22 acknowledgment card to the registered voter indicating that the change of
+23 registration has been completed and shall include the address of the
+24 registered voter's new polling place.
+25 Sec. 19. Section 32-806, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 32-806 All official ballots prepared for elections conducted
+28 pursuant to the Election Act shall have a covert watermark that
+29 identifies the ballot as an official Nebraska ballot and shall be white
+30 in color, except that the election commissioner, county clerk, or city or
+31 village clerk may designate a distinctive color of ballot or ink for
+-18-
+LB541 LB541
+2025 2025
+1 city, village, or school elections or, when authorized by the Secretary
+2 of State, for elections of any other political subdivision. If a
+3 distinctive color is designated, the color of the ballot shall not be the
+4 same as the sample ballots as provided in section 32-804. The style and
+5 size of type on official ballots shall be as close as possible to the
+6 style used on the ballots furnished by the Secretary of State.
+7 Sec. 20. Section 32-808, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 32-808 (1) Except as otherwise provided in section 32-939.02,
+10 ballots for early voting to be mailed pursuant to section 32-941 shall be
+11 ready for delivery to registered voters not more than twenty-two at least
+12 thirty-five days prior to each statewide primary or general election and
+13 at least fifteen days prior to all other elections.
+14 (2) The election commissioner or county clerk shall not mail or
+15 issue any ballot for early voting if the election to which such ballot
+16 pertains has already been held.
+17 (3) The election commissioner or county clerk shall publish in a
+18 newspaper of general circulation in the county an application form to be
+19 used by registered voters in making an application for a ballot for early
+20 voting after the ballots become available. The application form shall
+21 include the reasons a voter is permitted to apply for a ballot for early
+22 voting pursuant to section 32-938. The publication of the application
+23 shall not be required if the election is held by mail pursuant to
+24 sections 32-952 to 32-959.
+25 Sec. 21. Section 32-902, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 32-902 (1) The election commissioner or county clerk shall cause
+28 instructions for the guidance of registered voters in preparing their
+29 ballots to be printed in large, clear type on cards in English. He or she
+30 shall furnish at least five such cards to each polling place in each
+31 precinct at the same time and in the same manner as the printed ballots.
+-19-
+LB541 LB541
+2025 2025
+1 The judges or clerks of election shall post such cards in each voting
+2 booth on the day of election. The card shall contain full instructions on
+3 preparing and casting ballots, including how to cast a write-in vote. The
+4 form and contents of the cards shall be approved by the Secretary of
+5 State.
+6 (2) The election commissioner or county clerk shall cause voting
+7 information to be posted in each polling place on the day of election.
+8 The voting information shall include the following information as
+9 approved by the Secretary of State:
+10 (a) Information regarding the date of the election and the hours
+11 during which polling places will be open;
+12 (b) Instructions for voters who registered to vote pursuant to
+13 section 32-304 or by mail and first-time voters;
+14 (c) General information on voting rights under applicable federal
+15 and state laws, including information on the right of an individual to
+16 cast a provisional ballot and instructions on how to contact the
+17 appropriate officials if these rights are alleged to have been violated;
+18 and
+19 (d) General information on federal and state laws regarding
+20 prohibitions on acts of fraud and misrepresentation.
+21 Sec. 22. Section 32-938, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 32-938 (1) For elections that are not conducted by mail pursuant to
+24 sections 32-952 to 32-960, a A registered voter shall be permitted to
+25 vote early by requesting a ballot for early voting pursuant to section
+26 32-941 or 32-943 for any one of the following reasons: .
+27 (a) The registered voter expects to be absent from his or her county
+28 at the time the election is to be held;
+29 (b) The registered voter will be eighty years of age or older on the
+30 day of the election;
+31 (c) The registered voter is physically unable to go to the polling
+-20-
+LB541 LB541
+2025 2025
+1 place;
+2 (d) The registered voter will be unable to go to the polling place
+3 on the day of the election due to his or her hospitalization for medical
+4 or surgical treatment;
+5 (e) The registered voter will be unable to go to the polling place
+6 on the day of the election because the voter is the caretaker of a person
+7 who is hospitalized, ill, or disabled;
+8 (f) The registered voter cannot go to the polling place on the day
+9 of the election because of the tenets of his or her religion;
+10 (g) The registered voter will be unable to go to the polling place
+11 on the day of the election because he or she is confined by public order
+12 under the laws of (i) this state, (ii) any other state or territory of
+13 the United States or the District of Columbia, or (iii) the United
+14 States;
+15 (h) The registered voter is legally blind;
+16 (i) The registered voter has requested that his or her residence
+17 address remain confidential under section 32-331;
+18 (j) The registered voter may be unable to vote in person due to jury
+19 duty; or
+20 (k) The registered voter is a Nebraska resident and (i) a member of
+21 the armed forces of the United States or a spouse or dependent of such
+22 member, (ii) a citizen temporarily residing outside the United States or
+23 of the District of Columbia, or (iii) and overseas citizen.
+24 (2) Any person excluded from voting under section 32-313 or 32-314
+25 shall not be allowed to receive a ballot for early voting.
+26 (3) Any person who fails to register to vote by the voter
+27 registration deadline shall not be allowed to vote except as provided in
+28 section 32-940 or 32-941.
+29 Sec. 23. Section 32-941, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 32-941 (1) Any registered voter who is permitted to vote early
+-21-
+LB541 LB541
+2025 2025
+1 pursuant to section 32-938 and who has presented valid photographic
+2 identification to the election commissioner or county clerk may, not more
+3 than one hundred twenty days before any election and not later than the
+4 close of business on the second Friday preceding the election, request a
+5 ballot for the election to be mailed to a specific address at which the
+6 voter has access to mail. A registered voter shall request a ballot in
+7 writing to the election commissioner or county clerk in the county where
+8 the registered voter has established his or her home, shall indicate his
+9 or her residence address, the address to which the ballot is to be mailed
+10 if different, and his or her telephone number if available, and the
+11 reason the voter is requesting the ballot as permitted in section 32-938,
+12 and shall include:
+13 (a) The identification number of the voter's driver's license or
+14 state identification card issued by the State of Nebraska;
+15 (b) A photocopy of any other valid photographic identification
+16 issued to or related to the voter; or
+17 (c) The voter's reasonable impediment certification.
+18 (2) If the identification number of the voter's driver's license or
+19 state identification card issued by the State of Nebraska is provided,
+20 the election commissioner or county clerk shall verify the driver's
+21 license or state identification card data with the information provided
+22 by the Department of Motor Vehicles pursuant to section 32-308.
+23 (3) If such identification or certification is not provided or
+24 cannot be verified, the election commissioner or county clerk shall
+25 contact the voter and inform the voter that the ballot will not be issued
+26 until the voter provides the identification or certification required
+27 under this section.
+28 (4) The registered voter may use the form published by the election
+29 commissioner or county clerk pursuant to section 32-808. The registered
+30 voter shall sign the request. A registered voter may use a facsimile
+31 machine or electronic mail for the submission of a request for a ballot.
+-22-
+LB541 LB541
+2025 2025
+1 (5) The election commissioner or county clerk shall include a
+2 registration application with the ballots if the person is not
+3 registered. Registration applications shall not be mailed after the third
+4 Friday preceding the election. If the person is not registered to vote,
+5 the registration application shall be returned not later than the closing
+6 of the polls on the day of the election. No ballot issued under this
+7 section shall be counted unless such registration application is properly
+8 completed and processed.
+9 (5) (6) Subdivisions (1)(a) through (c) of this section do not apply
+10 to any voter who casts a ballot pursuant to section 32-939.02 or
+11 32-939.03.
+12 Sec. 24. Section 32-942, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 32-942 (1)(a) A registered voter of this state who anticipates being
+15 absent from the county of his or her residence on the day of any election
+16 may appear in person before the election commissioner or county clerk not
+17 more than thirty days prior to the day of election for a statewide
+18 primary or general election, and not more than fifteen days prior to the
+19 election for all other elections, present valid photographic
+20 identification, and obtain his or her ballot unless otherwise entitled to
+21 vote in the office under section 32-915.03. The registered voter shall
+22 vote the ballot in the office of the election commissioner or county
+23 clerk or shall return the ballot to the office not later than the closing
+24 of the polls on the day of the election.
+25 (b) A registered voter who is present in the county on the day of
+26 the election and who chooses to vote on the day of the election shall
+27 vote at the polling place assigned to the precinct in which he or she
+28 resides unless he or she is returning a ballot for early voting or voting
+29 pursuant to section 32-943.
+30 (2) If a person registers to vote and requests a ballot at the same
+31 time under this section, he or she shall, in addition to the requirements
+-23-
+LB541 LB541
+2025 2025
+1 of subsection (1) of this section, (a)(i) present one of the address
+2 confirmation documents as prescribed in subdivision (1)(a) of section
+3 32-318.01, (ii) present proof that he or she is a member of the armed
+4 forces of the United States who by reason of active duty has been absent
+5 from his or her place of residence where the member is otherwise eligible
+6 to vote, is a member of the United States Merchant Marine who by reason
+7 of service has been away from his or her place of residence where the
+8 member is otherwise eligible to vote, is a spouse or dependent of a
+9 member of the armed forces of the United States or United States Merchant
+10 Marine who has been absent from his or her place of residence due to the
+11 service of that member, or resides outside the United States and but for
+12 such residence would be qualified to vote in the state if the state was
+13 the last place in which the person was domiciled before leaving the
+14 United States, or (iii) state that he or she is elderly or handicapped
+15 and has requested to vote by alternative means other than by casting a
+16 ballot at his or her polling place on election day or (b) vote a ballot
+17 which is placed in an envelope with the voter's name and address and
+18 other necessary identifying information and kept securely for counting as
+19 provided in this subsection. This subsection does not extend the deadline
+20 for voter registration specified in section 32-302. A ballot cast
+21 pursuant to subdivision (b) of this subsection shall be rejected and
+22 shall not be counted if the acknowledgment of registration sent to the
+23 registrant pursuant to section 32-322 is returned as undeliverable for a
+24 reason other than clerical error within ten days after it is mailed,
+25 otherwise after such ten-day period, the ballot shall be counted.
+26 (3) This section applies only to a person who appears in person to
+27 obtain a ballot as provided in subsection (1) of this section and does
+28 not apply to a ballot mailed to a voter pursuant to section 32-945.
+29 Sec. 25. Section 32-943, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 32-943 (1) Any registered voter who is permitted to vote early
+-24-
+LB541 LB541
+2025 2025
+1 pursuant to section 32-938 and who has presented valid photographic
+2 identification to the election commissioner or county clerk may appoint
+3 an agent to (a) submit a request for a ballot for early voting on his or
+4 her behalf of such voter or (b) return a ballot to the election
+5 commissioner or county clerk on behalf of such voter. The registered
+6 voter or his or her agent may request that the ballot be sent to the
+7 registered voter by mail or indicate on the request that the agent will
+8 personally pick up the ballot for such registered voter from the office
+9 of the election commissioner or county clerk.
+10 (2) A registered voter or an agent acting on behalf of a registered
+11 voter shall request a ballot in writing to the election commissioner or
+12 county clerk in the county where the registered voter has established his
+13 or her residence, shall indicate the voter's residence address, the
+14 address to which the ballot is to be mailed if different, and the voter's
+15 telephone number if available and precinct if known, and shall:
+16 (a) Present a valid photographic identification of the voter; or
+17 (b) Include, with the request:
+18 (i) The identification number of the voter's driver's license or
+19 state identification card issued by the State of Nebraska;
+20 (ii) A photocopy of valid photographic identification issued to or
+21 related to the voter; or
+22 (iii) The voter's reasonable impediment certification. The
+23 certification shall be verified pursuant to section 32-1002.01.
+24 (3) (2) The registered voter or the voter's agent may use the form
+25 published by the election commissioner or county clerk pursuant to
+26 section 32-808. The registered voter or his or her agent shall sign the
+27 request.
+28 (4) (3) A candidate for office at such election and any person
+29 serving on a campaign committee for such a candidate shall not act as an
+30 agent for any registered voter requesting a ballot pursuant to this
+31 section unless such person is a member of the registered voter's family.
+-25-
+LB541 LB541
+2025 2025
+1 The employer of a registered voter shall not act as an agent for the
+2 registered voter requesting a ballot pursuant to this section unless the
+3 employer is a member of the registered voter's family. No agent of such
+4 an employer shall act as an agent pursuant to this section for any
+5 employee of such employer unless the agent is a member of the registered
+6 voter's family. No person shall act as agent for more than two registered
+7 voters in any election.
+8 (5) (4) The agent shall pick up the ballot before one hour prior to
+9 the closing of the polls on election day and deliver the ballot to the
+10 registered voter. The ballot shall be returned not later than the closing
+11 of the polls on the day of the election and shall be returned in an
+12 identification envelope as provided in section 32-947.
+13 (6) (5) The election commissioner or county clerk shall adopt
+14 procedures for the distribution of ballots under this section.
+15 (7) (6) Subdivisions (2)(a) (1)(a) and (b) of this section do not
+16 apply to any voter who casts a ballot pursuant to section 32-939.02 or
+17 32-939.03.
+18 Sec. 26. Section 32-947, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 32-947 (1) Upon receipt of an application or other request for a
+21 ballot to vote early, the election commissioner or county clerk shall
+22 determine whether the applicant is a registered voter and is entitled to
+23 vote as requested. If the election commissioner or county clerk
+24 determines that the applicant is a registered voter entitled to vote
+25 early and the application was received not later than the close of
+26 business on the second Friday preceding the election, the election
+27 commissioner or county clerk shall deliver a ballot to the applicant in
+28 person or by nonforwardable first-class mail, postage paid. The election
+29 commissioner or county clerk or any employee of the election commissioner
+30 or county clerk shall write or cause to be affixed his or her customary
+31 signature or initials on the ballot.
+-26-
+LB541 LB541
+2025 2025
+1 (2) An unsealed identification envelope shall be delivered with the
+2 ballot, and upon the back of the envelope shall be printed a form
+3 substantially as follows:
+4 VOTER'S OATH
+5 I, the undersigned voter, declare that the enclosed ballot or
+6 ballots contained no voting marks of any kind when I received them, and I
+7 caused the ballot or ballots to be marked, enclosed in the identification
+8 envelope, and sealed in such envelope.
+9 To the best of my knowledge and belief, I declare under penalty of
+10 election falsification that:
+11 (a) I, .................., am a registered voter
+12 in .................. County;
+13 (b) I reside in the State of Nebraska at ..................;
+14 (c) I have voted the enclosed ballot and am returning it in
+15 compliance with Nebraska law; and
+16 (d) I have not voted and will not vote in this election except by
+17 this ballot; and .
+18 (e) I am permitted to apply for a ballot to vote early for the
+19 following reason:
+20 (Applicant must check the true statement concerning his or her
+21 reason for voting a ballot for early voting.)
+22 . . . I will be absent from the county at the time of the election.
+23 . . . I will be eighty years of age or older on the date of the
+24 election.
+25 . . . I am physically unable to go to the polling place.
+26 . . . I will be unable to go to the polling place on the day of
+27 election because of hospitalization.
+28 . . . I will be unable to go to the polling place on the day of the
+29 election because I am the caretaker of a person who is hospitalized, ill,
+30 or disabled.
+31 . . . I cannot go to the polling place on the day of the election
+-27-
+LB541 LB541
+2025 2025
+1 because of the tenets of my religion.
+2 . . . I will be unable to go to the polling place on the day of the
+3 election because of confinement by public order.
+4 . . . I am legally blind.
+5 . . . I have requested that my residence address remain confidential
+6 pursuant to law.
+7 . . . I may be unable to vote in person due to jury duty.
+8 . . . I am a Nebraska resident and (i) a member of the armed forces
+9 of the United States or a spouse or dependent of such member, (ii) a
+10 citizen temporarily residing outside the United States or of the District
+11 of Columbia, or (iii) an overseas citizen.
+12 ANY PERSON WHO SIGNS THIS FORM KNOWING THAT ANY OF THE INFORMATION
+13 IN THE FORM IS FALSE SHALL BE GUILTY OF ELECTION FALSIFICATION, A CLASS
+14 IV FELONY UNDER SECTION 32-1502 OF THE STATUTES OF NEBRASKA. THE PENALTY
+15 FOR ELECTION FALSIFICATION IS IMPRISONMENT FOR UP TO TWO YEARS AND TWELVE
+16 MONTHS POST-RELEASE SUPERVISION OR A FINE NOT TO EXCEED TEN THOUSAND
+17 DOLLARS, OR BOTH.
+18 I also understand that failure to sign below will invalidate my
+19 ballot.
+20 Signature ........................................
+21 (3) If the ballot and identification envelope will be returned by
+22 mail or by someone other than the voter, the election commissioner or
+23 county clerk shall include with the ballot an identification envelope
+24 upon the face of which shall be printed the official title and post
+25 office address of the election commissioner or county clerk.
+26 (4) The election commissioner or county clerk shall also enclose
+27 with the ballot materials:
+28 (a) A registration application, if the election commissioner or
+29 county clerk has determined that the applicant is not a registered voter
+30 pursuant to section 32-945, with instructions that failure to return the
+31 completed and signed application indicating the residence address as it
+-28-
+LB541 LB541
+2025 2025
+1 appears on the voter's request for a ballot to the election commissioner
+2 or county clerk by the close of the polls on election day will result in
+3 the ballot not being counted;
+4 (b) A registration application and the oath pursuant to section
+5 32-946, if the voter is without a residence address, with instructions
+6 that the residence address of the voter shall be deemed that of the
+7 office of the election commissioner or county clerk of the county of the
+8 voter's prior residence and that failure to return the completed and
+9 signed application and oath to the election commissioner or county clerk
+10 by the close of the polls on election day will result in the ballot not
+11 being counted; or
+12 (c) Written instructions directing the voter to submit a copy of an
+13 identification document pursuant to section 32-318.01 if the voter is
+14 required to present identification under such section and advising the
+15 voter that failure to submit identification to the election commissioner
+16 or county clerk by the close of the polls on election day will result in
+17 the ballot not being counted.
+18 (5) The election commissioner or county clerk may enclose with the
+19 ballot materials a separate return envelope for the voter's use in
+20 returning his or her identification envelope containing the voted ballot,
+21 registration application, and other materials that may be required.
+22 Sec. 27. Section 32-950.01, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 32-950.01 (1) If an election commissioner or county clerk maintains
+25 a secure ballot drop-box for voters to deposit completed ballots, the
+26 election commissioner or county clerk shall ensure that the secure ballot
+27 drop-box:
+28 (a) Is conspicuously marked as a secure ballot drop-off location and
+29 placed in a well-lit and easily accessible location;
+30 (b) Is under video surveillance at all times;
+31 (c) (a) Is securely fastened to the ground or a concrete slab
+-29-
+LB541 LB541
+2025 2025
+1 connected to the ground;
+2 (d) (b) Is tamper-resistant and secured by a lock that can only be
+3 opened by the election commissioner or county clerk or by an election
+4 official designated by the election commissioner or county clerk; and
+5 (e) (c) Complies with the federal Americans with Disabilities Act of
+6 1990 and is accessible as determined by the election commissioner or
+7 county clerk.
+8 (2) The election commissioner or county clerk shall inform the
+9 Secretary of State of each secure ballot drop-box's location no later
+10 than forty-two days prior to any statewide primary or general election.
+11 (3)(a) The election commissioner or county clerk or an election
+12 official designated by the election commissioner or county clerk shall
+13 examine each secure ballot drop-box at least thirty days prior to each
+14 election for which the drop-box will be accessible to make sure:
+15 (i) The mechanism for depositing ballots is working correctly;
+16 (ii) The drop-box interior is clean and in good condition; and
+17 (iii) The drop-box exterior and signage are clean and in good
+18 condition, both physically and cosmetically.
+19 (b) Any person who examines a secure ballot drop-box shall notify
+20 the election commissioner or county clerk regarding concerns or defects,
+21 and the election commissioner or county clerk shall immediately provide
+22 for repairs or resolution. Repairs shall be completed no later than the
+23 sixth Friday prior to any statewide primary or general election and no
+24 later than the fourth Friday prior to any special election.
+25 (4) The election commissioner or county clerk shall post a sign on
+26 or near each secure ballot drop-box indicating that the drop-box is under
+27 twenty-four-hour video surveillance.
+28 (5) (3) Except for a secure ballot drop-box for an election
+29 conducted under section 32-960, the election commissioner or county clerk
+30 or an election official designated by the election commissioner or county
+31 clerk shall open each secure ballot drop-box no later than the sixth
+-30-
+LB541 LB541
+2025 2025
+1 Friday prior to any statewide primary or general election and no later
+2 than the fourth Friday prior to any special election. For any statewide
+3 primary or general election, each secure ballot drop-box shall remain
+4 accessible to voters until the deadline for the receipt of ballots as
+5 provided in section 32-908. For any special election, at least one secure
+6 ballot drop-box shall remain accessible to voters until the deadline for
+7 the receipt of ballots as provided in section 32-954.
+8 (6) (4) After a secure ballot drop-box is made available for
+9 depositing ballots, the election commissioner or county clerk shall
+10 ensure that ballots deposited in such secure ballot drop-box are
+11 collected and returned to the office of the election commissioner or
+12 county clerk at least once during each business day.
+13 (7) Immediately upon the deadline for receipt of ballots, the
+14 election commissioner or county clerk or an election official designated
+15 by the election commissioner or county clerk shall (a) close each secure
+16 ballot drop-box in such a way that ballots may not be deposited after
+17 such deadline for deposit has passed and (b) cause the drop-box to remain
+18 closed until the next election at which it will be used.
+19 (8) The election commissioner or county clerk shall install a video
+20 recording device for each secure ballot drop-box. The recordings shall
+21 capture the location of such drop-box and evidence the date and time of
+22 each such recording beginning on the thirtieth day preceding an election
+23 until the last retrieval of ballots from such drop-box at the close of
+24 the polls at such election. Each such recording shall immediately be made
+25 publicly available from the date of recording, but in no case later than
+26 five days after such last retrieval of ballots, without the necessity of
+27 a subpoena or other legal proceedings. The election commissioner or
+28 county clerk shall retain each such recording for a period of twenty-two
+29 months and may destroy the recording at the end of such period, except
+30 that such period may be extended as necessary in response to a pending
+31 investigation, an order of the Secretary of State, or an order of a court
+-31-
+LB541 LB541
+2025 2025
+1 of competent jurisdiction.
+2 Sec. 28. Section 32-960, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 32-960 (1) In any county with a population of less than ten thousand
+5 inhabitants, the county clerk may apply to the Secretary of State to mail
+6 ballots for all elections held after approval of the application to
+7 registered voters of any or all of the precincts in the county. The
+8 application shall include a written plan for the conduct of the election
+9 which complies with this section, including a timetable for the conduct
+10 of the election and provisions for the notice of election to be published
+11 and for the application for ballots for early voting notwithstanding
+12 other statutory provisions regarding the content and publication of a
+13 notice of election or the application for ballots for early voting. If
+14 the Secretary of State approves such application for one or more
+15 precincts in the county, the county clerk shall follow the applicable
+16 procedures in sections 32-953 to 32-959 for conducting elections by mail,
+17 except that the deadline for receipt of the ballots shall be the deadline
+18 specified in subsection (2) of section 32-908.
+19 (2) The county clerk of a county that has an approved application
+20 pursuant to subsection (1) of this section:
+21 (a) Shall allow a voter to return the ballot by hand-delivering it
+22 to the office of the county clerk;
+23 (b) Shall maintain at least one secure ballot drop-box available for
+24 voters to deposit completed ballots twenty-four hours per day, starting
+25 at least ten days before the election through the deadline provided in
+26 subsection (1) of this section for the receipt of ballots;
+27 (c) Shall maintain at least one in-person voting location at the
+28 office of the county clerk at which a voter in a precinct subject to a
+29 plan under this section approved by the Secretary of State may receive
+30 and cast a ballot which shall be open on the day of the election from the
+31 time for opening the polls pursuant to section 32-908 through the
+-32-
+LB541 LB541
+2025 2025
+1 deadline provided in subsection (1) of this section for the receipt of
+2 ballots;
+3 (d) Shall maintain in-person early voting opportunities as described
+4 in section 32-942; and
+5 (e) May provide additional secure ballot drop-boxes and in-person
+6 voting locations in addition that need not be open according to the
+7 requirements of subdivisions (b) and (c) of this subsection.
+8 Sec. 29. Section 32-1002, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-1002 (1) As the ballots are removed from the ballot box pursuant
+11 to sections 32-1012 to 32-1018, the receiving board shall separate the
+12 envelopes containing the provisional ballots from the rest of the ballots
+13 and deliver them to the election commissioner or county clerk.
+14 (2) Upon receipt of a provisional ballot, the election commissioner
+15 or county clerk shall verify that the certificate on the front of the
+16 envelope or the form attached to the envelope is in proper form and that
+17 the certification has been signed by the voter.
+18 (3) The election commissioner or county clerk shall also (a) verify
+19 that such person has not voted anywhere else in the county or been issued
+20 a ballot for early voting, (b) investigate whether any credible evidence
+21 exists that the person was properly registered to vote in the county
+22 before the deadline for registration for the election, (c) investigate
+23 whether any information has been received pursuant to section 32-308,
+24 32-309, 32-310, or 32-324 that the person has resided, registered, or
+25 voted in any other county or state since registering to vote in the
+26 county, and (d) upon determining that credible evidence exists that the
+27 person was properly registered to vote in the county, make the
+28 appropriate changes to the voter registration register by entering the
+29 information contained in the registration application completed by the
+30 voter at the time of voting a provisional ballot.
+31 (4) A provisional ballot cast by a voter pursuant to section 32-915
+-33-
+LB541 LB541
+2025 2025
+1 shall be counted if:
+2 (a) Credible evidence exists that the voter was properly registered
+3 in the county before the deadline for registration for the election;
+4 (b) The voter has resided in the county continuously since
+5 registering to vote in the county;
+6 (c) The voter has not voted anywhere else in the county or has not
+7 otherwise voted early using a ballot for early voting;
+8 (d) The voter has completed a registration application prior to
+9 voting as prescribed in subsection (6) of this section and:
+10 (i) The residence address provided on the registration application
+11 completed pursuant to subdivision (1)(e) of section 32-915 is located
+12 within the precinct in which the person voted; and
+13 (ii) If the voter is voting in a primary election, the party
+14 affiliation provided on the registration application completed prior to
+15 voting the provisional ballot is the same party affiliation that appears
+16 on the voter's voter registration record based on his or her previous
+17 registration application; and
+18 (e) The certification on the front of the envelope or form attached
+19 to the envelope is in the proper form and signed by the voter.
+20 (5) A provisional ballot cast by a voter pursuant to section 32-915
+21 shall not be counted if:
+22 (a) The voter was not properly registered in the county before the
+23 deadline for registration for the election;
+24 (b) Information has been received pursuant to section 32-308,
+25 32-309, 32-310, or 32-324 that the voter has resided, registered, or
+26 voted in any other county or state since registering to vote in the
+27 county in which he or she cast the provisional ballot;
+28 (c) Credible evidence exists that the voter has voted elsewhere or
+29 has otherwise voted early;
+30 (d) The voter failed to complete and sign a registration application
+31 pursuant to subsection (6) of this section and subdivision (1)(e) of
+-34-
+LB541 LB541
+2025 2025
+1 section 32-915;
+2 (e) The residence address provided on the registration application
+3 completed pursuant to subdivision (1)(e) of section 32-915 is in a
+4 different county or in a different precinct than the county or precinct
+5 in which the voter voted;
+6 (f) If the voter is voting in a primary election, the party
+7 affiliation on the registration application completed prior to voting the
+8 provisional ballot is different than the party affiliation that appears
+9 on the voter's voter registration record based on his or her previous
+10 registration application; or
+11 (g) The voter failed to complete and sign the certification on the
+12 envelope or form attached to the envelope pursuant to subsection (3) of
+13 section 32-915.
+14 (6) An error or omission of information on the registration
+15 application or the certification required under section 32-915 shall not
+16 result in the provisional ballot not being counted if:
+17 (a)(i) The errant or omitted information is contained elsewhere on
+18 the registration application or certification; or
+19 (ii) The information is not necessary to determine the eligibility
+20 of the voter to cast a ballot; and
+21 (b) Both the registration application and the certification are
+22 signed by the voter.
+23 (7) Upon determining that the voter's provisional ballot is eligible
+24 to be counted, the election commissioner or county clerk shall remove the
+25 ballot from the envelope without exposing the marks on the ballot and
+26 shall place the ballot with the ballots to be counted by the county
+27 canvassing board.
+28 (8) The election commissioner or county clerk shall notify the
+29 system administrator of the system created pursuant to section 32-202 as
+30 to whether the ballot was counted and, if not, the reason the ballot was
+31 not counted.
+-35-
+LB541 LB541
+2025 2025
+1 (9) The verification and investigation shall be completed within
+2 seven business days after the election.
+3 Sec. 30. (1) A hand count shall include only the actual voted paper
+4 ballots, physically marked by the actual voter or pursuant to section
+5 32-1016, and not the voter's choices reproduced via any electronic device
+6 or equipment, including, but not limited to, printers, except that any
+7 ballot voted by a person with disabilities using a machine to assist in
+8 marking the ballot shall be included in the hand count.
+9 (2) A hand count shall also include providing for (a) verification
+10 of the covert watermark and (b) the comparison and verification of the
+11 signature on the envelope holding a ballot for early voting with the
+12 signature on file with the election commissioner or county clerk for the
+13 respective voter who requested the ballot for early voting.
+14 Sec. 31. Section 32-1041, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 32-1041 (1) The election commissioner or county clerk may use
+17 optical-scan ballots or voting systems approved by the Secretary of State
+18 to allow registered voters to cast their votes at any election. The
+19 election commissioner or county clerk may (a) conduct a hand count or (b)
+20 use vote counting devices and voting systems approved as provided in
+21 subsection (3) of this section by the Secretary of State for tabulating
+22 the votes cast at any election. Vote counting devices shall include
+23 electronic counting devices such as optical scanners.
+24 (2) No electronic voting system shall be used under the Election
+25 Act.
+26 (3) The election commissioner or county clerk shall only use a Any
+27 new voting or counting system that is shall be approved prior to each
+28 statewide primary election by the Secretary of State, each election
+29 commissioner appointed by the Governor, one election commissioner chosen
+30 by rotation from each congressional district from the remaining counties
+31 that have a separate office of election commissioner, one county clerk
+-36-
+LB541 LB541
+2025 2025
+1 chosen by rotation from each congressional district from a county in
+2 which the county clerk also serves as the election commissioner, and an
+3 independent information technology company that is qualified to assess
+4 such system and that is not associated with any political party or the
+5 vendor of the system prior to use by an election commissioner or county
+6 clerk. The Secretary of State may adopt and promulgate rules and
+7 regulations to establish different procedures and locations for voting
+8 and counting votes pursuant to the use of the any new voting or counting
+9 system. The procedures shall be designed to preserve the secrecy, safety,
+10 and confidentiality of each vote cast and the secrecy and security and
+11 transparency of the counting process, to establish security provisions
+12 for the prevention of fraud and the prevention of interference by
+13 malicious actors, and to ensure that the election is conducted in a fair
+14 manner.
+15 Sec. 32. Section 32-1049, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 32-1049 Any election commissioner or county clerk using a vote
+18 counting device to count ballots in a centralized location shall:
+19 (1) Provide for the proper sealing of the containers and the
+20 security of the ballots when transported from each polling place to the
+21 centralized location and when removed from their containers and delivered
+22 to the personnel who operate the vote counting devices;
+23 (2) Provide a process of counting which allows for the ballots of
+24 each precinct to be placed in a sealed container and placed in a secure
+25 location after the counting process has been completed;
+26 (3) Provide for a method of overseeing the ballots that have been
+27 overvoted or damaged which does not involve judging voter intent to
+28 assure that these ballots have not been or will not be intentionally
+29 mismarked;
+30 (4) Provide for a procedure for counting write-in votes when such
+31 votes and names of write-in candidates are to be counted and recorded;
+-37-
+LB541 LB541
+2025 2025
+1 (5) Provide for at least three independent tests to be conducted
+2 before counting begins to verify the accuracy of the counting process,
+3 which includes the computerized program installed for counting various
+4 ballots by vote counting devices, by (a) the election commissioner or
+5 county clerk, (b) the chief deputy election commissioner or a registered
+6 voter with a different party affiliation than that of the election
+7 commissioner or county clerk, and (c) the person who installed the
+8 program in the vote counting device or the person in charge of operating
+9 the device;
+10 (6) Provide for storing and safeguarding the magnetic tapes or
+11 computer chips of the vote counting devices for the required period of
+12 time;
+13 (7) Provide the appropriate security personnel or measures necessary
+14 to safeguard the secrecy and security of the counting process;
+15 (8) Develop a procedure for picking up and counting ballots during
+16 election day at the discretion of the election commissioner or county
+17 clerk. No report or tabulation of vote totals for such ballots shall be
+18 produced or generated prior to one hour before the closing of the polls;
+19 (9) Develop a procedure for picking up and transporting ballots from
+20 a secure ballot drop-box to the office of the election commissioner or
+21 county clerk; and
+22 (10) Submit a written plan to the Secretary of State specifically
+23 outlining the procedures that will be followed on election day to
+24 implement this section. The plan shall be submitted no later than twenty-
+25 five days before the election and shall be modified, as necessary, for
+26 each primary, general, or special election; and .
+27 (11) Provide for a procedure to hand count at least twenty-five
+28 percent of the ballots at each election to verify the tabulation of votes
+29 by the vote counting devices.
+30 Sec. 33. Section 32-1118, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-38-
+LB541 LB541
+2025 2025
+1 32-1118 (1) The apparent loser at a general election for a seat in
+2 the Legislature may secure a recount of the ballots cast at such election
+3 by filing a petition for a recount in duplicate with the Secretary of
+4 State no later than the fourth Monday after the election. The petition
+5 shall be accompanied by a corporate surety bond in the penal sum of two
+6 thousand five hundred dollars conditioned for the payment of costs
+7 pursuant to section 32-1116 if the recount fails to change the results of
+8 the election. If at any stage of the recount the amount of the bond
+9 becomes inadequate, the Secretary of State may order an increase in the
+10 amount of such bond. The petition shall specify if a hand count is
+11 requested by the person filing the petition.
+12 (2) The Secretary of State shall, by certified or registered mail,
+13 give notice of the filing of a petition under this section not later than
+14 the day following the filing of the petition and deliver a copy of the
+15 petition to the declared winner. The Secretary of State shall also, by
+16 the most practicable means of communication, direct the election
+17 commissioner or county clerk of each county involved to deliver the
+18 ballot boxes to the office of the election commissioner or county clerk
+19 designated by the Secretary of State no later than the following Monday.
+20 (3) After the ballot boxes have been received at the designated
+21 office, they shall be opened and the ballots for member of the
+22 Legislature shall be recounted under the supervision of the Secretary of
+23 State. The Secretary of State may employ such persons as may be necessary
+24 to conduct the recount and fix their compensation. If a hand count is
+25 requested pursuant to subsection (1) of this section, the recount shall
+26 be conducted by hand count.
+27 (4) The Secretary of State shall, on or before December 20, certify
+28 the results of the recount to each of the parties to the recount and to
+29 the Clerk of the Legislature.
+30 Sec. 34. Section 32-1119, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-39-
+LB541 LB541
+2025 2025
+1 32-1119 (1) If it appears as evidenced by the abstract of votes that
+2 any candidate failed to be nominated or elected by a margin of (a) one
+3 percent or less of the votes received by the candidate who received the
+4 highest number of votes for the office at an election in which more than
+5 five hundred total votes were cast or (b) two percent or less of the
+6 votes received by the candidate who received the highest number of votes
+7 for the office at an election in which five hundred or less total votes
+8 were cast, then such candidate shall be entitled to a recount. Any losing
+9 candidate may waive the his or her right to a recount by filing a written
+10 statement with the Secretary of State, election commissioner, or county
+11 clerk with whom such candidate he or she made his or her filing. All
+12 expenses of a recount under this section shall be paid by those political
+13 subdivisions involved in the recount.
+14 (2) Recounts shall be made by the county canvassing board which
+15 officiated in making the official county canvass of the election returns.
+16 If any member of the county canvassing board cannot participate in the
+17 recount, another person shall be appointed by the election commissioner
+18 or county clerk to take the member's place.
+19 (3) Recounts for candidates who filed with the Secretary of State
+20 shall be made on the fifth Wednesday after the election and shall
+21 commence at 9 a.m. The Secretary of State shall inform each election
+22 commissioner or county clerk of the names of the candidates for which the
+23 board of state canvassers deems a recount to be necessary.
+24 (4) The election commissioner or county clerk shall be responsible
+25 for recounting the ballots for those candidates for whom the county
+26 canvassing board deems a recount to be necessary. The recount shall be
+27 made as soon as possible after the adjournment of the county canvassing
+28 board, except that if a recount is required under subsection (3) of this
+29 section, the recounts may be conducted concurrently.
+30 (5) The Secretary of State, election commissioner, or county clerk
+31 shall notify all candidates whose ballots will be recounted of the time,
+-40-
+LB541 LB541
+2025 2025
+1 date, and place of the recount. Candidates whose ballots will be
+2 recounted may be present or be represented by an agent appointed by the
+3 candidate.
+4 (6) The procedures for the recounting of ballots shall be the same
+5 as those used for the counting of ballots on election day, except that
+6 any election commissioner or county clerk shall have the option to
+7 recount the ballots manually by hand count. The recount shall be
+8 conducted at the county courthouse, except that if vote counting devices
+9 are used for the counting or recounting, such counting or recounting may
+10 be accomplished at the site of the devices. Counties counting ballots by
+11 using a vote counting device shall first recount the ballots by use of
+12 the device. If substantial changes are found, the ballots shall then be
+13 counted using such device in any precinct which might reflect a
+14 substantial change.
+15 Sec. 35. Original sections 32-306, 32-307, 32-310, 32-311.01,
+16 32-312.05, 32-315, 32-320, 32-321, 32-323, 32-325, 32-806, 32-808,
+17 32-902, 32-938, 32-1118, and 32-1119, Reissue Revised Statutes of
+18 Nebraska, and sections 32-101, 32-103, 32-202, 32-203, 32-206, 32-308,
+19 32-312, 32-941, 32-942, 32-943, 32-947, 32-950.01, 32-960, 32-1002,
+20 32-1041, and 32-1049, Revised Statutes Cumulative Supplement, 2024, are
+21 repealed.
+22 Sec. 36. The following sections are outright repealed: Section
+23 32-309, Reissue Revised Statutes of Nebraska, and sections 32-304 and
+24 32-320.01, Revised Statutes Cumulative Supplement, 2024.
+-41-
+[DELETED: yHA B F A A r t e t a s 33 3 3 3 3 3 33 3 3 3 3 3 3 a33 3 3 3 3 3 3 33 3 3 3 3 3 a 3R S C S 2 t e ov r t r v r b m tc v r p t r w o0o b t p r t v b m o 1b2d t p r f h c t c3p r t v a c m t e4o5s a t o r s 3 R R6S o N a s 3 a 3 R7S8B1L52]
+[DELETED: S 1 S 3 R S C S23sS 2 S 3 R S C S23 F p o t E A t d f isu0S1b2a e d o e i b n l t3s4d5S 4 S 3 R S C S6273 I a t a o d p b l t8S9(0s1(2c a o e o i p f d3o o t o r o v a t c o4e5(6( W t a a a o t A G m7u8(9c i c o t d u s 3 a t031(1L52]
+[DELETED: 3( C w t D o A S fs(t(R(i0c a c c f d t t p u1r2(3( A a p r a r a n f4e5(6n o a I w t a v w c a p7b8a i t v w n c t r t t v w n9c0p n t p t s c a1i2t f a s A t i a a i3p b s b r t t i w c t4b5( P a w d t v i6r a p T S o S s e7m8o9t0i1( P a p a c r t v1L52]
+[DELETED: i r a p i ct( P i a i t t D oH a H S t D o M V a tS D o E f d b s a tN r r t r t p vpv(0o1a p o t m o t v r l2i3S 5 S 3 R S C S4253 I a t a o p p b l t6S7( I w o w t f o a c b a8p a r t p a p o e9c c c t e a o e0o i t d o o t o t c o1p a g e a t r o q2e3(4o5( A a p r a r i r t t6r7r8b9( E t a b i a b b t A0G1t1L52]
+[DELETED: S 6 S 3 R S C S23c b N 1 p t t s p e Scf t v e d d a o p d ad b t S o S T o e cs b m a g a s i n w l b tS0( T S o S s d a c o t o1e c t t s p h o e r2p3t4(5f6p7S8n9S 7 S 3 R R S o N i0a132t3t o o o T d r s o c4r5i T d r s r t c6r7c8n9a t T e c o c c s m a0a o r a l f d p t t n1e t e p r b a d r D1L52]
+[DELETED: r s n r v a 6 p o t t Fp a e A r a r a tdc u a t e T s s n a trcS 8 S 3 R R S o N ia30c1o2f3c4u t t o o r e e a o5p6S 9 S 3 R S C S72839s0s1D2o t v t a o t i i3c p o a f v r T4D o M V s e i a a w t5C o S S u s 2 o t f6S S A 4 U 4 a s s e o7A8( T D o M V w t a o t9S o S s p a v r a0w1a1L52]
+[DELETED: o o r m v o l a o or s i c o a r t T vrtd o i i t a f t m vo l o s i c e t i mr a s s o t a T d a tS o S s m t v r aa t a p a f a o l o s0i1t2e t b r t v a s e A r3a r a t d s n b p b t4e5( T D o M V i c w t6S o S s d a p t e t7v8o t s t t e c o c c o t9c0i1d a i d f t p w s b o o2b3s4c i w t a r n l t t d a5r6r w f d p t t t F p a7e i s b t n l t f d a i8o9d0r s b c a s o b u f v1r1L52]
+[DELETED: ( ( F e v r a f wiSo t a d i a s f t D oMsEsw t a i a c o t U S w t0a i o s a t r t v t a1r2r a t d o b o t a t p3a4a w a p p t a m v5o6b7( ( S a p i i t v r8p p t t s a s 3 s n b9c d r o a o e o t e0c1S 1 S 3 R R S o N i2a334H5v a t t o a r o c o a f t6f p a a ( T S N7A P ( t m p ( t W p a8d9( t v r p a ( a o p0a p o p p f t p o p1s t p w d I t a r o1L52]
+[DELETED: cd t a o c s p t o trdc( T d a o c s m t mr a d i s 3 a a tt o a r o c o a a s pa0t1a f a w p v p2i3a4( D p a a c i i t5v r p p t t s s n b6c d r o a o e o t e7c8( T a m r t c v r9a t t d a o c o m p0m1c a p i s 3 I t a r t2c a t t d a o c t3d a o c s d t a t t4e5o t d a o c i l n l t t6d7i t a i c r t t d a o8c w f d p t t t F p a9e0i i r T e c o c c s i1n1L52]
+[DELETED: ct l T a s b c a r t tdFA r a r a t d s n bpe(t0S1a233a r a w m b u s t r t4v a u v r r A a m u t5a t r t v o t u h o h v6r7o8s9i0m1a f r T I a a w i e t2r3e c o c c t i f t4a5p6(7p8(9o0o1( I t a i s b m a t a i1L52]
+[DELETED: rwo a p i w i c a v o a c o u b b s g c p o ogo t a a t a o t a i o t aa(o0p i , t a p m o p1a2(3a4t5t6( D b t a p m o p7a8b9(0i1(2o t a f r s a a o3r t t a i w t a i4p5S 1 S 3 R S C S62738S p t s 3 o 3 s p t9i0a1C y a c o t U S o A1L52]
+[DELETED: w b t c t i w t a i o i n cAyNtW y c ' i r t e o tqN n o t a g t f a l n i0f1o2R n a n o t s a o o3l o t d w t a r i t i 4n5o i s a i s b i a w6g7r8b9s0c1w2P3d4A O L R n a n o t s5a6r7T N t n o t a A t8r9n i a u n a s d s p t0l1E1L52]
+[DELETED: t a a d s b m t t e a ip a s d s p t l o taD L N O L F D O S SN t a h a N d l t lntDt0a c a s t r a i t1a2b t a p m o p a o w t3c4c5P6w7D8s9o0t1y2R3o435p6P A t p a o t a a7D8N9p e f s a l o y m i 0p p a o t r a I y1r w a p p a ( y w1L52]
+[DELETED: r o t n b f s a l o apyOtI f t s f i i apTe0(1a2(3c4( I h n b o f t b n c m5(6(7A r w s t a k t a o t8i i t a i f s b g o a C I9f0a1r2A S t a t a h o h3s4S5a637u8d9d t r a w d t t e0c o c c o t d t r a1w1L52]
+[DELETED: s t r a b m o p t s3S 1 S 3 R R S o N ia3 U r a c v r apwa r w t s c t e c oc0v t t n n o n a a s s a a1c2h3S 1 S 3 R R S o N i4a536s b t o r a p b t7S o S o t n m v r a8p9o S s p s o r a t a0r o o t U S A F i t S o1N2p s o r a f t S o3S4a t t S T f c t t E5A6S 1 S 3 R R S o N i7a839f0c c T S o S a t e c o1c c s m r a p b t1L52]
+[DELETED: S o S a a m p t a i ppco a m p r l o t a o ar(t S o S o s a a t t S oS p t s 3 t o s d ta0w1o e t i t a i r t t o o2s3F4d a t d i i r T d f r 5c a t t o o t S o S o6s a a p t s 3 i t c o7b8v a s e A r a r a t9d0c u a t e T o o t S o S1s2o3s4(5t6e7e8( T a s b p o o b t t9F0( T a s b r n l t t s1T1L52]
+[DELETED: (pt(d t a s n b p u a te W n s b g t a a wrff r I t a i i t e0c1p t r i i f t p v2p3t o t s a i d a d i4s 3 p t t d f v r o t5c a s a c r a i a t6m7n e A p c r t r r8a9b0S 1 S 3 R R S o N i1a233s n c a v r f p o s a4t5v u a c a c r a h b6r7h p v p i A s o 8p9e c o c c r t r0a o t r a t r h p v1p1L52]
+[DELETED: S 1 S 3 R R S o N ia3 ( A r a c a s b rst e c o c c o s p ts 3 t t S o S T a ar a t p p p t s 33 o 3 a a t u a v r0r1(2o3p4(5p t s 3 o m s t i i r b t6e c o c c o o b t d7p8( A v t s o t p r o9t r v t e c o c c s0m1e2a3r h b c a s i t a o t4r5S 1 S 3 R R S o N i6a73 A o b p f e c8p t t E A s h a c w t9i0i1v c m d a d c o b o i f1L52]
+[DELETED: co S f e o a o p s I dsssS 2 S 3 R R S o N ia3 ( E a o p i s 30b1r2t3a4( T e c o c c s n m o5i6p7( T e c o c c s p i 8n9u0v a t b b a T a f s1i2v p t s 3 T p o t a3s n b r i t e i h b m p t4s5S 2 S 3 R R S o N i6a73 ( T e c o c c s c8i f t g o r v i p t9b0s f a l f s c t e p p i e1p1L52]
+[DELETED: T j o c o e s p s c i e vbpf a c o t c s b a b t S oS( T e c o c c s c viT v i s i t f i aa0( I r t d o t e a t h1d2( I f v w r t v p t3s4( G i o v r u a f5a6c a p b a i o h t c t7a8a9( G i o f a s l r0p1S 2 S 3 R R S o N i2a334s 3 t 3 a A r v s b p t5v637(8a9(0d1(1L52]
+[DELETED: p(oo(ow(o0(1o2u3t U S o t D o C o ( t U4S5(6( T r v h r t h o h r7a8(9d0(1t2m3o4(5s6( A p w f t r t v b t v7r8s9S 2 S 3 R S C S0213 ( A r v w i p t v e1L52]
+[DELETED: p t s 3 a w h p v pitcbvwto0i d a h o h t n i a a t1r2a3( T i n o t v d l o4s5( A p o a o v p i6i7(8(9s0t e c o c c s v t d1l2b3( I s i o c i n p o4c b v t e c o c c s5c6u t v p t i o c r7u8(9c0v s s t r A r v m u a f1m1L52]
+[DELETED: ( T e c o c c s i r a w t b i t p i nrFto t p o t d o t e N b i u tsc(0t a v w c a b p t s 3 o132S 2 S 3 R S C S32435a6m7m t t d p t t d o e f a s8p9e f a o e p v p0i1v2v t b i t o o t e c o c3c4o5(6t7v8r9p0(1t1L52]
+[DELETED: o s ( o t s ( p o o t ac d a p i s ( o s3fftom i o e t v i a s o d o m0M1s2s3t l p i w t p w d b l t4U5a6b7w i p i a e w t v n a a a8o9p0f v r s i s 3 A b c1p t s ( o t s s b r a2s3r4r o t c e w t d a i i m5o6(7o8n9S 2 S 3 R S C S0213 ( A r v w i p t v e1L52]
+[DELETED: p t s 3 a w h p v piah b o s v o ( r a b t t ec o c c o b o s v T rv o h o h a m r t t b b s t trpo0(1v2c3o h r s i t v r a t4a5t6(7(8( T i n o t v d l o9s0(1r2( T v r i c T3c4(5p b t e c o c c p t6s7r8( ( A c f o a s e a a p9s0a f a r v r a b p t t1s1L52]
+[DELETED: T e o a r v s n a a a a f trea e s a a a a p t t s f aevv(t0r1o t p o t d o t e a s b r i a2i3( ( T e c o c c s a4p5(6a738S 2 S 3 R S C S9203 ( U r o a a o o r f 1b t v e t e c o c c s2d3v a r I t e c o c c4d t t a i a r v e t v5e a t a w r n l t t c o6b o t s F p t e t e7c8p9c0o1s1L52]
+[DELETED: (b a u t b o t e s b p a fsVI t u v d t t e b obceT0e1( I . a a r v2i3(4( I h v t e b a a r i i5c6(7t8( I a p t a f a b t v e f t9f0( m c t t s c h o h1r2.3. . . I w b e y o a o o o t d o t4e5.6. . . I w b u t g t t p p o t d o7e8.9e0o1.1L52]
+[DELETED: b.e..p..o t U S o a s o d o s m ( 0c1o2A3I4I5F6M P S O A F N T E T T7D8I a u t f t s b w i m9b0S1( I t b a i e w b r b2m o b s o t t v t e c o3c c s i w t b a i e4u t f o w s b p t o t a p5o6( T e c o c c s a e7w8( A r a i t e c o9c0p1c1L52]
+[DELETED: aot( A r a a t o p t s3t t r a o t v s b d t o tov p r a t f t r t c as0b1b2(3i d p t s 3 i t v i4r t p i u s s a a t5v6o7t8(9b m a s r e f t v u i0r1r2S32435a s b d f v t d c b t6e7d8(9p0(1( ( I s f t t g o a c s1L52]
+[DELETED: c(o b t e c o c c o b a eo(1 a i a a d b t e c oc( T e c o c c s i tS o S o e s b d l n l0t1( T e c o c c o a e2o d b t e c o c c s3e4e5(6(7( T d e a s a c a i g8c9( A p w e a s b d s n0t1a2f3s4l5(6o7t8( ( E f a s b d f a e9c0o1c s o e s b d n l t t s1L52]
+[DELETED: Ftp o g e e s b d s ra t v u t d f t r o b apbt( ( A a s b d i m a fd b t e c o c c s0e t b d i s s b d a1c a r t t o o t e c o2c3( I u t d f r o b t4e5b6b d i s a w t b m n b d a7s8c9(0r d f e s b d T r s1c2e3u4t5p6f7a s o o l p T e c o8c9m0t1i1L52]
+[DELETED: oS 2 S 3 R S C S23ib f a e h a a o t a tr v o a o a o t p i t c Taw0o1a f t a f b f e v n2o s p r t c a p o 3n4t S o S a s a f o o m5p i t c t c c s f t a6p7e8s9(0p1(2t3(4v5a6s7( S m a l o i v l a t8o9p0a1t f o t p p t s 3 t t1L52]
+[DELETED: db(i( M p a s b d a iv l i a t n n b o a t trS 2 S 3 R S C S2031t2e3a4(5o c c s v t t c o t f o t6e7t8(9t0a1e t t p w p r t v i t c2b t d f r f t e ( i3w a i h b r p t s 343 3 o 3 t t p h r r o5v i a o c o s s r t v i t6c7p w p r t v i t c m t8a c t t v r r b e t9i c i t r a c b t0v1(1L52]
+[DELETED: s(i( T v h r i t c c sr(o( T v h c a r a p tv0(1c p t s ( o s 3 i l2w3( I t v i v i a p e t p4a5v6o t v v r r b o h o h p7r8(9t0(1s2(3d4( I h b r p t s 353 3 o 3 t t v h r r o6v i a o c o s s r t v i t7c8(9h0(1p t s ( o t s a s ( o1L52]
+[DELETED: s(c p t s ( o s 3 i i di( I t v i v i a p e t papo t v v r r b o h o h p0r1(2e3s4( A e o o o i o t r5a6r7(8t9(0o1( B t r a a t c a2s3(4t5b f t e w e t m o t b a6s p t b w t b t b c b t c7c8( T e c o c c s n t9s0t1n1L52]
+[DELETED: ( T v a i s b c wsSb p m b t a v o p t s3obm(0o1s o t e h a b f e v w t2s3r4S 3 S 3 R S C S5263 ( T e c o c c m u7o8t a r v t c t v a a e T9e0u v c d a v s a a p i1s2t v c a a e V c d s i3e4( N e v s s b u u t E5A6(7n v o c s t i s b a p t e8s p e b t S o S e e9c0b1t1L52]
+[DELETED: c b r f e c d f a c iwi i t c t i q t asvc T S o S m a a p r ar t e d p a l f vas0a1t o t c p t e s p2f t p o f a t p o i b3m4m5S 3 S 3 R S C S6273 A e c o c c u a v8c9( P f t p s o t c a t0s1c2t3(4e5l6(7o o d w d n i j v i t8a t t b h n b o w n b i9m0( P f a p f c w v w s1v1L52]
+[DELETED: ( P f a l t i t t b cbw i t c p i f c vb b v c d b ( t e c ocv w a d p a t t o t ec o c c a ( t p w i tpt0( P f s a s t m t o1c2t3(4t5(6e d a t d o t e c o c7c8p9(0a1c2( S a w p t t S o S s3o t p t w b f o e d t4i5f6e7( P f a p t h c a l t8p9b0S1a1L52]
+[DELETED: 3tb f a p f a r i d w t S oSst f h d c f t p o cpt e I a a s o t r t a o t bb0a o s b T p s s i a h c i1r2(3g4t5p6t m p m o c d t e7c o c c o e c i t d t8b9d0( A t b b h b r a t d1o t s b o a t b f m o t2L3S4t c t r a f t c I a h c i5r6b7(8t9t0S1a1L52]
+[DELETED: 3aphf h t v w c o ( t p o l o tvfwc0s1c w w s c h o s m h o h f A2e3s4( R s b m b t c c b w5o6I7r8o9( R f c w f w t S o S0s b m o t f W a t e a s1c a 9 a T S o S s i e e2c3b4(5f r t b f t c f w t c6c7m8b9s0(1s1L52]
+[DELETED: d a p o t r C w b w brc(aa e c o c c s h t o tr t b m b h c T r s bca0b1u2t3c u s d i a p w m r 4s5S 3  O s 3 3 3 363 3 3 3 3 3 3 373 3 3 a 3 R R S o8N a s 3 3 3 3 3 393 3 3 3 3 3 3 3031r2S 3  T f s a o r S33 R R S o N a s 3 a431L52]
+
+
+================================================================================
+
+Raw Text:
+LB541 LB541
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 541
+Introduced by Holdcroft, 36.
+Read first time January 22, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend sections 32-306,
+2 32-307, 32-310, 32-311.01, 32-312.05, 32-315, 32-320, 32-321,
+3 32-323, 32-325, 32-806, 32-808, 32-902, 32-938, 32-1118, and
+4 32-1119, Reissue Revised Statutes of Nebraska, and sections 32-101,
+5 32-103, 32-202, 32-203, 32-206, 32-308, 32-312, 32-941, 32-942,
+6 32-943, 32-947, 32-950.01, 32-960, 32-1002, 32-1041, and 32-1049,
+7 Revised Statutes Cumulative Supplement, 2024; to eliminate online
+8 voter registration; to restrict voter registration by mail; to
+9 change voter registration provisions; to require watermarks on
+10 official ballots; to provide requirements to vote by means of a
+11 ballot for early voting; to provide requirements for secure ballot
+12 drop-boxes; to provide requirements for hand counts; to change
+13 provisions relating to voting and counting methods; to eliminate
+14 obsolete provisions; to harmonize provisions; to repeal the original
+15 sections; and to outright repeal section 32-309, Reissue Revised
+16 Statutes of Nebraska, and sections 32-304 and 32-320.01, Revised
+17 Statutes Cumulative Supplement, 2024.
+18 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB541 LB541
+2025 2025
+1 Section 1. Section 32-101, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 32-101 Sections 32-101 to 32-1552 and sections 3 and 30 of this act
+4 shall be known and may be cited as the Election Act.
+5 Sec. 2. Section 32-103, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 32-103 For purposes of the Election Act, the definitions found in
+8 sections 32-104 to 32-120 and 32-123 and section 3 of this act shall be
+9 used.
+10 Sec. 3. Hand count means to conduct a count or recount of ballots
+11 by hand as required by section 30 of this act, without the assistance of
+12 any electronic device or equipment, including, but not limited to,
+13 scanners. This definition shall not be construed to exclude the use of
+14 desktop or handheld calculators or adding machines.
+15 Sec. 4. Section 32-202, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 32-202 In addition to any other duties prescribed by law, the
+18 Secretary of State shall:
+19 (1) Supervise the conduct of primary and general elections in this
+20 state;
+21 (2) Provide training and support for election commissioners, county
+22 clerks, and other election officials in providing for day-to-day
+23 operations of the office, registration of voters, and the conduct of
+24 elections;
+25 (3) Enforce the Election Act;
+26 (4) With the assistance and advice of the Attorney General, make
+27 uniform interpretations of the act;
+28 (5) Provide periodic training for the agencies and their agents and
+29 contractors in carrying out their duties under sections 32-308 and to
+30 32-310;
+31 (6) Develop and print forms for use as required by sections 32-308,
+-2-
+
+LB541 LB541
+2025 2025
+1 32-310, 32-320, 32-329, 32-947, 32-956, and 32-958;
+2 (7) Contract with the Department of Administrative Services for
+3 storage and distribution of the forms;
+4 (8) Require reporting to ensure compliance with sections 32-308 and
+5 to 32-310;
+6 (9) Prepare and transmit reports as required by the National Voter
+7 Registration Act of 1993, 52 U.S.C. 20501 et seq.;
+8 (10) Develop and print a manual describing the requirements of the
+9 initiative and referendum process and distribute the manual to election
+10 commissioners and county clerks for distribution to the public upon
+11 request;
+12 (11) Develop and print pamphlets described in section 32-1405.01;
+13 (12) Adopt and promulgate rules and regulations as necessary for
+14 elections conducted under sections 32-952 to 32-959;
+15 (13) Establish a free access system, such as a toll-free telephone
+16 number or an Internet website, that any voter who casts a provisional
+17 ballot may access to discover whether the vote of that voter was counted
+18 and, if the vote was not counted, the reason that the vote was not
+19 counted. The Secretary of State shall establish and maintain reasonable
+20 procedures necessary to protect the security, confidentiality, and
+21 integrity of personal information collected, stored, or otherwise used by
+22 the free access system. Access to information about an individual
+23 provisional ballot shall be restricted to the individual who cast the
+24 ballot;
+25 (14) Provide a website dedicated to voter identification
+26 requirements and procedures. The Secretary of State shall establish,
+27 maintain, and regularly update on the website a document entitled "List
+28 of Acceptable Forms of Identification" that lists forms of identification
+29 that qualify as valid photographic identification for purposes of voter
+30 identification;
+31 (15) Provide a public awareness campaign regarding the voter
+-3-
+
+LB541 LB541
+2025 2025
+1 identification requirements and procedures, including communication
+2 through multiple mediums and in-person events;
+3 (16) Provide instructions and information to the Department of
+4 Health and Human Services, the Department of Motor Vehicles, and the
+5 State Department of Education for distribution by such agencies to
+6 Nebraska residents regarding the requirement to present valid
+7 photographic identification in order to vote and the way to obtain free
+8 valid photographic identification; and
+9 (17) Not use or allow the use of citizenship information shared with
+10 or collected by the Secretary of State pursuant to the Election Act for
+11 any purpose other than maintenance of the voter registration list,
+12 including law enforcement purposes.
+13 Sec. 5. Section 32-203, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 32-203 In addition to any other powers prescribed by law, the
+16 Secretary of State may:
+17 (1) Inspect, with or without the filing of a complaint by any
+18 person, and review the practices and procedures of election
+19 commissioners, county clerks, their employees, and other election
+20 officials in the day-to-day operations of the office, the conduct of
+21 primary and general elections, and the registration of qualified
+22 electors;
+23 (2) Employ such personnel as necessary to efficiently carry out his
+24 or her powers and duties as prescribed in the Election Act;
+25 (3) Adopt and promulgate rules and regulations in regard to the
+26 registration of voters and the conduct of elections, especially regarding
+27 returning ballots by agents under section 32-943 and secure ballot drop-
+28 boxes under section 32-950.01; and
+29 (4) Enforce the act by injunctive action brought by the Attorney
+30 General in the district court for the county in which any violation of
+31 the act occurs.
+-4-
+
+LB541 LB541
+2025 2025
+1 Sec. 6. Section 32-206, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 32-206 (1) The Secretary of State shall publish an official election
+4 calendar by November 1 prior to the statewide primary election. Such
+5 calendar, to be approved as to form by the Attorney General, shall set
+6 forth the various election deadline dates and other pertinent data as
+7 determined by the Secretary of State. The official election calendar
+8 shall be merely a guideline and shall in no way legally bind the
+9 Secretary of State or the Attorney General.
+10 (2) The Secretary of State shall deliver a copy of the official
+11 election calendar to the state party headquarters of each recognized
+12 political party within ten days after publication under subsection (1) of
+13 this section.
+14 (3) Except as provided in sections 32-302 , 32-304, and 32-306, any
+15 filing or other act required to be performed by a specified day shall be
+16 performed by 5 p.m. of such day, except that if such day falls upon a
+17 Saturday, Sunday, or legal holiday, performance shall be required on the
+18 next business day.
+19 Sec. 7. Section 32-306, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 32-306 Deputy registrars shall register voters in teams of at least
+22 two deputies, one of whom is not a member of the same political party as
+23 the other or others. The deputy registrars shall only complete
+24 registration applications for applicants who present valid photographic
+25 identification. The deputy registrars shall return the completed
+26 registration applications to the office of the election commissioner or
+27 county clerk of the county in which the registrations are to be effective
+28 no later than the end of the next business day after the registrations
+29 are taken. The election commissioner or county clerk shall mail an
+30 acknowledgment of registration at least five days prior to the next
+31 election to each person registered by a deputy registrar. Deputy
+-5-
+
+LB541 LB541
+2025 2025
+1 registrars shall not register voters after 6 p.m. on the third Friday
+2 preceding any election. A registration application received after the
+3 deadline shall not be processed by the election commissioner or county
+4 clerk until after the election. This section shall not apply to
+5 registration done by the employees of the election commissioner or county
+6 clerk.
+7 Sec. 8. Section 32-307, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 32-307 No materials advocating or advertising any political issue,
+10 candidate, or party shall be displayed or distributed within fifty feet
+11 of any voter registration site. No alcohol shall be served within fifty
+12 feet of any voter registration site. The registration procedure shall be
+13 conducted in a neutral manner and shall not be connected with anything
+14 unrelated to the object of registering electors except as otherwise
+15 provided in sections 32-308 and to 32-310.
+16 Sec. 9. Section 32-308, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 32-308 (1) The Secretary of State and the Director of Motor Vehicles
+19 shall enter into an agreement to match information in the computerized
+20 statewide voter registration list with information in the database of the
+21 Department of Motor Vehicles to the extent required to enable each such
+22 official to verify the accuracy of the information, including
+23 citizenship, provided on applications for voter registration. The
+24 Director of Motor Vehicles shall enter into an agreement with the
+25 Commissioner of Social Security under section 205(r)(8) of the federal
+26 Social Security Act, 42 U.S.C. 405(r)(8), as such section existed on
+27 April 17, 2003, for purposes of the Election Act.
+28 (2) The Department of Motor Vehicles, with the assistance of the
+29 Secretary of State, shall prescribe a voter registration application
+30 which may be used to register to vote or change an elector's his or her
+31 address for voting purposes at the same time an elector applies for an
+-6-
+
+LB541 LB541
+2025 2025
+1 original or renewal motor vehicle operator's license, an original or
+2 renewal state identification card, or a replacement thereof. The voter
+3 registration application shall contain the information required pursuant
+4 to section 32-312 and shall be designed so that it does not require the
+5 duplication of information in the application for the motor vehicle
+6 operator's license or state identification card, except that it may
+7 require a second signature of the applicant. The department and the
+8 Secretary of State shall make the voter registration application
+9 available to any person applying for an operator's license or state
+10 identification card. The application shall be completed at the office of
+11 the department by the close of business on the third Friday preceding any
+12 election to be registered to vote at such election. A registration
+13 application received after the deadline shall not be processed by the
+14 election commissioner or county clerk until after the election.
+15 (3) The Department of Motor Vehicles, in conjunction with the
+16 Secretary of State, shall develop a process to electronically transmit
+17 voter registration application information received under subsection (2)
+18 of this section to the election commissioner or county clerk of the
+19 county in which the applicant resides within the time limits prescribed
+20 in subsection (4) of this section. The Director of Motor Vehicles shall
+21 designate an implementation date for the process which shall be on or
+22 before January 1, 2016.(4) The voter registration application information
+23 shall be transmitted to the election commissioner or county clerk of the
+24 county in which the applicant resides not later than ten days after
+25 receipt, except that if the voter registration application information is
+26 received within five days prior to the third Friday preceding any
+27 election, it shall be transmitted not later than five days after its
+28 original submission. Any information on whether an applicant registers or
+29 declines to register and the location of the office at which he or she
+30 registers shall be confidential and shall only be used for voter
+31 registration purposes.
+-7-
+
+LB541 LB541
+2025 2025
+1 (4) (5) For each voter registration application for which
+2 information is transmitted electronically pursuant to this section, the
+3 Secretary of State shall obtain a copy of the electronic representation
+4 of the applicant's digital image and signature from the Department of
+5 Motor Vehicles' records of his or her motor vehicle operator's license or
+6 state identification card for purposes of voter registration and voting.
+7 Each voter registration application electronically transmitted under this
+8 section shall include information provided by the applicant that includes
+9 whether the applicant is a citizen of the United States, whether the
+10 applicant is of sufficient age to register to vote, the applicant's
+11 residence address, the applicant's postal address if different from the
+12 residence address, the date of birth of the applicant, the party
+13 affiliation of the applicant or an indication that the applicant is not
+14 affiliated with any political party, the applicant's motor vehicle
+15 operator's license number, the applicant's previous registration location
+16 by city, county, or state, if applicable, and the applicant's signature.
+17 (5) (6) State agency personnel involved in the voter registration
+18 process pursuant to this section and section 32-309 shall not be
+19 considered deputy registrars or agents or employees of the election
+20 commissioner or county clerk.
+21 Sec. 10. Section 32-310, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 32-310 (1) The State Department of Education and the Department of
+24 Health and Human Services shall provide the opportunity to register to
+25 vote at the time of application, review, or change of address for the
+26 following programs, as applicable: (a) The Supplemental Nutrition
+27 Assistance Program; (b) the medicaid program; (c) the WIC program as
+28 defined in section 71-2225; (d) the aid to dependent children program;
+29 (e) the vocational rehabilitation program; and (f) any other public
+30 assistance program or program primarily for the purpose of providing
+31 services to persons with disabilities. If the application, review, or
+-8-
+
+LB541 LB541
+2025 2025
+1 change of address is accomplished through an agent or contractor of the
+2 department, the agent or contractor shall provide the opportunity to
+3 register to vote. Any information on whether an applicant registers or
+4 declines to register and the agency at which he or she registers shall be
+5 confidential and shall only be used for voter registration purposes.
+6 (2) The department, agent, or contractor shall make the mail-in
+7 registration application described in section 32-320 available at the
+8 time of application, review, or change of address, and shall provide
+9 assistance, if necessary, to the applicant in completing the application
+10 to register to vote, and shall only accept complete voter registration
+11 applications for applicants who present valid photographic
+12 identification. The department shall retain records indicating whether an
+13 applicant accepted or declined the opportunity to register to vote.
+14 (3) Department personnel, agents, and contractors involved in the
+15 voter registration process pursuant to this section shall not be
+16 considered deputy registrars or agents or employees of the election
+17 commissioner or county clerk.
+18 (4) The applicant may return the completed voter registration
+19 application to the department, agent, or contractor or may personally
+20 mail or deliver the application to the election commissioner or county
+21 clerk as provided in section 32-321. If the applicant returns the
+22 completed application to the department, agent, or contractor, the
+23 department, agent, or contractor shall deliver the application to the
+24 election commissioner or county clerk of the county in which the office
+25 of the department, agent, or contractor is located not later than ten
+26 days after receipt by the department, agent, or contractor, except that
+27 if the application is completed returned to the department, agent, or
+28 contractor within five days prior to the third Friday preceding any
+29 election, it shall be delivered not later than five days after the date
+30 it is returned. The election commissioner or county clerk shall, if
+31 necessary, forward the application to the election commissioner or county
+-9-
+
+LB541 LB541
+2025 2025
+1 clerk of the county in which the applicant resides within such prescribed
+2 time limits. The application shall be completed and returned to the
+3 department, agency, or contractor by the close of business on the third
+4 Friday preceding any election to be registered to vote at such election.
+5 A registration application received after the deadline shall not be
+6 processed by the election commissioner or county clerk until after the
+7 election.
+8 (5) The departments shall adopt and promulgate rules and regulations
+9 to ensure compliance with this section.
+10 Sec. 11. Section 32-311.01, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 32-311.01 (1) The Secretary of State shall prescribe and distribute
+13 a registration application which may be used statewide to register to
+14 vote and update voter registration records. An applicant may use the
+15 application to register to vote or to update his or her voter
+16 registration record with changes in his or her personal information or
+17 other information related to his or her eligibility to vote. An applicant
+18 shall may submit the application in person along with valid photographic
+19 identification , through a personal messenger or personal agent, or by
+20 mail. Every election commissioner or county clerk shall accept such an
+21 application for registration. The If an applicant who is eligible to
+22 register to vote submits the application in person at the office of the
+23 election commissioner or county clerk, the information from the
+24 application shall be entered into the voter registration register in the
+25 presence of the applicant if possible.
+26 (2) The application shall contain substantially all the information
+27 provided in section 32-312 and the following informational statements:
+28 (a) An applicant who is unable to sign his or her name may affix his
+29 or her mark next to his or her name written on the signature line by some
+30 other person;
+31 (b) If the application is submitted by mail and the applicant is
+-10-
+
+LB541 LB541
+2025 2025
+1 registering in the state for the first time and has not previously voted
+2 within the state, the applicant must submit with the application a copy
+3 of a photo identification which is current and valid or a copy of a
+4 utility bill, bank statement, government check, paycheck, or other
+5 government document that is current and that shows the name and address
+6 of the applicant as they appear on the application in order to avoid
+7 additional identification requirements when voting for the first time;
+8 (b) (c) An applicant must may deliver the application to the office
+9 of the election commissioner or county clerk in person and present valid
+10 photographic identification , through a personal messenger or personal
+11 agent, or by mail;
+12 (c) (d) To vote at the polling place on election day, the completed
+13 application must be delivered :(i) Delivered by the applicant in person
+14 to the office of the election commissioner or county clerk on or before
+15 the deadline prescribed in section 32-302; and
+16 (ii) Delivered by the applicant's personal messenger or personal
+17 agent to the office of the election commissioner or county clerk on or
+18 before the third Friday before the election; or
+19 (iii) Postmarked on or before the third Friday before the election
+20 if the application is submitted by mail; and
+21 (d) (e) The election commissioner or county clerk will, upon receipt
+22 of the application for registration, send an acknowledgment of
+23 registration to the applicant indicating whether the application is
+24 proper or not.
+25 Sec. 12. Section 32-312, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 32-312 The registration application prescribed by the Secretary of
+28 State pursuant to section 32-304 or 32-311.01 shall provide the
+29 instructional statements and request the information from the applicant
+30 as provided in this section.
+31 CITIZENSHIP—"Are you a citizen of the United States of America?"
+-11-
+
+LB541 LB541
+2025 2025
+1 with boxes to check to indicate whether the applicant is or is not a
+2 citizen of the United States.
+3 AGE—"Are you at least eighteen years of age or will you be eighteen
+4 years of age on or before the first Tuesday following the first Monday of
+5 November of this year?" with boxes to check to indicate whether or not
+6 the applicant will be eighteen years of age or older on election day.
+7 WARNING—"If you checked 'no' in response to either of these
+8 questions, do not complete this application.".
+9 NAME—the name of the applicant giving the first and last name in
+10 full, the middle name in full or the middle initial, and the maiden name
+11 of the applicant, if applicable.
+12 RESIDENCE—the name and number of the street, avenue, or other
+13 location of the dwelling where the applicant resides if there is a
+14 number. If the registrant resides in a hotel, apartment, tenement house,
+15 or institution, such additional information shall be included as will
+16 give the exact location of such registrant's place of residence. If the
+17 registrant lives in an incorporated or unincorporated area not identified
+18 by the use of roads, road names, or house numbers, the registrant shall
+19 state the section, township, and range of his or her residence and the
+20 corporate name of the school district as described in section 79-405 in
+21 which he or she is located.
+22 POSTAL ADDRESS—the address at which the applicant receives mail if
+23 different from the residence address.
+24 ADDRESS OF LAST REGISTRATION—the name and number of the street,
+25 avenue, or other location of the dwelling from which the applicant last
+26 registered.
+27 TELEPHONE NUMBERS—the telephone numbers of the applicant. At the
+28 request of the applicant, a designation shall be made that a telephone
+29 number is an unlisted number, and such designation shall preclude the
+30 listing of such telephone number on any list of voter registrations.
+31 EMAIL ADDRESS—an email address of the applicant. At the request of
+-12-
+
+LB541 LB541
+2025 2025
+1 the applicant, a designation shall be made that the email address is
+2 private, and such designation shall preclude the listing of the
+3 applicant's email address on any list of voter registrations.
+4 DRIVER'S LICENSE NUMBER OR LAST FOUR DIGITS OF SOCIAL SECURITY
+5 NUMBER—if the applicant has a Nebraska driver's license, the license
+6 number, and if the applicant does not have a Nebraska driver's license,
+7 the last four digits of the applicant's social security number.
+8 DATE OF APPLICATION FOR REGISTRATION—the month, day, and year when
+9 the applicant presented himself or herself for registration, or when the
+10 applicant completed and signed the registration application if the
+11 application was submitted by mail or delivered to the election official
+12 by the applicant's personal messenger or personal agent, or when the
+13 completed application was submitted if the registration application was
+14 completed pursuant to section 32-304.
+15 PLACE OF BIRTH—show the state, country, kingdom, empire, or dominion
+16 where the applicant was born.
+17 DATE OF BIRTH—show the date of the applicant's birth. The applicant
+18 shall be at least eighteen years of age or attain eighteen years of age
+19 on or before the first Tuesday after the first Monday in November to have
+20 the right to register and vote in any election in the present calendar
+21 year.
+22 REGISTRATION TAKEN BY—show the signature of the authorized official
+23 or staff member accepting the application pursuant to section 32-309 or
+24 32-310 or at least one of the deputy registrars taking the application
+25 pursuant to section 32-306, if applicable.
+26 PARTY AFFILIATION—show the party affiliation of the applicant as
+27 Democratic, Republican, or Other ........ or show no party affiliation as
+28 Nonpartisan. (Note: If you wish to vote in both partisan and nonpartisan
+29 primary elections for state and local offices, you must indicate a
+30 political party affiliation on the registration application. If you
+31 register without a political party affiliation (nonpartisan), you will
+-13-
+
+LB541 LB541
+2025 2025
+1 receive only the nonpartisan ballots for state and local offices at
+2 primary elections. If you register without a political party affiliation,
+3 you may vote in partisan primary elections for congressional offices.)
+4 OTHER—information the Secretary of State determines will assist in
+5 the proper and accurate registration of the voter.
+6 Immediately following the spaces for inserting information as
+7 provided in this section, the following statement shall be printed:
+8 To the best of my knowledge and belief, I declare under penalty of
+9 election falsification that:
+10 (1) I live in the State of Nebraska at the address provided in this
+11 application;
+12 (2) I have not been convicted of a felony or, if convicted, I have
+13 completed my sentence for the felony, including any parole term;
+14 (3) I have not been officially found to be non compos mentis
+15 (mentally incompetent); and
+16 (4) I am a citizen of the United States.
+17 Any registrant who signs this application knowing that any of the
+18 information in the application is false shall be guilty of a Class IV
+19 felony under section 32-1502 of the statutes of Nebraska. The penalty for
+20 a Class IV felony is up to two years imprisonment and twelve months post-
+21 release supervision, a fine of up to ten thousand dollars, or both.
+22 APPLICANT'S SIGNATURE—require the applicant to affix his or her
+23 signature to the application.
+24 Sec. 13. Section 32-312.05, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 32-312.05 The date that a person's voter registration record or an
+27 update of his or her voter registration record becomes effective is the
+28 date the person presented himself or herself in person to register, the
+29 date the registration application was delivered to the election
+30 commissioner or county clerk, or the date the registration application
+31 was received by the election commissioner or county clerk if the person
+-14-
+
+LB541 LB541
+2025 2025
+1 submitted the registration application by mail or pursuant to section
+2 32-304 or 32-308.
+3 Sec. 14. Section 32-315, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 32-315 Upon receiving a completed voter registration application
+6 pursuant to section 32-308 , 32-309, or 32-310 indicating that a voter
+7 who is registered in the county has changed his or her name or moved to
+8 another residence within the same county, the election commissioner or
+9 county clerk shall change the voter registration record of the registered
+10 voter to the new name or new address and shall send an acknowledgment
+11 card to the registered voter indicating that the change of registration
+12 has been completed and the address of the voter's new polling place.
+13 Sec. 15. Section 32-320, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 32-320 The only mail-in forms which may be used to register to vote
+16 shall be the official registration application prescribed by the
+17 Secretary of State or the national mail voter registration application
+18 prescribed by the federal Election Assistance Commission. The Secretary
+19 of State shall provide such official registration applications to all
+20 recruitment offices of the United States Armed Forces in the State of
+21 Nebraska. The counties and state agencies listed in section 32-310 shall
+22 purchase such official registration applications from the Secretary of
+23 State. The Secretary of State shall remit proceeds from the sale of such
+24 applications to the State Treasurer for credit to the Election
+25 Administration Fund.
+26 Sec. 16. Section 32-321, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 32-321 (1) Any elector may request a voter registration application
+29 from the office of the Secretary of State or the election commissioner or
+30 county clerk. The Secretary of State and the election commissioner or
+31 county clerk shall make registration applications prescribed by the
+-15-
+
+LB541 LB541
+2025 2025
+1 Secretary of State available and may place the applications in public
+2 places. The Secretary of State and the election commissioner or county
+3 clerk may require that all unused applications be returned to his or her
+4 office and may place reasonable limits on the amount of applications
+5 requested.
+6 (2) If an elector returns the completed application to the office of
+7 the Secretary of State or submits an application to the Secretary of
+8 State pursuant to section 32-304, the office shall deliver the
+9 application to the election commissioner or county clerk of the county in
+10 which the elector resides not later than ten days after receipt by the
+11 office, except that if the application is returned to the office or
+12 submitted pursuant to section 32-304 within five days prior to the third
+13 Friday preceding any election, it shall be delivered not later than five
+14 days after the date it is returned. The deadline for returning a
+15 completed application to the office of the Secretary of State or
+16 submitting an application pursuant to section 32-304 is the close of
+17 business on the third Friday preceding an election to be registered to
+18 vote at such election. A registration application received after the
+19 deadline shall not be processed by the election commissioner or county
+20 clerk until after the election. The office of the Secretary of State
+21 shall be a designated voter registration agency for purposes of section 7
+22 of the National Voter Registration Act of 1993, 42 U.S.C. 1973gg-5, as
+23 such section existed on March 11, 2008.
+24 (3) The elector shall also present valid photographic identification
+25 to the election commissioner or county clerk of the county in which the
+26 elector resides. If an elector mails the registration application to the
+27 election commissioner or county clerk:
+28 (a)(i) The application shall be postmarked on or before the third
+29 Friday before the next election; or
+30 (ii) The application shall be received not later than the second
+31 Tuesday before the next election if the postmark is unreadable; and
+-16-
+
+LB541 LB541
+2025 2025
+1 (b) The application shall be processed by the election office as a
+2 proper registration for the voter to be entitled to vote on the day of
+3 the next election.
+4 (4) If the registration application arrives after the registration
+5 deadline, the application shall not be processed until after the
+6 election. Written notice shall be given to any applicant whose
+7 registration application failed to meet the registration deadline or was
+8 found to be incorrect or incomplete and shall state the specific reason
+9 for rejection. If the application is incomplete, the election
+10 commissioner or county clerk shall notify the applicant of the failure to
+11 provide the required information, including failure to provide valid
+12 photographic identification if required, and provide the applicant with
+13 the opportunity to submit an identification document as described in
+14 section 32-318.01 prior to the deadline for voter registration or to
+15 complete and submit a corrected registration application in a timely
+16 manner to allow for the proper registration of the applicant prior to the
+17 next election. All postage costs related to returning registration
+18 applications to the election commissioner or county clerk shall be paid
+19 by the registrant.
+20 Sec. 17. Section 32-323, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 32-323 Registration pursuant to section 32-304 or 32-308 or by mail
+23 shall not constitute a valid registration for purposes of signing any
+24 type of petition requiring the validation of the signatures of registered
+25 voters until a complete and correct registration application has been
+26 received by the election commissioner or county clerk and the applicant
+27 has presented valid photographic identification. A signature on a
+28 petition shall be considered a valid signature as of the date that the
+29 election commissioner or county clerk receives the registration
+30 application of the registrant and the registrant has presented valid
+31 photographic identification.
+-17-
+
+LB541 LB541
+2025 2025
+1 Sec. 18. Section 32-325, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 32-325 (1) A registration application completed and signed by a
+4 registered voter seeking to update his or her voter registration record
+5 shall be completed in person at or delivered or mailed to the office of
+6 the election commissioner or county clerk or submitted pursuant to
+7 section 32-304 to the Secretary of State. To avoid additional
+8 requirements at the polling place pursuant to section 32-914.01,
+9 32-914.02, or 32-915, an application to update a voter registration
+10 record must be:
+11 (a) Completed or delivered by the applicant in person at the office
+12 of the election commissioner or county clerk on or before the deadline
+13 prescribed in section 32-302; or
+14 (b) Delivered by a personal messenger or personal agent , submitted
+15 pursuant to section 32-304, or mailed so that it is received by the
+16 election commissioner or county clerk on or before the deadline
+17 prescribed in section 32-321.
+18 (2) After verifying the signature on the previous registration of
+19 the registered voter, the election commissioner or county clerk shall
+20 make the change of name, party affiliation, or address on all pertinent
+21 election records. The election commissioner or county clerk shall send an
+22 acknowledgment card to the registered voter indicating that the change of
+23 registration has been completed and shall include the address of the
+24 registered voter's new polling place.
+25 Sec. 19. Section 32-806, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 32-806 All official ballots prepared for elections conducted
+28 pursuant to the Election Act shall have a covert watermark that
+29 identifies the ballot as an official Nebraska ballot and shall be white
+30 in color, except that the election commissioner, county clerk, or city or
+31 village clerk may designate a distinctive color of ballot or ink for
+-18-
+
+LB541 LB541
+2025 2025
+1 city, village, or school elections or, when authorized by the Secretary
+2 of State, for elections of any other political subdivision. If a
+3 distinctive color is designated, the color of the ballot shall not be the
+4 same as the sample ballots as provided in section 32-804. The style and
+5 size of type on official ballots shall be as close as possible to the
+6 style used on the ballots furnished by the Secretary of State.
+7 Sec. 20. Section 32-808, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 32-808 (1) Except as otherwise provided in section 32-939.02,
+10 ballots for early voting to be mailed pursuant to section 32-941 shall be
+11 ready for delivery to registered voters not more than twenty-two at least
+12 thirty-five days prior to each statewide primary or general election and
+13 at least fifteen days prior to all other elections.
+14 (2) The election commissioner or county clerk shall not mail or
+15 issue any ballot for early voting if the election to which such ballot
+16 pertains has already been held.
+17 (3) The election commissioner or county clerk shall publish in a
+18 newspaper of general circulation in the county an application form to be
+19 used by registered voters in making an application for a ballot for early
+20 voting after the ballots become available. The application form shall
+21 include the reasons a voter is permitted to apply for a ballot for early
+22 voting pursuant to section 32-938. The publication of the application
+23 shall not be required if the election is held by mail pursuant to
+24 sections 32-952 to 32-959.
+25 Sec. 21. Section 32-902, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 32-902 (1) The election commissioner or county clerk shall cause
+28 instructions for the guidance of registered voters in preparing their
+29 ballots to be printed in large, clear type on cards in English. He or she
+30 shall furnish at least five such cards to each polling place in each
+31 precinct at the same time and in the same manner as the printed ballots.
+-19-
+
+LB541 LB541
+2025 2025
+1 The judges or clerks of election shall post such cards in each voting
+2 booth on the day of election. The card shall contain full instructions on
+3 preparing and casting ballots, including how to cast a write-in vote. The
+4 form and contents of the cards shall be approved by the Secretary of
+5 State.
+6 (2) The election commissioner or county clerk shall cause voting
+7 information to be posted in each polling place on the day of election.
+8 The voting information shall include the following information as
+9 approved by the Secretary of State:
+10 (a) Information regarding the date of the election and the hours
+11 during which polling places will be open;
+12 (b) Instructions for voters who registered to vote pursuant to
+13 section 32-304 or by mail and first-time voters;
+14 (c) General information on voting rights under applicable federal
+15 and state laws, including information on the right of an individual to
+16 cast a provisional ballot and instructions on how to contact the
+17 appropriate officials if these rights are alleged to have been violated;
+18 and
+19 (d) General information on federal and state laws regarding
+20 prohibitions on acts of fraud and misrepresentation.
+21 Sec. 22. Section 32-938, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 32-938 (1) For elections that are not conducted by mail pursuant to
+24 sections 32-952 to 32-960, a A registered voter shall be permitted to
+25 vote early by requesting a ballot for early voting pursuant to section
+26 32-941 or 32-943 for any one of the following reasons: .
+27 (a) The registered voter expects to be absent from his or her county
+28 at the time the election is to be held;
+29 (b) The registered voter will be eighty years of age or older on the
+30 day of the election;
+31 (c) The registered voter is physically unable to go to the polling
+-20-
+
+LB541 LB541
+2025 2025
+1 place;
+2 (d) The registered voter will be unable to go to the polling place
+3 on the day of the election due to his or her hospitalization for medical
+4 or surgical treatment;
+5 (e) The registered voter will be unable to go to the polling place
+6 on the day of the election because the voter is the caretaker of a person
+7 who is hospitalized, ill, or disabled;
+8 (f) The registered voter cannot go to the polling place on the day
+9 of the election because of the tenets of his or her religion;
+10 (g) The registered voter will be unable to go to the polling place
+11 on the day of the election because he or she is confined by public order
+12 under the laws of (i) this state, (ii) any other state or territory of
+13 the United States or the District of Columbia, or (iii) the United
+14 States;
+15 (h) The registered voter is legally blind;
+16 (i) The registered voter has requested that his or her residence
+17 address remain confidential under section 32-331;
+18 (j) The registered voter may be unable to vote in person due to jury
+19 duty; or
+20 (k) The registered voter is a Nebraska resident and (i) a member of
+21 the armed forces of the United States or a spouse or dependent of such
+22 member, (ii) a citizen temporarily residing outside the United States or
+23 of the District of Columbia, or (iii) and overseas citizen.
+24 (2) Any person excluded from voting under section 32-313 or 32-314
+25 shall not be allowed to receive a ballot for early voting.
+26 (3) Any person who fails to register to vote by the voter
+27 registration deadline shall not be allowed to vote except as provided in
+28 section 32-940 or 32-941.
+29 Sec. 23. Section 32-941, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 32-941 (1) Any registered voter who is permitted to vote early
+-21-
+
+LB541 LB541
+2025 2025
+1 pursuant to section 32-938 and who has presented valid photographic
+2 identification to the election commissioner or county clerk may, not more
+3 than one hundred twenty days before any election and not later than the
+4 close of business on the second Friday preceding the election, request a
+5 ballot for the election to be mailed to a specific address at which the
+6 voter has access to mail. A registered voter shall request a ballot in
+7 writing to the election commissioner or county clerk in the county where
+8 the registered voter has established his or her home, shall indicate his
+9 or her residence address, the address to which the ballot is to be mailed
+10 if different, and his or her telephone number if available, and the
+11 reason the voter is requesting the ballot as permitted in section 32-938,
+12 and shall include:
+13 (a) The identification number of the voter's driver's license or
+14 state identification card issued by the State of Nebraska;
+15 (b) A photocopy of any other valid photographic identification
+16 issued to or related to the voter; or
+17 (c) The voter's reasonable impediment certification.
+18 (2) If the identification number of the voter's driver's license or
+19 state identification card issued by the State of Nebraska is provided,
+20 the election commissioner or county clerk shall verify the driver's
+21 license or state identification card data with the information provided
+22 by the Department of Motor Vehicles pursuant to section 32-308.
+23 (3) If such identification or certification is not provided or
+24 cannot be verified, the election commissioner or county clerk shall
+25 contact the voter and inform the voter that the ballot will not be issued
+26 until the voter provides the identification or certification required
+27 under this section.
+28 (4) The registered voter may use the form published by the election
+29 commissioner or county clerk pursuant to section 32-808. The registered
+30 voter shall sign the request. A registered voter may use a facsimile
+31 machine or electronic mail for the submission of a request for a ballot.
+-22-
+
+LB541 LB541
+2025 2025
+1 (5) The election commissioner or county clerk shall include a
+2 registration application with the ballots if the person is not
+3 registered. Registration applications shall not be mailed after the third
+4 Friday preceding the election. If the person is not registered to vote,
+5 the registration application shall be returned not later than the closing
+6 of the polls on the day of the election. No ballot issued under this
+7 section shall be counted unless such registration application is properly
+8 completed and processed.
+9 (5) (6) Subdivisions (1)(a) through (c) of this section do not apply
+10 to any voter who casts a ballot pursuant to section 32-939.02 or
+11 32-939.03.
+12 Sec. 24. Section 32-942, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 32-942 (1)(a) A registered voter of this state who anticipates being
+15 absent from the county of his or her residence on the day of any election
+16 may appear in person before the election commissioner or county clerk not
+17 more than thirty days prior to the day of election for a statewide
+18 primary or general election, and not more than fifteen days prior to the
+19 election for all other elections, present valid photographic
+20 identification, and obtain his or her ballot unless otherwise entitled to
+21 vote in the office under section 32-915.03. The registered voter shall
+22 vote the ballot in the office of the election commissioner or county
+23 clerk or shall return the ballot to the office not later than the closing
+24 of the polls on the day of the election.
+25 (b) A registered voter who is present in the county on the day of
+26 the election and who chooses to vote on the day of the election shall
+27 vote at the polling place assigned to the precinct in which he or she
+28 resides unless he or she is returning a ballot for early voting or voting
+29 pursuant to section 32-943.
+30 (2) If a person registers to vote and requests a ballot at the same
+31 time under this section, he or she shall, in addition to the requirements
+-23-
+
+LB541 LB541
+2025 2025
+1 of subsection (1) of this section, (a)(i) present one of the address
+2 confirmation documents as prescribed in subdivision (1)(a) of section
+3 32-318.01, (ii) present proof that he or she is a member of the armed
+4 forces of the United States who by reason of active duty has been absent
+5 from his or her place of residence where the member is otherwise eligible
+6 to vote, is a member of the United States Merchant Marine who by reason
+7 of service has been away from his or her place of residence where the
+8 member is otherwise eligible to vote, is a spouse or dependent of a
+9 member of the armed forces of the United States or United States Merchant
+10 Marine who has been absent from his or her place of residence due to the
+11 service of that member, or resides outside the United States and but for
+12 such residence would be qualified to vote in the state if the state was
+13 the last place in which the person was domiciled before leaving the
+14 United States, or (iii) state that he or she is elderly or handicapped
+15 and has requested to vote by alternative means other than by casting a
+16 ballot at his or her polling place on election day or (b) vote a ballot
+17 which is placed in an envelope with the voter's name and address and
+18 other necessary identifying information and kept securely for counting as
+19 provided in this subsection. This subsection does not extend the deadline
+20 for voter registration specified in section 32-302. A ballot cast
+21 pursuant to subdivision (b) of this subsection shall be rejected and
+22 shall not be counted if the acknowledgment of registration sent to the
+23 registrant pursuant to section 32-322 is returned as undeliverable for a
+24 reason other than clerical error within ten days after it is mailed,
+25 otherwise after such ten-day period, the ballot shall be counted.
+26 (3) This section applies only to a person who appears in person to
+27 obtain a ballot as provided in subsection (1) of this section and does
+28 not apply to a ballot mailed to a voter pursuant to section 32-945.
+29 Sec. 25. Section 32-943, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 32-943 (1) Any registered voter who is permitted to vote early
+-24-
+
+LB541 LB541
+2025 2025
+1 pursuant to section 32-938 and who has presented valid photographic
+2 identification to the election commissioner or county clerk may appoint
+3 an agent to (a) submit a request for a ballot for early voting on his or
+4 her behalf of such voter or (b) return a ballot to the election
+5 commissioner or county clerk on behalf of such voter. The registered
+6 voter or his or her agent may request that the ballot be sent to the
+7 registered voter by mail or indicate on the request that the agent will
+8 personally pick up the ballot for such registered voter from the office
+9 of the election commissioner or county clerk.
+10 (2) A registered voter or an agent acting on behalf of a registered
+11 voter shall request a ballot in writing to the election commissioner or
+12 county clerk in the county where the registered voter has established his
+13 or her residence, shall indicate the voter's residence address, the
+14 address to which the ballot is to be mailed if different, and the voter's
+15 telephone number if available and precinct if known, and shall:
+16 (a) Present a valid photographic identification of the voter; or
+17 (b) Include, with the request:
+18 (i) The identification number of the voter's driver's license or
+19 state identification card issued by the State of Nebraska;
+20 (ii) A photocopy of valid photographic identification issued to or
+21 related to the voter; or
+22 (iii) The voter's reasonable impediment certification. The
+23 certification shall be verified pursuant to section 32-1002.01.
+24 (3) (2) The registered voter or the voter's agent may use the form
+25 published by the election commissioner or county clerk pursuant to
+26 section 32-808. The registered voter or his or her agent shall sign the
+27 request.
+28 (4) (3) A candidate for office at such election and any person
+29 serving on a campaign committee for such a candidate shall not act as an
+30 agent for any registered voter requesting a ballot pursuant to this
+31 section unless such person is a member of the registered voter's family.
+-25-
+
+LB541 LB541
+2025 2025
+1 The employer of a registered voter shall not act as an agent for the
+2 registered voter requesting a ballot pursuant to this section unless the
+3 employer is a member of the registered voter's family. No agent of such
+4 an employer shall act as an agent pursuant to this section for any
+5 employee of such employer unless the agent is a member of the registered
+6 voter's family. No person shall act as agent for more than two registered
+7 voters in any election.
+8 (5) (4) The agent shall pick up the ballot before one hour prior to
+9 the closing of the polls on election day and deliver the ballot to the
+10 registered voter. The ballot shall be returned not later than the closing
+11 of the polls on the day of the election and shall be returned in an
+12 identification envelope as provided in section 32-947.
+13 (6) (5) The election commissioner or county clerk shall adopt
+14 procedures for the distribution of ballots under this section.
+15 (7) (6) Subdivisions (2)(a) (1)(a) and (b) of this section do not
+16 apply to any voter who casts a ballot pursuant to section 32-939.02 or
+17 32-939.03.
+18 Sec. 26. Section 32-947, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 32-947 (1) Upon receipt of an application or other request for a
+21 ballot to vote early, the election commissioner or county clerk shall
+22 determine whether the applicant is a registered voter and is entitled to
+23 vote as requested. If the election commissioner or county clerk
+24 determines that the applicant is a registered voter entitled to vote
+25 early and the application was received not later than the close of
+26 business on the second Friday preceding the election, the election
+27 commissioner or county clerk shall deliver a ballot to the applicant in
+28 person or by nonforwardable first-class mail, postage paid. The election
+29 commissioner or county clerk or any employee of the election commissioner
+30 or county clerk shall write or cause to be affixed his or her customary
+31 signature or initials on the ballot.
+-26-
+
+LB541 LB541
+2025 2025
+1 (2) An unsealed identification envelope shall be delivered with the
+2 ballot, and upon the back of the envelope shall be printed a form
+3 substantially as follows:
+4 VOTER'S OATH
+5 I, the undersigned voter, declare that the enclosed ballot or
+6 ballots contained no voting marks of any kind when I received them, and I
+7 caused the ballot or ballots to be marked, enclosed in the identification
+8 envelope, and sealed in such envelope.
+9 To the best of my knowledge and belief, I declare under penalty of
+10 election falsification that:
+11 (a) I, .................., am a registered voter
+12 in .................. County;
+13 (b) I reside in the State of Nebraska at ..................;
+14 (c) I have voted the enclosed ballot and am returning it in
+15 compliance with Nebraska law; and
+16 (d) I have not voted and will not vote in this election except by
+17 this ballot; and .
+18 (e) I am permitted to apply for a ballot to vote early for the
+19 following reason:
+20 (Applicant must check the true statement concerning his or her
+21 reason for voting a ballot for early voting.)
+22 . . . I will be absent from the county at the time of the election.
+23 . . . I will be eighty years of age or older on the date of the
+24 election.
+25 . . . I am physically unable to go to the polling place.
+26 . . . I will be unable to go to the polling place on the day of
+27 election because of hospitalization.
+28 . . . I will be unable to go to the polling place on the day of the
+29 election because I am the caretaker of a person who is hospitalized, ill,
+30 or disabled.
+31 . . . I cannot go to the polling place on the day of the election
+-27-
+
+LB541 LB541
+2025 2025
+1 because of the tenets of my religion.
+2 . . . I will be unable to go to the polling place on the day of the
+3 election because of confinement by public order.
+4 . . . I am legally blind.
+5 . . . I have requested that my residence address remain confidential
+6 pursuant to law.
+7 . . . I may be unable to vote in person due to jury duty.
+8 . . . I am a Nebraska resident and (i) a member of the armed forces
+9 of the United States or a spouse or dependent of such member, (ii) a
+10 citizen temporarily residing outside the United States or of the District
+11 of Columbia, or (iii) an overseas citizen.
+12 ANY PERSON WHO SIGNS THIS FORM KNOWING THAT ANY OF THE INFORMATION
+13 IN THE FORM IS FALSE SHALL BE GUILTY OF ELECTION FALSIFICATION, A CLASS
+14 IV FELONY UNDER SECTION 32-1502 OF THE STATUTES OF NEBRASKA. THE PENALTY
+15 FOR ELECTION FALSIFICATION IS IMPRISONMENT FOR UP TO TWO YEARS AND TWELVE
+16 MONTHS POST-RELEASE SUPERVISION OR A FINE NOT TO EXCEED TEN THOUSAND
+17 DOLLARS, OR BOTH.
+18 I also understand that failure to sign below will invalidate my
+19 ballot.
+20 Signature ........................................
+21 (3) If the ballot and identification envelope will be returned by
+22 mail or by someone other than the voter, the election commissioner or
+23 county clerk shall include with the ballot an identification envelope
+24 upon the face of which shall be printed the official title and post
+25 office address of the election commissioner or county clerk.
+26 (4) The election commissioner or county clerk shall also enclose
+27 with the ballot materials:
+28 (a) A registration application, if the election commissioner or
+29 county clerk has determined that the applicant is not a registered voter
+30 pursuant to section 32-945, with instructions that failure to return the
+31 completed and signed application indicating the residence address as it
+-28-
+
+LB541 LB541
+2025 2025
+1 appears on the voter's request for a ballot to the election commissioner
+2 or county clerk by the close of the polls on election day will result in
+3 the ballot not being counted;
+4 (b) A registration application and the oath pursuant to section
+5 32-946, if the voter is without a residence address, with instructions
+6 that the residence address of the voter shall be deemed that of the
+7 office of the election commissioner or county clerk of the county of the
+8 voter's prior residence and that failure to return the completed and
+9 signed application and oath to the election commissioner or county clerk
+10 by the close of the polls on election day will result in the ballot not
+11 being counted; or
+12 (c) Written instructions directing the voter to submit a copy of an
+13 identification document pursuant to section 32-318.01 if the voter is
+14 required to present identification under such section and advising the
+15 voter that failure to submit identification to the election commissioner
+16 or county clerk by the close of the polls on election day will result in
+17 the ballot not being counted.
+18 (5) The election commissioner or county clerk may enclose with the
+19 ballot materials a separate return envelope for the voter's use in
+20 returning his or her identification envelope containing the voted ballot,
+21 registration application, and other materials that may be required.
+22 Sec. 27. Section 32-950.01, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 32-950.01 (1) If an election commissioner or county clerk maintains
+25 a secure ballot drop-box for voters to deposit completed ballots, the
+26 election commissioner or county clerk shall ensure that the secure ballot
+27 drop-box:
+28 (a) Is conspicuously marked as a secure ballot drop-off location and
+29 placed in a well-lit and easily accessible location;
+30 (b) Is under video surveillance at all times;
+31 (c) (a) Is securely fastened to the ground or a concrete slab
+-29-
+
+LB541 LB541
+2025 2025
+1 connected to the ground;
+2 (d) (b) Is tamper-resistant and secured by a lock that can only be
+3 opened by the election commissioner or county clerk or by an election
+4 official designated by the election commissioner or county clerk; and
+5 (e) (c) Complies with the federal Americans with Disabilities Act of
+6 1990 and is accessible as determined by the election commissioner or
+7 county clerk.
+8 (2) The election commissioner or county clerk shall inform the
+9 Secretary of State of each secure ballot drop-box's location no later
+10 than forty-two days prior to any statewide primary or general election.
+11 (3)(a) The election commissioner or county clerk or an election
+12 official designated by the election commissioner or county clerk shall
+13 examine each secure ballot drop-box at least thirty days prior to each
+14 election for which the drop-box will be accessible to make sure:
+15 (i) The mechanism for depositing ballots is working correctly;
+16 (ii) The drop-box interior is clean and in good condition; and
+17 (iii) The drop-box exterior and signage are clean and in good
+18 condition, both physically and cosmetically.
+19 (b) Any person who examines a secure ballot drop-box shall notify
+20 the election commissioner or county clerk regarding concerns or defects,
+21 and the election commissioner or county clerk shall immediately provide
+22 for repairs or resolution. Repairs shall be completed no later than the
+23 sixth Friday prior to any statewide primary or general election and no
+24 later than the fourth Friday prior to any special election.
+25 (4) The election commissioner or county clerk shall post a sign on
+26 or near each secure ballot drop-box indicating that the drop-box is under
+27 twenty-four-hour video surveillance.
+28 (5) (3) Except for a secure ballot drop-box for an election
+29 conducted under section 32-960, the election commissioner or county clerk
+30 or an election official designated by the election commissioner or county
+31 clerk shall open each secure ballot drop-box no later than the sixth
+-30-
+
+LB541 LB541
+2025 2025
+1 Friday prior to any statewide primary or general election and no later
+2 than the fourth Friday prior to any special election. For any statewide
+3 primary or general election, each secure ballot drop-box shall remain
+4 accessible to voters until the deadline for the receipt of ballots as
+5 provided in section 32-908. For any special election, at least one secure
+6 ballot drop-box shall remain accessible to voters until the deadline for
+7 the receipt of ballots as provided in section 32-954.
+8 (6) (4) After a secure ballot drop-box is made available for
+9 depositing ballots, the election commissioner or county clerk shall
+10 ensure that ballots deposited in such secure ballot drop-box are
+11 collected and returned to the office of the election commissioner or
+12 county clerk at least once during each business day.
+13 (7) Immediately upon the deadline for receipt of ballots, the
+14 election commissioner or county clerk or an election official designated
+15 by the election commissioner or county clerk shall (a) close each secure
+16 ballot drop-box in such a way that ballots may not be deposited after
+17 such deadline for deposit has passed and (b) cause the drop-box to remain
+18 closed until the next election at which it will be used.
+19 (8) The election commissioner or county clerk shall install a video
+20 recording device for each secure ballot drop-box. The recordings shall
+21 capture the location of such drop-box and evidence the date and time of
+22 each such recording beginning on the thirtieth day preceding an election
+23 until the last retrieval of ballots from such drop-box at the close of
+24 the polls at such election. Each such recording shall immediately be made
+25 publicly available from the date of recording, but in no case later than
+26 five days after such last retrieval of ballots, without the necessity of
+27 a subpoena or other legal proceedings. The election commissioner or
+28 county clerk shall retain each such recording for a period of twenty-two
+29 months and may destroy the recording at the end of such period, except
+30 that such period may be extended as necessary in response to a pending
+31 investigation, an order of the Secretary of State, or an order of a court
+-31-
+
+LB541 LB541
+2025 2025
+1 of competent jurisdiction.
+2 Sec. 28. Section 32-960, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 32-960 (1) In any county with a population of less than ten thousand
+5 inhabitants, the county clerk may apply to the Secretary of State to mail
+6 ballots for all elections held after approval of the application to
+7 registered voters of any or all of the precincts in the county. The
+8 application shall include a written plan for the conduct of the election
+9 which complies with this section, including a timetable for the conduct
+10 of the election and provisions for the notice of election to be published
+11 and for the application for ballots for early voting notwithstanding
+12 other statutory provisions regarding the content and publication of a
+13 notice of election or the application for ballots for early voting. If
+14 the Secretary of State approves such application for one or more
+15 precincts in the county, the county clerk shall follow the applicable
+16 procedures in sections 32-953 to 32-959 for conducting elections by mail,
+17 except that the deadline for receipt of the ballots shall be the deadline
+18 specified in subsection (2) of section 32-908.
+19 (2) The county clerk of a county that has an approved application
+20 pursuant to subsection (1) of this section:
+21 (a) Shall allow a voter to return the ballot by hand-delivering it
+22 to the office of the county clerk;
+23 (b) Shall maintain at least one secure ballot drop-box available for
+24 voters to deposit completed ballots twenty-four hours per day, starting
+25 at least ten days before the election through the deadline provided in
+26 subsection (1) of this section for the receipt of ballots;
+27 (c) Shall maintain at least one in-person voting location at the
+28 office of the county clerk at which a voter in a precinct subject to a
+29 plan under this section approved by the Secretary of State may receive
+30 and cast a ballot which shall be open on the day of the election from the
+31 time for opening the polls pursuant to section 32-908 through the
+-32-
+
+LB541 LB541
+2025 2025
+1 deadline provided in subsection (1) of this section for the receipt of
+2 ballots;
+3 (d) Shall maintain in-person early voting opportunities as described
+4 in section 32-942; and
+5 (e) May provide additional secure ballot drop-boxes and in-person
+6 voting locations in addition that need not be open according to the
+7 requirements of subdivisions (b) and (c) of this subsection.
+8 Sec. 29. Section 32-1002, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-1002 (1) As the ballots are removed from the ballot box pursuant
+11 to sections 32-1012 to 32-1018, the receiving board shall separate the
+12 envelopes containing the provisional ballots from the rest of the ballots
+13 and deliver them to the election commissioner or county clerk.
+14 (2) Upon receipt of a provisional ballot, the election commissioner
+15 or county clerk shall verify that the certificate on the front of the
+16 envelope or the form attached to the envelope is in proper form and that
+17 the certification has been signed by the voter.
+18 (3) The election commissioner or county clerk shall also (a) verify
+19 that such person has not voted anywhere else in the county or been issued
+20 a ballot for early voting, (b) investigate whether any credible evidence
+21 exists that the person was properly registered to vote in the county
+22 before the deadline for registration for the election, (c) investigate
+23 whether any information has been received pursuant to section 32-308,
+24 32-309, 32-310, or 32-324 that the person has resided, registered, or
+25 voted in any other county or state since registering to vote in the
+26 county, and (d) upon determining that credible evidence exists that the
+27 person was properly registered to vote in the county, make the
+28 appropriate changes to the voter registration register by entering the
+29 information contained in the registration application completed by the
+30 voter at the time of voting a provisional ballot.
+31 (4) A provisional ballot cast by a voter pursuant to section 32-915
+-33-
+
+LB541 LB541
+2025 2025
+1 shall be counted if:
+2 (a) Credible evidence exists that the voter was properly registered
+3 in the county before the deadline for registration for the election;
+4 (b) The voter has resided in the county continuously since
+5 registering to vote in the county;
+6 (c) The voter has not voted anywhere else in the county or has not
+7 otherwise voted early using a ballot for early voting;
+8 (d) The voter has completed a registration application prior to
+9 voting as prescribed in subsection (6) of this section and:
+10 (i) The residence address provided on the registration application
+11 completed pursuant to subdivision (1)(e) of section 32-915 is located
+12 within the precinct in which the person voted; and
+13 (ii) If the voter is voting in a primary election, the party
+14 affiliation provided on the registration application completed prior to
+15 voting the provisional ballot is the same party affiliation that appears
+16 on the voter's voter registration record based on his or her previous
+17 registration application; and
+18 (e) The certification on the front of the envelope or form attached
+19 to the envelope is in the proper form and signed by the voter.
+20 (5) A provisional ballot cast by a voter pursuant to section 32-915
+21 shall not be counted if:
+22 (a) The voter was not properly registered in the county before the
+23 deadline for registration for the election;
+24 (b) Information has been received pursuant to section 32-308,
+25 32-309, 32-310, or 32-324 that the voter has resided, registered, or
+26 voted in any other county or state since registering to vote in the
+27 county in which he or she cast the provisional ballot;
+28 (c) Credible evidence exists that the voter has voted elsewhere or
+29 has otherwise voted early;
+30 (d) The voter failed to complete and sign a registration application
+31 pursuant to subsection (6) of this section and subdivision (1)(e) of
+-34-
+
+LB541 LB541
+2025 2025
+1 section 32-915;
+2 (e) The residence address provided on the registration application
+3 completed pursuant to subdivision (1)(e) of section 32-915 is in a
+4 different county or in a different precinct than the county or precinct
+5 in which the voter voted;
+6 (f) If the voter is voting in a primary election, the party
+7 affiliation on the registration application completed prior to voting the
+8 provisional ballot is different than the party affiliation that appears
+9 on the voter's voter registration record based on his or her previous
+10 registration application; or
+11 (g) The voter failed to complete and sign the certification on the
+12 envelope or form attached to the envelope pursuant to subsection (3) of
+13 section 32-915.
+14 (6) An error or omission of information on the registration
+15 application or the certification required under section 32-915 shall not
+16 result in the provisional ballot not being counted if:
+17 (a)(i) The errant or omitted information is contained elsewhere on
+18 the registration application or certification; or
+19 (ii) The information is not necessary to determine the eligibility
+20 of the voter to cast a ballot; and
+21 (b) Both the registration application and the certification are
+22 signed by the voter.
+23 (7) Upon determining that the voter's provisional ballot is eligible
+24 to be counted, the election commissioner or county clerk shall remove the
+25 ballot from the envelope without exposing the marks on the ballot and
+26 shall place the ballot with the ballots to be counted by the county
+27 canvassing board.
+28 (8) The election commissioner or county clerk shall notify the
+29 system administrator of the system created pursuant to section 32-202 as
+30 to whether the ballot was counted and, if not, the reason the ballot was
+31 not counted.
+-35-
+
+LB541 LB541
+2025 2025
+1 (9) The verification and investigation shall be completed within
+2 seven business days after the election.
+3 Sec. 30. (1) A hand count shall include only the actual voted paper
+4 ballots, physically marked by the actual voter or pursuant to section
+5 32-1016, and not the voter's choices reproduced via any electronic device
+6 or equipment, including, but not limited to, printers, except that any
+7 ballot voted by a person with disabilities using a machine to assist in
+8 marking the ballot shall be included in the hand count.
+9 (2) A hand count shall also include providing for (a) verification
+10 of the covert watermark and (b) the comparison and verification of the
+11 signature on the envelope holding a ballot for early voting with the
+12 signature on file with the election commissioner or county clerk for the
+13 respective voter who requested the ballot for early voting.
+14 Sec. 31. Section 32-1041, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 32-1041 (1) The election commissioner or county clerk may use
+17 optical-scan ballots or voting systems approved by the Secretary of State
+18 to allow registered voters to cast their votes at any election. The
+19 election commissioner or county clerk may (a) conduct a hand count or (b)
+20 use vote counting devices and voting systems approved as provided in
+21 subsection (3) of this section by the Secretary of State for tabulating
+22 the votes cast at any election. Vote counting devices shall include
+23 electronic counting devices such as optical scanners.
+24 (2) No electronic voting system shall be used under the Election
+25 Act.
+26 (3) The election commissioner or county clerk shall only use a Any
+27 new voting or counting system that is shall be approved prior to each
+28 statewide primary election by the Secretary of State, each election
+29 commissioner appointed by the Governor, one election commissioner chosen
+30 by rotation from each congressional district from the remaining counties
+31 that have a separate office of election commissioner, one county clerk
+-36-
+
+LB541 LB541
+2025 2025
+1 chosen by rotation from each congressional district from a county in
+2 which the county clerk also serves as the election commissioner, and an
+3 independent information technology company that is qualified to assess
+4 such system and that is not associated with any political party or the
+5 vendor of the system prior to use by an election commissioner or county
+6 clerk. The Secretary of State may adopt and promulgate rules and
+7 regulations to establish different procedures and locations for voting
+8 and counting votes pursuant to the use of the any new voting or counting
+9 system. The procedures shall be designed to preserve the secrecy, safety,
+10 and confidentiality of each vote cast and the secrecy and security and
+11 transparency of the counting process, to establish security provisions
+12 for the prevention of fraud and the prevention of interference by
+13 malicious actors, and to ensure that the election is conducted in a fair
+14 manner.
+15 Sec. 32. Section 32-1049, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 32-1049 Any election commissioner or county clerk using a vote
+18 counting device to count ballots in a centralized location shall:
+19 (1) Provide for the proper sealing of the containers and the
+20 security of the ballots when transported from each polling place to the
+21 centralized location and when removed from their containers and delivered
+22 to the personnel who operate the vote counting devices;
+23 (2) Provide a process of counting which allows for the ballots of
+24 each precinct to be placed in a sealed container and placed in a secure
+25 location after the counting process has been completed;
+26 (3) Provide for a method of overseeing the ballots that have been
+27 overvoted or damaged which does not involve judging voter intent to
+28 assure that these ballots have not been or will not be intentionally
+29 mismarked;
+30 (4) Provide for a procedure for counting write-in votes when such
+31 votes and names of write-in candidates are to be counted and recorded;
+-37-
+
+LB541 LB541
+2025 2025
+1 (5) Provide for at least three independent tests to be conducted
+2 before counting begins to verify the accuracy of the counting process,
+3 which includes the computerized program installed for counting various
+4 ballots by vote counting devices, by (a) the election commissioner or
+5 county clerk, (b) the chief deputy election commissioner or a registered
+6 voter with a different party affiliation than that of the election
+7 commissioner or county clerk, and (c) the person who installed the
+8 program in the vote counting device or the person in charge of operating
+9 the device;
+10 (6) Provide for storing and safeguarding the magnetic tapes or
+11 computer chips of the vote counting devices for the required period of
+12 time;
+13 (7) Provide the appropriate security personnel or measures necessary
+14 to safeguard the secrecy and security of the counting process;
+15 (8) Develop a procedure for picking up and counting ballots during
+16 election day at the discretion of the election commissioner or county
+17 clerk. No report or tabulation of vote totals for such ballots shall be
+18 produced or generated prior to one hour before the closing of the polls;
+19 (9) Develop a procedure for picking up and transporting ballots from
+20 a secure ballot drop-box to the office of the election commissioner or
+21 county clerk; and
+22 (10) Submit a written plan to the Secretary of State specifically
+23 outlining the procedures that will be followed on election day to
+24 implement this section. The plan shall be submitted no later than twenty-
+25 five days before the election and shall be modified, as necessary, for
+26 each primary, general, or special election; and .
+27 (11) Provide for a procedure to hand count at least twenty-five
+28 percent of the ballots at each election to verify the tabulation of votes
+29 by the vote counting devices.
+30 Sec. 33. Section 32-1118, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-38-
+
+LB541 LB541
+2025 2025
+1 32-1118 (1) The apparent loser at a general election for a seat in
+2 the Legislature may secure a recount of the ballots cast at such election
+3 by filing a petition for a recount in duplicate with the Secretary of
+4 State no later than the fourth Monday after the election. The petition
+5 shall be accompanied by a corporate surety bond in the penal sum of two
+6 thousand five hundred dollars conditioned for the payment of costs
+7 pursuant to section 32-1116 if the recount fails to change the results of
+8 the election. If at any stage of the recount the amount of the bond
+9 becomes inadequate, the Secretary of State may order an increase in the
+10 amount of such bond. The petition shall specify if a hand count is
+11 requested by the person filing the petition.
+12 (2) The Secretary of State shall, by certified or registered mail,
+13 give notice of the filing of a petition under this section not later than
+14 the day following the filing of the petition and deliver a copy of the
+15 petition to the declared winner. The Secretary of State shall also, by
+16 the most practicable means of communication, direct the election
+17 commissioner or county clerk of each county involved to deliver the
+18 ballot boxes to the office of the election commissioner or county clerk
+19 designated by the Secretary of State no later than the following Monday.
+20 (3) After the ballot boxes have been received at the designated
+21 office, they shall be opened and the ballots for member of the
+22 Legislature shall be recounted under the supervision of the Secretary of
+23 State. The Secretary of State may employ such persons as may be necessary
+24 to conduct the recount and fix their compensation. If a hand count is
+25 requested pursuant to subsection (1) of this section, the recount shall
+26 be conducted by hand count.
+27 (4) The Secretary of State shall, on or before December 20, certify
+28 the results of the recount to each of the parties to the recount and to
+29 the Clerk of the Legislature.
+30 Sec. 34. Section 32-1119, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-39-
+
+LB541 LB541
+2025 2025
+1 32-1119 (1) If it appears as evidenced by the abstract of votes that
+2 any candidate failed to be nominated or elected by a margin of (a) one
+3 percent or less of the votes received by the candidate who received the
+4 highest number of votes for the office at an election in which more than
+5 five hundred total votes were cast or (b) two percent or less of the
+6 votes received by the candidate who received the highest number of votes
+7 for the office at an election in which five hundred or less total votes
+8 were cast, then such candidate shall be entitled to a recount. Any losing
+9 candidate may waive the his or her right to a recount by filing a written
+10 statement with the Secretary of State, election commissioner, or county
+11 clerk with whom such candidate he or she made his or her filing. All
+12 expenses of a recount under this section shall be paid by those political
+13 subdivisions involved in the recount.
+14 (2) Recounts shall be made by the county canvassing board which
+15 officiated in making the official county canvass of the election returns.
+16 If any member of the county canvassing board cannot participate in the
+17 recount, another person shall be appointed by the election commissioner
+18 or county clerk to take the member's place.
+19 (3) Recounts for candidates who filed with the Secretary of State
+20 shall be made on the fifth Wednesday after the election and shall
+21 commence at 9 a.m. The Secretary of State shall inform each election
+22 commissioner or county clerk of the names of the candidates for which the
+23 board of state canvassers deems a recount to be necessary.
+24 (4) The election commissioner or county clerk shall be responsible
+25 for recounting the ballots for those candidates for whom the county
+26 canvassing board deems a recount to be necessary. The recount shall be
+27 made as soon as possible after the adjournment of the county canvassing
+28 board, except that if a recount is required under subsection (3) of this
+29 section, the recounts may be conducted concurrently.
+30 (5) The Secretary of State, election commissioner, or county clerk
+31 shall notify all candidates whose ballots will be recounted of the time,
+-40-
+
+LB541 LB541
+2025 2025
+1 date, and place of the recount. Candidates whose ballots will be
+2 recounted may be present or be represented by an agent appointed by the
+3 candidate.
+4 (6) The procedures for the recounting of ballots shall be the same
+5 as those used for the counting of ballots on election day, except that
+6 any election commissioner or county clerk shall have the option to
+7 recount the ballots manually by hand count. The recount shall be
+8 conducted at the county courthouse, except that if vote counting devices
+9 are used for the counting or recounting, such counting or recounting may
+10 be accomplished at the site of the devices. Counties counting ballots by
+11 using a vote counting device shall first recount the ballots by use of
+12 the device. If substantial changes are found, the ballots shall then be
+13 counted using such device in any precinct which might reflect a
+14 substantial change.
+15 Sec. 35. Original sections 32-306, 32-307, 32-310, 32-311.01,
+16 32-312.05, 32-315, 32-320, 32-321, 32-323, 32-325, 32-806, 32-808,
+17 32-902, 32-938, 32-1118, and 32-1119, Reissue Revised Statutes of
+18 Nebraska, and sections 32-101, 32-103, 32-202, 32-203, 32-206, 32-308,
+19 32-312, 32-941, 32-942, 32-943, 32-947, 32-950.01, 32-960, 32-1002,
+20 32-1041, and 32-1049, Revised Statutes Cumulative Supplement, 2024, are
+21 repealed.
+22 Sec. 36. The following sections are outright repealed: Section
+23 32-309, Reissue Revised Statutes of Nebraska, and sections 32-304 and
+24 32-320.01, Revised Statutes Cumulative Supplement, 2024.
+-41-
+
+[DELETED: yHA B F A A r t e t a s 33 3 3 3 3 3 33 3 3 3 3 3 3 a33 3 3 3 3 3 3 33 3 3 3 3 3 a 3R S C S 2 t e ov r t r v r b m tc v r p t r w o0o b t p r t v b m o 1b2d t p r f h c t c3p r t v a c m t e4o5s a t o r s 3 R R6S o N a s 3 a 3 R7S8B1L52]
+[DELETED: S 1 S 3 R S C S23sS 2 S 3 R S C S23 F p o t E A t d f isu0S1b2a e d o e i b n l t3s4d5S 4 S 3 R S C S6273 I a t a o d p b l t8S9(0s1(2c a o e o i p f d3o o t o r o v a t c o4e5(6( W t a a a o t A G m7u8(9c i c o t d u s 3 a t031(1L52]
+[DELETED: 3( C w t D o A S fs(t(R(i0c a c c f d t t p u1r2(3( A a p r a r a n f4e5(6n o a I w t a v w c a p7b8a i t v w n c t r t t v w n9c0p n t p t s c a1i2t f a s A t i a a i3p b s b r t t i w c t4b5( P a w d t v i6r a p T S o S s e7m8o9t0i1( P a p a c r t v1L52]
+[DELETED: i r a p i ct( P i a i t t D oH a H S t D o M V a tS D o E f d b s a tN r r t r t p vpv(0o1a p o t m o t v r l2i3S 5 S 3 R S C S4253 I a t a o p p b l t6S7( I w o w t f o a c b a8p a r t p a p o e9c c c t e a o e0o i t d o o t o t c o1p a g e a t r o q2e3(4o5( A a p r a r i r t t6r7r8b9( E t a b i a b b t A0G1t1L52]
+[DELETED: S 6 S 3 R S C S23c b N 1 p t t s p e Scf t v e d d a o p d ad b t S o S T o e cs b m a g a s i n w l b tS0( T S o S s d a c o t o1e c t t s p h o e r2p3t4(5f6p7S8n9S 7 S 3 R R S o N i0a132t3t o o o T d r s o c4r5i T d r s r t c6r7c8n9a t T e c o c c s m a0a o r a l f d p t t n1e t e p r b a d r D1L52]
+[DELETED: r s n r v a 6 p o t t Fp a e A r a r a tdc u a t e T s s n a trcS 8 S 3 R R S o N ia30c1o2f3c4u t t o o r e e a o5p6S 9 S 3 R S C S72839s0s1D2o t v t a o t i i3c p o a f v r T4D o M V s e i a a w t5C o S S u s 2 o t f6S S A 4 U 4 a s s e o7A8( T D o M V w t a o t9S o S s p a v r a0w1a1L52]
+[DELETED: o o r m v o l a o or s i c o a r t T vrtd o i i t a f t m vo l o s i c e t i mr a s s o t a T d a tS o S s m t v r aa t a p a f a o l o s0i1t2e t b r t v a s e A r3a r a t d s n b p b t4e5( T D o M V i c w t6S o S s d a p t e t7v8o t s t t e c o c c o t9c0i1d a i d f t p w s b o o2b3s4c i w t a r n l t t d a5r6r w f d p t t t F p a7e i s b t n l t f d a i8o9d0r s b c a s o b u f v1r1L52]
+[DELETED: ( ( F e v r a f wiSo t a d i a s f t D oMsEsw t a i a c o t U S w t0a i o s a t r t v t a1r2r a t d o b o t a t p3a4a w a p p t a m v5o6b7( ( S a p i i t v r8p p t t s a s 3 s n b9c d r o a o e o t e0c1S 1 S 3 R R S o N i2a334H5v a t t o a r o c o a f t6f p a a ( T S N7A P ( t m p ( t W p a8d9( t v r p a ( a o p0a p o p p f t p o p1s t p w d I t a r o1L52]
+[DELETED: cd t a o c s p t o trdc( T d a o c s m t mr a d i s 3 a a tt o a r o c o a a s pa0t1a f a w p v p2i3a4( D p a a c i i t5v r p p t t s s n b6c d r o a o e o t e7c8( T a m r t c v r9a t t d a o c o m p0m1c a p i s 3 I t a r t2c a t t d a o c t3d a o c s d t a t t4e5o t d a o c i l n l t t6d7i t a i c r t t d a o8c w f d p t t t F p a9e0i i r T e c o c c s i1n1L52]
+[DELETED: ct l T a s b c a r t tdFA r a r a t d s n bpe(t0S1a233a r a w m b u s t r t4v a u v r r A a m u t5a t r t v o t u h o h v6r7o8s9i0m1a f r T I a a w i e t2r3e c o c c t i f t4a5p6(7p8(9o0o1( I t a i s b m a t a i1L52]
+[DELETED: rwo a p i w i c a v o a c o u b b s g c p o ogo t a a t a o t a i o t aa(o0p i , t a p m o p1a2(3a4t5t6( D b t a p m o p7a8b9(0i1(2o t a f r s a a o3r t t a i w t a i4p5S 1 S 3 R S C S62738S p t s 3 o 3 s p t9i0a1C y a c o t U S o A1L52]
+[DELETED: w b t c t i w t a i o i n cAyNtW y c ' i r t e o tqN n o t a g t f a l n i0f1o2R n a n o t s a o o3l o t d w t a r i t i 4n5o i s a i s b i a w6g7r8b9s0c1w2P3d4A O L R n a n o t s5a6r7T N t n o t a A t8r9n i a u n a s d s p t0l1E1L52]
+[DELETED: t a a d s b m t t e a ip a s d s p t l o taD L N O L F D O S SN t a h a N d l t lntDt0a c a s t r a i t1a2b t a p m o p a o w t3c4c5P6w7D8s9o0t1y2R3o435p6P A t p a o t a a7D8N9p e f s a l o y m i 0p p a o t r a I y1r w a p p a ( y w1L52]
+[DELETED: r o t n b f s a l o apyOtI f t s f i i apTe0(1a2(3c4( I h n b o f t b n c m5(6(7A r w s t a k t a o t8i i t a i f s b g o a C I9f0a1r2A S t a t a h o h3s4S5a637u8d9d t r a w d t t e0c o c c o t d t r a1w1L52]
+[DELETED: s t r a b m o p t s3S 1 S 3 R R S o N ia3 U r a c v r apwa r w t s c t e c oc0v t t n n o n a a s s a a1c2h3S 1 S 3 R R S o N i4a536s b t o r a p b t7S o S o t n m v r a8p9o S s p s o r a t a0r o o t U S A F i t S o1N2p s o r a f t S o3S4a t t S T f c t t E5A6S 1 S 3 R R S o N i7a839f0c c T S o S a t e c o1c c s m r a p b t1L52]
+[DELETED: S o S a a m p t a i ppco a m p r l o t a o ar(t S o S o s a a t t S oS p t s 3 t o s d ta0w1o e t i t a i r t t o o2s3F4d a t d i i r T d f r 5c a t t o o t S o S o6s a a p t s 3 i t c o7b8v a s e A r a r a t9d0c u a t e T o o t S o S1s2o3s4(5t6e7e8( T a s b p o o b t t9F0( T a s b r n l t t s1T1L52]
+[DELETED: (pt(d t a s n b p u a te W n s b g t a a wrff r I t a i i t e0c1p t r i i f t p v2p3t o t s a i d a d i4s 3 p t t d f v r o t5c a s a c r a i a t6m7n e A p c r t r r8a9b0S 1 S 3 R R S o N i1a233s n c a v r f p o s a4t5v u a c a c r a h b6r7h p v p i A s o 8p9e c o c c r t r0a o t r a t r h p v1p1L52]
+[DELETED: S 1 S 3 R R S o N ia3 ( A r a c a s b rst e c o c c o s p ts 3 t t S o S T a ar a t p p p t s 33 o 3 a a t u a v r0r1(2o3p4(5p t s 3 o m s t i i r b t6e c o c c o o b t d7p8( A v t s o t p r o9t r v t e c o c c s0m1e2a3r h b c a s i t a o t4r5S 1 S 3 R R S o N i6a73 A o b p f e c8p t t E A s h a c w t9i0i1v c m d a d c o b o i f1L52]
+[DELETED: co S f e o a o p s I dsssS 2 S 3 R R S o N ia3 ( E a o p i s 30b1r2t3a4( T e c o c c s n m o5i6p7( T e c o c c s p i 8n9u0v a t b b a T a f s1i2v p t s 3 T p o t a3s n b r i t e i h b m p t4s5S 2 S 3 R R S o N i6a73 ( T e c o c c s c8i f t g o r v i p t9b0s f a l f s c t e p p i e1p1L52]
+[DELETED: T j o c o e s p s c i e vbpf a c o t c s b a b t S oS( T e c o c c s c viT v i s i t f i aa0( I r t d o t e a t h1d2( I f v w r t v p t3s4( G i o v r u a f5a6c a p b a i o h t c t7a8a9( G i o f a s l r0p1S 2 S 3 R R S o N i2a334s 3 t 3 a A r v s b p t5v637(8a9(0d1(1L52]
+[DELETED: p(oo(ow(o0(1o2u3t U S o t D o C o ( t U4S5(6( T r v h r t h o h r7a8(9d0(1t2m3o4(5s6( A p w f t r t v b t v7r8s9S 2 S 3 R S C S0213 ( A r v w i p t v e1L52]
+[DELETED: p t s 3 a w h p v pitcbvwto0i d a h o h t n i a a t1r2a3( T i n o t v d l o4s5( A p o a o v p i6i7(8(9s0t e c o c c s v t d1l2b3( I s i o c i n p o4c b v t e c o c c s5c6u t v p t i o c r7u8(9c0v s s t r A r v m u a f1m1L52]
+[DELETED: ( T e c o c c s i r a w t b i t p i nrFto t p o t d o t e N b i u tsc(0t a v w c a b p t s 3 o132S 2 S 3 R S C S32435a6m7m t t d p t t d o e f a s8p9e f a o e p v p0i1v2v t b i t o o t e c o c3c4o5(6t7v8r9p0(1t1L52]
+[DELETED: o s ( o t s ( p o o t ac d a p i s ( o s3fftom i o e t v i a s o d o m0M1s2s3t l p i w t p w d b l t4U5a6b7w i p i a e w t v n a a a8o9p0f v r s i s 3 A b c1p t s ( o t s s b r a2s3r4r o t c e w t d a i i m5o6(7o8n9S 2 S 3 R S C S0213 ( A r v w i p t v e1L52]
+[DELETED: p t s 3 a w h p v piah b o s v o ( r a b t t ec o c c o b o s v T rv o h o h a m r t t b b s t trpo0(1v2c3o h r s i t v r a t4a5t6(7(8( T i n o t v d l o9s0(1r2( T v r i c T3c4(5p b t e c o c c p t6s7r8( ( A c f o a s e a a p9s0a f a r v r a b p t t1s1L52]
+[DELETED: T e o a r v s n a a a a f trea e s a a a a p t t s f aevv(t0r1o t p o t d o t e a s b r i a2i3( ( T e c o c c s a4p5(6a738S 2 S 3 R S C S9203 ( U r o a a o o r f 1b t v e t e c o c c s2d3v a r I t e c o c c4d t t a i a r v e t v5e a t a w r n l t t c o6b o t s F p t e t e7c8p9c0o1s1L52]
+[DELETED: (b a u t b o t e s b p a fsVI t u v d t t e b obceT0e1( I . a a r v2i3(4( I h v t e b a a r i i5c6(7t8( I a p t a f a b t v e f t9f0( m c t t s c h o h1r2.3. . . I w b e y o a o o o t d o t4e5.6. . . I w b u t g t t p p o t d o7e8.9e0o1.1L52]
+[DELETED: b.e..p..o t U S o a s o d o s m ( 0c1o2A3I4I5F6M P S O A F N T E T T7D8I a u t f t s b w i m9b0S1( I t b a i e w b r b2m o b s o t t v t e c o3c c s i w t b a i e4u t f o w s b p t o t a p5o6( T e c o c c s a e7w8( A r a i t e c o9c0p1c1L52]
+[DELETED: aot( A r a a t o p t s3t t r a o t v s b d t o tov p r a t f t r t c as0b1b2(3i d p t s 3 i t v i4r t p i u s s a a t5v6o7t8(9b m a s r e f t v u i0r1r2S32435a s b d f v t d c b t6e7d8(9p0(1( ( I s f t t g o a c s1L52]
+[DELETED: c(o b t e c o c c o b a eo(1 a i a a d b t e c oc( T e c o c c s i tS o S o e s b d l n l0t1( T e c o c c o a e2o d b t e c o c c s3e4e5(6(7( T d e a s a c a i g8c9( A p w e a s b d s n0t1a2f3s4l5(6o7t8( ( E f a s b d f a e9c0o1c s o e s b d n l t t s1L52]
+[DELETED: Ftp o g e e s b d s ra t v u t d f t r o b apbt( ( A a s b d i m a fd b t e c o c c s0e t b d i s s b d a1c a r t t o o t e c o2c3( I u t d f r o b t4e5b6b d i s a w t b m n b d a7s8c9(0r d f e s b d T r s1c2e3u4t5p6f7a s o o l p T e c o8c9m0t1i1L52]
+[DELETED: oS 2 S 3 R S C S23ib f a e h a a o t a tr v o a o a o t p i t c Taw0o1a f t a f b f e v n2o s p r t c a p o 3n4t S o S a s a f o o m5p i t c t c c s f t a6p7e8s9(0p1(2t3(4v5a6s7( S m a l o i v l a t8o9p0a1t f o t p p t s 3 t t1L52]
+[DELETED: db(i( M p a s b d a iv l i a t n n b o a t trS 2 S 3 R S C S2031t2e3a4(5o c c s v t t c o t f o t6e7t8(9t0a1e t t p w p r t v i t c2b t d f r f t e ( i3w a i h b r p t s 343 3 o 3 t t p h r r o5v i a o c o s s r t v i t6c7p w p r t v i t c m t8a c t t v r r b e t9i c i t r a c b t0v1(1L52]
+[DELETED: s(i( T v h r i t c c sr(o( T v h c a r a p tv0(1c p t s ( o s 3 i l2w3( I t v i v i a p e t p4a5v6o t v v r r b o h o h p7r8(9t0(1s2(3d4( I h b r p t s 353 3 o 3 t t v h r r o6v i a o c o s s r t v i t7c8(9h0(1p t s ( o t s a s ( o1L52]
+[DELETED: s(c p t s ( o s 3 i i di( I t v i v i a p e t papo t v v r r b o h o h p0r1(2e3s4( A e o o o i o t r5a6r7(8t9(0o1( B t r a a t c a2s3(4t5b f t e w e t m o t b a6s p t b w t b t b c b t c7c8( T e c o c c s n t9s0t1n1L52]
+[DELETED: ( T v a i s b c wsSb p m b t a v o p t s3obm(0o1s o t e h a b f e v w t2s3r4S 3 S 3 R S C S5263 ( T e c o c c m u7o8t a r v t c t v a a e T9e0u v c d a v s a a p i1s2t v c a a e V c d s i3e4( N e v s s b u u t E5A6(7n v o c s t i s b a p t e8s p e b t S o S e e9c0b1t1L52]
+[DELETED: c b r f e c d f a c iwi i t c t i q t asvc T S o S m a a p r ar t e d p a l f vas0a1t o t c p t e s p2f t p o f a t p o i b3m4m5S 3 S 3 R S C S6273 A e c o c c u a v8c9( P f t p s o t c a t0s1c2t3(4e5l6(7o o d w d n i j v i t8a t t b h n b o w n b i9m0( P f a p f c w v w s1v1L52]
+[DELETED: ( P f a l t i t t b cbw i t c p i f c vb b v c d b ( t e c ocv w a d p a t t o t ec o c c a ( t p w i tpt0( P f s a s t m t o1c2t3(4t5(6e d a t d o t e c o c7c8p9(0a1c2( S a w p t t S o S s3o t p t w b f o e d t4i5f6e7( P f a p t h c a l t8p9b0S1a1L52]
+[DELETED: 3tb f a p f a r i d w t S oSst f h d c f t p o cpt e I a a s o t r t a o t bb0a o s b T p s s i a h c i1r2(3g4t5p6t m p m o c d t e7c o c c o e c i t d t8b9d0( A t b b h b r a t d1o t s b o a t b f m o t2L3S4t c t r a f t c I a h c i5r6b7(8t9t0S1a1L52]
+[DELETED: 3aphf h t v w c o ( t p o l o tvfwc0s1c w w s c h o s m h o h f A2e3s4( R s b m b t c c b w5o6I7r8o9( R f c w f w t S o S0s b m o t f W a t e a s1c a 9 a T S o S s i e e2c3b4(5f r t b f t c f w t c6c7m8b9s0(1s1L52]
+[DELETED: d a p o t r C w b w brc(aa e c o c c s h t o tr t b m b h c T r s bca0b1u2t3c u s d i a p w m r 4s5S 3  O s 3 3 3 363 3 3 3 3 3 3 373 3 3 a 3 R R S o8N a s 3 3 3 3 3 393 3 3 3 3 3 3 3031r2S 3  T f s a o r S33 R R S o N a s 3 a431L52]

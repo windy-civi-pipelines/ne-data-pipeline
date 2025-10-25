@@ -1,0 +1,297 @@
+Title: LEGISLATIVE BILL 466
+Official Title: LEGISLATIVE BILL 466
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB466 LB466
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Bosn, 25.
+Read first time January 21, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to juvenile justice; to amend section 43-245,
+2 Revised Statutes Cumulative Supplement, 2024; to redefine a term;
+3 and to repeal the original section.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+LB466 LB466
+2025 2025
+1 Section 1. Section 43-245, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 43-245 For purposes of the Nebraska Juvenile Code, unless the
+4 context otherwise requires:
+5 (1) Abandonment means a parent's intentionally withholding from a
+6 child, without just cause or excuse, the parent's presence, care, love,
+7 protection, and maintenance and the opportunity for the display of
+8 parental affection for the child;
+9 (2) Age of majority means nineteen years of age;
+10 (3) Alternative to detention means a program or directive that
+11 increases supervision of a youth in the community in an effort to ensure
+12 the youth attends court and refrains from committing a new law violation.
+13 Alternative to detention includes, but is not limited to, electronic
+14 monitoring, day and evening reporting centers, house arrest, tracking,
+15 family crisis response, and temporary shelter placement. Except for the
+16 use of manually controlled delayed egress of not more than thirty
+17 seconds, placements that utilize physical construction or hardware to
+18 restrain a youth's freedom of movement and ingress and egress from
+19 placement are not considered alternatives to detention;
+20 (4) Approved center means a center that has applied for and received
+21 approval from the Director of the Office of Dispute Resolution under
+22 section 25-2909;
+23 (5) Civil citation means a noncriminal notice which cannot result in
+24 a criminal record and is described in section 43-248.02;
+25 (6) Cost or costs means (a) the sum or equivalent expended, paid, or
+26 charged for goods or services, or expenses incurred, or (b) the
+27 contracted or negotiated price;
+28 (7) Criminal street gang means a group of three or more people with
+29 a common identifying name, sign, or symbol whose group identity or
+30 purposes include engaging in illegal activities;
+31 (8) Criminal street gang member means a person who willingly or
+-2-
+LB466 LB466
+2025 2025
+1 voluntarily becomes and remains a member of a criminal street gang;
+2 (9) Custodian means a nonparental caretaker having physical custody
+3 of the juvenile and includes an appointee described in section 43-294;
+4 (10) Guardian means a person, other than a parent, who has qualified
+5 by law as the guardian of a juvenile pursuant to testamentary or court
+6 appointment, but excludes a person who is merely a guardian ad litem;
+7 (11) Juvenile means any person under the age of eighteen;
+8 (12) Juvenile court means the separate juvenile court where it has
+9 been established pursuant to sections 43-2,111 to 43-2,127 and the county
+10 court sitting as a juvenile court in all other counties. Nothing in the
+11 Nebraska Juvenile Code shall be construed to deprive the district courts
+12 of their habeas corpus, common-law, or chancery jurisdiction or the
+13 county courts and district courts of jurisdiction of domestic relations
+14 matters as defined in section 25-2740;
+15 (13) Juvenile detention facility has the same meaning as in section
+16 83-4,125;
+17 (14) Legal custody has the same meaning as in section 43-2922;
+18 (15) Mental health facility means a treatment facility as defined in
+19 section 71-914 or a government, private, or state hospital which treats
+20 mental illness;
+21 (16) Nonoffender means a juvenile who is subject to the jurisdiction
+22 of the juvenile court for reasons other than legally prohibited conduct,
+23 including, but not limited to, juveniles described in subdivision (3)(a)
+24 of section 43-247;
+25 (17) Parent means one or both parents or stepparents when the
+26 stepparent is married to a parent who has physical custody of the
+27 juvenile as of the filing of the petition;
+28 (18) Parties means the juvenile as described in section 43-247 and
+29 his or her parent, guardian, or custodian;
+30 (19) Physical custody has the same meaning as in section 43-2922;
+31 (20) Except in proceedings under the Nebraska Indian Child Welfare
+-3-
+LB466 LB466
+2025 2025
+1 Act, relative means father, mother, grandfather, grandmother, brother,
+2 sister, stepfather, stepmother, stepbrother, stepsister, uncle, aunt,
+3 first cousin, nephew, or niece;
+4 (21) Restorative justice means practices, programs, or services that
+5 emphasize repairing the harm caused to victims and the community by
+6 persons who have caused the harm or committed an offense. Restorative
+7 justice practices may include, but are not limited to, victim youth
+8 conferencing, victim-offender mediation, youth or community dialogue,
+9 panels, circles, and truancy mediation;
+10 (22) Restorative justice facilitator means a qualified individual
+11 who has been trained to facilitate restorative justice practices. A
+12 qualified individual shall be approved by the referring county attorney,
+13 city attorney, or juvenile or county court judge. Factors for approval
+14 may include, but are not limited to, an individual's education and
+15 training in restorative justice principles and practices; experience in
+16 facilitating restorative justice sessions; understanding of the necessity
+17 to do no harm to either the victim or the person who harmed the victim;
+18 and proven commitment to ethical practices;
+19 (23) Seal a record means that a record shall not be available to the
+20 public except upon the order of a court upon good cause shown;
+21 (24) Secure detention means detention in a highly structured,
+22 residential, hardware-secured facility designed to restrict a juvenile's
+23 movement;
+24 (25) Staff secure juvenile facility means a juvenile residential
+25 facility operated by a political subdivision (a) which does not include
+26 construction designed to physically restrict the movements and activities
+27 of juveniles who are in custody in the facility, (b) in which physical
+28 restriction of movement or activity of juveniles is provided solely
+29 through staff, (c) which may establish reasonable rules restricting
+30 ingress to and egress from the facility, and (d) in which the movements
+31 and activities of individual juvenile residents may, for treatment
+-4-
+LB466 LB466
+2025 2025
+1 purposes, be restricted or subject to control through the use of
+2 intensive staff supervision. Staff secure juvenile facility does not
+3 include any institution operated by the Department of Correctional
+4 Services;
+5 (26) Status offender means a juvenile who has been charged with or
+6 adjudicated for conduct which would not be a crime if committed by an
+7 adult, including, but not limited to, juveniles charged under subdivision
+8 (3)(b) of section 43-247 and sections 53-180.01 and 53-180.02;
+9 (27) Traffic offense means any nonfelonious act in violation of a
+10 law or ordinance regulating vehicular or pedestrian travel, whether
+11 designated a misdemeanor or a traffic infraction; and
+12 (28) Young adult means an individual older than eighteen years of
+13 age but younger than under twenty-one years of age.
+14 Sec. 2. Original section 43-245, Revised Statutes Cumulative
+15 Supplement, 2024, is repealed.
+-5-
+[DELETED: yBAR S C S 2 t r a taB6L52]
+[DELETED: S 1 S 4 R S C S24 F p o t N J C u tc( A m a p i w f cp a m a t o f t d op(0( A t d m a p o d t1i2t3A t d i b i n l t e4m d a e r c h a t5f6u o m c d e o n m t t7s p t u p c o h t8r a y f o m a i a e f9p0(1a f t D o t O o D R u2s3(4a5(6c f g o s o e i o ( t7c8(9a c i n s o s w g i o0p1( C s g m m a p w w o6L52]
+[DELETED: v(o(ba((b0c1N2o t h c c o c j o t3c4m5(687(8(9s0m1(2o3i4o5( P m o o b p o s w t6s i m t a p w h p c o t7j8(9h0(1(6L52]
+[DELETED: A r m f m g g bs s s s s u af(e r t h c t v a t c bp w h c t h o c a o Rj p m i b a n l t v yc v m y o c dp0( R j f m a q i1w h b t t f r j p 2q3c4m i b a n l t a i e a5t6f7t8a9(0p1( S d m d i a h s2r3m4( S s j f m a j r5f6c7o8r o m o a o j i p s9t s ( w m e r r r0i1a a o i j r m f t6L52]
+[DELETED: p b r o s t c t t u oi s s S s j f d ni a i o b t D o CS(a f c w w n b a c i c b aa(( T o m a n a i v o 0l o o r v o p t w1d2( Y a m a i o t e y o3a4S 2  O s 4 R S C5S6L52]
+
+
+================================================================================
+
+Raw Text:
+LB466 LB466
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 466
+Introduced by Bosn, 25.
+Read first time January 21, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to juvenile justice; to amend section 43-245,
+2 Revised Statutes Cumulative Supplement, 2024; to redefine a term;
+3 and to repeal the original section.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB466 LB466
+2025 2025
+1 Section 1. Section 43-245, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 43-245 For purposes of the Nebraska Juvenile Code, unless the
+4 context otherwise requires:
+5 (1) Abandonment means a parent's intentionally withholding from a
+6 child, without just cause or excuse, the parent's presence, care, love,
+7 protection, and maintenance and the opportunity for the display of
+8 parental affection for the child;
+9 (2) Age of majority means nineteen years of age;
+10 (3) Alternative to detention means a program or directive that
+11 increases supervision of a youth in the community in an effort to ensure
+12 the youth attends court and refrains from committing a new law violation.
+13 Alternative to detention includes, but is not limited to, electronic
+14 monitoring, day and evening reporting centers, house arrest, tracking,
+15 family crisis response, and temporary shelter placement. Except for the
+16 use of manually controlled delayed egress of not more than thirty
+17 seconds, placements that utilize physical construction or hardware to
+18 restrain a youth's freedom of movement and ingress and egress from
+19 placement are not considered alternatives to detention;
+20 (4) Approved center means a center that has applied for and received
+21 approval from the Director of the Office of Dispute Resolution under
+22 section 25-2909;
+23 (5) Civil citation means a noncriminal notice which cannot result in
+24 a criminal record and is described in section 43-248.02;
+25 (6) Cost or costs means (a) the sum or equivalent expended, paid, or
+26 charged for goods or services, or expenses incurred, or (b) the
+27 contracted or negotiated price;
+28 (7) Criminal street gang means a group of three or more people with
+29 a common identifying name, sign, or symbol whose group identity or
+30 purposes include engaging in illegal activities;
+31 (8) Criminal street gang member means a person who willingly or
+-2-
+
+LB466 LB466
+2025 2025
+1 voluntarily becomes and remains a member of a criminal street gang;
+2 (9) Custodian means a nonparental caretaker having physical custody
+3 of the juvenile and includes an appointee described in section 43-294;
+4 (10) Guardian means a person, other than a parent, who has qualified
+5 by law as the guardian of a juvenile pursuant to testamentary or court
+6 appointment, but excludes a person who is merely a guardian ad litem;
+7 (11) Juvenile means any person under the age of eighteen;
+8 (12) Juvenile court means the separate juvenile court where it has
+9 been established pursuant to sections 43-2,111 to 43-2,127 and the county
+10 court sitting as a juvenile court in all other counties. Nothing in the
+11 Nebraska Juvenile Code shall be construed to deprive the district courts
+12 of their habeas corpus, common-law, or chancery jurisdiction or the
+13 county courts and district courts of jurisdiction of domestic relations
+14 matters as defined in section 25-2740;
+15 (13) Juvenile detention facility has the same meaning as in section
+16 83-4,125;
+17 (14) Legal custody has the same meaning as in section 43-2922;
+18 (15) Mental health facility means a treatment facility as defined in
+19 section 71-914 or a government, private, or state hospital which treats
+20 mental illness;
+21 (16) Nonoffender means a juvenile who is subject to the jurisdiction
+22 of the juvenile court for reasons other than legally prohibited conduct,
+23 including, but not limited to, juveniles described in subdivision (3)(a)
+24 of section 43-247;
+25 (17) Parent means one or both parents or stepparents when the
+26 stepparent is married to a parent who has physical custody of the
+27 juvenile as of the filing of the petition;
+28 (18) Parties means the juvenile as described in section 43-247 and
+29 his or her parent, guardian, or custodian;
+30 (19) Physical custody has the same meaning as in section 43-2922;
+31 (20) Except in proceedings under the Nebraska Indian Child Welfare
+-3-
+
+LB466 LB466
+2025 2025
+1 Act, relative means father, mother, grandfather, grandmother, brother,
+2 sister, stepfather, stepmother, stepbrother, stepsister, uncle, aunt,
+3 first cousin, nephew, or niece;
+4 (21) Restorative justice means practices, programs, or services that
+5 emphasize repairing the harm caused to victims and the community by
+6 persons who have caused the harm or committed an offense. Restorative
+7 justice practices may include, but are not limited to, victim youth
+8 conferencing, victim-offender mediation, youth or community dialogue,
+9 panels, circles, and truancy mediation;
+10 (22) Restorative justice facilitator means a qualified individual
+11 who has been trained to facilitate restorative justice practices. A
+12 qualified individual shall be approved by the referring county attorney,
+13 city attorney, or juvenile or county court judge. Factors for approval
+14 may include, but are not limited to, an individual's education and
+15 training in restorative justice principles and practices; experience in
+16 facilitating restorative justice sessions; understanding of the necessity
+17 to do no harm to either the victim or the person who harmed the victim;
+18 and proven commitment to ethical practices;
+19 (23) Seal a record means that a record shall not be available to the
+20 public except upon the order of a court upon good cause shown;
+21 (24) Secure detention means detention in a highly structured,
+22 residential, hardware-secured facility designed to restrict a juvenile's
+23 movement;
+24 (25) Staff secure juvenile facility means a juvenile residential
+25 facility operated by a political subdivision (a) which does not include
+26 construction designed to physically restrict the movements and activities
+27 of juveniles who are in custody in the facility, (b) in which physical
+28 restriction of movement or activity of juveniles is provided solely
+29 through staff, (c) which may establish reasonable rules restricting
+30 ingress to and egress from the facility, and (d) in which the movements
+31 and activities of individual juvenile residents may, for treatment
+-4-
+
+LB466 LB466
+2025 2025
+1 purposes, be restricted or subject to control through the use of
+2 intensive staff supervision. Staff secure juvenile facility does not
+3 include any institution operated by the Department of Correctional
+4 Services;
+5 (26) Status offender means a juvenile who has been charged with or
+6 adjudicated for conduct which would not be a crime if committed by an
+7 adult, including, but not limited to, juveniles charged under subdivision
+8 (3)(b) of section 43-247 and sections 53-180.01 and 53-180.02;
+9 (27) Traffic offense means any nonfelonious act in violation of a
+10 law or ordinance regulating vehicular or pedestrian travel, whether
+11 designated a misdemeanor or a traffic infraction; and
+12 (28) Young adult means an individual older than eighteen years of
+13 age but younger than under twenty-one years of age.
+14 Sec. 2. Original section 43-245, Revised Statutes Cumulative
+15 Supplement, 2024, is repealed.
+-5-
+
+[DELETED: yBAR S C S 2 t r a taB6L52]
+[DELETED: S 1 S 4 R S C S24 F p o t N J C u tc( A m a p i w f cp a m a t o f t d op(0( A t d m a p o d t1i2t3A t d i b i n l t e4m d a e r c h a t5f6u o m c d e o n m t t7s p t u p c o h t8r a y f o m a i a e f9p0(1a f t D o t O o D R u2s3(4a5(6c f g o s o e i o ( t7c8(9a c i n s o s w g i o0p1( C s g m m a p w w o6L52]
+[DELETED: v(o(ba((b0c1N2o t h c c o c j o t3c4m5(687(8(9s0m1(2o3i4o5( P m o o b p o s w t6s i m t a p w h p c o t7j8(9h0(1(6L52]
+[DELETED: A r m f m g g bs s s s s u af(e r t h c t v a t c bp w h c t h o c a o Rj p m i b a n l t v yc v m y o c dp0( R j f m a q i1w h b t t f r j p 2q3c4m i b a n l t a i e a5t6f7t8a9(0p1( S d m d i a h s2r3m4( S s j f m a j r5f6c7o8r o m o a o j i p s9t s ( w m e r r r0i1a a o i j r m f t6L52]
+[DELETED: p b r o s t c t t u oi s s S s j f d ni a i o b t D o CS(a f c w w n b a c i c b aa(( T o m a n a i v o 0l o o r v o p t w1d2( Y a m a i o t e y o3a4S 2  O s 4 R S C5S6L52]

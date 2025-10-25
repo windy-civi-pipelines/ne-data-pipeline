@@ -1,0 +1,179 @@
+Title: LEGISLATIVE BILL 594
+Official Title: LEGISLATIVE BILL 594
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+LB594 LB594
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Prokop, 27.
+Read first time January 22, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to motor vehicles; to amend section
+2 60-6,179.01, Reissue Revised Statutes of Nebraska; to change and
+3 eliminate provisions relating to the use of handheld wireless
+4 communication devices while operating a motor vehicle; and to repeal
+5 the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB594 LB594
+2025 2025
+1 Section 1. Section 60-6,179.01, Reissue Revised Statutes of
+2 Nebraska, is amended to read:
+3 60-6,179.01 (1) This section does not apply to an operator of a
+4 commercial motor vehicle if section 60-6,179.02 applies.
+5 (2) Except as otherwise provided in subsection (3) of this section,
+6 no person shall physically hold or support with any part of his or her
+7 body, or otherwise use, a handheld wireless communication device while
+8 operating a motor vehicle that is in motion. to read a written
+9 communication, manually type a written communication, or send a written
+10 communication while operating a motor vehicle which is in motion.
+11 (3)(a) (3) The prohibition in subsection (2) of this section does
+12 not apply to:
+13 (i) (a) A person performing his or her official duties as a law
+14 enforcement officer, a firefighter, an ambulance driver, or an emergency
+15 medical technician; or
+16 (ii) Any employee or contractor of a utility service provider who is
+17 responding to a utility emergency; or
+18 (iii) (b) A person operating a motor vehicle in an emergency
+19 situation, but only if such person is communicating or attempting to
+20 communicate with emergency services.
+21 (b) The prohibition in subdivisions (2)(a), (b), and (c) of this
+22 section does not apply to any person who is operating a motor vehicle
+23 that is in motion if such person is using the handheld wireless
+24 communication device:
+25 (i) Without touching such handheld wireless communication device; or
+26 (ii) To initiate a function of such handheld wireless communication
+27 device with a single touch.
+28 (4) Enforcement of this section by state or local law enforcement
+29 agencies shall be accomplished only as a secondary action when a driver
+30 of a motor vehicle has been cited or charged with a traffic violation or
+31 some other offense.
+-2-
+LB594 LB594
+2025 2025
+1 (4) (5) Any person who violates this section shall be guilty of a
+2 traffic infraction. Any person who is found guilty of a traffic
+3 infraction under this section shall be assessed points on his or her
+4 motor vehicle operator's license pursuant to section 60-4,182 and shall
+5 be fined:
+6 (a) Two hundred dollars for the first offense;
+7 (b) Three hundred dollars for a second offense; and
+8 (c) Five hundred dollars for a third and subsequent offense.
+9 (5) (6) For purposes of this section:
+10 (a) Commercial motor vehicle has the same meaning as in section
+11 75-362;
+12 (b)(i) Handheld wireless communication device means any device that
+13 provides for written communication between two or more parties and is
+14 capable of receiving, displaying, or transmitting written communication.
+15 (ii) Handheld wireless communication device includes, but is not
+16 limited to, a mobile or cellular telephone, a text messaging device, a
+17 personal digital assistant, a pager, or a laptop computer.
+18 (iii) Handheld wireless communication device does not include an
+19 electronic device that is part of the motor vehicle or permanently
+20 attached to the motor vehicle or a handsfree wireless communication
+21 device; and
+22 (c) Written communication includes, but is not limited to, a text
+23 message, an instant message, electronic mail, and Internet websites.
+24 Sec. 2. Original section 60-6,179.01, Reissue Revised Statutes of
+25 Nebraska, is repealed.
+-3-
+[DELETED: yPA B F A A r t m v t a s6 R R S o N t c ae p r t t u o h wctB4L52]
+[DELETED: S 1 S 6 R R S oN6 ( T s d n a t a o o c(nb o o u a h w c d wo a m v t i i m t r a wc0c1( ( T p i s ( o t s d2n3( ( A p p h o h o d a a l4e5m6(7r8( ( A p o a m v i a e9s b o i s p i c o a t0c1( T p i s ( ( a ( o t2s d n a t a p w i o a m v3t i i m i s p i u t h w4c5(6(7d8( E o t s b s o l l e9a0o1s4L52]
+[DELETED: (t i A p w i f g o a ti u t s s b a p o h o hmb((((0( C m v h t s m a i s172(3p f w c b t o m p a i4c5( H w c d i b i n6l7p8( H w c d d n i a9e d t i p o t m v o p0a t t m v o a h w c1d2( W c i b i n l t a t3m4S5N4L52]
+
+
+================================================================================
+
+Raw Text:
+LB594 LB594
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 594
+Introduced by Prokop, 27.
+Read first time January 22, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to motor vehicles; to amend section
+2 60-6,179.01, Reissue Revised Statutes of Nebraska; to change and
+3 eliminate provisions relating to the use of handheld wireless
+4 communication devices while operating a motor vehicle; and to repeal
+5 the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB594 LB594
+2025 2025
+1 Section 1. Section 60-6,179.01, Reissue Revised Statutes of
+2 Nebraska, is amended to read:
+3 60-6,179.01 (1) This section does not apply to an operator of a
+4 commercial motor vehicle if section 60-6,179.02 applies.
+5 (2) Except as otherwise provided in subsection (3) of this section,
+6 no person shall physically hold or support with any part of his or her
+7 body, or otherwise use, a handheld wireless communication device while
+8 operating a motor vehicle that is in motion. to read a written
+9 communication, manually type a written communication, or send a written
+10 communication while operating a motor vehicle which is in motion.
+11 (3)(a) (3) The prohibition in subsection (2) of this section does
+12 not apply to:
+13 (i) (a) A person performing his or her official duties as a law
+14 enforcement officer, a firefighter, an ambulance driver, or an emergency
+15 medical technician; or
+16 (ii) Any employee or contractor of a utility service provider who is
+17 responding to a utility emergency; or
+18 (iii) (b) A person operating a motor vehicle in an emergency
+19 situation, but only if such person is communicating or attempting to
+20 communicate with emergency services.
+21 (b) The prohibition in subdivisions (2)(a), (b), and (c) of this
+22 section does not apply to any person who is operating a motor vehicle
+23 that is in motion if such person is using the handheld wireless
+24 communication device:
+25 (i) Without touching such handheld wireless communication device; or
+26 (ii) To initiate a function of such handheld wireless communication
+27 device with a single touch.
+28 (4) Enforcement of this section by state or local law enforcement
+29 agencies shall be accomplished only as a secondary action when a driver
+30 of a motor vehicle has been cited or charged with a traffic violation or
+31 some other offense.
+-2-
+
+LB594 LB594
+2025 2025
+1 (4) (5) Any person who violates this section shall be guilty of a
+2 traffic infraction. Any person who is found guilty of a traffic
+3 infraction under this section shall be assessed points on his or her
+4 motor vehicle operator's license pursuant to section 60-4,182 and shall
+5 be fined:
+6 (a) Two hundred dollars for the first offense;
+7 (b) Three hundred dollars for a second offense; and
+8 (c) Five hundred dollars for a third and subsequent offense.
+9 (5) (6) For purposes of this section:
+10 (a) Commercial motor vehicle has the same meaning as in section
+11 75-362;
+12 (b)(i) Handheld wireless communication device means any device that
+13 provides for written communication between two or more parties and is
+14 capable of receiving, displaying, or transmitting written communication.
+15 (ii) Handheld wireless communication device includes, but is not
+16 limited to, a mobile or cellular telephone, a text messaging device, a
+17 personal digital assistant, a pager, or a laptop computer.
+18 (iii) Handheld wireless communication device does not include an
+19 electronic device that is part of the motor vehicle or permanently
+20 attached to the motor vehicle or a handsfree wireless communication
+21 device; and
+22 (c) Written communication includes, but is not limited to, a text
+23 message, an instant message, electronic mail, and Internet websites.
+24 Sec. 2. Original section 60-6,179.01, Reissue Revised Statutes of
+25 Nebraska, is repealed.
+-3-
+
+[DELETED: yPA B F A A r t m v t a s6 R R S o N t c ae p r t t u o h wctB4L52]
+[DELETED: S 1 S 6 R R S oN6 ( T s d n a t a o o c(nb o o u a h w c d wo a m v t i i m t r a wc0c1( ( T p i s ( o t s d2n3( ( A p p h o h o d a a l4e5m6(7r8( ( A p o a m v i a e9s b o i s p i c o a t0c1( T p i s ( ( a ( o t2s d n a t a p w i o a m v3t i i m i s p i u t h w4c5(6(7d8( E o t s b s o l l e9a0o1s4L52]
+[DELETED: (t i A p w i f g o a ti u t s s b a p o h o hmb((((0( C m v h t s m a i s172(3p f w c b t o m p a i4c5( H w c d i b i n6l7p8( H w c d d n i a9e d t i p o t m v o p0a t t m v o a h w c1d2( W c i b i n l t a t3m4S5N4L52]

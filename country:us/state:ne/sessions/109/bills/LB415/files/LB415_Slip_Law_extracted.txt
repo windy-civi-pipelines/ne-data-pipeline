@@ -1,0 +1,2181 @@
+Title: LEGISLATIVE BILL 415
+Official Title: LEGISLATIVE BILL 415
+Number of Sections: 9
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LB415 LB415
+2025 2025
+Approved by the Governor June 4, 2025
+Introduced by Ballard, 21.
+A BILL FOR AN ACT relating to law; to amend sections 48-665, 81-5,213,
+81-5,215, 81-5,216, 81-5,217, 81-5,218, 81-5,219, 81-5,221, 81-5,223,
+81-5,230, and 81-5,239, Reissue Revised Statutes of Nebraska, sections
+9-1104, 9-1110, 9-1302, 9-1303, 9-1304, 9-1305, 9-1306, 9-1307, 9-1308,
+9-1313, 77-3002, 77-3003, and 77-3014, Revised Statutes Cumulative
+Supplement, 2024, and sections 2, 3, 4, and 8, Initiative Law 2024, No.
+436; to redefine terms and change and eliminate applicability,
+administrative, and enforcement provisions under the Nebraska Healthy
+Families and Workplaces Act; to define and redefine terms and provide for
+set off of debt owed due to the overpayment of unemployment benefits under
+the Employment Security Law against gambling winnings under the Gambling
+Winnings Setoff for Outstanding Debt Act; to change provisions relating to
+the offset of overpayment of unemployment benefits against future benefits
+under the Employment Security Law; to change and eliminate applicability,
+inspection, investigation, licensure, and enforcement provisions of the
+Conveyance Safety Act; to eliminate obsolete provisions; to harmonize
+provisions; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+
+Section 2:
+Section 1. Section 2, Initiative Law 2024, No. 436, is amended to read:
+Sec. 2. For purposes of the Nebraska Healthy Families and Workplaces Act:
+(1) Department means the Department of Labor;
+(2) Employ means to permit to work by an employer pursuant to an
+employment relationship;
+(3) (3)(a) Employee means any individual employed by an employer, but does
+not include:
+(a) An individual owner-operator;
+(b) An independent contractor;
+(c) An an individual who works in Nebraska for fewer than eighty hours in
+a calendar year; .
+(d) An individual who is employed in agricultural employment of a seasonal
+or other temporary nature;
+(e) An (b) Employee does not include an "employee" as defined by 45 U.S.C.
+351(d) who is subject to the federal Railroad Unemployment Insurance Act, 45
+U.S.C. 351 et seq.; or
+(f) An individual under sixteen years of age;
+(4)(a) Employer means any individual, partnership, limited liability
+company, association, corporation, business trust, legal representative, or
+organized group of persons who employs eleven one or more employees.
+(b) Employer does not include the United States or the State of Nebraska
+or its agencies, departments, or political subdivisions;
+(5) Family member means:
+(a) Any of the following, regardless of age: A biological, adopted, or
+foster child, a stepchild, a legal ward, or a child to whom the employee stands
+in loco parentis;
+(b) A biological, foster, step, or adoptive parent or a legal guardian of
+an employee or an employee's spouse;
+(c) A person who stood in loco parentis to the employee or the employee's
+spouse when the employee or employee's spouse was a minor child;
+(d) A person to whom the employee is legally married under the laws of any
+state;
+(e) A grandparent, grandchild, or sibling, whether of a biological,
+foster, adoptive, or step relationship, of the employee or the employee's
+spouse; or
+(f) Any other individual related by blood to the employee or whose close
+association with the employee is the equivalent of a family relationship;
+(6) Health care professional means any person licensed under any federal
+or state law to provide medical or emergency services;
+(7) Paid sick time means time that is compensated at the same hourly rate
+and with the same benefits, including health care benefits, as the employee
+typically earns during hours worked and that is provided by an employer to an
+employee for the purposes described in section 4 of this act, and in no case
+shall the amount of this hourly rate be less than that provided under section
+48-1203. Notwithstanding the foregoing, for employees paid on a commission,
+piece-rate, mileage, or fee-for-service basis, paid sick time means time that
+is compensated at an hourly rate determined by the employer using the average
+weekly rate calculation under section 48-126, which shall then be reduced to an
+hourly rate based on a forty-hour workweek, and that is provided by an employer
+to an employee for the purposes described in section 3 of this act. Paid sick
+time includes time made available to employees for purposes including, but not
+limited to, the purposes described in section 3 of this act under a paid leave
+policy described in subsection (7) of section 2 of this act;
+(8) Public health emergency means a declaration or proclamation related to
+-1-
+LB415 LB415
+2025 2025
+a public health threat, risk, disaster, or emergency that is made or issued by
+a federal, state, or local official with the authority to make or issue such a
+declaration or proclamation;
+(9) Retaliatory personnel action means a denial of any right guaranteed
+under the Nebraska Healthy Families and Workplaces Act and any threat,
+discharge, suspension, demotion, reduction of hours or pay, or other adverse
+action against an employee for exercising or attempting to exercise any right
+guaranteed in the Nebraska Healthy Families and Workplaces Act;
+(10)(a) Small business means an employer with at least eleven but fewer
+than twenty employees during a given week, including full-time, part-time, or
+temporary employees.
+(b) Small business does not include an employer that maintained twenty or
+more employees on its payroll in each of twenty or more calendar weeks in the
+current or preceding calendar year; and
+(11) Year means a regular and consecutive twelve-month period as
+determined by the employer.
+Sec. 2. Section 3, Initiative Law 2024, No. 436, is amended to read:
+Sec. 3. (1) All employees shall begin accruing paid sick time after eighty
+hours of consecutive employment, at which point employees shall then accrue a
+minimum of one hour of paid sick time for every thirty hours worked. Unless the
+employer selects a higher limit, this section does not entitle an employee to
+earn or use more than:
+(a) Forty hours of paid sick time in a year for an employee of a small
+business; or
+(b) Fifty-six hours of paid sick time in a year for an employee of an
+employer that is not a small business.
+(2) Employees who are exempt from overtime requirements under 29 U.S.C.
+213(a)(1) or 29 U.S.C. 213(b)(1) of the federal Fair Labor Standards Act, 29
+U.S.C. 201 et seq., shall be assumed to work forty hours in each workweek for
+purposes of paid sick time accrual unless their typical workweek is less than
+forty hours, in which case paid sick time accrues based upon that typical
+workweek.
+(3) Paid sick time requirements provided under the Nebraska Healthy
+Families and Workplaces Act as provided in this section shall begin to accrue
+at the commencement of employment or October 1, 2025 , whichever is later. An
+employee shall be entitled to use paid sick time as it is accrued. An employer
+may provide all paid sick time that an employee is expected to accrue in a year
+at the beginning of the year.
+(4) Paid sick time provided to an employee on or after January 1, 2025,
+and before October 1, 2025, shall be counted toward an employer's obligations
+under the Nebraska Healthy Families and Workplaces Act for calendar year 2025.
+(5) (4) Accrued paid sick time shall be carried over to the following
+year. A small business is not required to permit an employee to use more than
+forty hours of paid sick time per year, and other employers are not required to
+permit an employee to use more than fifty-six hours of paid sick time per year.
+(6) In Alternatively, in lieu of carryover of unused paid sick time
+provided pursuant to this section from one year to the next, an employer may
+pay an employee for unused paid sick time provided pursuant to this section at
+the end of a year and provide the employee with an amount of paid sick time
+that meets or exceeds the requirements of subsections (1) and (3) of this
+
+Section 3:
+section that is available for the employee's immediate use at the beginning of
+the subsequent year.
+(7) (5) Any employer with a paid leave policy, such as a paid time off
+policy, who makes available an amount of paid leave that equals or exceeds
+sufficient to meet the requirements of the Nebraska Healthy Families and
+Workplaces Act and that may be used for the same purposes and under the same
+conditions as paid sick time in accordance with section 3 of this act under the
+act is not required to provide additional paid sick time under the act and is
+not obligated to allow an employee to accrue or carryover benefits beyond the
+employer's existing paid leave policy.
+(8) (6) At its discretion, an employer may loan paid sick time to an
+employee in advance of accrual by such employee.
+(9) (7) If an employee is transferred to a separate division, entity, or
+location, but remains employed by the same employer, the employee is entitled
+to all paid sick time accrued at the prior division, entity, or location and is
+entitled to use all paid sick time as provided in the Nebraska Healthy Families
+and Workplaces Act. When there is a separation from employment and the employee
+is rehired within twelve months of separation by the same employer, previously
+accrued paid sick time that had not been used or paid out to the employee shall
+be reinstated. The employee shall be entitled to use accrued paid sick time and
+accrue additional paid sick time at the recommencement of employment.
+(10) Nothing in this section shall be construed to require employers to
+pay an employee for unused paid sick time upon the employee's separation from
+employment.
+Sec. 3. Section 4, Initiative Law 2024, No. 436, is amended to read:
+Sec. 4. (1) Paid sick time shall be provided to an employee by an employer
+for:
+(a) An employee's mental or physical illness, injury, or health condition;
+an employee's need for medical diagnosis, care, or treatment of a mental or
+physical illness, injury, or health condition; or an employee's need for
+preventive medical care;
+(b) Care of a family member with a mental or physical illness, injury, or
+health condition; care of a family member who needs medical diagnosis, care, or
+-2-
+LB415 LB415
+2025 2025
+treatment of a mental or physical illness, injury, or health condition; care of
+a family member who needs preventive medical care; or in the case of a child,
+to attend a meeting necessitated by the child's mental or physical illness,
+injury, or health condition, at a school or place where the child is receiving
+care; or
+(c) Closure of the employee's place of business by order of a public
+official due to a public health emergency; an employee's need to care for a
+child whose school or place of care has been closed by order of a public
+official due to a public health emergency; or an employee's need to self-
+isolate or care for the employee or a family member when it has been determined
+by the health authorities having jurisdiction or by a health care professional
+that the employee's or family member's presence in the community may jeopardize
+the health of others because of exposure to a communicable disease, whether or
+not the employee or family member has actually contracted the communicable
+disease.
+(2) Paid sick time under this section shall be provided upon the oral
+request of an employee in compliance with the Nebraska Healthy Families and
+Workplaces Act. When possible, the request shall include the expected duration
+of the absence.
+(3) An employer that requires notice of the need to use paid sick time in
+accordance with this section shall provide a written policy that contains
+reasonable procedures for employees to provide notice. An employer that has not
+provided to the employee a copy of such written policy shall not deny paid sick
+time to the employee based on noncompliance with such a policy.
+(4) An employer shall not require, as a condition of an employee's taking
+paid sick time under this section, that the employee search for or find a
+replacement worker to cover the hours during which the employee is using paid
+sick time.
+(5) Paid sick time under this section may be used in the smaller of hourly
+increments or the smallest increment that the employer's payroll system uses to
+account for absences or use of other time.
+(6) For use of paid sick time for more than three consecutive work days,
+an employer may require reasonable documentation that the paid sick time has
+been used for a purpose covered by subsection (1) of this section. Reasonable
+documentation shall include (a) documentation signed by a health care
+professional indicating that paid sick time is or was necessary or (b) if the
+employee or a family member did not receive services from a health care
+professional, or if documentation cannot be obtained from a health care
+professional in reasonable time or without added expense, a written statement
+from the employee indicating that the employee is taking or took paid sick time
+for a qualifying purpose covered by subsection (1) of this section.
+(7) An employer signatory to a multi-employer collective-bargaining
+agreement may fulfill its obligations under the Nebraska Healthy Families and
+Workplaces Act by making contributions to a multi-employer paid sick time fund,
+plan, or program based on the hours each employee accrues pursuant to the act
+while working under the multi-employer collective-bargaining agreement, if the
+fund, plan, or program enables employees to collect paid sick time from the
+fund, plan, or program based on hours they have worked under the multi-employer
+collective-bargaining agreement and for the purposes specified under the act.
+Employees who work under a multi-employer collective-bargaining agreement into
+which their employers make contributions as provided in this subsection may
+collect from the paid sick time fund, plan, or program based on hours they have
+worked under the multi-employer collective-bargaining agreement and for the
+purposes specified under the act.
+Sec. 4. Section 8, Initiative Law 2024, No. 436, is amended to read:
+Sec. 8. (1) The Commissioner of Labor shall issue a citation to an
+employer when an investigation reveals that the employer may have violated the
+Nebraska Healthy Families and Workplaces Act.
+(2) When a citation is issued, the commissioner shall notify the employer
+of the proposed administrative penalty, if any, by certified mail, by any other
+manner of delivery by which the United States Postal Service can verify
+delivery, or by any method of service recognized under Chapter 25, article 5.
+The administrative penalty shall not be more than five hundred dollars in the
+case of a first violation and not more than five thousand dollars in the case
+of a second or subsequent violation.
+(3) The employer has fifteen working days after the date of the citation
+or penalty to contest such citation or penalty. Notice of contest shall be sent
+to the commissioner who shall provide a hearing in accordance with the
+Administrative Procedure Act.
+(4) Any employer who has an unpaid citation for a violation of the
+Nebraska Healthy Families and Workplaces Act shall be barred from contracting
+with the state or any political subdivision until such citation is paid. If a
+citation has been contested as described in subsection (3) of this section, it
+shall not be considered an unpaid citation under this subsection until after
+such contest has been resolved.
+(5) Citations issued under this section and the names of employers who
+have been issued a citation shall be made available to the public upon request,
+except that this subsection shall not apply to any citations that are being
+contested as described in subsection (3) of this section.
+(6) An employee having a claim for a violation of the Nebraska Healthy
+Families and Workplaces Act may institute suit for legal and equitable relief
+in the proper court. In any action brought to enforce the Nebraska Healthy
+Families and Workplaces Act, the court shall have jurisdiction to grant such
+-3-
+LB415 LB415
+2025 2025
+legal or equitable relief as the court deems appropriate to effectuate the
+purposes of the act. If an employee establishes a claim and secures judgment on
+the claim, such employee shall also be entitled to recover the full amount of
+the judgment and all costs of such suit, including reasonable attorney's fees.
+(7) If an employee institutes suit against an employer under subsection
+(6) of this section, any citation that is issued against an employer under
+subsection (1) of this section and that relates directly to the facts in
+dispute shall be admitted into evidence unless specifically excluded by the
+court. If a citation has been contested as described in subsection (3) of this
+
+Section 4:
+section, it shall not be admitted into evidence under this subsection until
+such contest has been resolved.
+(8) A civil action brought under this section shall be commenced no later
+than four calendar years after the cause of action accrues.
+Sec. 5. Section 9-1104, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1104 (1) The operation of games of chance at a licensed racetrack
+enclosure may be conducted by an authorized gaming operator who holds an
+authorized gaming operator license.
+(2) No more than one authorized gaming operator license shall be granted
+for each licensed racetrack enclosure within the state. It shall not be a
+requirement that the person or entity applying for or to be granted such
+authorized gaming operator license hold a racing license or be the same person
+or entity who operates the licensed racetrack enclosure at which such
+authorized gaming operator license shall be granted.
+(3) Gaming devices, limited gaming devices, and all other games of chance
+may be operated by authorized gaming operators at a licensed racetrack
+enclosure.
+(4) No person younger than twenty-one years of age shall play or
+participate in any way in any game of chance or use any gaming device or
+limited gaming device at a licensed racetrack enclosure.
+(5) No authorized gaming operator shall permit an individual younger than
+twenty-one years of age to play or participate in any game of chance or use any
+gaming device or limited gaming device conducted or operated pursuant to the
+Nebraska Racetrack Gaming Act.
+(6) If the licensed racetrack enclosure at which such authorized gaming
+operator conducts games of chance does not hold the minimum number of live
+racing meets required under section 2-1205, the authorized gaming operator
+shall be required to cease operating games of chance at such licensed racetrack
+enclosure until such time as the commission determines the deficiency has been
+corrected.
+(7) Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+winnings payment of any casino winnings as defined in section 9-1303, an
+authorized gaming operator shall check the collection system to determine if
+the winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such authorized gaming
+operator determines that the winner is subject to the collection system, the
+operator shall deduct the amount of debt and outstanding state tax liability
+identified in the collection system from the winnings payment and shall remit
+the net winnings payment of casino winnings, if any, to the winner and the
+amount deducted to the Department of Revenue to be credited against such debt
+or outstanding state tax liability as provided in section 9-1306.
+Sec. 6. Section 9-1110, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1110 (1) The commission may permit an authorized gaming operator to
+conduct sports wagering. Any sports wager shall be placed in person or at a
+wagering kiosk in the designated sports wagering area at the licensed racetrack
+enclosure. A parimutuel wager in accordance with sections 2-1201 to 2-1218 may
+be placed in the designated sports wagering area at the licensed racetrack
+enclosure. An individual employed and authorized to accept a sports wager may
+also accept a parimutuel wager.
+(2) A floor plan identifying the designated sports wagering area,
+including the location of any wagering kiosks, shall be filed with the
+commission for review and approval. Modification to a previously approved plan
+must be submitted for approval at least ten days prior to implementation. The
+area shall not be accessible to persons under twenty-one years of age and shall
+have a sign posted to restrict access. Exceptions to this subsection must be
+approved in writing by the commission.
+(3) The authorized gaming operator shall submit controls for approval by
+the commission, that include the following for operating the designated sports
+wagering area:
+(a) Specific procedures and technology partners to fulfill the
+requirements set forth by the commission;
+(b) Other specific controls as designated by the commission;
+(c) A process to easily and prominently impose limitations or notification
+for wagering parameters, including, but not limited to, deposits and wagers;
+and
+(d) An easy and obvious method for a player to make a complaint and to
+enable the player to notify the commission if such complaint has not been or
+cannot be addressed by the sports wagering operator.
+(4) The commission shall develop policies and procedures to ensure a
+prohibited participant is unable to place a sports wager or parimutuel wager.
+(5) Beginning on the implementation date designated by the Tax
+-4-
+LB415 LB415
+2025 2025
+Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+winnings payment of any sports wagering winnings as defined in section 9-1303,
+an authorized gaming operator shall check the collection system to determine if
+the winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such authorized gaming
+operator determines that the winner is subject to the collection system, the
+operator shall deduct the amount of debt and outstanding state tax liability
+identified in the collection system from the winnings payment and shall remit
+the net winnings payment of sports wagering winnings, if any, to the winner and
+the amount deducted to the Department of Revenue to be credited against such
+debt or outstanding state tax liability as provided in section 9-1306.
+Sec. 7. Section 9-1302, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1302 The purposes of the Gambling Winnings Setoff for Outstanding Debt
+Act are to:
+(1) Establish and maintain a procedure to set off against an obligor's
+casino winnings, parimutuel winnings, sports wagering winnings, or cash device
+winnings any debt (a) that is assigned to the Department of Health and Human
+Services or that any individual not eligible as a public assistance recipient
+is attempting to collect through the Title IV-D child support enforcement
+program, (b) that has accrued through written contract, subrogation, or court
+judgment, and (c) that is in the form of a liquidated amount due and owing for
+the care, support, or maintenance of a child or for medical or spousal support;
+and
+(2) Establish and maintain a procedure to set off against an obligor's a
+taxpayer's casino winnings, parimutuel winnings, sports wagering winnings, or
+cash device winnings the amount of such obligor's taxpayer's outstanding state
+tax liability as determined by the Department of Revenue.
+Sec. 8. Section 9-1303, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1303 For purposes of the Gambling Winnings Setoff for Outstanding Debt
+Act, unless the context otherwise requires:
+(1) Applicable winnings means any casino winnings, parimutuel winnings,
+sports wagering winnings, or cash device winnings;
+(2) Cash device winnings means any cash prize won by a player of a cash
+device as defined in section 77-3001 that requires the operator, distributor,
+or manufacturer of such cash device to provide the player with an Internal
+Revenue Service Form 1099;
+(3) Casino winnings means any winnings that are required to be reported on
+Internal Revenue Service Form W-2G won by a player from a game of chance at a
+licensed racetrack enclosure under the jurisdiction of the State Racing and
+Gaming Commission;
+(4) Claimant means:
+(a) The Department of Health and Human Services with respect to collection
+of a debt owed by a parent in a case involving a recipient of aid to dependent
+children in which rights to child, spousal, or medical support payments have
+been assigned to this state;
+(b) An individual who is not eligible as a public assistance recipient and
+to whom a debt is owed that the individual is attempting to collect through the
+Title IV-D child support enforcement program; or
+(c) Any person or entity entitled to receive child support, spousal
+support, or medical support as defined in section 43-1712.01 pursuant to an
+order issued by a court or agency of another state or jurisdiction, including
+an agency of another state or jurisdiction to which a person has assigned his
+or her right to receive such support. Such a claimant shall submit
+certification and documentation to the Department of Health and Human Services
+sufficient to satisfy the requirements of section 43-1730;
+(5) Collection system means the collection system developed and
+implemented pursuant to section 9-1304;
+(6) Debt means any liquidated amount of arrears that has accrued through
+assignment, contract, subrogation, court judgment, or operation of law,
+regardless of whether there is an outstanding judgment for such amount, and
+that is for the care, support, or maintenance of a child or for medical or
+spousal support;
+(7) Net winnings payment means the winnings payment amount minus the debt
+and outstanding state tax liability balance;
+(8) Obligor means any person as defined in section 77-2701.25: individual
+(a) Owing (a) owing money to or having a delinquent account with any
+claimant that has not been satisfied by court order, set aside by court order,
+or discharged in bankruptcy; or
+(b) Owing (b) owing money on an outstanding state tax liability;
+(9) Operator means an authorized gaming operator as defined in section
+9-1103, any corporation or association licensed under sections 2-1201 to 2-1218
+and authorized to conduct parimutuel wagering at a licensed racetrack, and any
+operator, distributor, or manufacturer of a cash device licensed under the
+Mechanical Amusement Device Tax Act;
+(10) Outstanding state tax liability means any liability arising from any
+tax, or fee, or overpayment, including penalties and interest, under any tax or
+other program administered by the Tax Commissioner, Department of Labor, or
+Department of Motor Vehicles;
+(11) Overpayment means an overpayment of unemployment insurance benefits
+established under section 48-663.01;
+(12) (11) Parimutuel winnings means any winnings that are required to be
+-5-
+LB415 LB415
+2025 2025
+reported on Internal Revenue Service Form W-2G and have tax withheld by the
+operator and that are won by a player from a parimutuel wager at a licensed
+racetrack under the jurisdiction of the State Racing and Gaming Commission;
+(13) (12) Sports wagering winnings means any winnings that are required to
+be reported on Internal Revenue Service Form W-2G and have tax withheld by the
+operator and that are won by a player from sports wagering as defined in
+
+Section 5:
+section 9-1103 on a sports wager authorized by the State Racing and Gaming
+Commission;
+(14) (13) Spousal support has the same meaning as in section 43-1715; and
+(15) (14) Winnings payment means a payout of casino winnings, parimutuel
+winnings, sports wagering winnings, or cash device winnings to which a person
+an individual is entitled as a result of playing or wagering.
+Sec. 9. Section 9-1304, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1304 (1)(a) The Department of Revenue, in consultation with the
+Department of Health and Human Services, the Department of Motor Vehicles, and
+the Department of Labor, shall develop and implement a secure, electronic
+collection system to carry out the purposes of the Gambling Winnings Setoff for
+Outstanding Debt Act.
+(b) The collection system shall include access to the name of an obligor,
+the social security number of an obligor, and any other information that
+assists the operator in identifying an obligor. The collection system shall
+inform the operator of the total amount owed without detailing the source of
+any of the amounts owed.
+(2) The Department of Health and Human Services may submit any certified
+debt of twenty-five dollars or more to the collection system except when the
+validity of the debt is legitimately in dispute. The submission of debts of
+past-due support shall be a continuous process that allows the amount of debt
+to fluctuate up or down depending on the actual amount owed.
+(3) The Department of Revenue, the Department of Motor Vehicles, and the
+Department of Labor may submit to the collection system any amount of
+outstanding state tax liability owed by an obligor to the department a taxpayer
+except when the validity of the outstanding state tax liability is legitimately
+in dispute. The inclusion of outstanding state tax liability in the amount owed
+shall be a continuous process that allows the amount owed to fluctuate up or
+down depending on the actual amount of outstanding state tax liability owed.
+(4) If the name of the obligor is retrieved from the collection system by
+the operator, the retrieval of such name shall be evidence of a valid lien upon
+and claim of lien against any applicable winnings of the obligor whose name is
+electronically retrieved from the collection system. If an obligor's applicable
+winnings are required to be set off pursuant to the Gambling Winnings Setoff
+for Outstanding Debt Act, the full amount of the debt and outstanding state tax
+liability shall be collected from any applicable winnings due the obligor.
+(5) The information obtained by an operator or the State Racing and Gaming
+Commission from the collection system in accordance with this section shall
+retain its confidentiality and shall only be used by the operator or the
+commission for the purposes of complying with the Gambling Winnings Setoff for
+Outstanding Debt Act. An employee or prior employee of an operator or the
+commission who unlawfully discloses any such information for any other purpose,
+except as otherwise specifically authorized by law, shall be subject to the
+same penalties specified by law for unauthorized disclosure of confidential
+information by an agent or employee of the agency to which the debt or
+outstanding state liability is owed operator.
+(6) The information obtained by the Department of Health and Human
+Services, the Department of Motor Vehicles, the Department of Labor, or the
+Department of Revenue from the operator in accordance with this section shall
+retain its confidentiality and shall only be used by the either department in
+the pursuit of such department's debt or outstanding state tax liability
+assessment and collection duties and practices. An employee or prior employee
+of the Department of Health and Human Services, the Department of Motor
+Vehicles, the Department of Labor, or the Department of Revenue who unlawfully
+discloses any such information for any other purpose, except as specifically
+authorized by law, shall be subject to the penalties specified by law for
+unauthorized disclosure of confidential information by an agent or employee of
+either such department.
+(7) The amount of debt and outstanding state tax liability owed shall be
+prima facie evidence of the validity of the liability.
+Sec. 10. Section 9-1305, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1305 (1) Beginning on the applicable implementation date designated by
+the Tax Commissioner pursuant to subsection (1) or (2) of section 9-1312, prior
+to making a winnings payment, an operator shall check the collection system to
+determine if there is a debt or an outstanding state tax liability owed by the
+winner. An operator shall have access to the collection system to look up
+winners that are due winnings payments for purposes of complying with the
+Gambling Winnings Setoff for Outstanding Debt Act. An operator shall not access
+the system for any other purpose.
+(2)(a) An operator at a licensed racetrack enclosure or licensed racetrack
+that fails to check the collection system for a debt or an outstanding state
+tax liability or fails to collect the amounts owed shall be subject to a fine
+by the State Racing and Gaming Commission of not more than ten thousand
+dollars.
+(b) The State Racing and Gaming Commission shall establish a schedule for
+-6-
+LB415 LB415
+2025 2025
+fines pursuant to this section that considers both the proportionality of the
+offense and the number of instances of past offenses.
+(3) An operator licensed by the Department of Revenue that fails to check
+the collection system for a debt or an outstanding state tax liability or
+collect the amounts owed may be considered in violation of such license and
+subject to any penalties authorized for a violation of the license under the
+Mechanical Amusement Device Tax Act.
+Sec. 11. Section 9-1306, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1306 (1) Beginning on the applicable implementation date designated by
+the Tax Commissioner pursuant to subsection (1) or (2) of section 9-1312, prior
+to making a winnings payment and after the operator has checked the collection
+system as provided in section 9-1305, the operator shall deduct the amount of
+debt and outstanding state tax liability identified in the collection system
+from the winnings payment and shall remit the net winnings payment, if any, to
+the obligor winner and the amount deducted to the Department of Revenue in a
+manner prescribed by the department.
+(2) If an operator determines that an obligor identified using the
+collection system is entitled to a winnings payment, the operator shall notify
+the Department of Revenue in a manner prescribed by the department that a
+balance of debt or outstanding state tax liability owed by the obligor winner
+is being remitted to the department.
+(3) The Department of Revenue shall first credit any such winnings payment
+against any debt of such obligor winner certified by the Department of Health
+and Human Services until such debt is satisfied and then against any
+outstanding state tax liability owed by such obligor winner until such
+liability is satisfied on a pro rata basis.
+Sec. 12. Section 9-1307, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1307 (1) Within twenty days after a remittance pursuant to section
+9-1306 due to an outstanding state tax liability, the Department of Revenue
+shall notify the obligor winner of the remittance. The notice shall state (a)
+the basis for the claim to the outstanding state tax liability by the
+Department of Revenue, (b) the application of the winnings payment against the
+outstanding state tax liability of the obligor, (c) the obligor's opportunity
+to give written notice of intent to contest the validity of the claim before
+the applicable department to which the outstanding state liability is owed
+Department of Revenue within thirty days after the date of the mailing of the
+notice, (d) the mailing address to which the request must be sent, and (e) that
+a failure to contest the claim in writing within the thirty-day period will be
+deemed a waiver of the opportunity to contest the claim resulting in a setoff
+by default.
+(2)(a) Within twenty days after notification from the Department of
+Revenue of a remittance pursuant to section 9-1306 due to owing a debt
+certified by the Department of Health and Human Services, the Department of
+Health and Human Services shall send written notification to the obligor of an
+assertion of its rights, or of the rights of an individual not eligible as a
+public assistance recipient, to all or a portion of the obligor's winnings
+payment.
+(b) The written notification shall clearly set forth (i) the basis for the
+claim to the winnings payment, (ii) the intention to apply the winnings payment
+against the debt owed to a claimant, (iii) the obligor's opportunity to give
+written notice of intent to contest the validity of the claim before the
+Department of Health and Human Services within thirty days after the date of
+the mailing of the notice, (iv) the mailing address to which the request for a
+hearing must be sent, and (v) that failure to apply for a hearing in writing
+within the thirty-day period will be deemed a waiver of the opportunity to
+contest the claim resulting in a setoff by default.
+Sec. 13. Section 9-1308, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1308 (1)(a) A written request by an obligor a winner pursuant to
+subsection (1) of section 9-1307 shall be effective upon mailing the request,
+postage prepaid and properly addressed, to the applicable department to which
+the outstanding state liability is owed Department of Revenue.
+(b) Any appeal or action taken as a result of a decision pursuant to
+subdivision (1)(a) of this section shall be in accordance with the
+Administrative Procedure Act.
+(2)(a) A written request for a hearing by an obligor a winner pursuant to
+subsection (2) of section 9-1307 shall be effective upon mailing the request,
+postage prepaid and properly addressed, to the Department of Health and Human
+Services.
+(b) If the Department of Health and Human Services receives a written
+request for a hearing contesting a claim, the department shall grant a hearing
+to the obligor to determine whether the claim is valid. If the amount asserted
+as due and owing is not correct, an adjustment to the claimed amount shall be
+made. No issues shall be reconsidered at the hearing which have been previously
+litigated.
+(c) Any appeal of an action taken at or as a result of a hearing held
+pursuant to subdivision (2)(b) of this section shall be in accordance with the
+Administrative Procedure Act.
+Sec. 14. Section 9-1313, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1313 The Department of Health and Human Services, the Department of
+-7-
+LB415 LB415
+2025 2025
+Labor, the Department of Revenue, and the State Racing and Gaming Commission
+may adopt and promulgate rules and regulations to carry out the Gambling
+Winnings Setoff for Outstanding Debt Act.
+Sec. 15. Section 48-665, Reissue Revised Statutes of Nebraska, is amended
+to read:
+48-665 (1) Any person who has received any sum as benefits under the
+Employment Security Law to which he or she was not entitled shall be liable to
+repay such sum to the commissioner for the fund. Any such erroneous benefit
+payments shall be collectible (a) without interest by civil action in the name
+of the commissioner, (b) by offset against any future benefits payable to the
+claimant with respect to the benefit year current at the time of such receipt
+or any benefit year which may commence within three years after the end of such
+current benefit year, except that no such recoupment by the withholding of
+future benefits shall be had if such sum was received by such person without
+fault on his or her part and such recoupment would defeat the purpose of the
+Employment Security Law or would be against equity and good conscience, (c) by
+setoff against any state income tax refund due the claimant pursuant to
+
+Section 6:
+sections 77-27,197 to 77-27,209, (d) by offset against any winnings payment
+pursuant to the Gambling Winnings Setoff for Outstanding Debt Act, or (e) (d)
+as provided in subsection (2) of this section.
+(2) The commissioner may recover a covered unemployment compensation debt,
+as defined in 26 U.S.C. 6402, by setoff against a liable party's federal income
+tax refund. Such setoff shall be made in accordance with such section and
+United States Treasury regulations and guidelines adopted pursuant thereto. The
+commissioner shall notify the debtor that the commissioner plans to recover the
+debt through setoff against any federal income tax refund, and the debtor shall
+be given sixty days to present evidence that all or part of the liability is
+either not legally enforceable or is not a covered unemployment compensation
+debt. The commissioner shall review any evidence presented and determine that
+the debt is legally enforceable and is a covered unemployment compensation debt
+before proceeding further with the offset. The amount recovered, less any
+administrative fees charged by the United States Treasury, shall be credited to
+the debt owed. Any determination rendered under this subsection that the liable
+party's federal income tax refund is not subject to setoff does not require the
+commissioner to amend the commissioner's initial determination that formed the
+basis for the proposed setoff.
+Sec. 16. Section 77-3002, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3002 (1) Any operator shall be required to procure an annual license
+from the Tax Commissioner permitting him or her to operate mechanical amusement
+devices within the State of Nebraska. The Tax Commissioner, upon the
+application of any person, may issue a license, except that if the applicant
+(a) is not of good character and reputation in the community in which he or she
+resides, (b) has been convicted of or has pleaded guilty to a felony under the
+laws of the State of Nebraska, of any other state, or of the United States, or
+(c) has been convicted of or has pleaded guilty to being the proprietor of a
+gambling house, or of any other crime or misdemeanor opposed to decency and
+morality, no license shall be issued. If the applicant is a corporation whose
+majority stockholders could not obtain a license, then such corporation shall
+not be issued a license. If the applicant is an individual, the application
+shall include the applicant's social security number. Procuring a license shall
+constitute sufficient contact with this state for the exercise of personal
+jurisdiction over such person in any action arising out of the operation of
+mechanical amusement devices in this state.
+(2)(a) Except for an applicant that holds a liquor license under the
+Nebraska Liquor Control Act, an applicant for a license as an operator of a
+cash device shall be subject to a one-time background check by the department
+prior to the issuance of a license. An applicant shall pay the costs associated
+with the background check along with any required fees as determined by the
+department.
+(b) The Tax Commissioner has the authority to deny any application for a
+license as an operator of a cash device for cause. Cause for denial of a
+license application includes instances in which the applicant individually, or
+in the case of a business entity, any officer, director, employee, or limited
+liability company member of the applicant or licensee other than an employee
+whose duties are purely ministerial in nature:
+(i) Violated the provisions, requirements, conditions, limitations, or
+duties imposed by the Mechanical Amusement Device Tax Act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(ii) Knowingly caused, aided, abetted, or conspired with another to cause
+any person to violate any of the provisions of the act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(iii) Obtained a license or permit under the act by fraud,
+misrepresentation, or concealment;
+(iv) Has been convicted of, forfeited bond upon a charge of, or pleaded
+guilty or nolo contendere to any offense or crime, whether a felony or a
+misdemeanor, involving any gambling activity or fraud, theft, willful failure
+to make required payments or reports, or filing false reports with a
+governmental agency at any level;
+(v) Denied the department or its authorized representatives, including
+authorized law enforcement agencies, access to any place where activity
+required to be licensed under the act is being conducted or failed to produce
+for inspection or audit any book, record, document, or item required by law,
+-8-
+LB415 LB415
+2025 2025
+rule, or regulation;
+(vi) Made a misrepresentation of or failed to disclose a material fact to
+the department;
+(vii) Failed to prove by clear and convincing evidence such applicant's
+qualifications to be licensed in accordance with the act;
+(viii) Failed to pay any taxes and additions to taxes, including penalties
+and interest required by the act or any other taxes imposed pursuant to the
+Nebraska Revenue Act of 1967; or
+(ix) Has been cited for a violation of the Nebraska Liquor Control Act and
+had a liquor license suspended, canceled, or revoked by the Nebraska Liquor
+Control Commission for illegal gambling activities on or about the premises
+licensed by the commission pursuant to the Nebraska Liquor Control Act or the
+rules and regulations adopted and promulgated pursuant to such act.
+(c) No renewal of a license issued pursuant to this section shall be
+issued when the applicant for renewal would not be eligible for a license upon
+a first application.
+(3) The Tax Commissioner has the authority to suspend or revoke the
+license of any operator that is in violation of the Mechanical Amusement Device
+Tax Act.
+(4) Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (2) of section 9-1312, prior to the
+winnings payment of any cash device winnings as defined in section 9-1303, an
+operator of a cash device shall check the collection system to determine if the
+winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such operator determines
+that the winner is subject to the collection system, the operator shall deduct
+the amount of debt and outstanding state tax liability identified in the
+collection system from the winnings payment and shall remit the net winnings
+payment of cash device winnings, if any, to the winner and the amount deducted
+to the Department of Revenue to be credited against such debt or outstanding
+state tax liability as provided in section 9-1306.
+Sec. 17. Section 77-3003, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3003 (1) Any distributor shall be required to procure an annual license
+from the Tax Commissioner permitting him or her to place and either directly or
+indirectly control or manage a mechanical amusement device within the State of
+Nebraska. The Tax Commissioner, upon the application of any person, may issue a
+license, subject to the same limitations as an operator's license under section
+77-3002. If the applicant is an individual, the application shall include the
+applicant's social security number.
+(2)(a) Except for an applicant that holds a liquor license under the
+Nebraska Liquor Control Act, an applicant for a license as a distributor of a
+cash device shall be subject to a one-time background check by the department
+prior to issuance of the license. An applicant shall pay the costs associated
+with the background check along with any required fees as determined by the
+department.
+(b) The Tax Commissioner has the authority to deny any application for a
+license as a distributor of a cash device for cause. Cause for denial of a
+license application includes instances in which the applicant individually, or
+in the case of a business entity, any officer, director, employee, or limited
+liability company member of the applicant or licensee other than an employee
+whose duties are purely ministerial in nature:
+(i) Violated the provisions, requirements, conditions, limitations, or
+duties imposed by the Mechanical Amusement Device Tax Act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(ii) Knowingly caused, aided, abetted, or conspired with another to cause
+any person to violate any of the provisions of the act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(iii) Obtained a license or permit under the act by fraud,
+misrepresentation, or concealment;
+(iv) Has been convicted of, forfeited bond upon a charge of, or pleaded
+guilty or nolo contendere to any offense or crime, whether a felony or a
+misdemeanor, involving any gambling activity or fraud, theft, willful failure
+to make required payments or reports, or filing false reports with a
+governmental agency at any level;
+(v) Denied the department or its authorized representatives, including
+authorized law enforcement agencies, access to any place where activity
+required to be licensed under the act is being conducted or failed to produce
+for inspection or audit any book, record, document, or item required by law,
+rule, or regulation;
+(vi) Made a misrepresentation of or failed to disclose a material fact to
+the department;
+(vii) Failed to prove by clear and convincing evidence such applicant's
+qualifications to be licensed in accordance with the act;
+(viii) Failed to pay any taxes and additions to taxes, including penalties
+and interest required by the act or any other taxes imposed pursuant to the
+Nebraska Revenue Act of 1967; or
+(ix) Has been cited for a violation of the Nebraska Liquor Control Act and
+had a liquor license suspended, canceled, or revoked by the Nebraska Liquor
+Control Commission for illegal gambling activities on or about the premises
+licensed by the commission pursuant to the Nebraska Liquor Control Act or the
+rules and regulations adopted and promulgated pursuant to such act.
+(c) No renewal of a license issued pursuant to this section shall be
+-9-
+LB415 LB415
+2025 2025
+issued when the applicant for renewal would not be eligible for a license upon
+a first application.
+(3) Beginning January 1, 2025, the annual license for a distributor of a
+cash device shall be accompanied by a fee of one hundred dollars per cash
+device up to a maximum of five thousand dollars.
+(4) The Tax Commissioner has the authority to suspend or revoke the
+license of any distributor that is in violation of the Mechanical Amusement
+Device Tax Act.
+(5) Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (2) of section 9-1312, prior to the
+winnings payment of any cash device winnings as defined in section 9-1303, a
+distributor of a cash device shall check the collection system to determine if
+the winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such distributor
+determines that the winner is subject to the collection system, the distributor
+shall deduct the amount of debt and outstanding state tax liability identified
+in the collection system from the winnings payment and shall remit the net
+winnings payment of cash device winnings, if any, to the winner and the amount
+deducted to the Department of Revenue to be credited against such debt or
+outstanding state tax liability as provided in section 9-1306.
+Sec. 18. Section 77-3014, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3014 Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (2) of section 9-1312, prior to the
+winnings payment of any cash device winnings as defined in section 9-1303, a
+manufacturer of a cash device that makes winnings payments shall check the
+collection system to determine if the winner has a debt or an outstanding state
+tax liability as required by the Gambling Winnings Setoff for Outstanding Debt
+Act. If such manufacturer determines that the winner is subject to the
+collection system, the manufacturer shall deduct the amount of debt and
+outstanding state tax liability identified in the collection system from the
+winnings payment and shall remit the net winnings payment of cash device
+winnings, if any, to the winner and the amount deducted to the Department of
+Revenue to be credited against such debt or outstanding state tax liability as
+provided in section 9-1306.
+Sec. 19. Section 81-5,213, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,213 The committee:
+(1) May consult with engineering authorities and organizations concerned
+with standard safety codes;
+(2) Shall recommend to the State Fire Marshal rules and regulations
+governing the operation, maintenance, servicing, construction, alteration,
+installation, and inspection of conveyances;
+(3) Shall recommend to the State Fire Marshal qualifications for licensure
+as an elevator mechanic or elevator contractor and conditions for disciplinary
+actions, including suspension or revocation of a license;
+(4) Shall recommend to the State Fire Marshal rules and regulations for
+temporary and emergency elevator mechanic thirty-day licenses;
+(5) Shall recommend to the State Fire Marshal an enforcement program which
+will ensure compliance with the Conveyance Safety Act and the rules and
+regulations adopted and promulgated pursuant to the act. The enforcement
+program shall include the identification of property locations which are
+subject to the act, issuing notifications to violating property owners or
+operators, random onsite inspections and tests on existing installations, and
+assisting in development of public awareness programs; and
+(6) Shall make recommendations to the State Fire Marshal regarding
+equivalencies and variances under section 81-5,217, continuing education
+providers under section 81-5,235, and license disciplinary actions under
+
+Section 7:
+section 81-5,237.
+Sec. 20. Section 81-5,215, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,215 (1) The Conveyance Safety Act applies to the construction,
+operation, inspection, testing, maintenance, alteration, and repair of
+conveyances. Conveyances include the following equipment, associated parts, and
+hoistways which are not exempted under section 81-5,216:
+(a) Hoisting and lowering mechanisms equipped with a car which moves
+between two or more landings. This equipment includes elevators;
+(b) Power driven stairways and walkways for carrying persons between
+landings. This equipment includes:
+(i) Escalators; and
+(ii) Moving sidewalks; and
+(c) Hoisting and lowering mechanisms equipped with a car, which serves two
+or more landings and is restricted to the carrying of material by its limited
+size or limited access to the car. This equipment includes:
+(i) Dumbwaiters;
+(ii) Material lifts and dumbwaiters with automatic transfer devices; and
+(iii) Conveyors and related equipment within the scope of American Society
+of Mechanical Engineers B20.1, 2012 Edition.
+(2) The act applies to the construction, operation, inspection,
+maintenance, alteration, and repair of automatic guided transit vehicles on
+guideways with an exclusive right-of-way. This equipment includes automated
+people movers.
+(3) The act applies to conveyances in private residences located in
+-10-
+LB415 LB415
+2025 2025
+counties that have a population of more than one hundred thousand inhabitants
+at the time of installation. Such conveyances are subject to inspection at
+installation but are not subject to periodic inspections.
+Sec. 21. Section 81-5,216, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,216 The Conveyance Safety Act does not apply to:
+(1) Conveyances under the jurisdiction and subject to inspection by the
+United States Government;
+(2) Conveyances used exclusively for agricultural purposes;
+(3) Personnel hoists within the scope of American National Standards
+Institute A10.4, 2016 Edition;
+(4) Material hoists within the scope of American National Standards
+Institute A10.5, 2013 Edition;
+(5) Manlifts within the scope of American Society of Mechanical Engineers
+A90.1, 2015 Edition;
+(6) Mobile scaffolds, towers, and platforms within the scope of American
+National Standards Institute A92.10, 2009 Edition A92;
+(7) Powered platforms and equipment for exterior and interior maintenance
+within the scope of American National Standards Institute 120.1;
+(8) Cranes, derricks, hoists, hooks, jacks, and slings within the scope of
+American Society of Mechanical Engineers B30.10, 2014 Edition B30;
+(9) Industrial trucks within the scope of American Society of Mechanical
+Engineers B56;
+(9) (10) Portable equipment, except for portable escalators which are
+covered by American National Standards Institute A17.1, 2013 Edition;
+(10) (11) Tiering or piling machines used to move materials to and from
+storage located and operating entirely within one story;
+(11) (12) Equipment for feeding or positioning materials at machine tools,
+printing presses, and similar equipment;
+(12) (13) Skip or furnace hoists;
+(13) (14) Wharf ramps;
+(14) (15) Railroad car lifts or dumpers;
+(15) (16) Line jacks, false cars, shafters, moving platforms, and similar
+equipment used for installing a conveyance by an elevator contractor;
+(16) (17) Manlifts, hoists, or conveyances used in grain elevators or feed
+mills;
+(17) (18) Dock levelators;
+(18) (19) Stairway chair lifts and platform lifts; and
+(19) (20) Conveyances in residences located in counties that have a
+population of one hundred thousand or less inhabitants.
+Sec. 22. Section 81-5,217, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,217 (1) The State Fire Marshal shall adopt and promulgate rules and
+regulations which establish the regulations for conveyances under the
+Conveyance Safety Act. The rules and regulations may include the Safety Code
+for Elevators and Escalators, American Society of Mechanical Engineers A17.1
+except those parts exempted under section 81-5,216; the standards for conveyors
+and related equipment, American Society of Mechanical Engineers B20.1; and the
+Automated People Mover Standards, American Society of Civil Engineers 21. The
+State Fire Marshal shall annually review to determine if the most current form
+of such standards should be adopted.
+(2) The State Fire Marshal may grant an equivalency or variance request to
+a variance from the rules and regulations adopted in subsection (1) of this
+
+Section 8:
+section in individual situations upon good cause shown if the safety of those
+riding or using the conveyance is not compromised by the equivalency or
+variance. The State Fire Marshal shall adopt and promulgate rules and
+regulations for the procedure to obtain a variance. The committee shall make
+recommendations to the State Fire Marshal regarding each variance requested.
+The decision of the State Fire Marshal in granting or refusing to grant an
+equivalency or variance request a variance may be appealed. The appeal shall be
+in accordance with the Administrative Procedure Act.
+Sec. 23. Section 81-5,218, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,218 Conveyances upon which construction is started subsequent to
+January 1, 2008, shall be registered at the time they are completed and placed
+in service.
+Sec. 24. Section 81-5,219, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,219 On and after January 1, 2008: Prior to any newly installed
+conveyance being used for the first time, the property owner or lessee shall
+obtain a certificate of inspection from the State Fire Marshal. A fee
+established under section 81-5,214 shall be paid for the certificate of
+inspection. A licensed elevator contractor shall complete and submit first-time
+registrations for new installations to the state elevator inspector for the
+inspector's approval. A certificate of inspection shall be clearly displayed in
+an elevator car and on or in each other conveyance.
+Sec. 25. Section 81-5,221, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,221 (1) The State Fire Marshal shall employ a state elevator
+inspector who shall work under the direct supervision of the State Fire Marshal
+or the State Fire Marshal's designee.
+(2) The person so employed shall be qualified by (a) not less than five
+years' experience in the installation, maintenance, and repair of elevators as
+-11-
+LB415 LB415
+2025 2025
+determined by the State Fire Marshal, (b) certification as a qualified elevator
+inspector by an association accredited by the American Society of Mechanical
+Engineers, or (c) not less than five years' journeyman experience in elevator
+installation, maintenance, and inspection as determined by the State Fire
+Marshal and shall be familiar with the inspection process and rules and
+regulations adopted and promulgated under the Conveyance Safety Act.
+(3) The State Fire Marshal may employ deputy inspectors possessing the
+same qualifications as the state elevator inspector as necessary to carry out
+the Conveyance Safety Act.
+Sec. 26. Section 81-5,223, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,223 (1) No inspection shall be required under the Conveyance Safety
+Act when an owner or user of a conveyance: obtains an inspection by a
+representative of a reputable insurance company licensed to do business in
+Nebraska, obtains a policy of insurance from such company upon the conveyance
+and files with the State Fire Marshal a certificate of inspection by such
+insurance company, files a statement that such conveyance is insured, and pays
+an administrative fee established pursuant to section 81-5,214.
+(a) Obtains and submits to the State Fire Marshal a certificate of
+inspection from a third-party inspection company;
+(b) Obtains a policy of insurance upon the conveyance from a licensed
+insurance company;
+(c) Files a statement that such conveyance is insured; and
+(d) Pays an administrative fee established pursuant to section 81-5,214.
+(2) No inspection shall be required under the act when there has been an
+annual inspection under a city ordinance which meets the standards of the act.
+Sec. 27. Section 81-5,230, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,230 (1) Any person wishing to engage in the work of an elevator
+mechanic shall apply for and obtain an elevator mechanic license from the State
+Fire Marshal. The application shall be on a form provided by the State Fire
+Marshal.
+(2) Any person wishing to engage in the business of an elevator contractor
+shall apply for and obtain an elevator contractor license from the State Fire
+Marshal. The application shall be on a form provided by the State Fire Marshal.
+(3) Each application for an elevator mechanic license shall contain:
+(a) The name and address of the applicant If an individual, the name,
+residence and business address, and social security number of the applicant;
+(b) A contact email address If a partnership, the name, residence and
+business address, and social security number of each partner;
+(c) A contact telephone number If a domestic corporation, the name and
+business address of the corporation and the name, residence address, and social
+security number of the principal officer of the corporation; and if a
+corporation other than a domestic corporation, the name and address of an agent
+located locally who is authorized to accept service of process and official
+notices;
+(d) The number of years the applicant has engaged in the business of
+installing, inspecting, maintaining, or servicing conveyances;
+(e) The approximate number of individuals to be employed by the applicant
+and, if applicable, satisfactory evidence that the employees are or will be
+covered by workers' compensation insurance;
+(f) Satisfactory evidence that the applicant is or will be covered by
+general liability, personal injury, and property damage insurance;
+(e) (g) Permission for the State Fire Marshal to access the criminal
+history record information of individuals, partners, or officers maintained by
+the Federal Bureau of Investigation through the Nebraska State Patrol; and
+(h) A description of all accidents causing personal injury or property
+damage in excess of one thousand dollars involving conveyances installed,
+inspected, maintained, or serviced by the applicant; and
+(f) (i) Such other information as the State Fire Marshal may by rule and
+regulation require.
+(4) Each application for an elevator contractor license shall contain:
+(a) All information required under subsection (3) of this section;
+(b) The name and address of the business;
+(c) The approximate number of employees to be employed by the applicant
+and, if applicable, satisfactory evidence that the employees are or will be
+covered by workers' compensation insurance;
+(d) Satisfactory evidence that the applicant is or will be covered by
+general liability, personal injury, and property damage insurance;
+(e) A description of all accidents causing personal injury or property
+damage in excess of one thousand dollars involving conveyances installed,
+inspected, maintained, or serviced by the applicant; and
+(f) The name, telephone number, and Nebraska elevator mechanic license
+number of a licensed elevator mechanic employed by or contracted with the
+business Social security numbers on applications shall not be made public or be
+considered a part of a public record.
+Sec. 28. Section 81-5,239, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,239 (1) Any person may make a request for an investigation into an
+alleged violation of the Conveyance Safety Act by giving notice to the State
+Fire Marshal or state elevator inspector of such violation or danger.
+(2) Upon receipt of a request for an investigation, the State Fire Marshal
+or state elevator inspector shall perform a preliminary inquiry into the
+-12-
+LB415 LB415
+2025 2025
+charges contained in the request for investigation. A request for an
+investigation may be made in person or in writing by telephone call and shall
+set forth with reasonable particularity the grounds for the request for an
+investigation. During the preliminary inquiry, the name, address, and telephone
+number of the person making the request for an investigation shall be available
+only to the State Fire Marshal, state elevator inspector, or other person
+carrying out the preliminary inquiry on behalf of the State Fire Marshal or
+state elevator inspector. The State Fire Marshal or state elevator inspector
+shall keep a record of each request for an investigation received under this
+
+Section 9:
+section for three years after such request is made.
+(3) If after the preliminary inquiry the State Fire Marshal or state
+elevator inspector determines that there are reasonable grounds to believe that
+such violation or danger exists and is likely to continue to exist such that
+the operation of the conveyance endangers the public, the State Fire Marshal or
+state elevator inspector shall cause a formal investigation to be made. During
+the formal investigation, a statement shall be taken from the person who made
+the request for an investigation and the person's name, address, and telephone
+number shall be made available to any opposing parties upon request.
+(4) If the State Fire Marshal or state elevator inspector determines that
+there are no reasonable grounds to believe that a violation or danger exists
+under either subsection (2) or (3) of this section, the State Fire Marshal
+shall notify the person requesting the investigation in writing of such
+determination.
+Sec. 29. Original sections 48-665, 81-5,213, 81-5,215, 81-5,216,
+81-5,217, 81-5,218, 81-5,219, 81-5,221, 81-5,223, 81-5,230, and 81-5,239,
+Reissue Revised Statutes of Nebraska, sections 9-1104, 9-1110, 9-1302, 9-1303,
+9-1304, 9-1305, 9-1306, 9-1307, 9-1308, 9-1313, 77-3002, 77-3003, and 77-3014,
+Revised Statutes Cumulative Supplement, 2024, and sections 2, 3, 4, and 8,
+Initiative Law 2024, No. 436, are repealed.
+-13-
+[DELETED: yB B F A A r t l t a s 4 8 8 8 8 8 8 8 a 8 R R S o N s 9 9 9 9 9 9 9 9 7 7 a 7 R S C t r t a c a e a a e p u t N H i l a e p o t S A t e o p t h E m t p t w b a e p t a E m a i p l l a c b t l r o A o t f r o a A b a o A g g o s w o a b a o s r o t e o t e w t s b i h c b a t e N t f f e p o a c5L52]
+[DELETED:  R p a m a d o a r g t N H F a W A a a t Y m a r a c t p a F h o p s t i a y f a e o a E w a e f o r u 2 U h i w c p s t a b u t t P s t r p u t N H ( A p s t s b c o t t f I A i l o c o u p s t m o e t r o s ( a ( o t w m a a a o p l t e o e t m t r o t N H F a ( A i d a e m l p s t t a e n f m d c o t o a m o i i o h c o a e n f5L52]
+[DELETED:  a a m n b t c m o p i C o t e p o b b o o a p w s o p o c h b c b o o a p d t a p h e o a e n t s t e o f m h a c t c P s t u t s s b p u t o o a e i c w t N H F a w t s s p a w p t c s t u t s t t e s f o f  s i ( d s b a h c o a f m d n r s f a h c o i d c b o f a h c A e s t a m c p o p e e t c p s t f t t e m c a p i t s m u t m c a a f t 8 ( T C o L s i a c t a o d b w t U S P S c v t c w s p a h i a w t A e w h a u c f a v o t C i u t s a t n o e w t t s s n a t a c t a b A e h a c f a v o t N H t p c I a a b t e t N H5L52]
+[DELETED:  o e r a t c d a t e t I a e i s a a e u s o t s a c t i i a a e u ( o t s a t r d t t f i s b a i e u s e b t i s n b a i e u t s u ( T o o g o c a a l r m b c b a a g o w h a e l r e w t s I s n b  t t p o e a f o t b g s e w o t l r e a w s b o b a g o a a l r N p y t t y o a s p o i a w i a g o c o u a g d o I t l r e a w s a g c g o c d n h t m n o l m r u s 2 t a g o B o t i d d b t T p t s ( o s 9 p t t p o a c w a d i s 9 a n w p o c w i a t t w a t ( T c m p a a g o t p i t d s w a a t l r A f p i t d s w a t l o a w k s b f w t S p a t p t f t T c s d p a p t e  B o t i d d b t T5L52]
+[DELETED:  p t s ( o s 9 p t t E a m a p t s o a a o a t c t t T I c s e A w m a c w p w m o s c d t p t p w a I r e u t j o t S R a A p o e e t r c s s o m s a d i s 4 p t a h r t r s s S a c s s C s m t c s d a c s c j o o o l o w t i a o j f s a a i f t c s o m o a c o f m o O ( o m t o h a d a w a O m a a g o a d i s d o m o a c d l u t p a b t T C D o L o5L52]
+[DELETED:  o I R S F W a h t w b t a t a w b a p f s w a d i 9 o a s w a b t S R a G ( T D o R i c w t D o L s d a i a s e s s n o a o a a o i t t o i i a o T c s s o t d i l i d T s o d o o L m s t t c s a a o f t c s i a w t s s i c a s o b u b t o o t D A A e o p e o a o o t a o s a b l s b s t t p s b l f u d o c b a a o e o t a t w t d o T i o b t D o H a H t D o M V t D o L o t p o s d d o o s t l t D o H a H S t D o M b l s b s t t p s b l f A o s h a t t c s t l u t a d w p f p o c w t t S R a G C o n m t t t5L52]
+[DELETED:  c s f a d o a o s t l o t a o m b c i v o s l a I a o d t a o i u t D o R i a m p b t d t  H S u s d i s a t a a s t l o b s o w u s ( W t d a a r p t s d t a o s t l t D o R b f t c t t o s t l b t a d t w t o s l i o W t d a n f t D o o a r p t s 9 d t o a d b t D o H a H S t D o a r t a o a p o t o w n o i t c t v o t c b t t t p w b d a w o t o t ( A w r b a o a w p t A a o a t a a r o a d p t ( o t s s b i a w t I t D o H a H S r a w A a o a a t a o a a r o a h h T D o H a H S t D o5L52]
+[DELETED:  a a p r a r t c o t G ( A p w h r a s a b u t s s t t c f t f A s e b b y e t n s r b t w o a a s i t r d t c p t 7 t 7 ( b o a a w p r S s s b m i a w s s a p f w t o T a r l a w t S o N T T C u t h o o a o c o m o t d a b i a l I t a i a i t a s c w t s f t e o p o s p i a a a o o t o o E f a a t h a l l u t t b c a w a r f a d b t a a o o a c d f c C f d o  V t p r c l o i b t M A D T A o a r o p t v a o t p o t a o a r o O a l o p u t a b f o n c t a o o c w a f o  m r p o r o f f r w  D t d o i a r i l e a a t a p w a5L52]
+[DELETED:  F t p b c a c e s a a l l s c o r b t N L C f i g a o o a t p N r o a l i p t t s s b T T C h t a t s o r t B o t i d d b t T p t s ( o s 9 p t t h a d o a o s t l a r b t a o d a o s t l i i t E f a a t h a l l u t t b c a w a r f a d b t a a d o a c d f c C f d o  V t p r c l o i b t M A D T A o a r o p t v a o t p o t a o a r o O a l o p u t a b f o n c t a o o c w a f o  m r p o r o f f r w  D t d o i a r i l e a a t a p w a F t p b c a c e s a a l l s c o r b t N L C f i g a o o a t p N r o a l i p t t s s b5L52]
+[DELETED:  d s b a b a f o o h d p c T T C h t a t s o r t o a d t i i v o t M A B o t i d d b t T p t s ( o s 9 p t t W S f O D A I s d t c s f t w p a s r t n t t D o R t b c a s d o B o t i d d b t T p t s ( o s 9 p t t o a c d t m w p s c t I s m d t t w i s t t s t m s d t a o d a p a s r t n w p o c d 1 S 8 R R S o N i S r t t S F M r a r t o m s c a e c w t C S A a t r a a a p p t t a T e s i t i o p l w a t t a i n t v p o o S m r t t S F M r a v u s 8 c e u s 8 a l d a u 2 S 8 R R S o N i ( T C S A a t t c i t m a a r o H a l m e w a c w m P d s a w f c p b T a a t t c o i a a r o a g t v o w a e r T e i a T a a t c i p r l i5L52]
+[DELETED:  t t o i S c a s t i a 2 S 8 R R S o N i C u t j a s t i b t P h w t s o A N S M h w t s o A N S ( P e e f p e w a ( C i r l i c t h  2 S 8 R R S o N i w e t r f c u t E a E A S o M E A v f t r a r a i s ( o t o u t c i n c b t e o T S F M s a a p r a t t S F M r e v r d o t S F M i g o r t g a 2 S 8 R R S o N i C u w c i s s t 2 S 8 R R S o N i  O a a J 1 2 P t a n i a c o i f t S F M A f u s 8 s b p f t c o f n i t t s e i f t 2 S 8 R R S o N i ( T S F M s e a s e5L52]
+[DELETED:  m a i a d b t S F a s b f w t i p a r a T S F M m e d i p t 2 S 8 R R S o N i w a o o u o a c o a i b  o a r i c l t d b i f w t S F M a c o i b s O a s t t S F M a c o O a p o i u t c f a l 2 S 8 R R S o N i ( A p w t e i t w o a e T n a a o t a I a i t n A c e a I a p t n r a A c t n I a d c t n a n o t p o o t c a i  l w i a t a s o p a o T n o y t a h e i t b o i a s e t t e a o w b S e t t a i o w b c b ( P f t S F M t a t c A d o a a c p i o p i e o o t d i c i i a s e t t e a o w b S e t t a i o w b c b A d o a a c p i o p i e o o t d i c i T n t n a N e m l o a l e m e b o c w t 2 S 8 R R S o N i s e i s p a p i i t5L52]
+[DELETED:  c i t r f i A r f a f w r p t g f t r f a t t S F M s e i o o p o t p i o b o t S F M o I a t p i t S F M o s e s ( o ( o t s t S F M n t p r t i i w o s 2  O s 4 8 8 8 8 8 8 8 8 a 8 S C S 2 a s 2 3 4 a 85L52]
+
+
+================================================================================
+
+Raw Text:
+LB415 LB415
+2025 2025
+LEGISLATIVE BILL 415
+Approved by the Governor June 4, 2025
+Introduced by Ballard, 21.
+A BILL FOR AN ACT relating to law; to amend sections 48-665, 81-5,213,
+81-5,215, 81-5,216, 81-5,217, 81-5,218, 81-5,219, 81-5,221, 81-5,223,
+81-5,230, and 81-5,239, Reissue Revised Statutes of Nebraska, sections
+9-1104, 9-1110, 9-1302, 9-1303, 9-1304, 9-1305, 9-1306, 9-1307, 9-1308,
+9-1313, 77-3002, 77-3003, and 77-3014, Revised Statutes Cumulative
+Supplement, 2024, and sections 2, 3, 4, and 8, Initiative Law 2024, No.
+436; to redefine terms and change and eliminate applicability,
+administrative, and enforcement provisions under the Nebraska Healthy
+Families and Workplaces Act; to define and redefine terms and provide for
+set off of debt owed due to the overpayment of unemployment benefits under
+the Employment Security Law against gambling winnings under the Gambling
+Winnings Setoff for Outstanding Debt Act; to change provisions relating to
+the offset of overpayment of unemployment benefits against future benefits
+under the Employment Security Law; to change and eliminate applicability,
+inspection, investigation, licensure, and enforcement provisions of the
+Conveyance Safety Act; to eliminate obsolete provisions; to harmonize
+provisions; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 2, Initiative Law 2024, No. 436, is amended to read:
+Sec. 2. For purposes of the Nebraska Healthy Families and Workplaces Act:
+(1) Department means the Department of Labor;
+(2) Employ means to permit to work by an employer pursuant to an
+employment relationship;
+(3) (3)(a) Employee means any individual employed by an employer, but does
+not include:
+(a) An individual owner-operator;
+(b) An independent contractor;
+(c) An an individual who works in Nebraska for fewer than eighty hours in
+a calendar year; .
+(d) An individual who is employed in agricultural employment of a seasonal
+or other temporary nature;
+(e) An (b) Employee does not include an "employee" as defined by 45 U.S.C.
+351(d) who is subject to the federal Railroad Unemployment Insurance Act, 45
+U.S.C. 351 et seq.; or
+(f) An individual under sixteen years of age;
+(4)(a) Employer means any individual, partnership, limited liability
+company, association, corporation, business trust, legal representative, or
+organized group of persons who employs eleven one or more employees.
+(b) Employer does not include the United States or the State of Nebraska
+or its agencies, departments, or political subdivisions;
+(5) Family member means:
+(a) Any of the following, regardless of age: A biological, adopted, or
+foster child, a stepchild, a legal ward, or a child to whom the employee stands
+in loco parentis;
+(b) A biological, foster, step, or adoptive parent or a legal guardian of
+an employee or an employee's spouse;
+(c) A person who stood in loco parentis to the employee or the employee's
+spouse when the employee or employee's spouse was a minor child;
+(d) A person to whom the employee is legally married under the laws of any
+state;
+(e) A grandparent, grandchild, or sibling, whether of a biological,
+foster, adoptive, or step relationship, of the employee or the employee's
+spouse; or
+(f) Any other individual related by blood to the employee or whose close
+association with the employee is the equivalent of a family relationship;
+(6) Health care professional means any person licensed under any federal
+or state law to provide medical or emergency services;
+(7) Paid sick time means time that is compensated at the same hourly rate
+and with the same benefits, including health care benefits, as the employee
+typically earns during hours worked and that is provided by an employer to an
+employee for the purposes described in section 4 of this act, and in no case
+shall the amount of this hourly rate be less than that provided under section
+48-1203. Notwithstanding the foregoing, for employees paid on a commission,
+piece-rate, mileage, or fee-for-service basis, paid sick time means time that
+is compensated at an hourly rate determined by the employer using the average
+weekly rate calculation under section 48-126, which shall then be reduced to an
+hourly rate based on a forty-hour workweek, and that is provided by an employer
+to an employee for the purposes described in section 3 of this act. Paid sick
+time includes time made available to employees for purposes including, but not
+limited to, the purposes described in section 3 of this act under a paid leave
+policy described in subsection (7) of section 2 of this act;
+(8) Public health emergency means a declaration or proclamation related to
+-1-
+
+LB415 LB415
+2025 2025
+a public health threat, risk, disaster, or emergency that is made or issued by
+a federal, state, or local official with the authority to make or issue such a
+declaration or proclamation;
+(9) Retaliatory personnel action means a denial of any right guaranteed
+under the Nebraska Healthy Families and Workplaces Act and any threat,
+discharge, suspension, demotion, reduction of hours or pay, or other adverse
+action against an employee for exercising or attempting to exercise any right
+guaranteed in the Nebraska Healthy Families and Workplaces Act;
+(10)(a) Small business means an employer with at least eleven but fewer
+than twenty employees during a given week, including full-time, part-time, or
+temporary employees.
+(b) Small business does not include an employer that maintained twenty or
+more employees on its payroll in each of twenty or more calendar weeks in the
+current or preceding calendar year; and
+(11) Year means a regular and consecutive twelve-month period as
+determined by the employer.
+Sec. 2. Section 3, Initiative Law 2024, No. 436, is amended to read:
+Sec. 3. (1) All employees shall begin accruing paid sick time after eighty
+hours of consecutive employment, at which point employees shall then accrue a
+minimum of one hour of paid sick time for every thirty hours worked. Unless the
+employer selects a higher limit, this section does not entitle an employee to
+earn or use more than:
+(a) Forty hours of paid sick time in a year for an employee of a small
+business; or
+(b) Fifty-six hours of paid sick time in a year for an employee of an
+employer that is not a small business.
+(2) Employees who are exempt from overtime requirements under 29 U.S.C.
+213(a)(1) or 29 U.S.C. 213(b)(1) of the federal Fair Labor Standards Act, 29
+U.S.C. 201 et seq., shall be assumed to work forty hours in each workweek for
+purposes of paid sick time accrual unless their typical workweek is less than
+forty hours, in which case paid sick time accrues based upon that typical
+workweek.
+(3) Paid sick time requirements provided under the Nebraska Healthy
+Families and Workplaces Act as provided in this section shall begin to accrue
+at the commencement of employment or October 1, 2025 , whichever is later. An
+employee shall be entitled to use paid sick time as it is accrued. An employer
+may provide all paid sick time that an employee is expected to accrue in a year
+at the beginning of the year.
+(4) Paid sick time provided to an employee on or after January 1, 2025,
+and before October 1, 2025, shall be counted toward an employer's obligations
+under the Nebraska Healthy Families and Workplaces Act for calendar year 2025.
+(5) (4) Accrued paid sick time shall be carried over to the following
+year. A small business is not required to permit an employee to use more than
+forty hours of paid sick time per year, and other employers are not required to
+permit an employee to use more than fifty-six hours of paid sick time per year.
+(6) In Alternatively, in lieu of carryover of unused paid sick time
+provided pursuant to this section from one year to the next, an employer may
+pay an employee for unused paid sick time provided pursuant to this section at
+the end of a year and provide the employee with an amount of paid sick time
+that meets or exceeds the requirements of subsections (1) and (3) of this
+section that is available for the employee's immediate use at the beginning of
+the subsequent year.
+(7) (5) Any employer with a paid leave policy, such as a paid time off
+policy, who makes available an amount of paid leave that equals or exceeds
+sufficient to meet the requirements of the Nebraska Healthy Families and
+Workplaces Act and that may be used for the same purposes and under the same
+conditions as paid sick time in accordance with section 3 of this act under the
+act is not required to provide additional paid sick time under the act and is
+not obligated to allow an employee to accrue or carryover benefits beyond the
+employer's existing paid leave policy.
+(8) (6) At its discretion, an employer may loan paid sick time to an
+employee in advance of accrual by such employee.
+(9) (7) If an employee is transferred to a separate division, entity, or
+location, but remains employed by the same employer, the employee is entitled
+to all paid sick time accrued at the prior division, entity, or location and is
+entitled to use all paid sick time as provided in the Nebraska Healthy Families
+and Workplaces Act. When there is a separation from employment and the employee
+is rehired within twelve months of separation by the same employer, previously
+accrued paid sick time that had not been used or paid out to the employee shall
+be reinstated. The employee shall be entitled to use accrued paid sick time and
+accrue additional paid sick time at the recommencement of employment.
+(10) Nothing in this section shall be construed to require employers to
+pay an employee for unused paid sick time upon the employee's separation from
+employment.
+Sec. 3. Section 4, Initiative Law 2024, No. 436, is amended to read:
+Sec. 4. (1) Paid sick time shall be provided to an employee by an employer
+for:
+(a) An employee's mental or physical illness, injury, or health condition;
+an employee's need for medical diagnosis, care, or treatment of a mental or
+physical illness, injury, or health condition; or an employee's need for
+preventive medical care;
+(b) Care of a family member with a mental or physical illness, injury, or
+health condition; care of a family member who needs medical diagnosis, care, or
+-2-
+
+LB415 LB415
+2025 2025
+treatment of a mental or physical illness, injury, or health condition; care of
+a family member who needs preventive medical care; or in the case of a child,
+to attend a meeting necessitated by the child's mental or physical illness,
+injury, or health condition, at a school or place where the child is receiving
+care; or
+(c) Closure of the employee's place of business by order of a public
+official due to a public health emergency; an employee's need to care for a
+child whose school or place of care has been closed by order of a public
+official due to a public health emergency; or an employee's need to self-
+isolate or care for the employee or a family member when it has been determined
+by the health authorities having jurisdiction or by a health care professional
+that the employee's or family member's presence in the community may jeopardize
+the health of others because of exposure to a communicable disease, whether or
+not the employee or family member has actually contracted the communicable
+disease.
+(2) Paid sick time under this section shall be provided upon the oral
+request of an employee in compliance with the Nebraska Healthy Families and
+Workplaces Act. When possible, the request shall include the expected duration
+of the absence.
+(3) An employer that requires notice of the need to use paid sick time in
+accordance with this section shall provide a written policy that contains
+reasonable procedures for employees to provide notice. An employer that has not
+provided to the employee a copy of such written policy shall not deny paid sick
+time to the employee based on noncompliance with such a policy.
+(4) An employer shall not require, as a condition of an employee's taking
+paid sick time under this section, that the employee search for or find a
+replacement worker to cover the hours during which the employee is using paid
+sick time.
+(5) Paid sick time under this section may be used in the smaller of hourly
+increments or the smallest increment that the employer's payroll system uses to
+account for absences or use of other time.
+(6) For use of paid sick time for more than three consecutive work days,
+an employer may require reasonable documentation that the paid sick time has
+been used for a purpose covered by subsection (1) of this section. Reasonable
+documentation shall include (a) documentation signed by a health care
+professional indicating that paid sick time is or was necessary or (b) if the
+employee or a family member did not receive services from a health care
+professional, or if documentation cannot be obtained from a health care
+professional in reasonable time or without added expense, a written statement
+from the employee indicating that the employee is taking or took paid sick time
+for a qualifying purpose covered by subsection (1) of this section.
+(7) An employer signatory to a multi-employer collective-bargaining
+agreement may fulfill its obligations under the Nebraska Healthy Families and
+Workplaces Act by making contributions to a multi-employer paid sick time fund,
+plan, or program based on the hours each employee accrues pursuant to the act
+while working under the multi-employer collective-bargaining agreement, if the
+fund, plan, or program enables employees to collect paid sick time from the
+fund, plan, or program based on hours they have worked under the multi-employer
+collective-bargaining agreement and for the purposes specified under the act.
+Employees who work under a multi-employer collective-bargaining agreement into
+which their employers make contributions as provided in this subsection may
+collect from the paid sick time fund, plan, or program based on hours they have
+worked under the multi-employer collective-bargaining agreement and for the
+purposes specified under the act.
+Sec. 4. Section 8, Initiative Law 2024, No. 436, is amended to read:
+Sec. 8. (1) The Commissioner of Labor shall issue a citation to an
+employer when an investigation reveals that the employer may have violated the
+Nebraska Healthy Families and Workplaces Act.
+(2) When a citation is issued, the commissioner shall notify the employer
+of the proposed administrative penalty, if any, by certified mail, by any other
+manner of delivery by which the United States Postal Service can verify
+delivery, or by any method of service recognized under Chapter 25, article 5.
+The administrative penalty shall not be more than five hundred dollars in the
+case of a first violation and not more than five thousand dollars in the case
+of a second or subsequent violation.
+(3) The employer has fifteen working days after the date of the citation
+or penalty to contest such citation or penalty. Notice of contest shall be sent
+to the commissioner who shall provide a hearing in accordance with the
+Administrative Procedure Act.
+(4) Any employer who has an unpaid citation for a violation of the
+Nebraska Healthy Families and Workplaces Act shall be barred from contracting
+with the state or any political subdivision until such citation is paid. If a
+citation has been contested as described in subsection (3) of this section, it
+shall not be considered an unpaid citation under this subsection until after
+such contest has been resolved.
+(5) Citations issued under this section and the names of employers who
+have been issued a citation shall be made available to the public upon request,
+except that this subsection shall not apply to any citations that are being
+contested as described in subsection (3) of this section.
+(6) An employee having a claim for a violation of the Nebraska Healthy
+Families and Workplaces Act may institute suit for legal and equitable relief
+in the proper court. In any action brought to enforce the Nebraska Healthy
+Families and Workplaces Act, the court shall have jurisdiction to grant such
+-3-
+
+LB415 LB415
+2025 2025
+legal or equitable relief as the court deems appropriate to effectuate the
+purposes of the act. If an employee establishes a claim and secures judgment on
+the claim, such employee shall also be entitled to recover the full amount of
+the judgment and all costs of such suit, including reasonable attorney's fees.
+(7) If an employee institutes suit against an employer under subsection
+(6) of this section, any citation that is issued against an employer under
+subsection (1) of this section and that relates directly to the facts in
+dispute shall be admitted into evidence unless specifically excluded by the
+court. If a citation has been contested as described in subsection (3) of this
+section, it shall not be admitted into evidence under this subsection until
+such contest has been resolved.
+(8) A civil action brought under this section shall be commenced no later
+than four calendar years after the cause of action accrues.
+Sec. 5. Section 9-1104, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1104 (1) The operation of games of chance at a licensed racetrack
+enclosure may be conducted by an authorized gaming operator who holds an
+authorized gaming operator license.
+(2) No more than one authorized gaming operator license shall be granted
+for each licensed racetrack enclosure within the state. It shall not be a
+requirement that the person or entity applying for or to be granted such
+authorized gaming operator license hold a racing license or be the same person
+or entity who operates the licensed racetrack enclosure at which such
+authorized gaming operator license shall be granted.
+(3) Gaming devices, limited gaming devices, and all other games of chance
+may be operated by authorized gaming operators at a licensed racetrack
+enclosure.
+(4) No person younger than twenty-one years of age shall play or
+participate in any way in any game of chance or use any gaming device or
+limited gaming device at a licensed racetrack enclosure.
+(5) No authorized gaming operator shall permit an individual younger than
+twenty-one years of age to play or participate in any game of chance or use any
+gaming device or limited gaming device conducted or operated pursuant to the
+Nebraska Racetrack Gaming Act.
+(6) If the licensed racetrack enclosure at which such authorized gaming
+operator conducts games of chance does not hold the minimum number of live
+racing meets required under section 2-1205, the authorized gaming operator
+shall be required to cease operating games of chance at such licensed racetrack
+enclosure until such time as the commission determines the deficiency has been
+corrected.
+(7) Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+winnings payment of any casino winnings as defined in section 9-1303, an
+authorized gaming operator shall check the collection system to determine if
+the winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such authorized gaming
+operator determines that the winner is subject to the collection system, the
+operator shall deduct the amount of debt and outstanding state tax liability
+identified in the collection system from the winnings payment and shall remit
+the net winnings payment of casino winnings, if any, to the winner and the
+amount deducted to the Department of Revenue to be credited against such debt
+or outstanding state tax liability as provided in section 9-1306.
+Sec. 6. Section 9-1110, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1110 (1) The commission may permit an authorized gaming operator to
+conduct sports wagering. Any sports wager shall be placed in person or at a
+wagering kiosk in the designated sports wagering area at the licensed racetrack
+enclosure. A parimutuel wager in accordance with sections 2-1201 to 2-1218 may
+be placed in the designated sports wagering area at the licensed racetrack
+enclosure. An individual employed and authorized to accept a sports wager may
+also accept a parimutuel wager.
+(2) A floor plan identifying the designated sports wagering area,
+including the location of any wagering kiosks, shall be filed with the
+commission for review and approval. Modification to a previously approved plan
+must be submitted for approval at least ten days prior to implementation. The
+area shall not be accessible to persons under twenty-one years of age and shall
+have a sign posted to restrict access. Exceptions to this subsection must be
+approved in writing by the commission.
+(3) The authorized gaming operator shall submit controls for approval by
+the commission, that include the following for operating the designated sports
+wagering area:
+(a) Specific procedures and technology partners to fulfill the
+requirements set forth by the commission;
+(b) Other specific controls as designated by the commission;
+(c) A process to easily and prominently impose limitations or notification
+for wagering parameters, including, but not limited to, deposits and wagers;
+and
+(d) An easy and obvious method for a player to make a complaint and to
+enable the player to notify the commission if such complaint has not been or
+cannot be addressed by the sports wagering operator.
+(4) The commission shall develop policies and procedures to ensure a
+prohibited participant is unable to place a sports wager or parimutuel wager.
+(5) Beginning on the implementation date designated by the Tax
+-4-
+
+LB415 LB415
+2025 2025
+Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+winnings payment of any sports wagering winnings as defined in section 9-1303,
+an authorized gaming operator shall check the collection system to determine if
+the winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such authorized gaming
+operator determines that the winner is subject to the collection system, the
+operator shall deduct the amount of debt and outstanding state tax liability
+identified in the collection system from the winnings payment and shall remit
+the net winnings payment of sports wagering winnings, if any, to the winner and
+the amount deducted to the Department of Revenue to be credited against such
+debt or outstanding state tax liability as provided in section 9-1306.
+Sec. 7. Section 9-1302, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1302 The purposes of the Gambling Winnings Setoff for Outstanding Debt
+Act are to:
+(1) Establish and maintain a procedure to set off against an obligor's
+casino winnings, parimutuel winnings, sports wagering winnings, or cash device
+winnings any debt (a) that is assigned to the Department of Health and Human
+Services or that any individual not eligible as a public assistance recipient
+is attempting to collect through the Title IV-D child support enforcement
+program, (b) that has accrued through written contract, subrogation, or court
+judgment, and (c) that is in the form of a liquidated amount due and owing for
+the care, support, or maintenance of a child or for medical or spousal support;
+and
+(2) Establish and maintain a procedure to set off against an obligor's a
+taxpayer's casino winnings, parimutuel winnings, sports wagering winnings, or
+cash device winnings the amount of such obligor's taxpayer's outstanding state
+tax liability as determined by the Department of Revenue.
+Sec. 8. Section 9-1303, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1303 For purposes of the Gambling Winnings Setoff for Outstanding Debt
+Act, unless the context otherwise requires:
+(1) Applicable winnings means any casino winnings, parimutuel winnings,
+sports wagering winnings, or cash device winnings;
+(2) Cash device winnings means any cash prize won by a player of a cash
+device as defined in section 77-3001 that requires the operator, distributor,
+or manufacturer of such cash device to provide the player with an Internal
+Revenue Service Form 1099;
+(3) Casino winnings means any winnings that are required to be reported on
+Internal Revenue Service Form W-2G won by a player from a game of chance at a
+licensed racetrack enclosure under the jurisdiction of the State Racing and
+Gaming Commission;
+(4) Claimant means:
+(a) The Department of Health and Human Services with respect to collection
+of a debt owed by a parent in a case involving a recipient of aid to dependent
+children in which rights to child, spousal, or medical support payments have
+been assigned to this state;
+(b) An individual who is not eligible as a public assistance recipient and
+to whom a debt is owed that the individual is attempting to collect through the
+Title IV-D child support enforcement program; or
+(c) Any person or entity entitled to receive child support, spousal
+support, or medical support as defined in section 43-1712.01 pursuant to an
+order issued by a court or agency of another state or jurisdiction, including
+an agency of another state or jurisdiction to which a person has assigned his
+or her right to receive such support. Such a claimant shall submit
+certification and documentation to the Department of Health and Human Services
+sufficient to satisfy the requirements of section 43-1730;
+(5) Collection system means the collection system developed and
+implemented pursuant to section 9-1304;
+(6) Debt means any liquidated amount of arrears that has accrued through
+assignment, contract, subrogation, court judgment, or operation of law,
+regardless of whether there is an outstanding judgment for such amount, and
+that is for the care, support, or maintenance of a child or for medical or
+spousal support;
+(7) Net winnings payment means the winnings payment amount minus the debt
+and outstanding state tax liability balance;
+(8) Obligor means any person as defined in section 77-2701.25: individual
+(a) Owing (a) owing money to or having a delinquent account with any
+claimant that has not been satisfied by court order, set aside by court order,
+or discharged in bankruptcy; or
+(b) Owing (b) owing money on an outstanding state tax liability;
+(9) Operator means an authorized gaming operator as defined in section
+9-1103, any corporation or association licensed under sections 2-1201 to 2-1218
+and authorized to conduct parimutuel wagering at a licensed racetrack, and any
+operator, distributor, or manufacturer of a cash device licensed under the
+Mechanical Amusement Device Tax Act;
+(10) Outstanding state tax liability means any liability arising from any
+tax, or fee, or overpayment, including penalties and interest, under any tax or
+other program administered by the Tax Commissioner, Department of Labor, or
+Department of Motor Vehicles;
+(11) Overpayment means an overpayment of unemployment insurance benefits
+established under section 48-663.01;
+(12) (11) Parimutuel winnings means any winnings that are required to be
+-5-
+
+LB415 LB415
+2025 2025
+reported on Internal Revenue Service Form W-2G and have tax withheld by the
+operator and that are won by a player from a parimutuel wager at a licensed
+racetrack under the jurisdiction of the State Racing and Gaming Commission;
+(13) (12) Sports wagering winnings means any winnings that are required to
+be reported on Internal Revenue Service Form W-2G and have tax withheld by the
+operator and that are won by a player from sports wagering as defined in
+section 9-1103 on a sports wager authorized by the State Racing and Gaming
+Commission;
+(14) (13) Spousal support has the same meaning as in section 43-1715; and
+(15) (14) Winnings payment means a payout of casino winnings, parimutuel
+winnings, sports wagering winnings, or cash device winnings to which a person
+an individual is entitled as a result of playing or wagering.
+Sec. 9. Section 9-1304, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1304 (1)(a) The Department of Revenue, in consultation with the
+Department of Health and Human Services, the Department of Motor Vehicles, and
+the Department of Labor, shall develop and implement a secure, electronic
+collection system to carry out the purposes of the Gambling Winnings Setoff for
+Outstanding Debt Act.
+(b) The collection system shall include access to the name of an obligor,
+the social security number of an obligor, and any other information that
+assists the operator in identifying an obligor. The collection system shall
+inform the operator of the total amount owed without detailing the source of
+any of the amounts owed.
+(2) The Department of Health and Human Services may submit any certified
+debt of twenty-five dollars or more to the collection system except when the
+validity of the debt is legitimately in dispute. The submission of debts of
+past-due support shall be a continuous process that allows the amount of debt
+to fluctuate up or down depending on the actual amount owed.
+(3) The Department of Revenue, the Department of Motor Vehicles, and the
+Department of Labor may submit to the collection system any amount of
+outstanding state tax liability owed by an obligor to the department a taxpayer
+except when the validity of the outstanding state tax liability is legitimately
+in dispute. The inclusion of outstanding state tax liability in the amount owed
+shall be a continuous process that allows the amount owed to fluctuate up or
+down depending on the actual amount of outstanding state tax liability owed.
+(4) If the name of the obligor is retrieved from the collection system by
+the operator, the retrieval of such name shall be evidence of a valid lien upon
+and claim of lien against any applicable winnings of the obligor whose name is
+electronically retrieved from the collection system. If an obligor's applicable
+winnings are required to be set off pursuant to the Gambling Winnings Setoff
+for Outstanding Debt Act, the full amount of the debt and outstanding state tax
+liability shall be collected from any applicable winnings due the obligor.
+(5) The information obtained by an operator or the State Racing and Gaming
+Commission from the collection system in accordance with this section shall
+retain its confidentiality and shall only be used by the operator or the
+commission for the purposes of complying with the Gambling Winnings Setoff for
+Outstanding Debt Act. An employee or prior employee of an operator or the
+commission who unlawfully discloses any such information for any other purpose,
+except as otherwise specifically authorized by law, shall be subject to the
+same penalties specified by law for unauthorized disclosure of confidential
+information by an agent or employee of the agency to which the debt or
+outstanding state liability is owed operator.
+(6) The information obtained by the Department of Health and Human
+Services, the Department of Motor Vehicles, the Department of Labor, or the
+Department of Revenue from the operator in accordance with this section shall
+retain its confidentiality and shall only be used by the either department in
+the pursuit of such department's debt or outstanding state tax liability
+assessment and collection duties and practices. An employee or prior employee
+of the Department of Health and Human Services, the Department of Motor
+Vehicles, the Department of Labor, or the Department of Revenue who unlawfully
+discloses any such information for any other purpose, except as specifically
+authorized by law, shall be subject to the penalties specified by law for
+unauthorized disclosure of confidential information by an agent or employee of
+either such department.
+(7) The amount of debt and outstanding state tax liability owed shall be
+prima facie evidence of the validity of the liability.
+Sec. 10. Section 9-1305, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1305 (1) Beginning on the applicable implementation date designated by
+the Tax Commissioner pursuant to subsection (1) or (2) of section 9-1312, prior
+to making a winnings payment, an operator shall check the collection system to
+determine if there is a debt or an outstanding state tax liability owed by the
+winner. An operator shall have access to the collection system to look up
+winners that are due winnings payments for purposes of complying with the
+Gambling Winnings Setoff for Outstanding Debt Act. An operator shall not access
+the system for any other purpose.
+(2)(a) An operator at a licensed racetrack enclosure or licensed racetrack
+that fails to check the collection system for a debt or an outstanding state
+tax liability or fails to collect the amounts owed shall be subject to a fine
+by the State Racing and Gaming Commission of not more than ten thousand
+dollars.
+(b) The State Racing and Gaming Commission shall establish a schedule for
+-6-
+
+LB415 LB415
+2025 2025
+fines pursuant to this section that considers both the proportionality of the
+offense and the number of instances of past offenses.
+(3) An operator licensed by the Department of Revenue that fails to check
+the collection system for a debt or an outstanding state tax liability or
+collect the amounts owed may be considered in violation of such license and
+subject to any penalties authorized for a violation of the license under the
+Mechanical Amusement Device Tax Act.
+Sec. 11. Section 9-1306, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1306 (1) Beginning on the applicable implementation date designated by
+the Tax Commissioner pursuant to subsection (1) or (2) of section 9-1312, prior
+to making a winnings payment and after the operator has checked the collection
+system as provided in section 9-1305, the operator shall deduct the amount of
+debt and outstanding state tax liability identified in the collection system
+from the winnings payment and shall remit the net winnings payment, if any, to
+the obligor winner and the amount deducted to the Department of Revenue in a
+manner prescribed by the department.
+(2) If an operator determines that an obligor identified using the
+collection system is entitled to a winnings payment, the operator shall notify
+the Department of Revenue in a manner prescribed by the department that a
+balance of debt or outstanding state tax liability owed by the obligor winner
+is being remitted to the department.
+(3) The Department of Revenue shall first credit any such winnings payment
+against any debt of such obligor winner certified by the Department of Health
+and Human Services until such debt is satisfied and then against any
+outstanding state tax liability owed by such obligor winner until such
+liability is satisfied on a pro rata basis.
+Sec. 12. Section 9-1307, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1307 (1) Within twenty days after a remittance pursuant to section
+9-1306 due to an outstanding state tax liability, the Department of Revenue
+shall notify the obligor winner of the remittance. The notice shall state (a)
+the basis for the claim to the outstanding state tax liability by the
+Department of Revenue, (b) the application of the winnings payment against the
+outstanding state tax liability of the obligor, (c) the obligor's opportunity
+to give written notice of intent to contest the validity of the claim before
+the applicable department to which the outstanding state liability is owed
+Department of Revenue within thirty days after the date of the mailing of the
+notice, (d) the mailing address to which the request must be sent, and (e) that
+a failure to contest the claim in writing within the thirty-day period will be
+deemed a waiver of the opportunity to contest the claim resulting in a setoff
+by default.
+(2)(a) Within twenty days after notification from the Department of
+Revenue of a remittance pursuant to section 9-1306 due to owing a debt
+certified by the Department of Health and Human Services, the Department of
+Health and Human Services shall send written notification to the obligor of an
+assertion of its rights, or of the rights of an individual not eligible as a
+public assistance recipient, to all or a portion of the obligor's winnings
+payment.
+(b) The written notification shall clearly set forth (i) the basis for the
+claim to the winnings payment, (ii) the intention to apply the winnings payment
+against the debt owed to a claimant, (iii) the obligor's opportunity to give
+written notice of intent to contest the validity of the claim before the
+Department of Health and Human Services within thirty days after the date of
+the mailing of the notice, (iv) the mailing address to which the request for a
+hearing must be sent, and (v) that failure to apply for a hearing in writing
+within the thirty-day period will be deemed a waiver of the opportunity to
+contest the claim resulting in a setoff by default.
+Sec. 13. Section 9-1308, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1308 (1)(a) A written request by an obligor a winner pursuant to
+subsection (1) of section 9-1307 shall be effective upon mailing the request,
+postage prepaid and properly addressed, to the applicable department to which
+the outstanding state liability is owed Department of Revenue.
+(b) Any appeal or action taken as a result of a decision pursuant to
+subdivision (1)(a) of this section shall be in accordance with the
+Administrative Procedure Act.
+(2)(a) A written request for a hearing by an obligor a winner pursuant to
+subsection (2) of section 9-1307 shall be effective upon mailing the request,
+postage prepaid and properly addressed, to the Department of Health and Human
+Services.
+(b) If the Department of Health and Human Services receives a written
+request for a hearing contesting a claim, the department shall grant a hearing
+to the obligor to determine whether the claim is valid. If the amount asserted
+as due and owing is not correct, an adjustment to the claimed amount shall be
+made. No issues shall be reconsidered at the hearing which have been previously
+litigated.
+(c) Any appeal of an action taken at or as a result of a hearing held
+pursuant to subdivision (2)(b) of this section shall be in accordance with the
+Administrative Procedure Act.
+Sec. 14. Section 9-1313, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+9-1313 The Department of Health and Human Services, the Department of
+-7-
+
+LB415 LB415
+2025 2025
+Labor, the Department of Revenue, and the State Racing and Gaming Commission
+may adopt and promulgate rules and regulations to carry out the Gambling
+Winnings Setoff for Outstanding Debt Act.
+Sec. 15. Section 48-665, Reissue Revised Statutes of Nebraska, is amended
+to read:
+48-665 (1) Any person who has received any sum as benefits under the
+Employment Security Law to which he or she was not entitled shall be liable to
+repay such sum to the commissioner for the fund. Any such erroneous benefit
+payments shall be collectible (a) without interest by civil action in the name
+of the commissioner, (b) by offset against any future benefits payable to the
+claimant with respect to the benefit year current at the time of such receipt
+or any benefit year which may commence within three years after the end of such
+current benefit year, except that no such recoupment by the withholding of
+future benefits shall be had if such sum was received by such person without
+fault on his or her part and such recoupment would defeat the purpose of the
+Employment Security Law or would be against equity and good conscience, (c) by
+setoff against any state income tax refund due the claimant pursuant to
+sections 77-27,197 to 77-27,209, (d) by offset against any winnings payment
+pursuant to the Gambling Winnings Setoff for Outstanding Debt Act, or (e) (d)
+as provided in subsection (2) of this section.
+(2) The commissioner may recover a covered unemployment compensation debt,
+as defined in 26 U.S.C. 6402, by setoff against a liable party's federal income
+tax refund. Such setoff shall be made in accordance with such section and
+United States Treasury regulations and guidelines adopted pursuant thereto. The
+commissioner shall notify the debtor that the commissioner plans to recover the
+debt through setoff against any federal income tax refund, and the debtor shall
+be given sixty days to present evidence that all or part of the liability is
+either not legally enforceable or is not a covered unemployment compensation
+debt. The commissioner shall review any evidence presented and determine that
+the debt is legally enforceable and is a covered unemployment compensation debt
+before proceeding further with the offset. The amount recovered, less any
+administrative fees charged by the United States Treasury, shall be credited to
+the debt owed. Any determination rendered under this subsection that the liable
+party's federal income tax refund is not subject to setoff does not require the
+commissioner to amend the commissioner's initial determination that formed the
+basis for the proposed setoff.
+Sec. 16. Section 77-3002, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3002 (1) Any operator shall be required to procure an annual license
+from the Tax Commissioner permitting him or her to operate mechanical amusement
+devices within the State of Nebraska. The Tax Commissioner, upon the
+application of any person, may issue a license, except that if the applicant
+(a) is not of good character and reputation in the community in which he or she
+resides, (b) has been convicted of or has pleaded guilty to a felony under the
+laws of the State of Nebraska, of any other state, or of the United States, or
+(c) has been convicted of or has pleaded guilty to being the proprietor of a
+gambling house, or of any other crime or misdemeanor opposed to decency and
+morality, no license shall be issued. If the applicant is a corporation whose
+majority stockholders could not obtain a license, then such corporation shall
+not be issued a license. If the applicant is an individual, the application
+shall include the applicant's social security number. Procuring a license shall
+constitute sufficient contact with this state for the exercise of personal
+jurisdiction over such person in any action arising out of the operation of
+mechanical amusement devices in this state.
+(2)(a) Except for an applicant that holds a liquor license under the
+Nebraska Liquor Control Act, an applicant for a license as an operator of a
+cash device shall be subject to a one-time background check by the department
+prior to the issuance of a license. An applicant shall pay the costs associated
+with the background check along with any required fees as determined by the
+department.
+(b) The Tax Commissioner has the authority to deny any application for a
+license as an operator of a cash device for cause. Cause for denial of a
+license application includes instances in which the applicant individually, or
+in the case of a business entity, any officer, director, employee, or limited
+liability company member of the applicant or licensee other than an employee
+whose duties are purely ministerial in nature:
+(i) Violated the provisions, requirements, conditions, limitations, or
+duties imposed by the Mechanical Amusement Device Tax Act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(ii) Knowingly caused, aided, abetted, or conspired with another to cause
+any person to violate any of the provisions of the act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(iii) Obtained a license or permit under the act by fraud,
+misrepresentation, or concealment;
+(iv) Has been convicted of, forfeited bond upon a charge of, or pleaded
+guilty or nolo contendere to any offense or crime, whether a felony or a
+misdemeanor, involving any gambling activity or fraud, theft, willful failure
+to make required payments or reports, or filing false reports with a
+governmental agency at any level;
+(v) Denied the department or its authorized representatives, including
+authorized law enforcement agencies, access to any place where activity
+required to be licensed under the act is being conducted or failed to produce
+for inspection or audit any book, record, document, or item required by law,
+-8-
+
+LB415 LB415
+2025 2025
+rule, or regulation;
+(vi) Made a misrepresentation of or failed to disclose a material fact to
+the department;
+(vii) Failed to prove by clear and convincing evidence such applicant's
+qualifications to be licensed in accordance with the act;
+(viii) Failed to pay any taxes and additions to taxes, including penalties
+and interest required by the act or any other taxes imposed pursuant to the
+Nebraska Revenue Act of 1967; or
+(ix) Has been cited for a violation of the Nebraska Liquor Control Act and
+had a liquor license suspended, canceled, or revoked by the Nebraska Liquor
+Control Commission for illegal gambling activities on or about the premises
+licensed by the commission pursuant to the Nebraska Liquor Control Act or the
+rules and regulations adopted and promulgated pursuant to such act.
+(c) No renewal of a license issued pursuant to this section shall be
+issued when the applicant for renewal would not be eligible for a license upon
+a first application.
+(3) The Tax Commissioner has the authority to suspend or revoke the
+license of any operator that is in violation of the Mechanical Amusement Device
+Tax Act.
+(4) Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (2) of section 9-1312, prior to the
+winnings payment of any cash device winnings as defined in section 9-1303, an
+operator of a cash device shall check the collection system to determine if the
+winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such operator determines
+that the winner is subject to the collection system, the operator shall deduct
+the amount of debt and outstanding state tax liability identified in the
+collection system from the winnings payment and shall remit the net winnings
+payment of cash device winnings, if any, to the winner and the amount deducted
+to the Department of Revenue to be credited against such debt or outstanding
+state tax liability as provided in section 9-1306.
+Sec. 17. Section 77-3003, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3003 (1) Any distributor shall be required to procure an annual license
+from the Tax Commissioner permitting him or her to place and either directly or
+indirectly control or manage a mechanical amusement device within the State of
+Nebraska. The Tax Commissioner, upon the application of any person, may issue a
+license, subject to the same limitations as an operator's license under section
+77-3002. If the applicant is an individual, the application shall include the
+applicant's social security number.
+(2)(a) Except for an applicant that holds a liquor license under the
+Nebraska Liquor Control Act, an applicant for a license as a distributor of a
+cash device shall be subject to a one-time background check by the department
+prior to issuance of the license. An applicant shall pay the costs associated
+with the background check along with any required fees as determined by the
+department.
+(b) The Tax Commissioner has the authority to deny any application for a
+license as a distributor of a cash device for cause. Cause for denial of a
+license application includes instances in which the applicant individually, or
+in the case of a business entity, any officer, director, employee, or limited
+liability company member of the applicant or licensee other than an employee
+whose duties are purely ministerial in nature:
+(i) Violated the provisions, requirements, conditions, limitations, or
+duties imposed by the Mechanical Amusement Device Tax Act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(ii) Knowingly caused, aided, abetted, or conspired with another to cause
+any person to violate any of the provisions of the act or any rules or
+regulations adopted and promulgated pursuant to the act;
+(iii) Obtained a license or permit under the act by fraud,
+misrepresentation, or concealment;
+(iv) Has been convicted of, forfeited bond upon a charge of, or pleaded
+guilty or nolo contendere to any offense or crime, whether a felony or a
+misdemeanor, involving any gambling activity or fraud, theft, willful failure
+to make required payments or reports, or filing false reports with a
+governmental agency at any level;
+(v) Denied the department or its authorized representatives, including
+authorized law enforcement agencies, access to any place where activity
+required to be licensed under the act is being conducted or failed to produce
+for inspection or audit any book, record, document, or item required by law,
+rule, or regulation;
+(vi) Made a misrepresentation of or failed to disclose a material fact to
+the department;
+(vii) Failed to prove by clear and convincing evidence such applicant's
+qualifications to be licensed in accordance with the act;
+(viii) Failed to pay any taxes and additions to taxes, including penalties
+and interest required by the act or any other taxes imposed pursuant to the
+Nebraska Revenue Act of 1967; or
+(ix) Has been cited for a violation of the Nebraska Liquor Control Act and
+had a liquor license suspended, canceled, or revoked by the Nebraska Liquor
+Control Commission for illegal gambling activities on or about the premises
+licensed by the commission pursuant to the Nebraska Liquor Control Act or the
+rules and regulations adopted and promulgated pursuant to such act.
+(c) No renewal of a license issued pursuant to this section shall be
+-9-
+
+LB415 LB415
+2025 2025
+issued when the applicant for renewal would not be eligible for a license upon
+a first application.
+(3) Beginning January 1, 2025, the annual license for a distributor of a
+cash device shall be accompanied by a fee of one hundred dollars per cash
+device up to a maximum of five thousand dollars.
+(4) The Tax Commissioner has the authority to suspend or revoke the
+license of any distributor that is in violation of the Mechanical Amusement
+Device Tax Act.
+(5) Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (2) of section 9-1312, prior to the
+winnings payment of any cash device winnings as defined in section 9-1303, a
+distributor of a cash device shall check the collection system to determine if
+the winner has a debt or an outstanding state tax liability as required by the
+Gambling Winnings Setoff for Outstanding Debt Act. If such distributor
+determines that the winner is subject to the collection system, the distributor
+shall deduct the amount of debt and outstanding state tax liability identified
+in the collection system from the winnings payment and shall remit the net
+winnings payment of cash device winnings, if any, to the winner and the amount
+deducted to the Department of Revenue to be credited against such debt or
+outstanding state tax liability as provided in section 9-1306.
+Sec. 18. Section 77-3014, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3014 Beginning on the implementation date designated by the Tax
+Commissioner pursuant to subsection (2) of section 9-1312, prior to the
+winnings payment of any cash device winnings as defined in section 9-1303, a
+manufacturer of a cash device that makes winnings payments shall check the
+collection system to determine if the winner has a debt or an outstanding state
+tax liability as required by the Gambling Winnings Setoff for Outstanding Debt
+Act. If such manufacturer determines that the winner is subject to the
+collection system, the manufacturer shall deduct the amount of debt and
+outstanding state tax liability identified in the collection system from the
+winnings payment and shall remit the net winnings payment of cash device
+winnings, if any, to the winner and the amount deducted to the Department of
+Revenue to be credited against such debt or outstanding state tax liability as
+provided in section 9-1306.
+Sec. 19. Section 81-5,213, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,213 The committee:
+(1) May consult with engineering authorities and organizations concerned
+with standard safety codes;
+(2) Shall recommend to the State Fire Marshal rules and regulations
+governing the operation, maintenance, servicing, construction, alteration,
+installation, and inspection of conveyances;
+(3) Shall recommend to the State Fire Marshal qualifications for licensure
+as an elevator mechanic or elevator contractor and conditions for disciplinary
+actions, including suspension or revocation of a license;
+(4) Shall recommend to the State Fire Marshal rules and regulations for
+temporary and emergency elevator mechanic thirty-day licenses;
+(5) Shall recommend to the State Fire Marshal an enforcement program which
+will ensure compliance with the Conveyance Safety Act and the rules and
+regulations adopted and promulgated pursuant to the act. The enforcement
+program shall include the identification of property locations which are
+subject to the act, issuing notifications to violating property owners or
+operators, random onsite inspections and tests on existing installations, and
+assisting in development of public awareness programs; and
+(6) Shall make recommendations to the State Fire Marshal regarding
+equivalencies and variances under section 81-5,217, continuing education
+providers under section 81-5,235, and license disciplinary actions under
+section 81-5,237.
+Sec. 20. Section 81-5,215, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,215 (1) The Conveyance Safety Act applies to the construction,
+operation, inspection, testing, maintenance, alteration, and repair of
+conveyances. Conveyances include the following equipment, associated parts, and
+hoistways which are not exempted under section 81-5,216:
+(a) Hoisting and lowering mechanisms equipped with a car which moves
+between two or more landings. This equipment includes elevators;
+(b) Power driven stairways and walkways for carrying persons between
+landings. This equipment includes:
+(i) Escalators; and
+(ii) Moving sidewalks; and
+(c) Hoisting and lowering mechanisms equipped with a car, which serves two
+or more landings and is restricted to the carrying of material by its limited
+size or limited access to the car. This equipment includes:
+(i) Dumbwaiters;
+(ii) Material lifts and dumbwaiters with automatic transfer devices; and
+(iii) Conveyors and related equipment within the scope of American Society
+of Mechanical Engineers B20.1, 2012 Edition.
+(2) The act applies to the construction, operation, inspection,
+maintenance, alteration, and repair of automatic guided transit vehicles on
+guideways with an exclusive right-of-way. This equipment includes automated
+people movers.
+(3) The act applies to conveyances in private residences located in
+-10-
+
+LB415 LB415
+2025 2025
+counties that have a population of more than one hundred thousand inhabitants
+at the time of installation. Such conveyances are subject to inspection at
+installation but are not subject to periodic inspections.
+Sec. 21. Section 81-5,216, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,216 The Conveyance Safety Act does not apply to:
+(1) Conveyances under the jurisdiction and subject to inspection by the
+United States Government;
+(2) Conveyances used exclusively for agricultural purposes;
+(3) Personnel hoists within the scope of American National Standards
+Institute A10.4, 2016 Edition;
+(4) Material hoists within the scope of American National Standards
+Institute A10.5, 2013 Edition;
+(5) Manlifts within the scope of American Society of Mechanical Engineers
+A90.1, 2015 Edition;
+(6) Mobile scaffolds, towers, and platforms within the scope of American
+National Standards Institute A92.10, 2009 Edition A92;
+(7) Powered platforms and equipment for exterior and interior maintenance
+within the scope of American National Standards Institute 120.1;
+(8) Cranes, derricks, hoists, hooks, jacks, and slings within the scope of
+American Society of Mechanical Engineers B30.10, 2014 Edition B30;
+(9) Industrial trucks within the scope of American Society of Mechanical
+Engineers B56;
+(9) (10) Portable equipment, except for portable escalators which are
+covered by American National Standards Institute A17.1, 2013 Edition;
+(10) (11) Tiering or piling machines used to move materials to and from
+storage located and operating entirely within one story;
+(11) (12) Equipment for feeding or positioning materials at machine tools,
+printing presses, and similar equipment;
+(12) (13) Skip or furnace hoists;
+(13) (14) Wharf ramps;
+(14) (15) Railroad car lifts or dumpers;
+(15) (16) Line jacks, false cars, shafters, moving platforms, and similar
+equipment used for installing a conveyance by an elevator contractor;
+(16) (17) Manlifts, hoists, or conveyances used in grain elevators or feed
+mills;
+(17) (18) Dock levelators;
+(18) (19) Stairway chair lifts and platform lifts; and
+(19) (20) Conveyances in residences located in counties that have a
+population of one hundred thousand or less inhabitants.
+Sec. 22. Section 81-5,217, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,217 (1) The State Fire Marshal shall adopt and promulgate rules and
+regulations which establish the regulations for conveyances under the
+Conveyance Safety Act. The rules and regulations may include the Safety Code
+for Elevators and Escalators, American Society of Mechanical Engineers A17.1
+except those parts exempted under section 81-5,216; the standards for conveyors
+and related equipment, American Society of Mechanical Engineers B20.1; and the
+Automated People Mover Standards, American Society of Civil Engineers 21. The
+State Fire Marshal shall annually review to determine if the most current form
+of such standards should be adopted.
+(2) The State Fire Marshal may grant an equivalency or variance request to
+a variance from the rules and regulations adopted in subsection (1) of this
+section in individual situations upon good cause shown if the safety of those
+riding or using the conveyance is not compromised by the equivalency or
+variance. The State Fire Marshal shall adopt and promulgate rules and
+regulations for the procedure to obtain a variance. The committee shall make
+recommendations to the State Fire Marshal regarding each variance requested.
+The decision of the State Fire Marshal in granting or refusing to grant an
+equivalency or variance request a variance may be appealed. The appeal shall be
+in accordance with the Administrative Procedure Act.
+Sec. 23. Section 81-5,218, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,218 Conveyances upon which construction is started subsequent to
+January 1, 2008, shall be registered at the time they are completed and placed
+in service.
+Sec. 24. Section 81-5,219, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,219 On and after January 1, 2008: Prior to any newly installed
+conveyance being used for the first time, the property owner or lessee shall
+obtain a certificate of inspection from the State Fire Marshal. A fee
+established under section 81-5,214 shall be paid for the certificate of
+inspection. A licensed elevator contractor shall complete and submit first-time
+registrations for new installations to the state elevator inspector for the
+inspector's approval. A certificate of inspection shall be clearly displayed in
+an elevator car and on or in each other conveyance.
+Sec. 25. Section 81-5,221, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,221 (1) The State Fire Marshal shall employ a state elevator
+inspector who shall work under the direct supervision of the State Fire Marshal
+or the State Fire Marshal's designee.
+(2) The person so employed shall be qualified by (a) not less than five
+years' experience in the installation, maintenance, and repair of elevators as
+-11-
+
+LB415 LB415
+2025 2025
+determined by the State Fire Marshal, (b) certification as a qualified elevator
+inspector by an association accredited by the American Society of Mechanical
+Engineers, or (c) not less than five years' journeyman experience in elevator
+installation, maintenance, and inspection as determined by the State Fire
+Marshal and shall be familiar with the inspection process and rules and
+regulations adopted and promulgated under the Conveyance Safety Act.
+(3) The State Fire Marshal may employ deputy inspectors possessing the
+same qualifications as the state elevator inspector as necessary to carry out
+the Conveyance Safety Act.
+Sec. 26. Section 81-5,223, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,223 (1) No inspection shall be required under the Conveyance Safety
+Act when an owner or user of a conveyance: obtains an inspection by a
+representative of a reputable insurance company licensed to do business in
+Nebraska, obtains a policy of insurance from such company upon the conveyance
+and files with the State Fire Marshal a certificate of inspection by such
+insurance company, files a statement that such conveyance is insured, and pays
+an administrative fee established pursuant to section 81-5,214.
+(a) Obtains and submits to the State Fire Marshal a certificate of
+inspection from a third-party inspection company;
+(b) Obtains a policy of insurance upon the conveyance from a licensed
+insurance company;
+(c) Files a statement that such conveyance is insured; and
+(d) Pays an administrative fee established pursuant to section 81-5,214.
+(2) No inspection shall be required under the act when there has been an
+annual inspection under a city ordinance which meets the standards of the act.
+Sec. 27. Section 81-5,230, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,230 (1) Any person wishing to engage in the work of an elevator
+mechanic shall apply for and obtain an elevator mechanic license from the State
+Fire Marshal. The application shall be on a form provided by the State Fire
+Marshal.
+(2) Any person wishing to engage in the business of an elevator contractor
+shall apply for and obtain an elevator contractor license from the State Fire
+Marshal. The application shall be on a form provided by the State Fire Marshal.
+(3) Each application for an elevator mechanic license shall contain:
+(a) The name and address of the applicant If an individual, the name,
+residence and business address, and social security number of the applicant;
+(b) A contact email address If a partnership, the name, residence and
+business address, and social security number of each partner;
+(c) A contact telephone number If a domestic corporation, the name and
+business address of the corporation and the name, residence address, and social
+security number of the principal officer of the corporation; and if a
+corporation other than a domestic corporation, the name and address of an agent
+located locally who is authorized to accept service of process and official
+notices;
+(d) The number of years the applicant has engaged in the business of
+installing, inspecting, maintaining, or servicing conveyances;
+(e) The approximate number of individuals to be employed by the applicant
+and, if applicable, satisfactory evidence that the employees are or will be
+covered by workers' compensation insurance;
+(f) Satisfactory evidence that the applicant is or will be covered by
+general liability, personal injury, and property damage insurance;
+(e) (g) Permission for the State Fire Marshal to access the criminal
+history record information of individuals, partners, or officers maintained by
+the Federal Bureau of Investigation through the Nebraska State Patrol; and
+(h) A description of all accidents causing personal injury or property
+damage in excess of one thousand dollars involving conveyances installed,
+inspected, maintained, or serviced by the applicant; and
+(f) (i) Such other information as the State Fire Marshal may by rule and
+regulation require.
+(4) Each application for an elevator contractor license shall contain:
+(a) All information required under subsection (3) of this section;
+(b) The name and address of the business;
+(c) The approximate number of employees to be employed by the applicant
+and, if applicable, satisfactory evidence that the employees are or will be
+covered by workers' compensation insurance;
+(d) Satisfactory evidence that the applicant is or will be covered by
+general liability, personal injury, and property damage insurance;
+(e) A description of all accidents causing personal injury or property
+damage in excess of one thousand dollars involving conveyances installed,
+inspected, maintained, or serviced by the applicant; and
+(f) The name, telephone number, and Nebraska elevator mechanic license
+number of a licensed elevator mechanic employed by or contracted with the
+business Social security numbers on applications shall not be made public or be
+considered a part of a public record.
+Sec. 28. Section 81-5,239, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-5,239 (1) Any person may make a request for an investigation into an
+alleged violation of the Conveyance Safety Act by giving notice to the State
+Fire Marshal or state elevator inspector of such violation or danger.
+(2) Upon receipt of a request for an investigation, the State Fire Marshal
+or state elevator inspector shall perform a preliminary inquiry into the
+-12-
+
+LB415 LB415
+2025 2025
+charges contained in the request for investigation. A request for an
+investigation may be made in person or in writing by telephone call and shall
+set forth with reasonable particularity the grounds for the request for an
+investigation. During the preliminary inquiry, the name, address, and telephone
+number of the person making the request for an investigation shall be available
+only to the State Fire Marshal, state elevator inspector, or other person
+carrying out the preliminary inquiry on behalf of the State Fire Marshal or
+state elevator inspector. The State Fire Marshal or state elevator inspector
+shall keep a record of each request for an investigation received under this
+section for three years after such request is made.
+(3) If after the preliminary inquiry the State Fire Marshal or state
+elevator inspector determines that there are reasonable grounds to believe that
+such violation or danger exists and is likely to continue to exist such that
+the operation of the conveyance endangers the public, the State Fire Marshal or
+state elevator inspector shall cause a formal investigation to be made. During
+the formal investigation, a statement shall be taken from the person who made
+the request for an investigation and the person's name, address, and telephone
+number shall be made available to any opposing parties upon request.
+(4) If the State Fire Marshal or state elevator inspector determines that
+there are no reasonable grounds to believe that a violation or danger exists
+under either subsection (2) or (3) of this section, the State Fire Marshal
+shall notify the person requesting the investigation in writing of such
+determination.
+Sec. 29. Original sections 48-665, 81-5,213, 81-5,215, 81-5,216,
+81-5,217, 81-5,218, 81-5,219, 81-5,221, 81-5,223, 81-5,230, and 81-5,239,
+Reissue Revised Statutes of Nebraska, sections 9-1104, 9-1110, 9-1302, 9-1303,
+9-1304, 9-1305, 9-1306, 9-1307, 9-1308, 9-1313, 77-3002, 77-3003, and 77-3014,
+Revised Statutes Cumulative Supplement, 2024, and sections 2, 3, 4, and 8,
+Initiative Law 2024, No. 436, are repealed.
+-13-
+
+[DELETED: yB B F A A r t l t a s 4 8 8 8 8 8 8 8 a 8 R R S o N s 9 9 9 9 9 9 9 9 7 7 a 7 R S C t r t a c a e a a e p u t N H i l a e p o t S A t e o p t h E m t p t w b a e p t a E m a i p l l a c b t l r o A o t f r o a A b a o A g g o s w o a b a o s r o t e o t e w t s b i h c b a t e N t f f e p o a c5L52]
+[DELETED:  R p a m a d o a r g t N H F a W A a a t Y m a r a c t p a F h o p s t i a y f a e o a E w a e f o r u 2 U h i w c p s t a b u t t P s t r p u t N H ( A p s t s b c o t t f I A i l o c o u p s t m o e t r o s ( a ( o t w m a a a o p l t e o e t m t r o t N H F a ( A i d a e m l p s t t a e n f m d c o t o a m o i i o h c o a e n f5L52]
+[DELETED:  a a m n b t c m o p i C o t e p o b b o o a p w s o p o c h b c b o o a p d t a p h e o a e n t s t e o f m h a c t c P s t u t s s b p u t o o a e i c w t N H F a w t s s p a w p t c s t u t s t t e s f o f  s i ( d s b a h c o a f m d n r s f a h c o i d c b o f a h c A e s t a m c p o p e e t c p s t f t t e m c a p i t s m u t m c a a f t 8 ( T C o L s i a c t a o d b w t U S P S c v t c w s p a h i a w t A e w h a u c f a v o t C i u t s a t n o e w t t s s n a t a c t a b A e h a c f a v o t N H t p c I a a b t e t N H5L52]
+[DELETED:  o e r a t c d a t e t I a e i s a a e u s o t s a c t i i a a e u ( o t s a t r d t t f i s b a i e u s e b t i s n b a i e u t s u ( T o o g o c a a l r m b c b a a g o w h a e l r e w t s I s n b  t t p o e a f o t b g s e w o t l r e a w s b o b a g o a a l r N p y t t y o a s p o i a w i a g o c o u a g d o I t l r e a w s a g c g o c d n h t m n o l m r u s 2 t a g o B o t i d d b t T p t s ( o s 9 p t t p o a c w a d i s 9 a n w p o c w i a t t w a t ( T c m p a a g o t p i t d s w a a t l r A f p i t d s w a t l o a w k s b f w t S p a t p t f t T c s d p a p t e  B o t i d d b t T5L52]
+[DELETED:  p t s ( o s 9 p t t E a m a p t s o a a o a t c t t T I c s e A w m a c w p w m o s c d t p t p w a I r e u t j o t S R a A p o e e t r c s s o m s a d i s 4 p t a h r t r s s S a c s s C s m t c s d a c s c j o o o l o w t i a o j f s a a i f t c s o m o a c o f m o O ( o m t o h a d a w a O m a a g o a d i s d o m o a c d l u t p a b t T C D o L o5L52]
+[DELETED:  o I R S F W a h t w b t a t a w b a p f s w a d i 9 o a s w a b t S R a G ( T D o R i c w t D o L s d a i a s e s s n o a o a a o i t t o i i a o T c s s o t d i l i d T s o d o o L m s t t c s a a o f t c s i a w t s s i c a s o b u b t o o t D A A e o p e o a o o t a o s a b l s b s t t p s b l f u d o c b a a o e o t a t w t d o T i o b t D o H a H t D o M V t D o L o t p o s d d o o s t l t D o H a H S t D o M b l s b s t t p s b l f A o s h a t t c s t l u t a d w p f p o c w t t S R a G C o n m t t t5L52]
+[DELETED:  c s f a d o a o s t l o t a o m b c i v o s l a I a o d t a o i u t D o R i a m p b t d t  H S u s d i s a t a a s t l o b s o w u s ( W t d a a r p t s d t a o s t l t D o R b f t c t t o s t l b t a d t w t o s l i o W t d a n f t D o o a r p t s 9 d t o a d b t D o H a H S t D o a r t a o a p o t o w n o i t c t v o t c b t t t p w b d a w o t o t ( A w r b a o a w p t A a o a t a a r o a d p t ( o t s s b i a w t I t D o H a H S r a w A a o a a t a o a a r o a h h T D o H a H S t D o5L52]
+[DELETED:  a a p r a r t c o t G ( A p w h r a s a b u t s s t t c f t f A s e b b y e t n s r b t w o a a s i t r d t c p t 7 t 7 ( b o a a w p r S s s b m i a w s s a p f w t o T a r l a w t S o N T T C u t h o o a o c o m o t d a b i a l I t a i a i t a s c w t s f t e o p o s p i a a a o o t o o E f a a t h a l l u t t b c a w a r f a d b t a a o o a c d f c C f d o  V t p r c l o i b t M A D T A o a r o p t v a o t p o t a o a r o O a l o p u t a b f o n c t a o o c w a f o  m r p o r o f f r w  D t d o i a r i l e a a t a p w a5L52]
+[DELETED:  F t p b c a c e s a a l l s c o r b t N L C f i g a o o a t p N r o a l i p t t s s b T T C h t a t s o r t B o t i d d b t T p t s ( o s 9 p t t h a d o a o s t l a r b t a o d a o s t l i i t E f a a t h a l l u t t b c a w a r f a d b t a a d o a c d f c C f d o  V t p r c l o i b t M A D T A o a r o p t v a o t p o t a o a r o O a l o p u t a b f o n c t a o o c w a f o  m r p o r o f f r w  D t d o i a r i l e a a t a p w a F t p b c a c e s a a l l s c o r b t N L C f i g a o o a t p N r o a l i p t t s s b5L52]
+[DELETED:  d s b a b a f o o h d p c T T C h t a t s o r t o a d t i i v o t M A B o t i d d b t T p t s ( o s 9 p t t W S f O D A I s d t c s f t w p a s r t n t t D o R t b c a s d o B o t i d d b t T p t s ( o s 9 p t t o a c d t m w p s c t I s m d t t w i s t t s t m s d t a o d a p a s r t n w p o c d 1 S 8 R R S o N i S r t t S F M r a r t o m s c a e c w t C S A a t r a a a p p t t a T e s i t i o p l w a t t a i n t v p o o S m r t t S F M r a v u s 8 c e u s 8 a l d a u 2 S 8 R R S o N i ( T C S A a t t c i t m a a r o H a l m e w a c w m P d s a w f c p b T a a t t c o i a a r o a g t v o w a e r T e i a T a a t c i p r l i5L52]
+[DELETED:  t t o i S c a s t i a 2 S 8 R R S o N i C u t j a s t i b t P h w t s o A N S M h w t s o A N S ( P e e f p e w a ( C i r l i c t h  2 S 8 R R S o N i w e t r f c u t E a E A S o M E A v f t r a r a i s ( o t o u t c i n c b t e o T S F M s a a p r a t t S F M r e v r d o t S F M i g o r t g a 2 S 8 R R S o N i C u w c i s s t 2 S 8 R R S o N i  O a a J 1 2 P t a n i a c o i f t S F M A f u s 8 s b p f t c o f n i t t s e i f t 2 S 8 R R S o N i ( T S F M s e a s e5L52]
+[DELETED:  m a i a d b t S F a s b f w t i p a r a T S F M m e d i p t 2 S 8 R R S o N i w a o o u o a c o a i b  o a r i c l t d b i f w t S F M a c o i b s O a s t t S F M a c o O a p o i u t c f a l 2 S 8 R R S o N i ( A p w t e i t w o a e T n a a o t a I a i t n A c e a I a p t n r a A c t n I a d c t n a n o t p o o t c a i  l w i a t a s o p a o T n o y t a h e i t b o i a s e t t e a o w b S e t t a i o w b c b ( P f t S F M t a t c A d o a a c p i o p i e o o t d i c i i a s e t t e a o w b S e t t a i o w b c b A d o a a c p i o p i e o o t d i c i T n t n a N e m l o a l e m e b o c w t 2 S 8 R R S o N i s e i s p a p i i t5L52]
+[DELETED:  c i t r f i A r f a f w r p t g f t r f a t t S F M s e i o o p o t p i o b o t S F M o I a t p i t S F M o s e s ( o ( o t s t S F M n t p r t i i w o s 2  O s 4 8 8 8 8 8 8 8 8 a 8 S C S 2 a s 2 3 4 a 85L52]

@@ -1,0 +1,30 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Hansen FA86
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA86 FA86
+LB148A LB148A
+Floor Amendment To LB148A
+Introduced by Hansen, 16.
+Strike the enacting clause
+-1-
+[DELETED: yH6FAL]
+
+
+================================================================================
+
+Raw Text:
+FA86 FA86
+LB148A LB148A
+Floor Amendment To LB148A
+Introduced by Hansen, 16.
+Strike the enacting clause
+-1-
+
+[DELETED: yH6FAL]

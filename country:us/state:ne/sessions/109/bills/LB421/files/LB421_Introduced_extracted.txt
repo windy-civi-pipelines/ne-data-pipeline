@@ -1,0 +1,1041 @@
+Title: LEGISLATIVE BILL 421
+Official Title: LEGISLATIVE BILL 421
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+LB421 LB421
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Clouse, 37.
+Read first time January 17, 2025
+Committee: General Affairs
+1 A BILL FOR AN ACT relating to gambling; to amend section 9-1204, Reissue
+2 Revised Statutes of Nebraska, and sections 9-1103, 9-1106, and
+3 9-1110, Revised Statutes Cumulative Supplement, 2024; to define and
+4 redefine terms; to authorize an online gaming operator to conduct
+5 sports wagering by means of an online sports wagering platform under
+6 the Nebraska Racetrack Gaming Act; to provide powers and duties to
+7 the State Racing and Gaming Commission; to change provisions for the
+8 distribution of taxes collected from sports wagering; to provide an
+9 operative date; to provide severability; to repeal the original
+10 sections; and to declare an emergency.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+LB421 LB421
+2025 2025
+1 Section 1. Section 9-1103, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 9-1103 For purposes of the Nebraska Racetrack Gaming Act:
+4 (1) Authorized gaming operator means a person or entity licensed
+5 pursuant to the act to operate games of chance within a licensed
+6 racetrack enclosure;
+7 (2) Authorized gaming operator license means a license to operate
+8 games of chance as an authorized gaming operator at a licensed racetrack
+9 enclosure;
+10 (3)(a) Except as otherwise provided in subdivision (b) of this
+11 subdivision, authorized sporting event means a professional sporting
+12 event, a collegiate sporting event, an international sporting event, a
+13 professional motor race event, a professional sports draft, an individual
+14 sports award, an electronic sport, or a simulated game; and
+15 (b) Authorized sporting event does not include an instate collegiate
+16 sporting event in which an instate collegiate or university team is a
+17 participant, a parimutuel wager, a fantasy sports contest, a minor league
+18 sporting event, a sporting event at the high school level or below
+19 regardless of the age of any individual participant, or any sporting
+20 event excluded by the commission;
+21 (4) Collegiate sporting event means an athletic event or competition
+22 of an intercollegiate sport played at the collegiate level for which
+23 eligibility requirements for participation by a student athlete are
+24 established by a national association for the promotion or regulation of
+25 collegiate athletics;
+26 (5) Commission means the State Racing and Gaming Commission;
+27 (6) Designated sports wagering area means an area, as approved by
+28 the commission, in which sports wagering is conducted;
+29 (7) Game of chance means any game which has the elements of chance,
+30 prize, and consideration, including any wager on a slot machine, table
+31 game, counter game, or card game, a keno lottery conducted in accordance
+-2-
+LB421 LB421
+2025 2025
+1 with the Nebraska County and City Lottery Act, or sports wagering. Game
+2 of chance does not include any game the operation of which is prohibited
+3 at a casino by federal law;
+4 (8) Gaming device means an electronic, mechanical, or other device
+5 which plays a game of chance when activated by a player using currency, a
+6 token, or other item of value;
+7 (9) International sporting event means an international team or
+8 individual sporting event governed by an international sports federation
+9 or sports governing body, including sporting events governed by the
+10 International Olympic Committee and the International Federation of
+11 Association Football;
+12 (10) Licensed racetrack enclosure means all real property licensed
+13 and utilized for the conduct of a race meeting, including the racetrack
+14 and any grandstand, concession stand, office, barn, barn area, employee
+15 housing facility, parking lot, and additional area designated by the
+16 commission in accordance with the Constitution of Nebraska and applicable
+17 Nebraska law;
+18 (11) Limited gaming device means an electronic gaming device which
+19 (a) offers games of chance, (b) does not dispense currency, tokens, or
+20 other items of value, and (c) does not have a cash winnings hopper,
+21 mechanical or simulated spinning reel, or side handle;
+22 (12) Online sports wagering platform means an integrated system of
+23 hardware, software, or applications through which an authorized gaming
+24 operator or its platform provider operates, conducts, or offers sports
+25 wagering through the Internet to persons located within the State of
+26 Nebraska;
+27 (13) Platform provider means a sports wagering vendor that contracts
+28 with an authorized gaming operator to provide an online sports wagering
+29 platform;
+30 (14) (12) Prohibited participant means any individual whose
+31 participation may undermine the integrity of the wagering or the sporting
+-3-
+LB421 LB421
+2025 2025
+1 event or any person who is prohibited from sports wagering for other good
+2 cause shown as determined by the commission, including, but not limited
+3 to: (a) Any individual placing a wager as an agent or proxy; (b) any
+4 person who is an athlete, a coach, a referee, or a player placing a wager
+5 on in any sporting event overseen by the sports governing body of such
+6 person based on publicly available information; (c) a person who holds a
+7 paid position of authority or influence sufficient to exert influence
+8 over the participants in a sporting event, including, but not limited to,
+9 any coach, manager, handler, or athletic trainer, or a person with access
+10 to certain types of exclusive information, placing a wager on any
+11 sporting event overseen by the sports governing body of such person based
+12 on publicly available information; or (d) a person identified as
+13 prohibited from sports wagering by any list provided by a sports
+14 governing body to the commission;
+15 (15) (13) Racing license means a license issued for a licensed
+16 racetrack enclosure by the commission; and
+17 (16) (14) Sports wagering means the acceptance of wagers on an
+18 authorized sporting event by any system of wagering as authorized by the
+19 commission. Sports wagering includes, but is not limited to, does not
+20 include (a) placing a wager on the performance or nonperformance of any
+21 individual athlete participating in a single game or match of a
+22 collegiate sporting event in which a collegiate team from this state is
+23 participating, and (b) placing an in-game wager on any game or match of a
+24 collegiate sporting event in which a collegiate team from this state is
+25 participating, (c) placing a wager on the performance or nonperformance
+26 of any individual athlete under eighteen years of age participating in a
+27 professional or international sporting event, or (d) placing a wager on
+28 the performance of athletes in an individual sporting event excluded by
+29 the commission.
+30 Sec. 2. Section 9-1106, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-4-
+LB421 LB421
+2025 2025
+1 9-1106 The commission shall:
+2 (1) License and regulate authorized gaming operators for the
+3 operation of all games of chance authorized pursuant to the Nebraska
+4 Racetrack Gaming Act, including adopting, promulgating, and enforcing
+5 rules and regulations governing such authorized gaming operators
+6 consistent with the act;
+7 (2) Regulate the operation of games of chance in order to prevent
+8 and eliminate corrupt practices and fraudulent behavior, and thereby
+9 promote integrity, security, and honest administration in, and accurate
+10 accounting of, the operation of games of chance which are subject to the
+11 act;
+12 (3) Establish criteria to license applicants for authorized gaming
+13 operator licenses and all other types of gaming licenses for other
+14 positions and functions incident to the operation of games of chance,
+15 including adopting, promulgating, and enforcing rules, regulations, and
+16 eligibility standards for such authorized gaming operator licenses,
+17 gaming licenses, and positions and functions incident to the operation of
+18 games of chance;
+19 (4) Charge fees for applications for licenses and for the issuance
+20 of authorized gaming operator licenses and all other types of gaming
+21 licenses to successful applicants which shall be payable to the
+22 commission;
+23 (5) Charge fees to authorized gaming operators in an amount
+24 necessary to offset the cost of oversight and regulatory services to be
+25 provided which shall be payable to the commission;
+26 (6) Impose a one-time authorized gaming operator license fee of five
+27 million dollars on each authorized gaming operator for each licensed
+28 racetrack enclosure payable to the commission. The license fee may be
+29 paid over a period of five years with one million dollars due at the time
+30 the license is issued;
+31 (7) Grant, deny, revoke, and suspend authorized gaming operator
+-5-
+LB421 LB421
+2025 2025
+1 licenses and all other types of gaming licenses based upon reasonable
+2 criteria and procedures established by the commission to facilitate the
+3 integrity, productivity, and lawful conduct of gaming within the state;
+4 (8) Grant or deny for cause applications for authorized gaming
+5 operator licenses of not less than twenty years in duration, subject to
+6 an annual review by the commission and receipt by the commission of a
+7 fifty-thousand-dollar annual review fee, with no more than one such
+8 authorized gaming operator license granted for any licensed racetrack
+9 enclosure within the state;
+10 (9) Conduct background investigations of applicants for authorized
+11 gaming operator licenses and all other types of gaming licenses;
+12 (10) Adopt and promulgate rules and regulations for the standards of
+13 manufacture of gaming equipment;
+14 (11) Inspect the operation of any authorized gaming operator
+15 conducting games of chance for the purpose of certifying the revenue
+16 thereof and receiving complaints from the public;
+17 (12) Issue subpoenas for the attendance of witnesses or the
+18 production of any records, books, memoranda, documents, or other papers
+19 or things at or prior to any hearing as is necessary to enable the
+20 commission to effectively discharge its duties;
+21 (13) Administer oaths or affirmations as necessary to carry out the
+22 act;
+23 (14) Have the authority to impose, subject to judicial review,
+24 appropriate administrative fines and penalties for each violation of the
+25 act or any rules and regulations adopted and promulgated pursuant to the
+26 act in an amount not to exceed:
+27 (a) For any licensed racetrack enclosure with an authorized gaming
+28 operator operating games of chance for one year or less, fifty thousand
+29 dollars per violation; or
+30 (b) For any licensed racetrack enclosure with an authorized gaming
+31 operator operating games of chance for more than one year, three times
+-6-
+LB421 LB421
+2025 2025
+1 the highest daily amount of gross receipts derived from wagering on games
+2 of chance during the twelve months preceding the violation at such
+3 licensed racetrack enclosure gaming facility per violation;
+4 (15) Collect and remit administrative fines and penalties collected
+5 under this section to the State Treasurer for distribution in accordance
+6 with Article VII, section 5, of the Constitution of Nebraska;
+7 (16) Adopt and promulgate rules and regulations for any gaming taxes
+8 assessed to authorized gaming operators;
+9 (17) Collect and account for any gaming taxes assessed to authorized
+10 gaming operators and remit such taxes to the State Treasurer or county
+11 treasurer as required by Nebraska law;
+12 (18) Promote treatment of gaming-related behavioral disorders;
+13 (19) Establish procedures for the governance of the commission;
+14 (20) Acquire necessary offices, facilities, counsel, and staff;
+15 (21) Establish procedures for an applicant for a staff position to
+16 disclose conflicts of interest as part of the application for employment;
+17 (22) Establish a process to allow a person to be voluntarily
+18 excluded from wagering in any game of chance under the act in accordance
+19 with section 9-1118;
+20 (23) Remit all license and application fees collected under the
+21 Nebraska Racetrack Gaming Act to the State Treasurer for credit to the
+22 Racing and Gaming Commission's Racetrack Gaming Fund;
+23 (24) Conduct or cause to be conducted a statewide horseracing market
+24 analysis to study the racing market as it currently exists across the
+25 state and within the locations in Nebraska of the racetracks in Adams,
+26 Dakota, Douglas, Hall, Lancaster, and Platte counties as of the date of
+27 the market analysis. Such market analysis shall be completed as soon as
+28 practicable but not later than January 1, 2025, and every five years
+29 thereafter and shall be submitted electronically to the General Affairs
+30 Committee of the Legislature and to the Governor. Such market analysis
+31 shall examine the market potential and make recommendations involving:
+-7-
+LB421 LB421
+2025 2025
+1 (a) The number of live racing days per track, number of races run,
+2 and number of horses that should be entered per race;
+3 (b) The number of Nebraska-bred horses available in the market for
+4 running races, including foals dropped in the state for the past three
+5 years at the time of the market analysis;
+6 (c) The circuit scheduled in the state and if any overlapping dates
+7 would be beneficial to the circuit and market as a whole;
+8 (d) The total number of horses available for the total annual
+9 schedule, with separate analysis for thoroughbred races and quarterhorse
+10 races;
+11 (e) The purse money available per race and per track;
+12 (f) The strength of the potential and ongoing simulcast market;
+13 (g) The staffing patterns and problems that exist at each track,
+14 including unfilled positions;
+15 (h) The positive and negative effects, including financial, on each
+16 existing racetrack at the time of the market analysis in the event the
+17 commission approves a new racetrack application;
+18 (i) The potential to attract new owners and horses from other
+19 states;
+20 (j) The market potential for expansion at each licensed racetrack
+21 enclosure to the live race meet days and the number of live horseraces
+22 required by section 2-1205, and the room for expansion, if any, for
+23 additional licensed racetrack enclosures into the market in Nebraska and
+24 the locations most suitable for such expansion; and
+25 (k) Any other data and analysis required by the commission;
+26 (25) Conduct or cause to be conducted a statewide casino gaming
+27 market analysis study across the state and within each location of a
+28 racetrack in Adams, Dakota, Douglas, Hall, Lancaster, and Platte
+29 counties. Such market analysis study shall be completed as soon as
+30 practicable but not later than January 1, 2025, and every five years
+31 thereafter and shall be submitted electronically to the General Affairs
+-8-
+LB421 LB421
+2025 2025
+1 Committee of the Legislature and to the Governor. The market analysis
+2 study shall include:
+3 (a) A comprehensive assessment of the potential casino gaming market
+4 conditions;
+5 (b) An evaluation of the effects on the Nebraska market from
+6 competitive casino gaming locations outside of the state;
+7 (c) Information identifying underperforming or underserved markets
+8 within Nebraska;
+9 (d) A comprehensive study of potential casino gaming revenue in
+10 Nebraska; and
+11 (e) Any other data and analysis required by the commission;
+12 (26) Conduct or cause to be conducted a statewide socioeconomic-
+13 impact study of horseracing and casino gaming across the state and at
+14 each licensed racetrack enclosure and gaming facility in Adams, Dakota,
+15 Douglas, Hall, Lancaster, and Platte counties. Such socioeconomic-impact
+16 study shall be completed as soon as practicable but not later than
+17 January 1, 2025, and shall be submitted electronically to the General
+18 Affairs Committee of the Legislature and to the Governor. The study shall
+19 include:
+20 (a) Information on financial and societal impacts of horseracing and
+21 casino gaming, including crime and local businesses;
+22 (b) An analysis of problem gambling within the state; and
+23 (c) A comparison of the economy of counties which contain a licensed
+24 racetrack enclosure operating games of chance and counties which do not
+25 contain such a licensed racetrack enclosure as of the date of the study,
+26 which comparison shall include:
+27 (i) The population of such counties;
+28 (ii) Jobs created by each licensed racetrack enclosure operating
+29 games of chance in such counties;
+30 (iii) Unemployment rates in such counties;
+31 (iv) Information on family and household income in such counties;
+-9-
+LB421 LB421
+2025 2025
+1 (v) Retail sales in such counties;
+2 (vi) Property values in such counties;
+3 (vii) An analysis of the impact on community services, including
+4 police protection expenditures, fire protection expenditures, road,
+5 bridge, and sidewalk expenditures, and capital project expenditures in
+6 such counties;
+7 (viii) Impact on community health in such counties;
+8 (ix) Divorce rates in such counties;
+9 (x) Information on available education and education levels in such
+10 counties;
+11 (xi) Life expectancy in such counties;
+12 (xii) Homelessness in such counties; and
+13 (xiii) Any other data and analysis required by the commission;
+14 (27) Approve or deny an application for any licensed racetrack
+15 enclosure which is not in existence or operational as of April 20, 2022,
+16 or any licensed racetrack enclosure in existence and operational as of
+17 November 1, 2020, that applies to move such licensed racetrack enclosure
+18 pursuant to section 2-1205, on the basis of the placement and location of
+19 such licensed racetrack enclosure and based on the market as it exists as
+20 of the most recent issuance of the statewide horseracing market analysis,
+21 statewide casino gaming market analysis, and statewide socioeconomic-
+22 impact studies conducted by the commission pursuant to this section. The
+23 commission shall deny a licensed racetrack enclosure or gaming operator
+24 license application if it finds that approval of such application in such
+25 placement and location would be detrimental to the racing or gaming
+26 market that exists across the state based on the most recent statewide
+27 horseracing market analysis, statewide casino gaming market analysis, and
+28 statewide socioeconomic-impact studies;
+29 (28) Do all things necessary and proper to carry out its powers and
+30 duties under the Nebraska Racetrack Gaming Act, including the adoption
+31 and promulgation of rules and regulations and such other actions as
+-10-
+LB421 LB421
+2025 2025
+1 permitted by the Administrative Procedure Act;
+2 (29) Recommend to the Governor and to the General Affairs Committee
+3 of the Legislature amendments to all laws administered by the commission;
+4 and
+5 (30) As appropriate and as recommended by the executive director of
+6 the commission, delegate to an adjudication subcommittee of the
+7 commission those powers and duties of the commission as necessary to
+8 carry out and effectuate the purposes of the Nebraska Racetrack Gaming
+9 Act and investigate and respond to violations of the Nebraska Racetrack
+10 Gaming Act. The adjudication subcommittee staff shall be appointed by the
+11 executive director. No person may be appointed to the adjudication
+12 subcommittee if such person is involved in the investigation of any
+13 violation being heard or investigated by the subcommittee. Any action of
+14 the adjudication subcommittee may be appealed to the commission or may be
+15 reviewed by the commission on its own initiative. The adjudication
+16 subcommittee may impose a fine, consistent with the Nebraska Racetrack
+17 Gaming Act, not to exceed fifteen thousand dollars, upon a finding that
+18 the act or any rule or regulation adopted and promulgated under the act
+19 has been violated. The commission shall remit any fines collected under
+20 this subdivision to the State Treasurer for distribution in accordance
+21 with Article VII, section 5, of the Constitution of Nebraska; and .
+22 (31) Examine rules and regulations from other states relating to
+23 online sports wagering and, if practicable, adopt a similar regulatory
+24 framework through the adoption and promulgation of rules and regulations
+25 for online sports wagering.
+26 Sec. 3. Section 9-1110, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 9-1110 (1)(a)(i) (1) The commission may permit an authorized gaming
+29 operator to conduct sports wagering. All sports wagering shall be
+30 conducted by an authorized gaming operator located within a licensed
+31 racetrack enclosure or in partnership with such authorized gaming
+-11-
+LB421 LB421
+2025 2025
+1 operator pursuant to subdivision (1)(b) of this section. Any sports wager
+2 shall be placed (A) in person or at a wagering kiosk in the designated
+3 sports wagering area at the licensed racetrack enclosure or (B) by means
+4 of an online sports wagering platform that is offered by or in
+5 partnership with an authorized gaming operator by an individual that is
+6 located in the State of Nebraska. Servers, including backup servers, used
+7 for online sports wagering may be located outside of this state, but to
+8 the extent required by federal law, an authorized gaming operator or
+9 platform provider shall maintain in this state the servers it uses to
+10 accept a sports wager placed by an individual located in this state.
+11 (ii) A parimutuel wager in accordance with sections 2-1201 to 2-1218
+12 may be placed in the designated sports wagering area at the licensed
+13 racetrack enclosure. An individual employed and authorized to accept a
+14 sports wager may also accept a parimutuel wager.
+15 (b)(i) An authorized gaming operator may conduct sports wagering by
+16 means of one online sports wagering platform and may contract with one
+17 platform provider for purposes of providing sports wagering. An
+18 individual or entity that does not have a contract with an authorized
+19 gaming operator to conduct sports wagering by means of an online sports
+20 wagering platform shall not be permitted to conduct sports wagering in
+21 the State of Nebraska. Any sports wagering conducted by means of an
+22 online sports wagering platform shall conform to all requirements
+23 relating to sports wagering pursuant to the Nebraska Racetrack Gaming Act
+24 and any rules or regulations adopted and promulgated pursuant to the act.
+25 (ii) An authorized gaming operator or a platform provider that has
+26 contracted with an authorized gaming operator shall submit controls to
+27 the commission for approval in a manner prescribed by the commission
+28 relating to any online sports wagering platform that the authorized
+29 gaming operator or the platform provider intends to use to conduct sports
+30 wagering by means of an online sports wagering platform. The commission
+31 shall announce a date on which it shall begin to accept controls relating
+-12-
+LB421 LB421
+2025 2025
+1 to online sports wagering platforms, which shall be no later than thirty
+2 days after the commission adopts and promulgates rules and regulations
+3 relating to online sports wagering. The commission shall have thirty days
+4 to review and approve or deny proposed controls submitted by an
+5 authorized gaming operator or a platform provider that has contracted
+6 with an authorized gaming operator. All authorized gaming operators or
+7 platform providers that have contracted with an authorized gaming
+8 operator that submit controls within thirty days of the date on which the
+9 commission first begins to accept controls, if such controls are
+10 approved, shall be given an equal opportunity to commence offering and
+11 conducting online sports wagering on the same day, which shall be no
+12 later than sixty days from the date that the commission first begins to
+13 accept controls. No authorized gaming operator or platform provider shall
+14 conduct sports wagering by means of an online sports wagering platform
+15 until the controls for such online sports wagering platform are approved
+16 by the commission.
+17 (2) A floor plan identifying the designated sports wagering area,
+18 including the location of any wagering kiosks, shall be filed with the
+19 commission for review and approval. Modification to a previously approved
+20 plan must be submitted for approval at least ten days prior to
+21 implementation. The area shall not be accessible to persons under twenty-
+22 one years of age and shall have a sign posted to restrict access.
+23 Exceptions to this subsection must be approved in writing by the
+24 commission.
+25 (3) The authorized gaming operator shall submit controls for
+26 approval by the commission, that include the following for operating the
+27 designated sports wagering area:
+28 (a) Specific procedures and technology partners to fulfill the
+29 requirements set forth by the commission;
+30 (b) Other specific controls as designated by the commission;
+31 (c) A process to easily and prominently impose limitations or
+-13-
+LB421 LB421
+2025 2025
+1 notification for wagering parameters, including, but not limited to,
+2 deposits and wagers; and
+3 (d) An easy and obvious method for a player to make a complaint and
+4 to enable the player to notify the commission if such complaint has not
+5 been or cannot be addressed by the sports wagering operator.
+6 (4) The commission shall develop policies and procedures to ensure a
+7 prohibited participant is unable to place a sports wager or parimutuel
+8 wager.
+9 (5) Beginning on the implementation date designated by the Tax
+10 Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+11 winnings payment of any sports wagering winnings as defined in section
+12 9-1303, an authorized gaming operator shall check the collection system
+13 to determine if the winner has a debt or an outstanding state tax
+14 liability as required by the Gambling Winnings Setoff for Outstanding
+15 Debt Act. If such authorized gaming operator determines that the winner
+16 is subject to the collection system, the operator shall deduct the amount
+17 of debt and outstanding state tax liability identified in the collection
+18 system from the winnings payment and shall remit the net winnings payment
+19 of sports wagering winnings, if any, to the winner and the amount
+20 deducted to the Department of Revenue to be credited against such debt or
+21 outstanding state tax liability as provided in section 9-1306.
+22 Sec. 4. Section 9-1204, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 9-1204 (1) Of the tax imposed by section 9-1203 on gross gaming
+25 revenue not generated by sports wagering, seventy-five percent shall be
+26 remitted to the State Treasurer for credit as follows: Two and one-half
+27 percent to the Compulsive Gamblers Assistance Fund, two and one-half
+28 percent to the General Fund, and seventy percent to the Property Tax
+29 Credit Cash Fund. The remaining twenty-five percent of the tax shall be
+30 remitted to the county treasurer of the county in which the licensed
+31 racetrack enclosure is located to be distributed as follows: (a) (1) If
+-14-
+LB421 LB421
+2025 2025
+1 the licensed racetrack enclosure is located completely within an
+2 unincorporated area of a county, the remaining twenty-five percent shall
+3 be distributed to the county in which such licensed racetrack enclosure
+4 is located; or (b) (2) if the licensed racetrack enclosure is located at
+5 least partially within the limits of a city or village in such county,
+6 one-half of the remaining twenty-five percent shall be distributed to
+7 such county and one-half of the remaining twenty-five percent to the city
+8 or village in which such licensed racetrack enclosure is at least
+9 partially located.
+10 (2) The tax imposed by section 9-1203 on gross gaming revenue
+11 generated by sports wagering shall be remitted to the State Treasurer for
+12 credit as follows: Three percent to the Compulsive Gamblers Assistance
+13 Fund, three and one-half percent to the Racing and Gaming Commission's
+14 Racetrack Gaming Fund, three and one-half percent to the Racing and
+15 Gaming Commission's Racing Cash Fund, and ninety percent to the Property
+16 Tax Credit Cash Fund.
+17 Sec. 5. This act becomes operative on September 1, 2025.
+18 Sec. 6. If any section in this act or any part of any section is
+19 declared invalid or unconstitutional, the declaration shall not affect
+20 the validity or constitutionality of the remaining portions.
+21 Sec. 7. Original section 9-1204, Reissue Revised Statutes of
+22 Nebraska, and sections 9-1103, 9-1106, and 9-1110, Revised Statutes
+23 Cumulative Supplement, 2024, are repealed.
+24 Sec. 8. Since an emergency exists, this act takes effect when
+25 passed and approved according to law.
+-15-
+[DELETED: yCAR S o N a s 9 9 a9r t t a a o g o t csttdo d t p s t r t o0s1B1L52]
+[DELETED: S 1 S 9 R S C S29( A g o m a p o e lp t t a t o g o c w a lr( A g o l m a l t oge0( E a o p i s ( o t1s a s e m a p s2e a c s e a i s e 3p4s5(6s e i w a i c o u t i 7p8s e a s e a t h s l o b9r o t a o a i p o a s0e1(2o a i s p a t c l f w3e r f p b a s a a4e5c6(7( D s w a m a a a a b8t9(0p1g1L52]
+[DELETED: woa(wt( I s e m a i t oio s g b i s e g b t0I O C a t I F o1A2(3a4a5h f p l a a a d b t6c7N8(9(0o i o v a ( d n h a c w h1m2(3h s o a t w a a g4o o i p p o c o o s5w t t I t p l w t S o6N7(8w9p0( ( P p m a i w1p1L52]
+[DELETED: ect ( A i p a w a a a o p ( apopp p o a o i s t e ioa0t c t o e i p a w o a1s2o p a i o ( a p i a3p f s w b a l p b a s4g5( ( R l m a l i f a l6r7( ( S w m t a o w o a8a9c S w i b i n l t d n0i1i a p i a s g o m o 2c3p4c5p6o7p8t9t0S 2 S 9 R S C S121L52]
+[DELETED: 9( L a r a g o f to o a g o c a p t t NR G A i a p a er a r g s a g oc(a e c p a f b a tp0a1a2(3o l a a o t o g l f o4p a f i t t o o g o c5i6e s f s a g o l7g8g9(0o a g o l a a o t o g1l t s a w s b p t t2c3( C f t a g o i a a4n5p6(7m d o e a g o f e l8r e p t t c T l f m b9p0t1( G d r a s a g o1L52]
+[DELETED: l a a o t o g l b u rci( G o d f c a f a goa a r b t c a r b t c o f a r f w n m t o sa g o l g f a l re0( C b i o a f a1g2(3m4( I t o o a a g o5c g o c f t p o c t r6t7( I s f t a o w o t8p9o t a o p t a h a i n t e t0c1(2a3( H t a t i s t j r4a5a6a7(8o9d0(1o1L52]
+[DELETED: to c d t t m p t v a sl(uw(a(0g1t2(3(4(5(6d7( E a p t a a p t b v8e9w0( R a l a a f c u t1N2R3(4a t s t r m a i c e a t5s6D7t8p b n l t J 1 2 a e f y9t0C1s1L52]
+[DELETED: (a(ry(w( T t n o h a f t t as0r1(2(3( T s p a p t e a e t4i5(6e7c8( T p t a n o a h f o9s0( T m p f e a e l r1e2r b s 2 a t r f e i a f3a4t5(6( C o c t b c a s c g7m a s a t s a w e l o 8r i A D D H L a P9c S m a s s b c a s a0p b n l t J 1 2 a e f y1t1L52]
+[DELETED: C o t L a t t G T m as(c( A e o t e o t N m fc( I i u o u mw( A c s o p c g r i0N1(2( C o c t b c a s s3i s o h a c g a t s a a4e5D6s s b c a s a p b n l t7J 1 2 a s b s e t t G8A9i0(1c2(3(4r5c6w7(8( J c b e l r e o9g0(1(1L52]
+[DELETED: ((( A a o t i o c s ip p e f p e rb a s e a c p e is(((0c1(2(3(4( A o d a a f a l r5e6o7N8p9s0o1s c g m a a s s2i3c4l5p a l w b d t t r o g6m7h8s9(0d u t N R G A i t a1a p o r a r a s o a a1L52]
+[DELETED: p(oa(t c d t a a s o tc t p a d o t c a n tcA0G1e d N p m b a t t a2s i s p i i i t i o a3v4t5r b t c o i o i T a6s m i a f c w t N R7G8t9h0t s t t S T f d i a1w2( E r a r f o s r t3o s w a i p a a s r4f5f6S 3 S 9 R S C S72899o t c s w A s w s b0c b a a g o l w a l1r e o i p w s a g1L52]
+[DELETED: osso a o s w p t i o b o iplft e r b f l a a g o op p s m i t s t s i u t0a1(2m b p i t d s w a a t l3r e A i e a a t a 4s5(6m7p p f p o p s w A8i o e t d n h a c w a a9g0w1t S o N A s w c b m o a2o s w p s c t a r3r4a5(6c w a a g o s s c t7t c f a i a m p b t c8r t a o s w p t t a9g0w1s1L52]
+[DELETED: td a t c a a p r a rrt r a a o d p c s b aa g o o a p p t h cw a a g o A a g o op p t h c w a a goc f b t a c i s c a0a1c o s w o t s d w s b n2l3a4c5u6b7( A f p i t d s w a8i9c0p m b s f a a l t d p t1i2o y o a a s h a s p t r a3E t t s m b a i w b t4c5( T a g o s s c f6a7d8( S p a t p t f t9r0(1( A p t e a p i l o1L52]
+[DELETED: n f w p i b n l td(tb(pw( B o t i d d b t T0C1w293t d i t w h a d o a o s t4l a r b t G W S f O5D6i7o8s9o s w w i a t t w a t a0d1o2S 4 S 9 R R S o N i3a49 ( O t t i b s 9 o g g5r6r7p t t C G A F t a o8p t t G F a s p t t P T9C0r t t c t o t c i w t l1r1L52]
+[DELETED: t l r e i l c w aubilo o t r t p s b d tso v i w s l r e i a lp0( T t i b s 9 o g g r1g2c a f T p t t C G A3F4R G F t a o p t t R a5G6T7S8S9d i o u t d s n a0t1S 7  O s 9 R R S o2N a s 9 9 a 9 R S3C4S 8  S a e e t a t e w5p1L52]
+
+
+================================================================================
+
+Raw Text:
+LB421 LB421
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 421
+Introduced by Clouse, 37.
+Read first time January 17, 2025
+Committee: General Affairs
+1 A BILL FOR AN ACT relating to gambling; to amend section 9-1204, Reissue
+2 Revised Statutes of Nebraska, and sections 9-1103, 9-1106, and
+3 9-1110, Revised Statutes Cumulative Supplement, 2024; to define and
+4 redefine terms; to authorize an online gaming operator to conduct
+5 sports wagering by means of an online sports wagering platform under
+6 the Nebraska Racetrack Gaming Act; to provide powers and duties to
+7 the State Racing and Gaming Commission; to change provisions for the
+8 distribution of taxes collected from sports wagering; to provide an
+9 operative date; to provide severability; to repeal the original
+10 sections; and to declare an emergency.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB421 LB421
+2025 2025
+1 Section 1. Section 9-1103, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 9-1103 For purposes of the Nebraska Racetrack Gaming Act:
+4 (1) Authorized gaming operator means a person or entity licensed
+5 pursuant to the act to operate games of chance within a licensed
+6 racetrack enclosure;
+7 (2) Authorized gaming operator license means a license to operate
+8 games of chance as an authorized gaming operator at a licensed racetrack
+9 enclosure;
+10 (3)(a) Except as otherwise provided in subdivision (b) of this
+11 subdivision, authorized sporting event means a professional sporting
+12 event, a collegiate sporting event, an international sporting event, a
+13 professional motor race event, a professional sports draft, an individual
+14 sports award, an electronic sport, or a simulated game; and
+15 (b) Authorized sporting event does not include an instate collegiate
+16 sporting event in which an instate collegiate or university team is a
+17 participant, a parimutuel wager, a fantasy sports contest, a minor league
+18 sporting event, a sporting event at the high school level or below
+19 regardless of the age of any individual participant, or any sporting
+20 event excluded by the commission;
+21 (4) Collegiate sporting event means an athletic event or competition
+22 of an intercollegiate sport played at the collegiate level for which
+23 eligibility requirements for participation by a student athlete are
+24 established by a national association for the promotion or regulation of
+25 collegiate athletics;
+26 (5) Commission means the State Racing and Gaming Commission;
+27 (6) Designated sports wagering area means an area, as approved by
+28 the commission, in which sports wagering is conducted;
+29 (7) Game of chance means any game which has the elements of chance,
+30 prize, and consideration, including any wager on a slot machine, table
+31 game, counter game, or card game, a keno lottery conducted in accordance
+-2-
+
+LB421 LB421
+2025 2025
+1 with the Nebraska County and City Lottery Act, or sports wagering. Game
+2 of chance does not include any game the operation of which is prohibited
+3 at a casino by federal law;
+4 (8) Gaming device means an electronic, mechanical, or other device
+5 which plays a game of chance when activated by a player using currency, a
+6 token, or other item of value;
+7 (9) International sporting event means an international team or
+8 individual sporting event governed by an international sports federation
+9 or sports governing body, including sporting events governed by the
+10 International Olympic Committee and the International Federation of
+11 Association Football;
+12 (10) Licensed racetrack enclosure means all real property licensed
+13 and utilized for the conduct of a race meeting, including the racetrack
+14 and any grandstand, concession stand, office, barn, barn area, employee
+15 housing facility, parking lot, and additional area designated by the
+16 commission in accordance with the Constitution of Nebraska and applicable
+17 Nebraska law;
+18 (11) Limited gaming device means an electronic gaming device which
+19 (a) offers games of chance, (b) does not dispense currency, tokens, or
+20 other items of value, and (c) does not have a cash winnings hopper,
+21 mechanical or simulated spinning reel, or side handle;
+22 (12) Online sports wagering platform means an integrated system of
+23 hardware, software, or applications through which an authorized gaming
+24 operator or its platform provider operates, conducts, or offers sports
+25 wagering through the Internet to persons located within the State of
+26 Nebraska;
+27 (13) Platform provider means a sports wagering vendor that contracts
+28 with an authorized gaming operator to provide an online sports wagering
+29 platform;
+30 (14) (12) Prohibited participant means any individual whose
+31 participation may undermine the integrity of the wagering or the sporting
+-3-
+
+LB421 LB421
+2025 2025
+1 event or any person who is prohibited from sports wagering for other good
+2 cause shown as determined by the commission, including, but not limited
+3 to: (a) Any individual placing a wager as an agent or proxy; (b) any
+4 person who is an athlete, a coach, a referee, or a player placing a wager
+5 on in any sporting event overseen by the sports governing body of such
+6 person based on publicly available information; (c) a person who holds a
+7 paid position of authority or influence sufficient to exert influence
+8 over the participants in a sporting event, including, but not limited to,
+9 any coach, manager, handler, or athletic trainer, or a person with access
+10 to certain types of exclusive information, placing a wager on any
+11 sporting event overseen by the sports governing body of such person based
+12 on publicly available information; or (d) a person identified as
+13 prohibited from sports wagering by any list provided by a sports
+14 governing body to the commission;
+15 (15) (13) Racing license means a license issued for a licensed
+16 racetrack enclosure by the commission; and
+17 (16) (14) Sports wagering means the acceptance of wagers on an
+18 authorized sporting event by any system of wagering as authorized by the
+19 commission. Sports wagering includes, but is not limited to, does not
+20 include (a) placing a wager on the performance or nonperformance of any
+21 individual athlete participating in a single game or match of a
+22 collegiate sporting event in which a collegiate team from this state is
+23 participating, and (b) placing an in-game wager on any game or match of a
+24 collegiate sporting event in which a collegiate team from this state is
+25 participating, (c) placing a wager on the performance or nonperformance
+26 of any individual athlete under eighteen years of age participating in a
+27 professional or international sporting event, or (d) placing a wager on
+28 the performance of athletes in an individual sporting event excluded by
+29 the commission.
+30 Sec. 2. Section 9-1106, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-4-
+
+LB421 LB421
+2025 2025
+1 9-1106 The commission shall:
+2 (1) License and regulate authorized gaming operators for the
+3 operation of all games of chance authorized pursuant to the Nebraska
+4 Racetrack Gaming Act, including adopting, promulgating, and enforcing
+5 rules and regulations governing such authorized gaming operators
+6 consistent with the act;
+7 (2) Regulate the operation of games of chance in order to prevent
+8 and eliminate corrupt practices and fraudulent behavior, and thereby
+9 promote integrity, security, and honest administration in, and accurate
+10 accounting of, the operation of games of chance which are subject to the
+11 act;
+12 (3) Establish criteria to license applicants for authorized gaming
+13 operator licenses and all other types of gaming licenses for other
+14 positions and functions incident to the operation of games of chance,
+15 including adopting, promulgating, and enforcing rules, regulations, and
+16 eligibility standards for such authorized gaming operator licenses,
+17 gaming licenses, and positions and functions incident to the operation of
+18 games of chance;
+19 (4) Charge fees for applications for licenses and for the issuance
+20 of authorized gaming operator licenses and all other types of gaming
+21 licenses to successful applicants which shall be payable to the
+22 commission;
+23 (5) Charge fees to authorized gaming operators in an amount
+24 necessary to offset the cost of oversight and regulatory services to be
+25 provided which shall be payable to the commission;
+26 (6) Impose a one-time authorized gaming operator license fee of five
+27 million dollars on each authorized gaming operator for each licensed
+28 racetrack enclosure payable to the commission. The license fee may be
+29 paid over a period of five years with one million dollars due at the time
+30 the license is issued;
+31 (7) Grant, deny, revoke, and suspend authorized gaming operator
+-5-
+
+LB421 LB421
+2025 2025
+1 licenses and all other types of gaming licenses based upon reasonable
+2 criteria and procedures established by the commission to facilitate the
+3 integrity, productivity, and lawful conduct of gaming within the state;
+4 (8) Grant or deny for cause applications for authorized gaming
+5 operator licenses of not less than twenty years in duration, subject to
+6 an annual review by the commission and receipt by the commission of a
+7 fifty-thousand-dollar annual review fee, with no more than one such
+8 authorized gaming operator license granted for any licensed racetrack
+9 enclosure within the state;
+10 (9) Conduct background investigations of applicants for authorized
+11 gaming operator licenses and all other types of gaming licenses;
+12 (10) Adopt and promulgate rules and regulations for the standards of
+13 manufacture of gaming equipment;
+14 (11) Inspect the operation of any authorized gaming operator
+15 conducting games of chance for the purpose of certifying the revenue
+16 thereof and receiving complaints from the public;
+17 (12) Issue subpoenas for the attendance of witnesses or the
+18 production of any records, books, memoranda, documents, or other papers
+19 or things at or prior to any hearing as is necessary to enable the
+20 commission to effectively discharge its duties;
+21 (13) Administer oaths or affirmations as necessary to carry out the
+22 act;
+23 (14) Have the authority to impose, subject to judicial review,
+24 appropriate administrative fines and penalties for each violation of the
+25 act or any rules and regulations adopted and promulgated pursuant to the
+26 act in an amount not to exceed:
+27 (a) For any licensed racetrack enclosure with an authorized gaming
+28 operator operating games of chance for one year or less, fifty thousand
+29 dollars per violation; or
+30 (b) For any licensed racetrack enclosure with an authorized gaming
+31 operator operating games of chance for more than one year, three times
+-6-
+
+LB421 LB421
+2025 2025
+1 the highest daily amount of gross receipts derived from wagering on games
+2 of chance during the twelve months preceding the violation at such
+3 licensed racetrack enclosure gaming facility per violation;
+4 (15) Collect and remit administrative fines and penalties collected
+5 under this section to the State Treasurer for distribution in accordance
+6 with Article VII, section 5, of the Constitution of Nebraska;
+7 (16) Adopt and promulgate rules and regulations for any gaming taxes
+8 assessed to authorized gaming operators;
+9 (17) Collect and account for any gaming taxes assessed to authorized
+10 gaming operators and remit such taxes to the State Treasurer or county
+11 treasurer as required by Nebraska law;
+12 (18) Promote treatment of gaming-related behavioral disorders;
+13 (19) Establish procedures for the governance of the commission;
+14 (20) Acquire necessary offices, facilities, counsel, and staff;
+15 (21) Establish procedures for an applicant for a staff position to
+16 disclose conflicts of interest as part of the application for employment;
+17 (22) Establish a process to allow a person to be voluntarily
+18 excluded from wagering in any game of chance under the act in accordance
+19 with section 9-1118;
+20 (23) Remit all license and application fees collected under the
+21 Nebraska Racetrack Gaming Act to the State Treasurer for credit to the
+22 Racing and Gaming Commission's Racetrack Gaming Fund;
+23 (24) Conduct or cause to be conducted a statewide horseracing market
+24 analysis to study the racing market as it currently exists across the
+25 state and within the locations in Nebraska of the racetracks in Adams,
+26 Dakota, Douglas, Hall, Lancaster, and Platte counties as of the date of
+27 the market analysis. Such market analysis shall be completed as soon as
+28 practicable but not later than January 1, 2025, and every five years
+29 thereafter and shall be submitted electronically to the General Affairs
+30 Committee of the Legislature and to the Governor. Such market analysis
+31 shall examine the market potential and make recommendations involving:
+-7-
+
+LB421 LB421
+2025 2025
+1 (a) The number of live racing days per track, number of races run,
+2 and number of horses that should be entered per race;
+3 (b) The number of Nebraska-bred horses available in the market for
+4 running races, including foals dropped in the state for the past three
+5 years at the time of the market analysis;
+6 (c) The circuit scheduled in the state and if any overlapping dates
+7 would be beneficial to the circuit and market as a whole;
+8 (d) The total number of horses available for the total annual
+9 schedule, with separate analysis for thoroughbred races and quarterhorse
+10 races;
+11 (e) The purse money available per race and per track;
+12 (f) The strength of the potential and ongoing simulcast market;
+13 (g) The staffing patterns and problems that exist at each track,
+14 including unfilled positions;
+15 (h) The positive and negative effects, including financial, on each
+16 existing racetrack at the time of the market analysis in the event the
+17 commission approves a new racetrack application;
+18 (i) The potential to attract new owners and horses from other
+19 states;
+20 (j) The market potential for expansion at each licensed racetrack
+21 enclosure to the live race meet days and the number of live horseraces
+22 required by section 2-1205, and the room for expansion, if any, for
+23 additional licensed racetrack enclosures into the market in Nebraska and
+24 the locations most suitable for such expansion; and
+25 (k) Any other data and analysis required by the commission;
+26 (25) Conduct or cause to be conducted a statewide casino gaming
+27 market analysis study across the state and within each location of a
+28 racetrack in Adams, Dakota, Douglas, Hall, Lancaster, and Platte
+29 counties. Such market analysis study shall be completed as soon as
+30 practicable but not later than January 1, 2025, and every five years
+31 thereafter and shall be submitted electronically to the General Affairs
+-8-
+
+LB421 LB421
+2025 2025
+1 Committee of the Legislature and to the Governor. The market analysis
+2 study shall include:
+3 (a) A comprehensive assessment of the potential casino gaming market
+4 conditions;
+5 (b) An evaluation of the effects on the Nebraska market from
+6 competitive casino gaming locations outside of the state;
+7 (c) Information identifying underperforming or underserved markets
+8 within Nebraska;
+9 (d) A comprehensive study of potential casino gaming revenue in
+10 Nebraska; and
+11 (e) Any other data and analysis required by the commission;
+12 (26) Conduct or cause to be conducted a statewide socioeconomic-
+13 impact study of horseracing and casino gaming across the state and at
+14 each licensed racetrack enclosure and gaming facility in Adams, Dakota,
+15 Douglas, Hall, Lancaster, and Platte counties. Such socioeconomic-impact
+16 study shall be completed as soon as practicable but not later than
+17 January 1, 2025, and shall be submitted electronically to the General
+18 Affairs Committee of the Legislature and to the Governor. The study shall
+19 include:
+20 (a) Information on financial and societal impacts of horseracing and
+21 casino gaming, including crime and local businesses;
+22 (b) An analysis of problem gambling within the state; and
+23 (c) A comparison of the economy of counties which contain a licensed
+24 racetrack enclosure operating games of chance and counties which do not
+25 contain such a licensed racetrack enclosure as of the date of the study,
+26 which comparison shall include:
+27 (i) The population of such counties;
+28 (ii) Jobs created by each licensed racetrack enclosure operating
+29 games of chance in such counties;
+30 (iii) Unemployment rates in such counties;
+31 (iv) Information on family and household income in such counties;
+-9-
+
+LB421 LB421
+2025 2025
+1 (v) Retail sales in such counties;
+2 (vi) Property values in such counties;
+3 (vii) An analysis of the impact on community services, including
+4 police protection expenditures, fire protection expenditures, road,
+5 bridge, and sidewalk expenditures, and capital project expenditures in
+6 such counties;
+7 (viii) Impact on community health in such counties;
+8 (ix) Divorce rates in such counties;
+9 (x) Information on available education and education levels in such
+10 counties;
+11 (xi) Life expectancy in such counties;
+12 (xii) Homelessness in such counties; and
+13 (xiii) Any other data and analysis required by the commission;
+14 (27) Approve or deny an application for any licensed racetrack
+15 enclosure which is not in existence or operational as of April 20, 2022,
+16 or any licensed racetrack enclosure in existence and operational as of
+17 November 1, 2020, that applies to move such licensed racetrack enclosure
+18 pursuant to section 2-1205, on the basis of the placement and location of
+19 such licensed racetrack enclosure and based on the market as it exists as
+20 of the most recent issuance of the statewide horseracing market analysis,
+21 statewide casino gaming market analysis, and statewide socioeconomic-
+22 impact studies conducted by the commission pursuant to this section. The
+23 commission shall deny a licensed racetrack enclosure or gaming operator
+24 license application if it finds that approval of such application in such
+25 placement and location would be detrimental to the racing or gaming
+26 market that exists across the state based on the most recent statewide
+27 horseracing market analysis, statewide casino gaming market analysis, and
+28 statewide socioeconomic-impact studies;
+29 (28) Do all things necessary and proper to carry out its powers and
+30 duties under the Nebraska Racetrack Gaming Act, including the adoption
+31 and promulgation of rules and regulations and such other actions as
+-10-
+
+LB421 LB421
+2025 2025
+1 permitted by the Administrative Procedure Act;
+2 (29) Recommend to the Governor and to the General Affairs Committee
+3 of the Legislature amendments to all laws administered by the commission;
+4 and
+5 (30) As appropriate and as recommended by the executive director of
+6 the commission, delegate to an adjudication subcommittee of the
+7 commission those powers and duties of the commission as necessary to
+8 carry out and effectuate the purposes of the Nebraska Racetrack Gaming
+9 Act and investigate and respond to violations of the Nebraska Racetrack
+10 Gaming Act. The adjudication subcommittee staff shall be appointed by the
+11 executive director. No person may be appointed to the adjudication
+12 subcommittee if such person is involved in the investigation of any
+13 violation being heard or investigated by the subcommittee. Any action of
+14 the adjudication subcommittee may be appealed to the commission or may be
+15 reviewed by the commission on its own initiative. The adjudication
+16 subcommittee may impose a fine, consistent with the Nebraska Racetrack
+17 Gaming Act, not to exceed fifteen thousand dollars, upon a finding that
+18 the act or any rule or regulation adopted and promulgated under the act
+19 has been violated. The commission shall remit any fines collected under
+20 this subdivision to the State Treasurer for distribution in accordance
+21 with Article VII, section 5, of the Constitution of Nebraska; and .
+22 (31) Examine rules and regulations from other states relating to
+23 online sports wagering and, if practicable, adopt a similar regulatory
+24 framework through the adoption and promulgation of rules and regulations
+25 for online sports wagering.
+26 Sec. 3. Section 9-1110, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 9-1110 (1)(a)(i) (1) The commission may permit an authorized gaming
+29 operator to conduct sports wagering. All sports wagering shall be
+30 conducted by an authorized gaming operator located within a licensed
+31 racetrack enclosure or in partnership with such authorized gaming
+-11-
+
+LB421 LB421
+2025 2025
+1 operator pursuant to subdivision (1)(b) of this section. Any sports wager
+2 shall be placed (A) in person or at a wagering kiosk in the designated
+3 sports wagering area at the licensed racetrack enclosure or (B) by means
+4 of an online sports wagering platform that is offered by or in
+5 partnership with an authorized gaming operator by an individual that is
+6 located in the State of Nebraska. Servers, including backup servers, used
+7 for online sports wagering may be located outside of this state, but to
+8 the extent required by federal law, an authorized gaming operator or
+9 platform provider shall maintain in this state the servers it uses to
+10 accept a sports wager placed by an individual located in this state.
+11 (ii) A parimutuel wager in accordance with sections 2-1201 to 2-1218
+12 may be placed in the designated sports wagering area at the licensed
+13 racetrack enclosure. An individual employed and authorized to accept a
+14 sports wager may also accept a parimutuel wager.
+15 (b)(i) An authorized gaming operator may conduct sports wagering by
+16 means of one online sports wagering platform and may contract with one
+17 platform provider for purposes of providing sports wagering. An
+18 individual or entity that does not have a contract with an authorized
+19 gaming operator to conduct sports wagering by means of an online sports
+20 wagering platform shall not be permitted to conduct sports wagering in
+21 the State of Nebraska. Any sports wagering conducted by means of an
+22 online sports wagering platform shall conform to all requirements
+23 relating to sports wagering pursuant to the Nebraska Racetrack Gaming Act
+24 and any rules or regulations adopted and promulgated pursuant to the act.
+25 (ii) An authorized gaming operator or a platform provider that has
+26 contracted with an authorized gaming operator shall submit controls to
+27 the commission for approval in a manner prescribed by the commission
+28 relating to any online sports wagering platform that the authorized
+29 gaming operator or the platform provider intends to use to conduct sports
+30 wagering by means of an online sports wagering platform. The commission
+31 shall announce a date on which it shall begin to accept controls relating
+-12-
+
+LB421 LB421
+2025 2025
+1 to online sports wagering platforms, which shall be no later than thirty
+2 days after the commission adopts and promulgates rules and regulations
+3 relating to online sports wagering. The commission shall have thirty days
+4 to review and approve or deny proposed controls submitted by an
+5 authorized gaming operator or a platform provider that has contracted
+6 with an authorized gaming operator. All authorized gaming operators or
+7 platform providers that have contracted with an authorized gaming
+8 operator that submit controls within thirty days of the date on which the
+9 commission first begins to accept controls, if such controls are
+10 approved, shall be given an equal opportunity to commence offering and
+11 conducting online sports wagering on the same day, which shall be no
+12 later than sixty days from the date that the commission first begins to
+13 accept controls. No authorized gaming operator or platform provider shall
+14 conduct sports wagering by means of an online sports wagering platform
+15 until the controls for such online sports wagering platform are approved
+16 by the commission.
+17 (2) A floor plan identifying the designated sports wagering area,
+18 including the location of any wagering kiosks, shall be filed with the
+19 commission for review and approval. Modification to a previously approved
+20 plan must be submitted for approval at least ten days prior to
+21 implementation. The area shall not be accessible to persons under twenty-
+22 one years of age and shall have a sign posted to restrict access.
+23 Exceptions to this subsection must be approved in writing by the
+24 commission.
+25 (3) The authorized gaming operator shall submit controls for
+26 approval by the commission, that include the following for operating the
+27 designated sports wagering area:
+28 (a) Specific procedures and technology partners to fulfill the
+29 requirements set forth by the commission;
+30 (b) Other specific controls as designated by the commission;
+31 (c) A process to easily and prominently impose limitations or
+-13-
+
+LB421 LB421
+2025 2025
+1 notification for wagering parameters, including, but not limited to,
+2 deposits and wagers; and
+3 (d) An easy and obvious method for a player to make a complaint and
+4 to enable the player to notify the commission if such complaint has not
+5 been or cannot be addressed by the sports wagering operator.
+6 (4) The commission shall develop policies and procedures to ensure a
+7 prohibited participant is unable to place a sports wager or parimutuel
+8 wager.
+9 (5) Beginning on the implementation date designated by the Tax
+10 Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+11 winnings payment of any sports wagering winnings as defined in section
+12 9-1303, an authorized gaming operator shall check the collection system
+13 to determine if the winner has a debt or an outstanding state tax
+14 liability as required by the Gambling Winnings Setoff for Outstanding
+15 Debt Act. If such authorized gaming operator determines that the winner
+16 is subject to the collection system, the operator shall deduct the amount
+17 of debt and outstanding state tax liability identified in the collection
+18 system from the winnings payment and shall remit the net winnings payment
+19 of sports wagering winnings, if any, to the winner and the amount
+20 deducted to the Department of Revenue to be credited against such debt or
+21 outstanding state tax liability as provided in section 9-1306.
+22 Sec. 4. Section 9-1204, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 9-1204 (1) Of the tax imposed by section 9-1203 on gross gaming
+25 revenue not generated by sports wagering, seventy-five percent shall be
+26 remitted to the State Treasurer for credit as follows: Two and one-half
+27 percent to the Compulsive Gamblers Assistance Fund, two and one-half
+28 percent to the General Fund, and seventy percent to the Property Tax
+29 Credit Cash Fund. The remaining twenty-five percent of the tax shall be
+30 remitted to the county treasurer of the county in which the licensed
+31 racetrack enclosure is located to be distributed as follows: (a) (1) If
+-14-
+
+LB421 LB421
+2025 2025
+1 the licensed racetrack enclosure is located completely within an
+2 unincorporated area of a county, the remaining twenty-five percent shall
+3 be distributed to the county in which such licensed racetrack enclosure
+4 is located; or (b) (2) if the licensed racetrack enclosure is located at
+5 least partially within the limits of a city or village in such county,
+6 one-half of the remaining twenty-five percent shall be distributed to
+7 such county and one-half of the remaining twenty-five percent to the city
+8 or village in which such licensed racetrack enclosure is at least
+9 partially located.
+10 (2) The tax imposed by section 9-1203 on gross gaming revenue
+11 generated by sports wagering shall be remitted to the State Treasurer for
+12 credit as follows: Three percent to the Compulsive Gamblers Assistance
+13 Fund, three and one-half percent to the Racing and Gaming Commission's
+14 Racetrack Gaming Fund, three and one-half percent to the Racing and
+15 Gaming Commission's Racing Cash Fund, and ninety percent to the Property
+16 Tax Credit Cash Fund.
+17 Sec. 5. This act becomes operative on September 1, 2025.
+18 Sec. 6. If any section in this act or any part of any section is
+19 declared invalid or unconstitutional, the declaration shall not affect
+20 the validity or constitutionality of the remaining portions.
+21 Sec. 7. Original section 9-1204, Reissue Revised Statutes of
+22 Nebraska, and sections 9-1103, 9-1106, and 9-1110, Revised Statutes
+23 Cumulative Supplement, 2024, are repealed.
+24 Sec. 8. Since an emergency exists, this act takes effect when
+25 passed and approved according to law.
+-15-
+
+[DELETED: yCAR S o N a s 9 9 a9r t t a a o g o t csttdo d t p s t r t o0s1B1L52]
+[DELETED: S 1 S 9 R S C S29( A g o m a p o e lp t t a t o g o c w a lr( A g o l m a l t oge0( E a o p i s ( o t1s a s e m a p s2e a c s e a i s e 3p4s5(6s e i w a i c o u t i 7p8s e a s e a t h s l o b9r o t a o a i p o a s0e1(2o a i s p a t c l f w3e r f p b a s a a4e5c6(7( D s w a m a a a a b8t9(0p1g1L52]
+[DELETED: woa(wt( I s e m a i t oio s g b i s e g b t0I O C a t I F o1A2(3a4a5h f p l a a a d b t6c7N8(9(0o i o v a ( d n h a c w h1m2(3h s o a t w a a g4o o i p p o c o o s5w t t I t p l w t S o6N7(8w9p0( ( P p m a i w1p1L52]
+[DELETED: ect ( A i p a w a a a o p ( apopp p o a o i s t e ioa0t c t o e i p a w o a1s2o p a i o ( a p i a3p f s w b a l p b a s4g5( ( R l m a l i f a l6r7( ( S w m t a o w o a8a9c S w i b i n l t d n0i1i a p i a s g o m o 2c3p4c5p6o7p8t9t0S 2 S 9 R S C S121L52]
+[DELETED: 9( L a r a g o f to o a g o c a p t t NR G A i a p a er a r g s a g oc(a e c p a f b a tp0a1a2(3o l a a o t o g l f o4p a f i t t o o g o c5i6e s f s a g o l7g8g9(0o a g o l a a o t o g1l t s a w s b p t t2c3( C f t a g o i a a4n5p6(7m d o e a g o f e l8r e p t t c T l f m b9p0t1( G d r a s a g o1L52]
+[DELETED: l a a o t o g l b u rci( G o d f c a f a goa a r b t c a r b t c o f a r f w n m t o sa g o l g f a l re0( C b i o a f a1g2(3m4( I t o o a a g o5c g o c f t p o c t r6t7( I s f t a o w o t8p9o t a o p t a h a i n t e t0c1(2a3( H t a t i s t j r4a5a6a7(8o9d0(1o1L52]
+[DELETED: to c d t t m p t v a sl(uw(a(0g1t2(3(4(5(6d7( E a p t a a p t b v8e9w0( R a l a a f c u t1N2R3(4a t s t r m a i c e a t5s6D7t8p b n l t J 1 2 a e f y9t0C1s1L52]
+[DELETED: (a(ry(w( T t n o h a f t t as0r1(2(3( T s p a p t e a e t4i5(6e7c8( T p t a n o a h f o9s0( T m p f e a e l r1e2r b s 2 a t r f e i a f3a4t5(6( C o c t b c a s c g7m a s a t s a w e l o 8r i A D D H L a P9c S m a s s b c a s a0p b n l t J 1 2 a e f y1t1L52]
+[DELETED: C o t L a t t G T m as(c( A e o t e o t N m fc( I i u o u mw( A c s o p c g r i0N1(2( C o c t b c a s s3i s o h a c g a t s a a4e5D6s s b c a s a p b n l t7J 1 2 a s b s e t t G8A9i0(1c2(3(4r5c6w7(8( J c b e l r e o9g0(1(1L52]
+[DELETED: ((( A a o t i o c s ip p e f p e rb a s e a c p e is(((0c1(2(3(4( A o d a a f a l r5e6o7N8p9s0o1s c g m a a s s2i3c4l5p a l w b d t t r o g6m7h8s9(0d u t N R G A i t a1a p o r a r a s o a a1L52]
+[DELETED: p(oa(t c d t a a s o tc t p a d o t c a n tcA0G1e d N p m b a t t a2s i s p i i i t i o a3v4t5r b t c o i o i T a6s m i a f c w t N R7G8t9h0t s t t S T f d i a1w2( E r a r f o s r t3o s w a i p a a s r4f5f6S 3 S 9 R S C S72899o t c s w A s w s b0c b a a g o l w a l1r e o i p w s a g1L52]
+[DELETED: osso a o s w p t i o b o iplft e r b f l a a g o op p s m i t s t s i u t0a1(2m b p i t d s w a a t l3r e A i e a a t a 4s5(6m7p p f p o p s w A8i o e t d n h a c w a a9g0w1t S o N A s w c b m o a2o s w p s c t a r3r4a5(6c w a a g o s s c t7t c f a i a m p b t c8r t a o s w p t t a9g0w1s1L52]
+[DELETED: td a t c a a p r a rrt r a a o d p c s b aa g o o a p p t h cw a a g o A a g o op p t h c w a a goc f b t a c i s c a0a1c o s w o t s d w s b n2l3a4c5u6b7( A f p i t d s w a8i9c0p m b s f a a l t d p t1i2o y o a a s h a s p t r a3E t t s m b a i w b t4c5( T a g o s s c f6a7d8( S p a t p t f t9r0(1( A p t e a p i l o1L52]
+[DELETED: n f w p i b n l td(tb(pw( B o t i d d b t T0C1w293t d i t w h a d o a o s t4l a r b t G W S f O5D6i7o8s9o s w w i a t t w a t a0d1o2S 4 S 9 R R S o N i3a49 ( O t t i b s 9 o g g5r6r7p t t C G A F t a o8p t t G F a s p t t P T9C0r t t c t o t c i w t l1r1L52]
+[DELETED: t l r e i l c w aubilo o t r t p s b d tso v i w s l r e i a lp0( T t i b s 9 o g g r1g2c a f T p t t C G A3F4R G F t a o p t t R a5G6T7S8S9d i o u t d s n a0t1S 7  O s 9 R R S o2N a s 9 9 a 9 R S3C4S 8  S a e e t a t e w5p1L52]

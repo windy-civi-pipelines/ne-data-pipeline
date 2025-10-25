@@ -1,0 +1,2836 @@
+Title: LEGISLATIVE BILL 131
+Official Title: LEGISLATIVE BILL 131
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+LB131 LB131
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Sorrentino, 39.
+Read first time January 13, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to the Nebraska educational savings plan
+2 trust; to amend sections 85-1801, 85-1802, 85-1804, 85-1805,
+3 85-1806, 85-1807, 85-1808, 85-1809, 85-1810, 85-1811, 85-1812,
+4 85-1813, 85-1814, 85-1815, 85-1816, 85-1817, 85-2802, 85-2803, and
+5 85-2804, Reissue Revised Statutes of Nebraska, and sections 68-1201,
+6 72-1239.01, 77-3,110, and 77-2716, Revised Statutes Cumulative
+7 Supplement, 2024; to include savings plans for elementary and
+8 secondary education in the Nebraska educational savings plan trust;
+9 to define and redefine terms; to transfer provisions; to harmonize
+10 provisions; to provide an operative date; and to repeal the original
+11 sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+LB131 LB131
+2025 2025
+1 Section 1. Section 68-1201, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 68-1201 (1) In determining eligibility for the program for aid to
+4 dependent children pursuant to section 43-512 as administered by the
+5 State of Nebraska pursuant to the federal Temporary Assistance for Needy
+6 Families program, 42 U.S.C. 601 et seq., for the low-income home energy
+7 assistance program administered by the State of Nebraska pursuant to the
+8 federal Energy Policy Act of 2005, 42 U.S.C. 8621 to 8630, for the
+9 Supplemental Nutrition Assistance Program administered by the State of
+10 Nebraska pursuant to the federal Food and Nutrition Act of 2008, 7 U.S.C.
+11 2011 et seq., and for the child care subsidy program established pursuant
+12 to section 68-1202, the following shall not be included in determining
+13 assets or income:
+14 (a) Assets in or income from an educational savings account, a
+15 Coverdell educational savings account described in 26 U.S.C. 530, a
+16 qualified tuition program established pursuant to 26 U.S.C. 529, or any
+17 similar savings account or plan established to save for qualified higher
+18 education expenses as defined in section 6 of this act 85-1802;
+19 (b) Income from scholarships or grants related to postsecondary
+20 education, whether merit-based, need-based, or a combination thereof;
+21 (c) Income from postsecondary educational work-study programs,
+22 whether federally funded, funded by a postsecondary educational
+23 institution, or funded from any other source;
+24 (d) Assets in or income from an account under a qualified program as
+25 provided in section 77-1402;
+26 (e) Income received for participation in grant-funded research on
+27 the impact that income has on the development of children in low-income
+28 families, except that such exclusion of income must not exceed four
+29 thousand dollars per year for a maximum of eight years and such exclusion
+30 shall only be made if the exclusion is permissible under federal law for
+31 each program referenced in this section. No such exclusion shall be made
+-2-
+LB131 LB131
+2025 2025
+1 for such income on or after December 31, 2026; and
+2 (f) Income from any tax credits received pursuant to the School
+3 Readiness Tax Credit Act.
+4 (2) In determining eligibility for the program for aid to dependent
+5 children pursuant to section 43-512 as administered by the State of
+6 Nebraska pursuant to the federal Temporary Assistance for Needy Families
+7 program, 42 U.S.C. 601 et seq., passed-through child support as described
+8 in section 43-512.07, shall not be included in determining assets or
+9 income.
+10 Sec. 2. Section 72-1239.01, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 72-1239.01 (1)(a) The appointed members of the council shall have
+13 the responsibility for the investment management of the assets of the
+14 retirement systems administered by the Public Employees Retirement Board
+15 as provided in section 84-1503, the assets of the Nebraska educational
+16 savings plan trust as provided in section 10 of this act created pursuant
+17 to sections 85-1801 to 85-1817, the assets of the achieving a better life
+18 experience program pursuant to sections 77-1401 to 77-1409, and beginning
+19 January 1, 2017, the assets of each retirement system provided for under
+20 the Class V School Employees Retirement Act. Except as provided in
+21 subsection (4) of this section, the appointed members shall be deemed
+22 fiduciaries with respect to the investment of the assets of the
+23 retirement systems, of the Nebraska educational savings plan trust, and
+24 of the achieving a better life experience program and shall be held to
+25 the standard of conduct of a fiduciary specified in subsection (3) of
+26 this section. The nonvoting, ex officio members of the council shall not
+27 be deemed fiduciaries.
+28 (b) As fiduciaries, the appointed members of the council and the
+29 state investment officer shall discharge their duties with respect to the
+30 assets of the retirement systems, of the Nebraska educational savings
+31 plan trust, and of the achieving a better life experience program solely
+-3-
+LB131 LB131
+2025 2025
+1 in the interests of the members and beneficiaries of the retirement
+2 systems or the interests of the participants and beneficiaries of the
+3 Nebraska educational savings plan trust and the achieving a better life
+4 experience program, as the case may be, for the exclusive purposes of
+5 providing benefits to members, members' beneficiaries, participants, and
+6 participants' beneficiaries and defraying reasonable expenses incurred
+7 within the limitations and according to the powers, duties, and purposes
+8 prescribed by law.
+9 (2)(a) The appointed members of the council shall have the
+10 responsibility for the investment management of the assets of state
+11 funds. The appointed members shall be deemed fiduciaries with respect to
+12 the investment of the assets of state funds and shall be held to the
+13 standard of conduct of a fiduciary specified in subsection (3) of this
+14 section. The nonvoting, ex officio members of the council shall not be
+15 deemed fiduciaries.
+16 (b) As fiduciaries, the appointed members of the council and the
+17 state investment officer shall discharge their duties with respect to the
+18 assets of state funds solely in the interests of the citizens of the
+19 state within the limitations and according to the powers, duties, and
+20 purposes prescribed by law.
+21 (3) The appointed members of the council shall act with the care,
+22 skill, prudence, and diligence under the circumstances then prevailing
+23 that a prudent person acting in like capacity and familiar with such
+24 matters would use in the conduct of an enterprise of a like character and
+25 with like aims by diversifying the investments of the assets of the
+26 retirement systems, the Nebraska educational savings plan trust, the
+27 achieving a better life experience program, and state funds so as to
+28 minimize risk of large losses, unless in light of such circumstances it
+29 is clearly prudent not to do so. No assets of the retirement systems, the
+30 Nebraska educational savings plan trust, or the achieving a better life
+31 experience program shall be invested or reinvested if the sole or primary
+-4-
+LB131 LB131
+2025 2025
+1 investment objective is for economic development or social purposes or
+2 objectives.
+3 (4) Neither the appointed members of the council nor the state
+4 investment officer shall be deemed fiduciaries with respect to
+5 investments of the assets of a retirement system provided for under the
+6 Class V School Employees Retirement Act made by or on behalf of the board
+7 of education as defined in section 79-978 or the board of trustees
+8 provided for in section 79-980. Neither the council nor any member
+9 thereof nor the state investment officer shall be liable for the action
+10 or inaction of the board of education or the board of trustees with
+11 respect to the investment of the assets of a retirement system provided
+12 for under the Class V School Employees Retirement Act, the consequences
+13 of any such action or inaction of the board of education or the board of
+14 trustees, and any claims, suits, losses, damages, fees, and costs related
+15 to such action or inaction or consequences thereof.
+16 Sec. 3. Section 77-3,110, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 77-3,110 (1) All funds received pursuant to sections 77-3,109 and
+19 77-3,118 shall be remitted to the State Treasurer for credit to the
+20 Department of Revenue Miscellaneous Receipts Fund which is hereby
+21 created.
+22 (2) On or before September 1, 2020, the State Treasurer shall
+23 transfer fifty-nine thousand five hundred dollars from the College
+24 Savings Plan Expense Fund to the Department of Revenue Miscellaneous
+25 Receipts Fund.
+26 (2) (3) All money in the Department of Revenue Miscellaneous
+27 Receipts Fund shall be administered by the Department of Revenue and
+28 shall be used as follows: (a) Any money transferred to the fund under
+29 subsection (2) of this section shall be used by the Department of Revenue
+30 to defray the costs incurred to implement Laws 2020, LB1042; and (b) All
+31 other funds shall be used to defray the cost of production of the
+-5-
+LB131 LB131
+2025 2025
+1 publications listed in section 77-3,109 or of the listings described in
+2 section 77-3,118 and to carry out any administrative responsibilities of
+3 the department.
+4 (3) (4) Transfers may be made from the fund to the General Fund at
+5 the direction of the Legislature. Any money in the Department of Revenue
+6 Miscellaneous Receipts Fund available for investment shall be invested by
+7 the state investment officer pursuant to the Nebraska Capital Expansion
+8 Act and the Nebraska State Funds Investment Act.
+9 Sec. 4. Section 77-2716, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 77-2716 (1) The following adjustments to federal adjusted gross
+12 income or, for corporations and fiduciaries, federal taxable income shall
+13 be made for interest or dividends received:
+14 (a)(i) There shall be subtracted interest or dividends received by
+15 the owner of obligations of the United States and its territories and
+16 possessions or of any authority, commission, or instrumentality of the
+17 United States to the extent includable in gross income for federal income
+18 tax purposes but exempt from state income taxes under the laws of the
+19 United States; and
+20 (ii) There shall be subtracted interest received by the owner of
+21 obligations of the State of Nebraska or its political subdivisions or
+22 authorities which are Build America Bonds to the extent includable in
+23 gross income for federal income tax purposes;
+24 (b) There shall be subtracted that portion of the total dividends
+25 and other income received from a regulated investment company which is
+26 attributable to obligations described in subdivision (a) of this
+27 subsection as reported to the recipient by the regulated investment
+28 company;
+29 (c) There shall be added interest or dividends received by the owner
+30 of obligations of the District of Columbia, other states of the United
+31 States, or their political subdivisions, authorities, commissions, or
+-6-
+LB131 LB131
+2025 2025
+1 instrumentalities to the extent excluded in the computation of gross
+2 income for federal income tax purposes except that such interest or
+3 dividends shall not be added if received by a corporation which is a
+4 regulated investment company;
+5 (d) There shall be added that portion of the total dividends and
+6 other income received from a regulated investment company which is
+7 attributable to obligations described in subdivision (c) of this
+8 subsection and excluded for federal income tax purposes as reported to
+9 the recipient by the regulated investment company; and
+10 (e)(i) Any amount subtracted under this subsection shall be reduced
+11 by any interest on indebtedness incurred to carry the obligations or
+12 securities described in this subsection or the investment in the
+13 regulated investment company and by any expenses incurred in the
+14 production of interest or dividend income described in this subsection to
+15 the extent that such expenses, including amortizable bond premiums, are
+16 deductible in determining federal taxable income.
+17 (ii) Any amount added under this subsection shall be reduced by any
+18 expenses incurred in the production of such income to the extent
+19 disallowed in the computation of federal taxable income.
+20 (2) There shall be allowed a net operating loss derived from or
+21 connected with Nebraska sources computed under rules and regulations
+22 adopted and promulgated by the Tax Commissioner consistent, to the extent
+23 possible under the Nebraska Revenue Act of 1967, with the laws of the
+24 United States. For a resident individual, estate, or trust, the net
+25 operating loss computed on the federal income tax return shall be
+26 adjusted by the modifications contained in this section. For a
+27 nonresident individual, estate, or trust or for a partial-year resident
+28 individual, the net operating loss computed on the federal return shall
+29 be adjusted by the modifications contained in this section and any
+30 carryovers or carrybacks shall be limited to the portion of the loss
+31 derived from or connected with Nebraska sources.
+-7-
+LB131 LB131
+2025 2025
+1 (3) There shall be subtracted from federal adjusted gross income for
+2 all taxable years beginning on or after January 1, 1987, the amount of
+3 any state income tax refund to the extent such refund was deducted under
+4 the Internal Revenue Code, was not allowed in the computation of the tax
+5 due under the Nebraska Revenue Act of 1967, and is included in federal
+6 adjusted gross income.
+7 (4) Federal adjusted gross income, or, for a fiduciary, federal
+8 taxable income shall be modified to exclude the portion of the income or
+9 loss received from a small business corporation with an election in
+10 effect under subchapter S of the Internal Revenue Code or from a limited
+11 liability company organized pursuant to the Nebraska Uniform Limited
+12 Liability Company Act that is not derived from or connected with Nebraska
+13 sources as determined in section 77-2734.01.
+14 (5) There shall be subtracted from federal adjusted gross income or,
+15 for corporations and fiduciaries, federal taxable income dividends
+16 received or deemed to be received from corporations which are not subject
+17 to the Internal Revenue Code.
+18 (6) There shall be subtracted from federal taxable income a portion
+19 of the income earned by a corporation subject to the Internal Revenue
+20 Code of 1986 that is actually taxed by a foreign country or one of its
+21 political subdivisions at a rate in excess of the maximum federal tax
+22 rate for corporations. The taxpayer may make the computation for each
+23 foreign country or for groups of foreign countries. The portion of the
+24 taxes that may be deducted shall be computed in the following manner:
+25 (a) The amount of federal taxable income from operations within a
+26 foreign taxing jurisdiction shall be reduced by the amount of taxes
+27 actually paid to the foreign jurisdiction that are not deductible solely
+28 because the foreign tax credit was elected on the federal income tax
+29 return;
+30 (b) The amount of after-tax income shall be divided by one minus the
+31 maximum tax rate for corporations in the Internal Revenue Code; and
+-8-
+LB131 LB131
+2025 2025
+1 (c) The result of the calculation in subdivision (b) of this
+2 subsection shall be subtracted from the amount of federal taxable income
+3 used in subdivision (a) of this subsection. The result of such
+4 calculation, if greater than zero, shall be subtracted from federal
+5 taxable income.
+6 (7) Federal adjusted gross income shall be modified to exclude any
+7 amount repaid by the taxpayer for which a reduction in federal tax is
+8 allowed under section 1341(a)(5) of the Internal Revenue Code.
+9 (8)(a) Federal adjusted gross income or, for corporations and
+10 fiduciaries, federal taxable income shall be reduced, to the extent
+11 included, by income from interest, earnings, and state contributions
+12 received from the Nebraska educational savings plan trust as provided
+13 created in sections 5 85-1801 to 20 of this act 85-1817 and any account
+14 established under the achieving a better life experience program as
+15 provided in sections 77-1401 to 77-1409.
+16 (b) Federal adjusted gross income or, for corporations and
+17 fiduciaries, federal taxable income shall be reduced by any contributions
+18 as a participant in the Nebraska educational savings plan trust or
+19 contributions to an account established under the achieving a better life
+20 experience program made for the benefit of a beneficiary as provided in
+21 sections 77-1401 to 77-1409, to the extent not deducted for federal
+22 income tax purposes, but not to exceed five thousand dollars per married
+23 filing separate return or ten thousand dollars for any other return. With
+24 respect to a qualified rollover within the meaning of section 529 of the
+25 Internal Revenue Code from another state's plan, any interest, earnings,
+26 and state contributions received from the other state's educational
+27 savings plan which is qualified under section 529 of the code shall
+28 qualify for the reduction provided in this subdivision. For contributions
+29 by a custodian of a custodial account including rollovers from another
+30 custodial account, the reduction shall only apply to funds added to the
+31 custodial account after January 1, 2014.
+-9-
+LB131 LB131
+2025 2025
+1 (c) For taxable years beginning or deemed to begin on or after
+2 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+3 federal adjusted gross income shall be reduced, to the extent included in
+4 the adjusted gross income of an individual, by the amount of any
+5 contribution made by the individual's employer into an account under the
+6 Nebraska educational savings plan trust owned by the individual, not to
+7 exceed five thousand dollars per married filing separate return or ten
+8 thousand dollars for any other return.
+9 (d) Federal adjusted gross income or, for corporations and
+10 fiduciaries, federal taxable income shall be increased by:
+11 (i) The amount resulting from the cancellation of a participation
+12 agreement refunded to the taxpayer as a participant in the Nebraska
+13 educational savings plan trust to the extent previously deducted under
+14 subdivision (8)(b) of this section; and
+15 (ii) The amount of any withdrawals by the owner of an account
+16 established under the achieving a better life experience program as
+17 provided in sections 77-1401 to 77-1409 for nonqualified expenses to the
+18 extent previously deducted under subdivision (8)(b) of this section.
+19 (9)(a) For income tax returns filed after September 10, 2001, for
+20 taxable years beginning or deemed to begin before January 1, 2006, under
+21 the Internal Revenue Code of 1986, as amended, federal adjusted gross
+22 income or, for corporations and fiduciaries, federal taxable income shall
+23 be increased by eighty-five percent of any amount of any federal bonus
+24 depreciation received under the federal Job Creation and Worker
+25 Assistance Act of 2002 or the federal Jobs and Growth Tax Act of 2003,
+26 under section 168(k) or section 1400L of the Internal Revenue Code of
+27 1986, as amended, for assets placed in service after September 10, 2001,
+28 and before December 31, 2005.
+29 (b) For a partnership, limited liability company, cooperative,
+30 including any cooperative exempt from income taxes under section 521 of
+31 the Internal Revenue Code of 1986, as amended, limited cooperative
+-10-
+LB131 LB131
+2025 2025
+1 association, subchapter S corporation, or joint venture, the increase
+2 shall be distributed to the partners, members, shareholders, patrons, or
+3 beneficiaries in the same manner as income is distributed for use against
+4 their income tax liabilities.
+5 (c) For a corporation with a unitary business having activity both
+6 inside and outside the state, the increase shall be apportioned to
+7 Nebraska in the same manner as income is apportioned to the state by
+8 section 77-2734.05.
+9 (d) The amount of bonus depreciation added to federal adjusted gross
+10 income or, for corporations and fiduciaries, federal taxable income by
+11 this subsection shall be subtracted in a later taxable year. Twenty
+12 percent of the total amount of bonus depreciation added back by this
+13 subsection for tax years beginning or deemed to begin before January 1,
+14 2003, under the Internal Revenue Code of 1986, as amended, may be
+15 subtracted in the first taxable year beginning or deemed to begin on or
+16 after January 1, 2005, under the Internal Revenue Code of 1986, as
+17 amended, and twenty percent in each of the next four following taxable
+18 years. Twenty percent of the total amount of bonus depreciation added
+19 back by this subsection for tax years beginning or deemed to begin on or
+20 after January 1, 2003, may be subtracted in the first taxable year
+21 beginning or deemed to begin on or after January 1, 2006, under the
+22 Internal Revenue Code of 1986, as amended, and twenty percent in each of
+23 the next four following taxable years.
+24 (10) For taxable years beginning or deemed to begin on or after
+25 January 1, 2003, and before January 1, 2006, under the Internal Revenue
+26 Code of 1986, as amended, federal adjusted gross income or, for
+27 corporations and fiduciaries, federal taxable income shall be increased
+28 by the amount of any capital investment that is expensed under section
+29 179 of the Internal Revenue Code of 1986, as amended, that is in excess
+30 of twenty-five thousand dollars that is allowed under the federal Jobs
+31 and Growth Tax Act of 2003. Twenty percent of the total amount of
+-11-
+LB131 LB131
+2025 2025
+1 expensing added back by this subsection for tax years beginning or deemed
+2 to begin on or after January 1, 2003, may be subtracted in the first
+3 taxable year beginning or deemed to begin on or after January 1, 2006,
+4 under the Internal Revenue Code of 1986, as amended, and twenty percent
+5 in each of the next four following tax years.
+6 (11)(a) For taxable years beginning or deemed to begin before
+7 January 1, 2018, under the Internal Revenue Code of 1986, as amended,
+8 federal adjusted gross income shall be reduced by contributions, up to
+9 two thousand dollars per married filing jointly return or one thousand
+10 dollars for any other return, and any investment earnings made as a
+11 participant in the Nebraska long-term care savings plan under the Long-
+12 Term Care Savings Plan Act, to the extent not deducted for federal income
+13 tax purposes.
+14 (b) For taxable years beginning or deemed to begin before January 1,
+15 2018, under the Internal Revenue Code of 1986, as amended, federal
+16 adjusted gross income shall be increased by the withdrawals made as a
+17 participant in the Nebraska long-term care savings plan under the act by
+18 a person who is not a qualified individual or for any reason other than
+19 transfer of funds to a spouse, long-term care expenses, long-term care
+20 insurance premiums, or death of the participant, including withdrawals
+21 made by reason of cancellation of the participation agreement, to the
+22 extent previously deducted as a contribution or as investment earnings.
+23 (12) There shall be added to federal adjusted gross income for
+24 individuals, estates, and trusts any amount taken as a credit for
+25 franchise tax paid by a financial institution under sections 77-3801 to
+26 77-3807 as allowed by subsection (5) of section 77-2715.07.
+27 (13)(a) For taxable years beginning or deemed to begin on or after
+28 January 1, 2015, and before January 1, 2024, under the Internal Revenue
+29 Code of 1986, as amended, federal adjusted gross income shall be reduced
+30 by the amount received as benefits under the federal Social Security Act
+31 which are included in the federal adjusted gross income if:
+-12-
+LB131 LB131
+2025 2025
+1 (i) For taxpayers filing a married filing joint return, federal
+2 adjusted gross income is fifty-eight thousand dollars or less; or
+3 (ii) For taxpayers filing any other return, federal adjusted gross
+4 income is forty-three thousand dollars or less.
+5 (b) For taxable years beginning or deemed to begin on or after
+6 January 1, 2020, and before January 1, 2024, under the Internal Revenue
+7 Code of 1986, as amended, the Tax Commissioner shall adjust the dollar
+8 amounts provided in subdivisions (13)(a)(i) and (ii) of this section by
+9 the same percentage used to adjust individual income tax brackets under
+10 subsection (3) of section 77-2715.03.
+11 (c) For taxable years beginning or deemed to begin on or after
+12 January 1, 2021, and before January 1, 2024, under the Internal Revenue
+13 Code of 1986, as amended, a taxpayer may claim the reduction to federal
+14 adjusted gross income allowed under this subsection or the reduction to
+15 federal adjusted gross income allowed under subsection (14) of this
+16 section, whichever provides the greater reduction.
+17 (14)(a) For taxable years beginning or deemed to begin on or after
+18 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+19 federal adjusted gross income shall be reduced by a percentage of the
+20 social security benefits that are received and included in federal
+21 adjusted gross income. The pertinent percentage shall be:
+22 (i) Five percent for taxable years beginning or deemed to begin on
+23 or after January 1, 2021, and before January 1, 2022, under the Internal
+24 Revenue Code of 1986, as amended;
+25 (ii) Forty percent for taxable years beginning or deemed to begin on
+26 or after January 1, 2022, and before January 1, 2023, under the Internal
+27 Revenue Code of 1986, as amended;
+28 (iii) Sixty percent for taxable years beginning or deemed to begin
+29 on or after January 1, 2023, and before January 1, 2024, under the
+30 Internal Revenue Code of 1986, as amended; and
+31 (iv) One hundred percent for taxable years beginning or deemed to
+-13-
+LB131 LB131
+2025 2025
+1 begin on or after January 1, 2024, under the Internal Revenue Code of
+2 1986, as amended.
+3 (b) For purposes of this subsection, social security benefits means
+4 benefits received under the federal Social Security Act.
+5 (c) For taxable years beginning or deemed to begin on or after
+6 January 1, 2021, and before January 1, 2024, under the Internal Revenue
+7 Code of 1986, as amended, a taxpayer may claim the reduction to federal
+8 adjusted gross income allowed under this subsection or the reduction to
+9 federal adjusted gross income allowed under subsection (13) of this
+10 section, whichever provides the greater reduction.
+11 (15)(a) For taxable years beginning or deemed to begin on or after
+12 January 1, 2015, and before January 1, 2022, under the Internal Revenue
+13 Code of 1986, as amended, an individual may make a one-time election
+14 within two calendar years after the date of his or her retirement from
+15 the military to exclude income received as a military retirement benefit
+16 by the individual to the extent included in federal adjusted gross income
+17 and as provided in this subdivision. The individual may elect to exclude
+18 forty percent of his or her military retirement benefit income for seven
+19 consecutive taxable years beginning with the year in which the election
+20 is made or may elect to exclude fifteen percent of his or her military
+21 retirement benefit income for all taxable years beginning with the year
+22 in which he or she turns sixty-seven years of age.
+23 (b) For taxable years beginning or deemed to begin on or after
+24 January 1, 2022, under the Internal Revenue Code of 1986, as amended, an
+25 individual may exclude one hundred percent of the military retirement
+26 benefit income received by such individual to the extent included in
+27 federal adjusted gross income.
+28 (c) For purposes of this subsection, military retirement benefit
+29 means retirement benefits that are periodic payments attributable to
+30 service in the uniformed services of the United States for personal
+31 services performed by an individual prior to his or her retirement. The
+-14-
+LB131 LB131
+2025 2025
+1 term includes retirement benefits described in this subdivision that are
+2 reported to the individual on either:
+3 (i) An Internal Revenue Service Form 1099-R received from the United
+4 States Department of Defense; or
+5 (ii) An Internal Revenue Service Form 1099-R received from the
+6 United States Office of Personnel Management.
+7 (16) For taxable years beginning or deemed to begin on or after
+8 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+9 federal adjusted gross income shall be reduced by the amount received as
+10 a Segal AmeriCorps Education Award, to the extent such amount is included
+11 in federal adjusted gross income.
+12 (17) For taxable years beginning or deemed to begin on or after
+13 January 1, 2022, under the Internal Revenue Code of 1986, as amended,
+14 federal adjusted gross income shall be reduced by the amount received by
+15 or on behalf of a firefighter for cancer benefits under the Firefighter
+16 Cancer Benefits Act to the extent included in federal adjusted gross
+17 income.
+18 (18) There shall be subtracted from the federal adjusted gross
+19 income of individuals any amount received by the individual as student
+20 loan repayment assistance under the Teach in Nebraska Today Act, to the
+21 extent such amount is included in federal adjusted gross income.
+22 (19) For taxable years beginning or deemed to begin on or after
+23 January 1, 2023, under the Internal Revenue Code of 1986, as amended, a
+24 retired individual who was employed full time as a firefighter or
+25 certified law enforcement officer for at least twenty years and who is at
+26 least sixty years of age as of the end of the taxable year may reduce his
+27 or her federal adjusted gross income by the amount of health insurance
+28 premiums paid by such individual during the taxable year, to the extent
+29 such premiums were not already deducted in determining the individual's
+30 federal adjusted gross income.
+31 (20) For taxable years beginning or deemed to begin on or after
+-15-
+LB131 LB131
+2025 2025
+1 January 1, 2024, under the Internal Revenue Code of 1986, as amended, an
+2 individual may reduce his or her federal adjusted gross income by the
+3 amounts received as annuities under the Civil Service Retirement System
+4 which were earned for being employed by the federal government, to the
+5 extent such amounts are included in federal adjusted gross income.
+6 (21) For taxable years beginning or deemed to begin on or after
+7 January 1, 2025, under the Internal Revenue Code of 1986, as amended, an
+8 individual who is a member of the Nebraska National Guard may exclude one
+9 hundred percent of the income received from any of the following sources
+10 to the extent such income is included in the individual's federal
+11 adjusted gross income:
+12 (a) Serving in a 32 U.S.C. duty status such as members attending
+13 drills, annual training, and military schools and members who are serving
+14 in a 32 U.S.C. active guard reserve or active duty for operational
+15 support duty status;
+16 (b) Employment as a 32 U.S.C. federal dual-status technician with
+17 the Nebraska National Guard; or
+18 (c) Serving in a state active duty status.
+19 (22)(a) For taxable years beginning or deemed to begin on or after
+20 January 1, 2024, under the Internal Revenue Code of 1986, as amended, an
+21 individual may reduce his or her federal adjusted gross income by the
+22 amount of interest and principal balance of medical debt discharged under
+23 the Medical Debt Relief Act, to the extent included in such individual's
+24 federal adjusted gross income.
+25 (b) For taxable years beginning or deemed to begin on or after
+26 January 1, 2024, under the Internal Revenue Code of 1986, as amended,
+27 federal adjusted gross income or, for corporations and fiduciaries,
+28 federal taxable income shall be reduced by the amount of contributions
+29 made to the Medical Debt Relief Fund, to the extent not deducted for
+30 federal income tax purposes.
+31 (23) For taxable years beginning or deemed to begin on or after
+-16-
+LB131 LB131
+2025 2025
+1 January 1, 2025, under the Internal Revenue Code of 1986, as amended, an
+2 individual who is a qualifying employee as defined in section 77-3108 may
+3 reduce his or her federal adjusted gross income by the amount allowed
+4 under section 77-3111.
+5 (24) For taxable years beginning or deemed to begin on or after
+6 January 1, 2026, under the Internal Revenue Code of 1986, as amended,
+7 federal adjusted gross income or, for corporations and fiduciaries,
+8 federal taxable income shall be reduced by the amounts allowed to be
+9 deducted pursuant to section 77-27,242.
+10 (25) There shall be added to federal adjusted gross income or, for
+11 corporations and fiduciaries, federal taxable income for all taxable
+12 years beginning on or after January 1, 2025, the amount of any net
+13 capital loss that is derived from the sale or exchange of gold or silver
+14 bullion to the extent such loss is included in federal adjusted gross
+15 income except that such loss shall not be added if the loss is derived
+16 from the sale of bullion as a taxable distribution from any retirement
+17 plan account that holds gold or silver bullion. For the purposes of this
+18 subsection, bullion has the same meaning as in section 77-2704.66.
+19 (26) There shall be subtracted from federal adjusted gross income
+20 or, for corporations and fiduciaries, federal taxable income for all
+21 taxable years beginning on or after January 1, 2025, the amount of any
+22 net capital gain that is derived from the sale or exchange of gold or
+23 silver bullion to the extent such gain is included in federal adjusted
+24 gross income except that such gain shall not be subtracted if the gain is
+25 derived from the sale of bullion as a taxable distribution from any
+26 retirement plan account that holds gold or silver bullion. For the
+27 purposes of this subsection, bullion has the same meaning as in section
+28 77-2704.66.
+29 Sec. 5. Section 85-1801, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 85-1801 The Legislature finds that the general welfare and well-
+-17-
+LB131 LB131
+2025 2025
+1 being of the state are directly related to educational levels and skills
+2 of the citizens of the state and that a vital and valid public purpose is
+3 served by the creation and implementation of programs which encourage and
+4 make possible the attainment of higher levels of education by the
+5 greatest number of citizens of the state. The state has limited resources
+6 to provide additional programs for higher education funding and the
+7 continued operation and maintenance of the state's public institutions of
+8 elementary, secondary, and postsecondary higher education, and the
+9 general welfare of the citizens of the state will be enhanced by
+10 establishing a program which allows parents and others interested in the
+11 higher education of our youth to invest money in a public trust for
+12 future application to the payment of qualified higher education expenses.
+13 The creation of the means of encouragement for persons to invest in such
+14 a program represents the carrying out of a vital and valid public
+15 purpose. In order to make available to parents and others interested in
+16 the higher education of our youth an opportunity to fund future higher
+17 education needs, it is necessary that a public trust be established in
+18 which money may be invested for future educational use.
+19 Sec. 6. Section 85-1802, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 85-1802 For purposes of sections 5 85-1801 to 20 of this act
+22 85-1817:
+23 (1) Administrative fund means the Education College Savings Plan
+24 Administrative Fund created in section 10 of this act 85-1807;
+25 (2) Beneficiary means the individual designated by a participation
+26 agreement to benefit from advance payments of qualified higher education
+27 expenses on behalf of the beneficiary;
+28 (3) Benefits means the payment of qualified higher education
+29 expenses on behalf of a beneficiary or, in the case of a qualified
+30 education loan payment, on behalf of a beneficiary or the sibling of a
+31 beneficiary by the Nebraska educational savings plan trust;
+-18-
+LB131 LB131
+2025 2025
+1 (4) Eligible postsecondary educational institution means an
+2 institution described in 20 U.S.C. 1088 which is eligible to participate
+3 in a program under Title IV of the federal Higher Education Act of 1965;
+4 (5) Expense fund means the Education College Savings Plan Expense
+5 Fund created in section 10 of this act 85-1807;
+6 (6) Nebraska educational savings plan trust means the trust created
+7 in section 7 of this act 85-1804;
+8 (7) Nonqualified withdrawal refers to (a) a distribution from an
+9 account to the extent it is not used to pay the qualified higher
+10 education expenses of the beneficiary or, in the case of a qualified
+11 education loan payment, to the extent it is not used to pay the qualified
+12 higher education expenses of the beneficiary or a sibling of the
+13 beneficiary or to the extent it does not constitute a rollover to a Roth
+14 individual retirement account as permitted by section 529 of the Internal
+15 Revenue Code , or (b) a qualified rollover permitted by section 529 of
+16 the Internal Revenue Code where the funds are transferred to a qualified
+17 tuition program sponsored by another state or entity , or (c) a
+18 distribution from an account to pay the costs of attending kindergarten
+19 through grade twelve;
+20 (8) Participant or account owner means an individual, an
+21 individual's legal representative, or any other legal entity authorized
+22 to establish a savings account under section 529 of the Internal Revenue
+23 Code who has entered into a participation agreement for the advance
+24 payment of qualified higher education expenses on behalf of a
+25 beneficiary. For purposes of section 77-2716, as to contributions by a
+26 custodian to a custodial account established pursuant to the Nebraska
+27 Uniform Transfers to Minors Act or similar law in another state, which
+28 account has been established under a participation agreement, participant
+29 includes the parent or guardian of a minor, which parent or guardian is
+30 also the custodian of the account;
+31 (9) Participation agreement means an agreement between a participant
+-19-
+LB131 LB131
+2025 2025
+1 and the Nebraska educational savings plan trust entered into under
+2 sections 5 85-1801 to 20 of this act 85-1817;
+3 (10) Program fund means the Education College Savings Plan Program
+4 Fund created in section 10 of this act 85-1807;
+5 (11) Qualified education loan payment means the payment of principal
+6 or interest on a qualified education loan as defined in 26 U.S.C. 221(d),
+7 as such section existed on January 1, 2022, of the beneficiary or a
+8 sibling of the beneficiary as described in 26 U.S.C. 152(d)(2)(B), as
+9 such section existed on January 1, 2022. For purposes of this
+10 subdivision, the aggregate total of qualified education loan payments for
+11 the qualified education loans of a single beneficiary or sibling shall
+12 not exceed ten thousand dollars for all taxable years combined. The
+13 aggregate total for qualified education loan payments for the qualified
+14 education loans of a sibling of a beneficiary shall be calculated with
+15 respect to such sibling and not with respect to the beneficiary and shall
+16 include all qualified education loan payments for loans of such sibling,
+17 including any qualified education loan payments for which such sibling is
+18 the beneficiary or the sibling of a beneficiary;
+19 (12)(a) (12) Qualified higher education expenses means:
+20 (i) The the certified costs of tuition, and fees, books, supplies,
+21 and equipment required (A) (a) for enrollment or attendance at an
+22 eligible postsecondary educational institution or (B) (b) for costs
+23 incurred on or after January 1, 2021, for participation in an
+24 apprenticeship program registered and certified with the United States
+25 Secretary of Labor under 29 U.S.C. 50, as such section existed on January
+26 1, 2021; .
+27 (ii) Reasonable room and board expenses, based on the minimum amount
+28 applicable for the eligible postsecondary educational institution during
+29 the period of enrollment , shall be included as qualified higher
+30 education expenses for those students enrolled on at least a half-time
+31 basis; .
+-20-
+LB131 LB131
+2025 2025
+1 (iii) In the case of a special needs beneficiary, expenses for
+2 special needs services incurred in connection with enrollment or
+3 attendance at an eligible postsecondary educational institution; shall be
+4 included as qualified higher education expenses.
+5 (iv) Expenses paid or incurred on or after January 1, 2022, for the
+6 purchase of computer technology or equipment or Internet access and
+7 related services in connection with enrollment or attendance at an
+8 eligible postsecondary educational institution, subject to the
+9 limitations set forth in section 529 of the Internal Revenue Code; ,
+10 shall be included as qualified higher education expenses.
+11 (v) Qualified higher education expenses includes qualified education
+12 loan payments; or .
+13 (vi) Expenses for tuition in connection with enrollment or
+14 attendance at an elementary or secondary school but does not include any
+15 amounts in excess of ten thousand dollars per beneficiary per taxable
+16 year.
+17 (b) Qualified higher education expenses does not include any amounts
+18 in excess of those allowed by section 529 of the Internal Revenue Code;
+19 (13) Section 529 of the Internal Revenue Code means such section of
+20 the code and the regulations interpreting such section; and
+21 (14) Tuition and fees means:
+22 (a) For purposes of an elementary or secondary school, the charges
+23 imposed for tuition in connection with enrollment or attendance at such
+24 elementary or secondary school; and
+25 (b) For purposes of an eligible postsecondary educational
+26 institution, the quarter or semester charges imposed to attend an
+27 eligible postsecondary educational institution.
+28 Sec. 7. Section 85-1804, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 85-1804 The Nebraska educational savings plan trust is created. The
+31 State Treasurer is the trustee of the trust and as such is responsible
+-21-
+LB131 LB131
+2025 2025
+1 for the administration, operation, and maintenance of the program and has
+2 all powers necessary to carry out and effectuate the purposes,
+3 objectives, and provisions of sections 5 85-1801 to 20 of this act
+4 85-1817 pertaining to the administration, operation, and maintenance of
+5 the trust and program, except that the state investment officer shall
+6 have fiduciary responsibility to make all decisions regarding the
+7 investment of the money in the administrative fund, expense fund, and
+8 program fund, including the selection of all investment options and the
+9 approval of all fees and other costs charged to trust assets except costs
+10 for administration, operation, and maintenance of the trust as
+11 appropriated by the Legislature, pursuant to the directions, guidelines,
+12 and policies established by the Nebraska Investment Council. The State
+13 Treasurer may adopt and promulgate rules and regulations to provide for
+14 the efficient administration, operation, and maintenance of the trust and
+15 program. The State Treasurer shall not adopt and promulgate rules and
+16 regulations that in any way interfere with the fiduciary responsibility
+17 of the state investment officer to make all decisions regarding the
+18 investment of money in the administrative fund, expense fund, and program
+19 fund. The State Treasurer or his or her designee shall have the power to:
+20 (1) Enter into agreements with any elementary or secondary school or
+21 eligible postsecondary educational institution, the state, any federal or
+22 other state agency, or any other entity to implement sections 5 85-1801
+23 to 20 of this act 85-1817, except agreements which pertain to the
+24 investment of money in the administrative fund, expense fund, or program
+25 fund;
+26 (2) Carry out the duties and obligations of the trust;
+27 (3) Carry out studies and projections to advise participants
+28 regarding present and estimated future qualified higher education
+29 expenses and levels of financial participation in the trust required in
+30 order to enable participants to achieve their educational funding
+31 objectives;
+-22-
+LB131 LB131
+2025 2025
+1 (4) Participate in any federal, state, or local governmental program
+2 for the benefit of the trust;
+3 (5) Procure insurance against any loss in connection with the
+4 property, assets, or activities of the trust as provided in section
+5 81-8,239.01;
+6 (6) Enter into participation agreements with participants;
+7 (7) Make payments to elementary or secondary schools or eligible
+8 postsecondary educational institutions pursuant to participation
+9 agreements on behalf of beneficiaries and make qualified education loan
+10 payments on behalf of beneficiaries or their siblings;
+11 (8) Make distributions to participants upon the termination of
+12 participation agreements pursuant to the provisions, limitations, and
+13 restrictions set forth in sections 5 85-1801 to 20 of this act 85-1817;
+14 (9) Contract for goods and services and engage personnel as
+15 necessary, including consultants, actuaries, managers, legal counsels,
+16 and auditors for the purpose of rendering professional, managerial, and
+17 technical assistance and advice regarding trust administration and
+18 operation, except contracts which pertain to the investment of the
+19 administrative, expense, or program funds; and
+20 (10) Establish, impose, and collect administrative fees and charges
+21 in connection with transactions of the trust, and provide for reasonable
+22 service charges, including penalties for cancellations and late payments
+23 with respect to participation agreements.
+24 The Nebraska Investment Council may adopt and promulgate rules and
+25 regulations to provide for the prudent investment of the assets of the
+26 trust. The council or its designee also has the authority to select and
+27 enter into agreements with individuals and entities to provide investment
+28 advice and management of the assets held by the trust, establish
+29 investment guidelines, objectives, and performance standards with respect
+30 to the assets held by the trust, and approve any fees, commissions, and
+31 expenses, which directly or indirectly affect the return on assets.
+-23-
+LB131 LB131
+2025 2025
+1 Sec. 8. Section 85-1805, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 85-1805 Any advertising or promotional materials relating to the
+4 Nebraska educational savings plan trust may include references to a
+5 public office but shall not refer to an officeholder by name.
+6 Sec. 9. Section 85-1806, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 85-1806 The Nebraska educational savings plan trust may enter into
+9 participation agreements with participants on behalf of beneficiaries
+10 pursuant to the following terms and conditions:
+11 (1) A participation agreement shall authorize a participant to make
+12 contributions to an account which is established for the purpose of
+13 meeting the qualified higher education expenses of a beneficiary as
+14 allowed by section 529 of the Internal Revenue Code. A participant shall
+15 not be required to make an annual contribution on behalf of a
+16 beneficiary, shall not be subject to minimum contribution requirements,
+17 and shall not be required to maintain a minimum account balance. The
+18 maximum contribution shall not exceed the amount allowed under section
+19 529 of the Internal Revenue Code. The State Treasurer may set a maximum
+20 cumulative contribution, as necessary, to maintain compliance with
+21 section 529 of the Internal Revenue Code. Participation agreements may be
+22 amended to provide for adjusted levels of contributions based upon
+23 changed circumstances or changes in educational plans or to ensure
+24 compliance with section 529 of the Internal Revenue Code or any other
+25 applicable laws and regulations;
+26 (2) Beneficiaries designated in participation agreements shall meet
+27 the requirements established by the trustee and section 529 of the
+28 Internal Revenue Code;
+29 (3) Payment of benefits provided under participation agreements
+30 shall be made in a manner consistent with section 529 of the Internal
+31 Revenue Code;
+-24-
+LB131 LB131
+2025 2025
+1 (4) The execution of a participation agreement by the trust shall
+2 not guarantee in any way that qualified higher education expenses will be
+3 equal to projections and estimates provided by the trust or that the
+4 beneficiary named in any participation agreement will (a) be admitted to
+5 an elementary or secondary school or eligible postsecondary educational
+6 institution, (b) if admitted, be determined a resident for tuition
+7 purposes by the elementary or secondary school or eligible postsecondary
+8 educational institution, (c) be allowed to continue attendance at the
+9 elementary or secondary school or eligible postsecondary educational
+10 institution following admission, or (d) graduate from the elementary or
+11 secondary school or eligible postsecondary educational institution;
+12 (5) A beneficiary under a participation agreement may be changed as
+13 permitted under the rules and regulations adopted under sections 5
+14 85-1801 to 20 of this act 85-1817 and consistent with section 529 of the
+15 Internal Revenue Code upon written request of the participant as long as
+16 the substitute beneficiary is eligible for participation. Participation
+17 agreements may otherwise be freely amended throughout their term in order
+18 to enable participants to increase or decrease the level of
+19 participation, change the designation of beneficiaries, and carry out
+20 similar matters as authorized by rule and regulation; and
+21 (6) Each participation agreement shall provide that the
+22 participation agreement may be canceled upon the terms and conditions and
+23 upon payment of applicable fees and costs set forth and contained in the
+24 rules and regulations.
+25 Sec. 10. Section 85-1807, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 85-1807 (1) The State Treasurer shall deposit money received by the
+28 Nebraska educational savings plan trust into three funds: The Education
+29 College Savings Plan Program Fund, the Education College Savings Plan
+30 Expense Fund, and the Education College Savings Plan Administrative Fund.
+31 The State Treasurer shall deposit money received by the trust into the
+-25-
+LB131 LB131
+2025 2025
+1 appropriate fund. The State Treasurer and Accounting Administrator of the
+2 Department of Administrative Services shall determine the state fund
+3 types necessary to comply with section 529 of the Internal Revenue Code
+4 and state policy. The money in the funds shall be invested by the state
+5 investment officer pursuant to policies established by the Nebraska
+6 Investment Council. The program fund, the expense fund, and the
+7 administrative fund shall be separately administered. The Nebraska
+8 educational savings plan trust shall be operated with no General Fund
+9 appropriations.
+10 (2) The Education College Savings Plan Program Fund is created. All
+11 money paid in connection with participation agreements and all investment
+12 income earned on such money shall be deposited as received into separate
+13 accounts within the program fund. Contributions to the trust may only be
+14 made in the form of cash. All funds generated in connection with
+15 participation agreements shall be deposited into the appropriate accounts
+16 within the program fund. A participant or beneficiary shall not provide
+17 investment direction regarding program contributions or earnings held by
+18 the trust. Money accrued in the program fund may be used for the benefit
+19 of a beneficiary for payments to any elementary or secondary school or
+20 eligible postsecondary educational institution , but shall not be used to
+21 pay expenses associated with attending kindergarten through grade twelve.
+22 Any money in the program fund available for investment shall be invested
+23 by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act.
+25 (3) The Education College Savings Plan Administrative Fund is
+26 created. Money from the trust transferred from the expense fund to the
+27 administrative fund in an amount authorized by an appropriation from the
+28 Legislature shall be utilized to pay for the costs of administering,
+29 operating, and maintaining the trust, to the extent permitted by section
+30 529 of the Internal Revenue Code. The administrative fund shall not be
+31 credited with any money other than money transferred from the expense
+-26-
+LB131 LB131
+2025 2025
+1 fund in an amount authorized by an appropriation by the Legislature or
+2 any interest income earned on the balances held in the administrative
+3 fund. Any money in the administrative fund available for investment shall
+4 be invested by the state investment officer pursuant to the Nebraska
+5 Capital Expansion Act and the Nebraska State Funds Investment Act.
+6 (4)(a) The Education College Savings Plan Expense Fund is created.
+7 The expense fund shall be funded with fees assessed to the program fund.
+8 The State Treasurer shall use the expense fund:
+9 (i) To pay costs associated with the Nebraska educational savings
+10 plan trust; and
+11 (ii) For the purposes described in the Meadowlark Act;
+12 (iii) On or before September 1, 2020, to transfer from the expense
+13 fund to the Department of Revenue Miscellaneous Receipts Fund fifty-nine
+14 thousand five hundred dollars to defray the costs incurred to implement
+15 Laws 2020, LB1042; and
+16 (iii) (iv) To transfer from the expense fund to the State Investment
+17 Officer's Cash Fund an amount equal to the pro rata share of the budget
+18 appropriated to the Nebraska Investment Council as permitted in section
+19 72-1249.02, to cover reasonable expenses incurred for investment
+20 management of the Nebraska educational savings plan trust. Annually and
+21 prior to such transfer to the State Investment Officer's Cash Fund, the
+22 State Treasurer shall report to the budget division of the Department of
+23 Administrative Services and to the Legislative Fiscal Analyst the amounts
+24 transferred during the previous fiscal year. The report submitted to the
+25 Legislative Fiscal Analyst shall be submitted electronically.
+26 (b) Any money in the expense fund available for investment shall be
+27 invested by the state investment officer pursuant to the Nebraska Capital
+28 Expansion Act and the Nebraska State Funds Investment Act.
+29 Sec. 11. Section 85-1808, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 85-1808 (1) A participant may cancel a participation agreement at
+-27-
+LB131 LB131
+2025 2025
+1 will by submitting a request to terminate the participation agreement.
+2 Additionally, if a participant requests and obtains a nonqualified
+3 withdrawal, the participation agreement shall be deemed canceled with
+4 respect to the amount of the nonqualified withdrawal. A participation
+5 agreement shall not be deemed canceled if a participant requests and
+6 obtains a distribution of his or her entire account balance for qualified
+7 higher education expenses and subsequently closes his or her account.
+8 Furthermore, the State Treasurer shall have the power to terminate,
+9 freeze, or suspend a participation agreement if he or she determines that
+10 the participant provided false or misleading information to the detriment
+11 of the Nebraska educational savings plan trust, if the participant's
+12 account has a zero balance, or if the State Treasurer is unable to verify
+13 the identity of the participant.
+14 (2) If a participation agreement is canceled for any of the causes
+15 listed in this subsection, the participant shall be entitled to receive
+16 the principal amount of all contributions made by the participant under
+17 the participation agreement plus the actual program fund investment
+18 income earned on the contributions, less any losses incurred on the
+19 investment, and such distribution will generally not be subject to
+20 federal tax penalty:
+21 (a) Death of the beneficiary if the distribution is paid to the
+22 estate of the beneficiary or transferred to another beneficiary as set
+23 forth in subsection (10) of section 12 of this act 85-1809;
+24 (b) Permanent disability or mental incapacity of the beneficiary;
+25 (c) The beneficiary is awarded a scholarship as defined in section
+26 529 of the Internal Revenue Code, but only to the extent the distribution
+27 of earnings does not exceed the scholarship amount; or
+28 (d) A qualified rollover is made as permitted by section 529 of the
+29 Internal Revenue Code, except that if a qualified rollover is made into a
+30 plan sponsored by another state or entity, the participation agreement
+31 shall be deemed to have been canceled for purposes of subdivision (8)(d)
+-28-
+LB131 LB131
+2025 2025
+1 of section 77-2716 and federal adjusted gross income shall be increased
+2 to the extent previously deducted as a contribution to the trust.
+3 (3) Notwithstanding any other provisions of this section, under no
+4 circumstances shall a participant or beneficiary receive a distribution
+5 that is more than the fair market value of the specific account on the
+6 applicable liquidation date.
+7 (4) If a participant cancels a participation agreement, obtains a
+8 rollover into a plan sponsored by another state or entity, or obtains a
+9 distribution, a portion of which constitutes a nonqualified withdrawal,
+10 the amount of the distribution, rollover, or withdrawal will be subject
+11 to recapture of previous Nebraska state income tax deductions as set
+12 forth in subdivision (8)(d) of section 77-2716. The transfer of assets
+13 among plans sponsored by the State of Nebraska shall be considered an
+14 investment option change and not a rollover.
+15 Sec. 12. Section 85-1809, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 85-1809 (1) A participant retains ownership of all contributions
+18 made under a participation agreement up to the date of utilization for
+19 payment of qualified higher education expenses for the beneficiary or, in
+20 the case of a qualified education loan payment, for the beneficiary or a
+21 sibling of the beneficiary. Notwithstanding any other provision of law,
+22 any amount credited to any account is not susceptible to any levy,
+23 execution, judgment, or other operation of law, garnishment, or other
+24 judicial enforcement, and the amount is not an asset or property of
+25 either the participant or the beneficiary for the purposes of any state
+26 insolvency or inheritance tax laws. All income derived from the
+27 investment of the contributions made by the participant shall be
+28 considered to be held in trust for the benefit of the beneficiary.
+29 (2) If the program created by sections 5 85-1801 to 20 of this act
+30 85-1817 is terminated prior to payment of qualified higher education
+31 expenses, the participant is entitled to receive the fair market value of
+-29-
+LB131 LB131
+2025 2025
+1 the account established in the program.
+2 (3) If the beneficiary graduates from an eligible postsecondary
+3 educational institution and a balance remains in the participant's
+4 account, any remaining funds may be used to make qualified education loan
+5 payments for siblings of the beneficiary or transferred as allowed by
+6 rule or regulation, subject to the provisions of section 529 of the
+7 Internal Revenue Code, as well as any other applicable state or federal
+8 laws or regulations.
+9 (4) The elementary or secondary school or eligible postsecondary
+10 educational institution shall obtain ownership of the payments made for
+11 the qualified higher education expenses paid to the institution at the
+12 time each payment is made to the institution.
+13 (5) Any amounts which may be paid to any person or persons pursuant
+14 to the Nebraska educational savings plan trust but which are not listed
+15 in this section are owned by the trust.
+16 (6) A participant may transfer ownership rights to another eligible
+17 participant, including a gift of the ownership rights to a minor
+18 beneficiary. The transfer shall be made and the property distributed in
+19 accordance with the rules and regulations or with the terms of the
+20 participation agreement.
+21 (7) A participant shall not be entitled to utilize any interest in
+22 the Nebraska educational savings plan trust as security for a loan.
+23 (8) The Nebraska educational savings plan trust may accept transfers
+24 of cash investments from a custodian under the Nebraska Uniform Transfers
+25 to Minors Act or any other similar laws under the terms and conditions
+26 established by the trustee.
+27 (9) A participant may designate a successor account owner to succeed
+28 to all of the participant's rights, title, and interest in an account,
+29 including the right to change the account beneficiary, upon the death or
+30 legal incapacity of the participant. If a participant dies or becomes
+31 legally incapacitated and has failed to name a successor account owner,
+-30-
+LB131 LB131
+2025 2025
+1 the account beneficiary shall become the account owner.
+2 (10) Upon the death of a beneficiary, the participant may change the
+3 beneficiary on the account, transfer assets to another beneficiary who is
+4 a member of the family of the former beneficiary, or request a
+5 nonqualified withdrawal.
+6 Sec. 13. Section 85-1810, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 85-1810 (1) A student loan program, student grant program, or other
+9 program administered by any agency of the state, except as may be
+10 otherwise provided by federal law or the provisions of any specific grant
+11 applicable to the federal law, shall not take into account and shall not
+12 consider amounts available for the payment of qualified higher education
+13 expenses pursuant to the Nebraska educational savings plan trust in
+14 determining need and eligibility for student aid.
+15 (2) A government program administered by any agency of the state
+16 that provides benefits or aid to individuals based on financial need,
+17 except as may be otherwise provided by federal law or the provisions of
+18 any specific grant applicable to the federal law, shall not take into
+19 account and shall not consider contributions made to a participant's
+20 account by the participant's employer in determining the income of such
+21 participant.
+22 Sec. 14. Section 85-1811, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 85-1811 (1) The State Treasurer shall submit an annual audited
+25 financial report, prepared in accordance with generally accepted
+26 accounting principles, on the operations of the Nebraska educational
+27 savings plan trust by November 1 to the Governor and the Legislature. The
+28 report submitted to the Legislature shall be submitted electronically.
+29 The State Treasurer shall cause the audit to be made either by the
+30 Auditor of Public Accounts or by an independent certified public
+31 accountant designated by the State Treasurer, and the audit shall include
+-31-
+LB131 LB131
+2025 2025
+1 direct and indirect costs attributable to the use of outside consultants,
+2 independent contractors, and any other persons who are not state
+3 employees.
+4 (2) The annual audit shall be supplemented by all of the following
+5 information prepared by the State Treasurer:
+6 (a) Any related studies or evaluations prepared in the preceding
+7 year;
+8 (b) A summary of the benefits provided by the trust, including the
+9 number of participants and beneficiaries in the trust; and
+10 (c) Any other information which is relevant in order to make a full,
+11 fair, and effective disclosure of the operations of the trust, including
+12 the investment performance of the funds.
+13 Sec. 15. Section 85-1812, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 85-1812 (1) For federal income tax purposes, the Nebraska
+16 educational savings plan trust shall be considered a qualified state
+17 tuition program exempt from taxation pursuant to section 529 of the
+18 Internal Revenue Code. The trust meets the requirements of section 529(b)
+19 of the Internal Revenue Code as follows:
+20 (a) Pursuant to section 9 of this act 85-1806, a participant may
+21 make contributions to an account which is established for the purpose of
+22 meeting the qualified higher education expenses of the designated
+23 beneficiary of the account or, in the case of a qualified education loan
+24 payment, the designated beneficiary of the account or a sibling of the
+25 designated beneficiary;
+26 (b) Pursuant to section 9 of this act 85-1806, a maximum
+27 contribution level is established;
+28 (c) Pursuant to section 10 of this act 85-1807, a separate account
+29 is established for each beneficiary;
+30 (d) Pursuant to section 10 of this act 85-1807, contributions may
+31 only be made in the form of cash;
+-32-
+LB131 LB131
+2025 2025
+1 (e) Pursuant to section 10 of this act 85-1807, a participant or
+2 beneficiary shall not provide investment direction regarding program
+3 contributions or earnings held by the trust;
+4 (f) Penalties are provided on distributions of earnings which are:
+5 (i) Not used for qualified higher education expenses of the beneficiary
+6 or, in the case of a qualified education loan payment, the beneficiary or
+7 a sibling of the beneficiary; (ii) made on account of the death of the
+8 designated beneficiary if the distribution is not transferred to another
+9 beneficiary or paid to the estate of the beneficiary; (iii) not made on
+10 account of the permanent disability or mental incapacity of the
+11 designated beneficiary; or (iv) made due to scholarship, allowance, or
+12 payment receipt in excess of the scholarship, allowance, or payment
+13 receipt; and
+14 (g) Pursuant to section 12 of this act 85-1809, a participant shall
+15 not pledge any interest in the trust as security for a loan.
+16 (2) State income tax treatment of the Nebraska educational savings
+17 plan trust shall be as provided in section 77-2716.
+18 (3) For purposes of federal gift and generation-skipping transfer
+19 taxes, contributions to an account are considered a completed gift from
+20 the contributor to the beneficiary.
+21 Sec. 16. Section 85-1813, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 85-1813 The assets of the Nebraska educational savings plan trust,
+24 including the program fund and excluding the administrative fund and the
+25 expense fund, shall at all times be preserved, invested, and expended
+26 solely and only for the purposes of the trust and shall be held in trust
+27 for the participants and beneficiaries. No property rights in the trust
+28 shall exist in favor of the state. Assets of the trust, including the
+29 program fund, the administrative fund, and the expense fund, shall not be
+30 transferred or used by the state for any purposes other than the purposes
+31 of the trust.
+-33-
+LB131 LB131
+2025 2025
+1 Sec. 17. Section 85-1814, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 85-1814 Nothing in sections 5 85-1801 to 16 of this act 85-1813
+4 shall be deemed to prohibit both resident and nonresident participants
+5 and designated beneficiaries from being eligible to participate in and
+6 benefit from the Nebraska educational savings plan trust and program. It
+7 is the intent of the Legislature that funds and income credited to the
+8 program fund are fully portable and may be used at any elementary or
+9 secondary school or eligible postsecondary educational institution.
+10 Sec. 18. Section 85-1815, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 85-1815 (1) The College Savings Incentive Cash Fund is created. The
+13 fund shall be administered by the State Treasurer and shall be used to
+14 provide incentive payments under the Employer Matching Contribution
+15 Incentive Program established in section 19 of this act 85-1816 and to
+16 provide matching scholarships under the College Savings Plan Low-Income
+17 Matching Scholarship Program established in section 20 of this act
+18 85-1817. The State Treasurer shall accept contributions from any private
+19 individual or private entity and shall credit all such contributions
+20 received to the College Savings Incentive Cash Fund for the purpose of
+21 providing an ongoing source of funding for the College Savings Plan Low-
+22 Income Matching Scholarship Program. The matching contributions for which
+23 incentive payments are made under the Employer Matching Contribution
+24 Incentive Program and the matching scholarships provided under the
+25 College Savings Plan Low-Income Matching Scholarship Program shall not be
+26 used to pay expenses associated with attending kindergarten through grade
+27 twelve.
+28 (2) The College Savings Incentive Cash Fund shall not be considered
+29 an asset of the Nebraska educational savings plan trust.
+30 (3) Any money in the fund available for investment shall be invested
+31 by the state investment officer pursuant to the Nebraska Capital
+-34-
+LB131 LB131
+2025 2025
+1 Expansion Act and the Nebraska State Funds Investment Act.
+2 Sec. 19. Section 85-1816, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 85-1816 (1) The Employer Matching Contribution Incentive Program is
+5 created. The program shall begin on January 1, 2022, and shall be
+6 implemented and administered by the State Treasurer. The purpose of the
+7 program is to encourage employers to make matching contributions by
+8 providing incentive payments for such contributions.
+9 (2) For purposes of this section:
+10 (a) Employer means any individual, partnership, limited liability
+11 company, association, corporation, business trust, legal representative,
+12 or organized group of persons employing one or more employees at any one
+13 time, but such term does not include the United States, the state, or any
+14 political subdivision thereof; and
+15 (b) Matching contribution means a contribution made by an employer
+16 to an account established under the Nebraska educational savings plan
+17 trust in an amount matching all or part of a contribution made to that
+18 same account by an individual who resided in the State of Nebraska during
+19 the most recently completed taxable year and is an employee of such
+20 employer.
+21 (3) Beginning January 1, 2022, an employer shall be eligible to
+22 receive an incentive payment under this section if the employer made
+23 matching contributions during the immediately preceding calendar year.
+24 (4) In order to receive an incentive payment under this section, an
+25 employer shall submit an application to the State Treasurer on forms
+26 prescribed by the State Treasurer. The State Treasurer shall accept
+27 applications from January 1 to June 1 of each year beginning in 2022. The
+28 application shall include:
+29 (a) The number of employees for whom matching contributions were
+30 made in the immediately preceding calendar year;
+31 (b) The amount of the matching contributions made in the immediately
+-35-
+LB131 LB131
+2025 2025
+1 preceding calendar year for each employee; and
+2 (c) Any other information required by the State Treasurer.
+3 (5) If the State Treasurer determines that the employer qualifies
+4 for an incentive payment under this section, the State Treasurer shall
+5 approve the application and shall notify the employer of the approval.
+6 The State Treasurer may approve applications until the annual limit
+7 provided in subsection (6) of this section has been reached. An employer
+8 whose application is approved shall receive an incentive payment equal to
+9 twenty-five percent of the total matching contributions made during the
+10 immediately preceding calendar year, not to exceed two thousand dollars
+11 per contributing employee per year. An employer shall not receive an
+12 incentive payment for a matching contribution if the employer claimed an
+13 income tax deduction pursuant to subdivision (8)(b) of section 77-2716
+14 for such matching contribution. Employers shall be limited to one
+15 incentive payment per beneficiary. The matching contributions for which
+16 incentive payments are made shall not be used to pay expenses associated
+17 with attending kindergarten through grade twelve.
+18 (6) The State Treasurer may approve a total of two hundred fifty
+19 thousand dollars of incentive payments each calendar year.
+20 (7) On or before June 30, 2022, and on or before June 30 of each
+21 year thereafter, the State Treasurer shall determine the total amount of
+22 incentive payments approved for the year, shall transfer such amount from
+23 the Education College Savings Plan Expense Fund or the Unclaimed Property
+24 Trust Fund, as determined by the State Treasurer, to the College Savings
+25 Incentive Cash Fund, and shall distribute such incentive payments to the
+26 approved employers.
+27 (8) The State Treasurer may adopt and promulgate rules and
+28 regulations to carry out the Employer Matching Contribution Incentive
+29 Program.
+30 Sec. 20. Section 85-1817, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-36-
+LB131 LB131
+2025 2025
+1 85-1817 (1) Beginning January 1, 2022, there is hereby established
+2 the College Savings Plan Low-Income Matching Scholarship Program. The
+3 purpose of the program is to encourage private contributions to accounts
+4 established under the Nebraska educational savings plan trust for the
+5 benefit of individuals with limited means. The State Treasurer shall
+6 implement and administer the program.
+7 (2) A participant shall be eligible for the program if the
+8 beneficiary for whom private contributions are made is part of a family
+9 whose household income for the most recently completed taxable year is
+10 not more than two hundred fifty percent of the federal poverty level and
+11 the beneficiary is a resident of the State of Nebraska.
+12 (3) Applications for participation in the program shall be submitted
+13 to the State Treasurer on forms prescribed by the State Treasurer. If the
+14 requirements of subsection (2) of this section are met, the State
+15 Treasurer shall approve the application and notify the applicant of the
+16 approval. The State Treasurer may approve applications until the annual
+17 limit provided in subsection (7) of this section has been reached.
+18 (4) Any participant who is approved for the program under subsection
+19 (3) of this section must resubmit an application each year thereafter and
+20 be reapproved in order to continue participation in the program.
+21 (5) If a participant is approved for the program, any contribution
+22 made by such participant under the program shall be matched with
+23 scholarship funds provided by the State of Nebraska. The matching
+24 scholarship shall be equal to:
+25 (a) One hundred percent of the participant's contribution if the
+26 beneficiary for whom the contribution is made is part of a family whose
+27 household income for the most recently completed taxable year is more
+28 than two hundred percent of the federal poverty level but not more than
+29 two hundred fifty percent of the federal poverty level, not to exceed one
+30 thousand dollars annually; or
+31 (b) Two hundred percent of the participant's contribution if the
+-37-
+LB131 LB131
+2025 2025
+1 beneficiary for whom the contribution is made is part of a family whose
+2 household income for the most recently completed taxable year is not more
+3 than two hundred percent of the federal poverty level, not to exceed one
+4 thousand dollars annually.
+5 (6) Between January 1 and January 31 of each year, the State
+6 Treasurer shall transfer the amount necessary to meet the matching
+7 obligations of this section for the preceding calendar year, minus the
+8 amount of any private contributions received pursuant to subsection (1)
+9 of section 18 of this act 85-1815 during the preceding calendar year,
+10 from the Education College Savings Plan Expense Fund or the Unclaimed
+11 Property Trust Fund, as determined by the State Treasurer, to the College
+12 Savings Incentive Cash Fund. The State Treasurer shall transfer from the
+13 College Savings Incentive Cash Fund to the Education College Savings Plan
+14 Program Fund the amount necessary to meet the matching obligations of
+15 this section for the preceding calendar year. The Nebraska educational
+16 savings plan trust shall own all scholarships awarded under this section.
+17 Neither the participant nor the beneficiary shall have any ownership
+18 rights to or interest in, title to, or power or control over such
+19 scholarships. Scholarship funds disbursed shall only be used to pay the
+20 qualified higher education expenses associated with attending an eligible
+21 postsecondary educational institution located in this state and shall not
+22 be used to pay expenses associated with attending kindergarten through
+23 grade twelve. Any disbursement of such scholarships shall be made before
+24 the beneficiary reaches thirty years of age. Once the beneficiary reaches
+25 thirty years of age, any unused scholarship funds shall be transferred to
+26 the Meadowlark Endowment Fund.
+27 (7) The State Treasurer may approve a total of two hundred fifty
+28 thousand dollars of scholarships each calendar year under the College
+29 Savings Plan Low-Income Matching Scholarship Program.
+30 Sec. 21. Section 85-2802, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-38-
+LB131 LB131
+2025 2025
+1 85-2802 For purposes of the Meadowlark Act:
+2 (1) Contribution means a donation which is made for the purpose of
+3 providing a source of funding for the Meadowlark Program established in
+4 section 85-2804;
+5 (2) Eligible postsecondary educational institution has the same
+6 meaning as in section 6 of this act 85-1802;
+7 (3) Nebraska educational savings plan trust has the same meaning as
+8 in section 6 of this act 85-1802;
+9 (4) Qualified higher education expenses has the same meaning as in
+10 section 6 of this act 85-1802; and
+11 (5) Qualified individual means an individual born on or after
+12 January 1, 2020, who is a resident of this state at the time of birth.
+13 Sec. 22. Section 85-2803, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 85-2803 (1) There is hereby established in the state treasury a
+16 trust fund to be known as the Meadowlark Endowment Fund. The fund shall
+17 be administered by the State Treasurer and shall consist of qualified
+18 private contributions and any amounts appropriated or transferred to the
+19 fund by the Legislature. No General Funds shall be transferred to the
+20 Meadowlark Endowment Fund. Any money in the fund available for investment
+21 shall be invested by the state investment officer pursuant to the
+22 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+23 Act. No portion of the principal of the fund shall be expended for any
+24 purpose except investment pursuant to this subsection.
+25 (2) The State Treasurer may accept contributions and shall credit
+26 all such contributions received either to the Meadowlark Endowment Fund
+27 or to accounts opened under the Meadowlark Program, at the direction of
+28 the donor. Such contributions shall not be used to pay expenses
+29 associated with attending kindergarten through grade twelve.
+30 (3) On or before April 1 of each year, the State Treasurer shall
+31 determine the total amount of contributions received under subsection (2)
+-39-
+LB131 LB131
+2025 2025
+1 of this section in the previous calendar year and shall transfer an equal
+2 amount from the Education College Savings Plan Expense Fund or the
+3 Unclaimed Property Trust Fund, as determined by the State Treasurer, to
+4 the Meadowlark Endowment Fund or to accounts opened under the Meadowlark
+5 Program. For any amount transferred from the Education College Savings
+6 Plan Expense Fund or the Unclaimed Property Trust Fund that is not being
+7 transferred to the Meadowlark Endowment Fund, the State Treasurer shall
+8 evenly distribute such amount to the accounts opened under the Meadowlark
+9 Program in the previous calendar year.
+10 Sec. 23. Section 85-2804, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 85-2804 (1) The Meadowlark Program is created. The program shall be
+13 administered by the State Treasurer. The purpose of the program is to
+14 promote access to postsecondary educational opportunities by providing
+15 funds to qualified individuals to help pay the qualified higher education
+16 expenses associated with attendance at an eligible postsecondary
+17 educational institution located in this state.
+18 (2) Any qualified individual shall be eligible to participate in the
+19 Meadowlark Program. No later than March 1 of each year, the Department of
+20 Health and Human Services shall transmit information to the State
+21 Treasurer which is necessary to administer the program and to establish
+22 whether the children born in the previous calendar year are qualified
+23 individuals. Such information shall include, but not be limited to, the
+24 full name and residential address of each child's parent or legal
+25 guardian and the birthdate of each child. Costs associated with the
+26 transfer of information by the Department of Health and Human Services
+27 shall be paid from the Education College Savings Plan Expense Fund.
+28 (3) Following receipt of the information described in subsection (2)
+29 of this section, the State Treasurer shall send a notification explaining
+30 the Meadowlark Program to the parent or legal guardian of each qualified
+31 individual. The State Treasurer shall provide such parent or legal
+-40-
+LB131 LB131
+2025 2025
+1 guardian with the opportunity to exclude his or her child from the
+2 program. Any child who is not excluded shall be deemed to be enrolled in
+3 the program. Upon enrollment into the program, the child shall have an
+4 account opened for him or her under the Nebraska educational savings plan
+5 trust.
+6 (4) On or before April 1 of each year, the State Treasurer shall
+7 determine (a) the number of accounts opened under the Meadowlark Program
+8 in the previous calendar year and (b) the amount of investment income
+9 generated by the Meadowlark Endowment Fund in the previous calendar year.
+10 The State Treasurer shall evenly distribute the investment income from
+11 the previous calendar year to the accounts opened in the previous
+12 calendar year.
+13 (5) The Nebraska educational savings plan trust shall own all
+14 accounts opened under the Meadowlark Program. Neither the qualified
+15 individual nor his or her parent or legal guardian shall have any
+16 ownership rights or interest in, title to, or power or control over such
+17 an account.
+18 (6) Any disbursement from an account opened under the Meadowlark
+19 Program shall be made before the qualified individual reaches thirty
+20 years of age. Once a qualified individual reaches thirty years of age,
+21 any unused funds in his or her account shall be transferred to the
+22 Meadowlark Endowment Fund.
+23 (7) Funds disbursed from an account opened under the Meadowlark
+24 Program shall only be used to pay the qualified higher education expenses
+25 associated with attending an eligible postsecondary educational
+26 institution located in this state and shall not be used to pay expenses
+27 associated with attending kindergarten through grade twelve.
+28 (8) The State Treasurer shall take measures to ensure the security
+29 and confidentiality of the information received under subsection (2) of
+30 this section.
+31 Sec. 24. This act becomes operative on January 1, 2026.
+-41-
+LB131 LB131
+2025 2025
+1 Sec. 25. Original sections 85-1801, 85-1802, 85-1804, 85-1805,
+2 85-1806, 85-1807, 85-1808, 85-1809, 85-1810, 85-1811, 85-1812, 85-1813,
+3 85-1814, 85-1815, 85-1816, 85-1817, 85-2802, 85-2803, and 85-2804,
+4 Reissue Revised Statutes of Nebraska, and sections 68-1201, 72-1239.01,
+5 77-3,110, and 77-2716, Revised Statutes Cumulative Supplement, 2024, are
+6 repealed.
+-42-
+
+
+================================================================================
+
+Raw Text:
+LB131 LB131
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 131
+Introduced by Sorrentino, 39.
+Read first time January 13, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to the Nebraska educational savings plan
+2 trust; to amend sections 85-1801, 85-1802, 85-1804, 85-1805,
+3 85-1806, 85-1807, 85-1808, 85-1809, 85-1810, 85-1811, 85-1812,
+4 85-1813, 85-1814, 85-1815, 85-1816, 85-1817, 85-2802, 85-2803, and
+5 85-2804, Reissue Revised Statutes of Nebraska, and sections 68-1201,
+6 72-1239.01, 77-3,110, and 77-2716, Revised Statutes Cumulative
+7 Supplement, 2024; to include savings plans for elementary and
+8 secondary education in the Nebraska educational savings plan trust;
+9 to define and redefine terms; to transfer provisions; to harmonize
+10 provisions; to provide an operative date; and to repeal the original
+11 sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB131 LB131
+2025 2025
+1 Section 1. Section 68-1201, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 68-1201 (1) In determining eligibility for the program for aid to
+4 dependent children pursuant to section 43-512 as administered by the
+5 State of Nebraska pursuant to the federal Temporary Assistance for Needy
+6 Families program, 42 U.S.C. 601 et seq., for the low-income home energy
+7 assistance program administered by the State of Nebraska pursuant to the
+8 federal Energy Policy Act of 2005, 42 U.S.C. 8621 to 8630, for the
+9 Supplemental Nutrition Assistance Program administered by the State of
+10 Nebraska pursuant to the federal Food and Nutrition Act of 2008, 7 U.S.C.
+11 2011 et seq., and for the child care subsidy program established pursuant
+12 to section 68-1202, the following shall not be included in determining
+13 assets or income:
+14 (a) Assets in or income from an educational savings account, a
+15 Coverdell educational savings account described in 26 U.S.C. 530, a
+16 qualified tuition program established pursuant to 26 U.S.C. 529, or any
+17 similar savings account or plan established to save for qualified higher
+18 education expenses as defined in section 6 of this act 85-1802;
+19 (b) Income from scholarships or grants related to postsecondary
+20 education, whether merit-based, need-based, or a combination thereof;
+21 (c) Income from postsecondary educational work-study programs,
+22 whether federally funded, funded by a postsecondary educational
+23 institution, or funded from any other source;
+24 (d) Assets in or income from an account under a qualified program as
+25 provided in section 77-1402;
+26 (e) Income received for participation in grant-funded research on
+27 the impact that income has on the development of children in low-income
+28 families, except that such exclusion of income must not exceed four
+29 thousand dollars per year for a maximum of eight years and such exclusion
+30 shall only be made if the exclusion is permissible under federal law for
+31 each program referenced in this section. No such exclusion shall be made
+-2-
+
+LB131 LB131
+2025 2025
+1 for such income on or after December 31, 2026; and
+2 (f) Income from any tax credits received pursuant to the School
+3 Readiness Tax Credit Act.
+4 (2) In determining eligibility for the program for aid to dependent
+5 children pursuant to section 43-512 as administered by the State of
+6 Nebraska pursuant to the federal Temporary Assistance for Needy Families
+7 program, 42 U.S.C. 601 et seq., passed-through child support as described
+8 in section 43-512.07, shall not be included in determining assets or
+9 income.
+10 Sec. 2. Section 72-1239.01, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 72-1239.01 (1)(a) The appointed members of the council shall have
+13 the responsibility for the investment management of the assets of the
+14 retirement systems administered by the Public Employees Retirement Board
+15 as provided in section 84-1503, the assets of the Nebraska educational
+16 savings plan trust as provided in section 10 of this act created pursuant
+17 to sections 85-1801 to 85-1817, the assets of the achieving a better life
+18 experience program pursuant to sections 77-1401 to 77-1409, and beginning
+19 January 1, 2017, the assets of each retirement system provided for under
+20 the Class V School Employees Retirement Act. Except as provided in
+21 subsection (4) of this section, the appointed members shall be deemed
+22 fiduciaries with respect to the investment of the assets of the
+23 retirement systems, of the Nebraska educational savings plan trust, and
+24 of the achieving a better life experience program and shall be held to
+25 the standard of conduct of a fiduciary specified in subsection (3) of
+26 this section. The nonvoting, ex officio members of the council shall not
+27 be deemed fiduciaries.
+28 (b) As fiduciaries, the appointed members of the council and the
+29 state investment officer shall discharge their duties with respect to the
+30 assets of the retirement systems, of the Nebraska educational savings
+31 plan trust, and of the achieving a better life experience program solely
+-3-
+
+LB131 LB131
+2025 2025
+1 in the interests of the members and beneficiaries of the retirement
+2 systems or the interests of the participants and beneficiaries of the
+3 Nebraska educational savings plan trust and the achieving a better life
+4 experience program, as the case may be, for the exclusive purposes of
+5 providing benefits to members, members' beneficiaries, participants, and
+6 participants' beneficiaries and defraying reasonable expenses incurred
+7 within the limitations and according to the powers, duties, and purposes
+8 prescribed by law.
+9 (2)(a) The appointed members of the council shall have the
+10 responsibility for the investment management of the assets of state
+11 funds. The appointed members shall be deemed fiduciaries with respect to
+12 the investment of the assets of state funds and shall be held to the
+13 standard of conduct of a fiduciary specified in subsection (3) of this
+14 section. The nonvoting, ex officio members of the council shall not be
+15 deemed fiduciaries.
+16 (b) As fiduciaries, the appointed members of the council and the
+17 state investment officer shall discharge their duties with respect to the
+18 assets of state funds solely in the interests of the citizens of the
+19 state within the limitations and according to the powers, duties, and
+20 purposes prescribed by law.
+21 (3) The appointed members of the council shall act with the care,
+22 skill, prudence, and diligence under the circumstances then prevailing
+23 that a prudent person acting in like capacity and familiar with such
+24 matters would use in the conduct of an enterprise of a like character and
+25 with like aims by diversifying the investments of the assets of the
+26 retirement systems, the Nebraska educational savings plan trust, the
+27 achieving a better life experience program, and state funds so as to
+28 minimize risk of large losses, unless in light of such circumstances it
+29 is clearly prudent not to do so. No assets of the retirement systems, the
+30 Nebraska educational savings plan trust, or the achieving a better life
+31 experience program shall be invested or reinvested if the sole or primary
+-4-
+
+LB131 LB131
+2025 2025
+1 investment objective is for economic development or social purposes or
+2 objectives.
+3 (4) Neither the appointed members of the council nor the state
+4 investment officer shall be deemed fiduciaries with respect to
+5 investments of the assets of a retirement system provided for under the
+6 Class V School Employees Retirement Act made by or on behalf of the board
+7 of education as defined in section 79-978 or the board of trustees
+8 provided for in section 79-980. Neither the council nor any member
+9 thereof nor the state investment officer shall be liable for the action
+10 or inaction of the board of education or the board of trustees with
+11 respect to the investment of the assets of a retirement system provided
+12 for under the Class V School Employees Retirement Act, the consequences
+13 of any such action or inaction of the board of education or the board of
+14 trustees, and any claims, suits, losses, damages, fees, and costs related
+15 to such action or inaction or consequences thereof.
+16 Sec. 3. Section 77-3,110, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 77-3,110 (1) All funds received pursuant to sections 77-3,109 and
+19 77-3,118 shall be remitted to the State Treasurer for credit to the
+20 Department of Revenue Miscellaneous Receipts Fund which is hereby
+21 created.
+22 (2) On or before September 1, 2020, the State Treasurer shall
+23 transfer fifty-nine thousand five hundred dollars from the College
+24 Savings Plan Expense Fund to the Department of Revenue Miscellaneous
+25 Receipts Fund.
+26 (2) (3) All money in the Department of Revenue Miscellaneous
+27 Receipts Fund shall be administered by the Department of Revenue and
+28 shall be used as follows: (a) Any money transferred to the fund under
+29 subsection (2) of this section shall be used by the Department of Revenue
+30 to defray the costs incurred to implement Laws 2020, LB1042; and (b) All
+31 other funds shall be used to defray the cost of production of the
+-5-
+
+LB131 LB131
+2025 2025
+1 publications listed in section 77-3,109 or of the listings described in
+2 section 77-3,118 and to carry out any administrative responsibilities of
+3 the department.
+4 (3) (4) Transfers may be made from the fund to the General Fund at
+5 the direction of the Legislature. Any money in the Department of Revenue
+6 Miscellaneous Receipts Fund available for investment shall be invested by
+7 the state investment officer pursuant to the Nebraska Capital Expansion
+8 Act and the Nebraska State Funds Investment Act.
+9 Sec. 4. Section 77-2716, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 77-2716 (1) The following adjustments to federal adjusted gross
+12 income or, for corporations and fiduciaries, federal taxable income shall
+13 be made for interest or dividends received:
+14 (a)(i) There shall be subtracted interest or dividends received by
+15 the owner of obligations of the United States and its territories and
+16 possessions or of any authority, commission, or instrumentality of the
+17 United States to the extent includable in gross income for federal income
+18 tax purposes but exempt from state income taxes under the laws of the
+19 United States; and
+20 (ii) There shall be subtracted interest received by the owner of
+21 obligations of the State of Nebraska or its political subdivisions or
+22 authorities which are Build America Bonds to the extent includable in
+23 gross income for federal income tax purposes;
+24 (b) There shall be subtracted that portion of the total dividends
+25 and other income received from a regulated investment company which is
+26 attributable to obligations described in subdivision (a) of this
+27 subsection as reported to the recipient by the regulated investment
+28 company;
+29 (c) There shall be added interest or dividends received by the owner
+30 of obligations of the District of Columbia, other states of the United
+31 States, or their political subdivisions, authorities, commissions, or
+-6-
+
+LB131 LB131
+2025 2025
+1 instrumentalities to the extent excluded in the computation of gross
+2 income for federal income tax purposes except that such interest or
+3 dividends shall not be added if received by a corporation which is a
+4 regulated investment company;
+5 (d) There shall be added that portion of the total dividends and
+6 other income received from a regulated investment company which is
+7 attributable to obligations described in subdivision (c) of this
+8 subsection and excluded for federal income tax purposes as reported to
+9 the recipient by the regulated investment company; and
+10 (e)(i) Any amount subtracted under this subsection shall be reduced
+11 by any interest on indebtedness incurred to carry the obligations or
+12 securities described in this subsection or the investment in the
+13 regulated investment company and by any expenses incurred in the
+14 production of interest or dividend income described in this subsection to
+15 the extent that such expenses, including amortizable bond premiums, are
+16 deductible in determining federal taxable income.
+17 (ii) Any amount added under this subsection shall be reduced by any
+18 expenses incurred in the production of such income to the extent
+19 disallowed in the computation of federal taxable income.
+20 (2) There shall be allowed a net operating loss derived from or
+21 connected with Nebraska sources computed under rules and regulations
+22 adopted and promulgated by the Tax Commissioner consistent, to the extent
+23 possible under the Nebraska Revenue Act of 1967, with the laws of the
+24 United States. For a resident individual, estate, or trust, the net
+25 operating loss computed on the federal income tax return shall be
+26 adjusted by the modifications contained in this section. For a
+27 nonresident individual, estate, or trust or for a partial-year resident
+28 individual, the net operating loss computed on the federal return shall
+29 be adjusted by the modifications contained in this section and any
+30 carryovers or carrybacks shall be limited to the portion of the loss
+31 derived from or connected with Nebraska sources.
+-7-
+
+LB131 LB131
+2025 2025
+1 (3) There shall be subtracted from federal adjusted gross income for
+2 all taxable years beginning on or after January 1, 1987, the amount of
+3 any state income tax refund to the extent such refund was deducted under
+4 the Internal Revenue Code, was not allowed in the computation of the tax
+5 due under the Nebraska Revenue Act of 1967, and is included in federal
+6 adjusted gross income.
+7 (4) Federal adjusted gross income, or, for a fiduciary, federal
+8 taxable income shall be modified to exclude the portion of the income or
+9 loss received from a small business corporation with an election in
+10 effect under subchapter S of the Internal Revenue Code or from a limited
+11 liability company organized pursuant to the Nebraska Uniform Limited
+12 Liability Company Act that is not derived from or connected with Nebraska
+13 sources as determined in section 77-2734.01.
+14 (5) There shall be subtracted from federal adjusted gross income or,
+15 for corporations and fiduciaries, federal taxable income dividends
+16 received or deemed to be received from corporations which are not subject
+17 to the Internal Revenue Code.
+18 (6) There shall be subtracted from federal taxable income a portion
+19 of the income earned by a corporation subject to the Internal Revenue
+20 Code of 1986 that is actually taxed by a foreign country or one of its
+21 political subdivisions at a rate in excess of the maximum federal tax
+22 rate for corporations. The taxpayer may make the computation for each
+23 foreign country or for groups of foreign countries. The portion of the
+24 taxes that may be deducted shall be computed in the following manner:
+25 (a) The amount of federal taxable income from operations within a
+26 foreign taxing jurisdiction shall be reduced by the amount of taxes
+27 actually paid to the foreign jurisdiction that are not deductible solely
+28 because the foreign tax credit was elected on the federal income tax
+29 return;
+30 (b) The amount of after-tax income shall be divided by one minus the
+31 maximum tax rate for corporations in the Internal Revenue Code; and
+-8-
+
+LB131 LB131
+2025 2025
+1 (c) The result of the calculation in subdivision (b) of this
+2 subsection shall be subtracted from the amount of federal taxable income
+3 used in subdivision (a) of this subsection. The result of such
+4 calculation, if greater than zero, shall be subtracted from federal
+5 taxable income.
+6 (7) Federal adjusted gross income shall be modified to exclude any
+7 amount repaid by the taxpayer for which a reduction in federal tax is
+8 allowed under section 1341(a)(5) of the Internal Revenue Code.
+9 (8)(a) Federal adjusted gross income or, for corporations and
+10 fiduciaries, federal taxable income shall be reduced, to the extent
+11 included, by income from interest, earnings, and state contributions
+12 received from the Nebraska educational savings plan trust as provided
+13 created in sections 5 85-1801 to 20 of this act 85-1817 and any account
+14 established under the achieving a better life experience program as
+15 provided in sections 77-1401 to 77-1409.
+16 (b) Federal adjusted gross income or, for corporations and
+17 fiduciaries, federal taxable income shall be reduced by any contributions
+18 as a participant in the Nebraska educational savings plan trust or
+19 contributions to an account established under the achieving a better life
+20 experience program made for the benefit of a beneficiary as provided in
+21 sections 77-1401 to 77-1409, to the extent not deducted for federal
+22 income tax purposes, but not to exceed five thousand dollars per married
+23 filing separate return or ten thousand dollars for any other return. With
+24 respect to a qualified rollover within the meaning of section 529 of the
+25 Internal Revenue Code from another state's plan, any interest, earnings,
+26 and state contributions received from the other state's educational
+27 savings plan which is qualified under section 529 of the code shall
+28 qualify for the reduction provided in this subdivision. For contributions
+29 by a custodian of a custodial account including rollovers from another
+30 custodial account, the reduction shall only apply to funds added to the
+31 custodial account after January 1, 2014.
+-9-
+
+LB131 LB131
+2025 2025
+1 (c) For taxable years beginning or deemed to begin on or after
+2 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+3 federal adjusted gross income shall be reduced, to the extent included in
+4 the adjusted gross income of an individual, by the amount of any
+5 contribution made by the individual's employer into an account under the
+6 Nebraska educational savings plan trust owned by the individual, not to
+7 exceed five thousand dollars per married filing separate return or ten
+8 thousand dollars for any other return.
+9 (d) Federal adjusted gross income or, for corporations and
+10 fiduciaries, federal taxable income shall be increased by:
+11 (i) The amount resulting from the cancellation of a participation
+12 agreement refunded to the taxpayer as a participant in the Nebraska
+13 educational savings plan trust to the extent previously deducted under
+14 subdivision (8)(b) of this section; and
+15 (ii) The amount of any withdrawals by the owner of an account
+16 established under the achieving a better life experience program as
+17 provided in sections 77-1401 to 77-1409 for nonqualified expenses to the
+18 extent previously deducted under subdivision (8)(b) of this section.
+19 (9)(a) For income tax returns filed after September 10, 2001, for
+20 taxable years beginning or deemed to begin before January 1, 2006, under
+21 the Internal Revenue Code of 1986, as amended, federal adjusted gross
+22 income or, for corporations and fiduciaries, federal taxable income shall
+23 be increased by eighty-five percent of any amount of any federal bonus
+24 depreciation received under the federal Job Creation and Worker
+25 Assistance Act of 2002 or the federal Jobs and Growth Tax Act of 2003,
+26 under section 168(k) or section 1400L of the Internal Revenue Code of
+27 1986, as amended, for assets placed in service after September 10, 2001,
+28 and before December 31, 2005.
+29 (b) For a partnership, limited liability company, cooperative,
+30 including any cooperative exempt from income taxes under section 521 of
+31 the Internal Revenue Code of 1986, as amended, limited cooperative
+-10-
+
+LB131 LB131
+2025 2025
+1 association, subchapter S corporation, or joint venture, the increase
+2 shall be distributed to the partners, members, shareholders, patrons, or
+3 beneficiaries in the same manner as income is distributed for use against
+4 their income tax liabilities.
+5 (c) For a corporation with a unitary business having activity both
+6 inside and outside the state, the increase shall be apportioned to
+7 Nebraska in the same manner as income is apportioned to the state by
+8 section 77-2734.05.
+9 (d) The amount of bonus depreciation added to federal adjusted gross
+10 income or, for corporations and fiduciaries, federal taxable income by
+11 this subsection shall be subtracted in a later taxable year. Twenty
+12 percent of the total amount of bonus depreciation added back by this
+13 subsection for tax years beginning or deemed to begin before January 1,
+14 2003, under the Internal Revenue Code of 1986, as amended, may be
+15 subtracted in the first taxable year beginning or deemed to begin on or
+16 after January 1, 2005, under the Internal Revenue Code of 1986, as
+17 amended, and twenty percent in each of the next four following taxable
+18 years. Twenty percent of the total amount of bonus depreciation added
+19 back by this subsection for tax years beginning or deemed to begin on or
+20 after January 1, 2003, may be subtracted in the first taxable year
+21 beginning or deemed to begin on or after January 1, 2006, under the
+22 Internal Revenue Code of 1986, as amended, and twenty percent in each of
+23 the next four following taxable years.
+24 (10) For taxable years beginning or deemed to begin on or after
+25 January 1, 2003, and before January 1, 2006, under the Internal Revenue
+26 Code of 1986, as amended, federal adjusted gross income or, for
+27 corporations and fiduciaries, federal taxable income shall be increased
+28 by the amount of any capital investment that is expensed under section
+29 179 of the Internal Revenue Code of 1986, as amended, that is in excess
+30 of twenty-five thousand dollars that is allowed under the federal Jobs
+31 and Growth Tax Act of 2003. Twenty percent of the total amount of
+-11-
+
+LB131 LB131
+2025 2025
+1 expensing added back by this subsection for tax years beginning or deemed
+2 to begin on or after January 1, 2003, may be subtracted in the first
+3 taxable year beginning or deemed to begin on or after January 1, 2006,
+4 under the Internal Revenue Code of 1986, as amended, and twenty percent
+5 in each of the next four following tax years.
+6 (11)(a) For taxable years beginning or deemed to begin before
+7 January 1, 2018, under the Internal Revenue Code of 1986, as amended,
+8 federal adjusted gross income shall be reduced by contributions, up to
+9 two thousand dollars per married filing jointly return or one thousand
+10 dollars for any other return, and any investment earnings made as a
+11 participant in the Nebraska long-term care savings plan under the Long-
+12 Term Care Savings Plan Act, to the extent not deducted for federal income
+13 tax purposes.
+14 (b) For taxable years beginning or deemed to begin before January 1,
+15 2018, under the Internal Revenue Code of 1986, as amended, federal
+16 adjusted gross income shall be increased by the withdrawals made as a
+17 participant in the Nebraska long-term care savings plan under the act by
+18 a person who is not a qualified individual or for any reason other than
+19 transfer of funds to a spouse, long-term care expenses, long-term care
+20 insurance premiums, or death of the participant, including withdrawals
+21 made by reason of cancellation of the participation agreement, to the
+22 extent previously deducted as a contribution or as investment earnings.
+23 (12) There shall be added to federal adjusted gross income for
+24 individuals, estates, and trusts any amount taken as a credit for
+25 franchise tax paid by a financial institution under sections 77-3801 to
+26 77-3807 as allowed by subsection (5) of section 77-2715.07.
+27 (13)(a) For taxable years beginning or deemed to begin on or after
+28 January 1, 2015, and before January 1, 2024, under the Internal Revenue
+29 Code of 1986, as amended, federal adjusted gross income shall be reduced
+30 by the amount received as benefits under the federal Social Security Act
+31 which are included in the federal adjusted gross income if:
+-12-
+
+LB131 LB131
+2025 2025
+1 (i) For taxpayers filing a married filing joint return, federal
+2 adjusted gross income is fifty-eight thousand dollars or less; or
+3 (ii) For taxpayers filing any other return, federal adjusted gross
+4 income is forty-three thousand dollars or less.
+5 (b) For taxable years beginning or deemed to begin on or after
+6 January 1, 2020, and before January 1, 2024, under the Internal Revenue
+7 Code of 1986, as amended, the Tax Commissioner shall adjust the dollar
+8 amounts provided in subdivisions (13)(a)(i) and (ii) of this section by
+9 the same percentage used to adjust individual income tax brackets under
+10 subsection (3) of section 77-2715.03.
+11 (c) For taxable years beginning or deemed to begin on or after
+12 January 1, 2021, and before January 1, 2024, under the Internal Revenue
+13 Code of 1986, as amended, a taxpayer may claim the reduction to federal
+14 adjusted gross income allowed under this subsection or the reduction to
+15 federal adjusted gross income allowed under subsection (14) of this
+16 section, whichever provides the greater reduction.
+17 (14)(a) For taxable years beginning or deemed to begin on or after
+18 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+19 federal adjusted gross income shall be reduced by a percentage of the
+20 social security benefits that are received and included in federal
+21 adjusted gross income. The pertinent percentage shall be:
+22 (i) Five percent for taxable years beginning or deemed to begin on
+23 or after January 1, 2021, and before January 1, 2022, under the Internal
+24 Revenue Code of 1986, as amended;
+25 (ii) Forty percent for taxable years beginning or deemed to begin on
+26 or after January 1, 2022, and before January 1, 2023, under the Internal
+27 Revenue Code of 1986, as amended;
+28 (iii) Sixty percent for taxable years beginning or deemed to begin
+29 on or after January 1, 2023, and before January 1, 2024, under the
+30 Internal Revenue Code of 1986, as amended; and
+31 (iv) One hundred percent for taxable years beginning or deemed to
+-13-
+
+LB131 LB131
+2025 2025
+1 begin on or after January 1, 2024, under the Internal Revenue Code of
+2 1986, as amended.
+3 (b) For purposes of this subsection, social security benefits means
+4 benefits received under the federal Social Security Act.
+5 (c) For taxable years beginning or deemed to begin on or after
+6 January 1, 2021, and before January 1, 2024, under the Internal Revenue
+7 Code of 1986, as amended, a taxpayer may claim the reduction to federal
+8 adjusted gross income allowed under this subsection or the reduction to
+9 federal adjusted gross income allowed under subsection (13) of this
+10 section, whichever provides the greater reduction.
+11 (15)(a) For taxable years beginning or deemed to begin on or after
+12 January 1, 2015, and before January 1, 2022, under the Internal Revenue
+13 Code of 1986, as amended, an individual may make a one-time election
+14 within two calendar years after the date of his or her retirement from
+15 the military to exclude income received as a military retirement benefit
+16 by the individual to the extent included in federal adjusted gross income
+17 and as provided in this subdivision. The individual may elect to exclude
+18 forty percent of his or her military retirement benefit income for seven
+19 consecutive taxable years beginning with the year in which the election
+20 is made or may elect to exclude fifteen percent of his or her military
+21 retirement benefit income for all taxable years beginning with the year
+22 in which he or she turns sixty-seven years of age.
+23 (b) For taxable years beginning or deemed to begin on or after
+24 January 1, 2022, under the Internal Revenue Code of 1986, as amended, an
+25 individual may exclude one hundred percent of the military retirement
+26 benefit income received by such individual to the extent included in
+27 federal adjusted gross income.
+28 (c) For purposes of this subsection, military retirement benefit
+29 means retirement benefits that are periodic payments attributable to
+30 service in the uniformed services of the United States for personal
+31 services performed by an individual prior to his or her retirement. The
+-14-
+
+LB131 LB131
+2025 2025
+1 term includes retirement benefits described in this subdivision that are
+2 reported to the individual on either:
+3 (i) An Internal Revenue Service Form 1099-R received from the United
+4 States Department of Defense; or
+5 (ii) An Internal Revenue Service Form 1099-R received from the
+6 United States Office of Personnel Management.
+7 (16) For taxable years beginning or deemed to begin on or after
+8 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+9 federal adjusted gross income shall be reduced by the amount received as
+10 a Segal AmeriCorps Education Award, to the extent such amount is included
+11 in federal adjusted gross income.
+12 (17) For taxable years beginning or deemed to begin on or after
+13 January 1, 2022, under the Internal Revenue Code of 1986, as amended,
+14 federal adjusted gross income shall be reduced by the amount received by
+15 or on behalf of a firefighter for cancer benefits under the Firefighter
+16 Cancer Benefits Act to the extent included in federal adjusted gross
+17 income.
+18 (18) There shall be subtracted from the federal adjusted gross
+19 income of individuals any amount received by the individual as student
+20 loan repayment assistance under the Teach in Nebraska Today Act, to the
+21 extent such amount is included in federal adjusted gross income.
+22 (19) For taxable years beginning or deemed to begin on or after
+23 January 1, 2023, under the Internal Revenue Code of 1986, as amended, a
+24 retired individual who was employed full time as a firefighter or
+25 certified law enforcement officer for at least twenty years and who is at
+26 least sixty years of age as of the end of the taxable year may reduce his
+27 or her federal adjusted gross income by the amount of health insurance
+28 premiums paid by such individual during the taxable year, to the extent
+29 such premiums were not already deducted in determining the individual's
+30 federal adjusted gross income.
+31 (20) For taxable years beginning or deemed to begin on or after
+-15-
+
+LB131 LB131
+2025 2025
+1 January 1, 2024, under the Internal Revenue Code of 1986, as amended, an
+2 individual may reduce his or her federal adjusted gross income by the
+3 amounts received as annuities under the Civil Service Retirement System
+4 which were earned for being employed by the federal government, to the
+5 extent such amounts are included in federal adjusted gross income.
+6 (21) For taxable years beginning or deemed to begin on or after
+7 January 1, 2025, under the Internal Revenue Code of 1986, as amended, an
+8 individual who is a member of the Nebraska National Guard may exclude one
+9 hundred percent of the income received from any of the following sources
+10 to the extent such income is included in the individual's federal
+11 adjusted gross income:
+12 (a) Serving in a 32 U.S.C. duty status such as members attending
+13 drills, annual training, and military schools and members who are serving
+14 in a 32 U.S.C. active guard reserve or active duty for operational
+15 support duty status;
+16 (b) Employment as a 32 U.S.C. federal dual-status technician with
+17 the Nebraska National Guard; or
+18 (c) Serving in a state active duty status.
+19 (22)(a) For taxable years beginning or deemed to begin on or after
+20 January 1, 2024, under the Internal Revenue Code of 1986, as amended, an
+21 individual may reduce his or her federal adjusted gross income by the
+22 amount of interest and principal balance of medical debt discharged under
+23 the Medical Debt Relief Act, to the extent included in such individual's
+24 federal adjusted gross income.
+25 (b) For taxable years beginning or deemed to begin on or after
+26 January 1, 2024, under the Internal Revenue Code of 1986, as amended,
+27 federal adjusted gross income or, for corporations and fiduciaries,
+28 federal taxable income shall be reduced by the amount of contributions
+29 made to the Medical Debt Relief Fund, to the extent not deducted for
+30 federal income tax purposes.
+31 (23) For taxable years beginning or deemed to begin on or after
+-16-
+
+LB131 LB131
+2025 2025
+1 January 1, 2025, under the Internal Revenue Code of 1986, as amended, an
+2 individual who is a qualifying employee as defined in section 77-3108 may
+3 reduce his or her federal adjusted gross income by the amount allowed
+4 under section 77-3111.
+5 (24) For taxable years beginning or deemed to begin on or after
+6 January 1, 2026, under the Internal Revenue Code of 1986, as amended,
+7 federal adjusted gross income or, for corporations and fiduciaries,
+8 federal taxable income shall be reduced by the amounts allowed to be
+9 deducted pursuant to section 77-27,242.
+10 (25) There shall be added to federal adjusted gross income or, for
+11 corporations and fiduciaries, federal taxable income for all taxable
+12 years beginning on or after January 1, 2025, the amount of any net
+13 capital loss that is derived from the sale or exchange of gold or silver
+14 bullion to the extent such loss is included in federal adjusted gross
+15 income except that such loss shall not be added if the loss is derived
+16 from the sale of bullion as a taxable distribution from any retirement
+17 plan account that holds gold or silver bullion. For the purposes of this
+18 subsection, bullion has the same meaning as in section 77-2704.66.
+19 (26) There shall be subtracted from federal adjusted gross income
+20 or, for corporations and fiduciaries, federal taxable income for all
+21 taxable years beginning on or after January 1, 2025, the amount of any
+22 net capital gain that is derived from the sale or exchange of gold or
+23 silver bullion to the extent such gain is included in federal adjusted
+24 gross income except that such gain shall not be subtracted if the gain is
+25 derived from the sale of bullion as a taxable distribution from any
+26 retirement plan account that holds gold or silver bullion. For the
+27 purposes of this subsection, bullion has the same meaning as in section
+28 77-2704.66.
+29 Sec. 5. Section 85-1801, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 85-1801 The Legislature finds that the general welfare and well-
+-17-
+
+LB131 LB131
+2025 2025
+1 being of the state are directly related to educational levels and skills
+2 of the citizens of the state and that a vital and valid public purpose is
+3 served by the creation and implementation of programs which encourage and
+4 make possible the attainment of higher levels of education by the
+5 greatest number of citizens of the state. The state has limited resources
+6 to provide additional programs for higher education funding and the
+7 continued operation and maintenance of the state's public institutions of
+8 elementary, secondary, and postsecondary higher education, and the
+9 general welfare of the citizens of the state will be enhanced by
+10 establishing a program which allows parents and others interested in the
+11 higher education of our youth to invest money in a public trust for
+12 future application to the payment of qualified higher education expenses.
+13 The creation of the means of encouragement for persons to invest in such
+14 a program represents the carrying out of a vital and valid public
+15 purpose. In order to make available to parents and others interested in
+16 the higher education of our youth an opportunity to fund future higher
+17 education needs, it is necessary that a public trust be established in
+18 which money may be invested for future educational use.
+19 Sec. 6. Section 85-1802, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 85-1802 For purposes of sections 5 85-1801 to 20 of this act
+22 85-1817:
+23 (1) Administrative fund means the Education College Savings Plan
+24 Administrative Fund created in section 10 of this act 85-1807;
+25 (2) Beneficiary means the individual designated by a participation
+26 agreement to benefit from advance payments of qualified higher education
+27 expenses on behalf of the beneficiary;
+28 (3) Benefits means the payment of qualified higher education
+29 expenses on behalf of a beneficiary or, in the case of a qualified
+30 education loan payment, on behalf of a beneficiary or the sibling of a
+31 beneficiary by the Nebraska educational savings plan trust;
+-18-
+
+LB131 LB131
+2025 2025
+1 (4) Eligible postsecondary educational institution means an
+2 institution described in 20 U.S.C. 1088 which is eligible to participate
+3 in a program under Title IV of the federal Higher Education Act of 1965;
+4 (5) Expense fund means the Education College Savings Plan Expense
+5 Fund created in section 10 of this act 85-1807;
+6 (6) Nebraska educational savings plan trust means the trust created
+7 in section 7 of this act 85-1804;
+8 (7) Nonqualified withdrawal refers to (a) a distribution from an
+9 account to the extent it is not used to pay the qualified higher
+10 education expenses of the beneficiary or, in the case of a qualified
+11 education loan payment, to the extent it is not used to pay the qualified
+12 higher education expenses of the beneficiary or a sibling of the
+13 beneficiary or to the extent it does not constitute a rollover to a Roth
+14 individual retirement account as permitted by section 529 of the Internal
+15 Revenue Code , or (b) a qualified rollover permitted by section 529 of
+16 the Internal Revenue Code where the funds are transferred to a qualified
+17 tuition program sponsored by another state or entity , or (c) a
+18 distribution from an account to pay the costs of attending kindergarten
+19 through grade twelve;
+20 (8) Participant or account owner means an individual, an
+21 individual's legal representative, or any other legal entity authorized
+22 to establish a savings account under section 529 of the Internal Revenue
+23 Code who has entered into a participation agreement for the advance
+24 payment of qualified higher education expenses on behalf of a
+25 beneficiary. For purposes of section 77-2716, as to contributions by a
+26 custodian to a custodial account established pursuant to the Nebraska
+27 Uniform Transfers to Minors Act or similar law in another state, which
+28 account has been established under a participation agreement, participant
+29 includes the parent or guardian of a minor, which parent or guardian is
+30 also the custodian of the account;
+31 (9) Participation agreement means an agreement between a participant
+-19-
+
+LB131 LB131
+2025 2025
+1 and the Nebraska educational savings plan trust entered into under
+2 sections 5 85-1801 to 20 of this act 85-1817;
+3 (10) Program fund means the Education College Savings Plan Program
+4 Fund created in section 10 of this act 85-1807;
+5 (11) Qualified education loan payment means the payment of principal
+6 or interest on a qualified education loan as defined in 26 U.S.C. 221(d),
+7 as such section existed on January 1, 2022, of the beneficiary or a
+8 sibling of the beneficiary as described in 26 U.S.C. 152(d)(2)(B), as
+9 such section existed on January 1, 2022. For purposes of this
+10 subdivision, the aggregate total of qualified education loan payments for
+11 the qualified education loans of a single beneficiary or sibling shall
+12 not exceed ten thousand dollars for all taxable years combined. The
+13 aggregate total for qualified education loan payments for the qualified
+14 education loans of a sibling of a beneficiary shall be calculated with
+15 respect to such sibling and not with respect to the beneficiary and shall
+16 include all qualified education loan payments for loans of such sibling,
+17 including any qualified education loan payments for which such sibling is
+18 the beneficiary or the sibling of a beneficiary;
+19 (12)(a) (12) Qualified higher education expenses means:
+20 (i) The the certified costs of tuition, and fees, books, supplies,
+21 and equipment required (A) (a) for enrollment or attendance at an
+22 eligible postsecondary educational institution or (B) (b) for costs
+23 incurred on or after January 1, 2021, for participation in an
+24 apprenticeship program registered and certified with the United States
+25 Secretary of Labor under 29 U.S.C. 50, as such section existed on January
+26 1, 2021; .
+27 (ii) Reasonable room and board expenses, based on the minimum amount
+28 applicable for the eligible postsecondary educational institution during
+29 the period of enrollment , shall be included as qualified higher
+30 education expenses for those students enrolled on at least a half-time
+31 basis; .
+-20-
+
+LB131 LB131
+2025 2025
+1 (iii) In the case of a special needs beneficiary, expenses for
+2 special needs services incurred in connection with enrollment or
+3 attendance at an eligible postsecondary educational institution; shall be
+4 included as qualified higher education expenses.
+5 (iv) Expenses paid or incurred on or after January 1, 2022, for the
+6 purchase of computer technology or equipment or Internet access and
+7 related services in connection with enrollment or attendance at an
+8 eligible postsecondary educational institution, subject to the
+9 limitations set forth in section 529 of the Internal Revenue Code; ,
+10 shall be included as qualified higher education expenses.
+11 (v) Qualified higher education expenses includes qualified education
+12 loan payments; or .
+13 (vi) Expenses for tuition in connection with enrollment or
+14 attendance at an elementary or secondary school but does not include any
+15 amounts in excess of ten thousand dollars per beneficiary per taxable
+16 year.
+17 (b) Qualified higher education expenses does not include any amounts
+18 in excess of those allowed by section 529 of the Internal Revenue Code;
+19 (13) Section 529 of the Internal Revenue Code means such section of
+20 the code and the regulations interpreting such section; and
+21 (14) Tuition and fees means:
+22 (a) For purposes of an elementary or secondary school, the charges
+23 imposed for tuition in connection with enrollment or attendance at such
+24 elementary or secondary school; and
+25 (b) For purposes of an eligible postsecondary educational
+26 institution, the quarter or semester charges imposed to attend an
+27 eligible postsecondary educational institution.
+28 Sec. 7. Section 85-1804, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 85-1804 The Nebraska educational savings plan trust is created. The
+31 State Treasurer is the trustee of the trust and as such is responsible
+-21-
+
+LB131 LB131
+2025 2025
+1 for the administration, operation, and maintenance of the program and has
+2 all powers necessary to carry out and effectuate the purposes,
+3 objectives, and provisions of sections 5 85-1801 to 20 of this act
+4 85-1817 pertaining to the administration, operation, and maintenance of
+5 the trust and program, except that the state investment officer shall
+6 have fiduciary responsibility to make all decisions regarding the
+7 investment of the money in the administrative fund, expense fund, and
+8 program fund, including the selection of all investment options and the
+9 approval of all fees and other costs charged to trust assets except costs
+10 for administration, operation, and maintenance of the trust as
+11 appropriated by the Legislature, pursuant to the directions, guidelines,
+12 and policies established by the Nebraska Investment Council. The State
+13 Treasurer may adopt and promulgate rules and regulations to provide for
+14 the efficient administration, operation, and maintenance of the trust and
+15 program. The State Treasurer shall not adopt and promulgate rules and
+16 regulations that in any way interfere with the fiduciary responsibility
+17 of the state investment officer to make all decisions regarding the
+18 investment of money in the administrative fund, expense fund, and program
+19 fund. The State Treasurer or his or her designee shall have the power to:
+20 (1) Enter into agreements with any elementary or secondary school or
+21 eligible postsecondary educational institution, the state, any federal or
+22 other state agency, or any other entity to implement sections 5 85-1801
+23 to 20 of this act 85-1817, except agreements which pertain to the
+24 investment of money in the administrative fund, expense fund, or program
+25 fund;
+26 (2) Carry out the duties and obligations of the trust;
+27 (3) Carry out studies and projections to advise participants
+28 regarding present and estimated future qualified higher education
+29 expenses and levels of financial participation in the trust required in
+30 order to enable participants to achieve their educational funding
+31 objectives;
+-22-
+
+LB131 LB131
+2025 2025
+1 (4) Participate in any federal, state, or local governmental program
+2 for the benefit of the trust;
+3 (5) Procure insurance against any loss in connection with the
+4 property, assets, or activities of the trust as provided in section
+5 81-8,239.01;
+6 (6) Enter into participation agreements with participants;
+7 (7) Make payments to elementary or secondary schools or eligible
+8 postsecondary educational institutions pursuant to participation
+9 agreements on behalf of beneficiaries and make qualified education loan
+10 payments on behalf of beneficiaries or their siblings;
+11 (8) Make distributions to participants upon the termination of
+12 participation agreements pursuant to the provisions, limitations, and
+13 restrictions set forth in sections 5 85-1801 to 20 of this act 85-1817;
+14 (9) Contract for goods and services and engage personnel as
+15 necessary, including consultants, actuaries, managers, legal counsels,
+16 and auditors for the purpose of rendering professional, managerial, and
+17 technical assistance and advice regarding trust administration and
+18 operation, except contracts which pertain to the investment of the
+19 administrative, expense, or program funds; and
+20 (10) Establish, impose, and collect administrative fees and charges
+21 in connection with transactions of the trust, and provide for reasonable
+22 service charges, including penalties for cancellations and late payments
+23 with respect to participation agreements.
+24 The Nebraska Investment Council may adopt and promulgate rules and
+25 regulations to provide for the prudent investment of the assets of the
+26 trust. The council or its designee also has the authority to select and
+27 enter into agreements with individuals and entities to provide investment
+28 advice and management of the assets held by the trust, establish
+29 investment guidelines, objectives, and performance standards with respect
+30 to the assets held by the trust, and approve any fees, commissions, and
+31 expenses, which directly or indirectly affect the return on assets.
+-23-
+
+LB131 LB131
+2025 2025
+1 Sec. 8. Section 85-1805, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 85-1805 Any advertising or promotional materials relating to the
+4 Nebraska educational savings plan trust may include references to a
+5 public office but shall not refer to an officeholder by name.
+6 Sec. 9. Section 85-1806, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 85-1806 The Nebraska educational savings plan trust may enter into
+9 participation agreements with participants on behalf of beneficiaries
+10 pursuant to the following terms and conditions:
+11 (1) A participation agreement shall authorize a participant to make
+12 contributions to an account which is established for the purpose of
+13 meeting the qualified higher education expenses of a beneficiary as
+14 allowed by section 529 of the Internal Revenue Code. A participant shall
+15 not be required to make an annual contribution on behalf of a
+16 beneficiary, shall not be subject to minimum contribution requirements,
+17 and shall not be required to maintain a minimum account balance. The
+18 maximum contribution shall not exceed the amount allowed under section
+19 529 of the Internal Revenue Code. The State Treasurer may set a maximum
+20 cumulative contribution, as necessary, to maintain compliance with
+21 section 529 of the Internal Revenue Code. Participation agreements may be
+22 amended to provide for adjusted levels of contributions based upon
+23 changed circumstances or changes in educational plans or to ensure
+24 compliance with section 529 of the Internal Revenue Code or any other
+25 applicable laws and regulations;
+26 (2) Beneficiaries designated in participation agreements shall meet
+27 the requirements established by the trustee and section 529 of the
+28 Internal Revenue Code;
+29 (3) Payment of benefits provided under participation agreements
+30 shall be made in a manner consistent with section 529 of the Internal
+31 Revenue Code;
+-24-
+
+LB131 LB131
+2025 2025
+1 (4) The execution of a participation agreement by the trust shall
+2 not guarantee in any way that qualified higher education expenses will be
+3 equal to projections and estimates provided by the trust or that the
+4 beneficiary named in any participation agreement will (a) be admitted to
+5 an elementary or secondary school or eligible postsecondary educational
+6 institution, (b) if admitted, be determined a resident for tuition
+7 purposes by the elementary or secondary school or eligible postsecondary
+8 educational institution, (c) be allowed to continue attendance at the
+9 elementary or secondary school or eligible postsecondary educational
+10 institution following admission, or (d) graduate from the elementary or
+11 secondary school or eligible postsecondary educational institution;
+12 (5) A beneficiary under a participation agreement may be changed as
+13 permitted under the rules and regulations adopted under sections 5
+14 85-1801 to 20 of this act 85-1817 and consistent with section 529 of the
+15 Internal Revenue Code upon written request of the participant as long as
+16 the substitute beneficiary is eligible for participation. Participation
+17 agreements may otherwise be freely amended throughout their term in order
+18 to enable participants to increase or decrease the level of
+19 participation, change the designation of beneficiaries, and carry out
+20 similar matters as authorized by rule and regulation; and
+21 (6) Each participation agreement shall provide that the
+22 participation agreement may be canceled upon the terms and conditions and
+23 upon payment of applicable fees and costs set forth and contained in the
+24 rules and regulations.
+25 Sec. 10. Section 85-1807, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 85-1807 (1) The State Treasurer shall deposit money received by the
+28 Nebraska educational savings plan trust into three funds: The Education
+29 College Savings Plan Program Fund, the Education College Savings Plan
+30 Expense Fund, and the Education College Savings Plan Administrative Fund.
+31 The State Treasurer shall deposit money received by the trust into the
+-25-
+
+LB131 LB131
+2025 2025
+1 appropriate fund. The State Treasurer and Accounting Administrator of the
+2 Department of Administrative Services shall determine the state fund
+3 types necessary to comply with section 529 of the Internal Revenue Code
+4 and state policy. The money in the funds shall be invested by the state
+5 investment officer pursuant to policies established by the Nebraska
+6 Investment Council. The program fund, the expense fund, and the
+7 administrative fund shall be separately administered. The Nebraska
+8 educational savings plan trust shall be operated with no General Fund
+9 appropriations.
+10 (2) The Education College Savings Plan Program Fund is created. All
+11 money paid in connection with participation agreements and all investment
+12 income earned on such money shall be deposited as received into separate
+13 accounts within the program fund. Contributions to the trust may only be
+14 made in the form of cash. All funds generated in connection with
+15 participation agreements shall be deposited into the appropriate accounts
+16 within the program fund. A participant or beneficiary shall not provide
+17 investment direction regarding program contributions or earnings held by
+18 the trust. Money accrued in the program fund may be used for the benefit
+19 of a beneficiary for payments to any elementary or secondary school or
+20 eligible postsecondary educational institution , but shall not be used to
+21 pay expenses associated with attending kindergarten through grade twelve.
+22 Any money in the program fund available for investment shall be invested
+23 by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act.
+25 (3) The Education College Savings Plan Administrative Fund is
+26 created. Money from the trust transferred from the expense fund to the
+27 administrative fund in an amount authorized by an appropriation from the
+28 Legislature shall be utilized to pay for the costs of administering,
+29 operating, and maintaining the trust, to the extent permitted by section
+30 529 of the Internal Revenue Code. The administrative fund shall not be
+31 credited with any money other than money transferred from the expense
+-26-
+
+LB131 LB131
+2025 2025
+1 fund in an amount authorized by an appropriation by the Legislature or
+2 any interest income earned on the balances held in the administrative
+3 fund. Any money in the administrative fund available for investment shall
+4 be invested by the state investment officer pursuant to the Nebraska
+5 Capital Expansion Act and the Nebraska State Funds Investment Act.
+6 (4)(a) The Education College Savings Plan Expense Fund is created.
+7 The expense fund shall be funded with fees assessed to the program fund.
+8 The State Treasurer shall use the expense fund:
+9 (i) To pay costs associated with the Nebraska educational savings
+10 plan trust; and
+11 (ii) For the purposes described in the Meadowlark Act;
+12 (iii) On or before September 1, 2020, to transfer from the expense
+13 fund to the Department of Revenue Miscellaneous Receipts Fund fifty-nine
+14 thousand five hundred dollars to defray the costs incurred to implement
+15 Laws 2020, LB1042; and
+16 (iii) (iv) To transfer from the expense fund to the State Investment
+17 Officer's Cash Fund an amount equal to the pro rata share of the budget
+18 appropriated to the Nebraska Investment Council as permitted in section
+19 72-1249.02, to cover reasonable expenses incurred for investment
+20 management of the Nebraska educational savings plan trust. Annually and
+21 prior to such transfer to the State Investment Officer's Cash Fund, the
+22 State Treasurer shall report to the budget division of the Department of
+23 Administrative Services and to the Legislative Fiscal Analyst the amounts
+24 transferred during the previous fiscal year. The report submitted to the
+25 Legislative Fiscal Analyst shall be submitted electronically.
+26 (b) Any money in the expense fund available for investment shall be
+27 invested by the state investment officer pursuant to the Nebraska Capital
+28 Expansion Act and the Nebraska State Funds Investment Act.
+29 Sec. 11. Section 85-1808, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 85-1808 (1) A participant may cancel a participation agreement at
+-27-
+
+LB131 LB131
+2025 2025
+1 will by submitting a request to terminate the participation agreement.
+2 Additionally, if a participant requests and obtains a nonqualified
+3 withdrawal, the participation agreement shall be deemed canceled with
+4 respect to the amount of the nonqualified withdrawal. A participation
+5 agreement shall not be deemed canceled if a participant requests and
+6 obtains a distribution of his or her entire account balance for qualified
+7 higher education expenses and subsequently closes his or her account.
+8 Furthermore, the State Treasurer shall have the power to terminate,
+9 freeze, or suspend a participation agreement if he or she determines that
+10 the participant provided false or misleading information to the detriment
+11 of the Nebraska educational savings plan trust, if the participant's
+12 account has a zero balance, or if the State Treasurer is unable to verify
+13 the identity of the participant.
+14 (2) If a participation agreement is canceled for any of the causes
+15 listed in this subsection, the participant shall be entitled to receive
+16 the principal amount of all contributions made by the participant under
+17 the participation agreement plus the actual program fund investment
+18 income earned on the contributions, less any losses incurred on the
+19 investment, and such distribution will generally not be subject to
+20 federal tax penalty:
+21 (a) Death of the beneficiary if the distribution is paid to the
+22 estate of the beneficiary or transferred to another beneficiary as set
+23 forth in subsection (10) of section 12 of this act 85-1809;
+24 (b) Permanent disability or mental incapacity of the beneficiary;
+25 (c) The beneficiary is awarded a scholarship as defined in section
+26 529 of the Internal Revenue Code, but only to the extent the distribution
+27 of earnings does not exceed the scholarship amount; or
+28 (d) A qualified rollover is made as permitted by section 529 of the
+29 Internal Revenue Code, except that if a qualified rollover is made into a
+30 plan sponsored by another state or entity, the participation agreement
+31 shall be deemed to have been canceled for purposes of subdivision (8)(d)
+-28-
+
+LB131 LB131
+2025 2025
+1 of section 77-2716 and federal adjusted gross income shall be increased
+2 to the extent previously deducted as a contribution to the trust.
+3 (3) Notwithstanding any other provisions of this section, under no
+4 circumstances shall a participant or beneficiary receive a distribution
+5 that is more than the fair market value of the specific account on the
+6 applicable liquidation date.
+7 (4) If a participant cancels a participation agreement, obtains a
+8 rollover into a plan sponsored by another state or entity, or obtains a
+9 distribution, a portion of which constitutes a nonqualified withdrawal,
+10 the amount of the distribution, rollover, or withdrawal will be subject
+11 to recapture of previous Nebraska state income tax deductions as set
+12 forth in subdivision (8)(d) of section 77-2716. The transfer of assets
+13 among plans sponsored by the State of Nebraska shall be considered an
+14 investment option change and not a rollover.
+15 Sec. 12. Section 85-1809, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 85-1809 (1) A participant retains ownership of all contributions
+18 made under a participation agreement up to the date of utilization for
+19 payment of qualified higher education expenses for the beneficiary or, in
+20 the case of a qualified education loan payment, for the beneficiary or a
+21 sibling of the beneficiary. Notwithstanding any other provision of law,
+22 any amount credited to any account is not susceptible to any levy,
+23 execution, judgment, or other operation of law, garnishment, or other
+24 judicial enforcement, and the amount is not an asset or property of
+25 either the participant or the beneficiary for the purposes of any state
+26 insolvency or inheritance tax laws. All income derived from the
+27 investment of the contributions made by the participant shall be
+28 considered to be held in trust for the benefit of the beneficiary.
+29 (2) If the program created by sections 5 85-1801 to 20 of this act
+30 85-1817 is terminated prior to payment of qualified higher education
+31 expenses, the participant is entitled to receive the fair market value of
+-29-
+
+LB131 LB131
+2025 2025
+1 the account established in the program.
+2 (3) If the beneficiary graduates from an eligible postsecondary
+3 educational institution and a balance remains in the participant's
+4 account, any remaining funds may be used to make qualified education loan
+5 payments for siblings of the beneficiary or transferred as allowed by
+6 rule or regulation, subject to the provisions of section 529 of the
+7 Internal Revenue Code, as well as any other applicable state or federal
+8 laws or regulations.
+9 (4) The elementary or secondary school or eligible postsecondary
+10 educational institution shall obtain ownership of the payments made for
+11 the qualified higher education expenses paid to the institution at the
+12 time each payment is made to the institution.
+13 (5) Any amounts which may be paid to any person or persons pursuant
+14 to the Nebraska educational savings plan trust but which are not listed
+15 in this section are owned by the trust.
+16 (6) A participant may transfer ownership rights to another eligible
+17 participant, including a gift of the ownership rights to a minor
+18 beneficiary. The transfer shall be made and the property distributed in
+19 accordance with the rules and regulations or with the terms of the
+20 participation agreement.
+21 (7) A participant shall not be entitled to utilize any interest in
+22 the Nebraska educational savings plan trust as security for a loan.
+23 (8) The Nebraska educational savings plan trust may accept transfers
+24 of cash investments from a custodian under the Nebraska Uniform Transfers
+25 to Minors Act or any other similar laws under the terms and conditions
+26 established by the trustee.
+27 (9) A participant may designate a successor account owner to succeed
+28 to all of the participant's rights, title, and interest in an account,
+29 including the right to change the account beneficiary, upon the death or
+30 legal incapacity of the participant. If a participant dies or becomes
+31 legally incapacitated and has failed to name a successor account owner,
+-30-
+
+LB131 LB131
+2025 2025
+1 the account beneficiary shall become the account owner.
+2 (10) Upon the death of a beneficiary, the participant may change the
+3 beneficiary on the account, transfer assets to another beneficiary who is
+4 a member of the family of the former beneficiary, or request a
+5 nonqualified withdrawal.
+6 Sec. 13. Section 85-1810, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 85-1810 (1) A student loan program, student grant program, or other
+9 program administered by any agency of the state, except as may be
+10 otherwise provided by federal law or the provisions of any specific grant
+11 applicable to the federal law, shall not take into account and shall not
+12 consider amounts available for the payment of qualified higher education
+13 expenses pursuant to the Nebraska educational savings plan trust in
+14 determining need and eligibility for student aid.
+15 (2) A government program administered by any agency of the state
+16 that provides benefits or aid to individuals based on financial need,
+17 except as may be otherwise provided by federal law or the provisions of
+18 any specific grant applicable to the federal law, shall not take into
+19 account and shall not consider contributions made to a participant's
+20 account by the participant's employer in determining the income of such
+21 participant.
+22 Sec. 14. Section 85-1811, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 85-1811 (1) The State Treasurer shall submit an annual audited
+25 financial report, prepared in accordance with generally accepted
+26 accounting principles, on the operations of the Nebraska educational
+27 savings plan trust by November 1 to the Governor and the Legislature. The
+28 report submitted to the Legislature shall be submitted electronically.
+29 The State Treasurer shall cause the audit to be made either by the
+30 Auditor of Public Accounts or by an independent certified public
+31 accountant designated by the State Treasurer, and the audit shall include
+-31-
+
+LB131 LB131
+2025 2025
+1 direct and indirect costs attributable to the use of outside consultants,
+2 independent contractors, and any other persons who are not state
+3 employees.
+4 (2) The annual audit shall be supplemented by all of the following
+5 information prepared by the State Treasurer:
+6 (a) Any related studies or evaluations prepared in the preceding
+7 year;
+8 (b) A summary of the benefits provided by the trust, including the
+9 number of participants and beneficiaries in the trust; and
+10 (c) Any other information which is relevant in order to make a full,
+11 fair, and effective disclosure of the operations of the trust, including
+12 the investment performance of the funds.
+13 Sec. 15. Section 85-1812, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 85-1812 (1) For federal income tax purposes, the Nebraska
+16 educational savings plan trust shall be considered a qualified state
+17 tuition program exempt from taxation pursuant to section 529 of the
+18 Internal Revenue Code. The trust meets the requirements of section 529(b)
+19 of the Internal Revenue Code as follows:
+20 (a) Pursuant to section 9 of this act 85-1806, a participant may
+21 make contributions to an account which is established for the purpose of
+22 meeting the qualified higher education expenses of the designated
+23 beneficiary of the account or, in the case of a qualified education loan
+24 payment, the designated beneficiary of the account or a sibling of the
+25 designated beneficiary;
+26 (b) Pursuant to section 9 of this act 85-1806, a maximum
+27 contribution level is established;
+28 (c) Pursuant to section 10 of this act 85-1807, a separate account
+29 is established for each beneficiary;
+30 (d) Pursuant to section 10 of this act 85-1807, contributions may
+31 only be made in the form of cash;
+-32-
+
+LB131 LB131
+2025 2025
+1 (e) Pursuant to section 10 of this act 85-1807, a participant or
+2 beneficiary shall not provide investment direction regarding program
+3 contributions or earnings held by the trust;
+4 (f) Penalties are provided on distributions of earnings which are:
+5 (i) Not used for qualified higher education expenses of the beneficiary
+6 or, in the case of a qualified education loan payment, the beneficiary or
+7 a sibling of the beneficiary; (ii) made on account of the death of the
+8 designated beneficiary if the distribution is not transferred to another
+9 beneficiary or paid to the estate of the beneficiary; (iii) not made on
+10 account of the permanent disability or mental incapacity of the
+11 designated beneficiary; or (iv) made due to scholarship, allowance, or
+12 payment receipt in excess of the scholarship, allowance, or payment
+13 receipt; and
+14 (g) Pursuant to section 12 of this act 85-1809, a participant shall
+15 not pledge any interest in the trust as security for a loan.
+16 (2) State income tax treatment of the Nebraska educational savings
+17 plan trust shall be as provided in section 77-2716.
+18 (3) For purposes of federal gift and generation-skipping transfer
+19 taxes, contributions to an account are considered a completed gift from
+20 the contributor to the beneficiary.
+21 Sec. 16. Section 85-1813, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 85-1813 The assets of the Nebraska educational savings plan trust,
+24 including the program fund and excluding the administrative fund and the
+25 expense fund, shall at all times be preserved, invested, and expended
+26 solely and only for the purposes of the trust and shall be held in trust
+27 for the participants and beneficiaries. No property rights in the trust
+28 shall exist in favor of the state. Assets of the trust, including the
+29 program fund, the administrative fund, and the expense fund, shall not be
+30 transferred or used by the state for any purposes other than the purposes
+31 of the trust.
+-33-
+
+LB131 LB131
+2025 2025
+1 Sec. 17. Section 85-1814, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 85-1814 Nothing in sections 5 85-1801 to 16 of this act 85-1813
+4 shall be deemed to prohibit both resident and nonresident participants
+5 and designated beneficiaries from being eligible to participate in and
+6 benefit from the Nebraska educational savings plan trust and program. It
+7 is the intent of the Legislature that funds and income credited to the
+8 program fund are fully portable and may be used at any elementary or
+9 secondary school or eligible postsecondary educational institution.
+10 Sec. 18. Section 85-1815, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 85-1815 (1) The College Savings Incentive Cash Fund is created. The
+13 fund shall be administered by the State Treasurer and shall be used to
+14 provide incentive payments under the Employer Matching Contribution
+15 Incentive Program established in section 19 of this act 85-1816 and to
+16 provide matching scholarships under the College Savings Plan Low-Income
+17 Matching Scholarship Program established in section 20 of this act
+18 85-1817. The State Treasurer shall accept contributions from any private
+19 individual or private entity and shall credit all such contributions
+20 received to the College Savings Incentive Cash Fund for the purpose of
+21 providing an ongoing source of funding for the College Savings Plan Low-
+22 Income Matching Scholarship Program. The matching contributions for which
+23 incentive payments are made under the Employer Matching Contribution
+24 Incentive Program and the matching scholarships provided under the
+25 College Savings Plan Low-Income Matching Scholarship Program shall not be
+26 used to pay expenses associated with attending kindergarten through grade
+27 twelve.
+28 (2) The College Savings Incentive Cash Fund shall not be considered
+29 an asset of the Nebraska educational savings plan trust.
+30 (3) Any money in the fund available for investment shall be invested
+31 by the state investment officer pursuant to the Nebraska Capital
+-34-
+
+LB131 LB131
+2025 2025
+1 Expansion Act and the Nebraska State Funds Investment Act.
+2 Sec. 19. Section 85-1816, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 85-1816 (1) The Employer Matching Contribution Incentive Program is
+5 created. The program shall begin on January 1, 2022, and shall be
+6 implemented and administered by the State Treasurer. The purpose of the
+7 program is to encourage employers to make matching contributions by
+8 providing incentive payments for such contributions.
+9 (2) For purposes of this section:
+10 (a) Employer means any individual, partnership, limited liability
+11 company, association, corporation, business trust, legal representative,
+12 or organized group of persons employing one or more employees at any one
+13 time, but such term does not include the United States, the state, or any
+14 political subdivision thereof; and
+15 (b) Matching contribution means a contribution made by an employer
+16 to an account established under the Nebraska educational savings plan
+17 trust in an amount matching all or part of a contribution made to that
+18 same account by an individual who resided in the State of Nebraska during
+19 the most recently completed taxable year and is an employee of such
+20 employer.
+21 (3) Beginning January 1, 2022, an employer shall be eligible to
+22 receive an incentive payment under this section if the employer made
+23 matching contributions during the immediately preceding calendar year.
+24 (4) In order to receive an incentive payment under this section, an
+25 employer shall submit an application to the State Treasurer on forms
+26 prescribed by the State Treasurer. The State Treasurer shall accept
+27 applications from January 1 to June 1 of each year beginning in 2022. The
+28 application shall include:
+29 (a) The number of employees for whom matching contributions were
+30 made in the immediately preceding calendar year;
+31 (b) The amount of the matching contributions made in the immediately
+-35-
+
+LB131 LB131
+2025 2025
+1 preceding calendar year for each employee; and
+2 (c) Any other information required by the State Treasurer.
+3 (5) If the State Treasurer determines that the employer qualifies
+4 for an incentive payment under this section, the State Treasurer shall
+5 approve the application and shall notify the employer of the approval.
+6 The State Treasurer may approve applications until the annual limit
+7 provided in subsection (6) of this section has been reached. An employer
+8 whose application is approved shall receive an incentive payment equal to
+9 twenty-five percent of the total matching contributions made during the
+10 immediately preceding calendar year, not to exceed two thousand dollars
+11 per contributing employee per year. An employer shall not receive an
+12 incentive payment for a matching contribution if the employer claimed an
+13 income tax deduction pursuant to subdivision (8)(b) of section 77-2716
+14 for such matching contribution. Employers shall be limited to one
+15 incentive payment per beneficiary. The matching contributions for which
+16 incentive payments are made shall not be used to pay expenses associated
+17 with attending kindergarten through grade twelve.
+18 (6) The State Treasurer may approve a total of two hundred fifty
+19 thousand dollars of incentive payments each calendar year.
+20 (7) On or before June 30, 2022, and on or before June 30 of each
+21 year thereafter, the State Treasurer shall determine the total amount of
+22 incentive payments approved for the year, shall transfer such amount from
+23 the Education College Savings Plan Expense Fund or the Unclaimed Property
+24 Trust Fund, as determined by the State Treasurer, to the College Savings
+25 Incentive Cash Fund, and shall distribute such incentive payments to the
+26 approved employers.
+27 (8) The State Treasurer may adopt and promulgate rules and
+28 regulations to carry out the Employer Matching Contribution Incentive
+29 Program.
+30 Sec. 20. Section 85-1817, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-36-
+
+LB131 LB131
+2025 2025
+1 85-1817 (1) Beginning January 1, 2022, there is hereby established
+2 the College Savings Plan Low-Income Matching Scholarship Program. The
+3 purpose of the program is to encourage private contributions to accounts
+4 established under the Nebraska educational savings plan trust for the
+5 benefit of individuals with limited means. The State Treasurer shall
+6 implement and administer the program.
+7 (2) A participant shall be eligible for the program if the
+8 beneficiary for whom private contributions are made is part of a family
+9 whose household income for the most recently completed taxable year is
+10 not more than two hundred fifty percent of the federal poverty level and
+11 the beneficiary is a resident of the State of Nebraska.
+12 (3) Applications for participation in the program shall be submitted
+13 to the State Treasurer on forms prescribed by the State Treasurer. If the
+14 requirements of subsection (2) of this section are met, the State
+15 Treasurer shall approve the application and notify the applicant of the
+16 approval. The State Treasurer may approve applications until the annual
+17 limit provided in subsection (7) of this section has been reached.
+18 (4) Any participant who is approved for the program under subsection
+19 (3) of this section must resubmit an application each year thereafter and
+20 be reapproved in order to continue participation in the program.
+21 (5) If a participant is approved for the program, any contribution
+22 made by such participant under the program shall be matched with
+23 scholarship funds provided by the State of Nebraska. The matching
+24 scholarship shall be equal to:
+25 (a) One hundred percent of the participant's contribution if the
+26 beneficiary for whom the contribution is made is part of a family whose
+27 household income for the most recently completed taxable year is more
+28 than two hundred percent of the federal poverty level but not more than
+29 two hundred fifty percent of the federal poverty level, not to exceed one
+30 thousand dollars annually; or
+31 (b) Two hundred percent of the participant's contribution if the
+-37-
+
+LB131 LB131
+2025 2025
+1 beneficiary for whom the contribution is made is part of a family whose
+2 household income for the most recently completed taxable year is not more
+3 than two hundred percent of the federal poverty level, not to exceed one
+4 thousand dollars annually.
+5 (6) Between January 1 and January 31 of each year, the State
+6 Treasurer shall transfer the amount necessary to meet the matching
+7 obligations of this section for the preceding calendar year, minus the
+8 amount of any private contributions received pursuant to subsection (1)
+9 of section 18 of this act 85-1815 during the preceding calendar year,
+10 from the Education College Savings Plan Expense Fund or the Unclaimed
+11 Property Trust Fund, as determined by the State Treasurer, to the College
+12 Savings Incentive Cash Fund. The State Treasurer shall transfer from the
+13 College Savings Incentive Cash Fund to the Education College Savings Plan
+14 Program Fund the amount necessary to meet the matching obligations of
+15 this section for the preceding calendar year. The Nebraska educational
+16 savings plan trust shall own all scholarships awarded under this section.
+17 Neither the participant nor the beneficiary shall have any ownership
+18 rights to or interest in, title to, or power or control over such
+19 scholarships. Scholarship funds disbursed shall only be used to pay the
+20 qualified higher education expenses associated with attending an eligible
+21 postsecondary educational institution located in this state and shall not
+22 be used to pay expenses associated with attending kindergarten through
+23 grade twelve. Any disbursement of such scholarships shall be made before
+24 the beneficiary reaches thirty years of age. Once the beneficiary reaches
+25 thirty years of age, any unused scholarship funds shall be transferred to
+26 the Meadowlark Endowment Fund.
+27 (7) The State Treasurer may approve a total of two hundred fifty
+28 thousand dollars of scholarships each calendar year under the College
+29 Savings Plan Low-Income Matching Scholarship Program.
+30 Sec. 21. Section 85-2802, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-38-
+
+LB131 LB131
+2025 2025
+1 85-2802 For purposes of the Meadowlark Act:
+2 (1) Contribution means a donation which is made for the purpose of
+3 providing a source of funding for the Meadowlark Program established in
+4 section 85-2804;
+5 (2) Eligible postsecondary educational institution has the same
+6 meaning as in section 6 of this act 85-1802;
+7 (3) Nebraska educational savings plan trust has the same meaning as
+8 in section 6 of this act 85-1802;
+9 (4) Qualified higher education expenses has the same meaning as in
+10 section 6 of this act 85-1802; and
+11 (5) Qualified individual means an individual born on or after
+12 January 1, 2020, who is a resident of this state at the time of birth.
+13 Sec. 22. Section 85-2803, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 85-2803 (1) There is hereby established in the state treasury a
+16 trust fund to be known as the Meadowlark Endowment Fund. The fund shall
+17 be administered by the State Treasurer and shall consist of qualified
+18 private contributions and any amounts appropriated or transferred to the
+19 fund by the Legislature. No General Funds shall be transferred to the
+20 Meadowlark Endowment Fund. Any money in the fund available for investment
+21 shall be invested by the state investment officer pursuant to the
+22 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+23 Act. No portion of the principal of the fund shall be expended for any
+24 purpose except investment pursuant to this subsection.
+25 (2) The State Treasurer may accept contributions and shall credit
+26 all such contributions received either to the Meadowlark Endowment Fund
+27 or to accounts opened under the Meadowlark Program, at the direction of
+28 the donor. Such contributions shall not be used to pay expenses
+29 associated with attending kindergarten through grade twelve.
+30 (3) On or before April 1 of each year, the State Treasurer shall
+31 determine the total amount of contributions received under subsection (2)
+-39-
+
+LB131 LB131
+2025 2025
+1 of this section in the previous calendar year and shall transfer an equal
+2 amount from the Education College Savings Plan Expense Fund or the
+3 Unclaimed Property Trust Fund, as determined by the State Treasurer, to
+4 the Meadowlark Endowment Fund or to accounts opened under the Meadowlark
+5 Program. For any amount transferred from the Education College Savings
+6 Plan Expense Fund or the Unclaimed Property Trust Fund that is not being
+7 transferred to the Meadowlark Endowment Fund, the State Treasurer shall
+8 evenly distribute such amount to the accounts opened under the Meadowlark
+9 Program in the previous calendar year.
+10 Sec. 23. Section 85-2804, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 85-2804 (1) The Meadowlark Program is created. The program shall be
+13 administered by the State Treasurer. The purpose of the program is to
+14 promote access to postsecondary educational opportunities by providing
+15 funds to qualified individuals to help pay the qualified higher education
+16 expenses associated with attendance at an eligible postsecondary
+17 educational institution located in this state.
+18 (2) Any qualified individual shall be eligible to participate in the
+19 Meadowlark Program. No later than March 1 of each year, the Department of
+20 Health and Human Services shall transmit information to the State
+21 Treasurer which is necessary to administer the program and to establish
+22 whether the children born in the previous calendar year are qualified
+23 individuals. Such information shall include, but not be limited to, the
+24 full name and residential address of each child's parent or legal
+25 guardian and the birthdate of each child. Costs associated with the
+26 transfer of information by the Department of Health and Human Services
+27 shall be paid from the Education College Savings Plan Expense Fund.
+28 (3) Following receipt of the information described in subsection (2)
+29 of this section, the State Treasurer shall send a notification explaining
+30 the Meadowlark Program to the parent or legal guardian of each qualified
+31 individual. The State Treasurer shall provide such parent or legal
+-40-
+
+LB131 LB131
+2025 2025
+1 guardian with the opportunity to exclude his or her child from the
+2 program. Any child who is not excluded shall be deemed to be enrolled in
+3 the program. Upon enrollment into the program, the child shall have an
+4 account opened for him or her under the Nebraska educational savings plan
+5 trust.
+6 (4) On or before April 1 of each year, the State Treasurer shall
+7 determine (a) the number of accounts opened under the Meadowlark Program
+8 in the previous calendar year and (b) the amount of investment income
+9 generated by the Meadowlark Endowment Fund in the previous calendar year.
+10 The State Treasurer shall evenly distribute the investment income from
+11 the previous calendar year to the accounts opened in the previous
+12 calendar year.
+13 (5) The Nebraska educational savings plan trust shall own all
+14 accounts opened under the Meadowlark Program. Neither the qualified
+15 individual nor his or her parent or legal guardian shall have any
+16 ownership rights or interest in, title to, or power or control over such
+17 an account.
+18 (6) Any disbursement from an account opened under the Meadowlark
+19 Program shall be made before the qualified individual reaches thirty
+20 years of age. Once a qualified individual reaches thirty years of age,
+21 any unused funds in his or her account shall be transferred to the
+22 Meadowlark Endowment Fund.
+23 (7) Funds disbursed from an account opened under the Meadowlark
+24 Program shall only be used to pay the qualified higher education expenses
+25 associated with attending an eligible postsecondary educational
+26 institution located in this state and shall not be used to pay expenses
+27 associated with attending kindergarten through grade twelve.
+28 (8) The State Treasurer shall take measures to ensure the security
+29 and confidentiality of the information received under subsection (2) of
+30 this section.
+31 Sec. 24. This act becomes operative on January 1, 2026.
+-41-
+
+LB131 LB131
+2025 2025
+1 Sec. 25. Original sections 85-1801, 85-1802, 85-1804, 85-1805,
+2 85-1806, 85-1807, 85-1808, 85-1809, 85-1810, 85-1811, 85-1812, 85-1813,
+3 85-1814, 85-1815, 85-1816, 85-1817, 85-2802, 85-2803, and 85-2804,
+4 Reissue Revised Statutes of Nebraska, and sections 68-1201, 72-1239.01,
+5 77-3,110, and 77-2716, Revised Statutes Cumulative Supplement, 2024, are
+6 repealed.
+-42-

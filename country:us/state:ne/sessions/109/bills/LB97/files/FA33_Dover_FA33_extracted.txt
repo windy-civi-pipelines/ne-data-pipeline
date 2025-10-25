@@ -1,0 +1,33 @@
+Title: In AM292 in Sec. 22, Page 23, Line 2 strike "four" and insert "eight" and
+Official Title: In AM292 in Sec. 22, Page 23, Line 2 strike "four" and insert "eight" and
+Number of Sections: 1
+Source: versions - Dover FA33
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA33 FA33
+LB97 LB97
+Floor Amendment To LB97
+(Amendment to AM292)
+Introduced by Dover, 19.
+on Line 3, strike "and twenty-five cents.".
+-1-
+[DELETED: yD3F7L]
+
+
+================================================================================
+
+Raw Text:
+FA33 FA33
+LB97 LB97
+Floor Amendment To LB97
+(Amendment to AM292)
+Introduced by Dover, 19.
+In AM292 in Sec. 22, Page 23, Line 2 strike "four" and insert "eight" and
+on Line 3, strike "and twenty-five cents.".
+-1-
+
+[DELETED: yD3F7L]

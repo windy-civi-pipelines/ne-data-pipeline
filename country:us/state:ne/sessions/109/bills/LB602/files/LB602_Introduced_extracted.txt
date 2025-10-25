@@ -1,0 +1,1159 @@
+Title: LEGISLATIVE BILL 602
+Official Title: LEGISLATIVE BILL 602
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+LB602 LB602
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Juarez, 5.
+Read first time January 22, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to data privacy; to amend section 87-302,
+2 Reissue Revised Statutes of Nebraska; to adopt the Data Elimination
+3 and Limiting Extensive Tracking and Exchange Act; to provide a
+4 deceptive trade practice; and to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB602 LB602
+2025 2025
+1 Section 1. Sections 1 to 12 of this act shall be known and may be
+2 cited as the Data Elimination and Limiting Extensive Tracking and
+3 Exchange Act or the Delete Act.
+4 Sec. 2. For the purposes of the Delete Act, unless otherwise
+5 specified, the definitions found in section 87-1102 apply and:
+6 (1) Authorized agent means:
+7 (a) A person designated by a consumer to act on the consumer's
+8 behalf;
+9 (b) A parent or legal guardian who acts on behalf of the parent's
+10 child or on behalf of a child for whom the guardian has legal
+11 responsibility; or
+12 (c) A guardian or conservator who acts on behalf of a consumer who
+13 is subject to a guardianship, conservatorship, or other protective
+14 arrangement;
+15 (2) Data broker means a controller, or a unit or units of a
+16 controller, separately or together, that knowingly:
+17 (a) Processes and sells the personal data of a consumer with whom
+18 the controller does not have a direct relationship; or
+19 (b) Licenses to third parties the personal data of a consumer with
+20 whom the controller does not have a direct relationship;
+21 (3) Direct relationship with a controller means a consumer is a:
+22 (a) Customer, client, subscriber, user, or registered user of the
+23 controller's goods or services within the last five calendar years;
+24 (b) Employee, contractor, or agent of the controller; or
+25 (c) Investor in the controller; and
+26 (4) Opt-out means a controller can no longer process the consumer's
+27 personal data for the purposes described in subdivision (2)(e) of section
+28 87-1107.
+29 Sec. 3. (1) The Delete Act only applies to any person specified in
+30 subsection (1) of section 87-1103.
+31 (2) The Delete Act does not apply to any entity specified in
+-2-
+LB602 LB602
+2025 2025
+1 subsection (2) of section 87-1103.
+2 Sec. 4. The Delete Act does not apply to the information and
+3 records specified in section 87-1104.
+4 Sec. 5. A data broker that maintains an Internet website or mobile
+5 application shall post a conspicuous notice on the website or application
+6 that:
+7 (1) States that the entity maintaining the website or application is
+8 a data broker;
+9 (2) Is clear, not misleading, and readily accessible by the general
+10 public, including individuals with a disability; and
+11 (3) Contains language required for inclusion in the notice by the
+12 Secretary of State.
+13 Sec. 6. (1) A data broker conducting business in this state shall
+14 develop, implement, and maintain a comprehensive information security
+15 program that is written in one or more readily accessible parts and
+16 contains administrative, technical, and physical safeguards that are
+17 appropriate for the:
+18 (a) Data broker's size, scope, and type of business;
+19 (b) Amount of resources available to the data broker;
+20 (c) Amount of data stored by the data broker; and
+21 (d) Need for security and confidentiality of personal data stored by
+22 the data broker.
+23 (2) The comprehensive information security program required by this
+24 section shall:
+25 (a) Incorporate safeguards that are consistent with the safeguards
+26 for the protection of personal data and information of a similar
+27 character under state or federal laws and regulations applicable to the
+28 data broker;
+29 (b) Designate one or more employees of the data broker to maintain
+30 the program;
+31 (c) Require the identification and assessment of reasonably
+-3-
+LB602 LB602
+2025 2025
+1 foreseeable internal and external risks to the security, confidentiality,
+2 and integrity of any electronic, paper, or other record containing
+3 personal data, and the establishment of a process for evaluating and
+4 improving, as necessary, the effectiveness of the current safeguards for
+5 limiting those risks, including by:
+6 (i) Requiring ongoing employee and contractor education and
+7 training, including education and training for temporary employees and
+8 contractors of the data broker, on the proper use of security procedures
+9 and protocols and the importance of personal data security;
+10 (ii) Mandating employee compliance with policies and procedures
+11 established under the program; and
+12 (iii) Providing a means for detecting and preventing security system
+13 failures;
+14 (d) Include security policies for the data broker's employees
+15 relating to the storage, access, and transportation of records containing
+16 personal data outside of the broker's physical business premises;
+17 (e) Provide disciplinary measures for violations of a policy or
+18 procedure established under the program;
+19 (f) Include measures for preventing a terminated employee from
+20 accessing records containing personal data;
+21 (g) Provide policies for the supervision of third-party service
+22 providers that include:
+23 (i) Taking reasonable steps to select and retain third-party service
+24 providers that are capable of maintaining appropriate security measures
+25 to protect personal data consistent with applicable law; and
+26 (ii) Requiring third-party service providers by contract to
+27 implement and maintain appropriate security measures for personal data;
+28 (h) Provide reasonable restrictions on physical access to records
+29 containing personal data, including by requiring the records containing
+30 the data to be stored in a locked facility, storage area, or container;
+31 (i) Include regular monitoring to ensure that the program is
+-4-
+LB602 LB602
+2025 2025
+1 operating in a manner reasonably calculated to prevent unauthorized
+2 access to or unauthorized use of personal data and, as necessary,
+3 upgrading information safeguards to limit the risk of unauthorized access
+4 to or unauthorized use of personal data;
+5 (j) Require the regular review of the scope of the program's
+6 security measures that shall occur:
+7 (i) At least annually; and
+8 (ii) Whenever there is a material change in the data broker's
+9 business practices that may reasonably affect the security or integrity
+10 of records containing personal data;
+11 (k) Require the documentation of responsive actions taken in
+12 connection with any incident involving a breach of security, including a
+13 mandatory post-incident review of each event and the actions taken, if
+14 any, to make changes in business practices relating to protection of
+15 personal data in response to that event; and
+16 (l) To the extent technically feasible, include the following
+17 procedures and protocols with respect to computer system security
+18 requirements or procedures and protocols providing a higher degree of
+19 security, for the protection of personal data:
+20 (i) The use of secure user authentication protocols that include
+21 each of the following features:
+22 (A) Controlling user log-in credentials and other identifiers;
+23 (B) Using a reasonably secure method of assigning and selecting
+24 passwords or using unique identifier technologies, which may include
+25 biometrics or token devices;
+26 (C) Controlling data security passwords to ensure that the passwords
+27 are kept in a location and format that do not compromise the security of
+28 the data the passwords protect;
+29 (D) Restricting access to only active users and active user
+30 accounts; and
+31 (E) Blocking access to user credentials or identification after
+-5-
+LB602 LB602
+2025 2025
+1 multiple unsuccessful attempts to gain access;
+2 (ii) The use of secure access control measures that include:
+3 (A) Restricting access to records and files containing personal data
+4 to only employees or contractors who need access to that personal data to
+5 perform the job duties of the employees or contractors; and
+6 (B) Assigning to each employee or contractor with access to a
+7 computer containing personal data unique identification and a password,
+8 which shall not be a vendor-supplied default password, or using another
+9 protocol reasonably designed to maintain the integrity of the security of
+10 the access controls to personal data;
+11 (iii) Encryption of:
+12 (A) Transmitted records and files containing personal data that will
+13 travel across public networks; and
+14 (B) Data containing personal data that is transmitted wirelessly;
+15 (iv) Reasonable monitoring of systems for unauthorized use of or
+16 access to personal data;
+17 (v) Encryption of all personal data stored on laptop computers or
+18 other portable devices;
+19 (vi) For files containing personal data on a system that is
+20 connected to the Internet, the use of reasonably current firewall
+21 protection and operating system security patches that are reasonably
+22 designed to maintain the integrity of the personal data; and
+23 (vii) The use of any:
+24 (A) Reasonably current version of system security agent software
+25 that shall include malware protection and reasonably current patches and
+26 virus definitions; or
+27 (B) Version of system security agent software that is supportable
+28 with current patches and virus definitions and is set to receive the most
+29 current security updates on a regular basis.
+30 (3) A violation of this section by a data broker constitutes a
+31 deceptive trade practice.
+-6-
+LB602 LB602
+2025 2025
+1 Sec. 7. (1) A data broker shall maintain reasonable procedures
+2 designed to ensure that the personal data it discloses is used for a
+3 legitimate and legal purpose.
+4 (2) Such procedures shall require that prospective users of the
+5 personal data identify themselves, certify the purposes for which the
+6 information is sought, and certify that the information shall be used for
+7 no other purpose.
+8 (3) A data broker shall make a reasonable effort to verify the
+9 identity of a new prospective user and the uses certified by the
+10 prospective user prior to furnishing the user's personal data.
+11 (4) A data broker shall not furnish personal data to any person if
+12 it has reasonable grounds for believing that the personal data will not
+13 be used for a legitimate and legal purpose.
+14 (5) A violation of this section by a data broker constitutes a
+15 deceptive trade practice.
+16 Sec. 8. The registration information provided in section 9 of this
+17 act and the accessible deletion mechanism described in section 10 of this
+18 act shall be publicly accessible on the website of the Secretary of
+19 State.
+20 Sec. 9. (1) On or before January 31 of each year, a data broker
+21 shall:
+22 (a) Register with the Secretary of State;
+23 (b) Pay a registration fee in an amount determined by the Secretary
+24 of State, but not to exceed three hundred dollars; and
+25 (c) Provide the following information with the registration:
+26 (i) The legal name of the data broker;
+27 (ii) The contact person and the primary physical address, email
+28 address, telephone number, and Internet website address for the data
+29 broker;
+30 (iii) A description of the categories of data the data broker
+31 processes and transfers;
+-7-
+LB602 LB602
+2025 2025
+1 (iv) A statement of whether or not the data broker implements a
+2 purchaser credentialing process pursuant to section 7 of this act;
+3 (v) If the data broker has actual knowledge that the data broker
+4 possesses personal data of a known child:
+5 (A) A statement detailing the data collection practices, databases,
+6 sales activities, and opt-out policies that are applicable to the
+7 personal data of a known child; and
+8 (B) A statement on how the data broker complies with applicable
+9 federal and state law regarding the collection, use, or disclosure of
+10 personal data from and about a child on the Internet;
+11 (vi) The number of security breaches the data broker has experienced
+12 during the year immediately preceding the year in which the registration
+13 is filed, and, if known, the total number of consumers affected by each
+14 breach;
+15 (vii) Whether the data broker collects precise geolocation of
+16 consumers;
+17 (viii) Beginning January 1, 2031, whether the data broker has
+18 undergone an audit pursuant to subsection (4) of section 10 of this act
+19 and, if so, the most recent year in which the data broker has submitted a
+20 report resulting from the audit to the Secretary of State;
+21 (ix) Beginning January 1, 2029, the following annual metrics
+22 pursuant to section 10 of this act:
+23 (A) The number of deletion requests received;
+24 (B) The number of deletion requests processed;
+25 (C) The number of deletion requests denied because the consumer
+26 request cannot be verified; and
+27 (D) The number of deletion requests denied because retention of the
+28 consumer's personal data is required by law; and
+29 (x) Any additional information or explanation the data broker
+30 chooses to provide concerning its data collection practices.
+31 (2)(a) A data broker that fails to register as required by this
+-8-
+LB602 LB602
+2025 2025
+1 section shall pay to the Secretary of State:
+2 (i) A civil penalty of two hundred dollars for each day that the
+3 data broker fails to register. All such civil penalties shall be remitted
+4 to the State Treasurer for distribution in accordance with Article VII,
+5 section 5, of the Constitution of Nebraska;
+6 (ii) An amount equal to the fees that were due during the period the
+7 data broker failed to register; and
+8 (iii) Any reasonable costs incurred by the Attorney General in the
+9 investigation and administration of the action as the court deems
+10 appropriate.
+11 (b) A data broker that fails to provide all registration information
+12 required in this section shall file an amendment that includes any
+13 omitted information no later than thirty days after receiving
+14 notification of the omission from the Secretary of State and shall pay a
+15 civil penalty of one thousand dollars to the Secretary of State for each
+16 day that the data broker does not file an amendment providing the omitted
+17 information. All such civil penalties shall be remitted to the State
+18 Treasurer for distribution in accordance with Article VII, section 5, of
+19 the Constitution of Nebraska.
+20 (c) A data broker that files materially incorrect information in its
+21 registration shall:
+22 (i) Pay to the Secretary of State a civil penalty of twenty-five
+23 thousand dollars. All such civil penalties shall be remitted to the State
+24 Treasurer for distribution in accordance with Article VII, section 5, of
+25 the Constitution of Nebraska; and
+26 (ii) Correct the incorrect information no later than thirty days
+27 after discovery or notification of the incorrect information and, if it
+28 fails to correct the information, the data broker shall pay to the
+29 Secretary of State an additional civil penalty of one thousand dollars
+30 per day for each day the data broker fails to correct the information.
+31 All such civil penalties shall be remitted to the State Treasurer for
+-9-
+LB602 LB602
+2025 2025
+1 distribution in accordance with Article VII, section 5, of the
+2 Constitution of Nebraska.
+3 Sec. 10. (1) On or before January 1, 2028, the Secretary of State
+4 shall establish an accessible deletion mechanism that:
+5 (a) Implements and maintains reasonable security procedures and
+6 practices, including administrative, physical, and technical safeguards
+7 appropriate to the nature of the information and the purposes for which
+8 the personal data will be used and to protect a consumer's personal data
+9 from unauthorized use, disclosure, access, destruction, or modification;
+10 (b) Allows a consumer, through a single verifiable consumer request,
+11 to request that every data broker that maintains any personal data about
+12 the consumer delete the personal data;
+13 (c) Allows a consumer to selectively exclude specific data brokers
+14 from a request made;
+15 (d) Allows a consumer to alter a previous request made after at
+16 least forty-five days have passed since the consumer last made a request;
+17 (e) Allows a consumer to request the deletion of all personal data
+18 related to that consumer through a single deletion request;
+19 (f) Permits a consumer to securely submit information in one or more
+20 privacy-protecting ways, as determined by the Secretary of State, to aid
+21 in the deletion request;
+22 (g) Allows a consumer to make a request using a website operated by
+23 the Secretary of State;
+24 (h) Does not charge a consumer to make a request;
+25 (i) Is readily accessible and usable by consumers with disabilities;
+26 (j) Supports the ability of a consumer's authorized agents to aid in
+27 the deletion request;
+28 (k) Allows the consumer or their authorized agent to verify the
+29 status of the consumer's deletion request; and
+30 (l) Provides a description of the following:
+31 (i) The deletion permitted by this section;
+-10-
+LB602 LB602
+2025 2025
+1 (ii) The process for submitting a deletion request pursuant to this
+2 section; and
+3 (iii) Examples of the types of information that may be deleted.
+4 (2)(a) Beginning August 1, 2028, a data broker shall access the
+5 accessible deletion mechanism established in this section at least once
+6 every forty-five days and shall:
+7 (i) Process all verifiable deletion requests the data broker has
+8 received from consumers in the previous forty-five days and delete such
+9 personal data;
+10 (ii) Process a request as an opt-out of the consumer's personal
+11 data;
+12 (iii) Direct all service providers and contractors associated with
+13 the data broker to:
+14 (A) Delete all personal data related to a consumer who has made a
+15 verifiable deletion request; and
+16 (B) Process a request as an opt-out of the consumer's personal data;
+17 and
+18 (iv) Not use or disclose any information submitted by a consumer
+19 through the accessible deletion mechanism for any other purpose besides
+20 the authority provided in this section, including for marketing purposes.
+21 (b) A data broker may deny a consumer's request to delete a
+22 consumer's personal data made pursuant to this section if retention of
+23 the consumer's personal data is required by law.
+24 (c) The Secretary of State may charge an access fee to a data broker
+25 to use the accessible deletion mechanism that does not exceed the
+26 reasonable costs of the Secretary of State for providing access to such
+27 mechanism.
+28 (3) Beginning August 1, 2028, once a data broker has processed a
+29 verifiable consumer request to delete a consumer's personal data, the
+30 data broker shall:
+31 (a) Delete all personal data of the consumer at least once every
+-11-
+LB602 LB602
+2025 2025
+1 forty-five days unless:
+2 (i) The consumer alters the consumer's decision; or
+3 (ii) Retention of the consumer's personal data is required by law;
+4 and
+5 (b) Not sell new personal data of the consumer unless the consumer
+6 requests otherwise;
+7 (4)(a) A data broker shall undergo an audit by an independent third
+8 party selected by the Secretary of State to determine compliance with
+9 this section at least once every three years, with the first audit taking
+10 place on or before December 31, 2030.
+11 (b) For an audit completed pursuant to this section, the data broker
+12 shall submit the report resulting from the audit and any related
+13 materials to the Secretary of State within five business days after a
+14 written request from the Secretary of State.
+15 (c) A data broker shall maintain all reports and materials resulting
+16 from audits conducted pursuant to this section for at least six years.
+17 (5) A data broker that fails to comply with subsections (1) through
+18 (4) of this section shall pay a civil penalty of two hundred dollars per
+19 day to the Secretary of State for each deletion request the data broker
+20 fails to complete as required by this section.
+21 Sec. 11. (1) The Attorney General may:
+22 (a) Bring an action to collect any civil penalty imposed under this
+23 section; and
+24 (b) Seek appropriate injunctive relief for any violation of the
+25 Delete Act.
+26 (2) The Attorney General may recover reasonable attorney's fees and
+27 costs incurred in bringing an action under the Delete Act.
+28 Sec. 12. The Secretary of State may adopt and promulgate rules and
+29 regulations to carry out the Delete Act.
+30 Sec. 13. Section 87-302, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-12-
+LB602 LB602
+2025 2025
+1 87-302 (a) A person engages in a deceptive trade practice when, in
+2 the course of his or her business, vocation, or occupation, he or she:
+3 (1) Passes off goods or services as those of another;
+4 (2) Causes likelihood of confusion or of misunderstanding as to the
+5 source, sponsorship, approval, or certification of goods or services;
+6 (3) Causes likelihood of confusion or of misunderstanding as to
+7 affiliation, connection, or association with, or certification by,
+8 another;
+9 (4) Uses deceptive representations or designations of geographic
+10 origin in connection with goods or services;
+11 (5) Represents that goods or services have sponsorship, approval,
+12 characteristics, ingredients, uses, benefits, or quantities that they do
+13 not have or that a person has a sponsorship, approval, status,
+14 affiliation, or connection that he or she does not have;
+15 (6) Represents that goods or services do not have sponsorship,
+16 approval, characteristics, ingredients, uses, benefits, or quantities
+17 that they have or that a person does not have a sponsorship, approval,
+18 status, affiliation, or connection that he or she has;
+19 (7) Represents that goods are original or new if they are
+20 deteriorated, altered, reconditioned, reclaimed, used, or secondhand,
+21 except that sellers may repair damage to and make adjustments on or
+22 replace parts of otherwise new goods in an effort to place such goods in
+23 compliance with factory specifications;
+24 (8) Represents that goods or services are of a particular standard,
+25 quality, or grade, or that goods are of a particular style or model, if
+26 they are of another;
+27 (9) Disparages the goods, services, or business of another by false
+28 or misleading representation of fact;
+29 (10) Advertises goods or services with intent not to sell them as
+30 advertised or advertises the price in any manner calculated or tending to
+31 mislead or in any way deceive a person;
+-13-
+LB602 LB602
+2025 2025
+1 (11) Advertises goods or services with intent not to supply
+2 reasonably expectable public demand, unless the advertisement discloses a
+3 limitation of quantity;
+4 (12) Makes false or misleading statements of fact concerning the
+5 reasons for, existence of, or amounts of price reductions;
+6 (13) Uses or promotes the use of or establishes, operates, or
+7 participates in a pyramid promotional scheme in connection with the
+8 solicitation of such scheme to members of the public. This subdivision
+9 shall not be construed to prohibit a plan or operation, or to define a
+10 plan or operation as a pyramid promotional scheme, based on the fact that
+11 participants in the plan or operation give consideration in return for
+12 the right to receive compensation based upon purchases of goods,
+13 services, or intangible property by participants for personal use,
+14 consumption, or resale so long as the plan or operation does not promote
+15 or induce inventory loading and the plan or operation implements an
+16 appropriate inventory repurchase program;
+17 (14) With respect to a sale or lease to a natural person of goods or
+18 services purchased or leased primarily for personal, family, household,
+19 or agricultural purposes, uses or employs any referral or chain referral
+20 sales technique, plan, arrangement, or agreement;
+21 (15) Knowingly makes a false or misleading statement in a privacy
+22 policy, published on the Internet or otherwise distributed or published,
+23 regarding the use of personal information submitted by members of the
+24 public;
+25 (16) Uses any scheme or device to defraud by means of:
+26 (i) Obtaining money or property by knowingly false or fraudulent
+27 pretenses, representations, or promises; or
+28 (ii) Selling, distributing, supplying, furnishing, or procuring any
+29 property for the purpose of furthering such scheme;
+30 (17) Offers an unsolicited check, through the mail or by other
+31 means, to promote goods or services if the cashing or depositing of the
+-14-
+LB602 LB602
+2025 2025
+1 check obligates the endorser or payee identified on the check to pay for
+2 goods or services. This subdivision does not apply to an extension of
+3 credit or an offer to lend money;
+4 (18) Mails or causes to be sent an unsolicited billing statement,
+5 invoice, or other document that appears to obligate the consumer to make
+6 a payment for services or merchandise he or she did not order;
+7 (19)(i) Installs, offers to install, or makes available for
+8 installation or download a covered file-sharing program on a computer not
+9 owned by such person without providing clear and conspicuous notice to
+10 the owner or authorized user of the computer that files on that computer
+11 will be made available to the public and without requiring intentional
+12 and affirmative activation of the file-sharing function of such covered
+13 file-sharing program by the owner or authorized user of the computer; or
+14 (ii) Prevents reasonable efforts to block the installation,
+15 execution, or disabling of a covered file-sharing program;
+16 (20) Violates any provision of the Nebraska Foreclosure Protection
+17 Act;
+18 (21) In connection with the solicitation of funds or other assets
+19 for any charitable purpose, or in connection with any solicitation which
+20 represents that funds or assets will be used for any charitable purpose,
+21 uses or employs any deception, fraud, false pretense, false promise,
+22 misrepresentation, unfair practice, or concealment, suppression, or
+23 omission of any material fact;
+24 (22)(i) In the manufacture, production, importation, distribution,
+25 promotion, display for sale, offer for sale, attempt to sell, or sale of
+26 a substance:
+27 (A) Makes a deceptive or misleading representation or designation,
+28 or omits material information, about a substance or fails to identify the
+29 contents of the package or the nature of the substance contained inside
+30 the package; or
+31 (B) Causes confusion or misunderstanding as to the effects a
+-15-
+LB602 LB602
+2025 2025
+1 substance causes when ingested, injected, inhaled, or otherwise
+2 introduced into the human body.
+3 (ii) A person shall be deemed to have committed a violation of the
+4 Uniform Deceptive Trade Practices Act for each individually packaged
+5 product that is either manufactured, produced, imported, distributed,
+6 promoted, displayed for sale, offered for sale, attempted to sell, or
+7 sold in violation of this section. A violation under this subdivision (a)
+8 (22) shall be treated as a separate and distinct violation from any other
+9 offense arising out of acts alleged to have been committed while the
+10 person was in violation of this section;
+11 (23)(i) Manufactures, produces, publishes, distributes, monetizes,
+12 promotes, or otherwise makes publicly available any visual depiction of
+13 sexually explicit conduct, any obscene material, or any material that is
+14 harmful to minors in which any person depicted as a participant or
+15 observer:
+16 (A) Is under eighteen years of age;
+17 (B) Is a trafficking victim;
+18 (C) Has not expressly and voluntarily consented to such person's
+19 depiction; or
+20 (D) Participated in any act depicted without consent.
+21 (ii) This subdivision (a)(23) does not apply to any
+22 telecommunications service.
+23 (iii) For purposes of this subdivision (a)(23):
+24 (A) Harmful to minors has the same meaning as in 47 U.S.C. 254, as
+25 such section existed on January 1, 2024;
+26 (B) Obscene material has the same meaning as in section 28-807;
+27 (C) Promote means to use any mechanism or publication, or take any
+28 action, that suggests, highlights, advertises, markets, curates,
+29 backlinks, hashtags, or otherwise directs, attempts to direct, or
+30 encourages traffic toward specific materials, including acts carried out
+31 affirmatively, through automation, algorithmically, and via other
+-16-
+LB602 LB602
+2025 2025
+1 technical means both known and unknown at this time;
+2 (D) Publish means to communicate or make information available to
+3 another person via an Internet website, regardless of whether the person
+4 consuming, viewing, or receiving the material gives any consideration for
+5 the published material;
+6 (E) Trafficking victim has the same meaning as in section 28-830;
+7 (F) Visual depiction of sexually explicit conduct has the same
+8 meaning as in section 28-1463.02; and
+9 (G) Without consent has the same meaning as in section 28-318; or
+10 (24) Offers or enters into a right-to-list home sale agreement as
+11 defined in section 81-885.01; or .
+12 (25) Violates section 6 or 7 of this act.
+13 (b) In order to prevail in an action under the Uniform Deceptive
+14 Trade Practices Act, a complainant need not prove competition between the
+15 parties.
+16 (c) This section does not affect unfair trade practices otherwise
+17 actionable at common law or under other statutes of this state.
+18 Sec. 14. Original section 87-302, Reissue Revised Statutes of
+19 Nebraska, is repealed.
+-17-
+[DELETED: yJA B F A A r t d p t a s 8Ra L E T a E A t p dB2L52]
+[DELETED: Sc a t D E a L E T aES 2  F t p o t D A u os(( A p d b a c t a o t cb(0c o o b o a c f w t g h l1r2(3i s t a g c o o p4a5( D b m a c o a u o u o 6c7(8t9(0w1(2( C c s u o r u o t3c4(5(6(7p889S0s1( T D A d n a t a e s i2L52]
+[DELETED: sS 4  T D A d n a t t i arSat(a(0p1( C l r f i i t n b t2S3S4d i a m a c i s5p t i w i o o m r a p a6c a t a p s t a7a8(9(0(1(2t3(4s5(6f t p o p d a i o a s7c8d9(0t1( R t i a a o r2L52]
+[DELETED: fa i o a e p o o r cp d a t e o a p f e ail( R o e a c e at i e a t f t e aca0( M e c w p a p1e2(3f4( I s p f t d b e5r6p7( P d m f v o a p o8p9( I m f p a t e f0a1( P p f t s o t s2p3(4p5t6( R t s p b c t7i8( P r r o p a t r9c0t1( I r m t e t t p i2L52]
+[DELETED: o i a m r c t p ua t o u u o p d a a nut( R t r r o t s o t ps(( W t i a m c i t d bb0o1( R t d o r a t i2c3m4a t m c i b p r t p o5p6( T t e t f i t f7p a p w r t c s s8r o p a p p a h d o9s0( T u o s u a p t i1e2(3( U a r s m o a a s4p o u u i t w m i5b6(7a8t9( R a t o a u a a u0a1( B a t u c o i a2L52]
+[DELETED: m((tp( A t e e o c w a t cwp0t1(2(3t4(5( R m o s f u u o o6a7( E o a p d s o l c o8o9( F f c p d o a s t i0c t t I t u o r c f1p a o s s p t a r2d3(4( R c v o s s a s5t6v7( V o s s a s t i s8w9c0( A v o t s b a d b c 1d2L52]
+[DELETED: S 7  ( A d b s m r pd t e t t p d i d i u f l( S p s r t p u o tp d i t c t p f w tin( A d b s m a r e t v ti o a n p u a t u c b t0p1(2i3b4( A v o t s b a d b c 5d6S7a8a s b p a o t w o t S o9S0S1s2(3(4o5(6(7( T c p a t p p a e8a t n a I w a f t d9b0( A d o t c o d t d b1p2L52]
+[DELETED: ( A s o w o n t d b i p( I t d b h a k t t d bp(s a a o p t a a t tp( A s o h t d b c w af a s l r t c u o d o0p1(2d3i4b5( W t d b c p g o6c7( B J 1 2 w t d b h8u9a0r1( B J 1 2 t f a m2p3(4(5( T n o d r d b t c6r7(8c9( A a i o e t d b0c1( A d b t f t r a r b t2L52]
+[DELETED: s( A c p o t h d f e d t tdts(d(i a a o t a a t c d0a1(2r i t s s f a a t i a3o i n l t t d a r4n5c6d7i A s c p s b r t t S8T9t0(1r2( P t t S o S a c p o t3t4T5t6( C t i i n l t t d7a8f t c t i t d b s p t t9S0p1A s c p s b r t t S T f2L52]
+[DELETED: d i a w A V s 5 o tCSs( I a m r s p ap i a p a t satf0(1t2t3(4f5( A a c t a a p r m a a6l7(8r9(0p1i2(3t4(5(6(7t8( A t c o t a a t v t9s0(1(2L52]
+[DELETED: (s(( B A 1 2 a d b s a tae( P a v d r t d b hrp0( P a r a a o o t c p1d2(3t4(5v6(7a8( N u o d a i s b a c9t0t1( A d b m d a c r t d 2c3t4(5t u t a d m t d n e t6r7m8( B A 1 2 o a d b h p 9v c r t d a c p d t0d1( D a p d o t c a l o e2L52]
+[DELETED: f((a(r(p s b t S o S t d c wt0p1(2s s t r r f t a a a r3m t t S o S w f b d a 4w5(6f7(8(9d0f1S2(3s4( S a i r f a v o t5D6(7c8S9r0S 1 S 8 R R S o N i1a2L52]
+[DELETED: 8t((s( C l o c o o m a ta c o a w o c ba( U d r o d o g0o1( R t g o s h s a2c3n h o t a p h a s a s4a5( R t g o s d n h s6a c i u b o q7t8s9( R t g a o o n i t a0d a r r u o s1e t s m r d t a m a o o2r3c4(5q6t7(8o9(0a1m2L52]
+[DELETED: ( A g o s w i n t srl( M f o m s o f c tr( U o p t u o o e o op i a p p s i c w tss0p1p2t r t r c b u p o g3s o i p b p f p u4c5o i i l a t p o o i a6a7(8s9o0s1( K m a f o m s i a p2p3r t u o p i s b m o t4p5(6( O m o p b k f o f7p8(9p0( O a u c t t m o b o1m2L52]
+[DELETED: cg o s T s d n a t a e oc( M o c t b s a u b sia( I o t i o m a fio0t1w2a3f4( P r e t b t i5e6(7A8( I c w t s o f o o a9f0r1u o e a d f f p f p2m u p o c s o3o4( I t m p i d5p6a7(8o9c0t1( C c o m a t t e 2L52]
+[DELETED: s c w i i i o oi(U D T P A f e i pp t i e m p i dp d f s o f s a t s os(o a o o a a t h b c w t0p1( M p p d m2p3s4h t m i w a p d a a p o5o6(7(8( H n e a v c t s p9d0(1( T s ( d n a t a2t3(4(5s6(7(8a t s h a m c9b h o o d a t d o0e1a t a a a v o2L52]
+[DELETED: t( P m t c o m i a tact(( V d o s e c h t sm(0( O o e i a r h s a a1d2(3( I o t p i a a u t U D4T5p6( T s d n a u t p o7a8S 1  O s 8 R R S o9N2L52]
+
+
+================================================================================
+
+Raw Text:
+LB602 LB602
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 602
+Introduced by Juarez, 5.
+Read first time January 22, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to data privacy; to amend section 87-302,
+2 Reissue Revised Statutes of Nebraska; to adopt the Data Elimination
+3 and Limiting Extensive Tracking and Exchange Act; to provide a
+4 deceptive trade practice; and to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB602 LB602
+2025 2025
+1 Section 1. Sections 1 to 12 of this act shall be known and may be
+2 cited as the Data Elimination and Limiting Extensive Tracking and
+3 Exchange Act or the Delete Act.
+4 Sec. 2. For the purposes of the Delete Act, unless otherwise
+5 specified, the definitions found in section 87-1102 apply and:
+6 (1) Authorized agent means:
+7 (a) A person designated by a consumer to act on the consumer's
+8 behalf;
+9 (b) A parent or legal guardian who acts on behalf of the parent's
+10 child or on behalf of a child for whom the guardian has legal
+11 responsibility; or
+12 (c) A guardian or conservator who acts on behalf of a consumer who
+13 is subject to a guardianship, conservatorship, or other protective
+14 arrangement;
+15 (2) Data broker means a controller, or a unit or units of a
+16 controller, separately or together, that knowingly:
+17 (a) Processes and sells the personal data of a consumer with whom
+18 the controller does not have a direct relationship; or
+19 (b) Licenses to third parties the personal data of a consumer with
+20 whom the controller does not have a direct relationship;
+21 (3) Direct relationship with a controller means a consumer is a:
+22 (a) Customer, client, subscriber, user, or registered user of the
+23 controller's goods or services within the last five calendar years;
+24 (b) Employee, contractor, or agent of the controller; or
+25 (c) Investor in the controller; and
+26 (4) Opt-out means a controller can no longer process the consumer's
+27 personal data for the purposes described in subdivision (2)(e) of section
+28 87-1107.
+29 Sec. 3. (1) The Delete Act only applies to any person specified in
+30 subsection (1) of section 87-1103.
+31 (2) The Delete Act does not apply to any entity specified in
+-2-
+
+LB602 LB602
+2025 2025
+1 subsection (2) of section 87-1103.
+2 Sec. 4. The Delete Act does not apply to the information and
+3 records specified in section 87-1104.
+4 Sec. 5. A data broker that maintains an Internet website or mobile
+5 application shall post a conspicuous notice on the website or application
+6 that:
+7 (1) States that the entity maintaining the website or application is
+8 a data broker;
+9 (2) Is clear, not misleading, and readily accessible by the general
+10 public, including individuals with a disability; and
+11 (3) Contains language required for inclusion in the notice by the
+12 Secretary of State.
+13 Sec. 6. (1) A data broker conducting business in this state shall
+14 develop, implement, and maintain a comprehensive information security
+15 program that is written in one or more readily accessible parts and
+16 contains administrative, technical, and physical safeguards that are
+17 appropriate for the:
+18 (a) Data broker's size, scope, and type of business;
+19 (b) Amount of resources available to the data broker;
+20 (c) Amount of data stored by the data broker; and
+21 (d) Need for security and confidentiality of personal data stored by
+22 the data broker.
+23 (2) The comprehensive information security program required by this
+24 section shall:
+25 (a) Incorporate safeguards that are consistent with the safeguards
+26 for the protection of personal data and information of a similar
+27 character under state or federal laws and regulations applicable to the
+28 data broker;
+29 (b) Designate one or more employees of the data broker to maintain
+30 the program;
+31 (c) Require the identification and assessment of reasonably
+-3-
+
+LB602 LB602
+2025 2025
+1 foreseeable internal and external risks to the security, confidentiality,
+2 and integrity of any electronic, paper, or other record containing
+3 personal data, and the establishment of a process for evaluating and
+4 improving, as necessary, the effectiveness of the current safeguards for
+5 limiting those risks, including by:
+6 (i) Requiring ongoing employee and contractor education and
+7 training, including education and training for temporary employees and
+8 contractors of the data broker, on the proper use of security procedures
+9 and protocols and the importance of personal data security;
+10 (ii) Mandating employee compliance with policies and procedures
+11 established under the program; and
+12 (iii) Providing a means for detecting and preventing security system
+13 failures;
+14 (d) Include security policies for the data broker's employees
+15 relating to the storage, access, and transportation of records containing
+16 personal data outside of the broker's physical business premises;
+17 (e) Provide disciplinary measures for violations of a policy or
+18 procedure established under the program;
+19 (f) Include measures for preventing a terminated employee from
+20 accessing records containing personal data;
+21 (g) Provide policies for the supervision of third-party service
+22 providers that include:
+23 (i) Taking reasonable steps to select and retain third-party service
+24 providers that are capable of maintaining appropriate security measures
+25 to protect personal data consistent with applicable law; and
+26 (ii) Requiring third-party service providers by contract to
+27 implement and maintain appropriate security measures for personal data;
+28 (h) Provide reasonable restrictions on physical access to records
+29 containing personal data, including by requiring the records containing
+30 the data to be stored in a locked facility, storage area, or container;
+31 (i) Include regular monitoring to ensure that the program is
+-4-
+
+LB602 LB602
+2025 2025
+1 operating in a manner reasonably calculated to prevent unauthorized
+2 access to or unauthorized use of personal data and, as necessary,
+3 upgrading information safeguards to limit the risk of unauthorized access
+4 to or unauthorized use of personal data;
+5 (j) Require the regular review of the scope of the program's
+6 security measures that shall occur:
+7 (i) At least annually; and
+8 (ii) Whenever there is a material change in the data broker's
+9 business practices that may reasonably affect the security or integrity
+10 of records containing personal data;
+11 (k) Require the documentation of responsive actions taken in
+12 connection with any incident involving a breach of security, including a
+13 mandatory post-incident review of each event and the actions taken, if
+14 any, to make changes in business practices relating to protection of
+15 personal data in response to that event; and
+16 (l) To the extent technically feasible, include the following
+17 procedures and protocols with respect to computer system security
+18 requirements or procedures and protocols providing a higher degree of
+19 security, for the protection of personal data:
+20 (i) The use of secure user authentication protocols that include
+21 each of the following features:
+22 (A) Controlling user log-in credentials and other identifiers;
+23 (B) Using a reasonably secure method of assigning and selecting
+24 passwords or using unique identifier technologies, which may include
+25 biometrics or token devices;
+26 (C) Controlling data security passwords to ensure that the passwords
+27 are kept in a location and format that do not compromise the security of
+28 the data the passwords protect;
+29 (D) Restricting access to only active users and active user
+30 accounts; and
+31 (E) Blocking access to user credentials or identification after
+-5-
+
+LB602 LB602
+2025 2025
+1 multiple unsuccessful attempts to gain access;
+2 (ii) The use of secure access control measures that include:
+3 (A) Restricting access to records and files containing personal data
+4 to only employees or contractors who need access to that personal data to
+5 perform the job duties of the employees or contractors; and
+6 (B) Assigning to each employee or contractor with access to a
+7 computer containing personal data unique identification and a password,
+8 which shall not be a vendor-supplied default password, or using another
+9 protocol reasonably designed to maintain the integrity of the security of
+10 the access controls to personal data;
+11 (iii) Encryption of:
+12 (A) Transmitted records and files containing personal data that will
+13 travel across public networks; and
+14 (B) Data containing personal data that is transmitted wirelessly;
+15 (iv) Reasonable monitoring of systems for unauthorized use of or
+16 access to personal data;
+17 (v) Encryption of all personal data stored on laptop computers or
+18 other portable devices;
+19 (vi) For files containing personal data on a system that is
+20 connected to the Internet, the use of reasonably current firewall
+21 protection and operating system security patches that are reasonably
+22 designed to maintain the integrity of the personal data; and
+23 (vii) The use of any:
+24 (A) Reasonably current version of system security agent software
+25 that shall include malware protection and reasonably current patches and
+26 virus definitions; or
+27 (B) Version of system security agent software that is supportable
+28 with current patches and virus definitions and is set to receive the most
+29 current security updates on a regular basis.
+30 (3) A violation of this section by a data broker constitutes a
+31 deceptive trade practice.
+-6-
+
+LB602 LB602
+2025 2025
+1 Sec. 7. (1) A data broker shall maintain reasonable procedures
+2 designed to ensure that the personal data it discloses is used for a
+3 legitimate and legal purpose.
+4 (2) Such procedures shall require that prospective users of the
+5 personal data identify themselves, certify the purposes for which the
+6 information is sought, and certify that the information shall be used for
+7 no other purpose.
+8 (3) A data broker shall make a reasonable effort to verify the
+9 identity of a new prospective user and the uses certified by the
+10 prospective user prior to furnishing the user's personal data.
+11 (4) A data broker shall not furnish personal data to any person if
+12 it has reasonable grounds for believing that the personal data will not
+13 be used for a legitimate and legal purpose.
+14 (5) A violation of this section by a data broker constitutes a
+15 deceptive trade practice.
+16 Sec. 8. The registration information provided in section 9 of this
+17 act and the accessible deletion mechanism described in section 10 of this
+18 act shall be publicly accessible on the website of the Secretary of
+19 State.
+20 Sec. 9. (1) On or before January 31 of each year, a data broker
+21 shall:
+22 (a) Register with the Secretary of State;
+23 (b) Pay a registration fee in an amount determined by the Secretary
+24 of State, but not to exceed three hundred dollars; and
+25 (c) Provide the following information with the registration:
+26 (i) The legal name of the data broker;
+27 (ii) The contact person and the primary physical address, email
+28 address, telephone number, and Internet website address for the data
+29 broker;
+30 (iii) A description of the categories of data the data broker
+31 processes and transfers;
+-7-
+
+LB602 LB602
+2025 2025
+1 (iv) A statement of whether or not the data broker implements a
+2 purchaser credentialing process pursuant to section 7 of this act;
+3 (v) If the data broker has actual knowledge that the data broker
+4 possesses personal data of a known child:
+5 (A) A statement detailing the data collection practices, databases,
+6 sales activities, and opt-out policies that are applicable to the
+7 personal data of a known child; and
+8 (B) A statement on how the data broker complies with applicable
+9 federal and state law regarding the collection, use, or disclosure of
+10 personal data from and about a child on the Internet;
+11 (vi) The number of security breaches the data broker has experienced
+12 during the year immediately preceding the year in which the registration
+13 is filed, and, if known, the total number of consumers affected by each
+14 breach;
+15 (vii) Whether the data broker collects precise geolocation of
+16 consumers;
+17 (viii) Beginning January 1, 2031, whether the data broker has
+18 undergone an audit pursuant to subsection (4) of section 10 of this act
+19 and, if so, the most recent year in which the data broker has submitted a
+20 report resulting from the audit to the Secretary of State;
+21 (ix) Beginning January 1, 2029, the following annual metrics
+22 pursuant to section 10 of this act:
+23 (A) The number of deletion requests received;
+24 (B) The number of deletion requests processed;
+25 (C) The number of deletion requests denied because the consumer
+26 request cannot be verified; and
+27 (D) The number of deletion requests denied because retention of the
+28 consumer's personal data is required by law; and
+29 (x) Any additional information or explanation the data broker
+30 chooses to provide concerning its data collection practices.
+31 (2)(a) A data broker that fails to register as required by this
+-8-
+
+LB602 LB602
+2025 2025
+1 section shall pay to the Secretary of State:
+2 (i) A civil penalty of two hundred dollars for each day that the
+3 data broker fails to register. All such civil penalties shall be remitted
+4 to the State Treasurer for distribution in accordance with Article VII,
+5 section 5, of the Constitution of Nebraska;
+6 (ii) An amount equal to the fees that were due during the period the
+7 data broker failed to register; and
+8 (iii) Any reasonable costs incurred by the Attorney General in the
+9 investigation and administration of the action as the court deems
+10 appropriate.
+11 (b) A data broker that fails to provide all registration information
+12 required in this section shall file an amendment that includes any
+13 omitted information no later than thirty days after receiving
+14 notification of the omission from the Secretary of State and shall pay a
+15 civil penalty of one thousand dollars to the Secretary of State for each
+16 day that the data broker does not file an amendment providing the omitted
+17 information. All such civil penalties shall be remitted to the State
+18 Treasurer for distribution in accordance with Article VII, section 5, of
+19 the Constitution of Nebraska.
+20 (c) A data broker that files materially incorrect information in its
+21 registration shall:
+22 (i) Pay to the Secretary of State a civil penalty of twenty-five
+23 thousand dollars. All such civil penalties shall be remitted to the State
+24 Treasurer for distribution in accordance with Article VII, section 5, of
+25 the Constitution of Nebraska; and
+26 (ii) Correct the incorrect information no later than thirty days
+27 after discovery or notification of the incorrect information and, if it
+28 fails to correct the information, the data broker shall pay to the
+29 Secretary of State an additional civil penalty of one thousand dollars
+30 per day for each day the data broker fails to correct the information.
+31 All such civil penalties shall be remitted to the State Treasurer for
+-9-
+
+LB602 LB602
+2025 2025
+1 distribution in accordance with Article VII, section 5, of the
+2 Constitution of Nebraska.
+3 Sec. 10. (1) On or before January 1, 2028, the Secretary of State
+4 shall establish an accessible deletion mechanism that:
+5 (a) Implements and maintains reasonable security procedures and
+6 practices, including administrative, physical, and technical safeguards
+7 appropriate to the nature of the information and the purposes for which
+8 the personal data will be used and to protect a consumer's personal data
+9 from unauthorized use, disclosure, access, destruction, or modification;
+10 (b) Allows a consumer, through a single verifiable consumer request,
+11 to request that every data broker that maintains any personal data about
+12 the consumer delete the personal data;
+13 (c) Allows a consumer to selectively exclude specific data brokers
+14 from a request made;
+15 (d) Allows a consumer to alter a previous request made after at
+16 least forty-five days have passed since the consumer last made a request;
+17 (e) Allows a consumer to request the deletion of all personal data
+18 related to that consumer through a single deletion request;
+19 (f) Permits a consumer to securely submit information in one or more
+20 privacy-protecting ways, as determined by the Secretary of State, to aid
+21 in the deletion request;
+22 (g) Allows a consumer to make a request using a website operated by
+23 the Secretary of State;
+24 (h) Does not charge a consumer to make a request;
+25 (i) Is readily accessible and usable by consumers with disabilities;
+26 (j) Supports the ability of a consumer's authorized agents to aid in
+27 the deletion request;
+28 (k) Allows the consumer or their authorized agent to verify the
+29 status of the consumer's deletion request; and
+30 (l) Provides a description of the following:
+31 (i) The deletion permitted by this section;
+-10-
+
+LB602 LB602
+2025 2025
+1 (ii) The process for submitting a deletion request pursuant to this
+2 section; and
+3 (iii) Examples of the types of information that may be deleted.
+4 (2)(a) Beginning August 1, 2028, a data broker shall access the
+5 accessible deletion mechanism established in this section at least once
+6 every forty-five days and shall:
+7 (i) Process all verifiable deletion requests the data broker has
+8 received from consumers in the previous forty-five days and delete such
+9 personal data;
+10 (ii) Process a request as an opt-out of the consumer's personal
+11 data;
+12 (iii) Direct all service providers and contractors associated with
+13 the data broker to:
+14 (A) Delete all personal data related to a consumer who has made a
+15 verifiable deletion request; and
+16 (B) Process a request as an opt-out of the consumer's personal data;
+17 and
+18 (iv) Not use or disclose any information submitted by a consumer
+19 through the accessible deletion mechanism for any other purpose besides
+20 the authority provided in this section, including for marketing purposes.
+21 (b) A data broker may deny a consumer's request to delete a
+22 consumer's personal data made pursuant to this section if retention of
+23 the consumer's personal data is required by law.
+24 (c) The Secretary of State may charge an access fee to a data broker
+25 to use the accessible deletion mechanism that does not exceed the
+26 reasonable costs of the Secretary of State for providing access to such
+27 mechanism.
+28 (3) Beginning August 1, 2028, once a data broker has processed a
+29 verifiable consumer request to delete a consumer's personal data, the
+30 data broker shall:
+31 (a) Delete all personal data of the consumer at least once every
+-11-
+
+LB602 LB602
+2025 2025
+1 forty-five days unless:
+2 (i) The consumer alters the consumer's decision; or
+3 (ii) Retention of the consumer's personal data is required by law;
+4 and
+5 (b) Not sell new personal data of the consumer unless the consumer
+6 requests otherwise;
+7 (4)(a) A data broker shall undergo an audit by an independent third
+8 party selected by the Secretary of State to determine compliance with
+9 this section at least once every three years, with the first audit taking
+10 place on or before December 31, 2030.
+11 (b) For an audit completed pursuant to this section, the data broker
+12 shall submit the report resulting from the audit and any related
+13 materials to the Secretary of State within five business days after a
+14 written request from the Secretary of State.
+15 (c) A data broker shall maintain all reports and materials resulting
+16 from audits conducted pursuant to this section for at least six years.
+17 (5) A data broker that fails to comply with subsections (1) through
+18 (4) of this section shall pay a civil penalty of two hundred dollars per
+19 day to the Secretary of State for each deletion request the data broker
+20 fails to complete as required by this section.
+21 Sec. 11. (1) The Attorney General may:
+22 (a) Bring an action to collect any civil penalty imposed under this
+23 section; and
+24 (b) Seek appropriate injunctive relief for any violation of the
+25 Delete Act.
+26 (2) The Attorney General may recover reasonable attorney's fees and
+27 costs incurred in bringing an action under the Delete Act.
+28 Sec. 12. The Secretary of State may adopt and promulgate rules and
+29 regulations to carry out the Delete Act.
+30 Sec. 13. Section 87-302, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-12-
+
+LB602 LB602
+2025 2025
+1 87-302 (a) A person engages in a deceptive trade practice when, in
+2 the course of his or her business, vocation, or occupation, he or she:
+3 (1) Passes off goods or services as those of another;
+4 (2) Causes likelihood of confusion or of misunderstanding as to the
+5 source, sponsorship, approval, or certification of goods or services;
+6 (3) Causes likelihood of confusion or of misunderstanding as to
+7 affiliation, connection, or association with, or certification by,
+8 another;
+9 (4) Uses deceptive representations or designations of geographic
+10 origin in connection with goods or services;
+11 (5) Represents that goods or services have sponsorship, approval,
+12 characteristics, ingredients, uses, benefits, or quantities that they do
+13 not have or that a person has a sponsorship, approval, status,
+14 affiliation, or connection that he or she does not have;
+15 (6) Represents that goods or services do not have sponsorship,
+16 approval, characteristics, ingredients, uses, benefits, or quantities
+17 that they have or that a person does not have a sponsorship, approval,
+18 status, affiliation, or connection that he or she has;
+19 (7) Represents that goods are original or new if they are
+20 deteriorated, altered, reconditioned, reclaimed, used, or secondhand,
+21 except that sellers may repair damage to and make adjustments on or
+22 replace parts of otherwise new goods in an effort to place such goods in
+23 compliance with factory specifications;
+24 (8) Represents that goods or services are of a particular standard,
+25 quality, or grade, or that goods are of a particular style or model, if
+26 they are of another;
+27 (9) Disparages the goods, services, or business of another by false
+28 or misleading representation of fact;
+29 (10) Advertises goods or services with intent not to sell them as
+30 advertised or advertises the price in any manner calculated or tending to
+31 mislead or in any way deceive a person;
+-13-
+
+LB602 LB602
+2025 2025
+1 (11) Advertises goods or services with intent not to supply
+2 reasonably expectable public demand, unless the advertisement discloses a
+3 limitation of quantity;
+4 (12) Makes false or misleading statements of fact concerning the
+5 reasons for, existence of, or amounts of price reductions;
+6 (13) Uses or promotes the use of or establishes, operates, or
+7 participates in a pyramid promotional scheme in connection with the
+8 solicitation of such scheme to members of the public. This subdivision
+9 shall not be construed to prohibit a plan or operation, or to define a
+10 plan or operation as a pyramid promotional scheme, based on the fact that
+11 participants in the plan or operation give consideration in return for
+12 the right to receive compensation based upon purchases of goods,
+13 services, or intangible property by participants for personal use,
+14 consumption, or resale so long as the plan or operation does not promote
+15 or induce inventory loading and the plan or operation implements an
+16 appropriate inventory repurchase program;
+17 (14) With respect to a sale or lease to a natural person of goods or
+18 services purchased or leased primarily for personal, family, household,
+19 or agricultural purposes, uses or employs any referral or chain referral
+20 sales technique, plan, arrangement, or agreement;
+21 (15) Knowingly makes a false or misleading statement in a privacy
+22 policy, published on the Internet or otherwise distributed or published,
+23 regarding the use of personal information submitted by members of the
+24 public;
+25 (16) Uses any scheme or device to defraud by means of:
+26 (i) Obtaining money or property by knowingly false or fraudulent
+27 pretenses, representations, or promises; or
+28 (ii) Selling, distributing, supplying, furnishing, or procuring any
+29 property for the purpose of furthering such scheme;
+30 (17) Offers an unsolicited check, through the mail or by other
+31 means, to promote goods or services if the cashing or depositing of the
+-14-
+
+LB602 LB602
+2025 2025
+1 check obligates the endorser or payee identified on the check to pay for
+2 goods or services. This subdivision does not apply to an extension of
+3 credit or an offer to lend money;
+4 (18) Mails or causes to be sent an unsolicited billing statement,
+5 invoice, or other document that appears to obligate the consumer to make
+6 a payment for services or merchandise he or she did not order;
+7 (19)(i) Installs, offers to install, or makes available for
+8 installation or download a covered file-sharing program on a computer not
+9 owned by such person without providing clear and conspicuous notice to
+10 the owner or authorized user of the computer that files on that computer
+11 will be made available to the public and without requiring intentional
+12 and affirmative activation of the file-sharing function of such covered
+13 file-sharing program by the owner or authorized user of the computer; or
+14 (ii) Prevents reasonable efforts to block the installation,
+15 execution, or disabling of a covered file-sharing program;
+16 (20) Violates any provision of the Nebraska Foreclosure Protection
+17 Act;
+18 (21) In connection with the solicitation of funds or other assets
+19 for any charitable purpose, or in connection with any solicitation which
+20 represents that funds or assets will be used for any charitable purpose,
+21 uses or employs any deception, fraud, false pretense, false promise,
+22 misrepresentation, unfair practice, or concealment, suppression, or
+23 omission of any material fact;
+24 (22)(i) In the manufacture, production, importation, distribution,
+25 promotion, display for sale, offer for sale, attempt to sell, or sale of
+26 a substance:
+27 (A) Makes a deceptive or misleading representation or designation,
+28 or omits material information, about a substance or fails to identify the
+29 contents of the package or the nature of the substance contained inside
+30 the package; or
+31 (B) Causes confusion or misunderstanding as to the effects a
+-15-
+
+LB602 LB602
+2025 2025
+1 substance causes when ingested, injected, inhaled, or otherwise
+2 introduced into the human body.
+3 (ii) A person shall be deemed to have committed a violation of the
+4 Uniform Deceptive Trade Practices Act for each individually packaged
+5 product that is either manufactured, produced, imported, distributed,
+6 promoted, displayed for sale, offered for sale, attempted to sell, or
+7 sold in violation of this section. A violation under this subdivision (a)
+8 (22) shall be treated as a separate and distinct violation from any other
+9 offense arising out of acts alleged to have been committed while the
+10 person was in violation of this section;
+11 (23)(i) Manufactures, produces, publishes, distributes, monetizes,
+12 promotes, or otherwise makes publicly available any visual depiction of
+13 sexually explicit conduct, any obscene material, or any material that is
+14 harmful to minors in which any person depicted as a participant or
+15 observer:
+16 (A) Is under eighteen years of age;
+17 (B) Is a trafficking victim;
+18 (C) Has not expressly and voluntarily consented to such person's
+19 depiction; or
+20 (D) Participated in any act depicted without consent.
+21 (ii) This subdivision (a)(23) does not apply to any
+22 telecommunications service.
+23 (iii) For purposes of this subdivision (a)(23):
+24 (A) Harmful to minors has the same meaning as in 47 U.S.C. 254, as
+25 such section existed on January 1, 2024;
+26 (B) Obscene material has the same meaning as in section 28-807;
+27 (C) Promote means to use any mechanism or publication, or take any
+28 action, that suggests, highlights, advertises, markets, curates,
+29 backlinks, hashtags, or otherwise directs, attempts to direct, or
+30 encourages traffic toward specific materials, including acts carried out
+31 affirmatively, through automation, algorithmically, and via other
+-16-
+
+LB602 LB602
+2025 2025
+1 technical means both known and unknown at this time;
+2 (D) Publish means to communicate or make information available to
+3 another person via an Internet website, regardless of whether the person
+4 consuming, viewing, or receiving the material gives any consideration for
+5 the published material;
+6 (E) Trafficking victim has the same meaning as in section 28-830;
+7 (F) Visual depiction of sexually explicit conduct has the same
+8 meaning as in section 28-1463.02; and
+9 (G) Without consent has the same meaning as in section 28-318; or
+10 (24) Offers or enters into a right-to-list home sale agreement as
+11 defined in section 81-885.01; or .
+12 (25) Violates section 6 or 7 of this act.
+13 (b) In order to prevail in an action under the Uniform Deceptive
+14 Trade Practices Act, a complainant need not prove competition between the
+15 parties.
+16 (c) This section does not affect unfair trade practices otherwise
+17 actionable at common law or under other statutes of this state.
+18 Sec. 14. Original section 87-302, Reissue Revised Statutes of
+19 Nebraska, is repealed.
+-17-
+
+[DELETED: yJA B F A A r t d p t a s 8Ra L E T a E A t p dB2L52]
+[DELETED: Sc a t D E a L E T aES 2  F t p o t D A u os(( A p d b a c t a o t cb(0c o o b o a c f w t g h l1r2(3i s t a g c o o p4a5( D b m a c o a u o u o 6c7(8t9(0w1(2( C c s u o r u o t3c4(5(6(7p889S0s1( T D A d n a t a e s i2L52]
+[DELETED: sS 4  T D A d n a t t i arSat(a(0p1( C l r f i i t n b t2S3S4d i a m a c i s5p t i w i o o m r a p a6c a t a p s t a7a8(9(0(1(2t3(4s5(6f t p o p d a i o a s7c8d9(0t1( R t i a a o r2L52]
+[DELETED: fa i o a e p o o r cp d a t e o a p f e ail( R o e a c e at i e a t f t e aca0( M e c w p a p1e2(3f4( I s p f t d b e5r6p7( P d m f v o a p o8p9( I m f p a t e f0a1( P p f t s o t s2p3(4p5t6( R t s p b c t7i8( P r r o p a t r9c0t1( I r m t e t t p i2L52]
+[DELETED: o i a m r c t p ua t o u u o p d a a nut( R t r r o t s o t ps(( W t i a m c i t d bb0o1( R t d o r a t i2c3m4a t m c i b p r t p o5p6( T t e t f i t f7p a p w r t c s s8r o p a p p a h d o9s0( T u o s u a p t i1e2(3( U a r s m o a a s4p o u u i t w m i5b6(7a8t9( R a t o a u a a u0a1( B a t u c o i a2L52]
+[DELETED: m((tp( A t e e o c w a t cwp0t1(2(3t4(5( R m o s f u u o o6a7( E o a p d s o l c o8o9( F f c p d o a s t i0c t t I t u o r c f1p a o s s p t a r2d3(4( R c v o s s a s5t6v7( V o s s a s t i s8w9c0( A v o t s b a d b c 1d2L52]
+[DELETED: S 7  ( A d b s m r pd t e t t p d i d i u f l( S p s r t p u o tp d i t c t p f w tin( A d b s m a r e t v ti o a n p u a t u c b t0p1(2i3b4( A v o t s b a d b c 5d6S7a8a s b p a o t w o t S o9S0S1s2(3(4o5(6(7( T c p a t p p a e8a t n a I w a f t d9b0( A d o t c o d t d b1p2L52]
+[DELETED: ( A s o w o n t d b i p( I t d b h a k t t d bp(s a a o p t a a t tp( A s o h t d b c w af a s l r t c u o d o0p1(2d3i4b5( W t d b c p g o6c7( B J 1 2 w t d b h8u9a0r1( B J 1 2 t f a m2p3(4(5( T n o d r d b t c6r7(8c9( A a i o e t d b0c1( A d b t f t r a r b t2L52]
+[DELETED: s( A c p o t h d f e d t tdts(d(i a a o t a a t c d0a1(2r i t s s f a a t i a3o i n l t t d a r4n5c6d7i A s c p s b r t t S8T9t0(1r2( P t t S o S a c p o t3t4T5t6( C t i i n l t t d7a8f t c t i t d b s p t t9S0p1A s c p s b r t t S T f2L52]
+[DELETED: d i a w A V s 5 o tCSs( I a m r s p ap i a p a t satf0(1t2t3(4f5( A a c t a a p r m a a6l7(8r9(0p1i2(3t4(5(6(7t8( A t c o t a a t v t9s0(1(2L52]
+[DELETED: (s(( B A 1 2 a d b s a tae( P a v d r t d b hrp0( P a r a a o o t c p1d2(3t4(5v6(7a8( N u o d a i s b a c9t0t1( A d b m d a c r t d 2c3t4(5t u t a d m t d n e t6r7m8( B A 1 2 o a d b h p 9v c r t d a c p d t0d1( D a p d o t c a l o e2L52]
+[DELETED: f((a(r(p s b t S o S t d c wt0p1(2s s t r r f t a a a r3m t t S o S w f b d a 4w5(6f7(8(9d0f1S2(3s4( S a i r f a v o t5D6(7c8S9r0S 1 S 8 R R S o N i1a2L52]
+[DELETED: 8t((s( C l o c o o m a ta c o a w o c ba( U d r o d o g0o1( R t g o s h s a2c3n h o t a p h a s a s4a5( R t g o s d n h s6a c i u b o q7t8s9( R t g a o o n i t a0d a r r u o s1e t s m r d t a m a o o2r3c4(5q6t7(8o9(0a1m2L52]
+[DELETED: ( A g o s w i n t srl( M f o m s o f c tr( U o p t u o o e o op i a p p s i c w tss0p1p2t r t r c b u p o g3s o i p b p f p u4c5o i i l a t p o o i a6a7(8s9o0s1( K m a f o m s i a p2p3r t u o p i s b m o t4p5(6( O m o p b k f o f7p8(9p0( O a u c t t m o b o1m2L52]
+[DELETED: cg o s T s d n a t a e oc( M o c t b s a u b sia( I o t i o m a fio0t1w2a3f4( P r e t b t i5e6(7A8( I c w t s o f o o a9f0r1u o e a d f f p f p2m u p o c s o3o4( I t m p i d5p6a7(8o9c0t1( C c o m a t t e 2L52]
+[DELETED: s c w i i i o oi(U D T P A f e i pp t i e m p i dp d f s o f s a t s os(o a o o a a t h b c w t0p1( M p p d m2p3s4h t m i w a p d a a p o5o6(7(8( H n e a v c t s p9d0(1( T s ( d n a t a2t3(4(5s6(7(8a t s h a m c9b h o o d a t d o0e1a t a a a v o2L52]
+[DELETED: t( P m t c o m i a tact(( V d o s e c h t sm(0( O o e i a r h s a a1d2(3( I o t p i a a u t U D4T5p6( T s d n a u t p o7a8S 1  O s 8 R R S o9N2L52]

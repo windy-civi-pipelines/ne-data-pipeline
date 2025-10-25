@@ -1,0 +1,30 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Bosn FA190
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA190 FA190
+LB521 LB521
+Floor Amendment To LB521
+Introduced by Bosn, 25.
+Strike Sections 80 and 81.
+-1-
+[DELETED: yB0F1L]
+
+
+================================================================================
+
+Raw Text:
+FA190 FA190
+LB521 LB521
+Floor Amendment To LB521
+Introduced by Bosn, 25.
+Strike Sections 80 and 81.
+-1-
+
+[DELETED: yB0F1L]

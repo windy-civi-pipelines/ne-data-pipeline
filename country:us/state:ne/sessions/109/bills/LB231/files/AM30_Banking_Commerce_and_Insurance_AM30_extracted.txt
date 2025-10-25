@@ -1,0 +1,63 @@
+Title: 1 1. On page 2, strike lines 9 through 12 and insert the following new
+Official Title: 1 1. On page 2, strike lines 9 through 12 and insert the following new
+Number of Sections: 1
+Source: versions - Banking, Commerce and Insurance AM30
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM30 AM30
+LB231 LB231
+QNC - 01/27/2025 QNC - 01/27/2025
+AMENDMENTS TO LB231
+Introduced by Banking, Commerce and Insurance.
+2 subdivision:
+3 "(2) Financial institution means a bank, savings bank, building and
+4 loan association, savings and loan association, or credit union, whether
+5 chartered by the United States, the department, or a foreign state
+6 agency; any other similar organization which is covered by federal
+7 deposit insurance; a trust company; or a digital asset depository that is
+8 not a digital asset depository institution.".
+9 2. On page 2, lines 5, 20, and 31; page 3, lines 1, 3, 7, 10, 13,
+10 and 15; page 5, lines 20, 24, 25, 29, and 30; page 6, lines 3, 14, 19,
+11 20, and 24; page 7, lines 7, 9, 12, 15, 17, 23, 27, 29, and 30; page 8,
+12 lines 1, 2, 4, 5, 6, 7, 11, 13, 16, 19, 21, 24, 26, and 28; page 9, lines
+13 1, 3, 4, 6, 7, 9, 12, 13, 15, 17, 18, 21, 23, and 26; and page 10, lines
+14 1, 4, and 6, strike each occurrence of "bank" and insert "financial
+15 institution".
+16 3. On page 7, line 3; and page 8, line 3, strike "bank's" and insert
+17 "financial institution's".
+-1-
+[DELETED: yB1s"lc b t U S t d o a f sa a o s o w i c b fdn20a122l3141 4 a 6 s e o o " a i "5i637"0A1L5Q]
+
+
+================================================================================
+
+Raw Text:
+AM30 AM30
+LB231 LB231
+QNC - 01/27/2025 QNC - 01/27/2025
+AMENDMENTS TO LB231
+Introduced by Banking, Commerce and Insurance.
+1 1. On page 2, strike lines 9 through 12 and insert the following new
+2 subdivision:
+3 "(2) Financial institution means a bank, savings bank, building and
+4 loan association, savings and loan association, or credit union, whether
+5 chartered by the United States, the department, or a foreign state
+6 agency; any other similar organization which is covered by federal
+7 deposit insurance; a trust company; or a digital asset depository that is
+8 not a digital asset depository institution.".
+9 2. On page 2, lines 5, 20, and 31; page 3, lines 1, 3, 7, 10, 13,
+10 and 15; page 5, lines 20, 24, 25, 29, and 30; page 6, lines 3, 14, 19,
+11 20, and 24; page 7, lines 7, 9, 12, 15, 17, 23, 27, 29, and 30; page 8,
+12 lines 1, 2, 4, 5, 6, 7, 11, 13, 16, 19, 21, 24, 26, and 28; page 9, lines
+13 1, 3, 4, 6, 7, 9, 12, 13, 15, 17, 18, 21, 23, and 26; and page 10, lines
+14 1, 4, and 6, strike each occurrence of "bank" and insert "financial
+15 institution".
+16 3. On page 7, line 3; and page 8, line 3, strike "bank's" and insert
+17 "financial institution's".
+-1-
+
+[DELETED: yB1s"lc b t U S t d o a f sa a o s o w i c b fdn20a122l3141 4 a 6 s e o o " a i "5i637"0A1L5Q]

@@ -1,0 +1,717 @@
+Title: LEGISLATIVE BILL 394
+Official Title: LEGISLATIVE BILL 394
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LB394 LB394
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by DeKay, 40.
+Read first time January 17, 2025
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to the Weights and Measures Act; to amend
+2 sections 89-186, 89-187, 89-187.02, and 89-187.05, Reissue Revised
+3 Statutes of Nebraska; to adopt updates to federal law; to change
+4 provisions relating to fees; to change provisions relating to
+5 establishments that are permanently closed; to repeal the original
+6 sections; and to declare an emergency.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+LB394 LB394
+2025 2025
+1 Section 1. Section 89-186, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 89-186 (1) The Legislature hereby adopts by reference the following:
+4 (a) The standards of the National Conference on Weights and Measures
+5 published in National Institute of Standards and Technology Handbook 44
+6 entitled Specifications, Tolerances, and Other Technical Requirements for
+7 Weighing and Measuring Devices as it existed on January 1, 2025 2019,
+8 except Section 3.31. Vehicle - Tank meters. UR.2.2. Ticket Printer,
+9 Customer Ticket, Section 2.20. Scales, N.3. Minimum Test Weights and Test
+10 Loads; and Table 4, are not adopted. In addition to the language found in
+11 Section 3.30. Liquid-Measuring Devices, S.1.6.4., S.1.6.5., UR.3.2., and
+12 UR.3.3. of such handbook, any computing device in which a product or
+13 grade is offered for sale at more than one unit price may also compute at
+14 the lowest possible unit price for such transaction. All prices shall
+15 still be displayed or posted on the face of the dispenser. Such handbook
+16 shall govern all commercial and law enforcement weighing and measuring
+17 devices in the state;
+18 (b) The Uniform Regulation for the Method of Sale of Commodities of
+19 the National Conference on Weights and Measures published in National
+20 Institute of Standards and Technology Handbook 130 entitled Uniform Laws
+21 and Regulations in the Areas of Legal Metrology and Engine Fuel Quality
+22 as it existed on January 1, 2025 2019. Such handbook shall be used to
+23 determine the proper units of measurement to be used in the keeping for
+24 sale or sale of commodities;
+25 (c) The Uniform Packaging and Labeling Regulation of the National
+26 Conference on Weights and Measures published in National Institute of
+27 Standards and Technology Handbook 130 entitled Uniform Laws and
+28 Regulations in the Areas of Legal Metrology and Engine Fuel Quality as it
+29 existed on January 1, 2025 2019. Such handbook shall govern the packaging
+30 and labeling by weight, measure, or count of commodities kept for sale or
+31 sold in this state; and
+-2-
+LB394 LB394
+2025 2025
+1 (d) The procedures designated in National Institute of Standards and
+2 Technology Handbook 133 entitled Checking the Net Contents of Packaged
+3 Goods as it existed on January 1, 2025 2019.
+4 (2) Copies of the handbooks adopted by reference in this section
+5 shall be filed with the Secretary of State, Clerk of the Legislature, and
+6 Department of Agriculture. Copies filed with the Clerk of the Legislature
+7 shall be filed electronically.
+8 (3) Whenever there exists an inconsistency between the provisions of
+9 the Weights and Measures Act other than this section and any of the
+10 handbooks adopted by reference, the requirements of such provisions of
+11 the act shall control.
+12 Sec. 2. Section 89-187, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 89-187 For purposes of administering and enforcing the Weights and
+15 Measures Act, the director is authorized to:
+16 (1) Maintain traceability of the primary standards to the National
+17 Institute of Standards and Technology;
+18 (2) Enforce the provisions of the Weights and Measures Act;
+19 (3) Adopt and promulgate reasonable rules and regulations for the
+20 enforcement of the act including the following:
+21 (a) Requirements for the voluntary registration of sales and repair
+22 personnel for commercial weighing and measuring devices including:
+23 (i) Registration fees for such personnel which shall not exceed the
+24 actual cost to defray the operation of the voluntary registration
+25 program;
+26 (ii)(A) Qualifications for registration, which may include
+27 examinations, (B) performance standards to maintain registration, (C)
+28 types of equipment necessary for the work to be performed by the
+29 personnel, (D) responsibilities and privileges of registration, and (E)
+30 revocation and suspension of such registration and probation of the
+31 registrant; and
+-3-
+LB394 LB394
+2025 2025
+1 (iii) Minimum standards for the installation and maintenance of
+2 commercial weighing and measuring devices;
+3 (b) Additional standards not specifically provided for in the act;
+4 (c) Standards for (i) attachments or parts entering into the
+5 construction or installation of commercial weighing and measuring devices
+6 which shall tend to secure correct results in the use of such devices and
+7 (ii) the setting of laboratory fees which shall not exceed the actual
+8 cost for testing, correcting, calibrating, and verifying secondary
+9 standards and the establishment of standard laboratory operating
+10 procedures;
+11 (d) Requirements for the suitable use of commercial weighing and
+12 measuring devices; and
+13 (e) Guidelines for the appropriate method of weighing or measuring
+14 whenever the director determines that such guidelines would further the
+15 purpose of the act;
+16 (4) Establish standards of weight, measure, or count, reasonable
+17 standards of fill, and standards for the presentation of cost-per-unit
+18 information for any commodity;
+19 (5) Upon an application filed with the department by the applicant,
+20 grant exemptions, including specific exemptions for single-use commercial
+21 weighing and measuring devices, from the provisions of the act or the
+22 rules and regulations when the applicant on such application provides
+23 assurances, acceptable to the director, that such exemption is
+24 appropriate to the maintenance of good commercial practices within the
+25 state. Notwithstanding any other provision of the act, meters used by a
+26 public utility system for the measurement of electricity, natural or
+27 manufactured gas, water, or the usage of communication services, the
+28 appliances or accessories associated with such meters, and all weighing
+29 and measuring devices inspected or tested by the Public Service
+30 Commission shall be exempt from the registration, inspection, and testing
+31 requirements of the act, except that this exemption shall not apply to
+-4-
+LB394 LB394
+2025 2025
+1 meters which determine the weight or measurement of motor fuel;
+2 (6) Conduct investigations to insure compliance with the act;
+3 (7) Delegate to appropriate personnel any of these responsibilities
+4 for the proper administration of the director's office;
+5 (8) In his or her discretion, inspect and test weighing and
+6 measuring devices kept for sale or sold;
+7 (9) Inspect and test annually and from time to time, as in the
+8 director's judgment seems necessary, to ascertain whether commercial
+9 weighing and measuring devices are correct;
+10 (10) Register and test as far as practical all commercial weighing
+11 and measuring devices used in checking the receipt or disbursement of
+12 supplies in every institution for which funds are appropriated by the
+13 Legislature;
+14 (11) Test annually and at the request of the Nebraska State Patrol
+15 all weighing and measuring devices used for the enforcement of sections
+16 60-3,144, 60-3,147, and 60-6,294. The agency responsible for such
+17 weighing and measuring devices shall pay the department for the actual
+18 cost of such tests. The department shall bill test fees to such agency
+19 upon completion of the test;
+20 (12) Approve for use and may mark commercial weighing and measuring
+21 devices which the director finds to be correct and shall reject and mark
+22 or tag as rejected such commercial weighing and measuring devices which
+23 the director finds to be not correct or not registered and inspected in
+24 accordance with the Weights and Measures Act. Commercial weighing and
+25 measuring devices that have been rejected may be seized if not made
+26 correct within the time specified or if used or disposed of in a manner
+27 not specifically authorized. The director shall condemn and may seize
+28 commercial weighing and measuring devices which are found not to be
+29 correct and not capable of being made correct;
+30 (13) Weigh, measure, or inspect commodities kept for sale, sold, or
+31 in the process of delivery to determine whether they contain the amounts
+-5-
+LB394 LB394
+2025 2025
+1 represented and whether they are kept for sale or sold in accordance with
+2 the act or the rules and regulations. When commodities are found not to
+3 contain the amounts represented or are found to be kept for sale, sold,
+4 or in the process of delivery in violation of the act, the director may
+5 issue stop-sale, hold, or removal orders and may mark or tag such
+6 commodities as being in violation of the act. In carrying out the
+7 provisions of this section, the director shall employ recognized
+8 procedures pursuant to subdivisions (1)(b) through (d) of section 89-186;
+9 (14) Provide for the weights and measures training of inspection
+10 personnel and adopt and promulgate by rule and regulation minimum
+11 training requirements which shall be met by all inspection personnel;
+12 (15) Adopt and promulgate rules and regulations prescribing the
+13 appropriate term or unit of measurement to be used whenever the director
+14 determines in the case of a specific commodity that an existing practice
+15 of declaring the quantity by weight, measure, numerical count, or
+16 combination thereof does not facilitate value comparisons by consumers or
+17 offers an opportunity for consumer confusion;
+18 (16) Allow reasonable variations from the stated quantity of
+19 contents which shall include those caused by loss or gain of moisture
+20 during the course of good distribution practice or by unavoidable
+21 deviations in good manufacturing practice only after the commodity has
+22 entered intrastate commerce;
+23 (17) Verify advertised prices, price representations, and point-of-
+24 sale systems, as deemed necessary, to determine: (a) The accuracy of
+25 prices, quantity, and computations; (b) the correct use of the equipment;
+26 and (c) if such systems utilize scanning or coding means in lieu of
+27 manual entry, the accuracy of prices and quantity printed or recalled
+28 from a database;
+29 (18) On or before July 1 of each year, notify all persons who have
+30 registered any commercial weighing or measuring device of the amount of
+31 fees which are due and that the fees are due on August 1 and shall be
+-6-
+LB394 LB394
+2025 2025
+1 delinquent after such date;
+2 (19) Require all persons who operate a weighing and measuring
+3 establishment to obtain a permit to operate such establishment pursuant
+4 to section 89-187.01 and to pay to the department an application permit
+5 fee pursuant to section 89-187.02;
+6 (20) Require all persons who operate a weighing and measuring
+7 establishment to, on or before August 1 of each year:
+8 (a) Register each commercial weighing and measuring device with the
+9 department upon forms furnished by the director;
+10 (b) Pay to the department a registration fee of four dollars; and
+11 (c) Pay to the department a device inspection fee.
+12 (i) The device inspection fee shall be due each August 1 and shall
+13 be set by the director on or before July 1 of each year. The director may
+14 raise or lower the device inspection fees each year to meet the criteria
+15 in this subdivision, but the fee shall not be greater than the amount in
+16 column B of subdivision (20)(c)(ii) of this section. The same percentage
+17 shall be applied to each device category for all device inspection fee
+18 increases or decreases to the nearest dollar. The director shall use the
+19 amounts in column A of subdivision (20)(c)(ii) of this section as a base
+20 for future fee increases or decreases. The director shall determine the
+21 fees based on estimated annual revenue and fiscal year-end cash fund
+22 balances as follows:
+23 (A) The estimated annual revenue shall not be greater than one
+24 hundred seven percent of program cash fund appropriations allocated for
+25 the Weights and Measures Act; and
+26 (B) The estimated fiscal year-end cash fund balance shall not be
+27 greater than seventeen percent of program cash fund appropriations
+28 allocated for the act.
+29 (ii)
+30 Scales: A B
+31 Up through 35 pounds capacity 37.00 43.00
+-7-
+LB394 LB394
+2025 2025
+1 Up through 35 pounds capacity 7.96 14.34
+2 Multiunit Scales 169.00 196.00
+3 Multiunit Scales 51.00 80.37
+4 Over 35 through 1,000 pounds capacity 59.00 68.00
+5 Over 35 through 1,000 pounds capacity 15.13 25.35
+6 Over 1,000 through 4,000 pounds capacity 110.00 127.00
+7 Over 1,000 through 4,000 pounds capacity 31.87 51.03
+8 Over 4,000 through 50,000 pounds capacity 125.00 144.00
+9 Over 4,000 through 50,000 pounds capacity 36.65 58.36
+10 Over 50,000 through 150,000 pounds capacity 132.00 153.00
+11 Over 50,000 through 150,000 pounds capacity 39.04 62.03
+12 Over 150,000 pounds capacity 279.00 323.00
+13 Over 150,000 pounds capacity 86.87 135.40
+14 Length Measuring Devices:
+15 Cordage or fabric 63.00 73.00
+16 Cordage or fabric 16.56 27.55
+17 Pumps:
+18 Service Station Dispensers—per
+19 measuring element 28.00 32.00
+20 measuring element 5.09 9.94
+21 High-capacity service station
+22 dispensers over 20 gallons per
+23 minute—per dispensing element 66.00 77.00
+24 minute—per dispensing element 17.52 29.02
+25 Compressed natural gas—per
+26 dispensing element 294.00 340.00
+27 dispensing element 91.65 142.74
+28 Meters:
+29 Vehicle tank meters 56.00 65.00
+30 Vehicle tank meters 14.17 23.88
+-8-
+LB394 LB394
+2025 2025
+1 Loading rack meters 110.00 128.00
+2 Loading rack meters 31.87 51.03
+3 Liquid petroleum gas meters 135.00 157.00
+4 Liquid petroleum gas meters 40.00 63.50
+5 Liquid fertilizer and herbicide meters 125.00 145.00
+6 Liquid fertilizer and herbicide meters 36.65 58.36
+7 Liquid feed meters 125.00 145.00
+8 Liquid feed meters 36.65 58.36
+9 Cryogenic 176.00 204.00
+10 Cryogenic 53.39 84.04
+11 Mass Flow Metering Systems:
+12 Mass flow meters (all liquid) 252.00 293.00
+13 Mass flow meters (all liquid) 78.26 122.19;
+14 Electric vehicle chargers 294.00 340.00;
+15 and
+16 (21) Require persons delinquent under subdivision (20) of this
+17 section to pay an administrative fee of fifty twenty-five percent of the
+18 annual fees due for each month any such fees are delinquent not to exceed
+19 one hundred percent of such fees. Such administrative fees paid shall be
+20 in addition to the annual fees due. The purpose of the additional
+21 administrative fee is to cover the administrative costs associated with
+22 collecting fees. All money collected as an additional administrative fee
+23 shall be remitted to the State Treasurer for credit to the Weights and
+24 Measures Administrative Fund. If any fee remains unpaid at the end of the
+25 ninetieth day after the original due date for such fee, the weighing and
+26 measuring establishment permit relating to such fee is void.
+27 Sec. 3. Section 89-187.02, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 89-187.02 Application for a permit to operate a weighing and
+30 measuring establishment shall be made to the director on forms prescribed
+31 and furnished by the department. Such application shall include the full
+-9-
+LB394 LB394
+2025 2025
+1 name and mailing address of the applicant; the names and addresses of any
+2 partners, members, or corporate officers; the name and address of the
+3 person authorized by the applicant to receive notices and orders of the
+4 department as provided in the Weights and Measures Act; whether the
+5 applicant is an individual, partnership, limited liability company,
+6 corporation, or other legal entity; and the location and type of all
+7 commercial weighing and measuring devices. An application for a permit
+8 shall be made prior to the operation of a weighing and measuring
+9 establishment. The application shall be accompanied by a one-time permit
+10 fee of five dollars and the annual device registration and device
+11 inspection fees required in section 89-187. The full annual device
+12 registration and device inspection fees are required regardless of when
+13 during the year the device is put into operation.
+14 Sec. 4. Section 89-187.05, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 89-187.05 (1) A weighing and measuring establishment which has a
+17 permanent location for commercial weighing and measuring devices shall
+18 have a valid permit posted in a conspicuous place at the establishment,
+19 and there shall not be a change in ownership, location, or business name
+20 without the permitholder obtaining a new permit. Any permit for such
+21 establishment shall lapse automatically upon a change of ownership,
+22 location, or business name.
+23 (2) A weighing and measuring establishment which does not have a
+24 permanent location for commercial weighing and measuring devices shall
+25 have a copy of a valid permit posted on or about each device and shall
+26 not have a change in ownership, business name, or permanent mailing
+27 address without the permitholder obtaining a new permit. Any permit for
+28 such establishment shall lapse automatically upon a change of ownership,
+29 business name, or permanent mailing address.
+30 (3) The holder of any weighing and measuring establishment permit
+31 shall notify the department in writing at least thirty days prior to any
+-10-
+LB394 LB394
+2025 2025
+1 change requiring a new permit under subsection (1) or (2) of this
+2 section. A permitholder shall notify the department in writing before
+3 there is a change of the name or address of the person authorized to
+4 receive notices and orders of the department. When an establishment is to
+5 be permanently closed, the permitholder shall return the permit to the
+6 department within one week after the closing.
+7 Sec. 5. Original sections 89-186, 89-187, 89-187.02, and 89-187.05,
+8 Reissue Revised Statutes of Nebraska, are repealed.
+9 Sec. 6. Since an emergency exists, this act takes effect when
+10 passed and approved according to law.
+-11-
+[DELETED: yDA B F A A r t t W a M A t as 8 8 8 a 8 R RS o N t a u t f l t cp r t f t c p r tesB4L52]
+[DELETED: Sa8(peW a M D a i e o J 1 2 2e S 3 V - T m U T PC0L1S2U o s h a c d i w a p o3g4t l p u p f s t A p s5s6s g a c a l e w a m7d8(9t N C o W a M p i N0I1a2a3d4s5( T U P a L R o t N6C o W a M p i N I o7S a T H 1 e U L a8R9e0a1s4L52]
+[DELETED: (T H 1 e C t N C o PG( C o t h a b r i t ssDs(t W a M A o t t s a a o t0h a b r t r o s p o1t2S 2 S 8 R R S o N i3a485M6(7I8(9( A a p r r a r f t0e1(2p3(4a c t d t o o t v r5p6( Q f r w m i7e ( p s t m r (8t o e n f t w t b p b t9p0r a s o s r a p o t1r4L52]
+[DELETED: ( M s f t i a m oc(( S f ( a o p e i tcw( t s o l f w s n e t ac f t c c a v ss a t e o s l o0p1( R f t s u o c w a2m3(4w5p6( E s o w m o c r7s o f a s f t p o c8i9(0g1w a m d f t p o t a o t2r a r w t a o s a p3a a t t d t s e i4a t t m o g c p w t5s6p u s f t m o e n o7m g w o t u o c s t8a9a m d i o t b t P S0C1r4L52]
+[DELETED: m((f( I h o h d i a t w am( I a t a a f t t t a i td j s n t a w cw0(1a m d u i c t r o d o2s i e i f w f a a b t3L4(5a66 6 a 6 T a r f s7w8c9u0(1d2o3t4a w t W a M A C w a5m d t h b r m b s i n m6c7n s a T d s c a m s8c w a m d w a f n t b9c0(1i4L52]
+[DELETED: rtcoi s h o r o a m m o t sc a b i v o t a I c o tp o t s t d s e rp( P f t w a m t o i0p a a a p b r a r m1t2( A a p r a r p t3a4d5o d t q b w m n c o6c7o8( A r v f t s q o9c w s i t c b l o g o m0d t c o g d p o b u1d i g m p o a t c h2e3(4s s a d n t d ( T a o5p6a ( i s s u s o c m i l o7m e t a o p a q p o r8f9(0r1f4L52]
+[DELETED: d( R a p w o a w a metf( R a p w o a w a me(d0(1(2(3b4r5i6c7s8i9a0f1f b o e a r a f y c f2b3( T e a r s n b g t o4h5t6( T e f y c f b s n b7g t s p o p c f a8a9() 0S:A1Uy3044L52]
+[DELETED: Uy761Ms101Ms508Oy506Oy132Oy101Oy375Oy101Oy3550Oy1011Oy3462Oy2033Oy8714L: 5Cc6076Cc1627P: 8Sr 9mt2030mt5991Hn 2dr 3mt6074mt1225Cr 6dt2037dt9518M: 9Vs5060Vs1724L52]
+[DELETED: Ls101Ls375Ls101Ls406Ls101Ls355Ls101Ls355Cc1020Cc5981M: 2M)2023M)7614Es2035ad 6( R p d u s ( o t7s8a9o0i a t t a f d T p o t a1a2c3s4M5n6m7S8a98 A f a p t o a w a0m1a4L52]
+[DELETED: np m o c o t n a a o tpd a p i t W a M A w ta i a i p l l cc o o l e a t l a t o ac w a m d A a f a ps b m p t t o o a w a me0f o f d a t a d r a d1i f r i s 8 T f a d2r3d4S5a68 ( A w a m e w h 7p l f c w a m d s8h9a0w t p o a n p A p f s1e s l a u a c o o2l3( A w a m e w d n h 4p l f c w a m d s5h6n h a c i o b n o p m7a8s9b0( T h o a w a m e p1s4L52]
+[DELETED: c r a n p u s ( o ( o ts A p s n t d i w bt i a c o t n o a o t p a trbdSRS 6  S a e e t a t e w0p4L52]
+
+
+================================================================================
+
+Raw Text:
+LB394 LB394
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 394
+Introduced by DeKay, 40.
+Read first time January 17, 2025
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to the Weights and Measures Act; to amend
+2 sections 89-186, 89-187, 89-187.02, and 89-187.05, Reissue Revised
+3 Statutes of Nebraska; to adopt updates to federal law; to change
+4 provisions relating to fees; to change provisions relating to
+5 establishments that are permanently closed; to repeal the original
+6 sections; and to declare an emergency.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB394 LB394
+2025 2025
+1 Section 1. Section 89-186, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 89-186 (1) The Legislature hereby adopts by reference the following:
+4 (a) The standards of the National Conference on Weights and Measures
+5 published in National Institute of Standards and Technology Handbook 44
+6 entitled Specifications, Tolerances, and Other Technical Requirements for
+7 Weighing and Measuring Devices as it existed on January 1, 2025 2019,
+8 except Section 3.31. Vehicle - Tank meters. UR.2.2. Ticket Printer,
+9 Customer Ticket, Section 2.20. Scales, N.3. Minimum Test Weights and Test
+10 Loads; and Table 4, are not adopted. In addition to the language found in
+11 Section 3.30. Liquid-Measuring Devices, S.1.6.4., S.1.6.5., UR.3.2., and
+12 UR.3.3. of such handbook, any computing device in which a product or
+13 grade is offered for sale at more than one unit price may also compute at
+14 the lowest possible unit price for such transaction. All prices shall
+15 still be displayed or posted on the face of the dispenser. Such handbook
+16 shall govern all commercial and law enforcement weighing and measuring
+17 devices in the state;
+18 (b) The Uniform Regulation for the Method of Sale of Commodities of
+19 the National Conference on Weights and Measures published in National
+20 Institute of Standards and Technology Handbook 130 entitled Uniform Laws
+21 and Regulations in the Areas of Legal Metrology and Engine Fuel Quality
+22 as it existed on January 1, 2025 2019. Such handbook shall be used to
+23 determine the proper units of measurement to be used in the keeping for
+24 sale or sale of commodities;
+25 (c) The Uniform Packaging and Labeling Regulation of the National
+26 Conference on Weights and Measures published in National Institute of
+27 Standards and Technology Handbook 130 entitled Uniform Laws and
+28 Regulations in the Areas of Legal Metrology and Engine Fuel Quality as it
+29 existed on January 1, 2025 2019. Such handbook shall govern the packaging
+30 and labeling by weight, measure, or count of commodities kept for sale or
+31 sold in this state; and
+-2-
+
+LB394 LB394
+2025 2025
+1 (d) The procedures designated in National Institute of Standards and
+2 Technology Handbook 133 entitled Checking the Net Contents of Packaged
+3 Goods as it existed on January 1, 2025 2019.
+4 (2) Copies of the handbooks adopted by reference in this section
+5 shall be filed with the Secretary of State, Clerk of the Legislature, and
+6 Department of Agriculture. Copies filed with the Clerk of the Legislature
+7 shall be filed electronically.
+8 (3) Whenever there exists an inconsistency between the provisions of
+9 the Weights and Measures Act other than this section and any of the
+10 handbooks adopted by reference, the requirements of such provisions of
+11 the act shall control.
+12 Sec. 2. Section 89-187, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 89-187 For purposes of administering and enforcing the Weights and
+15 Measures Act, the director is authorized to:
+16 (1) Maintain traceability of the primary standards to the National
+17 Institute of Standards and Technology;
+18 (2) Enforce the provisions of the Weights and Measures Act;
+19 (3) Adopt and promulgate reasonable rules and regulations for the
+20 enforcement of the act including the following:
+21 (a) Requirements for the voluntary registration of sales and repair
+22 personnel for commercial weighing and measuring devices including:
+23 (i) Registration fees for such personnel which shall not exceed the
+24 actual cost to defray the operation of the voluntary registration
+25 program;
+26 (ii)(A) Qualifications for registration, which may include
+27 examinations, (B) performance standards to maintain registration, (C)
+28 types of equipment necessary for the work to be performed by the
+29 personnel, (D) responsibilities and privileges of registration, and (E)
+30 revocation and suspension of such registration and probation of the
+31 registrant; and
+-3-
+
+LB394 LB394
+2025 2025
+1 (iii) Minimum standards for the installation and maintenance of
+2 commercial weighing and measuring devices;
+3 (b) Additional standards not specifically provided for in the act;
+4 (c) Standards for (i) attachments or parts entering into the
+5 construction or installation of commercial weighing and measuring devices
+6 which shall tend to secure correct results in the use of such devices and
+7 (ii) the setting of laboratory fees which shall not exceed the actual
+8 cost for testing, correcting, calibrating, and verifying secondary
+9 standards and the establishment of standard laboratory operating
+10 procedures;
+11 (d) Requirements for the suitable use of commercial weighing and
+12 measuring devices; and
+13 (e) Guidelines for the appropriate method of weighing or measuring
+14 whenever the director determines that such guidelines would further the
+15 purpose of the act;
+16 (4) Establish standards of weight, measure, or count, reasonable
+17 standards of fill, and standards for the presentation of cost-per-unit
+18 information for any commodity;
+19 (5) Upon an application filed with the department by the applicant,
+20 grant exemptions, including specific exemptions for single-use commercial
+21 weighing and measuring devices, from the provisions of the act or the
+22 rules and regulations when the applicant on such application provides
+23 assurances, acceptable to the director, that such exemption is
+24 appropriate to the maintenance of good commercial practices within the
+25 state. Notwithstanding any other provision of the act, meters used by a
+26 public utility system for the measurement of electricity, natural or
+27 manufactured gas, water, or the usage of communication services, the
+28 appliances or accessories associated with such meters, and all weighing
+29 and measuring devices inspected or tested by the Public Service
+30 Commission shall be exempt from the registration, inspection, and testing
+31 requirements of the act, except that this exemption shall not apply to
+-4-
+
+LB394 LB394
+2025 2025
+1 meters which determine the weight or measurement of motor fuel;
+2 (6) Conduct investigations to insure compliance with the act;
+3 (7) Delegate to appropriate personnel any of these responsibilities
+4 for the proper administration of the director's office;
+5 (8) In his or her discretion, inspect and test weighing and
+6 measuring devices kept for sale or sold;
+7 (9) Inspect and test annually and from time to time, as in the
+8 director's judgment seems necessary, to ascertain whether commercial
+9 weighing and measuring devices are correct;
+10 (10) Register and test as far as practical all commercial weighing
+11 and measuring devices used in checking the receipt or disbursement of
+12 supplies in every institution for which funds are appropriated by the
+13 Legislature;
+14 (11) Test annually and at the request of the Nebraska State Patrol
+15 all weighing and measuring devices used for the enforcement of sections
+16 60-3,144, 60-3,147, and 60-6,294. The agency responsible for such
+17 weighing and measuring devices shall pay the department for the actual
+18 cost of such tests. The department shall bill test fees to such agency
+19 upon completion of the test;
+20 (12) Approve for use and may mark commercial weighing and measuring
+21 devices which the director finds to be correct and shall reject and mark
+22 or tag as rejected such commercial weighing and measuring devices which
+23 the director finds to be not correct or not registered and inspected in
+24 accordance with the Weights and Measures Act. Commercial weighing and
+25 measuring devices that have been rejected may be seized if not made
+26 correct within the time specified or if used or disposed of in a manner
+27 not specifically authorized. The director shall condemn and may seize
+28 commercial weighing and measuring devices which are found not to be
+29 correct and not capable of being made correct;
+30 (13) Weigh, measure, or inspect commodities kept for sale, sold, or
+31 in the process of delivery to determine whether they contain the amounts
+-5-
+
+LB394 LB394
+2025 2025
+1 represented and whether they are kept for sale or sold in accordance with
+2 the act or the rules and regulations. When commodities are found not to
+3 contain the amounts represented or are found to be kept for sale, sold,
+4 or in the process of delivery in violation of the act, the director may
+5 issue stop-sale, hold, or removal orders and may mark or tag such
+6 commodities as being in violation of the act. In carrying out the
+7 provisions of this section, the director shall employ recognized
+8 procedures pursuant to subdivisions (1)(b) through (d) of section 89-186;
+9 (14) Provide for the weights and measures training of inspection
+10 personnel and adopt and promulgate by rule and regulation minimum
+11 training requirements which shall be met by all inspection personnel;
+12 (15) Adopt and promulgate rules and regulations prescribing the
+13 appropriate term or unit of measurement to be used whenever the director
+14 determines in the case of a specific commodity that an existing practice
+15 of declaring the quantity by weight, measure, numerical count, or
+16 combination thereof does not facilitate value comparisons by consumers or
+17 offers an opportunity for consumer confusion;
+18 (16) Allow reasonable variations from the stated quantity of
+19 contents which shall include those caused by loss or gain of moisture
+20 during the course of good distribution practice or by unavoidable
+21 deviations in good manufacturing practice only after the commodity has
+22 entered intrastate commerce;
+23 (17) Verify advertised prices, price representations, and point-of-
+24 sale systems, as deemed necessary, to determine: (a) The accuracy of
+25 prices, quantity, and computations; (b) the correct use of the equipment;
+26 and (c) if such systems utilize scanning or coding means in lieu of
+27 manual entry, the accuracy of prices and quantity printed or recalled
+28 from a database;
+29 (18) On or before July 1 of each year, notify all persons who have
+30 registered any commercial weighing or measuring device of the amount of
+31 fees which are due and that the fees are due on August 1 and shall be
+-6-
+
+LB394 LB394
+2025 2025
+1 delinquent after such date;
+2 (19) Require all persons who operate a weighing and measuring
+3 establishment to obtain a permit to operate such establishment pursuant
+4 to section 89-187.01 and to pay to the department an application permit
+5 fee pursuant to section 89-187.02;
+6 (20) Require all persons who operate a weighing and measuring
+7 establishment to, on or before August 1 of each year:
+8 (a) Register each commercial weighing and measuring device with the
+9 department upon forms furnished by the director;
+10 (b) Pay to the department a registration fee of four dollars; and
+11 (c) Pay to the department a device inspection fee.
+12 (i) The device inspection fee shall be due each August 1 and shall
+13 be set by the director on or before July 1 of each year. The director may
+14 raise or lower the device inspection fees each year to meet the criteria
+15 in this subdivision, but the fee shall not be greater than the amount in
+16 column B of subdivision (20)(c)(ii) of this section. The same percentage
+17 shall be applied to each device category for all device inspection fee
+18 increases or decreases to the nearest dollar. The director shall use the
+19 amounts in column A of subdivision (20)(c)(ii) of this section as a base
+20 for future fee increases or decreases. The director shall determine the
+21 fees based on estimated annual revenue and fiscal year-end cash fund
+22 balances as follows:
+23 (A) The estimated annual revenue shall not be greater than one
+24 hundred seven percent of program cash fund appropriations allocated for
+25 the Weights and Measures Act; and
+26 (B) The estimated fiscal year-end cash fund balance shall not be
+27 greater than seventeen percent of program cash fund appropriations
+28 allocated for the act.
+29 (ii)
+30 Scales: A B
+31 Up through 35 pounds capacity 37.00 43.00
+-7-
+
+LB394 LB394
+2025 2025
+1 Up through 35 pounds capacity 7.96 14.34
+2 Multiunit Scales 169.00 196.00
+3 Multiunit Scales 51.00 80.37
+4 Over 35 through 1,000 pounds capacity 59.00 68.00
+5 Over 35 through 1,000 pounds capacity 15.13 25.35
+6 Over 1,000 through 4,000 pounds capacity 110.00 127.00
+7 Over 1,000 through 4,000 pounds capacity 31.87 51.03
+8 Over 4,000 through 50,000 pounds capacity 125.00 144.00
+9 Over 4,000 through 50,000 pounds capacity 36.65 58.36
+10 Over 50,000 through 150,000 pounds capacity 132.00 153.00
+11 Over 50,000 through 150,000 pounds capacity 39.04 62.03
+12 Over 150,000 pounds capacity 279.00 323.00
+13 Over 150,000 pounds capacity 86.87 135.40
+14 Length Measuring Devices:
+15 Cordage or fabric 63.00 73.00
+16 Cordage or fabric 16.56 27.55
+17 Pumps:
+18 Service Station Dispensers—per
+19 measuring element 28.00 32.00
+20 measuring element 5.09 9.94
+21 High-capacity service station
+22 dispensers over 20 gallons per
+23 minute—per dispensing element 66.00 77.00
+24 minute—per dispensing element 17.52 29.02
+25 Compressed natural gas—per
+26 dispensing element 294.00 340.00
+27 dispensing element 91.65 142.74
+28 Meters:
+29 Vehicle tank meters 56.00 65.00
+30 Vehicle tank meters 14.17 23.88
+-8-
+
+LB394 LB394
+2025 2025
+1 Loading rack meters 110.00 128.00
+2 Loading rack meters 31.87 51.03
+3 Liquid petroleum gas meters 135.00 157.00
+4 Liquid petroleum gas meters 40.00 63.50
+5 Liquid fertilizer and herbicide meters 125.00 145.00
+6 Liquid fertilizer and herbicide meters 36.65 58.36
+7 Liquid feed meters 125.00 145.00
+8 Liquid feed meters 36.65 58.36
+9 Cryogenic 176.00 204.00
+10 Cryogenic 53.39 84.04
+11 Mass Flow Metering Systems:
+12 Mass flow meters (all liquid) 252.00 293.00
+13 Mass flow meters (all liquid) 78.26 122.19;
+14 Electric vehicle chargers 294.00 340.00;
+15 and
+16 (21) Require persons delinquent under subdivision (20) of this
+17 section to pay an administrative fee of fifty twenty-five percent of the
+18 annual fees due for each month any such fees are delinquent not to exceed
+19 one hundred percent of such fees. Such administrative fees paid shall be
+20 in addition to the annual fees due. The purpose of the additional
+21 administrative fee is to cover the administrative costs associated with
+22 collecting fees. All money collected as an additional administrative fee
+23 shall be remitted to the State Treasurer for credit to the Weights and
+24 Measures Administrative Fund. If any fee remains unpaid at the end of the
+25 ninetieth day after the original due date for such fee, the weighing and
+26 measuring establishment permit relating to such fee is void.
+27 Sec. 3. Section 89-187.02, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 89-187.02 Application for a permit to operate a weighing and
+30 measuring establishment shall be made to the director on forms prescribed
+31 and furnished by the department. Such application shall include the full
+-9-
+
+LB394 LB394
+2025 2025
+1 name and mailing address of the applicant; the names and addresses of any
+2 partners, members, or corporate officers; the name and address of the
+3 person authorized by the applicant to receive notices and orders of the
+4 department as provided in the Weights and Measures Act; whether the
+5 applicant is an individual, partnership, limited liability company,
+6 corporation, or other legal entity; and the location and type of all
+7 commercial weighing and measuring devices. An application for a permit
+8 shall be made prior to the operation of a weighing and measuring
+9 establishment. The application shall be accompanied by a one-time permit
+10 fee of five dollars and the annual device registration and device
+11 inspection fees required in section 89-187. The full annual device
+12 registration and device inspection fees are required regardless of when
+13 during the year the device is put into operation.
+14 Sec. 4. Section 89-187.05, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 89-187.05 (1) A weighing and measuring establishment which has a
+17 permanent location for commercial weighing and measuring devices shall
+18 have a valid permit posted in a conspicuous place at the establishment,
+19 and there shall not be a change in ownership, location, or business name
+20 without the permitholder obtaining a new permit. Any permit for such
+21 establishment shall lapse automatically upon a change of ownership,
+22 location, or business name.
+23 (2) A weighing and measuring establishment which does not have a
+24 permanent location for commercial weighing and measuring devices shall
+25 have a copy of a valid permit posted on or about each device and shall
+26 not have a change in ownership, business name, or permanent mailing
+27 address without the permitholder obtaining a new permit. Any permit for
+28 such establishment shall lapse automatically upon a change of ownership,
+29 business name, or permanent mailing address.
+30 (3) The holder of any weighing and measuring establishment permit
+31 shall notify the department in writing at least thirty days prior to any
+-10-
+
+LB394 LB394
+2025 2025
+1 change requiring a new permit under subsection (1) or (2) of this
+2 section. A permitholder shall notify the department in writing before
+3 there is a change of the name or address of the person authorized to
+4 receive notices and orders of the department. When an establishment is to
+5 be permanently closed, the permitholder shall return the permit to the
+6 department within one week after the closing.
+7 Sec. 5. Original sections 89-186, 89-187, 89-187.02, and 89-187.05,
+8 Reissue Revised Statutes of Nebraska, are repealed.
+9 Sec. 6. Since an emergency exists, this act takes effect when
+10 passed and approved according to law.
+-11-
+
+[DELETED: yDA B F A A r t t W a M A t as 8 8 8 a 8 R RS o N t a u t f l t cp r t f t c p r tesB4L52]
+[DELETED: Sa8(peW a M D a i e o J 1 2 2e S 3 V - T m U T PC0L1S2U o s h a c d i w a p o3g4t l p u p f s t A p s5s6s g a c a l e w a m7d8(9t N C o W a M p i N0I1a2a3d4s5( T U P a L R o t N6C o W a M p i N I o7S a T H 1 e U L a8R9e0a1s4L52]
+[DELETED: (T H 1 e C t N C o PG( C o t h a b r i t ssDs(t W a M A o t t s a a o t0h a b r t r o s p o1t2S 2 S 8 R R S o N i3a485M6(7I8(9( A a p r r a r f t0e1(2p3(4a c t d t o o t v r5p6( Q f r w m i7e ( p s t m r (8t o e n f t w t b p b t9p0r a s o s r a p o t1r4L52]
+[DELETED: ( M s f t i a m oc(( S f ( a o p e i tcw( t s o l f w s n e t ac f t c c a v ss a t e o s l o0p1( R f t s u o c w a2m3(4w5p6( E s o w m o c r7s o f a s f t p o c8i9(0g1w a m d f t p o t a o t2r a r w t a o s a p3a a t t d t s e i4a t t m o g c p w t5s6p u s f t m o e n o7m g w o t u o c s t8a9a m d i o t b t P S0C1r4L52]
+[DELETED: m((f( I h o h d i a t w am( I a t a a f t t t a i td j s n t a w cw0(1a m d u i c t r o d o2s i e i f w f a a b t3L4(5a66 6 a 6 T a r f s7w8c9u0(1d2o3t4a w t W a M A C w a5m d t h b r m b s i n m6c7n s a T d s c a m s8c w a m d w a f n t b9c0(1i4L52]
+[DELETED: rtcoi s h o r o a m m o t sc a b i v o t a I c o tp o t s t d s e rp( P f t w a m t o i0p a a a p b r a r m1t2( A a p r a r p t3a4d5o d t q b w m n c o6c7o8( A r v f t s q o9c w s i t c b l o g o m0d t c o g d p o b u1d i g m p o a t c h2e3(4s s a d n t d ( T a o5p6a ( i s s u s o c m i l o7m e t a o p a q p o r8f9(0r1f4L52]
+[DELETED: d( R a p w o a w a metf( R a p w o a w a me(d0(1(2(3b4r5i6c7s8i9a0f1f b o e a r a f y c f2b3( T e a r s n b g t o4h5t6( T e f y c f b s n b7g t s p o p c f a8a9() 0S:A1Uy3044L52]
+[DELETED: Uy761Ms101Ms508Oy506Oy132Oy101Oy375Oy101Oy3550Oy1011Oy3462Oy2033Oy8714L: 5Cc6076Cc1627P: 8Sr 9mt2030mt5991Hn 2dr 3mt6074mt1225Cr 6dt2037dt9518M: 9Vs5060Vs1724L52]
+[DELETED: Ls101Ls375Ls101Ls406Ls101Ls355Ls101Ls355Cc1020Cc5981M: 2M)2023M)7614Es2035ad 6( R p d u s ( o t7s8a9o0i a t t a f d T p o t a1a2c3s4M5n6m7S8a98 A f a p t o a w a0m1a4L52]
+[DELETED: np m o c o t n a a o tpd a p i t W a M A w ta i a i p l l cc o o l e a t l a t o ac w a m d A a f a ps b m p t t o o a w a me0f o f d a t a d r a d1i f r i s 8 T f a d2r3d4S5a68 ( A w a m e w h 7p l f c w a m d s8h9a0w t p o a n p A p f s1e s l a u a c o o2l3( A w a m e w d n h 4p l f c w a m d s5h6n h a c i o b n o p m7a8s9b0( T h o a w a m e p1s4L52]
+[DELETED: c r a n p u s ( o ( o ts A p s n t d i w bt i a c o t n o a o t p a trbdSRS 6  S a e e t a t e w0p4L52]

@@ -1,0 +1,366 @@
+Title: LEGISLATIVE BILL 409
+Official Title: LEGISLATIVE BILL 409
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LB409 LB409
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Cavanaugh, J., 9.
+Read first time January 17, 2025
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to the Nebraska Power Review Board; to amend
+2 section 70-1003, Revised Statutes Cumulative Supplement, 2024; to
+3 change provisions relating to membership of the board; and to repeal
+4 the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB409 LB409
+2025 2025
+1 Section 1. Section 70-1003, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 70-1003 (1)(a) There is hereby established an independent board to
+4 be known as the Nebraska Power Review Board. The board shall consist of
+5 five members, including (i) at least one engineer, (ii) at least one
+6 attorney, and (iii) three additional persons until, after the effective
+7 date of this act, one such person appointed pursuant to this subdivision
+8 (1)(a)(iii) of this section vacates his or her position or his or her
+9 term expires, whichever occurs first, at which time the board shall
+10 consist of the members provided pursuant to subdivision (b) of this
+11 subsection.
+12 (b) Upon the first vacation of the position or expiration of the
+13 term of one of the members serving under subdivision (1)(a)(iii) of this
+14 section that occurs after the effective date of this act, the board shall
+15 consist of five members, including (i) at least one engineer, (ii) at
+16 least one attorney, (iii) at least one licensed journeyman electrician
+17 who shall be affiliated with a nonprofit labor organization for
+18 electrical workers holding a certificate of exemption under section
+19 501(c)(5) of the Internal Revenue Code and shall be selected from a list
+20 of licensed journeyman electricians recommended by such organization, and
+21 (iv) two additional persons.
+22 (c) No more than one person who is or who has within four years
+23 preceding such person's appointment been either a director, an officer,
+24 or an employee of any electric utility or an elective state officer shall
+25 serve on the board at the same time. Any board member who previously was
+26 either a director, an officer, or an employee of any electric utility
+27 within four years preceding such board member's appointment shall refrain
+28 from taking any action or making any decision in any proceeding before
+29 the board that involves such electric utility for a period of four years
+30 after the date such board member ceased being a director, an officer, or
+31 an employee of such electric utility.
+-2-
+LB409 LB409
+2025 2025
+1 (d) (b) Members of the board shall be appointed by the Governor
+2 subject to the approval of the Legislature. Upon expiration of the terms
+3 of the members first appointed, the successors shall be appointed for
+4 terms of four years. No member of the board shall serve more than three
+5 consecutive terms. Any vacancy on the board arising other than from the
+6 expiration of a term shall be filled by appointment for the unexpired
+7 portion of the term, and any person appointed to fill a vacancy on the
+8 board shall be eligible for reappointment for two more consecutive terms.
+9 No more than three members of the board shall be registered members of
+10 that political party represented by the Governor.
+11 (2) Each member of the board shall receive one hundred dollars per
+12 day for each day actually and necessarily engaged in the performance of
+13 his or her duties, but not to exceed seven thousand dollars in any one
+14 year, except for the member designated to represent the board on the
+15 Southwest Power Pool Regional State Committee or its equivalent
+16 successor, who shall receive two hundred fifty dollars for each day
+17 actually and necessarily engaged in the performance of his or her duties,
+18 not to exceed thirty-five thousand dollars in any one year. If the member
+19 designated to represent the board on the Southwest Power Pool Regional
+20 State Committee should for any reason no longer serve in that capacity
+21 during a year, the pay received while serving in such capacity shall not
+22 be used for purposes of calculating the seven-thousand-dollar limitation
+23 for board members not serving in that capacity. When another board member
+24 acts as the proxy for the designated Southwest Power Pool Regional State
+25 Committee member, he or she shall receive the same pay as the designated
+26 member would have for that activity. Pay received while serving as proxy
+27 for such designated member shall not be used for purposes of determining
+28 whether the seven-thousand-dollar limitation has been met for board
+29 members not serving as such designated member. Total pay to board members
+30 for activities related to the Southwest Power Pool shall not exceed an
+31 aggregate total of forty thousand dollars in any one year. Each member
+-3-
+LB409 LB409
+2025 2025
+1 shall be reimbursed for expenses while so engaged as provided in sections
+2 81-1174 to 81-1177. The board shall have jurisdiction as provided in
+3 Chapter 70, article 10.
+4 (3) The board shall elect from their members a chairperson and a
+5 vice-chairperson. Decisions of the board shall require the approval of a
+6 majority of the members of the board.
+7 (4) The board shall employ an executive director and may employ such
+8 other staff necessary to carry out the duties pursuant to Chapter 70,
+9 article 10. The executive director shall serve at the pleasure of the
+10 board and shall be solely responsible to the board. The executive
+11 director shall be responsible for the administrative operations of the
+12 board and shall perform such other duties as may be delegated or assigned
+13 to him or her by the board. The board may obtain the services of experts
+14 and consultants necessary to carry out the board's duties pursuant to
+15 Chapter 70, article 10.
+16 (5) The board shall publish and submit a biennial report with annual
+17 data to the Governor, with copies to be filed with the Clerk of the
+18 Legislature and with the Department of Environment and Energy. The report
+19 submitted to the Clerk of the Legislature shall be submitted
+20 electronically. The department shall consider the information in the
+21 Nebraska Power Review Board's report when the department prepares its own
+22 reports pursuant to sections 81-1606 and 81-1607. The report of the board
+23 shall include:
+24 (a) The assessments for the fiscal year imposed pursuant to section
+25 70-1020;
+26 (b) The gross income totals for each category of the industry and
+27 the industry total;
+28 (c) The number of suppliers against whom the assessment is levied,
+29 by category and in total;
+30 (d) The projected dollar costs of generation, transmission, and
+31 microwave applications, approved and denied;
+-4-
+LB409 LB409
+2025 2025
+1 (e) The actual dollar costs of approved applications upon
+2 completion, and a summary of an informational hearing concerning any
+3 significant divergence between the projected and actual costs;
+4 (f) A description of Nebraska's current electric system and
+5 information on additions to and retirements from the system during the
+6 fiscal year, including microwave facilities;
+7 (g) A statistical summary of board activities and an expenditure
+8 summary;
+9 (h) A roster of power suppliers in Nebraska and the assessment each
+10 paid; and
+11 (i) Appropriately detailed historical and projected electric supply
+12 and demand statistics, including information on the total generating
+13 capacity owned by Nebraska suppliers and the total peak load demand of
+14 the previous year, along with an indication of how the industry will
+15 respond to the projected situation.
+16 (6) The board may, in its discretion, hold public hearings
+17 concerning the conditions that may indicate that retail competition in
+18 the electric industry would benefit Nebraska's citizens and what steps,
+19 if any, should be taken to prepare for retail competition in Nebraska's
+20 electricity market. In determining whether to hold such hearings, the
+21 board shall consider the sufficiency of public interest.
+22 (7) The board may, at any time deemed beneficial by the board,
+23 submit a report to the Governor with copies to be filed with the Clerk of
+24 the Legislature and the Natural Resources Committee of the Legislature.
+25 The report filed with the Clerk of the Legislature and the committee
+26 shall be filed electronically. The report may include:
+27 (a) Whether or not a viable regional transmission organization and
+28 adequate transmission exist in Nebraska or in a region which includes
+29 Nebraska;
+30 (b) Whether or not a viable wholesale electricity market exists in a
+31 region which includes Nebraska;
+-5-
+LB409 LB409
+2025 2025
+1 (c) To what extent retail rates have been unbundled in Nebraska;
+2 (d) A comparison of Nebraska's wholesale electricity prices to the
+3 prices in the region; and
+4 (e) Any other information the board believes to be beneficial to the
+5 Governor, the Legislature, and Nebraska's citizens when considering
+6 whether retail electric competition would be beneficial, such as, but not
+7 limited to, an update on deregulation activities in other states and an
+8 update on federal deregulation legislation.
+9 (8) The board may establish working groups of interested parties to
+10 assist the board in carrying out the powers set forth in subsections (6)
+11 and (7) of this section.
+12 Sec. 2. Original section 70-1003, Revised Statutes Cumulative
+13 Supplement, 2024, is repealed.
+-6-
+[DELETED: yCAs 7 R S C S 2 tctB9L52]
+[DELETED: S27bf m i ( a l o e ( a l oad( o t s v h o h p o h o ht e w o f a w t t b s0c o t m p p t s ( o t1s2( U t f v o t p o e o t3t4s5c o f m i ( a l o e ( a6l o a ( a l o l j e7w s b a w a n l o f8e w h a c o e u s950o1(2( N m t o p w i o w h w f y3p4o5s6e a d a o o a e o a e u7w8f9t0a1a9L52]
+[DELETED: ( ( M o t b s b a b t Gso t m f a t s s b a ftce o a t s b f b a f t upbN0t1(2d3h4y e f t m d t r t b o t5S P P R S C o i e6s w s r t h f d f e d7a8n9d0S1d2b3f4a5C6m7f8w t s l h b m f b9m0f1a9L52]
+[DELETED: s8 t 8 T b s h j a p iC( T b s e f t m a c a vm(o s n t c o t d p t C 7a 1 T e d s s a t p o t0b a s b s r t t b T e1d s b r f t a o o t2b3t4a c n t c o t b d p t5C6(7d t t G w c t b f w t C o t8L9s t t C o t L s b s0e T d s c t i i t1N2r3s4(576(7t8(9b0( T p d c o g t a1m9L52]
+[DELETED: ( T a d c o a a uc a a s o a i h c as( A d o N c e s aif( A s s o b a a a es(0p1(2a d s i i o t t g3c4t p y a w a i o h t i w5r6( T b m i i d h p h7c t c t m i t r c i8t9i0e m I d w t h s h t1b2( T b m a a t d b b t b3s4t5T r f w t C o t L a t c6s7(8a t e i N o i a r w i9N0(1r9L52]
+[DELETED: ((p(G t L a N c w cwlu(0a1a2S 2  O s 7 R S C3S9L52]
+
+
+================================================================================
+
+Raw Text:
+LB409 LB409
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 409
+Introduced by Cavanaugh, J., 9.
+Read first time January 17, 2025
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to the Nebraska Power Review Board; to amend
+2 section 70-1003, Revised Statutes Cumulative Supplement, 2024; to
+3 change provisions relating to membership of the board; and to repeal
+4 the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB409 LB409
+2025 2025
+1 Section 1. Section 70-1003, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 70-1003 (1)(a) There is hereby established an independent board to
+4 be known as the Nebraska Power Review Board. The board shall consist of
+5 five members, including (i) at least one engineer, (ii) at least one
+6 attorney, and (iii) three additional persons until, after the effective
+7 date of this act, one such person appointed pursuant to this subdivision
+8 (1)(a)(iii) of this section vacates his or her position or his or her
+9 term expires, whichever occurs first, at which time the board shall
+10 consist of the members provided pursuant to subdivision (b) of this
+11 subsection.
+12 (b) Upon the first vacation of the position or expiration of the
+13 term of one of the members serving under subdivision (1)(a)(iii) of this
+14 section that occurs after the effective date of this act, the board shall
+15 consist of five members, including (i) at least one engineer, (ii) at
+16 least one attorney, (iii) at least one licensed journeyman electrician
+17 who shall be affiliated with a nonprofit labor organization for
+18 electrical workers holding a certificate of exemption under section
+19 501(c)(5) of the Internal Revenue Code and shall be selected from a list
+20 of licensed journeyman electricians recommended by such organization, and
+21 (iv) two additional persons.
+22 (c) No more than one person who is or who has within four years
+23 preceding such person's appointment been either a director, an officer,
+24 or an employee of any electric utility or an elective state officer shall
+25 serve on the board at the same time. Any board member who previously was
+26 either a director, an officer, or an employee of any electric utility
+27 within four years preceding such board member's appointment shall refrain
+28 from taking any action or making any decision in any proceeding before
+29 the board that involves such electric utility for a period of four years
+30 after the date such board member ceased being a director, an officer, or
+31 an employee of such electric utility.
+-2-
+
+LB409 LB409
+2025 2025
+1 (d) (b) Members of the board shall be appointed by the Governor
+2 subject to the approval of the Legislature. Upon expiration of the terms
+3 of the members first appointed, the successors shall be appointed for
+4 terms of four years. No member of the board shall serve more than three
+5 consecutive terms. Any vacancy on the board arising other than from the
+6 expiration of a term shall be filled by appointment for the unexpired
+7 portion of the term, and any person appointed to fill a vacancy on the
+8 board shall be eligible for reappointment for two more consecutive terms.
+9 No more than three members of the board shall be registered members of
+10 that political party represented by the Governor.
+11 (2) Each member of the board shall receive one hundred dollars per
+12 day for each day actually and necessarily engaged in the performance of
+13 his or her duties, but not to exceed seven thousand dollars in any one
+14 year, except for the member designated to represent the board on the
+15 Southwest Power Pool Regional State Committee or its equivalent
+16 successor, who shall receive two hundred fifty dollars for each day
+17 actually and necessarily engaged in the performance of his or her duties,
+18 not to exceed thirty-five thousand dollars in any one year. If the member
+19 designated to represent the board on the Southwest Power Pool Regional
+20 State Committee should for any reason no longer serve in that capacity
+21 during a year, the pay received while serving in such capacity shall not
+22 be used for purposes of calculating the seven-thousand-dollar limitation
+23 for board members not serving in that capacity. When another board member
+24 acts as the proxy for the designated Southwest Power Pool Regional State
+25 Committee member, he or she shall receive the same pay as the designated
+26 member would have for that activity. Pay received while serving as proxy
+27 for such designated member shall not be used for purposes of determining
+28 whether the seven-thousand-dollar limitation has been met for board
+29 members not serving as such designated member. Total pay to board members
+30 for activities related to the Southwest Power Pool shall not exceed an
+31 aggregate total of forty thousand dollars in any one year. Each member
+-3-
+
+LB409 LB409
+2025 2025
+1 shall be reimbursed for expenses while so engaged as provided in sections
+2 81-1174 to 81-1177. The board shall have jurisdiction as provided in
+3 Chapter 70, article 10.
+4 (3) The board shall elect from their members a chairperson and a
+5 vice-chairperson. Decisions of the board shall require the approval of a
+6 majority of the members of the board.
+7 (4) The board shall employ an executive director and may employ such
+8 other staff necessary to carry out the duties pursuant to Chapter 70,
+9 article 10. The executive director shall serve at the pleasure of the
+10 board and shall be solely responsible to the board. The executive
+11 director shall be responsible for the administrative operations of the
+12 board and shall perform such other duties as may be delegated or assigned
+13 to him or her by the board. The board may obtain the services of experts
+14 and consultants necessary to carry out the board's duties pursuant to
+15 Chapter 70, article 10.
+16 (5) The board shall publish and submit a biennial report with annual
+17 data to the Governor, with copies to be filed with the Clerk of the
+18 Legislature and with the Department of Environment and Energy. The report
+19 submitted to the Clerk of the Legislature shall be submitted
+20 electronically. The department shall consider the information in the
+21 Nebraska Power Review Board's report when the department prepares its own
+22 reports pursuant to sections 81-1606 and 81-1607. The report of the board
+23 shall include:
+24 (a) The assessments for the fiscal year imposed pursuant to section
+25 70-1020;
+26 (b) The gross income totals for each category of the industry and
+27 the industry total;
+28 (c) The number of suppliers against whom the assessment is levied,
+29 by category and in total;
+30 (d) The projected dollar costs of generation, transmission, and
+31 microwave applications, approved and denied;
+-4-
+
+LB409 LB409
+2025 2025
+1 (e) The actual dollar costs of approved applications upon
+2 completion, and a summary of an informational hearing concerning any
+3 significant divergence between the projected and actual costs;
+4 (f) A description of Nebraska's current electric system and
+5 information on additions to and retirements from the system during the
+6 fiscal year, including microwave facilities;
+7 (g) A statistical summary of board activities and an expenditure
+8 summary;
+9 (h) A roster of power suppliers in Nebraska and the assessment each
+10 paid; and
+11 (i) Appropriately detailed historical and projected electric supply
+12 and demand statistics, including information on the total generating
+13 capacity owned by Nebraska suppliers and the total peak load demand of
+14 the previous year, along with an indication of how the industry will
+15 respond to the projected situation.
+16 (6) The board may, in its discretion, hold public hearings
+17 concerning the conditions that may indicate that retail competition in
+18 the electric industry would benefit Nebraska's citizens and what steps,
+19 if any, should be taken to prepare for retail competition in Nebraska's
+20 electricity market. In determining whether to hold such hearings, the
+21 board shall consider the sufficiency of public interest.
+22 (7) The board may, at any time deemed beneficial by the board,
+23 submit a report to the Governor with copies to be filed with the Clerk of
+24 the Legislature and the Natural Resources Committee of the Legislature.
+25 The report filed with the Clerk of the Legislature and the committee
+26 shall be filed electronically. The report may include:
+27 (a) Whether or not a viable regional transmission organization and
+28 adequate transmission exist in Nebraska or in a region which includes
+29 Nebraska;
+30 (b) Whether or not a viable wholesale electricity market exists in a
+31 region which includes Nebraska;
+-5-
+
+LB409 LB409
+2025 2025
+1 (c) To what extent retail rates have been unbundled in Nebraska;
+2 (d) A comparison of Nebraska's wholesale electricity prices to the
+3 prices in the region; and
+4 (e) Any other information the board believes to be beneficial to the
+5 Governor, the Legislature, and Nebraska's citizens when considering
+6 whether retail electric competition would be beneficial, such as, but not
+7 limited to, an update on deregulation activities in other states and an
+8 update on federal deregulation legislation.
+9 (8) The board may establish working groups of interested parties to
+10 assist the board in carrying out the powers set forth in subsections (6)
+11 and (7) of this section.
+12 Sec. 2. Original section 70-1003, Revised Statutes Cumulative
+13 Supplement, 2024, is repealed.
+-6-
+
+[DELETED: yCAs 7 R S C S 2 tctB9L52]
+[DELETED: S27bf m i ( a l o e ( a l oad( o t s v h o h p o h o ht e w o f a w t t b s0c o t m p p t s ( o t1s2( U t f v o t p o e o t3t4s5c o f m i ( a l o e ( a6l o a ( a l o l j e7w s b a w a n l o f8e w h a c o e u s950o1(2( N m t o p w i o w h w f y3p4o5s6e a d a o o a e o a e u7w8f9t0a1a9L52]
+[DELETED: ( ( M o t b s b a b t Gso t m f a t s s b a ftce o a t s b f b a f t upbN0t1(2d3h4y e f t m d t r t b o t5S P P R S C o i e6s w s r t h f d f e d7a8n9d0S1d2b3f4a5C6m7f8w t s l h b m f b9m0f1a9L52]
+[DELETED: s8 t 8 T b s h j a p iC( T b s e f t m a c a vm(o s n t c o t d p t C 7a 1 T e d s s a t p o t0b a s b s r t t b T e1d s b r f t a o o t2b3t4a c n t c o t b d p t5C6(7d t t G w c t b f w t C o t8L9s t t C o t L s b s0e T d s c t i i t1N2r3s4(576(7t8(9b0( T p d c o g t a1m9L52]
+[DELETED: ( T a d c o a a uc a a s o a i h c as( A d o N c e s aif( A s s o b a a a es(0p1(2a d s i i o t t g3c4t p y a w a i o h t i w5r6( T b m i i d h p h7c t c t m i t r c i8t9i0e m I d w t h s h t1b2( T b m a a t d b b t b3s4t5T r f w t C o t L a t c6s7(8a t e i N o i a r w i9N0(1r9L52]
+[DELETED: ((p(G t L a N c w cwlu(0a1a2S 2  O s 7 R S C3S9L52]

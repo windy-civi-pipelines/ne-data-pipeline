@@ -1,0 +1,632 @@
+Title: LEGISLATIVE BILL 503
+Official Title: LEGISLATIVE BILL 503
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LB503 LB503
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Bosn, 25; Ballard, 21; Bostar, 29.
+Read first time January 21, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to privately developed renewable energy
+2 generation facilities; to amend section 77-6203, Revised Statutes
+3 Cumulative Supplement, 2024; to authorize the designation of
+4 American energy friendly counties as prescribed; to change
+5 provisions relating to privately developed renewable energy
+6 generation facilities and the nameplate capacity tax; and to repeal
+7 the original section.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+LB503 LB503
+2025 2025
+1 Section 1. (1) For purposes of this section:
+2 (a) Department means the Department of Revenue;
+3 (b) Electric energy storage resource means a resource capable of
+4 receiving electric energy from the electrical grid, or from the
+5 generation source with which it is associated, and storing it for later
+6 injection of electric energy into the electrical grid. Electric energy
+7 storage resource does not include devices or equipment intended solely to
+8 inject or absorb reactive power, such as capacitors and synchronous
+9 condensers, or equipment intended solely to provide power for electric
+10 vehicles;
+11 (c) Privately developed renewable energy generation facility has the
+12 same meaning as in section 70-1001.01 and also includes any electric
+13 energy storage resource;
+14 (d) Solar energy system has the same meaning as in section 66-905;
+15 and
+16 (e) Wind energy conversion system has the same meaning as in section
+17 66-909.02.
+18 (2) To support rural economic development, broaden the local tax
+19 base, and reduce residents' property taxes, each county in this state
+20 shall have the option to become an American energy friendly county in
+21 exchange for additional local tax revenue from the owners of privately
+22 developed renewable energy generation facilities.
+23 (3) A county board that determines to pursue designation as an
+24 American energy friendly county shall, by resolution, state the county's
+25 intention to either:
+26 (a) Apply to the department for an American energy friendly county
+27 designation; or
+28 (b) Submit the question of whether to apply for an American energy
+29 friendly county designation to a vote of the registered voters of the
+30 county.
+31 (4)(a) If the county board adopts a resolution pursuant to
+-2-
+LB503 LB503
+2025 2025
+1 subdivision (3)(b) of this section, the question may be submitted to the
+2 voters at a special election or such question may be voted on at an
+3 election held in conjunction with the statewide primary or statewide
+4 general election.
+5 (b) The resolution ordering the submission of the question to the
+6 registered voters of the county shall contain the entire wording of the
+7 ballot question, which shall state the question as follows: "Shall the
+8 county of [name of the county] apply for an American energy friendly
+9 county designation?".
+10 (c) The county shall file a copy of the resolution with the election
+11 commissioner or county clerk not later than the eighth Friday prior to a
+12 special election that is not held in conjunction with the statewide
+13 primary or general election, or not later than March 1 prior to a
+14 statewide primary election or September 1 prior to a statewide general
+15 election. The election shall be conducted in accordance with the Election
+16 Act.
+17 (5) If the resolution states the county's intention to apply for an
+18 American energy friendly county designation pursuant to subdivision (3)
+19 (a) of this section, or if a majority of those voting on the issue
+20 pursuant to subsection (4) of this section vote in favor of the question,
+21 the county board shall delegate authority for the county zoning
+22 administrator or other authorized individual to apply on the county's
+23 behalf. The county zoning administrator or other authorized individual
+24 shall then apply to the department on a form prescribed by the
+25 department. If the county meets the requirements of this section, the
+26 department shall, within thirty days after receiving the application,
+27 designate the county as an American energy friendly county and inform the
+28 county board of such designation by written notice. The department shall
+29 maintain a current and accurate list on its website of:
+30 (a) The counties that have applied for an American energy friendly
+31 county designation;
+-3-
+LB503 LB503
+2025 2025
+1 (b) The counties that have received an American energy friendly
+2 county designation; and
+3 (c) The total nameplate capacity tax levied under subsection (8) of
+4 this section that each American energy friendly county has generated
+5 annually during its designation.
+6 (6) If after designation as an American energy friendly county a
+7 county no longer meets the requirements of this section, such county
+8 shall lose its American energy friendly county designation if it does not
+9 cure the noncompliance within thirty days after receipt of written notice
+10 from the department.
+11 (7) To qualify for an American energy friendly county designation, a
+12 county's regulations, including its zoning regulations, shall comply with
+13 the following:
+14 (a) The county shall permit privately developed renewable energy
+15 generation facilities by right in all zoning areas that allow structures
+16 of any type by right. The county shall not require a variance,
+17 conditional use permit, special use permit, special permit, or other
+18 discretionary zoning approval for the installation or operation of
+19 privately developed renewable energy generation facilities. The county
+20 may require the owner or installer of a privately developed renewable
+21 energy generation facility to (i) apply for a building or zoning permit
+22 for the facility, approval of which shall be ministerial and not
+23 discretionary, (ii) submit the plans and specifications for the facility,
+24 along with the stamped approval of an engineer licensed in Nebraska,
+25 (iii) provide evidence, in the form of a certificate of insurance
+26 reasonably satisfactory to the county, showing general liability
+27 insurance coverage for the installation and operation of the facility,
+28 and (iv) comply with the county's generally applicable zoning
+29 regulations, if such regulations are consistent with this section;
+30 (b) The county shall not require sound from privately developed
+31 renewable energy generation facilities to be quieter, at any time, than
+-4-
+LB503 LB503
+2025 2025
+1 fifty decibels for a ten-minute average measured at any occupied
+2 nonparticipating dwelling unit using the "A" scale at a ten-minute
+3 continuous equivalent sound level over a twenty-four-hour period. The
+4 county shall recognize a waiver of its sound restriction, if any, to the
+5 extent the impacted landowner has executed a written waiver of the same;
+6 (c)(i) The county shall not require setbacks to or from privately
+7 developed renewable energy generation facilities, except that:
+8 (A) The county may require a setback from nonparticipating
+9 landowners' occupied dwelling units that is up to (I) three times a wind
+10 turbine's total height for any wind turbine within a wind energy
+11 conversion system and (II) three hundred feet for any solar energy system
+12 or other form of privately developed renewable energy generation
+13 facility; and
+14 (B) The county may also require a setback from nonparticipating
+15 landowners' property lines or public rights-of-way that is up to (I) one
+16 and one-tenth times a wind turbine's total height for any wind turbine
+17 within a wind energy conversion system and (II) one hundred feet for any
+18 solar energy system or other form of privately developed renewable energy
+19 generation facility.
+20 (ii) The county shall measure such setbacks, if any, from the base
+21 of the nearest wind turbine, solar panel, or other privately developed
+22 renewable energy generation facility. The county shall recognize a waiver
+23 of its setback distance, if any, to the extent the impacted landowner has
+24 executed a written waiver of such setback distance;
+25 (d) The county shall not impose a height limitation on any component
+26 within a privately developed renewable energy generation facility;
+27 (e) The county shall not require buffers or otherwise regulate the
+28 visibility of privately developed renewable energy generation facilities,
+29 except that the county may require screening of solar energy systems from
+30 the view of surrounding streets and roads by garden walls, fences,
+31 hedges, landscaping, or other means so long as such screening is
+-5-
+LB503 LB503
+2025 2025
+1 economically practicable for the system owner and would still afford
+2 effective solar access on the lot in question. The county shall recognize
+3 a waiver of its screening requirement, if any, to the extent the impacted
+4 neighboring landowner has executed a written waiver of such screening
+5 requirement; and
+6 (f) The county shall impose no additional decommissioning
+7 requirements for privately developed renewable energy generation
+8 facilities beyond those required in subdivision (2)(a)(iii) of section
+9 70-1014.02.
+10 (8) The owner of a privately developed renewable energy generation
+11 facility that commences commercial operation in an American energy
+12 friendly county shall, so long as such facility continues commercial
+13 operation in an American energy friendly county, pay a nameplate capacity
+14 tax at one and one-half times the rate set for other privately developed
+15 renewable energy generation facilities in subdivision (1)(a) of section
+16 77-6203.
+17 (9) The American Energy Friendly Counties Fund is created. The fund
+18 shall be administered by the department and shall be used to award grants
+19 pursuant to subsection (10) of this section to help qualifying counties
+20 become American energy friendly counties. The fund shall consist of money
+21 transferred by the Legislature and gifts, grants, or bequests from any
+22 source, including money remitted to the fund from any other federal,
+23 state, public, and private sources. Any money in the fund available for
+24 investment shall be invested by the state investment officer pursuant to
+25 the Nebraska Capital Expansion Act and the Nebraska State Funds
+26 Investment Act.
+27 (10) The department shall create and administer a grant program to
+28 reimburse eligible expenses that qualifying counties incur in becoming
+29 American energy friendly counties. Eligible expenses include fees for
+30 consultants and attorneys to assist with revising the county's
+31 regulations to conform to this section. Eligible expenses do not include
+-6-
+LB503 LB503
+2025 2025
+1 incentive payments to owners or installers of privately developed
+2 renewable energy generation facilities.
+3 (11) The department may adopt and promulgate rules and regulations
+4 to carry out this section.
+5 Sec. 2. Section 77-6203, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 77-6203 (1) The owner of a renewable energy generation facility
+8 annually shall pay (a) a nameplate capacity tax equal to the total
+9 nameplate capacity of the commissioned renewable energy generation
+10 facility multiplied by a tax rate of three thousand five hundred eighteen
+11 dollars per megawatt or (b) the nameplate capacity tax described in
+12 subsection (8) of section 1 of this act, whichever is applicable.
+13 (2) No tax shall be imposed on a renewable energy generation
+14 facility:
+15 (a) Owned or operated by the federal government, the State of
+16 Nebraska, a public power district, a public power and irrigation
+17 district, an individual municipality, a registered group of
+18 municipalities, an electric membership association, or a cooperative; or
+19 (b) That is a customer-generator as defined in section 70-2002.
+20 (3) No tax levied pursuant to this section shall be construed to
+21 constitute restricted funds as defined in section 13-518 for the first
+22 five years after the renewable energy generation facility is
+23 commissioned.
+24 (4) The presence of one or more renewable energy generation
+25 facilities or supporting infrastructure shall not be a factor in the
+26 assessment, determination of actual value, or classification under
+27 section 77-201 of the real property underlying or adjacent to such
+28 facilities or infrastructure.
+29 (5)(a) The Department of Revenue shall collect the tax due under
+30 this section.
+31 (b) The tax shall be imposed beginning the first calendar year the
+-7-
+LB503 LB503
+2025 2025
+1 renewable energy generation facility is commissioned. A renewable energy
+2 generation facility that uses wind as the fuel source which was
+3 commissioned prior to July 15, 2010, shall be subject to the tax levied
+4 pursuant to sections 77-6201 to 77-6204 on and after January 1, 2010. The
+5 amount of property tax on depreciable tangible personal property
+6 previously paid on a renewable energy generation facility that uses wind
+7 as the fuel source which was commissioned prior to July 15, 2010, which
+8 is greater than the amount that would have been paid pursuant to sections
+9 77-6201 to 77-6204 from the date of commissioning until January 1, 2010,
+10 shall be credited against any tax due under Chapter 77, and any amount so
+11 credited that is unused in any tax year shall be carried over to
+12 subsequent tax years until fully utilized.
+13 (c)(i) The tax for the first calendar year shall be prorated based
+14 upon the number of days remaining in the calendar year after the
+15 renewable energy generation facility is commissioned.
+16 (ii) In the first year in which a renewable energy generation
+17 facility is taxed or in any year in which additional commissioned
+18 nameplate capacity is added to a renewable energy generation facility,
+19 the taxes on the initial or additional nameplate capacity shall be
+20 prorated for the number of days remaining in the calendar year.
+21 (iii) When a renewable energy generation facility is decommissioned
+22 or made nonoperational by a change in law during a tax year, the taxes
+23 shall be prorated for the number of days during which the renewable
+24 energy generation facility was not decommissioned or was operational.
+25 (iv) When the capacity of a renewable energy generation facility to
+26 produce electricity is reduced but the renewable energy generation
+27 facility is not decommissioned, the nameplate capacity of the renewable
+28 energy generation facility is deemed to be unchanged.
+29 (v) In the first year in which a county gains or loses its
+30 designation as an American energy friendly county, the increased
+31 nameplate capacity tax under subsection (8) of section 1 of this act on
+-8-
+LB503 LB503
+2025 2025
+1 owners of privately developed renewable energy generation facilities in
+2 such county shall be prorated for the number of days the department
+3 designated the county an American energy friendly county during such
+4 year.
+5 (6)(a) On March 1 of each year, the owner of a renewable energy
+6 generation facility shall file with the Department of Revenue a report on
+7 the nameplate capacity of the facility for the previous year from January
+8 1 through December 31. All taxes shall be due on April 1 and shall be
+9 delinquent if not paid on a quarterly basis on April 1 and each quarter
+10 thereafter. Delinquent quarterly payments shall draw interest at the rate
+11 provided for in section 45-104.02, as such rate may from time to time be
+12 adjusted.
+13 (b) The owner of a renewable energy generation facility is liable
+14 for the taxes under this section with respect to the facility, whether or
+15 not the owner of the facility is the owner of the land on which the
+16 facility is situated.
+17 (7) Failure to file a report required by subsection (6) of this
+18 section, filing such report late, failure to pay taxes due, or
+19 underpayment of such taxes shall result in a penalty of five percent of
+20 the amount due being imposed for each quarter the report is overdue or
+21 the payment is delinquent, except that the penalty shall not exceed ten
+22 thousand dollars.
+23 (8) The Department of Revenue shall enforce the provisions of this
+24 section. The department may adopt and promulgate rules and regulations
+25 necessary for the implementation and enforcement of this section.
+26 (9) The Department of Revenue shall separately identify the proceeds
+27 from the tax imposed by this section and shall pay all such proceeds over
+28 to the county treasurer of the county where the renewable energy
+29 generation facility is located within thirty days after receipt of such
+30 proceeds.
+31 Sec. 3. Original section 77-6203, Revised Statutes Cumulative
+-9-
+LB503 LB503
+2025 2025
+1 Supplement, 2024, is repealed.
+-10-
+[DELETED: yBA B F A A r t p d r eg f t a s 7 R SC S 2 t a t d oA e f c a p t cp r t p d r egtB3L52]
+[DELETED: S(( E e s r m a r c or e e f t e g o f tgi o e e i t e g E esi o a r p s a c a sc o e i s t p p f e0v1(2s m a i s 7 a a i a e3e4(5a6(768( T s r e d b t l t9b a r r p t e c i t s0s h t o t b a A e f c i1e2d3( A c b t d t p d a a4A5i6(7d8(9f c d t a v o t r v o t0c1( I t c b a a r p t3L52]
+[DELETED: sv a a s e o s q m b v o a ae h i c w t s p o sg( T r o t s o t q t trbc o [ o t c a f a A e fc0(1c2s e t i n h i c w t s3p o g e o n l t M 1 p t 4s5e6A7(8A9( o t s o i a m o t v o t i0p1t c b s d a f t c z2a o o a i t a o t c3b T c z a o o a i4s t a t t d o a f p b t5d I t c m t r o t s t6d s w t d a r t a7d8c9m0(1c3L52]
+[DELETED: ( T c t h r a A e fc(t s t e A e f c h ga( I a d a a A e f c c n l m t r o t s s csc0f1(2c3t4( T c s p p d r e5g6o a t b r T c s n r a v7c u p s u p s p o o8d z a f t i o o o9p d r e g f T c0m r t o o i o a p d r1e2f t f a o w s b m a n3d4a w t s a o a e l i N5( p e i t f o a c o i6r s t t c s g l7i c f t i a o o t f8a ( c w t c g a z9r0( T c s n r s f p d1r3L52]
+[DELETED: f d f a t a m a a on d u u t " s a a tc e s l o a t p Tce( T c s n r s t o f pd( T c m r a s f nl0t t h f a w t w a w e1c2o o f o p d r e g3f4( T c m a r a s f n5l6a7w8s9g0(1o2r3o4e5(6w7(8v9e0t v o s s a r b g w f1h l o o m s l a s s i3L52]
+[DELETED: e p f t s o a w s aean l h e a w w o s sr( T c s i n a dr f p d r e gf b t r i s ( o s70(1f t c c o i a A e2f c s s l a s f c c3o4t5r677(8s9p0b1t2s i m r t t f f a o f3s4i5t N C E A a t N S F6I7(8r e e t q c i i b9A e f c E e i f f0c a a t a w r t c1r3L52]
+[DELETED: i p t o o i o p dr(tS 2 S 7 R S C S27 ( T o o a r e g fa s p ( a n c t e t t tn c o t c r e g0f1d p m o ( t n c t d i2s3( N t s b i o a r e g4f5( O o o b t f g t S o6N a p p d a p p a i7d a i m a r g o8m9(0( N t l p t t s s b c t1c2f y a t r e g f i3c4( T p o o o m r e g5f o s i s n b a f i t6a d o a v o c u7s 7 o t r p u o a t s8f9( T D o R s c t t d u0t1(3L52]
+[DELETED: rg f t u w a t f s w wcpa o p t o d t p ppai70s1c t i u i a t y s b c o t2s3(4u t n o d r i t c y a t5r6( I t f y i w a r e g7f i t o i a y i w a c8n c i a t a r e g f9t t o t i o a n c s b0p1(2o3s b p f t n o d d w t r4e5(6p e i r b t r e g7f8e9( I t f y i w a c g o l i0d a a A e f c t i1n3L52]
+[DELETED: os c s b p f t n o d t dd t c a A e f c d sy( O M 1 o e y t o o a r egt1d0t1p2a3( T o o a r e g f i l4f5n t o o t f i t o o t l o w t6f7( F t f a r r b s ( o t8s f s r l f t p t d o9u0t1t2t3(4s T d m a a p r a r5n6(7f8t t c t o t c w t r e9g0p1S 3  O s 7 R S C3L52]
+[DELETED: S3L52]
+
+
+================================================================================
+
+Raw Text:
+LB503 LB503
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 503
+Introduced by Bosn, 25; Ballard, 21; Bostar, 29.
+Read first time January 21, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to privately developed renewable energy
+2 generation facilities; to amend section 77-6203, Revised Statutes
+3 Cumulative Supplement, 2024; to authorize the designation of
+4 American energy friendly counties as prescribed; to change
+5 provisions relating to privately developed renewable energy
+6 generation facilities and the nameplate capacity tax; and to repeal
+7 the original section.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB503 LB503
+2025 2025
+1 Section 1. (1) For purposes of this section:
+2 (a) Department means the Department of Revenue;
+3 (b) Electric energy storage resource means a resource capable of
+4 receiving electric energy from the electrical grid, or from the
+5 generation source with which it is associated, and storing it for later
+6 injection of electric energy into the electrical grid. Electric energy
+7 storage resource does not include devices or equipment intended solely to
+8 inject or absorb reactive power, such as capacitors and synchronous
+9 condensers, or equipment intended solely to provide power for electric
+10 vehicles;
+11 (c) Privately developed renewable energy generation facility has the
+12 same meaning as in section 70-1001.01 and also includes any electric
+13 energy storage resource;
+14 (d) Solar energy system has the same meaning as in section 66-905;
+15 and
+16 (e) Wind energy conversion system has the same meaning as in section
+17 66-909.02.
+18 (2) To support rural economic development, broaden the local tax
+19 base, and reduce residents' property taxes, each county in this state
+20 shall have the option to become an American energy friendly county in
+21 exchange for additional local tax revenue from the owners of privately
+22 developed renewable energy generation facilities.
+23 (3) A county board that determines to pursue designation as an
+24 American energy friendly county shall, by resolution, state the county's
+25 intention to either:
+26 (a) Apply to the department for an American energy friendly county
+27 designation; or
+28 (b) Submit the question of whether to apply for an American energy
+29 friendly county designation to a vote of the registered voters of the
+30 county.
+31 (4)(a) If the county board adopts a resolution pursuant to
+-2-
+
+LB503 LB503
+2025 2025
+1 subdivision (3)(b) of this section, the question may be submitted to the
+2 voters at a special election or such question may be voted on at an
+3 election held in conjunction with the statewide primary or statewide
+4 general election.
+5 (b) The resolution ordering the submission of the question to the
+6 registered voters of the county shall contain the entire wording of the
+7 ballot question, which shall state the question as follows: "Shall the
+8 county of [name of the county] apply for an American energy friendly
+9 county designation?".
+10 (c) The county shall file a copy of the resolution with the election
+11 commissioner or county clerk not later than the eighth Friday prior to a
+12 special election that is not held in conjunction with the statewide
+13 primary or general election, or not later than March 1 prior to a
+14 statewide primary election or September 1 prior to a statewide general
+15 election. The election shall be conducted in accordance with the Election
+16 Act.
+17 (5) If the resolution states the county's intention to apply for an
+18 American energy friendly county designation pursuant to subdivision (3)
+19 (a) of this section, or if a majority of those voting on the issue
+20 pursuant to subsection (4) of this section vote in favor of the question,
+21 the county board shall delegate authority for the county zoning
+22 administrator or other authorized individual to apply on the county's
+23 behalf. The county zoning administrator or other authorized individual
+24 shall then apply to the department on a form prescribed by the
+25 department. If the county meets the requirements of this section, the
+26 department shall, within thirty days after receiving the application,
+27 designate the county as an American energy friendly county and inform the
+28 county board of such designation by written notice. The department shall
+29 maintain a current and accurate list on its website of:
+30 (a) The counties that have applied for an American energy friendly
+31 county designation;
+-3-
+
+LB503 LB503
+2025 2025
+1 (b) The counties that have received an American energy friendly
+2 county designation; and
+3 (c) The total nameplate capacity tax levied under subsection (8) of
+4 this section that each American energy friendly county has generated
+5 annually during its designation.
+6 (6) If after designation as an American energy friendly county a
+7 county no longer meets the requirements of this section, such county
+8 shall lose its American energy friendly county designation if it does not
+9 cure the noncompliance within thirty days after receipt of written notice
+10 from the department.
+11 (7) To qualify for an American energy friendly county designation, a
+12 county's regulations, including its zoning regulations, shall comply with
+13 the following:
+14 (a) The county shall permit privately developed renewable energy
+15 generation facilities by right in all zoning areas that allow structures
+16 of any type by right. The county shall not require a variance,
+17 conditional use permit, special use permit, special permit, or other
+18 discretionary zoning approval for the installation or operation of
+19 privately developed renewable energy generation facilities. The county
+20 may require the owner or installer of a privately developed renewable
+21 energy generation facility to (i) apply for a building or zoning permit
+22 for the facility, approval of which shall be ministerial and not
+23 discretionary, (ii) submit the plans and specifications for the facility,
+24 along with the stamped approval of an engineer licensed in Nebraska,
+25 (iii) provide evidence, in the form of a certificate of insurance
+26 reasonably satisfactory to the county, showing general liability
+27 insurance coverage for the installation and operation of the facility,
+28 and (iv) comply with the county's generally applicable zoning
+29 regulations, if such regulations are consistent with this section;
+30 (b) The county shall not require sound from privately developed
+31 renewable energy generation facilities to be quieter, at any time, than
+-4-
+
+LB503 LB503
+2025 2025
+1 fifty decibels for a ten-minute average measured at any occupied
+2 nonparticipating dwelling unit using the "A" scale at a ten-minute
+3 continuous equivalent sound level over a twenty-four-hour period. The
+4 county shall recognize a waiver of its sound restriction, if any, to the
+5 extent the impacted landowner has executed a written waiver of the same;
+6 (c)(i) The county shall not require setbacks to or from privately
+7 developed renewable energy generation facilities, except that:
+8 (A) The county may require a setback from nonparticipating
+9 landowners' occupied dwelling units that is up to (I) three times a wind
+10 turbine's total height for any wind turbine within a wind energy
+11 conversion system and (II) three hundred feet for any solar energy system
+12 or other form of privately developed renewable energy generation
+13 facility; and
+14 (B) The county may also require a setback from nonparticipating
+15 landowners' property lines or public rights-of-way that is up to (I) one
+16 and one-tenth times a wind turbine's total height for any wind turbine
+17 within a wind energy conversion system and (II) one hundred feet for any
+18 solar energy system or other form of privately developed renewable energy
+19 generation facility.
+20 (ii) The county shall measure such setbacks, if any, from the base
+21 of the nearest wind turbine, solar panel, or other privately developed
+22 renewable energy generation facility. The county shall recognize a waiver
+23 of its setback distance, if any, to the extent the impacted landowner has
+24 executed a written waiver of such setback distance;
+25 (d) The county shall not impose a height limitation on any component
+26 within a privately developed renewable energy generation facility;
+27 (e) The county shall not require buffers or otherwise regulate the
+28 visibility of privately developed renewable energy generation facilities,
+29 except that the county may require screening of solar energy systems from
+30 the view of surrounding streets and roads by garden walls, fences,
+31 hedges, landscaping, or other means so long as such screening is
+-5-
+
+LB503 LB503
+2025 2025
+1 economically practicable for the system owner and would still afford
+2 effective solar access on the lot in question. The county shall recognize
+3 a waiver of its screening requirement, if any, to the extent the impacted
+4 neighboring landowner has executed a written waiver of such screening
+5 requirement; and
+6 (f) The county shall impose no additional decommissioning
+7 requirements for privately developed renewable energy generation
+8 facilities beyond those required in subdivision (2)(a)(iii) of section
+9 70-1014.02.
+10 (8) The owner of a privately developed renewable energy generation
+11 facility that commences commercial operation in an American energy
+12 friendly county shall, so long as such facility continues commercial
+13 operation in an American energy friendly county, pay a nameplate capacity
+14 tax at one and one-half times the rate set for other privately developed
+15 renewable energy generation facilities in subdivision (1)(a) of section
+16 77-6203.
+17 (9) The American Energy Friendly Counties Fund is created. The fund
+18 shall be administered by the department and shall be used to award grants
+19 pursuant to subsection (10) of this section to help qualifying counties
+20 become American energy friendly counties. The fund shall consist of money
+21 transferred by the Legislature and gifts, grants, or bequests from any
+22 source, including money remitted to the fund from any other federal,
+23 state, public, and private sources. Any money in the fund available for
+24 investment shall be invested by the state investment officer pursuant to
+25 the Nebraska Capital Expansion Act and the Nebraska State Funds
+26 Investment Act.
+27 (10) The department shall create and administer a grant program to
+28 reimburse eligible expenses that qualifying counties incur in becoming
+29 American energy friendly counties. Eligible expenses include fees for
+30 consultants and attorneys to assist with revising the county's
+31 regulations to conform to this section. Eligible expenses do not include
+-6-
+
+LB503 LB503
+2025 2025
+1 incentive payments to owners or installers of privately developed
+2 renewable energy generation facilities.
+3 (11) The department may adopt and promulgate rules and regulations
+4 to carry out this section.
+5 Sec. 2. Section 77-6203, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 77-6203 (1) The owner of a renewable energy generation facility
+8 annually shall pay (a) a nameplate capacity tax equal to the total
+9 nameplate capacity of the commissioned renewable energy generation
+10 facility multiplied by a tax rate of three thousand five hundred eighteen
+11 dollars per megawatt or (b) the nameplate capacity tax described in
+12 subsection (8) of section 1 of this act, whichever is applicable.
+13 (2) No tax shall be imposed on a renewable energy generation
+14 facility:
+15 (a) Owned or operated by the federal government, the State of
+16 Nebraska, a public power district, a public power and irrigation
+17 district, an individual municipality, a registered group of
+18 municipalities, an electric membership association, or a cooperative; or
+19 (b) That is a customer-generator as defined in section 70-2002.
+20 (3) No tax levied pursuant to this section shall be construed to
+21 constitute restricted funds as defined in section 13-518 for the first
+22 five years after the renewable energy generation facility is
+23 commissioned.
+24 (4) The presence of one or more renewable energy generation
+25 facilities or supporting infrastructure shall not be a factor in the
+26 assessment, determination of actual value, or classification under
+27 section 77-201 of the real property underlying or adjacent to such
+28 facilities or infrastructure.
+29 (5)(a) The Department of Revenue shall collect the tax due under
+30 this section.
+31 (b) The tax shall be imposed beginning the first calendar year the
+-7-
+
+LB503 LB503
+2025 2025
+1 renewable energy generation facility is commissioned. A renewable energy
+2 generation facility that uses wind as the fuel source which was
+3 commissioned prior to July 15, 2010, shall be subject to the tax levied
+4 pursuant to sections 77-6201 to 77-6204 on and after January 1, 2010. The
+5 amount of property tax on depreciable tangible personal property
+6 previously paid on a renewable energy generation facility that uses wind
+7 as the fuel source which was commissioned prior to July 15, 2010, which
+8 is greater than the amount that would have been paid pursuant to sections
+9 77-6201 to 77-6204 from the date of commissioning until January 1, 2010,
+10 shall be credited against any tax due under Chapter 77, and any amount so
+11 credited that is unused in any tax year shall be carried over to
+12 subsequent tax years until fully utilized.
+13 (c)(i) The tax for the first calendar year shall be prorated based
+14 upon the number of days remaining in the calendar year after the
+15 renewable energy generation facility is commissioned.
+16 (ii) In the first year in which a renewable energy generation
+17 facility is taxed or in any year in which additional commissioned
+18 nameplate capacity is added to a renewable energy generation facility,
+19 the taxes on the initial or additional nameplate capacity shall be
+20 prorated for the number of days remaining in the calendar year.
+21 (iii) When a renewable energy generation facility is decommissioned
+22 or made nonoperational by a change in law during a tax year, the taxes
+23 shall be prorated for the number of days during which the renewable
+24 energy generation facility was not decommissioned or was operational.
+25 (iv) When the capacity of a renewable energy generation facility to
+26 produce electricity is reduced but the renewable energy generation
+27 facility is not decommissioned, the nameplate capacity of the renewable
+28 energy generation facility is deemed to be unchanged.
+29 (v) In the first year in which a county gains or loses its
+30 designation as an American energy friendly county, the increased
+31 nameplate capacity tax under subsection (8) of section 1 of this act on
+-8-
+
+LB503 LB503
+2025 2025
+1 owners of privately developed renewable energy generation facilities in
+2 such county shall be prorated for the number of days the department
+3 designated the county an American energy friendly county during such
+4 year.
+5 (6)(a) On March 1 of each year, the owner of a renewable energy
+6 generation facility shall file with the Department of Revenue a report on
+7 the nameplate capacity of the facility for the previous year from January
+8 1 through December 31. All taxes shall be due on April 1 and shall be
+9 delinquent if not paid on a quarterly basis on April 1 and each quarter
+10 thereafter. Delinquent quarterly payments shall draw interest at the rate
+11 provided for in section 45-104.02, as such rate may from time to time be
+12 adjusted.
+13 (b) The owner of a renewable energy generation facility is liable
+14 for the taxes under this section with respect to the facility, whether or
+15 not the owner of the facility is the owner of the land on which the
+16 facility is situated.
+17 (7) Failure to file a report required by subsection (6) of this
+18 section, filing such report late, failure to pay taxes due, or
+19 underpayment of such taxes shall result in a penalty of five percent of
+20 the amount due being imposed for each quarter the report is overdue or
+21 the payment is delinquent, except that the penalty shall not exceed ten
+22 thousand dollars.
+23 (8) The Department of Revenue shall enforce the provisions of this
+24 section. The department may adopt and promulgate rules and regulations
+25 necessary for the implementation and enforcement of this section.
+26 (9) The Department of Revenue shall separately identify the proceeds
+27 from the tax imposed by this section and shall pay all such proceeds over
+28 to the county treasurer of the county where the renewable energy
+29 generation facility is located within thirty days after receipt of such
+30 proceeds.
+31 Sec. 3. Original section 77-6203, Revised Statutes Cumulative
+-9-
+
+LB503 LB503
+2025 2025
+1 Supplement, 2024, is repealed.
+-10-
+
+[DELETED: yBA B F A A r t p d r eg f t a s 7 R SC S 2 t a t d oA e f c a p t cp r t p d r egtB3L52]
+[DELETED: S(( E e s r m a r c or e e f t e g o f tgi o e e i t e g E esi o a r p s a c a sc o e i s t p p f e0v1(2s m a i s 7 a a i a e3e4(5a6(768( T s r e d b t l t9b a r r p t e c i t s0s h t o t b a A e f c i1e2d3( A c b t d t p d a a4A5i6(7d8(9f c d t a v o t r v o t0c1( I t c b a a r p t3L52]
+[DELETED: sv a a s e o s q m b v o a ae h i c w t s p o sg( T r o t s o t q t trbc o [ o t c a f a A e fc0(1c2s e t i n h i c w t s3p o g e o n l t M 1 p t 4s5e6A7(8A9( o t s o i a m o t v o t i0p1t c b s d a f t c z2a o o a i t a o t c3b T c z a o o a i4s t a t t d o a f p b t5d I t c m t r o t s t6d s w t d a r t a7d8c9m0(1c3L52]
+[DELETED: ( T c t h r a A e fc(t s t e A e f c h ga( I a d a a A e f c c n l m t r o t s s csc0f1(2c3t4( T c s p p d r e5g6o a t b r T c s n r a v7c u p s u p s p o o8d z a f t i o o o9p d r e g f T c0m r t o o i o a p d r1e2f t f a o w s b m a n3d4a w t s a o a e l i N5( p e i t f o a c o i6r s t t c s g l7i c f t i a o o t f8a ( c w t c g a z9r0( T c s n r s f p d1r3L52]
+[DELETED: f d f a t a m a a on d u u t " s a a tc e s l o a t p Tce( T c s n r s t o f pd( T c m r a s f nl0t t h f a w t w a w e1c2o o f o p d r e g3f4( T c m a r a s f n5l6a7w8s9g0(1o2r3o4e5(6w7(8v9e0t v o s s a r b g w f1h l o o m s l a s s i3L52]
+[DELETED: e p f t s o a w s aean l h e a w w o s sr( T c s i n a dr f p d r e gf b t r i s ( o s70(1f t c c o i a A e2f c s s l a s f c c3o4t5r677(8s9p0b1t2s i m r t t f f a o f3s4i5t N C E A a t N S F6I7(8r e e t q c i i b9A e f c E e i f f0c a a t a w r t c1r3L52]
+[DELETED: i p t o o i o p dr(tS 2 S 7 R S C S27 ( T o o a r e g fa s p ( a n c t e t t tn c o t c r e g0f1d p m o ( t n c t d i2s3( N t s b i o a r e g4f5( O o o b t f g t S o6N a p p d a p p a i7d a i m a r g o8m9(0( N t l p t t s s b c t1c2f y a t r e g f i3c4( T p o o o m r e g5f o s i s n b a f i t6a d o a v o c u7s 7 o t r p u o a t s8f9( T D o R s c t t d u0t1(3L52]
+[DELETED: rg f t u w a t f s w wcpa o p t o d t p ppai70s1c t i u i a t y s b c o t2s3(4u t n o d r i t c y a t5r6( I t f y i w a r e g7f i t o i a y i w a c8n c i a t a r e g f9t t o t i o a n c s b0p1(2o3s b p f t n o d d w t r4e5(6p e i r b t r e g7f8e9( I t f y i w a c g o l i0d a a A e f c t i1n3L52]
+[DELETED: os c s b p f t n o d t dd t c a A e f c d sy( O M 1 o e y t o o a r egt1d0t1p2a3( T o o a r e g f i l4f5n t o o t f i t o o t l o w t6f7( F t f a r r b s ( o t8s f s r l f t p t d o9u0t1t2t3(4s T d m a a p r a r5n6(7f8t t c t o t c w t r e9g0p1S 3  O s 7 R S C3L52]
+[DELETED: S3L52]

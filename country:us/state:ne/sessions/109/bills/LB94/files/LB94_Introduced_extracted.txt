@@ -1,0 +1,419 @@
+Title: LEGISLATIVE BILL 94
+Official Title: LEGISLATIVE BILL 94
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+LB94 LB94
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by McKinney, 11.
+Read first time January 10, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to job training; to amend section 81-407,
+2 Reissue Revised Statutes of Nebraska; to adopt the Digital Skills
+3 Empowerment Act; to change the use of the Workforce Development
+4 Program Cash Fund; to provide an operative date; and to repeal the
+5 original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB94 LB94
+2025 2025
+1 Section 1. Sections 1 to 7 of this act shall be known and may be
+2 cited as the Digital Skills Empowerment Act.
+3 Sec. 2. (1) The Legislature finds that:
+4 (a) Digital skills are essential in the modern workforce, and
+5 technology-related fields often offer higher wages and job security;
+6 (b) Communities in qualified census tracts in Nebraska, particularly
+7 in areas like North Omaha, face barriers to accessing digital education
+8 and training due to economic, infrastructural, and educational
+9 disparities;
+10 (c) Equipping residents of such communities with digital skills will
+11 increase employment opportunities, reduce income inequality, and
+12 stimulate local economies; and
+13 (d) Equipping residents returning from prison from such communities
+14 with digital skills will increase employment opportunities, reduce income
+15 inequality, stimulate local economies, and reduce recidivism in local
+16 jails and penal institutions.
+17 (2) The purpose of the Digital Skills Empowerment Act is to:
+18 (a) Provide accessible, affordable digital skills training and
+19 certification for residents of qualified census tracts in Nebraska;
+20 (b) Foster community-based digital apprenticeship programs;
+21 (c) Increase employment in digital trades for communities in
+22 qualified census tracts across Nebraska; and
+23 (d) Develop sustainable, ongoing support systems for workforce
+24 development and career progression in technology-related fields.
+25 Sec. 3. For purposes of the Digital Skills Empowerment Act:
+26 (1) Local educational institution means a community center, a
+27 community college, a school as defined in section 79-101, or a vocational
+28 institution;
+29 (2) Low-income individual means an individual with a household
+30 income between one hundred and two hundred percent of the federal poverty
+31 level; and
+-2-
+LB94 LB94
+2025 2025
+1 (3) Qualified census tract means a qualified census tract as defined
+2 in 26 U.S.C. 42(d)(5)(B)(ii)(I), as such section existed on January 1,
+3 2025.
+4 Sec. 4. (1) The Department of Labor, in collaboration with the
+5 Department of Economic Development, shall:
+6 (a) Establish a grant program to provide grants to local educational
+7 institutions within qualified census tracts and nonprofits to develop and
+8 operate digital skills training centers which are to be located within
+9 qualified census tracts to provide access to digital skills training to
+10 individuals that may lead to digital skills certification. The total
+11 amount of grant funds awarded pursuant to this subdivision shall not
+12 exceed twenty million dollars per fiscal year; and
+13 (b) Establish a grant program to provide grants to cover tuition,
+14 learning materials, transportation, necessary equipment, and child care
+15 for low-income individuals to access a digital skills training center and
+16 receive training leading to a digital skills certification. The total
+17 amount of grant funds awarded pursuant to this subdivision shall not
+18 exceed twenty million dollars per fiscal year.
+19 (2)(a) A local educational institution or nonprofit may apply to the
+20 Department of Labor for a grant pursuant to subdivision (1)(a) of this
+21 section in a manner prescribed by the department and shall include with
+22 such application:
+23 (i) The name of the applicant and a contact person for such
+24 application;
+25 (ii) Information regarding the applicant's qualification as a local
+26 educational institution or nonprofit;
+27 (iii) The planned location of the digital skills training center;
+28 (iv) The type of digital skills training, courses, and certification
+29 to be available at such center;
+30 (v) The amount of funding requested, how such funding is to be used,
+31 and, if applicable, how such funding use may help individuals returning
+-3-
+LB94 LB94
+2025 2025
+1 to such community from jail or prison; and
+2 (vi) Any other information the department may require.
+3 (b) If the funds available for grants in any year are insufficient
+4 to provide grants to all eligible applicants described in subdivision (2)
+5 (a) of this subsection, the department shall establish priorities to
+6 award such grants.
+7 (3)(a) An individual may apply to the Department of Labor for a
+8 grant pursuant to subdivision (1)(b) of this section in a manner
+9 prescribed by the department and shall include with such application:
+10 (i) The name of the applicant;
+11 (ii) Information regarding the applicant's status as a low-income
+12 individual;
+13 (iii) The digital skills training center the individual plans to
+14 attend;
+15 (iv) The amount of funding requested, how such funding is to be
+16 used, and, if applicable, how such funding use may help individuals
+17 returning to such community from jail or prison; and
+18 (v) Any other information the department may require.
+19 (b) If the funds available for grants in any year are insufficient
+20 to provide grants to all eligible applicants described in subdivision (3)
+21 (a) of this subsection, the department shall establish priorities to
+22 award such grants.
+23 Sec. 5. (1) The Department of Labor, in collaboration with the
+24 Department of Economic Development, with input from the technology
+25 industry, shall develop standardized, industry-aligned curricula for use
+26 in digital skills training centers that include:
+27 (a) Core digital skills; and
+28 (b)(i) Special tracks for certain skills that include, but are not
+29 limited to, web development, cloud computing, and digital marketing; and
+30 (ii) Fast-track bootcamp programs to teach specialized skills in a
+31 short timeframe. Digital skills training centers shall provide both
+-4-
+LB94 LB94
+2025 2025
+1 virtual and in-person options of fast-track bootcamp programs to better
+2 accommodate participants.
+3 (2) The Department of Economic Development shall encourage
+4 partnerships with Nebraska-based technology firms and national technology
+5 companies to:
+6 (a) Provide input on curricula design;
+7 (b) Offer guest lectures, mentorship, and hands-on training
+8 opportunities at digital skills training centers; and
+9 (c) Facilitate access to industry-standard tools and software at
+10 digital skills training centers.
+11 Sec. 6. (1) The Department of Labor shall establish a grant program
+12 to provide grants to technology companies or businesses in Nebraska to
+13 establish paid apprenticeships in digital trades.
+14 (2) An apprenticeship provided pursuant to this section shall offer
+15 direct, hands-on experience in a technology related role such as a junior
+16 developer, data analyst, or cybersecurity assistant. Such apprenticeship
+17 program shall include assisting an apprentice with developing a resume,
+18 preparing for interviews, and connecting with technology employers.
+19 (3)(a) A technology company or business may apply to the department
+20 in a manner prescribed by the department for a grant to hire a paid
+21 apprentice or apprentices in a technology related role. The total amount
+22 of grant funds awarded pursuant to this subsection shall not exceed ten
+23 million dollars per fiscal year. Such application shall include:
+24 (i) The name of the company or business and a contact person;
+25 (ii) Information regarding the qualification as a technology company
+26 or business;
+27 (iii) The location of the apprenticeship program;
+28 (iv) The type of apprenticeship that shall be available as part of
+29 the grant;
+30 (v) The amount of funding requested, how such funding is to be used,
+31 and, if applicable, how such funding may help individuals returning to
+-5-
+LB94 LB94
+2025 2025
+1 such community from jail or prison; and
+2 (vi) Any other information the department may require.
+3 (b) If the funds available for grants provided pursuant to this
+4 section in any year are insufficient to provide grants to all eligible
+5 applicants, the department shall establish priorities to award such
+6 grants.
+7 (4) The Department of Labor shall:
+8 (a) Partner with technology companies and businesses receiving a
+9 grant pursuant to this section to help apprentices progress from entry-
+10 level positions to mid-level and senior-level positions within such
+11 company or business or in the technology industry;
+12 (b) Partner with employers in Nebraska in the technology field to
+13 provide information to individuals interested in the technology industry
+14 related to job fairs, networking events, and apprenticeships; and
+15 (c) Develop a network of contacts to provide apprentices and others
+16 interested in the technology industry with job opportunities, promotion
+17 guidance, and continued training resources.
+18 Sec. 7. It is the intent of the Legislature to appropriate fifty
+19 million dollars from the Workforce Development Program Cash Fund to the
+20 Department of Labor for fiscal year 2025-26 and each fiscal year
+21 thereafter to provide grants pursuant to the Digital Skills Empowerment
+22 Act.
+23 Sec. 8. Section 81-407, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 81-407 The Workforce Development Program Cash Fund is hereby
+26 created. The fund shall consist of transfers authorized by the
+27 Legislature. The Department of Labor shall administer the fund to provide
+28 workforce development grants and grants pursuant to the Digital Skills
+29 Empowerment Act. Any money in the fund available for investment shall be
+30 invested by the state investment officer pursuant to the Nebraska Capital
+31 Expansion Act and the Nebraska State Funds Investment Act.
+-6-
+LB94 LB94
+2025 2025
+1 Sec. 9. This act becomes operative on January 1, 2026.
+2 Sec. 10. Original section 81-407, Reissue Revised Statutes of
+3 Nebraska, is repealed.
+-7-
+[DELETED: yMA B F A A r t j t t a s 8R R S o N t a t D SE A t c t u o t W DPoB4L52]
+[DELETED: ScS( D s a e i t m w at(ia t d t e i a ed0(1i e o r i i a2s3(4w5i s l e a r r i l6j7(8( P a a d s t a9c0(1( I e i d t f c i2q3( D s o s s f w4d5S6( L e i m a c c 7c8i9( L i m a i w a h0i1l4L52]
+[DELETED: (i2S 4  ( T D o L i c w tD(ioq0i t m l t d s c T t1a o g f a p t t s s n2e3( E a g p t p g t c t4l5f6r t l t a d s c T t7a o g f a p t t s s n8e9(0D1s2s3( T n o t a a a c p f s4a5(6e7(8(9t0(1a4L52]
+[DELETED: t((t( o t s t d s e p ta( A i m a t t D o L f g p t s ( o t s i a mp0(1( I r t a s a a l2i3( T d s t c t i p t4a5( T a o f r h s f i t b6u a i a h s f u m h i7r8(9(0t1( o t s t d s e p t2a3S 5  ( T D o L i c w t4D o E D w i f t t5i6i7(8(9l0(1s t D s t c s p b4L52]
+[DELETED: va( T D o E D s epc(( O g l m a h to( F a t i t a s a0d1S2t3e4(5d6d7p8p9(0i a m p b t d f a g t h a p1a2o3m4(5(6o7(8(9t0(1a4L52]
+[DELETED: s(( I t f a f g p p t tsa t d s e p t a sg(( P w t c a b r g0l p t m a s p w s1c2( P w e i N i t t f t3p4r5(6i7g8S9m0D o L f f y 2 a e f y1t2A3S 8 S 8 R R S o N i4a58 T W D P C F i h6c T f s c o t a b t7L8w d g a g p t t D S9E0i1E4L52]
+[DELETED: SS 1  O s 8 R R S oN4L52]
+
+
+================================================================================
+
+Raw Text:
+LB94 LB94
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 94
+Introduced by McKinney, 11.
+Read first time January 10, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to job training; to amend section 81-407,
+2 Reissue Revised Statutes of Nebraska; to adopt the Digital Skills
+3 Empowerment Act; to change the use of the Workforce Development
+4 Program Cash Fund; to provide an operative date; and to repeal the
+5 original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB94 LB94
+2025 2025
+1 Section 1. Sections 1 to 7 of this act shall be known and may be
+2 cited as the Digital Skills Empowerment Act.
+3 Sec. 2. (1) The Legislature finds that:
+4 (a) Digital skills are essential in the modern workforce, and
+5 technology-related fields often offer higher wages and job security;
+6 (b) Communities in qualified census tracts in Nebraska, particularly
+7 in areas like North Omaha, face barriers to accessing digital education
+8 and training due to economic, infrastructural, and educational
+9 disparities;
+10 (c) Equipping residents of such communities with digital skills will
+11 increase employment opportunities, reduce income inequality, and
+12 stimulate local economies; and
+13 (d) Equipping residents returning from prison from such communities
+14 with digital skills will increase employment opportunities, reduce income
+15 inequality, stimulate local economies, and reduce recidivism in local
+16 jails and penal institutions.
+17 (2) The purpose of the Digital Skills Empowerment Act is to:
+18 (a) Provide accessible, affordable digital skills training and
+19 certification for residents of qualified census tracts in Nebraska;
+20 (b) Foster community-based digital apprenticeship programs;
+21 (c) Increase employment in digital trades for communities in
+22 qualified census tracts across Nebraska; and
+23 (d) Develop sustainable, ongoing support systems for workforce
+24 development and career progression in technology-related fields.
+25 Sec. 3. For purposes of the Digital Skills Empowerment Act:
+26 (1) Local educational institution means a community center, a
+27 community college, a school as defined in section 79-101, or a vocational
+28 institution;
+29 (2) Low-income individual means an individual with a household
+30 income between one hundred and two hundred percent of the federal poverty
+31 level; and
+-2-
+
+LB94 LB94
+2025 2025
+1 (3) Qualified census tract means a qualified census tract as defined
+2 in 26 U.S.C. 42(d)(5)(B)(ii)(I), as such section existed on January 1,
+3 2025.
+4 Sec. 4. (1) The Department of Labor, in collaboration with the
+5 Department of Economic Development, shall:
+6 (a) Establish a grant program to provide grants to local educational
+7 institutions within qualified census tracts and nonprofits to develop and
+8 operate digital skills training centers which are to be located within
+9 qualified census tracts to provide access to digital skills training to
+10 individuals that may lead to digital skills certification. The total
+11 amount of grant funds awarded pursuant to this subdivision shall not
+12 exceed twenty million dollars per fiscal year; and
+13 (b) Establish a grant program to provide grants to cover tuition,
+14 learning materials, transportation, necessary equipment, and child care
+15 for low-income individuals to access a digital skills training center and
+16 receive training leading to a digital skills certification. The total
+17 amount of grant funds awarded pursuant to this subdivision shall not
+18 exceed twenty million dollars per fiscal year.
+19 (2)(a) A local educational institution or nonprofit may apply to the
+20 Department of Labor for a grant pursuant to subdivision (1)(a) of this
+21 section in a manner prescribed by the department and shall include with
+22 such application:
+23 (i) The name of the applicant and a contact person for such
+24 application;
+25 (ii) Information regarding the applicant's qualification as a local
+26 educational institution or nonprofit;
+27 (iii) The planned location of the digital skills training center;
+28 (iv) The type of digital skills training, courses, and certification
+29 to be available at such center;
+30 (v) The amount of funding requested, how such funding is to be used,
+31 and, if applicable, how such funding use may help individuals returning
+-3-
+
+LB94 LB94
+2025 2025
+1 to such community from jail or prison; and
+2 (vi) Any other information the department may require.
+3 (b) If the funds available for grants in any year are insufficient
+4 to provide grants to all eligible applicants described in subdivision (2)
+5 (a) of this subsection, the department shall establish priorities to
+6 award such grants.
+7 (3)(a) An individual may apply to the Department of Labor for a
+8 grant pursuant to subdivision (1)(b) of this section in a manner
+9 prescribed by the department and shall include with such application:
+10 (i) The name of the applicant;
+11 (ii) Information regarding the applicant's status as a low-income
+12 individual;
+13 (iii) The digital skills training center the individual plans to
+14 attend;
+15 (iv) The amount of funding requested, how such funding is to be
+16 used, and, if applicable, how such funding use may help individuals
+17 returning to such community from jail or prison; and
+18 (v) Any other information the department may require.
+19 (b) If the funds available for grants in any year are insufficient
+20 to provide grants to all eligible applicants described in subdivision (3)
+21 (a) of this subsection, the department shall establish priorities to
+22 award such grants.
+23 Sec. 5. (1) The Department of Labor, in collaboration with the
+24 Department of Economic Development, with input from the technology
+25 industry, shall develop standardized, industry-aligned curricula for use
+26 in digital skills training centers that include:
+27 (a) Core digital skills; and
+28 (b)(i) Special tracks for certain skills that include, but are not
+29 limited to, web development, cloud computing, and digital marketing; and
+30 (ii) Fast-track bootcamp programs to teach specialized skills in a
+31 short timeframe. Digital skills training centers shall provide both
+-4-
+
+LB94 LB94
+2025 2025
+1 virtual and in-person options of fast-track bootcamp programs to better
+2 accommodate participants.
+3 (2) The Department of Economic Development shall encourage
+4 partnerships with Nebraska-based technology firms and national technology
+5 companies to:
+6 (a) Provide input on curricula design;
+7 (b) Offer guest lectures, mentorship, and hands-on training
+8 opportunities at digital skills training centers; and
+9 (c) Facilitate access to industry-standard tools and software at
+10 digital skills training centers.
+11 Sec. 6. (1) The Department of Labor shall establish a grant program
+12 to provide grants to technology companies or businesses in Nebraska to
+13 establish paid apprenticeships in digital trades.
+14 (2) An apprenticeship provided pursuant to this section shall offer
+15 direct, hands-on experience in a technology related role such as a junior
+16 developer, data analyst, or cybersecurity assistant. Such apprenticeship
+17 program shall include assisting an apprentice with developing a resume,
+18 preparing for interviews, and connecting with technology employers.
+19 (3)(a) A technology company or business may apply to the department
+20 in a manner prescribed by the department for a grant to hire a paid
+21 apprentice or apprentices in a technology related role. The total amount
+22 of grant funds awarded pursuant to this subsection shall not exceed ten
+23 million dollars per fiscal year. Such application shall include:
+24 (i) The name of the company or business and a contact person;
+25 (ii) Information regarding the qualification as a technology company
+26 or business;
+27 (iii) The location of the apprenticeship program;
+28 (iv) The type of apprenticeship that shall be available as part of
+29 the grant;
+30 (v) The amount of funding requested, how such funding is to be used,
+31 and, if applicable, how such funding may help individuals returning to
+-5-
+
+LB94 LB94
+2025 2025
+1 such community from jail or prison; and
+2 (vi) Any other information the department may require.
+3 (b) If the funds available for grants provided pursuant to this
+4 section in any year are insufficient to provide grants to all eligible
+5 applicants, the department shall establish priorities to award such
+6 grants.
+7 (4) The Department of Labor shall:
+8 (a) Partner with technology companies and businesses receiving a
+9 grant pursuant to this section to help apprentices progress from entry-
+10 level positions to mid-level and senior-level positions within such
+11 company or business or in the technology industry;
+12 (b) Partner with employers in Nebraska in the technology field to
+13 provide information to individuals interested in the technology industry
+14 related to job fairs, networking events, and apprenticeships; and
+15 (c) Develop a network of contacts to provide apprentices and others
+16 interested in the technology industry with job opportunities, promotion
+17 guidance, and continued training resources.
+18 Sec. 7. It is the intent of the Legislature to appropriate fifty
+19 million dollars from the Workforce Development Program Cash Fund to the
+20 Department of Labor for fiscal year 2025-26 and each fiscal year
+21 thereafter to provide grants pursuant to the Digital Skills Empowerment
+22 Act.
+23 Sec. 8. Section 81-407, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 81-407 The Workforce Development Program Cash Fund is hereby
+26 created. The fund shall consist of transfers authorized by the
+27 Legislature. The Department of Labor shall administer the fund to provide
+28 workforce development grants and grants pursuant to the Digital Skills
+29 Empowerment Act. Any money in the fund available for investment shall be
+30 invested by the state investment officer pursuant to the Nebraska Capital
+31 Expansion Act and the Nebraska State Funds Investment Act.
+-6-
+
+LB94 LB94
+2025 2025
+1 Sec. 9. This act becomes operative on January 1, 2026.
+2 Sec. 10. Original section 81-407, Reissue Revised Statutes of
+3 Nebraska, is repealed.
+-7-
+
+[DELETED: yMA B F A A r t j t t a s 8R R S o N t a t D SE A t c t u o t W DPoB4L52]
+[DELETED: ScS( D s a e i t m w at(ia t d t e i a ed0(1i e o r i i a2s3(4w5i s l e a r r i l6j7(8( P a a d s t a9c0(1( I e i d t f c i2q3( D s o s s f w4d5S6( L e i m a c c 7c8i9( L i m a i w a h0i1l4L52]
+[DELETED: (i2S 4  ( T D o L i c w tD(ioq0i t m l t d s c T t1a o g f a p t t s s n2e3( E a g p t p g t c t4l5f6r t l t a d s c T t7a o g f a p t t s s n8e9(0D1s2s3( T n o t a a a c p f s4a5(6e7(8(9t0(1a4L52]
+[DELETED: t((t( o t s t d s e p ta( A i m a t t D o L f g p t s ( o t s i a mp0(1( I r t a s a a l2i3( T d s t c t i p t4a5( T a o f r h s f i t b6u a i a h s f u m h i7r8(9(0t1( o t s t d s e p t2a3S 5  ( T D o L i c w t4D o E D w i f t t5i6i7(8(9l0(1s t D s t c s p b4L52]
+[DELETED: va( T D o E D s epc(( O g l m a h to( F a t i t a s a0d1S2t3e4(5d6d7p8p9(0i a m p b t d f a g t h a p1a2o3m4(5(6o7(8(9t0(1a4L52]
+[DELETED: s(( I t f a f g p p t tsa t d s e p t a sg(( P w t c a b r g0l p t m a s p w s1c2( P w e i N i t t f t3p4r5(6i7g8S9m0D o L f f y 2 a e f y1t2A3S 8 S 8 R R S o N i4a58 T W D P C F i h6c T f s c o t a b t7L8w d g a g p t t D S9E0i1E4L52]
+[DELETED: SS 1  O s 8 R R S oN4L52]

@@ -1,0 +1,1859 @@
+Title: LEGISLATIVE BILL 218
+Official Title: LEGISLATIVE BILL 218
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+LB218 LB218
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Fredrickson, 20.
+Read first time January 14, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend sections 32-307,
+2 32-315, 32-1506, 60-484, 60-4,130, and 60-4,130.02, Reissue Revised
+3 Statutes of Nebraska, and sections 32-202, 32-308, 32-312, 32-1002,
+4 and 60-4,144, Revised Statutes Cumulative Supplement, 2024; to
+5 change provisions relating to registration of voters and voting; to
+6 change penalty provisions; to eliminate obsolete provisions; to
+7 harmonize provisions; to provide an operative date; to repeal the
+8 original sections; and to outright repeal section 32-309, Reissue
+9 Revised Statutes of Nebraska.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+LB218 LB218
+2025 2025
+1 Section 1. Section 32-202, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 32-202 In addition to any other duties prescribed by law, the
+4 Secretary of State shall:
+5 (1) Supervise the conduct of primary and general elections in this
+6 state;
+7 (2) Provide training and support for election commissioners, county
+8 clerks, and other election officials in providing for day-to-day
+9 operations of the office, registration of voters, and the conduct of
+10 elections;
+11 (3) Enforce the Election Act;
+12 (4) With the assistance and advice of the Attorney General, make
+13 uniform interpretations of the act;
+14 (5) Provide periodic training for the agencies and their agents and
+15 contractors in carrying out their duties under sections 32-308 and to
+16 32-310;
+17 (6) Develop and print forms for use as required by sections 32-308,
+18 32-310, 32-320, 32-329, 32-947, 32-956, and 32-958;
+19 (7) Contract with the Department of Administrative Services for
+20 storage and distribution of the forms;
+21 (8) Require reporting to ensure compliance with sections 32-308 and
+22 to 32-310;
+23 (9) Prepare and transmit reports as required by the National Voter
+24 Registration Act of 1993, 52 U.S.C. 20501 et seq.;
+25 (10) Develop and print a manual describing the requirements of the
+26 initiative and referendum process and distribute the manual to election
+27 commissioners and county clerks for distribution to the public upon
+28 request;
+29 (11) Develop and print pamphlets described in section 32-1405.01;
+30 (12) Adopt and promulgate rules and regulations as necessary for
+31 elections conducted under sections 32-952 to 32-959;
+-2-
+LB218 LB218
+2025 2025
+1 (13) Establish a free access system, such as a toll-free telephone
+2 number or an Internet website, that any voter who casts a provisional
+3 ballot may access to discover whether the vote of that voter was counted
+4 and, if the vote was not counted, the reason that the vote was not
+5 counted. The Secretary of State shall establish and maintain reasonable
+6 procedures necessary to protect the security, confidentiality, and
+7 integrity of personal information collected, stored, or otherwise used by
+8 the free access system. Access to information about an individual
+9 provisional ballot shall be restricted to the individual who cast the
+10 ballot;
+11 (14) Provide a website dedicated to voter identification
+12 requirements and procedures. The Secretary of State shall establish,
+13 maintain, and regularly update on the website a document entitled "List
+14 of Acceptable Forms of Identification" that lists forms of identification
+15 that qualify as valid photographic identification for purposes of voter
+16 identification;
+17 (15) Provide a public awareness campaign regarding the voter
+18 identification requirements and procedures, including communication
+19 through multiple mediums and in-person events;
+20 (16) Provide instructions and information to the Department of
+21 Health and Human Services, the Department of Motor Vehicles, and the
+22 State Department of Education for distribution by such agencies to
+23 Nebraska residents regarding the requirement to present valid
+24 photographic identification in order to vote and the way to obtain free
+25 valid photographic identification; and
+26 (17) Not use or allow the use of citizenship information shared with
+27 or collected by the Secretary of State pursuant to the Election Act for
+28 any purpose other than maintenance of the voter registration list,
+29 including law enforcement purposes.
+30 Sec. 2. Section 32-307, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-3-
+LB218 LB218
+2025 2025
+1 32-307 No materials advocating or advertising any political issue,
+2 candidate, or party shall be displayed or distributed within fifty feet
+3 of any voter registration site. No alcohol shall be served within fifty
+4 feet of any voter registration site. The registration procedure shall be
+5 conducted in a neutral manner and shall not be connected with anything
+6 unrelated to the object of registering electors except as otherwise
+7 provided in sections 32-308 and to 32-310.
+8 Sec. 3. Section 32-308, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-308 (1) The Secretary of State and the Director of Motor Vehicles
+11 shall enter into an agreement to match information in the computerized
+12 statewide voter registration list with information in the database of the
+13 Department of Motor Vehicles to the extent required to enable each such
+14 official to verify the accuracy of the information, including
+15 citizenship, provided on applications for voter registration. The
+16 Director of Motor Vehicles shall enter into an agreement with the
+17 Commissioner of Social Security under section 205(r)(8) of the federal
+18 Social Security Act, 42 U.S.C. 405(r)(8), as such section existed on
+19 April 17, 2003, for purposes of the Election Act.
+20 (2) The Department of Motor Vehicles, with the assistance of the
+21 Secretary of State, shall prescribe a voter registration application
+22 which may be used to register to vote or change his or her address for
+23 voting purposes at the same time an elector applies for an original or
+24 renewal motor vehicle operator's license, an original or renewal state
+25 identification card, or a replacement thereof. The voter registration
+26 application shall be designed so that the elector's information is
+27 transmitted to the election commissioner or county clerk pursuant to
+28 subsection (3) of this section unless the elector specifies on the form
+29 that he or she does not want to register to vote or update his or her
+30 voter registration record. The voter registration application shall
+31 contain the information required pursuant to section 32-312 and shall be
+-4-
+LB218 LB218
+2025 2025
+1 designed so that it does not require the duplication of information in
+2 the application for the motor vehicle operator's license or state
+3 identification card, except that it may require a second signature of the
+4 applicant. The department and the Secretary of State shall make the voter
+5 registration application available to any person applying for an
+6 operator's license or state identification card. The application shall be
+7 completed at the office of the department by the close of business on the
+8 third Friday preceding any election to be registered to vote at such
+9 election. A registration application received after the deadline shall
+10 not be processed by the election commissioner or county clerk until after
+11 the election. If a voter registration application is submitted under this
+12 section with the signature of the applicant but the applicant is not
+13 eligible to register to vote, the submission shall not be considered a
+14 violation of section 32-1502 or 32-1503 and the document submitted shall
+15 not be considered a valid or completed voter registration application for
+16 purposes of registration or enforcement of the Election Act unless the
+17 applicant has willfully and knowingly taken affirmative steps to register
+18 to vote knowing that he or she is not eligible to do so.
+19 (3) The Department of Motor Vehicles, in conjunction with the
+20 Secretary of State, shall develop a process to electronically transmit
+21 voter registration application information received under subsection (2)
+22 of this section to the election commissioner or county clerk of the
+23 county in which the applicant resides within the time limits prescribed
+24 in subsection (4) of this section for each applicant who indicates on the
+25 application that he or she is a citizen of the United States and at least
+26 eighteen years of age or will be eighteen years of age on or before the
+27 first Tuesday after the first Monday in November of the then-current
+28 year. The Department of Motor Vehicles shall not transmit voter
+29 registration application information for applications pursuant to section
+30 60-480.01. The Director of Motor Vehicles shall designate an
+31 implementation date for the process which shall be on or before January
+-5-
+LB218 LB218
+2025 2025
+1 1, 2016.
+2 (4) The voter registration application information shall be
+3 transmitted to the election commissioner or county clerk of the county in
+4 which the applicant resides not later than ten days after receipt, except
+5 that if the voter registration application information is received within
+6 five days prior to the third Friday preceding any election, it shall be
+7 transmitted not later than five days after its original submission. Any
+8 information on whether an applicant registers or declines to register and
+9 the location of the office at which he or she registers shall be
+10 confidential and shall only be used for voter registration purposes.
+11 (5) For each voter registration application for which information is
+12 transmitted electronically pursuant to this section, the Secretary of
+13 State shall obtain a copy of the electronic representation of the
+14 applicant's digital image and signature from the Department of Motor
+15 Vehicles' records of his or her motor vehicle operator's license or state
+16 identification card for purposes of voter registration and voting. Each
+17 voter registration application electronically transmitted under this
+18 section shall include information provided by the applicant that includes
+19 whether the applicant is a citizen of the United States, whether the
+20 applicant is of sufficient age to register to vote, the applicant's
+21 residence address, the applicant's postal address if different from the
+22 residence address, the date of birth of the applicant, the party
+23 affiliation of the applicant or an indication that the applicant is not
+24 affiliated with any political party, the applicant's motor vehicle
+25 operator's license number, the applicant's previous registration location
+26 by city, county, or state, if applicable, and the applicant's signature.
+27 (6) State agency personnel involved in the voter registration
+28 process pursuant to this section and section 32-309 shall not be
+29 considered deputy registrars or agents or employees of the election
+30 commissioner or county clerk.
+31 Sec. 4. Section 32-312, Revised Statutes Cumulative Supplement,
+-6-
+LB218 LB218
+2025 2025
+1 2024, is amended to read:
+2 32-312 The registration application prescribed by the Secretary of
+3 State pursuant to section 32-304 or 32-311.01 shall provide the
+4 instructional statements and request the information from the applicant
+5 as provided in this section.
+6 CITIZENSHIP—"Are you a citizen of the United States of America?"
+7 with boxes to check to indicate whether the applicant is or is not a
+8 citizen of the United States.
+9 AGE—"Are you at least eighteen years of age or will you be eighteen
+10 years of age on or before the first Tuesday following the first Monday of
+11 November of this year?" with boxes to check to indicate whether or not
+12 the applicant will be eighteen years of age or older on election day.
+13 WARNING—"If you checked 'no' in response to either of these
+14 questions, do not complete this application.".
+15 NAME—the name of the applicant giving the first and last name in
+16 full, the middle name in full or the middle initial, and the maiden name
+17 of the applicant, if applicable.
+18 RESIDENCE—the name and number of the street, avenue, or other
+19 location of the dwelling where the applicant resides if there is a
+20 number. If the registrant resides in a hotel, apartment, tenement house,
+21 or institution, such additional information shall be included as will
+22 give the exact location of such registrant's place of residence. If the
+23 registrant lives in an incorporated or unincorporated area not identified
+24 by the use of roads, road names, or house numbers, the registrant shall
+25 state the section, township, and range of his or her residence and the
+26 corporate name of the school district as described in section 79-405 in
+27 which he or she is located.
+28 POSTAL ADDRESS—the address at which the applicant receives mail if
+29 different from the residence address.
+30 ADDRESS OF LAST REGISTRATION—the name and number of the street,
+31 avenue, or other location of the dwelling from which the applicant last
+-7-
+LB218 LB218
+2025 2025
+1 registered.
+2 TELEPHONE NUMBERS—the telephone numbers of the applicant. At the
+3 request of the applicant, a designation shall be made that a telephone
+4 number is an unlisted number, and such designation shall preclude the
+5 listing of such telephone number on any list of voter registrations.
+6 EMAIL ADDRESS—an email address of the applicant. At the request of
+7 the applicant, a designation shall be made that the email address is
+8 private, and such designation shall preclude the listing of the
+9 applicant's email address on any list of voter registrations.
+10 DRIVER'S LICENSE NUMBER OR LAST FOUR DIGITS OF SOCIAL SECURITY
+11 NUMBER—if the applicant has a Nebraska driver's license, the license
+12 number, and if the applicant does not have a Nebraska driver's license,
+13 the last four digits of the applicant's social security number.
+14 DATE OF APPLICATION FOR REGISTRATION—the month, day, and year when
+15 the applicant presented himself or herself for registration, when the
+16 applicant completed and signed the registration application if the
+17 application was submitted by mail or delivered to the election official
+18 by the applicant's personal messenger or personal agent, or when the
+19 completed application was submitted if the registration application was
+20 completed pursuant to section 32-304.
+21 PLACE OF BIRTH—show the state, country, kingdom, empire, or dominion
+22 where the applicant was born.
+23 DATE OF BIRTH—show the date of the applicant's birth. The applicant
+24 shall be at least eighteen years of age or attain eighteen years of age
+25 on or before the first Tuesday after the first Monday in November to have
+26 the right to register and vote in any election in the present calendar
+27 year.
+28 REGISTRATION TAKEN BY—show the signature of the authorized official
+29 or staff member accepting the application pursuant to section 32-309 or
+30 32-310 or at least one of the deputy registrars taking the application
+31 pursuant to section 32-306, if applicable.
+-8-
+LB218 LB218
+2025 2025
+1 PARTY AFFILIATION—show the party affiliation of the applicant as
+2 Democratic, Republican, or Other ........ or show no party affiliation as
+3 Nonpartisan. (Note: If you wish to vote in both partisan and nonpartisan
+4 primary elections for state and local offices, you must indicate a
+5 political party affiliation on the registration application. If you
+6 register without a political party affiliation (nonpartisan), you will
+7 receive only the nonpartisan ballots for state and local offices at
+8 primary elections. If you register without a political party affiliation,
+9 you may vote in partisan primary elections for congressional offices.)
+10 OTHER—information the Secretary of State determines will assist in
+11 the proper and accurate registration of the voter.
+12 Immediately following the spaces for inserting information as
+13 provided in this section, the following statement shall be printed:
+14 To the best of my knowledge and belief, I declare under penalty of
+15 election falsification that:
+16 (1) I live in the State of Nebraska at the address provided in this
+17 application;
+18 (2) I have not been convicted of a felony or, if convicted, I have
+19 completed my sentence for the felony, including any parole term;
+20 (3) I have not been officially found to be non compos mentis
+21 (mentally incompetent); and
+22 (4) I am a citizen of the United States.
+23 Any registrant who signs this application knowing that any of the
+24 information in the application is false shall be guilty of a Class IV
+25 felony under section 32-1502 of the statutes of Nebraska. The penalty for
+26 a Class IV felony is up to two years imprisonment and twelve months post-
+27 release supervision, a fine of up to ten thousand dollars, or both.
+28 APPLICANT'S SIGNATURE—require the applicant to affix his or her
+29 signature to the application.
+30 Sec. 5. Section 32-315, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-9-
+LB218 LB218
+2025 2025
+1 32-315 Upon receiving a completed voter registration application
+2 pursuant to section 32-308 , 32-309, or 32-310 indicating that a voter
+3 who is registered in the county has changed his or her name or moved to
+4 another residence within the same county, the election commissioner or
+5 county clerk shall change the voter registration record of the registered
+6 voter to the new name or new address and shall send an acknowledgment
+7 card to the registered voter indicating that the change of registration
+8 has been completed and the address of the voter's new polling place.
+9 Sec. 6. Section 32-1002, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 32-1002 (1) As the ballots are removed from the ballot box pursuant
+12 to sections 32-1012 to 32-1018, the receiving board shall separate the
+13 envelopes containing the provisional ballots from the rest of the ballots
+14 and deliver them to the election commissioner or county clerk.
+15 (2) Upon receipt of a provisional ballot, the election commissioner
+16 or county clerk shall verify that the certificate on the front of the
+17 envelope or the form attached to the envelope is in proper form and that
+18 the certification has been signed by the voter.
+19 (3) The election commissioner or county clerk shall also (a) verify
+20 that such person has not voted anywhere else in the county or been issued
+21 a ballot for early voting, (b) investigate whether any credible evidence
+22 exists that the person was properly registered to vote in the county
+23 before the deadline for registration for the election, (c) investigate
+24 whether any information has been received pursuant to section 32-308,
+25 32-309, 32-310, or 32-324 that the person has resided, registered, or
+26 voted in any other county or state since registering to vote in the
+27 county, and (d) upon determining that credible evidence exists that the
+28 person was properly registered to vote in the county, make the
+29 appropriate changes to the voter registration register by entering the
+30 information contained in the registration application completed by the
+31 voter at the time of voting a provisional ballot.
+-10-
+LB218 LB218
+2025 2025
+1 (4) A provisional ballot cast by a voter pursuant to section 32-915
+2 shall be counted if:
+3 (a) Credible evidence exists that the voter was properly registered
+4 in the county before the deadline for registration for the election;
+5 (b) The voter has resided in the county continuously since
+6 registering to vote in the county;
+7 (c) The voter has not voted anywhere else in the county or has not
+8 otherwise voted early using a ballot for early voting;
+9 (d) The voter has completed a registration application prior to
+10 voting as prescribed in subsection (6) of this section and:
+11 (i) The residence address provided on the registration application
+12 completed pursuant to subdivision (1)(e) of section 32-915 is located
+13 within the precinct in which the person voted; and
+14 (ii) If the voter is voting in a primary election, the party
+15 affiliation provided on the registration application completed prior to
+16 voting the provisional ballot is the same party affiliation that appears
+17 on the voter's voter registration record based on his or her previous
+18 registration application; and
+19 (e) The certification on the front of the envelope or form attached
+20 to the envelope is in the proper form and signed by the voter.
+21 (5) A provisional ballot cast by a voter pursuant to section 32-915
+22 shall not be counted if:
+23 (a) The voter was not properly registered in the county before the
+24 deadline for registration for the election;
+25 (b) Information has been received pursuant to section 32-308,
+26 32-309, 32-310, or 32-324 that the voter has resided, registered, or
+27 voted in any other county or state since registering to vote in the
+28 county in which he or she cast the provisional ballot;
+29 (c) Credible evidence exists that the voter has voted elsewhere or
+30 has otherwise voted early;
+31 (d) The voter failed to complete and sign a registration application
+-11-
+LB218 LB218
+2025 2025
+1 pursuant to subsection (6) of this section and subdivision (1)(e) of
+2 section 32-915;
+3 (e) The residence address provided on the registration application
+4 completed pursuant to subdivision (1)(e) of section 32-915 is in a
+5 different county or in a different precinct than the county or precinct
+6 in which the voter voted;
+7 (f) If the voter is voting in a primary election, the party
+8 affiliation on the registration application completed prior to voting the
+9 provisional ballot is different than the party affiliation that appears
+10 on the voter's voter registration record based on his or her previous
+11 registration application; or
+12 (g) The voter failed to complete and sign the certification on the
+13 envelope or form attached to the envelope pursuant to subsection (3) of
+14 section 32-915.
+15 (6) An error or omission of information on the registration
+16 application or the certification required under section 32-915 shall not
+17 result in the provisional ballot not being counted if:
+18 (a)(i) The errant or omitted information is contained elsewhere on
+19 the registration application or certification; or
+20 (ii) The information is not necessary to determine the eligibility
+21 of the voter to cast a ballot; and
+22 (b) Both the registration application and the certification are
+23 signed by the voter.
+24 (7) Upon determining that the voter's provisional ballot is eligible
+25 to be counted, the election commissioner or county clerk shall remove the
+26 ballot from the envelope without exposing the marks on the ballot and
+27 shall place the ballot with the ballots to be counted by the county
+28 canvassing board.
+29 (8) The election commissioner or county clerk shall notify the
+30 system administrator of the system created pursuant to section 32-202 as
+31 to whether the ballot was counted and, if not, the reason the ballot was
+-12-
+LB218 LB218
+2025 2025
+1 not counted.
+2 (9) The verification and investigation shall be completed within
+3 seven business days after the election.
+4 Sec. 7. Section 32-1506, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 32-1506 Any deputy registrar, judge or clerk of election, or other
+7 officer having the custody of records, registers, copies of records or
+8 registers, oaths, certificates, or any other paper, document, or evidence
+9 of any description by law directed to be made, filed, or preserved (1)
+10 who steals, willfully destroys, mutilates, defaces, falsifies, or
+11 fraudulently removes such paper, document, or evidence or any part
+12 thereof, (2) who fraudulently makes an entry, erasure, or alteration in
+13 such paper, document, or evidence except as allowed and directed by the
+14 Election Act, (3) who uses the voter registration records for any purpose
+15 other than voter registration, election administration, or enforcement of
+16 the Election Act, (4) who permits any other person to commit any
+17 violation listed in this section, or (5) who advises, procures, or abets
+18 the commission of such a violation shall be guilty of a Class III
+19 misdemeanor and shall forfeit his or her office. Any other person who
+20 violates this section shall be guilty of a Class III misdemeanor.
+21 Sec. 8. Section 60-484, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 60-484 (1) Except as otherwise provided in the Motor Vehicle
+24 Operator's License Act, no resident of the State of Nebraska shall
+25 operate a motor vehicle upon the alleys or highways of this state until
+26 the person has obtained an operator's license for that purpose.
+27 (2) Application for an operator's license or a state identification
+28 card shall be made in a manner prescribed by the department.
+29 (3) The applicant shall provide his or her full legal name, date of
+30 birth, mailing address, gender, race or ethnicity, and social security
+31 number, two forms of proof of address of his or her principal residence
+-13-
+LB218 LB218
+2025 2025
+1 unless the applicant is a program participant under the Address
+2 Confidentiality Act, evidence of identity as required by subsection (6)
+3 of this section, and a brief physical description of himself or herself.
+4 The applicant:
+5 (a) Shall may also complete the voter registration portion pursuant
+6 to section 32-308, (b) shall be provided the advisement language required
+7 by subsection (5) of section 60-6,197; ,
+8 (b) Shall (c) shall answer the following:
+9 (i) Have you within the last three months (e.g. due to diabetes,
+10 epilepsy, mental illness, head injury, stroke, heart condition,
+11 neurological disease, etc.):
+12 (A) lost voluntary control or consciousness ... yes ... no
+13 (B) experienced vertigo or multiple episodes of dizziness or
+14 fainting ... yes ... no
+15 (C) experienced disorientation ... yes ... no
+16 (D) experienced seizures ... yes ... no
+17 (E) experienced impairment of memory, memory loss ... yes ... no
+18 Please explain: .................................
+19 (ii) Do you experience any condition which affects your ability to
+20 operate a motor vehicle? (e.g. due to loss of, or impairment of, foot,
+21 leg, hand, arm; neurological or neuromuscular disease, etc.) ... yes ...
+22 no
+23 Please explain: ...................................
+24 (iii) Since the issuance of your last driver's license/permit, has
+25 your health or medical condition changed or worsened? ... yes ... no
+26 Please explain, including how the above affects your ability to
+27 drive: ..................; ,
+28 (c) Shall be advised as follows: We will use your information to
+29 update your voter registration record or register you to vote.
+30 The applicant shall be given the opportunity to choose not to use
+31 his or her information for voter registration, otherwise the applicant
+-14-
+LB218 LB218
+2025 2025
+1 shall complete the voter registration portion that is transmitted to the
+2 election commissioner or county clerk to register the applicant to vote
+3 or update his or her voter registration record pursuant to section
+4 32-308. If the voter registration portion is only partially completed,
+5 the department may still proceed to issue the operator's license or state
+6 identification card and shall transmit the incomplete voter registration
+7 portion to the election commissioner or county clerk pursuant to section
+8 32-308. The department may still proceed to issue the operator's license
+9 or state identification card if the applicant refuses to answer or does
+10 not complete the voter registration portion; and
+11 (d) May and (d) may answer the following:
+12 (i) Do you wish to register to vote as part of this application
+13 process?
+14 (i) (ii) Do you wish to have a veteran designation displayed on the
+15 front of your operator's license or state identification card to show
+16 that you served in the armed forces of the United States? (To be eligible
+17 you must register with the Nebraska Department of Veterans' Affairs
+18 registry.)
+19 (ii) (iii) Do you wish to include your name in the Donor Registry of
+20 Nebraska and donate your organs and tissues at the time of your death?
+21 (iii) (iv) Do you wish to receive any additional specific
+22 information regarding organ and tissue donation and the Donor Registry of
+23 Nebraska?
+24 (iv) (v) Do you wish to donate $1 to promote the Organ and Tissue
+25 Donor Awareness and Education Fund?
+26 (4) Application for an operator's license or state identification
+27 card shall include a signed oath, affirmation, or declaration of the
+28 applicant that the information provided on the application for the
+29 license or card is true and correct.
+30 (5) The social security number shall not be printed on the
+31 operator's license or state identification card and shall be used only
+-15-
+LB218 LB218
+2025 2025
+1 (a) to furnish information to the United States Selective Service System
+2 under section 60-483, (b) with the permission of the director in
+3 connection with the verification of the status of an individual's driving
+4 record in this state or any other state, (c) for purposes of child
+5 support enforcement pursuant to section 42-358.08 or 43-512.06, (d) to
+6 furnish information regarding an applicant for or holder of a commercial
+7 driver's license with a hazardous materials endorsement to the
+8 Transportation Security Administration of the United States Department of
+9 Homeland Security or its agent, (e) to furnish information to the
+10 Department of Revenue under section 77-362.02, or (f) to furnish
+11 information to the Secretary of State for purposes of the Election Act.
+12 (6)(a) Each individual applying for an operator's license or a state
+13 identification card shall furnish proof of date of birth and identity
+14 with documents containing a photograph or with nonphoto identity
+15 documents which include his or her full legal name and date of birth.
+16 Such documents shall be those provided in subsection (1) of section
+17 60-484.04.
+18 (b) Any individual under the age of eighteen years applying for an
+19 operator's license or a state identification card shall provide a
+20 certified copy of his or her birth certificate or, if such individual is
+21 unable to provide a certified copy of his or her birth certificate, other
+22 reliable proof of his or her identity and age, as required in subdivision
+23 (6)(a) of this section, accompanied by a certification signed by a parent
+24 or guardian explaining the inability to produce a copy of such birth
+25 certificate. The applicant also may be required to furnish proof to
+26 department personnel that the parent or guardian signing the
+27 certification is in fact the parent or guardian of such applicant.
+28 (c) An applicant may present other documents as proof of
+29 identification and age designated by the director. Any documents accepted
+30 shall be recorded according to a written exceptions process established
+31 by the director.
+-16-
+LB218 LB218
+2025 2025
+1 (7) Any individual applying for an operator's license or a state
+2 identification card who indicated his or her wish to have a veteran
+3 designation displayed on the front of such license or card shall comply
+4 with section 60-4,189.
+5 (8) No person shall be a holder of an operator's license and a state
+6 identification card at the same time. A person who has a digital image
+7 and digital signature on file with the department may apply
+8 electronically to change his or her Class O operator's license to a state
+9 identification card.
+10 Sec. 9. Section 60-4,130, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 60-4,130 (1) Application for an employment driving permit shall be
+13 made to the Department of Motor Vehicles on forms furnished for that
+14 purpose by the department. The application form shall contain such
+15 information as deemed necessary by the director to carry out this section
+16 and section 60-4,129. If the department has a digital image and digital
+17 signature of the applicant preserved in the digital system implemented
+18 under section 60-484.01, the employment driving permit, if issued, may
+19 contain such image and signature. The application form shall also include
+20 a voter registration portion pursuant to subdivision (3)(c) of section
+21 60-484. 32-308 and the following specific question: Do you wish to
+22 register to vote as part of this application process? To be eligible for
+23 an employment driving permit, the applicant shall furnish, along with the
+24 application to the director, the following:
+25 (a) An affidavit from the applicant's employer stating that such
+26 applicant is required to operate a motor vehicle from his or her
+27 residence to his or her place of employment and return;
+28 (b) If such applicant requires the use of a motor vehicle during the
+29 normal course of employment, an affidavit from the applicant's employer
+30 setting forth the facts establishing such requirement;
+31 (c) An affidavit stating that there exists no other reasonable
+-17-
+LB218 LB218
+2025 2025
+1 alternative means of transportation to and from work available to the
+2 applicant; and
+3 (d) If the applicant is self-employed, an affidavit to the
+4 department setting forth the provisions of his or her employment.
+5 (2) Except as otherwise provided in this subsection, upon making
+6 application for such permit, the applicant shall certify that he or she
+7 will attend and complete, within sixty days, a driver improvement course
+8 presented by the department or show successful completion of the driver
+9 education and training course as provided in section 60-4,183. If such
+10 course is not completed, the employment driving permit shall be
+11 surrendered to the department. If any person fails to return to the
+12 department the permit as provided in this subsection, the department
+13 shall direct any peace officer or authorized representative of the
+14 department to secure possession of the permit and to return the permit to
+15 the department. An applicant whose operator's license has been suspended
+16 pursuant to section 43-3318 is not required to fulfill such driver
+17 improvement or education and training course requirements. All applicants
+18 shall file and maintain proof of financial responsibility as required by
+19 the Motor Vehicle Safety Responsibility Act.
+20 (3) Any person who fails to surrender a permit, as required by this
+21 section, shall be guilty of a Class IV misdemeanor.
+22 (4) The fee prescribed in section 60-4,115 shall be submitted to the
+23 department along with the application for an employment driving permit.
+24 (5) When the holder of an employment driving permit is convicted, on
+25 or after the date of issuance of the employment driving permit, of any
+26 traffic violation or of operating a motor vehicle for a purpose other
+27 than specified by such permit, the person shall not be eligible to
+28 receive another employment driving permit during that particular period
+29 of revocation. This subsection does not apply to a holder of an
+30 employment driving permit if the reason for his or her license revocation
+31 or suspension only involved a suspension under section 43-3318 and not a
+-18-
+LB218 LB218
+2025 2025
+1 revocation under any other section.
+2 (6) Any person who feels himself or herself aggrieved because of the
+3 refusal of the director to issue the employment driving permit may appeal
+4 in the manner set forth in section 60-4,105.
+5 Sec. 10. Section 60-4,130.02, Reissue Revised Statutes of Nebraska,
+6 is amended to read:
+7 60-4,130.02 (1) Application for a medical hardship driving permit
+8 shall be made to the Department of Motor Vehicles on forms furnished for
+9 that purpose by the department. The application form shall contain such
+10 information as deemed necessary by the director to carry out this section
+11 and section 60-4,130.01. If the department has a digital image and
+12 digital signature of the applicant preserved in the digital system
+13 implemented under section 60-484.01, the medical hardship driving permit,
+14 if issued, may contain such image and signature. The application form
+15 shall also include a voter registration portion pursuant to subdivision
+16 (3)(c) of section 60-484. 32-308 and the following specific question: Do
+17 you wish to register to vote as part of this application process? To be
+18 eligible for a medical hardship driving permit, the applicant shall
+19 furnish, along with the application to the director, the following:
+20 (a) An affidavit from the applicant's physician stating that it is
+21 necessary for such applicant to receive medical treatment at a location
+22 other than the applicant's residence and that the treatment will not
+23 impair the applicant's ability to operate a motor vehicle; and
+24 (b) An affidavit stating that there exists no other reasonable
+25 alternative means of transportation to and from the site of medical
+26 treatment available to the applicant.
+27 (2) The applicant shall also be required to file and maintain proof
+28 of financial responsibility as required by the Motor Vehicle Safety
+29 Responsibility Act.
+30 (3) The fee prescribed in section 60-4,115 shall be submitted to the
+31 department along with the application for a medical hardship driving
+-19-
+LB218 LB218
+2025 2025
+1 permit.
+2 (4) When the holder of a medical hardship driving permit is
+3 convicted, on or after the date of issuance of the permit, of any traffic
+4 violation or of operating a motor vehicle for a purpose other than
+5 specified by such permit, the person shall not be eligible to receive
+6 another medical hardship driving permit during that particular period of
+7 revocation.
+8 (5) Any person who feels himself or herself aggrieved because of the
+9 refusal of the director to issue the medical hardship driving permit may
+10 appeal in the manner set forth in section 60-4,105.
+11 Sec. 11. Section 60-4,144, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 60-4,144 (1) An applicant for issuance of any original or renewal
+14 commercial driver's license or an applicant for a change of class of
+15 commercial motor vehicle, endorsement, or restriction shall demonstrate
+16 his or her knowledge and skills for operating a commercial motor vehicle
+17 as prescribed in the Motor Vehicle Operator's License Act. An applicant
+18 for a commercial driver's license shall provide the information and
+19 documentation required by this section and section 60-4,144.01. Such
+20 information and documentation shall include any additional information
+21 required by 49 C.F.R. parts 383 and 391 and also include:
+22 (a) Certification that the commercial motor vehicle in which the
+23 applicant takes any driving skills examination is representative of the
+24 class of commercial motor vehicle that the applicant operates or expects
+25 to operate; and
+26 (b) The names of all states where the applicant has been licensed to
+27 operate any type of motor vehicle in the ten years prior to the date of
+28 application.
+29 (2)(a) Before being issued a CLP-commercial learner's permit or
+30 commercial driver's license, the applicant shall provide (i) his or her
+31 full legal name, date of birth, mailing address, gender, race or
+-20-
+LB218 LB218
+2025 2025
+1 ethnicity, and social security number, (ii) two forms of proof of address
+2 of his or her principal residence unless the applicant is a program
+3 participant under the Address Confidentiality Act, except that a
+4 nondomiciled applicant for a CLP-commercial learner's permit or
+5 nondomiciled commercial driver's license holder does not have to provide
+6 proof of residence in Nebraska, (iii) evidence of identity as required by
+7 this section, and (iv) a brief physical description of himself or
+8 herself.
+9 (b) The applicant's social security number shall not be printed on
+10 the CLP-commercial learner's permit or commercial driver's license and
+11 shall be used only (i) to furnish information to the United States
+12 Selective Service System under section 60-483, (ii) with the permission
+13 of the director in connection with the certification of the status of an
+14 individual's driving record in this state or any other state, (iii) for
+15 purposes of child support enforcement pursuant to section 42-358.08 or
+16 43-512.06, (iv) to furnish information regarding an applicant for or
+17 holder of a commercial driver's license with a hazardous materials
+18 endorsement to the Transportation Security Administration of the United
+19 States Department of Homeland Security or its agent, (v) to furnish
+20 information to the Department of Revenue under section 77-362.02, (vi) to
+21 furnish information to the Secretary of State for purposes of the
+22 Election Act, or (vii) to query the federal Drug and Alcohol
+23 Clearinghouse.
+24 (c) No person shall be a holder of a CLP-commercial learner's permit
+25 or commercial driver's license and a state identification card at the
+26 same time.
+27 (3) Before being issued a CLP-commercial learner's permit or
+28 commercial driver's license, an applicant, except a nondomiciled
+29 applicant, shall provide proof that this state is his or her state of
+30 residence. Acceptable proof of residence is a document with the person's
+31 name and residential address within this state.
+-21-
+LB218 LB218
+2025 2025
+1 (4)(a) Before being issued a CLP-commercial learner's permit or
+2 commercial driver's license, an applicant shall provide proof of
+3 identity.
+4 (b) The following are acceptable as proof of identity:
+5 (i) A valid, unexpired United States passport;
+6 (ii) A certified copy of a birth certificate filed with a state
+7 office of vital statistics or equivalent agency in the individual's state
+8 of birth;
+9 (iii) A Consular Report of Birth Abroad issued by the United States
+10 Department of State;
+11 (iv) A valid, unexpired Permanent Resident Card permanent resident
+12 card issued by the United States Department of Homeland Security or
+13 United States Citizenship and Immigration Services;
+14 (v) An unexpired employment authorization document issued by the
+15 United States Department of Homeland Security;
+16 (vi) An unexpired foreign passport with a valid, unexpired United
+17 States visa affixed accompanied by the approved form documenting the
+18 applicant's most recent admittance into the United States;
+19 (vii) A Certificate of Naturalization issued by the United States
+20 Department of Homeland Security;
+21 (viii) A Certificate of Citizenship issued by the United States
+22 Department of Homeland Security;
+23 (ix) A driver's license or identification card issued in compliance
+24 with the standards established by the federal REAL ID Act of 2005, Public
+25 Law 109-13, division B, section 1, 119 Stat. 302; or
+26 (x) Such other documents as the director may approve.
+27 (c) If an applicant presents one of the documents listed under
+28 subdivision (b)(i), (ii), (iii), (iv), (vii), or (viii) of this
+29 subsection, the verification of the applicant's identity will also
+30 provide satisfactory evidence of lawful status.
+31 (d) If the applicant presents one of the identity documents listed
+-22-
+LB218 LB218
+2025 2025
+1 under subdivision (b)(v), (vi), or (ix) of this subsection, the
+2 verification of the identity documents does not provide satisfactory
+3 evidence of lawful status. The applicant shall also present a second
+4 document from subdivision (4)(b) of this section, a document from
+5 subsection (5) of this section, or documentation issued by the United
+6 States Department of Homeland Security or other federal agencies
+7 demonstrating lawful status as determined by the United States
+8 Citizenship and Immigration Services.
+9 (e) An applicant may present other documents as designated by the
+10 director as proof of identity. Any documents accepted shall be recorded
+11 according to a written exceptions process established by the director.
+12 (f)(i) Any person assigned a parolee immigration status by the
+13 United States Department of Homeland Security may apply for and be issued
+14 a CLP-commercial learner's permit or commercial driver's license that is
+15 not in compliance with the federal REAL ID Act of 2005, Public Law
+16 109-13, if the person:
+17 (A) Possessed an unexpired foreign passport issued to such person at
+18 the time of such person's entry into the United States of America; and
+19 (B) Fulfills the requirements of subdivision (2)(a) of this section
+20 and such requirements are verified pursuant to section 60-484.06.
+21 (ii) Any CLP-commercial learner's permit or commercial driver's
+22 license issued under this subsection is otherwise subject to all laws
+23 relating to CLP-commercial learner's permits or commercial driver's
+24 licenses.
+25 (5)(a) Whenever a person, as a nondomiciled individual to this
+26 state, is renewing, replacing, upgrading, transferring, or applying for a
+27 commercial driver's license, or replacing, upgrading, transferring, or
+28 applying for a CLP-commercial learner's permit, the Department of Motor
+29 Vehicles shall verify the citizenship in the United States of the person
+30 or the lawful status in the United States of the person.
+31 (b) The following are acceptable as proof of citizenship or lawful
+-23-
+LB218 LB218
+2025 2025
+1 status:
+2 (i) A valid, unexpired United States passport;
+3 (ii) A certified copy of a birth certificate filed with a state
+4 office of vital statistics or equivalent agency in the individual's state
+5 of birth, Puerto Rico, the Virgin Islands, Guam, American Samoa, or the
+6 Commonwealth of the Northern Mariana Islands;
+7 (iii) A Consular Report of Birth Abroad issued by the United States
+8 Department of State;
+9 (iv) A Certificate of Naturalization issued by the United States
+10 Department of Homeland Security;
+11 (v) A Certificate of Citizenship issued by the United States
+12 Department of Homeland Security; or
+13 (vi) A valid, unexpired Permanent Resident Card issued by the United
+14 States Department of Homeland Security or United States Citizenship and
+15 Immigration Services.
+16 (6) An applicant may present other documents as designated by the
+17 director as proof of lawful status. Any documents accepted shall be
+18 recorded according to a written exceptions process established by the
+19 director.
+20 (7)(a) An applicant shall obtain a nondomiciled CLP-commercial
+21 driver's license or nondomiciled CLP-commercial learner's permit:
+22 (i) If the applicant is domiciled in a foreign jurisdiction and the
+23 Federal Motor Carrier Safety Administrator has not determined that the
+24 commercial motor vehicle operator testing and licensing standards of that
+25 jurisdiction meet the standards contained in subparts G and H of 49
+26 C.F.R. part 383; or
+27 (ii) If the applicant is domiciled in a state that is prohibited
+28 from issuing commercial learners' permits and commercial drivers'
+29 licenses in accordance with 49 C.F.R. 384.405. Such person is eligible to
+30 obtain a nondomiciled CLP-commercial learner's permit or nondomiciled
+31 commercial driver's license from Nebraska that complies with the testing
+-24-
+LB218 LB218
+2025 2025
+1 and licensing standards contained in subparts F, G, and H of 49 C.F.R.
+2 part 383.
+3 (b) An applicant for a nondomiciled CLP-commercial learner's permit
+4 and nondomiciled commercial driver's license shall do the following:
+5 (i) Complete the requirements to obtain a CLP-commercial learner's
+6 permit or a commercial driver's license under the Motor Vehicle
+7 Operator's License Act, except that an applicant domiciled in a foreign
+8 jurisdiction shall provide an unexpired employment authorization document
+9 issued by the United States Citizenship and Immigration Services or an
+10 unexpired foreign passport accompanied by an approved I-94 form
+11 documenting the applicant's most recent admittance into the United
+12 States. No proof of domicile is required;
+13 (ii) After receipt of the nondomiciled CLP-commercial learner's
+14 permit or nondomiciled commercial driver's license and, for as long as
+15 the permit or license is valid, notify the Department of Motor Vehicles
+16 of any adverse action taken by any jurisdiction or governmental agency,
+17 foreign or domestic, against his or her driving privileges. Such adverse
+18 actions include, but are not limited to, license disqualification or
+19 disqualification from operating a commercial motor vehicle for the
+20 convictions described in 49 C.F.R. 383.51. Notifications shall be made
+21 within the time periods specified in 49 C.F.R. 383.33; and
+22 (iii) Provide a mailing address to the Department of Motor Vehicles.
+23 If the applicant is applying for a foreign nondomiciled CLP-commercial
+24 learner's permit or foreign nondomiciled commercial driver's license, he
+25 or she shall provide a Nebraska mailing address and his or her employer's
+26 mailing address to the Department of Motor Vehicles.
+27 (c) An applicant for a nondomiciled CLP-commercial learner's permit
+28 or nondomiciled commercial driver's license who holds a foreign
+29 operator's license is not required to surrender his or her foreign
+30 operator's license.
+31 (8) Any person applying for a CLP-commercial learner's permit or
+-25-
+LB218 LB218
+2025 2025
+1 commercial driver's license may answer the following:
+2 (a) Do you wish to register to vote as part of this application
+3 process?
+4 (a) (b) Do you wish to have a veteran designation displayed on the
+5 front of your operator's license to show that you served in the armed
+6 forces of the United States? (To be eligible you shall register with the
+7 Nebraska Department of Veterans' Affairs registry.)
+8 (b) (c) Do you wish to include your name in the Donor Registry of
+9 Nebraska and donate your organs and tissues at the time of your death?
+10 (c) (d) Do you wish to receive any additional specific information
+11 regarding organ and tissue donation and the Donor Registry of Nebraska?
+12 (d) (e) Do you wish to donate $1 to promote the Organ and Tissue
+13 Donor Awareness and Education Fund?
+14 (9) Any person applying for a CLP-commercial learner's permit or
+15 commercial driver's license shall answer the voter registration question
+16 as provided in subdivision (3)(c) of section 60-484.
+17 (10) (9) Application for a CLP-commercial learner's permit or
+18 commercial driver's license shall include a signed oath, affirmation, or
+19 declaration of the applicant that the information provided on the
+20 application for the permit or license is true and correct.
+21 (11) (10) Any person applying for a CLP-commercial learner's permit
+22 or commercial driver's license shall make one of the certifications in
+23 section 60-4,144.01 and any certification required under section 60-4,146
+24 and shall provide such certifications to the Department of Motor Vehicles
+25 in order to be issued a CLP-commercial learner's permit or a commercial
+26 driver's license.
+27 (12) (11) Every person who holds any commercial driver's license
+28 shall provide to the department medical certification as required by
+29 section 60-4,144.01. The department may provide notice and prescribe
+30 medical certification compliance requirements for all holders of
+31 commercial drivers' licenses. Holders of commercial drivers' licenses who
+-26-
+LB218 LB218
+2025 2025
+1 fail to meet the prescribed medical certification compliance requirements
+2 may be subject to downgrade.
+3 Sec. 12. This act becomes operative on January 1, 2026.
+4 Sec. 13. Original sections 32-307, 32-315, 32-1506, 60-484,
+5 60-4,130, and 60-4,130.02, Reissue Revised Statutes of Nebraska, and
+6 sections 32-202, 32-308, 32-312, 32-1002, and 60-4,144, Revised Statutes
+7 Cumulative Supplement, 2024, are repealed.
+8 Sec. 14. The following section is outright repealed: Section
+9 32-309, Reissue Revised Statutes of Nebraska.
+-27-
+[DELETED: yFA B F A A r t e t a s 33Sa 6 R S C S 2 tcc p p t e o p th p t p a o d t r to s a t o r s 3 RR0B8L52]
+[DELETED: S 1 S 3 R S C S23 I a t a o d p b l tS(s(c a o e o i p f do o t o r o v a t c o0e1(2( W t a a a o t A G m3u4(5c i c o t d u s 3 a t637(839( C w t D o A S f0s1(2t3(4R5(6i7c a c c f d t t p u8r9(0( A a p r a r a n f1e8L52]
+[DELETED: (n o a I w t a v w c a pba i t v w n c t r t t v w ncp n t p t s c ait f a s A t i a a ip b s b r t t i w c t0b1( P a w d t v i2r a p T S o S s e3m4o5t6i7( P a p a c r t v8i r a p i c9t0( P i a i t t D o1H a H S t D o M V a t2S D o E f d b s a t3N r r t r t p v4p5v6(7o8a p o t m o t v r l9i0S 2 S 3 R R S o N i1a8L52]
+[DELETED: 3cofcu t t o o r e e a opS 3 S 3 R S C S2031s2s3D4o t v t a o t i i5c p o a f v r T6D o M V s e i a a w t7C o S S u s 2 o t f8S S A 4 U 4 a s s e o9A0( T D o M V w t a o t1S o S s p a v r a2w3v4r m v o l a o o r s5i c o a r t T v r6a s b d s t t e i i7t t t e c o c c p t8s9t0v r r T v r a s1c8L52]
+[DELETED: dt a f t m v o l o siar a a t a p a f aoct F p a e t b r t v a se A r a r a t d s0n1t2s w t s o t a b t a i n3e4v5n6p7a8t9( T D o M V i c w t0S o S s d a p t e t1v2o t s t t e c o c c o t3c4i5a6e7f T a t f M i N o t t8y T D o M V s n t v9r06 T D o M V s d a1i8L52]
+[DELETED: 1( T v r a i s btwtftit l o t o a w h o s r s b0c1(2t e p t t s t S o3S s o a c o t e r o t4a d i a s f t D o M5V6i7v r a e t u t8s9w t a i a c o t U S w t0a i o s a t r t v t a1r2r a t d o b o t a t p3a4a w a p p t a m v5o6b7( S a p i i t v r8p p t t s a s 3 s n b9c d r o a o e o t e0c1S 4 S 3 R S C S8L52]
+[DELETED: 23S p t s 3 o 3 s p tiaC y a c o t U S o Aw b t c t i w t a i o i n cA0y1N2t3W y c ' i r t e o t4q5N n o t a g t f a l n i6f7o8R n a n o t s a o o9l o t d w t a r i t i 0n1o i s a i s b i a w2g3r4b5s6c7w8P9d0A O L R n a n o t s1a8L52]
+[DELETED: rT N t n o t a A trn i a u n a s d s p tlEt a a d s b m t t e a ip a s d s p t l o ta0D L N O L F D O S S1N t a h a N d l t l2n3t4D5t a p h o h f r w t6a c a s t r a i t7a8b t a p m o p a o w t9c0c1P2w3D4s5o6t7y8R9o031p8L52]
+[DELETED: P A t p a o t a aDNp e f s a l o y m i p p a o t r a I yr w a p p a ( y wr o t n b f s a l o apy0O1t2I f t s f i i a3p4T5e6(7a8(9c0( I h n b o f t b n c m1(2(3A r w s t a k t a o t4i i t a i f s b g o a C I5f6a7r8A S t a t a h o h9s0S 5 S 3 R R S o N i1a8L52]
+[DELETED: 3 U r a c v r apwa r w t s c t e c ocv t t n n o n a a s s a achS 6 S 3 R S C S02132t3e4a5(6o c c s v t t c o t f o t7e8t9(0t1a2e t t p w p r t v i t c3b t d f r f t e ( i4w a i h b r p t s 353 3 o 3 t t p h r r o6v i a o c o s s r t v i t7c8p w p r t v i t c m t9a c t t v r r b e t0i c i t r a c b t1v8L52]
+[DELETED: (s(i( T v h r i t c c sr(o( T v h c a r a p t0v1(2c p t s ( o s 3 i l3w4( I t v i v i a p e t p5a6v7o t v v r r b o h o h p8r9(0t1(2s3(4d5( I h b r p t s 363 3 o 3 t t v h r r o7v i a o c o s s r t v i t8c9(0h1(8L52]
+[DELETED: p t s ( o t s a s ( os(c p t s ( o s 3 i i di( I t v i v i a p e t pap0o t v v r r b o h o h p1r2(3e4s5( A e o o o i o t r6a7r8(9t0(1o2( B t r a a t c a3s4(5t6b f t e w e t m o t b a7s p t b w t b t b c b t c8c9( T e c o c c s n t0s1t8L52]
+[DELETED: n( T v a i s b c wsS 7 S 3 R R S o N ia3oro0w s w d m d f o1f r s p d o e o a p2t3s4E5o6t E A ( w p a o p t c a7v8t c o s a v s b g o a C I9m a s f h o h o A o p w0v1S 8 S 6 R R S o N i2a36 ( E a o p i t M V4O L A n r o t S o N s5o6t7(8c9(0b m a g r o e a s s1n8L52]
+[DELETED: u t a i a p p u t ACoT(tb(( H y w t l t m ( d t d0e m i h i s h c1n2(3( e v o m e o d o4f5(6(7(8P9(0o1l2n3P4(5y6P e i h t a a y a t7d8( S b a a f W w u y i t9u0T1h o h i f v r o t a8L52]
+[DELETED: seo u h o h v r r p t s3 I t v r p i o p ctip3o0n1(2( D y w t r t v a p o t a3p4(5f o y o l o s i c t s6t7y m r w t N D o V A8r9(0N1( ( D y w t r a a s2i3N4(5D6( A f a o l o s i7c s i a s o a o d o t8a t t i p o t a f t9l0( T s s n s n b p o t1o8L52]
+[DELETED: (u s 6 ( w t p o t d icr i t s o a o s ( f p o cs e p t s 4 o 4 ( tfd l w a h m e t tTH S o i a ( t f i t t0D o R u s 7 o ( t f1i2(3i c s f p o d o b a i4w d c a p o w n i5d w i h o h f l n a d o b6S d s b t p i s ( o s768(9o l o a s i c s p 0c1u2r3(4o g e t i t p a c o s b5c T a a m b r t f p t6d p t t p o g s t7c8( A a m p o d a p o9i0s1b8L52]
+[DELETED: ( A i a f a o l o a si c w i h o h w t h a vdw(ia d s o f w t d m aei0S1a263m t t D o M V o f f f t4p b t d T a f s c s5i6a7s o t a p i t d s i8u s 6 t e d p i i m9c0a v r p p t s ( o s16 3 a t f s q D y w t2r3a4a5( A a f t a e s t s6a i r t o a m v f h o h7r8(9n0s1( A a s t t e n o r8L52]
+[DELETED: a m o t t a f w a t ta( I t a i s a a t td( E a o p i t s u mawpe0c i n c t e d p s b1s t t d I a p f t r t t2d t p a p i t s t d3s d a p o o a r o t4d5t6p t s 4 i n r t f s d7i8s9t0(1s2(3d4(5o6t v o o o a m v f a p o7t s b s p t p s n b e t8r9o r T s d n a t a h o a0e1o8L52]
+[DELETED: r(riSi6 ( A f a m h d pst0i1a s 6 I t d h a d i a2d s o t a p i t d s3i4i i m c s i a s T a f5s6(7y8e f a m h d p t a s9f0(1n2o t t a r a t t t w n3i4( A a s t t e n o r5a m o t t a f t s o m6t7(8o f r a r b t M V S9R0(1d a w t a f a m h d8L52]
+[DELETED: p( W t h o a m h d p icv o o o a m v f a p o ts b s p t p s n b e t rar(r0a1S 1 S 6 R S C S2236 ( A a f i o a o o r4c d l o a a f a c o c o5c6h7a8f a c d l s p t i a9d r b t s a s 6 S0i a d s i a a i1r2( C t t c m v i w t3a4c5t6(7o8a9( B b i a C l p o0c1f l n d o b m a g r o8L52]
+[DELETED: eo h o h p r u t a i a pp u t A C A e t n a f a C l p onpt s a ( a b p d o h oh(0t C l p o c d l a1s b u o ( t f i t t U S2S3o4i5p o c s e p t s 4 o64 ( t f i r a a f o7h o a c d l w a h m8e9S D o H S o i a ( t f0i1f i t t S o S f p o t2E A o ( t q t f D a A3C4(5o c d l a a s i c a t6s7( B b i a C l p o8c d l a a e a n9a s p p t t s i h o h s o0r1n8L52]
+[DELETED: ( B b i a C l p oc d l a a s p p oi((( A c c o a b c f w a soo(0D1(2c i b t U S D o H S o3U4( A u e a d i b t5U6( A u f p w a v u U7S v a a b t a f d t8a9( A C o N i b t U S0D1( A C o C i b t U S2D3(4w5L6(7( I a a p o o t d l u8s ( ( ( ( ( o ( o t9s t v o t a i w a0p1(8L52]
+[DELETED: u s ( ( o ( o t s tv o t i d d n p se o l s T a s a p a sd f s ( o t s a d fs ( o t s o d i b t US D o H S o o f ad l s a d b t U SC( A a m p o d a d b t0d1a2( A p a a p i s b t3U4a5n i c w t f R I A o 2 P L617(8t9(0a1( A C l p o c d2l i u t s i o s t a l3r t C l p o c d4l5( W a p a a n i t t6s7c d l o r u t o8a9V0o1(8L52]
+[DELETED: s(( A c c o a b c f w a sooC(D( A C o N i b t U S0D1( A C o C i b t U S2D3(4S5I6( A a m p o d a d b t7d a p o l s A d a s b8r a t a w e p e b t9d0( A a s o a n C1d2(3F M C S A h n d t t4c5j m t s c i s G a H o 46C7( I t a i d i a s t i p8f i c l p a c d9l0o a n C l p o n1c8L52]
+[DELETED: ap(a(p o a c d l u t M VOji0u f p a b a a I f1d t a m r a i t U2S3( A r o t n C l4p5t6o7f8a i b a n l t l d o9d f o a c m v f t0c d i 4 C 3 N s b m1w2(3I t a i a f a f n C4l5o6m7(8o n c d l w h a f9o l i n r t s h o h f0o1( A p a f a C l p o8L52]
+[DELETED: c( D y w t r t v a p o t ap(f o y o l t s t y s i t afN(N0(1r2( ( D y w t d $ t p t O a T3D4( A p a f a C l p o5c6a7( ( A f a C l p o8c9d o t a t t i p o t0a1(2o3s4a5i6d7( ( E p w h a c d l8s p t t d m c a r b9s 6 T d m p n a p0m c c r f a h o1c8L52]
+[DELETED: fmSS 1  O s 3 3 3 66 a 6 R R S o N asCS 1  T f s i o r S38L52]
+
+
+================================================================================
+
+Raw Text:
+LB218 LB218
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 218
+Introduced by Fredrickson, 20.
+Read first time January 14, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend sections 32-307,
+2 32-315, 32-1506, 60-484, 60-4,130, and 60-4,130.02, Reissue Revised
+3 Statutes of Nebraska, and sections 32-202, 32-308, 32-312, 32-1002,
+4 and 60-4,144, Revised Statutes Cumulative Supplement, 2024; to
+5 change provisions relating to registration of voters and voting; to
+6 change penalty provisions; to eliminate obsolete provisions; to
+7 harmonize provisions; to provide an operative date; to repeal the
+8 original sections; and to outright repeal section 32-309, Reissue
+9 Revised Statutes of Nebraska.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB218 LB218
+2025 2025
+1 Section 1. Section 32-202, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 32-202 In addition to any other duties prescribed by law, the
+4 Secretary of State shall:
+5 (1) Supervise the conduct of primary and general elections in this
+6 state;
+7 (2) Provide training and support for election commissioners, county
+8 clerks, and other election officials in providing for day-to-day
+9 operations of the office, registration of voters, and the conduct of
+10 elections;
+11 (3) Enforce the Election Act;
+12 (4) With the assistance and advice of the Attorney General, make
+13 uniform interpretations of the act;
+14 (5) Provide periodic training for the agencies and their agents and
+15 contractors in carrying out their duties under sections 32-308 and to
+16 32-310;
+17 (6) Develop and print forms for use as required by sections 32-308,
+18 32-310, 32-320, 32-329, 32-947, 32-956, and 32-958;
+19 (7) Contract with the Department of Administrative Services for
+20 storage and distribution of the forms;
+21 (8) Require reporting to ensure compliance with sections 32-308 and
+22 to 32-310;
+23 (9) Prepare and transmit reports as required by the National Voter
+24 Registration Act of 1993, 52 U.S.C. 20501 et seq.;
+25 (10) Develop and print a manual describing the requirements of the
+26 initiative and referendum process and distribute the manual to election
+27 commissioners and county clerks for distribution to the public upon
+28 request;
+29 (11) Develop and print pamphlets described in section 32-1405.01;
+30 (12) Adopt and promulgate rules and regulations as necessary for
+31 elections conducted under sections 32-952 to 32-959;
+-2-
+
+LB218 LB218
+2025 2025
+1 (13) Establish a free access system, such as a toll-free telephone
+2 number or an Internet website, that any voter who casts a provisional
+3 ballot may access to discover whether the vote of that voter was counted
+4 and, if the vote was not counted, the reason that the vote was not
+5 counted. The Secretary of State shall establish and maintain reasonable
+6 procedures necessary to protect the security, confidentiality, and
+7 integrity of personal information collected, stored, or otherwise used by
+8 the free access system. Access to information about an individual
+9 provisional ballot shall be restricted to the individual who cast the
+10 ballot;
+11 (14) Provide a website dedicated to voter identification
+12 requirements and procedures. The Secretary of State shall establish,
+13 maintain, and regularly update on the website a document entitled "List
+14 of Acceptable Forms of Identification" that lists forms of identification
+15 that qualify as valid photographic identification for purposes of voter
+16 identification;
+17 (15) Provide a public awareness campaign regarding the voter
+18 identification requirements and procedures, including communication
+19 through multiple mediums and in-person events;
+20 (16) Provide instructions and information to the Department of
+21 Health and Human Services, the Department of Motor Vehicles, and the
+22 State Department of Education for distribution by such agencies to
+23 Nebraska residents regarding the requirement to present valid
+24 photographic identification in order to vote and the way to obtain free
+25 valid photographic identification; and
+26 (17) Not use or allow the use of citizenship information shared with
+27 or collected by the Secretary of State pursuant to the Election Act for
+28 any purpose other than maintenance of the voter registration list,
+29 including law enforcement purposes.
+30 Sec. 2. Section 32-307, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-3-
+
+LB218 LB218
+2025 2025
+1 32-307 No materials advocating or advertising any political issue,
+2 candidate, or party shall be displayed or distributed within fifty feet
+3 of any voter registration site. No alcohol shall be served within fifty
+4 feet of any voter registration site. The registration procedure shall be
+5 conducted in a neutral manner and shall not be connected with anything
+6 unrelated to the object of registering electors except as otherwise
+7 provided in sections 32-308 and to 32-310.
+8 Sec. 3. Section 32-308, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-308 (1) The Secretary of State and the Director of Motor Vehicles
+11 shall enter into an agreement to match information in the computerized
+12 statewide voter registration list with information in the database of the
+13 Department of Motor Vehicles to the extent required to enable each such
+14 official to verify the accuracy of the information, including
+15 citizenship, provided on applications for voter registration. The
+16 Director of Motor Vehicles shall enter into an agreement with the
+17 Commissioner of Social Security under section 205(r)(8) of the federal
+18 Social Security Act, 42 U.S.C. 405(r)(8), as such section existed on
+19 April 17, 2003, for purposes of the Election Act.
+20 (2) The Department of Motor Vehicles, with the assistance of the
+21 Secretary of State, shall prescribe a voter registration application
+22 which may be used to register to vote or change his or her address for
+23 voting purposes at the same time an elector applies for an original or
+24 renewal motor vehicle operator's license, an original or renewal state
+25 identification card, or a replacement thereof. The voter registration
+26 application shall be designed so that the elector's information is
+27 transmitted to the election commissioner or county clerk pursuant to
+28 subsection (3) of this section unless the elector specifies on the form
+29 that he or she does not want to register to vote or update his or her
+30 voter registration record. The voter registration application shall
+31 contain the information required pursuant to section 32-312 and shall be
+-4-
+
+LB218 LB218
+2025 2025
+1 designed so that it does not require the duplication of information in
+2 the application for the motor vehicle operator's license or state
+3 identification card, except that it may require a second signature of the
+4 applicant. The department and the Secretary of State shall make the voter
+5 registration application available to any person applying for an
+6 operator's license or state identification card. The application shall be
+7 completed at the office of the department by the close of business on the
+8 third Friday preceding any election to be registered to vote at such
+9 election. A registration application received after the deadline shall
+10 not be processed by the election commissioner or county clerk until after
+11 the election. If a voter registration application is submitted under this
+12 section with the signature of the applicant but the applicant is not
+13 eligible to register to vote, the submission shall not be considered a
+14 violation of section 32-1502 or 32-1503 and the document submitted shall
+15 not be considered a valid or completed voter registration application for
+16 purposes of registration or enforcement of the Election Act unless the
+17 applicant has willfully and knowingly taken affirmative steps to register
+18 to vote knowing that he or she is not eligible to do so.
+19 (3) The Department of Motor Vehicles, in conjunction with the
+20 Secretary of State, shall develop a process to electronically transmit
+21 voter registration application information received under subsection (2)
+22 of this section to the election commissioner or county clerk of the
+23 county in which the applicant resides within the time limits prescribed
+24 in subsection (4) of this section for each applicant who indicates on the
+25 application that he or she is a citizen of the United States and at least
+26 eighteen years of age or will be eighteen years of age on or before the
+27 first Tuesday after the first Monday in November of the then-current
+28 year. The Department of Motor Vehicles shall not transmit voter
+29 registration application information for applications pursuant to section
+30 60-480.01. The Director of Motor Vehicles shall designate an
+31 implementation date for the process which shall be on or before January
+-5-
+
+LB218 LB218
+2025 2025
+1 1, 2016.
+2 (4) The voter registration application information shall be
+3 transmitted to the election commissioner or county clerk of the county in
+4 which the applicant resides not later than ten days after receipt, except
+5 that if the voter registration application information is received within
+6 five days prior to the third Friday preceding any election, it shall be
+7 transmitted not later than five days after its original submission. Any
+8 information on whether an applicant registers or declines to register and
+9 the location of the office at which he or she registers shall be
+10 confidential and shall only be used for voter registration purposes.
+11 (5) For each voter registration application for which information is
+12 transmitted electronically pursuant to this section, the Secretary of
+13 State shall obtain a copy of the electronic representation of the
+14 applicant's digital image and signature from the Department of Motor
+15 Vehicles' records of his or her motor vehicle operator's license or state
+16 identification card for purposes of voter registration and voting. Each
+17 voter registration application electronically transmitted under this
+18 section shall include information provided by the applicant that includes
+19 whether the applicant is a citizen of the United States, whether the
+20 applicant is of sufficient age to register to vote, the applicant's
+21 residence address, the applicant's postal address if different from the
+22 residence address, the date of birth of the applicant, the party
+23 affiliation of the applicant or an indication that the applicant is not
+24 affiliated with any political party, the applicant's motor vehicle
+25 operator's license number, the applicant's previous registration location
+26 by city, county, or state, if applicable, and the applicant's signature.
+27 (6) State agency personnel involved in the voter registration
+28 process pursuant to this section and section 32-309 shall not be
+29 considered deputy registrars or agents or employees of the election
+30 commissioner or county clerk.
+31 Sec. 4. Section 32-312, Revised Statutes Cumulative Supplement,
+-6-
+
+LB218 LB218
+2025 2025
+1 2024, is amended to read:
+2 32-312 The registration application prescribed by the Secretary of
+3 State pursuant to section 32-304 or 32-311.01 shall provide the
+4 instructional statements and request the information from the applicant
+5 as provided in this section.
+6 CITIZENSHIP—"Are you a citizen of the United States of America?"
+7 with boxes to check to indicate whether the applicant is or is not a
+8 citizen of the United States.
+9 AGE—"Are you at least eighteen years of age or will you be eighteen
+10 years of age on or before the first Tuesday following the first Monday of
+11 November of this year?" with boxes to check to indicate whether or not
+12 the applicant will be eighteen years of age or older on election day.
+13 WARNING—"If you checked 'no' in response to either of these
+14 questions, do not complete this application.".
+15 NAME—the name of the applicant giving the first and last name in
+16 full, the middle name in full or the middle initial, and the maiden name
+17 of the applicant, if applicable.
+18 RESIDENCE—the name and number of the street, avenue, or other
+19 location of the dwelling where the applicant resides if there is a
+20 number. If the registrant resides in a hotel, apartment, tenement house,
+21 or institution, such additional information shall be included as will
+22 give the exact location of such registrant's place of residence. If the
+23 registrant lives in an incorporated or unincorporated area not identified
+24 by the use of roads, road names, or house numbers, the registrant shall
+25 state the section, township, and range of his or her residence and the
+26 corporate name of the school district as described in section 79-405 in
+27 which he or she is located.
+28 POSTAL ADDRESS—the address at which the applicant receives mail if
+29 different from the residence address.
+30 ADDRESS OF LAST REGISTRATION—the name and number of the street,
+31 avenue, or other location of the dwelling from which the applicant last
+-7-
+
+LB218 LB218
+2025 2025
+1 registered.
+2 TELEPHONE NUMBERS—the telephone numbers of the applicant. At the
+3 request of the applicant, a designation shall be made that a telephone
+4 number is an unlisted number, and such designation shall preclude the
+5 listing of such telephone number on any list of voter registrations.
+6 EMAIL ADDRESS—an email address of the applicant. At the request of
+7 the applicant, a designation shall be made that the email address is
+8 private, and such designation shall preclude the listing of the
+9 applicant's email address on any list of voter registrations.
+10 DRIVER'S LICENSE NUMBER OR LAST FOUR DIGITS OF SOCIAL SECURITY
+11 NUMBER—if the applicant has a Nebraska driver's license, the license
+12 number, and if the applicant does not have a Nebraska driver's license,
+13 the last four digits of the applicant's social security number.
+14 DATE OF APPLICATION FOR REGISTRATION—the month, day, and year when
+15 the applicant presented himself or herself for registration, when the
+16 applicant completed and signed the registration application if the
+17 application was submitted by mail or delivered to the election official
+18 by the applicant's personal messenger or personal agent, or when the
+19 completed application was submitted if the registration application was
+20 completed pursuant to section 32-304.
+21 PLACE OF BIRTH—show the state, country, kingdom, empire, or dominion
+22 where the applicant was born.
+23 DATE OF BIRTH—show the date of the applicant's birth. The applicant
+24 shall be at least eighteen years of age or attain eighteen years of age
+25 on or before the first Tuesday after the first Monday in November to have
+26 the right to register and vote in any election in the present calendar
+27 year.
+28 REGISTRATION TAKEN BY—show the signature of the authorized official
+29 or staff member accepting the application pursuant to section 32-309 or
+30 32-310 or at least one of the deputy registrars taking the application
+31 pursuant to section 32-306, if applicable.
+-8-
+
+LB218 LB218
+2025 2025
+1 PARTY AFFILIATION—show the party affiliation of the applicant as
+2 Democratic, Republican, or Other ........ or show no party affiliation as
+3 Nonpartisan. (Note: If you wish to vote in both partisan and nonpartisan
+4 primary elections for state and local offices, you must indicate a
+5 political party affiliation on the registration application. If you
+6 register without a political party affiliation (nonpartisan), you will
+7 receive only the nonpartisan ballots for state and local offices at
+8 primary elections. If you register without a political party affiliation,
+9 you may vote in partisan primary elections for congressional offices.)
+10 OTHER—information the Secretary of State determines will assist in
+11 the proper and accurate registration of the voter.
+12 Immediately following the spaces for inserting information as
+13 provided in this section, the following statement shall be printed:
+14 To the best of my knowledge and belief, I declare under penalty of
+15 election falsification that:
+16 (1) I live in the State of Nebraska at the address provided in this
+17 application;
+18 (2) I have not been convicted of a felony or, if convicted, I have
+19 completed my sentence for the felony, including any parole term;
+20 (3) I have not been officially found to be non compos mentis
+21 (mentally incompetent); and
+22 (4) I am a citizen of the United States.
+23 Any registrant who signs this application knowing that any of the
+24 information in the application is false shall be guilty of a Class IV
+25 felony under section 32-1502 of the statutes of Nebraska. The penalty for
+26 a Class IV felony is up to two years imprisonment and twelve months post-
+27 release supervision, a fine of up to ten thousand dollars, or both.
+28 APPLICANT'S SIGNATURE—require the applicant to affix his or her
+29 signature to the application.
+30 Sec. 5. Section 32-315, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-9-
+
+LB218 LB218
+2025 2025
+1 32-315 Upon receiving a completed voter registration application
+2 pursuant to section 32-308 , 32-309, or 32-310 indicating that a voter
+3 who is registered in the county has changed his or her name or moved to
+4 another residence within the same county, the election commissioner or
+5 county clerk shall change the voter registration record of the registered
+6 voter to the new name or new address and shall send an acknowledgment
+7 card to the registered voter indicating that the change of registration
+8 has been completed and the address of the voter's new polling place.
+9 Sec. 6. Section 32-1002, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 32-1002 (1) As the ballots are removed from the ballot box pursuant
+12 to sections 32-1012 to 32-1018, the receiving board shall separate the
+13 envelopes containing the provisional ballots from the rest of the ballots
+14 and deliver them to the election commissioner or county clerk.
+15 (2) Upon receipt of a provisional ballot, the election commissioner
+16 or county clerk shall verify that the certificate on the front of the
+17 envelope or the form attached to the envelope is in proper form and that
+18 the certification has been signed by the voter.
+19 (3) The election commissioner or county clerk shall also (a) verify
+20 that such person has not voted anywhere else in the county or been issued
+21 a ballot for early voting, (b) investigate whether any credible evidence
+22 exists that the person was properly registered to vote in the county
+23 before the deadline for registration for the election, (c) investigate
+24 whether any information has been received pursuant to section 32-308,
+25 32-309, 32-310, or 32-324 that the person has resided, registered, or
+26 voted in any other county or state since registering to vote in the
+27 county, and (d) upon determining that credible evidence exists that the
+28 person was properly registered to vote in the county, make the
+29 appropriate changes to the voter registration register by entering the
+30 information contained in the registration application completed by the
+31 voter at the time of voting a provisional ballot.
+-10-
+
+LB218 LB218
+2025 2025
+1 (4) A provisional ballot cast by a voter pursuant to section 32-915
+2 shall be counted if:
+3 (a) Credible evidence exists that the voter was properly registered
+4 in the county before the deadline for registration for the election;
+5 (b) The voter has resided in the county continuously since
+6 registering to vote in the county;
+7 (c) The voter has not voted anywhere else in the county or has not
+8 otherwise voted early using a ballot for early voting;
+9 (d) The voter has completed a registration application prior to
+10 voting as prescribed in subsection (6) of this section and:
+11 (i) The residence address provided on the registration application
+12 completed pursuant to subdivision (1)(e) of section 32-915 is located
+13 within the precinct in which the person voted; and
+14 (ii) If the voter is voting in a primary election, the party
+15 affiliation provided on the registration application completed prior to
+16 voting the provisional ballot is the same party affiliation that appears
+17 on the voter's voter registration record based on his or her previous
+18 registration application; and
+19 (e) The certification on the front of the envelope or form attached
+20 to the envelope is in the proper form and signed by the voter.
+21 (5) A provisional ballot cast by a voter pursuant to section 32-915
+22 shall not be counted if:
+23 (a) The voter was not properly registered in the county before the
+24 deadline for registration for the election;
+25 (b) Information has been received pursuant to section 32-308,
+26 32-309, 32-310, or 32-324 that the voter has resided, registered, or
+27 voted in any other county or state since registering to vote in the
+28 county in which he or she cast the provisional ballot;
+29 (c) Credible evidence exists that the voter has voted elsewhere or
+30 has otherwise voted early;
+31 (d) The voter failed to complete and sign a registration application
+-11-
+
+LB218 LB218
+2025 2025
+1 pursuant to subsection (6) of this section and subdivision (1)(e) of
+2 section 32-915;
+3 (e) The residence address provided on the registration application
+4 completed pursuant to subdivision (1)(e) of section 32-915 is in a
+5 different county or in a different precinct than the county or precinct
+6 in which the voter voted;
+7 (f) If the voter is voting in a primary election, the party
+8 affiliation on the registration application completed prior to voting the
+9 provisional ballot is different than the party affiliation that appears
+10 on the voter's voter registration record based on his or her previous
+11 registration application; or
+12 (g) The voter failed to complete and sign the certification on the
+13 envelope or form attached to the envelope pursuant to subsection (3) of
+14 section 32-915.
+15 (6) An error or omission of information on the registration
+16 application or the certification required under section 32-915 shall not
+17 result in the provisional ballot not being counted if:
+18 (a)(i) The errant or omitted information is contained elsewhere on
+19 the registration application or certification; or
+20 (ii) The information is not necessary to determine the eligibility
+21 of the voter to cast a ballot; and
+22 (b) Both the registration application and the certification are
+23 signed by the voter.
+24 (7) Upon determining that the voter's provisional ballot is eligible
+25 to be counted, the election commissioner or county clerk shall remove the
+26 ballot from the envelope without exposing the marks on the ballot and
+27 shall place the ballot with the ballots to be counted by the county
+28 canvassing board.
+29 (8) The election commissioner or county clerk shall notify the
+30 system administrator of the system created pursuant to section 32-202 as
+31 to whether the ballot was counted and, if not, the reason the ballot was
+-12-
+
+LB218 LB218
+2025 2025
+1 not counted.
+2 (9) The verification and investigation shall be completed within
+3 seven business days after the election.
+4 Sec. 7. Section 32-1506, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 32-1506 Any deputy registrar, judge or clerk of election, or other
+7 officer having the custody of records, registers, copies of records or
+8 registers, oaths, certificates, or any other paper, document, or evidence
+9 of any description by law directed to be made, filed, or preserved (1)
+10 who steals, willfully destroys, mutilates, defaces, falsifies, or
+11 fraudulently removes such paper, document, or evidence or any part
+12 thereof, (2) who fraudulently makes an entry, erasure, or alteration in
+13 such paper, document, or evidence except as allowed and directed by the
+14 Election Act, (3) who uses the voter registration records for any purpose
+15 other than voter registration, election administration, or enforcement of
+16 the Election Act, (4) who permits any other person to commit any
+17 violation listed in this section, or (5) who advises, procures, or abets
+18 the commission of such a violation shall be guilty of a Class III
+19 misdemeanor and shall forfeit his or her office. Any other person who
+20 violates this section shall be guilty of a Class III misdemeanor.
+21 Sec. 8. Section 60-484, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 60-484 (1) Except as otherwise provided in the Motor Vehicle
+24 Operator's License Act, no resident of the State of Nebraska shall
+25 operate a motor vehicle upon the alleys or highways of this state until
+26 the person has obtained an operator's license for that purpose.
+27 (2) Application for an operator's license or a state identification
+28 card shall be made in a manner prescribed by the department.
+29 (3) The applicant shall provide his or her full legal name, date of
+30 birth, mailing address, gender, race or ethnicity, and social security
+31 number, two forms of proof of address of his or her principal residence
+-13-
+
+LB218 LB218
+2025 2025
+1 unless the applicant is a program participant under the Address
+2 Confidentiality Act, evidence of identity as required by subsection (6)
+3 of this section, and a brief physical description of himself or herself.
+4 The applicant:
+5 (a) Shall may also complete the voter registration portion pursuant
+6 to section 32-308, (b) shall be provided the advisement language required
+7 by subsection (5) of section 60-6,197; ,
+8 (b) Shall (c) shall answer the following:
+9 (i) Have you within the last three months (e.g. due to diabetes,
+10 epilepsy, mental illness, head injury, stroke, heart condition,
+11 neurological disease, etc.):
+12 (A) lost voluntary control or consciousness ... yes ... no
+13 (B) experienced vertigo or multiple episodes of dizziness or
+14 fainting ... yes ... no
+15 (C) experienced disorientation ... yes ... no
+16 (D) experienced seizures ... yes ... no
+17 (E) experienced impairment of memory, memory loss ... yes ... no
+18 Please explain: .................................
+19 (ii) Do you experience any condition which affects your ability to
+20 operate a motor vehicle? (e.g. due to loss of, or impairment of, foot,
+21 leg, hand, arm; neurological or neuromuscular disease, etc.) ... yes ...
+22 no
+23 Please explain: ...................................
+24 (iii) Since the issuance of your last driver's license/permit, has
+25 your health or medical condition changed or worsened? ... yes ... no
+26 Please explain, including how the above affects your ability to
+27 drive: ..................; ,
+28 (c) Shall be advised as follows: We will use your information to
+29 update your voter registration record or register you to vote.
+30 The applicant shall be given the opportunity to choose not to use
+31 his or her information for voter registration, otherwise the applicant
+-14-
+
+LB218 LB218
+2025 2025
+1 shall complete the voter registration portion that is transmitted to the
+2 election commissioner or county clerk to register the applicant to vote
+3 or update his or her voter registration record pursuant to section
+4 32-308. If the voter registration portion is only partially completed,
+5 the department may still proceed to issue the operator's license or state
+6 identification card and shall transmit the incomplete voter registration
+7 portion to the election commissioner or county clerk pursuant to section
+8 32-308. The department may still proceed to issue the operator's license
+9 or state identification card if the applicant refuses to answer or does
+10 not complete the voter registration portion; and
+11 (d) May and (d) may answer the following:
+12 (i) Do you wish to register to vote as part of this application
+13 process?
+14 (i) (ii) Do you wish to have a veteran designation displayed on the
+15 front of your operator's license or state identification card to show
+16 that you served in the armed forces of the United States? (To be eligible
+17 you must register with the Nebraska Department of Veterans' Affairs
+18 registry.)
+19 (ii) (iii) Do you wish to include your name in the Donor Registry of
+20 Nebraska and donate your organs and tissues at the time of your death?
+21 (iii) (iv) Do you wish to receive any additional specific
+22 information regarding organ and tissue donation and the Donor Registry of
+23 Nebraska?
+24 (iv) (v) Do you wish to donate $1 to promote the Organ and Tissue
+25 Donor Awareness and Education Fund?
+26 (4) Application for an operator's license or state identification
+27 card shall include a signed oath, affirmation, or declaration of the
+28 applicant that the information provided on the application for the
+29 license or card is true and correct.
+30 (5) The social security number shall not be printed on the
+31 operator's license or state identification card and shall be used only
+-15-
+
+LB218 LB218
+2025 2025
+1 (a) to furnish information to the United States Selective Service System
+2 under section 60-483, (b) with the permission of the director in
+3 connection with the verification of the status of an individual's driving
+4 record in this state or any other state, (c) for purposes of child
+5 support enforcement pursuant to section 42-358.08 or 43-512.06, (d) to
+6 furnish information regarding an applicant for or holder of a commercial
+7 driver's license with a hazardous materials endorsement to the
+8 Transportation Security Administration of the United States Department of
+9 Homeland Security or its agent, (e) to furnish information to the
+10 Department of Revenue under section 77-362.02, or (f) to furnish
+11 information to the Secretary of State for purposes of the Election Act.
+12 (6)(a) Each individual applying for an operator's license or a state
+13 identification card shall furnish proof of date of birth and identity
+14 with documents containing a photograph or with nonphoto identity
+15 documents which include his or her full legal name and date of birth.
+16 Such documents shall be those provided in subsection (1) of section
+17 60-484.04.
+18 (b) Any individual under the age of eighteen years applying for an
+19 operator's license or a state identification card shall provide a
+20 certified copy of his or her birth certificate or, if such individual is
+21 unable to provide a certified copy of his or her birth certificate, other
+22 reliable proof of his or her identity and age, as required in subdivision
+23 (6)(a) of this section, accompanied by a certification signed by a parent
+24 or guardian explaining the inability to produce a copy of such birth
+25 certificate. The applicant also may be required to furnish proof to
+26 department personnel that the parent or guardian signing the
+27 certification is in fact the parent or guardian of such applicant.
+28 (c) An applicant may present other documents as proof of
+29 identification and age designated by the director. Any documents accepted
+30 shall be recorded according to a written exceptions process established
+31 by the director.
+-16-
+
+LB218 LB218
+2025 2025
+1 (7) Any individual applying for an operator's license or a state
+2 identification card who indicated his or her wish to have a veteran
+3 designation displayed on the front of such license or card shall comply
+4 with section 60-4,189.
+5 (8) No person shall be a holder of an operator's license and a state
+6 identification card at the same time. A person who has a digital image
+7 and digital signature on file with the department may apply
+8 electronically to change his or her Class O operator's license to a state
+9 identification card.
+10 Sec. 9. Section 60-4,130, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 60-4,130 (1) Application for an employment driving permit shall be
+13 made to the Department of Motor Vehicles on forms furnished for that
+14 purpose by the department. The application form shall contain such
+15 information as deemed necessary by the director to carry out this section
+16 and section 60-4,129. If the department has a digital image and digital
+17 signature of the applicant preserved in the digital system implemented
+18 under section 60-484.01, the employment driving permit, if issued, may
+19 contain such image and signature. The application form shall also include
+20 a voter registration portion pursuant to subdivision (3)(c) of section
+21 60-484. 32-308 and the following specific question: Do you wish to
+22 register to vote as part of this application process? To be eligible for
+23 an employment driving permit, the applicant shall furnish, along with the
+24 application to the director, the following:
+25 (a) An affidavit from the applicant's employer stating that such
+26 applicant is required to operate a motor vehicle from his or her
+27 residence to his or her place of employment and return;
+28 (b) If such applicant requires the use of a motor vehicle during the
+29 normal course of employment, an affidavit from the applicant's employer
+30 setting forth the facts establishing such requirement;
+31 (c) An affidavit stating that there exists no other reasonable
+-17-
+
+LB218 LB218
+2025 2025
+1 alternative means of transportation to and from work available to the
+2 applicant; and
+3 (d) If the applicant is self-employed, an affidavit to the
+4 department setting forth the provisions of his or her employment.
+5 (2) Except as otherwise provided in this subsection, upon making
+6 application for such permit, the applicant shall certify that he or she
+7 will attend and complete, within sixty days, a driver improvement course
+8 presented by the department or show successful completion of the driver
+9 education and training course as provided in section 60-4,183. If such
+10 course is not completed, the employment driving permit shall be
+11 surrendered to the department. If any person fails to return to the
+12 department the permit as provided in this subsection, the department
+13 shall direct any peace officer or authorized representative of the
+14 department to secure possession of the permit and to return the permit to
+15 the department. An applicant whose operator's license has been suspended
+16 pursuant to section 43-3318 is not required to fulfill such driver
+17 improvement or education and training course requirements. All applicants
+18 shall file and maintain proof of financial responsibility as required by
+19 the Motor Vehicle Safety Responsibility Act.
+20 (3) Any person who fails to surrender a permit, as required by this
+21 section, shall be guilty of a Class IV misdemeanor.
+22 (4) The fee prescribed in section 60-4,115 shall be submitted to the
+23 department along with the application for an employment driving permit.
+24 (5) When the holder of an employment driving permit is convicted, on
+25 or after the date of issuance of the employment driving permit, of any
+26 traffic violation or of operating a motor vehicle for a purpose other
+27 than specified by such permit, the person shall not be eligible to
+28 receive another employment driving permit during that particular period
+29 of revocation. This subsection does not apply to a holder of an
+30 employment driving permit if the reason for his or her license revocation
+31 or suspension only involved a suspension under section 43-3318 and not a
+-18-
+
+LB218 LB218
+2025 2025
+1 revocation under any other section.
+2 (6) Any person who feels himself or herself aggrieved because of the
+3 refusal of the director to issue the employment driving permit may appeal
+4 in the manner set forth in section 60-4,105.
+5 Sec. 10. Section 60-4,130.02, Reissue Revised Statutes of Nebraska,
+6 is amended to read:
+7 60-4,130.02 (1) Application for a medical hardship driving permit
+8 shall be made to the Department of Motor Vehicles on forms furnished for
+9 that purpose by the department. The application form shall contain such
+10 information as deemed necessary by the director to carry out this section
+11 and section 60-4,130.01. If the department has a digital image and
+12 digital signature of the applicant preserved in the digital system
+13 implemented under section 60-484.01, the medical hardship driving permit,
+14 if issued, may contain such image and signature. The application form
+15 shall also include a voter registration portion pursuant to subdivision
+16 (3)(c) of section 60-484. 32-308 and the following specific question: Do
+17 you wish to register to vote as part of this application process? To be
+18 eligible for a medical hardship driving permit, the applicant shall
+19 furnish, along with the application to the director, the following:
+20 (a) An affidavit from the applicant's physician stating that it is
+21 necessary for such applicant to receive medical treatment at a location
+22 other than the applicant's residence and that the treatment will not
+23 impair the applicant's ability to operate a motor vehicle; and
+24 (b) An affidavit stating that there exists no other reasonable
+25 alternative means of transportation to and from the site of medical
+26 treatment available to the applicant.
+27 (2) The applicant shall also be required to file and maintain proof
+28 of financial responsibility as required by the Motor Vehicle Safety
+29 Responsibility Act.
+30 (3) The fee prescribed in section 60-4,115 shall be submitted to the
+31 department along with the application for a medical hardship driving
+-19-
+
+LB218 LB218
+2025 2025
+1 permit.
+2 (4) When the holder of a medical hardship driving permit is
+3 convicted, on or after the date of issuance of the permit, of any traffic
+4 violation or of operating a motor vehicle for a purpose other than
+5 specified by such permit, the person shall not be eligible to receive
+6 another medical hardship driving permit during that particular period of
+7 revocation.
+8 (5) Any person who feels himself or herself aggrieved because of the
+9 refusal of the director to issue the medical hardship driving permit may
+10 appeal in the manner set forth in section 60-4,105.
+11 Sec. 11. Section 60-4,144, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 60-4,144 (1) An applicant for issuance of any original or renewal
+14 commercial driver's license or an applicant for a change of class of
+15 commercial motor vehicle, endorsement, or restriction shall demonstrate
+16 his or her knowledge and skills for operating a commercial motor vehicle
+17 as prescribed in the Motor Vehicle Operator's License Act. An applicant
+18 for a commercial driver's license shall provide the information and
+19 documentation required by this section and section 60-4,144.01. Such
+20 information and documentation shall include any additional information
+21 required by 49 C.F.R. parts 383 and 391 and also include:
+22 (a) Certification that the commercial motor vehicle in which the
+23 applicant takes any driving skills examination is representative of the
+24 class of commercial motor vehicle that the applicant operates or expects
+25 to operate; and
+26 (b) The names of all states where the applicant has been licensed to
+27 operate any type of motor vehicle in the ten years prior to the date of
+28 application.
+29 (2)(a) Before being issued a CLP-commercial learner's permit or
+30 commercial driver's license, the applicant shall provide (i) his or her
+31 full legal name, date of birth, mailing address, gender, race or
+-20-
+
+LB218 LB218
+2025 2025
+1 ethnicity, and social security number, (ii) two forms of proof of address
+2 of his or her principal residence unless the applicant is a program
+3 participant under the Address Confidentiality Act, except that a
+4 nondomiciled applicant for a CLP-commercial learner's permit or
+5 nondomiciled commercial driver's license holder does not have to provide
+6 proof of residence in Nebraska, (iii) evidence of identity as required by
+7 this section, and (iv) a brief physical description of himself or
+8 herself.
+9 (b) The applicant's social security number shall not be printed on
+10 the CLP-commercial learner's permit or commercial driver's license and
+11 shall be used only (i) to furnish information to the United States
+12 Selective Service System under section 60-483, (ii) with the permission
+13 of the director in connection with the certification of the status of an
+14 individual's driving record in this state or any other state, (iii) for
+15 purposes of child support enforcement pursuant to section 42-358.08 or
+16 43-512.06, (iv) to furnish information regarding an applicant for or
+17 holder of a commercial driver's license with a hazardous materials
+18 endorsement to the Transportation Security Administration of the United
+19 States Department of Homeland Security or its agent, (v) to furnish
+20 information to the Department of Revenue under section 77-362.02, (vi) to
+21 furnish information to the Secretary of State for purposes of the
+22 Election Act, or (vii) to query the federal Drug and Alcohol
+23 Clearinghouse.
+24 (c) No person shall be a holder of a CLP-commercial learner's permit
+25 or commercial driver's license and a state identification card at the
+26 same time.
+27 (3) Before being issued a CLP-commercial learner's permit or
+28 commercial driver's license, an applicant, except a nondomiciled
+29 applicant, shall provide proof that this state is his or her state of
+30 residence. Acceptable proof of residence is a document with the person's
+31 name and residential address within this state.
+-21-
+
+LB218 LB218
+2025 2025
+1 (4)(a) Before being issued a CLP-commercial learner's permit or
+2 commercial driver's license, an applicant shall provide proof of
+3 identity.
+4 (b) The following are acceptable as proof of identity:
+5 (i) A valid, unexpired United States passport;
+6 (ii) A certified copy of a birth certificate filed with a state
+7 office of vital statistics or equivalent agency in the individual's state
+8 of birth;
+9 (iii) A Consular Report of Birth Abroad issued by the United States
+10 Department of State;
+11 (iv) A valid, unexpired Permanent Resident Card permanent resident
+12 card issued by the United States Department of Homeland Security or
+13 United States Citizenship and Immigration Services;
+14 (v) An unexpired employment authorization document issued by the
+15 United States Department of Homeland Security;
+16 (vi) An unexpired foreign passport with a valid, unexpired United
+17 States visa affixed accompanied by the approved form documenting the
+18 applicant's most recent admittance into the United States;
+19 (vii) A Certificate of Naturalization issued by the United States
+20 Department of Homeland Security;
+21 (viii) A Certificate of Citizenship issued by the United States
+22 Department of Homeland Security;
+23 (ix) A driver's license or identification card issued in compliance
+24 with the standards established by the federal REAL ID Act of 2005, Public
+25 Law 109-13, division B, section 1, 119 Stat. 302; or
+26 (x) Such other documents as the director may approve.
+27 (c) If an applicant presents one of the documents listed under
+28 subdivision (b)(i), (ii), (iii), (iv), (vii), or (viii) of this
+29 subsection, the verification of the applicant's identity will also
+30 provide satisfactory evidence of lawful status.
+31 (d) If the applicant presents one of the identity documents listed
+-22-
+
+LB218 LB218
+2025 2025
+1 under subdivision (b)(v), (vi), or (ix) of this subsection, the
+2 verification of the identity documents does not provide satisfactory
+3 evidence of lawful status. The applicant shall also present a second
+4 document from subdivision (4)(b) of this section, a document from
+5 subsection (5) of this section, or documentation issued by the United
+6 States Department of Homeland Security or other federal agencies
+7 demonstrating lawful status as determined by the United States
+8 Citizenship and Immigration Services.
+9 (e) An applicant may present other documents as designated by the
+10 director as proof of identity. Any documents accepted shall be recorded
+11 according to a written exceptions process established by the director.
+12 (f)(i) Any person assigned a parolee immigration status by the
+13 United States Department of Homeland Security may apply for and be issued
+14 a CLP-commercial learner's permit or commercial driver's license that is
+15 not in compliance with the federal REAL ID Act of 2005, Public Law
+16 109-13, if the person:
+17 (A) Possessed an unexpired foreign passport issued to such person at
+18 the time of such person's entry into the United States of America; and
+19 (B) Fulfills the requirements of subdivision (2)(a) of this section
+20 and such requirements are verified pursuant to section 60-484.06.
+21 (ii) Any CLP-commercial learner's permit or commercial driver's
+22 license issued under this subsection is otherwise subject to all laws
+23 relating to CLP-commercial learner's permits or commercial driver's
+24 licenses.
+25 (5)(a) Whenever a person, as a nondomiciled individual to this
+26 state, is renewing, replacing, upgrading, transferring, or applying for a
+27 commercial driver's license, or replacing, upgrading, transferring, or
+28 applying for a CLP-commercial learner's permit, the Department of Motor
+29 Vehicles shall verify the citizenship in the United States of the person
+30 or the lawful status in the United States of the person.
+31 (b) The following are acceptable as proof of citizenship or lawful
+-23-
+
+LB218 LB218
+2025 2025
+1 status:
+2 (i) A valid, unexpired United States passport;
+3 (ii) A certified copy of a birth certificate filed with a state
+4 office of vital statistics or equivalent agency in the individual's state
+5 of birth, Puerto Rico, the Virgin Islands, Guam, American Samoa, or the
+6 Commonwealth of the Northern Mariana Islands;
+7 (iii) A Consular Report of Birth Abroad issued by the United States
+8 Department of State;
+9 (iv) A Certificate of Naturalization issued by the United States
+10 Department of Homeland Security;
+11 (v) A Certificate of Citizenship issued by the United States
+12 Department of Homeland Security; or
+13 (vi) A valid, unexpired Permanent Resident Card issued by the United
+14 States Department of Homeland Security or United States Citizenship and
+15 Immigration Services.
+16 (6) An applicant may present other documents as designated by the
+17 director as proof of lawful status. Any documents accepted shall be
+18 recorded according to a written exceptions process established by the
+19 director.
+20 (7)(a) An applicant shall obtain a nondomiciled CLP-commercial
+21 driver's license or nondomiciled CLP-commercial learner's permit:
+22 (i) If the applicant is domiciled in a foreign jurisdiction and the
+23 Federal Motor Carrier Safety Administrator has not determined that the
+24 commercial motor vehicle operator testing and licensing standards of that
+25 jurisdiction meet the standards contained in subparts G and H of 49
+26 C.F.R. part 383; or
+27 (ii) If the applicant is domiciled in a state that is prohibited
+28 from issuing commercial learners' permits and commercial drivers'
+29 licenses in accordance with 49 C.F.R. 384.405. Such person is eligible to
+30 obtain a nondomiciled CLP-commercial learner's permit or nondomiciled
+31 commercial driver's license from Nebraska that complies with the testing
+-24-
+
+LB218 LB218
+2025 2025
+1 and licensing standards contained in subparts F, G, and H of 49 C.F.R.
+2 part 383.
+3 (b) An applicant for a nondomiciled CLP-commercial learner's permit
+4 and nondomiciled commercial driver's license shall do the following:
+5 (i) Complete the requirements to obtain a CLP-commercial learner's
+6 permit or a commercial driver's license under the Motor Vehicle
+7 Operator's License Act, except that an applicant domiciled in a foreign
+8 jurisdiction shall provide an unexpired employment authorization document
+9 issued by the United States Citizenship and Immigration Services or an
+10 unexpired foreign passport accompanied by an approved I-94 form
+11 documenting the applicant's most recent admittance into the United
+12 States. No proof of domicile is required;
+13 (ii) After receipt of the nondomiciled CLP-commercial learner's
+14 permit or nondomiciled commercial driver's license and, for as long as
+15 the permit or license is valid, notify the Department of Motor Vehicles
+16 of any adverse action taken by any jurisdiction or governmental agency,
+17 foreign or domestic, against his or her driving privileges. Such adverse
+18 actions include, but are not limited to, license disqualification or
+19 disqualification from operating a commercial motor vehicle for the
+20 convictions described in 49 C.F.R. 383.51. Notifications shall be made
+21 within the time periods specified in 49 C.F.R. 383.33; and
+22 (iii) Provide a mailing address to the Department of Motor Vehicles.
+23 If the applicant is applying for a foreign nondomiciled CLP-commercial
+24 learner's permit or foreign nondomiciled commercial driver's license, he
+25 or she shall provide a Nebraska mailing address and his or her employer's
+26 mailing address to the Department of Motor Vehicles.
+27 (c) An applicant for a nondomiciled CLP-commercial learner's permit
+28 or nondomiciled commercial driver's license who holds a foreign
+29 operator's license is not required to surrender his or her foreign
+30 operator's license.
+31 (8) Any person applying for a CLP-commercial learner's permit or
+-25-
+
+LB218 LB218
+2025 2025
+1 commercial driver's license may answer the following:
+2 (a) Do you wish to register to vote as part of this application
+3 process?
+4 (a) (b) Do you wish to have a veteran designation displayed on the
+5 front of your operator's license to show that you served in the armed
+6 forces of the United States? (To be eligible you shall register with the
+7 Nebraska Department of Veterans' Affairs registry.)
+8 (b) (c) Do you wish to include your name in the Donor Registry of
+9 Nebraska and donate your organs and tissues at the time of your death?
+10 (c) (d) Do you wish to receive any additional specific information
+11 regarding organ and tissue donation and the Donor Registry of Nebraska?
+12 (d) (e) Do you wish to donate $1 to promote the Organ and Tissue
+13 Donor Awareness and Education Fund?
+14 (9) Any person applying for a CLP-commercial learner's permit or
+15 commercial driver's license shall answer the voter registration question
+16 as provided in subdivision (3)(c) of section 60-484.
+17 (10) (9) Application for a CLP-commercial learner's permit or
+18 commercial driver's license shall include a signed oath, affirmation, or
+19 declaration of the applicant that the information provided on the
+20 application for the permit or license is true and correct.
+21 (11) (10) Any person applying for a CLP-commercial learner's permit
+22 or commercial driver's license shall make one of the certifications in
+23 section 60-4,144.01 and any certification required under section 60-4,146
+24 and shall provide such certifications to the Department of Motor Vehicles
+25 in order to be issued a CLP-commercial learner's permit or a commercial
+26 driver's license.
+27 (12) (11) Every person who holds any commercial driver's license
+28 shall provide to the department medical certification as required by
+29 section 60-4,144.01. The department may provide notice and prescribe
+30 medical certification compliance requirements for all holders of
+31 commercial drivers' licenses. Holders of commercial drivers' licenses who
+-26-
+
+LB218 LB218
+2025 2025
+1 fail to meet the prescribed medical certification compliance requirements
+2 may be subject to downgrade.
+3 Sec. 12. This act becomes operative on January 1, 2026.
+4 Sec. 13. Original sections 32-307, 32-315, 32-1506, 60-484,
+5 60-4,130, and 60-4,130.02, Reissue Revised Statutes of Nebraska, and
+6 sections 32-202, 32-308, 32-312, 32-1002, and 60-4,144, Revised Statutes
+7 Cumulative Supplement, 2024, are repealed.
+8 Sec. 14. The following section is outright repealed: Section
+9 32-309, Reissue Revised Statutes of Nebraska.
+-27-
+
+[DELETED: yFA B F A A r t e t a s 33Sa 6 R S C S 2 tcc p p t e o p th p t p a o d t r to s a t o r s 3 RR0B8L52]
+[DELETED: S 1 S 3 R S C S23 I a t a o d p b l tS(s(c a o e o i p f do o t o r o v a t c o0e1(2( W t a a a o t A G m3u4(5c i c o t d u s 3 a t637(839( C w t D o A S f0s1(2t3(4R5(6i7c a c c f d t t p u8r9(0( A a p r a r a n f1e8L52]
+[DELETED: (n o a I w t a v w c a pba i t v w n c t r t t v w ncp n t p t s c ait f a s A t i a a ip b s b r t t i w c t0b1( P a w d t v i2r a p T S o S s e3m4o5t6i7( P a p a c r t v8i r a p i c9t0( P i a i t t D o1H a H S t D o M V a t2S D o E f d b s a t3N r r t r t p v4p5v6(7o8a p o t m o t v r l9i0S 2 S 3 R R S o N i1a8L52]
+[DELETED: 3cofcu t t o o r e e a opS 3 S 3 R S C S2031s2s3D4o t v t a o t i i5c p o a f v r T6D o M V s e i a a w t7C o S S u s 2 o t f8S S A 4 U 4 a s s e o9A0( T D o M V w t a o t1S o S s p a v r a2w3v4r m v o l a o o r s5i c o a r t T v r6a s b d s t t e i i7t t t e c o c c p t8s9t0v r r T v r a s1c8L52]
+[DELETED: dt a f t m v o l o siar a a t a p a f aoct F p a e t b r t v a se A r a r a t d s0n1t2s w t s o t a b t a i n3e4v5n6p7a8t9( T D o M V i c w t0S o S s d a p t e t1v2o t s t t e c o c c o t3c4i5a6e7f T a t f M i N o t t8y T D o M V s n t v9r06 T D o M V s d a1i8L52]
+[DELETED: 1( T v r a i s btwtftit l o t o a w h o s r s b0c1(2t e p t t s t S o3S s o a c o t e r o t4a d i a s f t D o M5V6i7v r a e t u t8s9w t a i a c o t U S w t0a i o s a t r t v t a1r2r a t d o b o t a t p3a4a w a p p t a m v5o6b7( S a p i i t v r8p p t t s a s 3 s n b9c d r o a o e o t e0c1S 4 S 3 R S C S8L52]
+[DELETED: 23S p t s 3 o 3 s p tiaC y a c o t U S o Aw b t c t i w t a i o i n cA0y1N2t3W y c ' i r t e o t4q5N n o t a g t f a l n i6f7o8R n a n o t s a o o9l o t d w t a r i t i 0n1o i s a i s b i a w2g3r4b5s6c7w8P9d0A O L R n a n o t s1a8L52]
+[DELETED: rT N t n o t a A trn i a u n a s d s p tlEt a a d s b m t t e a ip a s d s p t l o ta0D L N O L F D O S S1N t a h a N d l t l2n3t4D5t a p h o h f r w t6a c a s t r a i t7a8b t a p m o p a o w t9c0c1P2w3D4s5o6t7y8R9o031p8L52]
+[DELETED: P A t p a o t a aDNp e f s a l o y m i p p a o t r a I yr w a p p a ( y wr o t n b f s a l o apy0O1t2I f t s f i i a3p4T5e6(7a8(9c0( I h n b o f t b n c m1(2(3A r w s t a k t a o t4i i t a i f s b g o a C I5f6a7r8A S t a t a h o h9s0S 5 S 3 R R S o N i1a8L52]
+[DELETED: 3 U r a c v r apwa r w t s c t e c ocv t t n n o n a a s s a achS 6 S 3 R S C S02132t3e4a5(6o c c s v t t c o t f o t7e8t9(0t1a2e t t p w p r t v i t c3b t d f r f t e ( i4w a i h b r p t s 353 3 o 3 t t p h r r o6v i a o c o s s r t v i t7c8p w p r t v i t c m t9a c t t v r r b e t0i c i t r a c b t1v8L52]
+[DELETED: (s(i( T v h r i t c c sr(o( T v h c a r a p t0v1(2c p t s ( o s 3 i l3w4( I t v i v i a p e t p5a6v7o t v v r r b o h o h p8r9(0t1(2s3(4d5( I h b r p t s 363 3 o 3 t t v h r r o7v i a o c o s s r t v i t8c9(0h1(8L52]
+[DELETED: p t s ( o t s a s ( os(c p t s ( o s 3 i i di( I t v i v i a p e t pap0o t v v r r b o h o h p1r2(3e4s5( A e o o o i o t r6a7r8(9t0(1o2( B t r a a t c a3s4(5t6b f t e w e t m o t b a7s p t b w t b t b c b t c8c9( T e c o c c s n t0s1t8L52]
+[DELETED: n( T v a i s b c wsS 7 S 3 R R S o N ia3oro0w s w d m d f o1f r s p d o e o a p2t3s4E5o6t E A ( w p a o p t c a7v8t c o s a v s b g o a C I9m a s f h o h o A o p w0v1S 8 S 6 R R S o N i2a36 ( E a o p i t M V4O L A n r o t S o N s5o6t7(8c9(0b m a g r o e a s s1n8L52]
+[DELETED: u t a i a p p u t ACoT(tb(( H y w t l t m ( d t d0e m i h i s h c1n2(3( e v o m e o d o4f5(6(7(8P9(0o1l2n3P4(5y6P e i h t a a y a t7d8( S b a a f W w u y i t9u0T1h o h i f v r o t a8L52]
+[DELETED: seo u h o h v r r p t s3 I t v r p i o p ctip3o0n1(2( D y w t r t v a p o t a3p4(5f o y o l o s i c t s6t7y m r w t N D o V A8r9(0N1( ( D y w t r a a s2i3N4(5D6( A f a o l o s i7c s i a s o a o d o t8a t t i p o t a f t9l0( T s s n s n b p o t1o8L52]
+[DELETED: (u s 6 ( w t p o t d icr i t s o a o s ( f p o cs e p t s 4 o 4 ( tfd l w a h m e t tTH S o i a ( t f i t t0D o R u s 7 o ( t f1i2(3i c s f p o d o b a i4w d c a p o w n i5d w i h o h f l n a d o b6S d s b t p i s ( o s768(9o l o a s i c s p 0c1u2r3(4o g e t i t p a c o s b5c T a a m b r t f p t6d p t t p o g s t7c8( A a m p o d a p o9i0s1b8L52]
+[DELETED: ( A i a f a o l o a si c w i h o h w t h a vdw(ia d s o f w t d m aei0S1a263m t t D o M V o f f f t4p b t d T a f s c s5i6a7s o t a p i t d s i8u s 6 t e d p i i m9c0a v r p p t s ( o s16 3 a t f s q D y w t2r3a4a5( A a f t a e s t s6a i r t o a m v f h o h7r8(9n0s1( A a s t t e n o r8L52]
+[DELETED: a m o t t a f w a t ta( I t a i s a a t td( E a o p i t s u mawpe0c i n c t e d p s b1s t t d I a p f t r t t2d t p a p i t s t d3s d a p o o a r o t4d5t6p t s 4 i n r t f s d7i8s9t0(1s2(3d4(5o6t v o o o a m v f a p o7t s b s p t p s n b e t8r9o r T s d n a t a h o a0e1o8L52]
+[DELETED: r(riSi6 ( A f a m h d pst0i1a s 6 I t d h a d i a2d s o t a p i t d s3i4i i m c s i a s T a f5s6(7y8e f a m h d p t a s9f0(1n2o t t a r a t t t w n3i4( A a s t t e n o r5a m o t t a f t s o m6t7(8o f r a r b t M V S9R0(1d a w t a f a m h d8L52]
+[DELETED: p( W t h o a m h d p icv o o o a m v f a p o ts b s p t p s n b e t rar(r0a1S 1 S 6 R S C S2236 ( A a f i o a o o r4c d l o a a f a c o c o5c6h7a8f a c d l s p t i a9d r b t s a s 6 S0i a d s i a a i1r2( C t t c m v i w t3a4c5t6(7o8a9( B b i a C l p o0c1f l n d o b m a g r o8L52]
+[DELETED: eo h o h p r u t a i a pp u t A C A e t n a f a C l p onpt s a ( a b p d o h oh(0t C l p o c d l a1s b u o ( t f i t t U S2S3o4i5p o c s e p t s 4 o64 ( t f i r a a f o7h o a c d l w a h m8e9S D o H S o i a ( t f0i1f i t t S o S f p o t2E A o ( t q t f D a A3C4(5o c d l a a s i c a t6s7( B b i a C l p o8c d l a a e a n9a s p p t t s i h o h s o0r1n8L52]
+[DELETED: ( B b i a C l p oc d l a a s p p oi((( A c c o a b c f w a soo(0D1(2c i b t U S D o H S o3U4( A u e a d i b t5U6( A u f p w a v u U7S v a a b t a f d t8a9( A C o N i b t U S0D1( A C o C i b t U S2D3(4w5L6(7( I a a p o o t d l u8s ( ( ( ( ( o ( o t9s t v o t a i w a0p1(8L52]
+[DELETED: u s ( ( o ( o t s tv o t i d d n p se o l s T a s a p a sd f s ( o t s a d fs ( o t s o d i b t US D o H S o o f ad l s a d b t U SC( A a m p o d a d b t0d1a2( A p a a p i s b t3U4a5n i c w t f R I A o 2 P L617(8t9(0a1( A C l p o c d2l i u t s i o s t a l3r t C l p o c d4l5( W a p a a n i t t6s7c d l o r u t o8a9V0o1(8L52]
+[DELETED: s(( A c c o a b c f w a sooC(D( A C o N i b t U S0D1( A C o C i b t U S2D3(4S5I6( A a m p o d a d b t7d a p o l s A d a s b8r a t a w e p e b t9d0( A a s o a n C1d2(3F M C S A h n d t t4c5j m t s c i s G a H o 46C7( I t a i d i a s t i p8f i c l p a c d9l0o a n C l p o n1c8L52]
+[DELETED: ap(a(p o a c d l u t M VOji0u f p a b a a I f1d t a m r a i t U2S3( A r o t n C l4p5t6o7f8a i b a n l t l d o9d f o a c m v f t0c d i 4 C 3 N s b m1w2(3I t a i a f a f n C4l5o6m7(8o n c d l w h a f9o l i n r t s h o h f0o1( A p a f a C l p o8L52]
+[DELETED: c( D y w t r t v a p o t ap(f o y o l t s t y s i t afN(N0(1r2( ( D y w t d $ t p t O a T3D4( A p a f a C l p o5c6a7( ( A f a C l p o8c9d o t a t t i p o t0a1(2o3s4a5i6d7( ( E p w h a c d l8s p t t d m c a r b9s 6 T d m p n a p0m c c r f a h o1c8L52]
+[DELETED: fmSS 1  O s 3 3 3 66 a 6 R R S o N asCS 1  T f s i o r S38L52]

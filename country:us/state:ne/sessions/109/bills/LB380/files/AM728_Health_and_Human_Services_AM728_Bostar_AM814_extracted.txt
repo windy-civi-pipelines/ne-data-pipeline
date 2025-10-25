@@ -1,0 +1,866 @@
+Title: 1 1. Strike the original sections and insert the following new
+Official Title: 1 1. Strike the original sections and insert the following new
+Number of Sections: 1
+Source: versions - Health and Human Services AM728 Bostar AM814
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+AMENDMENTS TO LB380
+Introduced by Health and Human Services.
+2 sections:
+3 Section 1. Section 68-974, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 68-974 (1) One or more program integrity contractors may be used to
+6 promote the integrity of the medical assistance program, to assist with
+7 investigations and audits, or to investigate the occurrence of fraud,
+8 waste, or abuse. The contract or contracts may include services for (a)
+9 cost-avoidance through identification of third-party liability, (b) cost
+10 recovery of third-party liability through postpayment reimbursement, (c)
+11 casualty recovery of payments by identifying and recovering costs for
+12 claims that were the result of an accident or neglect and payable by a
+13 casualty insurer, and (d) reviews of claims submitted by providers of
+14 services or other individuals furnishing items and services for which
+15 payment has been made to determine whether providers have been underpaid
+16 or overpaid, and to take actions to recover any overpayments identified
+17 or make payment for any underpayment identified.
+18 (2) Notwithstanding any other provision of law, all program
+19 integrity contractors when conducting a program integrity audit,
+20 investigation, or review shall:
+21 (a) Provide clear written justification to the provider for
+22 commencing an audit;
+23 (b) Review claims within three four years from the date of the
+24 payment;
+25 (c) (b) Send a determination letter concluding an audit within one
+26 hundred eighty days after receipt of all requested material from a
+27 provider;
+-1-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (d) Furnish (c) In any records request to a provider, furnish
+2 information sufficient for the provider to identify the patient,
+3 procedure, or location in any records request to a provider. A records
+4 request shall be limited to relevant documents proportional to the
+5 services being audited as provided in subsection (12) of this section;
+6 (e)(i) (d) Develop and implement with the department a procedure
+7 with the department in which an improper payment identified by an audit
+8 may be resubmitted as a claims adjustment, including (A) (i) the
+9 resubmission of claims denied as a result of an interpretation of scope
+10 of services not previously held by the department and (B) , (ii) the
+11 resubmission of documentation when the document provided is incomplete,
+12 illegible, or unclear , and (iii) the resubmission of documentation when
+13 clerical errors resulted in a denial of claims for services actually
+14 provided.
+15 (ii) If a service was provided and sufficiently documented but
+16 denied because it was determined by the department or the contractor that
+17 a different service should have been provided, the department or the
+18 contractor shall (A) disallow the difference between the payment for the
+19 service that was provided and the payment for the service that should
+20 have been provided or (B) allow ninety days after the notice of
+21 overpayment for the provider to adjust a claim if the service was
+22 provided and sufficiently documented, but denied because it was
+23 determined by the department or contractor that a different service
+24 should have been billed;
+25 (f) (e) Utilize a licensed health care professional from the
+26 specialty area of practice being audited to establish relevant audit
+27 methodology consistent with (i) state-issued medicaid provider handbooks
+28 and (ii) established clinical practice guidelines and acceptable
+29 standards of care established by professional or specialty organizations
+30 responsible for setting such standards of care;
+31 (g) Schedule onsite audits with advance notice of not less than ten
+-2-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 business days and make a good faith effort to establish a mutually
+2 agreed-upon time and date for the onsite audit; and
+3 (h) (f) Provide a detailed written notification and explanation of
+4 an adverse determination that would result in partial or full recoupment
+5 of payment. The written notification and explanation shall include: (i)
+6 The full name of the beneficiary who received the health care services
+7 for which overpayment was made; (ii) the dates of service; (iii) the
+8 amount of the overpayment; (iv) the claim number or other identifying
+9 numbers; (v) a detailed explanation of the basis for the overpayment
+10 determination, including each finding and supporting evidence upon which
+11 the determination is based; (vi) the method in which payment was made,
+12 including, the date of payment and, if applicable, the check number;
+13 (vii) the appropriate procedure to submit a claims adjustment under
+14 subdivision (e) of this subsection; (viii) a statement that the provider
+15 may appeal the determination as provided in subsection (16) of this
+16 section; (ix) the method by which recovery of the overpayment will be
+17 made if recovery is initiated; and (x) a statement that an overpayment
+18 shall not be recouped for at least sixty days after the date of notice of
+19 adverse findings. includes the reason for the adverse determination, the
+20 medical criteria on which the adverse determination was based, an
+21 explanation of the provider's appeal rights, and, if applicable, the
+22 appropriate procedure to submit a claims adjustment in accordance with
+23 subdivision (2)(d) of this section; and
+24 (g) Schedule any onsite audits with advance notice of not less than
+25 ten business days and make a good faith effort to establish a mutually
+26 agreed-upon time and date for the onsite audit.
+27 (3) Any provision of a contract between a third-party payer and a
+28 provider or beneficiary that violates subsection (2) of this section is
+29 unenforceable.
+30 (4) (3) A program integrity contractor retained by the department or
+31 the federal Centers for Medicare and Medicaid Services shall work with
+-3-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 the department at the commencement start of a recovery audit to review
+2 this section and section 68-973 and any other relevant state policies,
+3 procedures, regulations, and guidelines regarding program integrity
+4 audits. The program integrity contractor shall comply with this section
+5 regarding audit procedures. A copy of the statutes, policies, and
+6 procedures shall be specifically maintained in the audit records to
+7 support the audit findings.
+8 (5)(a) (4) The department shall exclude from the scope of review of
+9 recovery audit contractors:
+10 (i) A any claim processed or paid through a capitated medicaid
+11 managed care program;
+12 (ii) A claim that is not a primary insurance claim; and
+13 (iii) A claim . The department shall exclude from the scope of
+14 review of program integrity contractors any claims that is are currently
+15 being audited or that has have been audited by a program integrity
+16 contractor, by the department, or by another entity.
+17 (b) Claims processed or paid through a capitated medicaid managed
+18 care program shall be coordinated between the department, the contractor,
+19 and the managed care organization. All such audits shall be coordinated
+20 as to scope, method, and timing. The contractor and the department shall
+21 avoid duplication or simultaneous audits.
+22 (c) No payment shall be recovered in a medical necessity review in
+23 which the provider has obtained prior authorization for the service and
+24 the service was performed as authorized.
+25 (6) (5) Extrapolated overpayments are not allowed under the Medical
+26 Assistance Act without evidence of a sustained pattern of error, an
+27 excessively high error rate, or the agreement of the provider.
+28 (7) (6) The department may contract with one or more persons to
+29 support a health insurance premium assistance payment program.
+30 (8) (7) The department may enter into any other contracts deemed to
+31 increase the efforts to promote the integrity of the medical assistance
+-4-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 program.
+2 (9) A contract (8) Contracts entered into under the authority of
+3 this section may be on a contingent fee basis if (a) the contract is in
+4 compliance with federal law and regulations, (b) the contingent fees are
+5 not greater than twelve and one-half percent of the amounts recovered,
+6 and (c) the contract provides that contingency fee payments are based on
+7 amounts recovered, not amounts identified. Contracts entered into on a
+8 contingent fee basis shall provide that contingent fee payments are based
+9 upon amounts recovered, not amounts identified. Whether the contract is a
+10 contingent fee contract or otherwise, the contractor shall not recover
+11 overpayments by the department until all appeals have been completed
+12 unless there is a credible allegation of fraudulent activity by the
+13 provider, the contractor has referred the claims to the department for
+14 investigation, and an investigation has commenced. In that event, the
+15 contractor may recover overpayment prior to the conclusion of the appeals
+16 process. In any contract between the department and a program integrity
+17 contractor, the payment or fee provided for identification of
+18 overpayments shall be the same provided for identification of
+19 underpayments. Contracts shall be in compliance with federal law and
+20 regulations when pertinent, including a limit on contingent fees of no
+21 more than twelve and one-half percent of amounts recovered, and initial
+22 contracts shall be entered into as soon as practicable under such federal
+23 law and regulations.
+24 (10) The payment or fee for identification of overpayments shall be
+25 the same as that for identification of underpayments in any contract
+26 between the department and a program integrity contractor. The contractor
+27 shall not recover an overpayment by the department until all appeals have
+28 been exhausted unless there is a credible allegation of provider fraud
+29 and: (a) The contractor provides the provider with a statement of the
+30 reasons for the decision, including a determination on each finding upon
+31 which such decision was based, (b) the contractor refers the claim to the
+-5-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 department for investigation, and (c) an investigation has commenced.
+2 (11) (9) All amounts recovered and savings generated as a result of
+3 this section shall be returned to the medical assistance program.
+4 (12) (10) Records requests made by a program integrity contractor in
+5 any one-hundred-eighty-day period shall be limited to not more than two
+6 hundred records for the specific service being reviewed. The contractor
+7 shall allow a provider no less than forty-five days to respond to and
+8 comply with a records request. If the contractor can demonstrate a
+9 significant provider error rate relative to an audit of records, the
+10 contractor may make a request to the department to initiate an additional
+11 records request regarding the subject under review for the purpose of
+12 further review and validation. The contractor shall not make the request
+13 until the time period for the appeals process has expired.
+14 (13) (11) On an annual basis, the department shall require the
+15 recovery audit contractor to compile and publish on the department's
+16 Internet website metrics related to the performance of each recovery
+17 audit contractor. Such metrics shall include: (a) The number and type of
+18 issues reviewed; (b) the number of medical records requested; (c) the
+19 number of overpayments and the aggregate dollar amounts associated with
+20 the overpayments identified by the contractor; (d) the number of
+21 underpayments and the aggregate dollar amounts associated with the
+22 identified underpayments; (e) the duration of audits from initiation to
+23 time of completion; (f) the number of adverse determinations and the
+24 overturn rating of those determinations in the appeal process; (g) the
+25 number of appeals filed by providers and the disposition status of such
+26 appeals; (h) the contractor's compensation structure and dollar amount of
+27 compensation; and (i) a copy of the department's contract with the
+28 recovery audit contractor.
+29 (14) (12) The program integrity contractor, in conjunction with the
+30 department, shall perform educational and training programs for providers
+31 that encompass a summary of audit results, a description of common
+-6-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 issues, problems, and mistakes identified through audits and reviews, and
+2 opportunities for improvement.
+3 (15) A provider (13) Providers shall be allowed to submit records
+4 requested as a result of an audit in electronic format, including compact
+5 disc, digital versatile disc, or other electronic format deemed
+6 appropriate by the department or via facsimile transmission, at the
+7 request of the provider.
+8 (16)(a) (14)(a) A provider shall have the right to appeal a
+9 determination made by a the program integrity contractor. The program
+10 integrity contractor shall not recoup an overpayment until all appeals
+11 have been exhausted unless there is a credible allegation of fraud and
+12 the contractor complies with the requirements in subsection (10) of this
+13 section. A program integrity contractor shall provide (i) appeal
+14 procedures and timelines at the commencement of any audit and (ii) a
+15 contact telephone number and an email address or physical address for
+16 submission of written questions regarding an audit and the appeal
+17 process. A program integrity contractor shall respond to a question
+18 submitted by a provider no later than ten business days after the date of
+19 submission.
+20 (b) The contractor shall establish an informal consultation process
+21 to be utilized prior to the issuance of a final determination. Within
+22 thirty days after receipt of notification of a preliminary finding from
+23 the contractor, the provider may request an informal consultation with
+24 the contractor to discuss and attempt to resolve the findings or portion
+25 of such findings in the preliminary findings letter. The request shall be
+26 made to the contractor. The consultation shall occur within thirty days
+27 after the provider's request for informal consultation, unless otherwise
+28 agreed to by both parties.
+29 (c) Within thirty days after notification of an adverse
+30 determination, a provider may request an administrative appeal of the
+31 adverse determination as set forth in the Administrative Procedure Act.
+-7-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (17) No later than (15) The department shall by December 1 of each
+2 year, the department shall submit an electronic report to the Legislature
+3 on the status of the contracts, including the parties, the programs and
+4 issues addressed, the estimated cost recovery, and the savings accrued as
+5 a result of the contracts. Such report shall be filed electronically.
+6 (18) (16) For purposes of this section:
+7 (a) Adverse determination means any decision rendered by a program
+8 integrity contractor or recovery audit contractor that results in a
+9 payment to a provider for a claim for service being reduced or rescinded;
+10 (b) Credible allegation of fraud means an allegation, which has been
+11 verified by the department, from any source, including, but not limited
+12 to, the following: (i) A fraud hotline tip verified by further evidence;
+13 (ii) claims data mining; or (iii) a pattern identified through provider
+14 audits, civil false claims cases, and law enforcement investigations.
+15 Allegations are credible when they have indicia of reliability and the
+16 department has reviewed all allegations, facts, and evidence carefully
+17 and acts judiciously on a case-by-case basis;
+18 (c) (b) Extrapolated overpayment means an overpayment amount
+19 obtained by calculating claims denials and reductions from a medical
+20 records review based on a statistical sampling of a claims universe;
+21 (d) Fraud means an intentional deception or misrepresentation made
+22 by a person with the knowledge that the deception could result in an
+23 unauthorized benefit to any person. It includes an act that constitutes
+24 fraud under applicable federal or state law;
+25 (e) Fraud hotline tip means a complaint or other communication
+26 submitted through a fraud reporting telephone number or website,
+27 including a fraud hotline administered by a health plan or the federal
+28 Department of Health and Human Services Office of Inspector General;
+29 (f) (c) Person means bodies politic and corporate, societies,
+30 communities, the public generally, individuals, partnerships, limited
+31 liability companies, joint-stock companies, and associations;
+-8-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (g) (d) Program integrity audit means an audit conducted by the
+2 federal Centers for Medicare and Medicaid Services, the department, or
+3 the federal Centers for Medicare and Medicaid Services with the
+4 coordination and cooperation of the department;
+5 (h) (e) Program integrity contractor means private entities with
+6 which the department or the federal Centers for Medicare and Medicaid
+7 Services contracts to carry out integrity responsibilities under the
+8 medical assistance program, including, but not limited to, recovery
+9 audits, integrity audits, and unified program integrity audits, in order
+10 to identify underpayments and overpayments and recoup overpayments; and
+11 (i) (f) Recovery audit contractor means private entities with which
+12 the department contracts to audit claims for medical assistance, identify
+13 underpayments and overpayments, and recoup overpayments.
+14 Sec. 2. Section 68-995, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 68-995 (1) All contracts and agreements relating to the medical
+17 assistance program governing at-risk managed care service delivery for
+18 health services entered into by the department and existing on or after
+19 August 11, 2020, shall:
+20 (a) (1) Provide a definition and cap on administrative spending such
+21 that (i) (a) administrative expenditures do not include profit greater
+22 than the contracted amount, (ii) (b) any administrative spending is
+23 necessary to improve the health status of the population to be served,
+24 and (iii) (c) administrative expenditures do not include contractor
+25 incentives. Administrative spending shall not under any circumstances
+26 exceed twelve percent. Such spending shall be tracked by the contractor
+27 and reported quarterly to the department and electronically to the Clerk
+28 of the Legislature;
+29 (b) (2) Provide a definition of annual contractor profits and losses
+30 and restrict such profits and losses under the contract so that profit
+31 shall not exceed a percentage specified by the department but not more
+-9-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 than three percent per year as a percentage of the aggregate of all
+2 income and revenue earned by the contractor and related parties,
+3 including parent and subsidiary companies and risk-bearing partners,
+4 under the contract;
+5 (c) (3) Provide for return of (i) (a) any remittance if the
+6 contractor does not meet the minimum medical loss ratio, (ii) (b) any
+7 unearned incentive funds, and (iii) (c) any other funds in excess of the
+8 contractor limitations identified in state or federal statute or contract
+9 to the State Treasurer for credit to the Medicaid Managed Care Excess
+10 Profit Fund;
+11 (d) (4) Provide for a minimum medical loss ratio of eighty-five
+12 percent of the aggregate of all income and revenue earned by the
+13 contractor and related parties under the contract;
+14 (e) (5) Provide that contractor incentives, in addition to potential
+15 profit, be up to two percent of the aggregate of all income and revenue
+16 earned by the contractor and related parties under the contract; and
+17 (f) (6) Be reviewed and awarded competitively and in full compliance
+18 with the procurement requirements of the State of Nebraska.
+19 (2) A contractor shall:
+20 (a) Not impose quantitative treatment limitations, or financial
+21 restrictions, limitations, or requirements, on the provision of mental
+22 health or substance use disorder services that are more restrictive than
+23 the predominant restrictions, limitations, or requirements imposed on
+24 substantially all benefit coverage for other conditions;
+25 (b) Maintain an adequate provider network to provide mental health
+26 and substance use disorder services;
+27 (c) Apply criteria in accordance with generally recognized standards
+28 of care and make utilization review policies available to the public,
+29 providers, and recipients through electronic or paper means when
+30 performing a utilization review of mental health or substance use
+31 disorder services; and
+-10-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (d) Not rescind or modify an authorization for a mental health or
+2 substance use disorder service after the provider renders the service
+3 pursuant to a determination of medical necessity, except in cases of
+4 fraud or a violation of a provider's contract with a health insurer.
+5 Sec. 3. Section 68-996, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 68-996 (1) The Medicaid Managed Care Excess Profit Fund is created.
+8 The fund shall contain money returned to the State Treasurer pursuant to
+9 subdivision (1)(c) (3) of section 68-995.
+10 (2) The fund shall first be used to offset any losses under
+11 subdivision (1)(b) (2) of section 68-995 and then to provide for (a)
+12 services addressing the health needs of adults and children under the
+13 Medical Assistance Act, including filling service gaps, (b) providing
+14 system improvements, (c) providing evidence-based early intervention home
+15 visitation programs, (d) providing medical respite services, (e)
+16 translation and interpretation services, (f) providing coverage for
+17 continuous glucose monitors as described in section 68-911, (g) providing
+18 other services sustaining access to care, (h) the Nebraska Prenatal Plus
+19 Program, and (i) providing grants pursuant to the Intergenerational Care
+20 Facility Incentive Grant Program as determined by the Legislature. The
+21 fund shall only be used for the purposes described in this section.
+22 (3) Any money in the fund available for investment shall be invested
+23 by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act. Beginning
+25 October 1, 2024, any investment earnings from investment of money in the
+26 fund shall be credited to the General Fund.
+27 Sec. 4. The Division of Medicaid and Long-Term Care of the
+28 Department of Health and Human Services shall:
+29 (1) Require contractor compliance with federal and state laws and
+30 rules and regulations applicable to coverage for mental health or
+31 substance use disorder services including early and periodic screening
+-11-
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 and diagnostic and treatment services for children and youth in the
+2 medical assistance program;
+3 (2) Make public the surveys, financial analyses, and contract audits
+4 and parity reports prepared by a contractor and the results of parity
+5 compliance reports;
+6 (3) Ensure access to mental health and substance use disorder
+7 service providers, including access parity with medical and surgical
+8 service providers, through regulation and review of claims, provider
+9 reimbursement procedures, network adequacy, and provider reimbursement
+10 rate adequacy;
+11 (4) Establish a monthly electronic communication system with all
+12 health care providers in the medical assistance program relating to any
+13 amendment or other change in the contracts with medicaid managed care
+14 organizations;
+15 (5) Define network adequacy; and
+16 (6) Annually post criteria used by the Division of Medicaid and
+17 Long-Term Care to assess network adequacy and each managed care
+18 organization's compliance on the Department of Health and Human Services
+19 website.
+20 Sec. 5. Original sections 68-974, 68-995, and 68-996, Revised
+21 Statutes Cumulative Supplement, 2024, are repealed.
+-12-
+[DELETED: yH1 S t o s a i t f nsS 1 S 6 R S C S26pi a a o t i t o o fwc0r1c r o p b i a r c f2c3c i a ( r o c s b p o4s o o i f i a s f w5p6o7o8( N a o p o l a p9i c w c a p i a0i1( P c w j t t p f2c3( R c w t f y f t d o t4p5(6h e d a r o a r m f 7p8A0L5D]
+[DELETED: ( F ( I a r r t a p fi s f t p t i t ppr s b l t r d p t ts( ( D a i w t d a pwm b r a a c a i ( ( tr0o s n p h b t d a ( , ( t1r2i3c e r i a d o c f s a4p5( I a s w p a s d b6d7a d s s h b p t d o t8c9s t w p a t p f t s t s0h b p o ( a n d a t n o1o f t p t a a c i t s w2p a s d b d b i w3d b t d o c t a d s4s5( ( U a l h c p f t6s a o p b a t e r a7m8a ( e c p g a a9s0r1(8A0L5D]
+[DELETED: b d a m a g f e t e a ma(aoTf w o w m ( t d o s ( ta o t o ( t c n o o in ( a d e o t b f t o0d1t2i t d o p a i a t c n3( t a p t s a c a u4s5m a t d a p i s ( o t6s ( t m b w r o t o w b7m8s9a0m c o w t a d w b a1e o t p a r a i a t2a p t s a c a i a w3s4(5t6a7(8p9u0(1t8A0L5D]
+[DELETED: ttp r a g r p iar a p A c o t s p ap s b s m i t a r ts(r0( A a c p o p t a c m1m2(3( A c . T d s e f t s o4r5b a o t h h b a b a p i6c7( C p o p t a c m m8c9a0a1a2(3w4t5(6A A w e o a s p o e a7e8( ( T d m c w o o m p t9s0(1i8A0L5D]
+[DELETED: p( A c ( C e i u t a otcnaa r n a i C e i o cu0c f c o o t c s n r1o b t d u a a h b c2u t i a c a o f a b t3p4i a a i h c I t e t5c6p7c t p o f p f i o8o s b t s p f i o9u C s b i c w f l a0r1m2c3l4(5t s a t f i o u i a c6b7s8b9a ( T c p t p w a s o t0r1w8A0L5D]
+[DELETED: d(t(ahs a a p n l t f d t r t ac w a r r I t c c d s p e r r t a a o r t0c1r r r t s u r f t p o2f3u4( ( O a a b t d s r t5r a c t c a p o t d6I w m r t t p o e r7a8i r ( t n o m r r ( t9n0t o i b t c ( t n o1u a t a d a a w t2i3t o c ( t n o a d a t4o5n6a7c a ( a c o t d c w t8r9(0d1t e a s o a r a d o c8A0L5D]
+[DELETED: io( A p ( P s b a t s rrd d v d o o e f da b t d o v f t a tr( ( A p s h t r t a d m b a t p i c T p0i c s n r a o u a a1h2t3s A p i c s p ( a4p a t a t c o a a a ( 5c t n a a e a o p a f6s o w q r a a a t a7p A p i c s r t a q8s9s0(1t b u p t t i o a f d W2t3t c t p m r a i c w4t5o6m7a8a9( W t d a n o a a0d a p m r a a a o t1a8A0L5D]
+[DELETED: (yoia((i c o r a c t r i p0(1v2t3(4a c f c c a l e i5A6d h r a a f a e c7a8( ( E o m a o a9o b c c d a r f a m0r1(2b a p w t k t t d c r i a3u4f5( F h t m a c o o c6s t a f r t n o w7i8D9( ( P m b p a c s0c t p g i p l1l8A0L5D]
+[DELETED: ( ( P i a m a a c b tf C f M a M S t d ot f C f M a M S w tc( ( P i c m p e ww t d o t f C f M a MS c t c o i r u tm a p i b n l t ra0t1(2t3u4S 2 S 6 R S C S5266 ( A c a a r t t m7a p g a m c s d f8h9A0(1t ( ( a e d n i p g2t t c a ( ( a a s i3n4a ( ( a e d n i c5i A s s n u a c6e7a8o9(0a1s8A0L5D]
+[DELETED: t t p p y a a p o t a o ai a r e b t c a r pi p a s c a r pu( ( P f r o ( ( a r i tc d n m t m m l r ( ( auct t S T f c t t M M C E0P1( ( P f a m m l r o e2p o t a o a i a r e b t3c4(5p6e7(8w9(0( N i q t l o f1r l o r o t p o m2h3t p r l o r i o4s5(6a7(8o c a m u r p a t t p9p a r t e o p m w0p a u r o m h o s u1d8A0L5D]
+[DELETED: (s u d s a t p r t sp t a d o m n e i c ofS 3 S 6 R S C S26Ts0( T f s f b u t o a l u1s ( ( o s 6 a t t p f (2s a t h n o a a c u t3M A A i f s g ( p4s5v p ( p m r s (6t a i s ( p c f7c8o9P0F I G P a d b t L T1f2(3b t s i o p t t N C4E A a t N S F I A B5O6f7S 4  T D o M a L C o t8D9( R c c w f a s l a0r a r a t c f m h o1s u d s i e a p s8A0L5D]
+[DELETED: a d a t s f c a y i tm(a p r p b a c a t r o pc( E a t m h a s u ds p i a p w m a ss p t r a r o c pr p n a a p r0r1( E a m e c s w a2h3a o o c i t c w m m c4o5(6( A p c u b t D o M a7L C t a n a a e m c8o9w0S 5  O s 6 6 a 6 R1S8A0L5D]
+
+
+================================================================================
+
+Raw Text:
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+AMENDMENTS TO LB380
+Introduced by Health and Human Services.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Section 68-974, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 68-974 (1) One or more program integrity contractors may be used to
+6 promote the integrity of the medical assistance program, to assist with
+7 investigations and audits, or to investigate the occurrence of fraud,
+8 waste, or abuse. The contract or contracts may include services for (a)
+9 cost-avoidance through identification of third-party liability, (b) cost
+10 recovery of third-party liability through postpayment reimbursement, (c)
+11 casualty recovery of payments by identifying and recovering costs for
+12 claims that were the result of an accident or neglect and payable by a
+13 casualty insurer, and (d) reviews of claims submitted by providers of
+14 services or other individuals furnishing items and services for which
+15 payment has been made to determine whether providers have been underpaid
+16 or overpaid, and to take actions to recover any overpayments identified
+17 or make payment for any underpayment identified.
+18 (2) Notwithstanding any other provision of law, all program
+19 integrity contractors when conducting a program integrity audit,
+20 investigation, or review shall:
+21 (a) Provide clear written justification to the provider for
+22 commencing an audit;
+23 (b) Review claims within three four years from the date of the
+24 payment;
+25 (c) (b) Send a determination letter concluding an audit within one
+26 hundred eighty days after receipt of all requested material from a
+27 provider;
+-1-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (d) Furnish (c) In any records request to a provider, furnish
+2 information sufficient for the provider to identify the patient,
+3 procedure, or location in any records request to a provider. A records
+4 request shall be limited to relevant documents proportional to the
+5 services being audited as provided in subsection (12) of this section;
+6 (e)(i) (d) Develop and implement with the department a procedure
+7 with the department in which an improper payment identified by an audit
+8 may be resubmitted as a claims adjustment, including (A) (i) the
+9 resubmission of claims denied as a result of an interpretation of scope
+10 of services not previously held by the department and (B) , (ii) the
+11 resubmission of documentation when the document provided is incomplete,
+12 illegible, or unclear , and (iii) the resubmission of documentation when
+13 clerical errors resulted in a denial of claims for services actually
+14 provided.
+15 (ii) If a service was provided and sufficiently documented but
+16 denied because it was determined by the department or the contractor that
+17 a different service should have been provided, the department or the
+18 contractor shall (A) disallow the difference between the payment for the
+19 service that was provided and the payment for the service that should
+20 have been provided or (B) allow ninety days after the notice of
+21 overpayment for the provider to adjust a claim if the service was
+22 provided and sufficiently documented, but denied because it was
+23 determined by the department or contractor that a different service
+24 should have been billed;
+25 (f) (e) Utilize a licensed health care professional from the
+26 specialty area of practice being audited to establish relevant audit
+27 methodology consistent with (i) state-issued medicaid provider handbooks
+28 and (ii) established clinical practice guidelines and acceptable
+29 standards of care established by professional or specialty organizations
+30 responsible for setting such standards of care;
+31 (g) Schedule onsite audits with advance notice of not less than ten
+-2-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 business days and make a good faith effort to establish a mutually
+2 agreed-upon time and date for the onsite audit; and
+3 (h) (f) Provide a detailed written notification and explanation of
+4 an adverse determination that would result in partial or full recoupment
+5 of payment. The written notification and explanation shall include: (i)
+6 The full name of the beneficiary who received the health care services
+7 for which overpayment was made; (ii) the dates of service; (iii) the
+8 amount of the overpayment; (iv) the claim number or other identifying
+9 numbers; (v) a detailed explanation of the basis for the overpayment
+10 determination, including each finding and supporting evidence upon which
+11 the determination is based; (vi) the method in which payment was made,
+12 including, the date of payment and, if applicable, the check number;
+13 (vii) the appropriate procedure to submit a claims adjustment under
+14 subdivision (e) of this subsection; (viii) a statement that the provider
+15 may appeal the determination as provided in subsection (16) of this
+16 section; (ix) the method by which recovery of the overpayment will be
+17 made if recovery is initiated; and (x) a statement that an overpayment
+18 shall not be recouped for at least sixty days after the date of notice of
+19 adverse findings. includes the reason for the adverse determination, the
+20 medical criteria on which the adverse determination was based, an
+21 explanation of the provider's appeal rights, and, if applicable, the
+22 appropriate procedure to submit a claims adjustment in accordance with
+23 subdivision (2)(d) of this section; and
+24 (g) Schedule any onsite audits with advance notice of not less than
+25 ten business days and make a good faith effort to establish a mutually
+26 agreed-upon time and date for the onsite audit.
+27 (3) Any provision of a contract between a third-party payer and a
+28 provider or beneficiary that violates subsection (2) of this section is
+29 unenforceable.
+30 (4) (3) A program integrity contractor retained by the department or
+31 the federal Centers for Medicare and Medicaid Services shall work with
+-3-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 the department at the commencement start of a recovery audit to review
+2 this section and section 68-973 and any other relevant state policies,
+3 procedures, regulations, and guidelines regarding program integrity
+4 audits. The program integrity contractor shall comply with this section
+5 regarding audit procedures. A copy of the statutes, policies, and
+6 procedures shall be specifically maintained in the audit records to
+7 support the audit findings.
+8 (5)(a) (4) The department shall exclude from the scope of review of
+9 recovery audit contractors:
+10 (i) A any claim processed or paid through a capitated medicaid
+11 managed care program;
+12 (ii) A claim that is not a primary insurance claim; and
+13 (iii) A claim . The department shall exclude from the scope of
+14 review of program integrity contractors any claims that is are currently
+15 being audited or that has have been audited by a program integrity
+16 contractor, by the department, or by another entity.
+17 (b) Claims processed or paid through a capitated medicaid managed
+18 care program shall be coordinated between the department, the contractor,
+19 and the managed care organization. All such audits shall be coordinated
+20 as to scope, method, and timing. The contractor and the department shall
+21 avoid duplication or simultaneous audits.
+22 (c) No payment shall be recovered in a medical necessity review in
+23 which the provider has obtained prior authorization for the service and
+24 the service was performed as authorized.
+25 (6) (5) Extrapolated overpayments are not allowed under the Medical
+26 Assistance Act without evidence of a sustained pattern of error, an
+27 excessively high error rate, or the agreement of the provider.
+28 (7) (6) The department may contract with one or more persons to
+29 support a health insurance premium assistance payment program.
+30 (8) (7) The department may enter into any other contracts deemed to
+31 increase the efforts to promote the integrity of the medical assistance
+-4-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 program.
+2 (9) A contract (8) Contracts entered into under the authority of
+3 this section may be on a contingent fee basis if (a) the contract is in
+4 compliance with federal law and regulations, (b) the contingent fees are
+5 not greater than twelve and one-half percent of the amounts recovered,
+6 and (c) the contract provides that contingency fee payments are based on
+7 amounts recovered, not amounts identified. Contracts entered into on a
+8 contingent fee basis shall provide that contingent fee payments are based
+9 upon amounts recovered, not amounts identified. Whether the contract is a
+10 contingent fee contract or otherwise, the contractor shall not recover
+11 overpayments by the department until all appeals have been completed
+12 unless there is a credible allegation of fraudulent activity by the
+13 provider, the contractor has referred the claims to the department for
+14 investigation, and an investigation has commenced. In that event, the
+15 contractor may recover overpayment prior to the conclusion of the appeals
+16 process. In any contract between the department and a program integrity
+17 contractor, the payment or fee provided for identification of
+18 overpayments shall be the same provided for identification of
+19 underpayments. Contracts shall be in compliance with federal law and
+20 regulations when pertinent, including a limit on contingent fees of no
+21 more than twelve and one-half percent of amounts recovered, and initial
+22 contracts shall be entered into as soon as practicable under such federal
+23 law and regulations.
+24 (10) The payment or fee for identification of overpayments shall be
+25 the same as that for identification of underpayments in any contract
+26 between the department and a program integrity contractor. The contractor
+27 shall not recover an overpayment by the department until all appeals have
+28 been exhausted unless there is a credible allegation of provider fraud
+29 and: (a) The contractor provides the provider with a statement of the
+30 reasons for the decision, including a determination on each finding upon
+31 which such decision was based, (b) the contractor refers the claim to the
+-5-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 department for investigation, and (c) an investigation has commenced.
+2 (11) (9) All amounts recovered and savings generated as a result of
+3 this section shall be returned to the medical assistance program.
+4 (12) (10) Records requests made by a program integrity contractor in
+5 any one-hundred-eighty-day period shall be limited to not more than two
+6 hundred records for the specific service being reviewed. The contractor
+7 shall allow a provider no less than forty-five days to respond to and
+8 comply with a records request. If the contractor can demonstrate a
+9 significant provider error rate relative to an audit of records, the
+10 contractor may make a request to the department to initiate an additional
+11 records request regarding the subject under review for the purpose of
+12 further review and validation. The contractor shall not make the request
+13 until the time period for the appeals process has expired.
+14 (13) (11) On an annual basis, the department shall require the
+15 recovery audit contractor to compile and publish on the department's
+16 Internet website metrics related to the performance of each recovery
+17 audit contractor. Such metrics shall include: (a) The number and type of
+18 issues reviewed; (b) the number of medical records requested; (c) the
+19 number of overpayments and the aggregate dollar amounts associated with
+20 the overpayments identified by the contractor; (d) the number of
+21 underpayments and the aggregate dollar amounts associated with the
+22 identified underpayments; (e) the duration of audits from initiation to
+23 time of completion; (f) the number of adverse determinations and the
+24 overturn rating of those determinations in the appeal process; (g) the
+25 number of appeals filed by providers and the disposition status of such
+26 appeals; (h) the contractor's compensation structure and dollar amount of
+27 compensation; and (i) a copy of the department's contract with the
+28 recovery audit contractor.
+29 (14) (12) The program integrity contractor, in conjunction with the
+30 department, shall perform educational and training programs for providers
+31 that encompass a summary of audit results, a description of common
+-6-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 issues, problems, and mistakes identified through audits and reviews, and
+2 opportunities for improvement.
+3 (15) A provider (13) Providers shall be allowed to submit records
+4 requested as a result of an audit in electronic format, including compact
+5 disc, digital versatile disc, or other electronic format deemed
+6 appropriate by the department or via facsimile transmission, at the
+7 request of the provider.
+8 (16)(a) (14)(a) A provider shall have the right to appeal a
+9 determination made by a the program integrity contractor. The program
+10 integrity contractor shall not recoup an overpayment until all appeals
+11 have been exhausted unless there is a credible allegation of fraud and
+12 the contractor complies with the requirements in subsection (10) of this
+13 section. A program integrity contractor shall provide (i) appeal
+14 procedures and timelines at the commencement of any audit and (ii) a
+15 contact telephone number and an email address or physical address for
+16 submission of written questions regarding an audit and the appeal
+17 process. A program integrity contractor shall respond to a question
+18 submitted by a provider no later than ten business days after the date of
+19 submission.
+20 (b) The contractor shall establish an informal consultation process
+21 to be utilized prior to the issuance of a final determination. Within
+22 thirty days after receipt of notification of a preliminary finding from
+23 the contractor, the provider may request an informal consultation with
+24 the contractor to discuss and attempt to resolve the findings or portion
+25 of such findings in the preliminary findings letter. The request shall be
+26 made to the contractor. The consultation shall occur within thirty days
+27 after the provider's request for informal consultation, unless otherwise
+28 agreed to by both parties.
+29 (c) Within thirty days after notification of an adverse
+30 determination, a provider may request an administrative appeal of the
+31 adverse determination as set forth in the Administrative Procedure Act.
+-7-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (17) No later than (15) The department shall by December 1 of each
+2 year, the department shall submit an electronic report to the Legislature
+3 on the status of the contracts, including the parties, the programs and
+4 issues addressed, the estimated cost recovery, and the savings accrued as
+5 a result of the contracts. Such report shall be filed electronically.
+6 (18) (16) For purposes of this section:
+7 (a) Adverse determination means any decision rendered by a program
+8 integrity contractor or recovery audit contractor that results in a
+9 payment to a provider for a claim for service being reduced or rescinded;
+10 (b) Credible allegation of fraud means an allegation, which has been
+11 verified by the department, from any source, including, but not limited
+12 to, the following: (i) A fraud hotline tip verified by further evidence;
+13 (ii) claims data mining; or (iii) a pattern identified through provider
+14 audits, civil false claims cases, and law enforcement investigations.
+15 Allegations are credible when they have indicia of reliability and the
+16 department has reviewed all allegations, facts, and evidence carefully
+17 and acts judiciously on a case-by-case basis;
+18 (c) (b) Extrapolated overpayment means an overpayment amount
+19 obtained by calculating claims denials and reductions from a medical
+20 records review based on a statistical sampling of a claims universe;
+21 (d) Fraud means an intentional deception or misrepresentation made
+22 by a person with the knowledge that the deception could result in an
+23 unauthorized benefit to any person. It includes an act that constitutes
+24 fraud under applicable federal or state law;
+25 (e) Fraud hotline tip means a complaint or other communication
+26 submitted through a fraud reporting telephone number or website,
+27 including a fraud hotline administered by a health plan or the federal
+28 Department of Health and Human Services Office of Inspector General;
+29 (f) (c) Person means bodies politic and corporate, societies,
+30 communities, the public generally, individuals, partnerships, limited
+31 liability companies, joint-stock companies, and associations;
+-8-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (g) (d) Program integrity audit means an audit conducted by the
+2 federal Centers for Medicare and Medicaid Services, the department, or
+3 the federal Centers for Medicare and Medicaid Services with the
+4 coordination and cooperation of the department;
+5 (h) (e) Program integrity contractor means private entities with
+6 which the department or the federal Centers for Medicare and Medicaid
+7 Services contracts to carry out integrity responsibilities under the
+8 medical assistance program, including, but not limited to, recovery
+9 audits, integrity audits, and unified program integrity audits, in order
+10 to identify underpayments and overpayments and recoup overpayments; and
+11 (i) (f) Recovery audit contractor means private entities with which
+12 the department contracts to audit claims for medical assistance, identify
+13 underpayments and overpayments, and recoup overpayments.
+14 Sec. 2. Section 68-995, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 68-995 (1) All contracts and agreements relating to the medical
+17 assistance program governing at-risk managed care service delivery for
+18 health services entered into by the department and existing on or after
+19 August 11, 2020, shall:
+20 (a) (1) Provide a definition and cap on administrative spending such
+21 that (i) (a) administrative expenditures do not include profit greater
+22 than the contracted amount, (ii) (b) any administrative spending is
+23 necessary to improve the health status of the population to be served,
+24 and (iii) (c) administrative expenditures do not include contractor
+25 incentives. Administrative spending shall not under any circumstances
+26 exceed twelve percent. Such spending shall be tracked by the contractor
+27 and reported quarterly to the department and electronically to the Clerk
+28 of the Legislature;
+29 (b) (2) Provide a definition of annual contractor profits and losses
+30 and restrict such profits and losses under the contract so that profit
+31 shall not exceed a percentage specified by the department but not more
+-9-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 than three percent per year as a percentage of the aggregate of all
+2 income and revenue earned by the contractor and related parties,
+3 including parent and subsidiary companies and risk-bearing partners,
+4 under the contract;
+5 (c) (3) Provide for return of (i) (a) any remittance if the
+6 contractor does not meet the minimum medical loss ratio, (ii) (b) any
+7 unearned incentive funds, and (iii) (c) any other funds in excess of the
+8 contractor limitations identified in state or federal statute or contract
+9 to the State Treasurer for credit to the Medicaid Managed Care Excess
+10 Profit Fund;
+11 (d) (4) Provide for a minimum medical loss ratio of eighty-five
+12 percent of the aggregate of all income and revenue earned by the
+13 contractor and related parties under the contract;
+14 (e) (5) Provide that contractor incentives, in addition to potential
+15 profit, be up to two percent of the aggregate of all income and revenue
+16 earned by the contractor and related parties under the contract; and
+17 (f) (6) Be reviewed and awarded competitively and in full compliance
+18 with the procurement requirements of the State of Nebraska.
+19 (2) A contractor shall:
+20 (a) Not impose quantitative treatment limitations, or financial
+21 restrictions, limitations, or requirements, on the provision of mental
+22 health or substance use disorder services that are more restrictive than
+23 the predominant restrictions, limitations, or requirements imposed on
+24 substantially all benefit coverage for other conditions;
+25 (b) Maintain an adequate provider network to provide mental health
+26 and substance use disorder services;
+27 (c) Apply criteria in accordance with generally recognized standards
+28 of care and make utilization review policies available to the public,
+29 providers, and recipients through electronic or paper means when
+30 performing a utilization review of mental health or substance use
+31 disorder services; and
+-10-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 (d) Not rescind or modify an authorization for a mental health or
+2 substance use disorder service after the provider renders the service
+3 pursuant to a determination of medical necessity, except in cases of
+4 fraud or a violation of a provider's contract with a health insurer.
+5 Sec. 3. Section 68-996, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 68-996 (1) The Medicaid Managed Care Excess Profit Fund is created.
+8 The fund shall contain money returned to the State Treasurer pursuant to
+9 subdivision (1)(c) (3) of section 68-995.
+10 (2) The fund shall first be used to offset any losses under
+11 subdivision (1)(b) (2) of section 68-995 and then to provide for (a)
+12 services addressing the health needs of adults and children under the
+13 Medical Assistance Act, including filling service gaps, (b) providing
+14 system improvements, (c) providing evidence-based early intervention home
+15 visitation programs, (d) providing medical respite services, (e)
+16 translation and interpretation services, (f) providing coverage for
+17 continuous glucose monitors as described in section 68-911, (g) providing
+18 other services sustaining access to care, (h) the Nebraska Prenatal Plus
+19 Program, and (i) providing grants pursuant to the Intergenerational Care
+20 Facility Incentive Grant Program as determined by the Legislature. The
+21 fund shall only be used for the purposes described in this section.
+22 (3) Any money in the fund available for investment shall be invested
+23 by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act. Beginning
+25 October 1, 2024, any investment earnings from investment of money in the
+26 fund shall be credited to the General Fund.
+27 Sec. 4. The Division of Medicaid and Long-Term Care of the
+28 Department of Health and Human Services shall:
+29 (1) Require contractor compliance with federal and state laws and
+30 rules and regulations applicable to coverage for mental health or
+31 substance use disorder services including early and periodic screening
+-11-
+
+AM728 AM728
+LB380 LB380
+DLM - 03/18/2025 DLM - 03/18/2025
+1 and diagnostic and treatment services for children and youth in the
+2 medical assistance program;
+3 (2) Make public the surveys, financial analyses, and contract audits
+4 and parity reports prepared by a contractor and the results of parity
+5 compliance reports;
+6 (3) Ensure access to mental health and substance use disorder
+7 service providers, including access parity with medical and surgical
+8 service providers, through regulation and review of claims, provider
+9 reimbursement procedures, network adequacy, and provider reimbursement
+10 rate adequacy;
+11 (4) Establish a monthly electronic communication system with all
+12 health care providers in the medical assistance program relating to any
+13 amendment or other change in the contracts with medicaid managed care
+14 organizations;
+15 (5) Define network adequacy; and
+16 (6) Annually post criteria used by the Division of Medicaid and
+17 Long-Term Care to assess network adequacy and each managed care
+18 organization's compliance on the Department of Health and Human Services
+19 website.
+20 Sec. 5. Original sections 68-974, 68-995, and 68-996, Revised
+21 Statutes Cumulative Supplement, 2024, are repealed.
+-12-
+
+[DELETED: yH1 S t o s a i t f nsS 1 S 6 R S C S26pi a a o t i t o o fwc0r1c r o p b i a r c f2c3c i a ( r o c s b p o4s o o i f i a s f w5p6o7o8( N a o p o l a p9i c w c a p i a0i1( P c w j t t p f2c3( R c w t f y f t d o t4p5(6h e d a r o a r m f 7p8A0L5D]
+[DELETED: ( F ( I a r r t a p fi s f t p t i t ppr s b l t r d p t ts( ( D a i w t d a pwm b r a a c a i ( ( tr0o s n p h b t d a ( , ( t1r2i3c e r i a d o c f s a4p5( I a s w p a s d b6d7a d s s h b p t d o t8c9s t w p a t p f t s t s0h b p o ( a n d a t n o1o f t p t a a c i t s w2p a s d b d b i w3d b t d o c t a d s4s5( ( U a l h c p f t6s a o p b a t e r a7m8a ( e c p g a a9s0r1(8A0L5D]
+[DELETED: b d a m a g f e t e a ma(aoTf w o w m ( t d o s ( ta o t o ( t c n o o in ( a d e o t b f t o0d1t2i t d o p a i a t c n3( t a p t s a c a u4s5m a t d a p i s ( o t6s ( t m b w r o t o w b7m8s9a0m c o w t a d w b a1e o t p a r a i a t2a p t s a c a i a w3s4(5t6a7(8p9u0(1t8A0L5D]
+[DELETED: ttp r a g r p iar a p A c o t s p ap s b s m i t a r ts(r0( A a c p o p t a c m1m2(3( A c . T d s e f t s o4r5b a o t h h b a b a p i6c7( C p o p t a c m m8c9a0a1a2(3w4t5(6A A w e o a s p o e a7e8( ( T d m c w o o m p t9s0(1i8A0L5D]
+[DELETED: p( A c ( C e i u t a otcnaa r n a i C e i o cu0c f c o o t c s n r1o b t d u a a h b c2u t i a c a o f a b t3p4i a a i h c I t e t5c6p7c t p o f p f i o8o s b t s p f i o9u C s b i c w f l a0r1m2c3l4(5t s a t f i o u i a c6b7s8b9a ( T c p t p w a s o t0r1w8A0L5D]
+[DELETED: d(t(ahs a a p n l t f d t r t ac w a r r I t c c d s p e r r t a a o r t0c1r r r t s u r f t p o2f3u4( ( O a a b t d s r t5r a c t c a p o t d6I w m r t t p o e r7a8i r ( t n o m r r ( t9n0t o i b t c ( t n o1u a t a d a a w t2i3t o c ( t n o a d a t4o5n6a7c a ( a c o t d c w t8r9(0d1t e a s o a r a d o c8A0L5D]
+[DELETED: io( A p ( P s b a t s rrd d v d o o e f da b t d o v f t a tr( ( A p s h t r t a d m b a t p i c T p0i c s n r a o u a a1h2t3s A p i c s p ( a4p a t a t c o a a a ( 5c t n a a e a o p a f6s o w q r a a a t a7p A p i c s r t a q8s9s0(1t b u p t t i o a f d W2t3t c t p m r a i c w4t5o6m7a8a9( W t d a n o a a0d a p m r a a a o t1a8A0L5D]
+[DELETED: (yoia((i c o r a c t r i p0(1v2t3(4a c f c c a l e i5A6d h r a a f a e c7a8( ( E o m a o a9o b c c d a r f a m0r1(2b a p w t k t t d c r i a3u4f5( F h t m a c o o c6s t a f r t n o w7i8D9( ( P m b p a c s0c t p g i p l1l8A0L5D]
+[DELETED: ( ( P i a m a a c b tf C f M a M S t d ot f C f M a M S w tc( ( P i c m p e ww t d o t f C f M a MS c t c o i r u tm a p i b n l t ra0t1(2t3u4S 2 S 6 R S C S5266 ( A c a a r t t m7a p g a m c s d f8h9A0(1t ( ( a e d n i p g2t t c a ( ( a a s i3n4a ( ( a e d n i c5i A s s n u a c6e7a8o9(0a1s8A0L5D]
+[DELETED: t t p p y a a p o t a o ai a r e b t c a r pi p a s c a r pu( ( P f r o ( ( a r i tc d n m t m m l r ( ( auct t S T f c t t M M C E0P1( ( P f a m m l r o e2p o t a o a i a r e b t3c4(5p6e7(8w9(0( N i q t l o f1r l o r o t p o m2h3t p r l o r i o4s5(6a7(8o c a m u r p a t t p9p a r t e o p m w0p a u r o m h o s u1d8A0L5D]
+[DELETED: (s u d s a t p r t sp t a d o m n e i c ofS 3 S 6 R S C S26Ts0( T f s f b u t o a l u1s ( ( o s 6 a t t p f (2s a t h n o a a c u t3M A A i f s g ( p4s5v p ( p m r s (6t a i s ( p c f7c8o9P0F I G P a d b t L T1f2(3b t s i o p t t N C4E A a t N S F I A B5O6f7S 4  T D o M a L C o t8D9( R c c w f a s l a0r a r a t c f m h o1s u d s i e a p s8A0L5D]
+[DELETED: a d a t s f c a y i tm(a p r p b a c a t r o pc( E a t m h a s u ds p i a p w m a ss p t r a r o c pr p n a a p r0r1( E a m e c s w a2h3a o o c i t c w m m c4o5(6( A p c u b t D o M a7L C t a n a a e m c8o9w0S 5  O s 6 6 a 6 R1S8A0L5D]

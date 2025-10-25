@@ -1,0 +1,869 @@
+Title: LEGISLATIVE BILL 43
+Official Title: LEGISLATIVE BILL 43
+Number of Sections: 8
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB43 LB43
+2025 2025
+Approved by the Governor February 25, 2025
+Introduced by DeKay, 40; Hardin, 48.
+A BILL FOR AN ACT relating to electricity; to amend sections 70-1001.01,
+70-1012, 70-1014.02, and 70-1015, Revised Statutes Cumulative Supplement,
+2024; to define and redefine terms; to change provisions relating to
+notice and certification requirements for electric generation facilities,
+transmission lines, and privately developed renewable energy generation
+facilities located near military installations; to harmonize provisions;
+to repeal the original sections; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+
+Section 2:
+Section 1. Section 70-1001.01, Revised Statutes Cumulative Supplement,
+2024, is amended to read:
+70-1001.01 For purposes of sections 70-1001 to 70-1028.02, unless the
+context otherwise requires:
+(1) Board means the Nebraska Power Review Board;
+(2) Commercial electric vehicle charging station means equipment designed
+to provide electricity for a fee for the charging of an electric vehicle or a
+plug-in hybrid electric vehicle, including an electric vehicle direct-current
+charger or a super-fast charger, any successor technology, and all components
+thereof. Commercial electric vehicle charging station does not include the
+residence of a person where an electric vehicle or a plug-in hybrid electric
+vehicle is charged if no customer usage fee is charged;
+(3) Commercial electric vehicle charging station operator means a person,
+partnership, corporation, or other business entity or political subdivision
+that operates a commercial electric vehicle charging station;
+(4) Direct-current, fast-charging station means a publicly available
+charging system capable of delivering at least fifty kilowatts of direct-
+current electrical power to an electric vehicle's rechargeable battery at a
+voltage of two hundred volts or greater;
+(5) Direct-current, fast-charging station operator means a person,
+partnership, corporation, or other business entity that operates a direct-
+current, fast-charging station open to the public. The term does not include an
+electric supplier or a political subdivision;
+(6) Electric supplier or supplier of electricity means any legal entity
+supplying, producing, or distributing electricity within the state for sale at
+wholesale or retail. Electric supplier does not include a commercial electric
+vehicle charging station operator that is a private person or privately owned
+partnership, privately owned corporation, or other privately owned business;
+(7) Electronic-related means relating to electronic devices, circuits, or
+similar systems, or the components of such electronic devices, circuits, or
+similar systems, that require electrical currents or electromagnetism to
+operate;
+(8) Foreign adversary means a foreign government or foreign nongovernment
+person determined to be a foreign adversary pursuant to 15 C.F.R. 791.4, as
+such regulation existed on February 7, 2025;
+(9) (7) Military installation means: a military base other than a National
+Guard base where fixed-wing aircraft or strategic weapon assets are on a
+permanent or temporary basis assigned, stored, operated from, or otherwise
+located;
+(a) A United States Air Force ballistic missile silo located within the
+geographic area described in 31 C.F.R. 802.211(b)(3), as such regulation
+existed on January 1, 2025; or
+(b) A United States Air Force base described in 31 C.F.R. 802.227(c), as
+such regulation existed on January 1, 2025;
+(10) (8) Plug-in hybrid electric vehicle has the same meaning as in
+
+Section 3:
+section 60-345.01;
+(11) (9) Private electric supplier means an electric supplier producing
+electricity from a privately developed renewable energy generation facility
+that is not a public power district, a public power and irrigation district, a
+municipality, a registered group of municipalities, an electric cooperative, an
+electric membership association, any other governmental entity, or any
+combination thereof. A private electric supplier is limited to the development
+of those facilities as provided in subdivision (12) (10) of this section;
+(12) (10) Privately developed renewable energy generation facility means
+and is limited to a facility that (a) generates electricity using solar, wind,
+geothermal, biomass, landfill gas, or biogas, including all electrically
+connected equipment used to produce, collect, and store the facility output up
+to and including the transformer that steps up the voltage to sixty thousand
+volts or greater, and including supporting structures, buildings, and roads,
+unless otherwise agreed to in a joint transmission development agreement, (b)
+is developed, constructed, and owned, in whole or in part, by one or more
+private electric suppliers, and (c) is not wholly owned by a public power
+district, a public power and irrigation district, a municipality, a registered
+group of municipalities, an electric cooperative, an electric membership
+-1-
+LB43 LB43
+2025 2025
+association, any other governmental entity, or any combination thereof;
+(13) (11) Regional transmission organization means an entity independent
+from those entities generating or marketing electricity at wholesale or retail,
+which has operational control over the electric transmission lines in a
+designated geographic area in order to reduce constraints in the flow of
+electricity and ensure that all power suppliers have open access to
+transmission lines for the transmission of electricity;
+(14) (12) Reliable or reliability means the ability of an electric
+supplier to supply the aggregate electric power and energy requirements of its
+electricity consumers in Nebraska at all times under normal operating
+conditions, taking into account scheduled and unscheduled outages, including
+sudden disturbances or unanticipated loss of system components that are to be
+reasonably expected for any electric utility following prudent utility
+practices, recognizing certain weather conditions and other contingencies may
+cause outages at the distribution, transmission, and generation level;
+(15) (13) Representative organization means an organization designated by
+the board and organized for the purpose of providing joint planning and
+encouraging maximum cooperation and coordination among electric suppliers. Such
+organization shall represent electric suppliers owning a combined electric
+generation plant accredited capacity of at least ninety percent of the total
+electric generation plant accredited capacity constructed and in operation
+within the state;
+(16) (14) State means the State of Nebraska; and
+(17) (15) Unbundled retail rates means the separation of utility bills
+into the individual price components for which an electric supplier charges its
+retail customers, including, but not limited to, the separate charges for the
+generation, transmission, and distribution of electricity.
+Sec. 2. Section 70-1012, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+70-1012 (1) Before any electric generation facilities or any transmission
+lines or related facilities carrying more than seven hundred volts are
+constructed or acquired by any supplier, an application, filed with the board
+and containing such information as the board shall prescribe, shall be approved
+by the board, except that such approval shall not be required (a) for the
+construction or acquisition of a transmission line extension or related
+facilities within a supplier's own service area or for the construction or
+acquisition of a line not exceeding one-half mile outside its own service area
+when all owners of electric lines located within one-half mile of the extension
+consent thereto in writing and such consents are filed with the board, (b) for
+any generation facility when the board finds that (i) such facility is being
+constructed or acquired to replace a generating plant owned by an individual
+municipality or registered group of municipalities with a capacity not greater
+than that of the plant being replaced, (ii) such facility will generate less
+than twenty-five thousand kilowatts of electric energy at rated capacity, and
+(iii) the applicant will not use the plant or transmission capacity to supply
+wholesale power to customers outside the applicant's existing retail service
+area or chartered territory, (c) for acquisition of transmission lines or
+related facilities, within the state, carrying one hundred fifteen thousand
+volts or less, if the current owner of the transmission lines or related
+facilities notifies the board of the lines or facilities involved in the
+transaction and the parties to the transaction, or (d) for the construction of
+a qualified facility as defined in section 70-2002.
+(2)(a) Before any electric supplier commences construction of or acquires
+an electric generation facility or transmission lines or related facilities
+carrying more than seven hundred volts that will be or are located within a
+ten-mile radius of a military installation, the owner of such proposed
+facility, transmission lines, or related facilities shall provide written
+notice certifying to the board that such facility or facilities contain no
+electronic-related equipment or electronic-related materials, electronics, or
+other components manufactured by any foreign government or foreign
+nongovernment person determined to be a foreign adversary pursuant to 15 C.F.R.
+
+Section 4:
+7.4.
+(b) Any electric supplier supplying, producing, or distributing
+electricity within the state for sale at retail is exempt from subdivision (a)
+of this subsection if it is in compliance with the critical infrastructure
+protection requirements issued by the North American Electric Reliability
+Corporation. To receive such exemption, the electric supplier shall submit
+written notice to the board certifying that it is in such compliance. The
+electric supplier shall also submit written notice to the board at any time
+such supplier is no longer in such compliance.
+(3)(a) Before any electric supplier not exempt from subdivision (2)(a) of
+this section commences construction of or acquires an electric generation
+facility or transmission lines or related facilities carrying more than seven
+hundred volts that will be or are located within a ten-mile radius of a
+military installation, the electric supplier shall, following consultation with
+such supplier's vendors, submit a one-time written notice to the board
+certifying that such facility or facilities continually contain no electronic-
+related equipment or electronic-related components manufactured by any foreign
+adversary.
+(b) The electric supplier shall also submit written notice to the board at
+any time such facility or facilities are no longer in compliance with the
+certification provided under subdivision (a) of this subsection.
+(4) Notwithstanding subsections (2) and (3) of this section, an electric
+-2-
+LB43 LB43
+2025 2025
+supplier required to provide certification under subsection (2) of this section
+may use electronic-related equipment or electronic-related components
+manufactured by a foreign adversary if the board preapproves the use of such
+equipment or components after finding that:
+(a) There is no other reasonable option for procuring such equipment or
+components; and
+(b) Not procuring or using such equipment or components would cause a
+greater harm to the state or residents of the state than the harm associated
+with the equipment or components.
+(5) (3) A privately developed renewable energy generation facility is
+exempt from this section if it complies with section 70-1014.02.
+Sec. 3. Section 70-1014.02, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+70-1014.02 (1) The Legislature finds that:
+(a) Nebraska has the authority as a sovereign state to protect its land,
+natural resources, and cultural resources for economic and aesthetic purposes
+for the benefit of its residents and future generations by regulation of energy
+generation projects;
+(b) The unique terrain and ecology of the Nebraska Sandhills provide an
+irreplaceable habitat for millions of migratory birds and other wildlife every
+year and serve as the home to numerous ranchers and farmers;
+(c) The grasslands of the Nebraska Sandhills and other natural resources
+in Nebraska will become increasingly valuable, both economically and
+strategically, as the demand for food and energy increases; and
+(d) The Nebraska Sandhills are home to priceless archaeological sites of
+historical and cultural significance to American Indians.
+(2)(a) A privately developed renewable energy generation facility that
+meets the requirements of this section is exempt from sections 70-1012 to
+70-1014.01 if, no less than thirty days prior to the commencement of
+construction, the owner of the facility:
+(i) Notifies the board in writing of its intent to commence construction
+of a privately developed renewable energy generation facility;
+(ii) Certifies to the board that the facility will meet the requirements
+for a privately developed renewable energy generation facility;
+(iii) Certifies to the board that the private electric supplier will (A)
+comply with any decommissioning requirements adopted by the local governmental
+entities having jurisdiction over the privately developed renewable energy
+generation facility and (B) except as otherwise provided in subdivision (c) (b)
+of this subsection, submit a decommissioning plan to the board obligating the
+private electric supplier to bear all costs of decommissioning the privately
+developed renewable energy generation facility and requiring that the private
+electric supplier post a security bond or other instrument, no later than the
+sixth year following commercial operation, securing the costs of
+decommissioning the facility and provide a copy of the bond or instrument to
+the board;
+(iv) Certifies to the board that the private electric supplier has entered
+into or prior to commencing construction will enter into a joint transmission
+development agreement pursuant to subdivision (d) (c) of this subsection with
+the electric supplier owning the transmission facilities of sixty thousand
+volts or greater to which the privately developed renewable energy generation
+facility will interconnect;
+(v) Certifies to the board that the private electric supplier has
+consulted with the Game and Parks Commission to identify potential measures to
+avoid, minimize, and mitigate impacts to species identified under subsection
+(1) or (2) of section 37-806 during the project planning and design phases, if
+possible, but in no event later than the commencement of construction; and
+(vi) Certifies in writing to the board that the facility, if located
+within a ten-mile radius of a military installation:
+(A) Contains no materials, electronics, or other components manufactured
+by any foreign government or foreign nongovernment person determined to be a
+foreign adversary pursuant to 15 C.F.R. 7.4; or
+(B) Is in compliance with the critical infrastructure protection
+requirements issued by the North American Electric Reliability Corporation if
+connected to the transmission grid at one hundred kilovolts or higher voltage
+and has to have a nameplate rating of twenty megavolt amperes for a single
+generation unit or injecting at an aggregate of seventy-five megavolt amperes
+or greater. The private electric supplier shall also submit written notice to
+the board at any time such private electric supplier is no longer in such
+compliance; and
+(vi) (vii) For a proposed privately developed renewable energy generation
+facility that has a generating capacity that is greater than ten megawatts,
+certifies to the board that the private electric supplier has held at least one
+public meeting with advanced publicized notice in one of the counties in which
+the proposed facility will be located at which (A) the private electric
+supplier explains the need for the proposed facility and the type of facility
+and (B) real property owners in any of the counties in which the proposed
+facility will be located are provided an opportunity to comment on the proposed
+facility. The private electric supplier shall provide a report to the board
+containing the minutes of any such meeting and how many people commented on the
+proposed facility. Documentation received at any such meeting shall be made
+available to the board upon its request. A meeting described in this
+subdivision is not subject to the requirements described in subdivision (3)(b)
+(iv) of section 84-1411.
+-3-
+LB43 LB43
+2025 2025
+(b)(i) No less than thirty days prior to the commencement of construction
+of a privately developed renewable energy generation facility located within a
+ten-mile radius of a military installation, the owner of such facility shall:
+(A) Provide written notice to the board under subdivision (2)(b)(ii)(A) of
+this section; or
+(B) Certify in writing to the board that the facility will, upon reaching
+commercial operation, be in compliance with the critical infrastructure
+protection requirements issued by the North American Electric Reliability
+Corporation if such facility is connected to the transmission grid at one
+hundred kilovolts or higher voltage and has a nameplate rating of twenty
+megavolt amperes for a single generation unit or is injecting at an aggregate
+of seventy-five megavolt amperes or greater. The owner of such facility shall
+also submit written notice to the board at any time such facility is no longer
+in compliance with such requirements.
+(ii)(A) An owner of a facility choosing to proceed under subdivision (2)
+(b)(i)(A) of this section shall, following consultation with such owner's
+vendors, submit a one-time written notice to the board certifying that the
+facility continually contains no electronic-related equipment or electronic-
+related components manufactured by any foreign adversary.
+(B) The owner shall also submit written notice to the board at any time
+such facility is no longer in compliance with the certification provided under
+subdivision (2)(b)(ii)(A) of this section.
+(iii) Notwithstanding subdivisions (2)(b)(i) and (ii) of this section, the
+owner of a facility required to provide the certification under subsection (2)
+(b)(i) may use electronic-related equipment or electronic-related components
+manufactured by a foreign adversary if the board preapproves the use of such
+equipment or components after finding that:
+(A) There is no other reasonable option for procuring such equipment or
+components; and
+(B) Not procuring or using such equipment or components would cause a
+greater harm to the state than the harm associated with the equipment or
+components.
+(c) (b) The board may bring an action in the name of the State of Nebraska
+for failure to comply with subdivision (a)(iii)(B) of this subsection, except
+that such subdivision does not apply if a local government entity with the
+authority to create requirements for decommissioning has enacted
+decommissioning requirements for the applicable jurisdiction.
+(d) (c) A joint transmission development agreement shall be entered into
+to address construction, ownership, operation, and maintenance of such
+additions or upgrades to the transmission facilities as required for the
+privately developed renewable energy generation facility. The joint
+transmission development agreement shall be negotiated and executed
+contemporaneously with the generator interconnection agreement or other
+directives of the applicable regional transmission organization with
+jurisdiction over the addition or upgrade of transmission, upon terms
+consistent with prudent electric utility practices for the interconnection of
+renewable generation facilities, the electric supplier's reasonable
+transmission interconnection requirements, and applicable transmission design
+and construction standards. The electric supplier shall have the right to
+purchase and own transmission facilities as set forth in the joint transmission
+development agreement. The private electric supplier of the privately developed
+renewable energy generation facility shall have the right to construct any
+necessary facilities or improvements set forth in the joint transmission
+development agreement pursuant to the standards set forth in the agreement at
+the private electric supplier's cost.
+(3) Within ten days after receipt of a written notice complying with
+subsection (2) of this section, the executive director of the board shall issue
+a written acknowledgment that the privately developed renewable energy
+generation facility is exempt from sections 70-1012 to 70-1014.01 if such
+facility remains in compliance with the requirements of this section.
+(4) The exemption allowed under this section for a privately developed
+renewable energy generation facility shall extend to and exempt all private
+electric suppliers owning any interest in the facility, including any successor
+private electric supplier which subsequently acquires any interest in the
+facility.
+(5) No property owned, used, or operated as part of a privately developed
+renewable energy generation facility shall be subject to eminent domain by a
+consumer-owned electric supplier operating in the State of Nebraska. Nothing in
+this section shall be construed to grant the power of eminent domain to a
+private electric supplier or limit the rights of any entity to acquire any
+public, municipal, or utility right-of-way across property owned, used, or
+operated as part of a privately developed renewable energy generation facility
+as long as the right-of-way does not prevent the operation of or access to the
+privately developed renewable energy generation facility.
+(6) Only a consumer-owned electric supplier operating in the State of
+Nebraska may exercise eminent domain authority to acquire the land rights
+necessary for the construction of transmission lines and related facilities.
+There is a rebuttable presumption that the exercise of eminent domain to
+provide needed transmission lines and related facilities for a privately
+developed renewable energy generation facility is a public use.
+(7) Nothing in this section shall be construed to authorize a private
+electric supplier to sell or deliver electricity at retail in Nebraska.
+(8) Nothing in this section shall be construed to limit the authority of
+-4-
+LB43 LB43
+2025 2025
+or require a consumer-owned electric supplier operating in the State of
+Nebraska to enter into a joint agreement with a private electric supplier to
+develop, construct, and jointly own a privately developed renewable energy
+generation facility.
+Sec. 4. Section 70-1015, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+70-1015 (1) If any supplier violates Chapter 70, article 10, by either (a)
+commencing the construction or finalizing or attempting to finalize the
+acquisition of any generation facilities, any transmission lines, or any
+related facilities without first providing notice or obtaining board approval,
+whichever is required, or (b) serving or attempting to serve at retail any
+customers located in Nebraska or any wholesale customers in violation of
+
+Section 5:
+section 70-1002.02, such construction, acquisition, or service of such
+customers shall be enjoined in an action brought in the name of the State of
+Nebraska until such supplier has complied with Chapter 70, article 10.
+(2) If the executive director of the board determines that a private
+electric supplier commenced construction of a privately developed renewable
+energy generation facility less than thirty days prior to providing the notice
+and certification required in subdivisions subdivision (2)(a) and (b) of
+
+Section 6:
+section 70-1014.02, the executive director shall send notice via certified mail
+to the private electric supplier, informing it of the determination that the
+private electric supplier is in violation of such subdivisions subdivision and
+is subject to a fine in the amount of five hundred dollars. The private
+electric supplier shall have twenty days from the date on which the notice is
+received in which to submit the notice and certification described in such
+subdivisions subdivision and to pay the fine. Within ten days after the private
+electric supplier submits a notice and certification compliant with subsection
+(2) of section 70-1014.02 and payment of the fine, the executive director of
+the board shall issue the written acknowledgment described in subsection (3) of
+
+Section 7:
+section 70-1014.02. If the private electric supplier fails to submit a notice
+and certification compliant with subsection (2) of section 70-1014.02 and pay
+the fine within twenty days after the date on which the private electric
+supplier receives the notice from the executive director of the board, the
+private electric supplier shall immediately cease construction or operation of
+the privately developed renewable energy generation facility.
+(3) If the private electric supplier disputes that construction was
+commenced less than thirty days prior to submitting the written notice and
+certification required by subdivisions subdivision (2)(a) and (b) of section
+70-1014.02, the private electric supplier may request a hearing before the
+board. Such request shall be submitted within twenty days after the private
+electric supplier receives the notice sent by the executive director pursuant
+to subsection (2) of this section. If the private electric supplier does not
+accept the certified mail sent pursuant to such subsection, the executive
+director shall send a second notice to the private electric supplier by first-
+class United States mail. The private electric supplier may submit a request
+for hearing within twenty days after the date on which the second notice was
+mailed.
+(4) Upon receipt of a request for hearing, the board shall set a hearing
+date. Such hearing shall be held within sixty days after such receipt. The
+board shall provide to the private electric supplier written notice of the
+hearing at least twenty days prior to the date of the hearing. The board or its
+hearing officer may grant continuances upon good cause shown or upon the
+request of the private electric supplier. Timely filing of a request for
+hearing by a private electric supplier shall stay any further enforcement under
+this section until the board issues an order pursuant to subsection (5) of this
+
+Section 8:
+section or the request for hearing is withdrawn.
+(5) The board shall issue a written decision within sixty days after
+conclusion of the hearing. All costs of the hearing shall be paid by the
+private electric supplier if (a) the board determines that the private electric
+supplier commenced construction of the privately developed renewable energy
+generation facility less than thirty days prior to submitting the written
+notice and certification required pursuant to subsection (2) of section
+70-1014.02 or (b) the private electric supplier withdraws its request for
+hearing prior to the board issuing its decision.
+(6) A private electric supplier which the board finds to be in violation
+of the requirements of subsection (2) of section 70-1014.02 shall either (a)
+pay the fine described in this section and submit a notice and certification
+compliant with subsection (2) of section 70-1014.02 or (b) immediately cease
+construction or operation of the privately developed renewable energy
+generation facility.
+Sec. 5. Original sections 70-1001.01, 70-1012, 70-1014.02, and 70-1015,
+Revised Statutes Cumulative Supplement, 2024, are repealed.
+Sec. 6. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-5-
+[DELETED: yD B F A A r t e t a s 7 t d a r t t c p r t l a p d r e g l n m i t h p 1 S 7 R S C S F p o s 7 t 7 u t C e v c s d n i t c o o b e o p s D f s m a p a s c o d a l f k o d e p t a e v r b a  D f s o m a p c o o b e t o a d E s o s o e m a l e s o t c o s e d c o s t r e c o e t d t b a f a p t 1 C 7 a b w f a o s w a a o  o t b a s o f o o a d i 3 C 8 a s r ( P h e v h t s m a i ( P e s m a e s p f a p d r e g f m a a o g e o a b l g o b i a e o g a i s s b a r d c a o i w o i p b o o m e s a ( i n w o b a p p o m a e c a e m3L52]
+[DELETED:  h o c o t e t l i  g a i o t r c i t f o a e t a p s h o a t ( R o r m t a o a e c i N a a t u n o t i a s a u o i e f a e u f p u b a o f t p o p j p a s r e s o a c e g p a c c a i o ( U r r m t s o u b o r f c m t s h v a t b e t s a s n b r ( f t o a o a t l e o r w a s o s a o f t c o p t c o t a e r s o c t ( f a o t l o f w t s c o h f t o l i t c o o t t l o r n t b o t l o f i i t e g f o t l o r f o r o a m i t o o s p t l o r f s p w c t t b t s f o f c n e o e m e o c m b a f g o f A e s s p o d t s i i i i c w t c i r i b t N A E R T r s e t e s s s n t t b c t i i i s c T s s a s w n t t b a a t s c c o o a a e g v t w b o a l w a t r o  s v s a o w n t t b t s f o f a n l i c w t3L52]
+[DELETED:  u e e o e c N p o u s e o c w c  ( A p d r e g f i N w b i v b e a A p d r e g f t t r o t s i e f s 7 t i n l t t d p t t c o h j o t p d r e y f c o s t c o e s o t t f o s t C t t b t t p e s h m a m i t s i u s C i w t t b t t f i l I i c w t c i p h t h a n r o t m a f a s b a a t s p e s i n l i s t h a g c t i g t t m p f w b l a w ( t p e ( r p o i a o t c i w t p T p e s s p a r t t b f D r a a s m s b m t t b u i r A m d i t3L52]
+[DELETED:  o b i c w t c i r i b t N A E R i s f i c t t t g a o k o h v a h a n r o t o t s s f c w s o s a o w n t t b c t t c c n e e o e m u e e o e c N p o u s e o c w c  h t t s t t h a w t e o s s d n a i a l g e w t t c r f d h e a c o o a m o s o u t t t f a r f t d r e g f T j d a s b n a e w t g i a o o o t a r t o w o t a o u o t u t g f t e s r i r a a t d c s T e s s h t r t e g f s h t r t c a f o i s f i t j t W t d a r o a w n c w w a t t p d r e f i e f s 7 t 7 i s T e a u t s f a p d e g f s e t a e a p e s w s a a i i t s s b c t g t p o e d t  e s o l t r o a e t a a m o u r a p o u o O a c e s o i t S o m e e d a t a t l r f t c o t l a r f i a r p t t e o e d t n t l a r f f a p N i t s s b c t a a p3L52]
+[DELETED:  r a c e s o i t S o c a j o a p d r e t c o f o a t f t o a g f a t l o a i r o ( s o a t s a r a l i N o a w c i v o 7 s c a o s o s I t e d o t b d t a p s c c o a p d r c r i s s ( a ( o s t a f i t a o f h d T p i w t s t n a c d i s f w t d a t d o w t p e r t n f t e d o t b t I t p e s d t c w l t t d p t s t w n a r b s s ( a ( o s t p e s m r a h b t S r s b s w t d a t p t c m s p t s s t e S h s b h w s d a s r T s p t t p e s w n o t o m g c u g c s o u t o t p e s T f o a r f T b s i a w d w s d a o t h A c o t h s b p b t c c o t p d r e f l t t d p t s t w a c r p t s ( o s o ( t p e s w i r f o o o t p d r e3L52]
+
+
+================================================================================
+
+Raw Text:
+LB43 LB43
+2025 2025
+LEGISLATIVE BILL 43
+Approved by the Governor February 25, 2025
+Introduced by DeKay, 40; Hardin, 48.
+A BILL FOR AN ACT relating to electricity; to amend sections 70-1001.01,
+70-1012, 70-1014.02, and 70-1015, Revised Statutes Cumulative Supplement,
+2024; to define and redefine terms; to change provisions relating to
+notice and certification requirements for electric generation facilities,
+transmission lines, and privately developed renewable energy generation
+facilities located near military installations; to harmonize provisions;
+to repeal the original sections; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 70-1001.01, Revised Statutes Cumulative Supplement,
+2024, is amended to read:
+70-1001.01 For purposes of sections 70-1001 to 70-1028.02, unless the
+context otherwise requires:
+(1) Board means the Nebraska Power Review Board;
+(2) Commercial electric vehicle charging station means equipment designed
+to provide electricity for a fee for the charging of an electric vehicle or a
+plug-in hybrid electric vehicle, including an electric vehicle direct-current
+charger or a super-fast charger, any successor technology, and all components
+thereof. Commercial electric vehicle charging station does not include the
+residence of a person where an electric vehicle or a plug-in hybrid electric
+vehicle is charged if no customer usage fee is charged;
+(3) Commercial electric vehicle charging station operator means a person,
+partnership, corporation, or other business entity or political subdivision
+that operates a commercial electric vehicle charging station;
+(4) Direct-current, fast-charging station means a publicly available
+charging system capable of delivering at least fifty kilowatts of direct-
+current electrical power to an electric vehicle's rechargeable battery at a
+voltage of two hundred volts or greater;
+(5) Direct-current, fast-charging station operator means a person,
+partnership, corporation, or other business entity that operates a direct-
+current, fast-charging station open to the public. The term does not include an
+electric supplier or a political subdivision;
+(6) Electric supplier or supplier of electricity means any legal entity
+supplying, producing, or distributing electricity within the state for sale at
+wholesale or retail. Electric supplier does not include a commercial electric
+vehicle charging station operator that is a private person or privately owned
+partnership, privately owned corporation, or other privately owned business;
+(7) Electronic-related means relating to electronic devices, circuits, or
+similar systems, or the components of such electronic devices, circuits, or
+similar systems, that require electrical currents or electromagnetism to
+operate;
+(8) Foreign adversary means a foreign government or foreign nongovernment
+person determined to be a foreign adversary pursuant to 15 C.F.R. 791.4, as
+such regulation existed on February 7, 2025;
+(9) (7) Military installation means: a military base other than a National
+Guard base where fixed-wing aircraft or strategic weapon assets are on a
+permanent or temporary basis assigned, stored, operated from, or otherwise
+located;
+(a) A United States Air Force ballistic missile silo located within the
+geographic area described in 31 C.F.R. 802.211(b)(3), as such regulation
+existed on January 1, 2025; or
+(b) A United States Air Force base described in 31 C.F.R. 802.227(c), as
+such regulation existed on January 1, 2025;
+(10) (8) Plug-in hybrid electric vehicle has the same meaning as in
+section 60-345.01;
+(11) (9) Private electric supplier means an electric supplier producing
+electricity from a privately developed renewable energy generation facility
+that is not a public power district, a public power and irrigation district, a
+municipality, a registered group of municipalities, an electric cooperative, an
+electric membership association, any other governmental entity, or any
+combination thereof. A private electric supplier is limited to the development
+of those facilities as provided in subdivision (12) (10) of this section;
+(12) (10) Privately developed renewable energy generation facility means
+and is limited to a facility that (a) generates electricity using solar, wind,
+geothermal, biomass, landfill gas, or biogas, including all electrically
+connected equipment used to produce, collect, and store the facility output up
+to and including the transformer that steps up the voltage to sixty thousand
+volts or greater, and including supporting structures, buildings, and roads,
+unless otherwise agreed to in a joint transmission development agreement, (b)
+is developed, constructed, and owned, in whole or in part, by one or more
+private electric suppliers, and (c) is not wholly owned by a public power
+district, a public power and irrigation district, a municipality, a registered
+group of municipalities, an electric cooperative, an electric membership
+-1-
+
+LB43 LB43
+2025 2025
+association, any other governmental entity, or any combination thereof;
+(13) (11) Regional transmission organization means an entity independent
+from those entities generating or marketing electricity at wholesale or retail,
+which has operational control over the electric transmission lines in a
+designated geographic area in order to reduce constraints in the flow of
+electricity and ensure that all power suppliers have open access to
+transmission lines for the transmission of electricity;
+(14) (12) Reliable or reliability means the ability of an electric
+supplier to supply the aggregate electric power and energy requirements of its
+electricity consumers in Nebraska at all times under normal operating
+conditions, taking into account scheduled and unscheduled outages, including
+sudden disturbances or unanticipated loss of system components that are to be
+reasonably expected for any electric utility following prudent utility
+practices, recognizing certain weather conditions and other contingencies may
+cause outages at the distribution, transmission, and generation level;
+(15) (13) Representative organization means an organization designated by
+the board and organized for the purpose of providing joint planning and
+encouraging maximum cooperation and coordination among electric suppliers. Such
+organization shall represent electric suppliers owning a combined electric
+generation plant accredited capacity of at least ninety percent of the total
+electric generation plant accredited capacity constructed and in operation
+within the state;
+(16) (14) State means the State of Nebraska; and
+(17) (15) Unbundled retail rates means the separation of utility bills
+into the individual price components for which an electric supplier charges its
+retail customers, including, but not limited to, the separate charges for the
+generation, transmission, and distribution of electricity.
+Sec. 2. Section 70-1012, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+70-1012 (1) Before any electric generation facilities or any transmission
+lines or related facilities carrying more than seven hundred volts are
+constructed or acquired by any supplier, an application, filed with the board
+and containing such information as the board shall prescribe, shall be approved
+by the board, except that such approval shall not be required (a) for the
+construction or acquisition of a transmission line extension or related
+facilities within a supplier's own service area or for the construction or
+acquisition of a line not exceeding one-half mile outside its own service area
+when all owners of electric lines located within one-half mile of the extension
+consent thereto in writing and such consents are filed with the board, (b) for
+any generation facility when the board finds that (i) such facility is being
+constructed or acquired to replace a generating plant owned by an individual
+municipality or registered group of municipalities with a capacity not greater
+than that of the plant being replaced, (ii) such facility will generate less
+than twenty-five thousand kilowatts of electric energy at rated capacity, and
+(iii) the applicant will not use the plant or transmission capacity to supply
+wholesale power to customers outside the applicant's existing retail service
+area or chartered territory, (c) for acquisition of transmission lines or
+related facilities, within the state, carrying one hundred fifteen thousand
+volts or less, if the current owner of the transmission lines or related
+facilities notifies the board of the lines or facilities involved in the
+transaction and the parties to the transaction, or (d) for the construction of
+a qualified facility as defined in section 70-2002.
+(2)(a) Before any electric supplier commences construction of or acquires
+an electric generation facility or transmission lines or related facilities
+carrying more than seven hundred volts that will be or are located within a
+ten-mile radius of a military installation, the owner of such proposed
+facility, transmission lines, or related facilities shall provide written
+notice certifying to the board that such facility or facilities contain no
+electronic-related equipment or electronic-related materials, electronics, or
+other components manufactured by any foreign government or foreign
+nongovernment person determined to be a foreign adversary pursuant to 15 C.F.R.
+7.4.
+(b) Any electric supplier supplying, producing, or distributing
+electricity within the state for sale at retail is exempt from subdivision (a)
+of this subsection if it is in compliance with the critical infrastructure
+protection requirements issued by the North American Electric Reliability
+Corporation. To receive such exemption, the electric supplier shall submit
+written notice to the board certifying that it is in such compliance. The
+electric supplier shall also submit written notice to the board at any time
+such supplier is no longer in such compliance.
+(3)(a) Before any electric supplier not exempt from subdivision (2)(a) of
+this section commences construction of or acquires an electric generation
+facility or transmission lines or related facilities carrying more than seven
+hundred volts that will be or are located within a ten-mile radius of a
+military installation, the electric supplier shall, following consultation with
+such supplier's vendors, submit a one-time written notice to the board
+certifying that such facility or facilities continually contain no electronic-
+related equipment or electronic-related components manufactured by any foreign
+adversary.
+(b) The electric supplier shall also submit written notice to the board at
+any time such facility or facilities are no longer in compliance with the
+certification provided under subdivision (a) of this subsection.
+(4) Notwithstanding subsections (2) and (3) of this section, an electric
+-2-
+
+LB43 LB43
+2025 2025
+supplier required to provide certification under subsection (2) of this section
+may use electronic-related equipment or electronic-related components
+manufactured by a foreign adversary if the board preapproves the use of such
+equipment or components after finding that:
+(a) There is no other reasonable option for procuring such equipment or
+components; and
+(b) Not procuring or using such equipment or components would cause a
+greater harm to the state or residents of the state than the harm associated
+with the equipment or components.
+(5) (3) A privately developed renewable energy generation facility is
+exempt from this section if it complies with section 70-1014.02.
+Sec. 3. Section 70-1014.02, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+70-1014.02 (1) The Legislature finds that:
+(a) Nebraska has the authority as a sovereign state to protect its land,
+natural resources, and cultural resources for economic and aesthetic purposes
+for the benefit of its residents and future generations by regulation of energy
+generation projects;
+(b) The unique terrain and ecology of the Nebraska Sandhills provide an
+irreplaceable habitat for millions of migratory birds and other wildlife every
+year and serve as the home to numerous ranchers and farmers;
+(c) The grasslands of the Nebraska Sandhills and other natural resources
+in Nebraska will become increasingly valuable, both economically and
+strategically, as the demand for food and energy increases; and
+(d) The Nebraska Sandhills are home to priceless archaeological sites of
+historical and cultural significance to American Indians.
+(2)(a) A privately developed renewable energy generation facility that
+meets the requirements of this section is exempt from sections 70-1012 to
+70-1014.01 if, no less than thirty days prior to the commencement of
+construction, the owner of the facility:
+(i) Notifies the board in writing of its intent to commence construction
+of a privately developed renewable energy generation facility;
+(ii) Certifies to the board that the facility will meet the requirements
+for a privately developed renewable energy generation facility;
+(iii) Certifies to the board that the private electric supplier will (A)
+comply with any decommissioning requirements adopted by the local governmental
+entities having jurisdiction over the privately developed renewable energy
+generation facility and (B) except as otherwise provided in subdivision (c) (b)
+of this subsection, submit a decommissioning plan to the board obligating the
+private electric supplier to bear all costs of decommissioning the privately
+developed renewable energy generation facility and requiring that the private
+electric supplier post a security bond or other instrument, no later than the
+sixth year following commercial operation, securing the costs of
+decommissioning the facility and provide a copy of the bond or instrument to
+the board;
+(iv) Certifies to the board that the private electric supplier has entered
+into or prior to commencing construction will enter into a joint transmission
+development agreement pursuant to subdivision (d) (c) of this subsection with
+the electric supplier owning the transmission facilities of sixty thousand
+volts or greater to which the privately developed renewable energy generation
+facility will interconnect;
+(v) Certifies to the board that the private electric supplier has
+consulted with the Game and Parks Commission to identify potential measures to
+avoid, minimize, and mitigate impacts to species identified under subsection
+(1) or (2) of section 37-806 during the project planning and design phases, if
+possible, but in no event later than the commencement of construction; and
+(vi) Certifies in writing to the board that the facility, if located
+within a ten-mile radius of a military installation:
+(A) Contains no materials, electronics, or other components manufactured
+by any foreign government or foreign nongovernment person determined to be a
+foreign adversary pursuant to 15 C.F.R. 7.4; or
+(B) Is in compliance with the critical infrastructure protection
+requirements issued by the North American Electric Reliability Corporation if
+connected to the transmission grid at one hundred kilovolts or higher voltage
+and has to have a nameplate rating of twenty megavolt amperes for a single
+generation unit or injecting at an aggregate of seventy-five megavolt amperes
+or greater. The private electric supplier shall also submit written notice to
+the board at any time such private electric supplier is no longer in such
+compliance; and
+(vi) (vii) For a proposed privately developed renewable energy generation
+facility that has a generating capacity that is greater than ten megawatts,
+certifies to the board that the private electric supplier has held at least one
+public meeting with advanced publicized notice in one of the counties in which
+the proposed facility will be located at which (A) the private electric
+supplier explains the need for the proposed facility and the type of facility
+and (B) real property owners in any of the counties in which the proposed
+facility will be located are provided an opportunity to comment on the proposed
+facility. The private electric supplier shall provide a report to the board
+containing the minutes of any such meeting and how many people commented on the
+proposed facility. Documentation received at any such meeting shall be made
+available to the board upon its request. A meeting described in this
+subdivision is not subject to the requirements described in subdivision (3)(b)
+(iv) of section 84-1411.
+-3-
+
+LB43 LB43
+2025 2025
+(b)(i) No less than thirty days prior to the commencement of construction
+of a privately developed renewable energy generation facility located within a
+ten-mile radius of a military installation, the owner of such facility shall:
+(A) Provide written notice to the board under subdivision (2)(b)(ii)(A) of
+this section; or
+(B) Certify in writing to the board that the facility will, upon reaching
+commercial operation, be in compliance with the critical infrastructure
+protection requirements issued by the North American Electric Reliability
+Corporation if such facility is connected to the transmission grid at one
+hundred kilovolts or higher voltage and has a nameplate rating of twenty
+megavolt amperes for a single generation unit or is injecting at an aggregate
+of seventy-five megavolt amperes or greater. The owner of such facility shall
+also submit written notice to the board at any time such facility is no longer
+in compliance with such requirements.
+(ii)(A) An owner of a facility choosing to proceed under subdivision (2)
+(b)(i)(A) of this section shall, following consultation with such owner's
+vendors, submit a one-time written notice to the board certifying that the
+facility continually contains no electronic-related equipment or electronic-
+related components manufactured by any foreign adversary.
+(B) The owner shall also submit written notice to the board at any time
+such facility is no longer in compliance with the certification provided under
+subdivision (2)(b)(ii)(A) of this section.
+(iii) Notwithstanding subdivisions (2)(b)(i) and (ii) of this section, the
+owner of a facility required to provide the certification under subsection (2)
+(b)(i) may use electronic-related equipment or electronic-related components
+manufactured by a foreign adversary if the board preapproves the use of such
+equipment or components after finding that:
+(A) There is no other reasonable option for procuring such equipment or
+components; and
+(B) Not procuring or using such equipment or components would cause a
+greater harm to the state than the harm associated with the equipment or
+components.
+(c) (b) The board may bring an action in the name of the State of Nebraska
+for failure to comply with subdivision (a)(iii)(B) of this subsection, except
+that such subdivision does not apply if a local government entity with the
+authority to create requirements for decommissioning has enacted
+decommissioning requirements for the applicable jurisdiction.
+(d) (c) A joint transmission development agreement shall be entered into
+to address construction, ownership, operation, and maintenance of such
+additions or upgrades to the transmission facilities as required for the
+privately developed renewable energy generation facility. The joint
+transmission development agreement shall be negotiated and executed
+contemporaneously with the generator interconnection agreement or other
+directives of the applicable regional transmission organization with
+jurisdiction over the addition or upgrade of transmission, upon terms
+consistent with prudent electric utility practices for the interconnection of
+renewable generation facilities, the electric supplier's reasonable
+transmission interconnection requirements, and applicable transmission design
+and construction standards. The electric supplier shall have the right to
+purchase and own transmission facilities as set forth in the joint transmission
+development agreement. The private electric supplier of the privately developed
+renewable energy generation facility shall have the right to construct any
+necessary facilities or improvements set forth in the joint transmission
+development agreement pursuant to the standards set forth in the agreement at
+the private electric supplier's cost.
+(3) Within ten days after receipt of a written notice complying with
+subsection (2) of this section, the executive director of the board shall issue
+a written acknowledgment that the privately developed renewable energy
+generation facility is exempt from sections 70-1012 to 70-1014.01 if such
+facility remains in compliance with the requirements of this section.
+(4) The exemption allowed under this section for a privately developed
+renewable energy generation facility shall extend to and exempt all private
+electric suppliers owning any interest in the facility, including any successor
+private electric supplier which subsequently acquires any interest in the
+facility.
+(5) No property owned, used, or operated as part of a privately developed
+renewable energy generation facility shall be subject to eminent domain by a
+consumer-owned electric supplier operating in the State of Nebraska. Nothing in
+this section shall be construed to grant the power of eminent domain to a
+private electric supplier or limit the rights of any entity to acquire any
+public, municipal, or utility right-of-way across property owned, used, or
+operated as part of a privately developed renewable energy generation facility
+as long as the right-of-way does not prevent the operation of or access to the
+privately developed renewable energy generation facility.
+(6) Only a consumer-owned electric supplier operating in the State of
+Nebraska may exercise eminent domain authority to acquire the land rights
+necessary for the construction of transmission lines and related facilities.
+There is a rebuttable presumption that the exercise of eminent domain to
+provide needed transmission lines and related facilities for a privately
+developed renewable energy generation facility is a public use.
+(7) Nothing in this section shall be construed to authorize a private
+electric supplier to sell or deliver electricity at retail in Nebraska.
+(8) Nothing in this section shall be construed to limit the authority of
+-4-
+
+LB43 LB43
+2025 2025
+or require a consumer-owned electric supplier operating in the State of
+Nebraska to enter into a joint agreement with a private electric supplier to
+develop, construct, and jointly own a privately developed renewable energy
+generation facility.
+Sec. 4. Section 70-1015, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+70-1015 (1) If any supplier violates Chapter 70, article 10, by either (a)
+commencing the construction or finalizing or attempting to finalize the
+acquisition of any generation facilities, any transmission lines, or any
+related facilities without first providing notice or obtaining board approval,
+whichever is required, or (b) serving or attempting to serve at retail any
+customers located in Nebraska or any wholesale customers in violation of
+section 70-1002.02, such construction, acquisition, or service of such
+customers shall be enjoined in an action brought in the name of the State of
+Nebraska until such supplier has complied with Chapter 70, article 10.
+(2) If the executive director of the board determines that a private
+electric supplier commenced construction of a privately developed renewable
+energy generation facility less than thirty days prior to providing the notice
+and certification required in subdivisions subdivision (2)(a) and (b) of
+section 70-1014.02, the executive director shall send notice via certified mail
+to the private electric supplier, informing it of the determination that the
+private electric supplier is in violation of such subdivisions subdivision and
+is subject to a fine in the amount of five hundred dollars. The private
+electric supplier shall have twenty days from the date on which the notice is
+received in which to submit the notice and certification described in such
+subdivisions subdivision and to pay the fine. Within ten days after the private
+electric supplier submits a notice and certification compliant with subsection
+(2) of section 70-1014.02 and payment of the fine, the executive director of
+the board shall issue the written acknowledgment described in subsection (3) of
+section 70-1014.02. If the private electric supplier fails to submit a notice
+and certification compliant with subsection (2) of section 70-1014.02 and pay
+the fine within twenty days after the date on which the private electric
+supplier receives the notice from the executive director of the board, the
+private electric supplier shall immediately cease construction or operation of
+the privately developed renewable energy generation facility.
+(3) If the private electric supplier disputes that construction was
+commenced less than thirty days prior to submitting the written notice and
+certification required by subdivisions subdivision (2)(a) and (b) of section
+70-1014.02, the private electric supplier may request a hearing before the
+board. Such request shall be submitted within twenty days after the private
+electric supplier receives the notice sent by the executive director pursuant
+to subsection (2) of this section. If the private electric supplier does not
+accept the certified mail sent pursuant to such subsection, the executive
+director shall send a second notice to the private electric supplier by first-
+class United States mail. The private electric supplier may submit a request
+for hearing within twenty days after the date on which the second notice was
+mailed.
+(4) Upon receipt of a request for hearing, the board shall set a hearing
+date. Such hearing shall be held within sixty days after such receipt. The
+board shall provide to the private electric supplier written notice of the
+hearing at least twenty days prior to the date of the hearing. The board or its
+hearing officer may grant continuances upon good cause shown or upon the
+request of the private electric supplier. Timely filing of a request for
+hearing by a private electric supplier shall stay any further enforcement under
+this section until the board issues an order pursuant to subsection (5) of this
+section or the request for hearing is withdrawn.
+(5) The board shall issue a written decision within sixty days after
+conclusion of the hearing. All costs of the hearing shall be paid by the
+private electric supplier if (a) the board determines that the private electric
+supplier commenced construction of the privately developed renewable energy
+generation facility less than thirty days prior to submitting the written
+notice and certification required pursuant to subsection (2) of section
+70-1014.02 or (b) the private electric supplier withdraws its request for
+hearing prior to the board issuing its decision.
+(6) A private electric supplier which the board finds to be in violation
+of the requirements of subsection (2) of section 70-1014.02 shall either (a)
+pay the fine described in this section and submit a notice and certification
+compliant with subsection (2) of section 70-1014.02 or (b) immediately cease
+construction or operation of the privately developed renewable energy
+generation facility.
+Sec. 5. Original sections 70-1001.01, 70-1012, 70-1014.02, and 70-1015,
+Revised Statutes Cumulative Supplement, 2024, are repealed.
+Sec. 6. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-5-
+
+[DELETED: yD B F A A r t e t a s 7 t d a r t t c p r t l a p d r e g l n m i t h p 1 S 7 R S C S F p o s 7 t 7 u t C e v c s d n i t c o o b e o p s D f s m a p a s c o d a l f k o d e p t a e v r b a  D f s o m a p c o o b e t o a d E s o s o e m a l e s o t c o s e d c o s t r e c o e t d t b a f a p t 1 C 7 a b w f a o s w a a o  o t b a s o f o o a d i 3 C 8 a s r ( P h e v h t s m a i ( P e s m a e s p f a p d r e g f m a a o g e o a b l g o b i a e o g a i s s b a r d c a o i w o i p b o o m e s a ( i n w o b a p p o m a e c a e m3L52]
+[DELETED:  h o c o t e t l i  g a i o t r c i t f o a e t a p s h o a t ( R o r m t a o a e c i N a a t u n o t i a s a u o i e f a e u f p u b a o f t p o p j p a s r e s o a c e g p a c c a i o ( U r r m t s o u b o r f c m t s h v a t b e t s a s n b r ( f t o a o a t l e o r w a s o s a o f t c o p t c o t a e r s o c t ( f a o t l o f w t s c o h f t o l i t c o o t t l o r n t b o t l o f i i t e g f o t l o r f o r o a m i t o o s p t l o r f s p w c t t b t s f o f c n e o e m e o c m b a f g o f A e s s p o d t s i i i i c w t c i r i b t N A E R T r s e t e s s s n t t b c t i i i s c T s s a s w n t t b a a t s c c o o a a e g v t w b o a l w a t r o  s v s a o w n t t b t s f o f a n l i c w t3L52]
+[DELETED:  u e e o e c N p o u s e o c w c  ( A p d r e g f i N w b i v b e a A p d r e g f t t r o t s i e f s 7 t i n l t t d p t t c o h j o t p d r e y f c o s t c o e s o t t f o s t C t t b t t p e s h m a m i t s i u s C i w t t b t t f i l I i c w t c i p h t h a n r o t m a f a s b a a t s p e s i n l i s t h a g c t i g t t m p f w b l a w ( t p e ( r p o i a o t c i w t p T p e s s p a r t t b f D r a a s m s b m t t b u i r A m d i t3L52]
+[DELETED:  o b i c w t c i r i b t N A E R i s f i c t t t g a o k o h v a h a n r o t o t s s f c w s o s a o w n t t b c t t c c n e e o e m u e e o e c N p o u s e o c w c  h t t s t t h a w t e o s s d n a i a l g e w t t c r f d h e a c o o a m o s o u t t t f a r f t d r e g f T j d a s b n a e w t g i a o o o t a r t o w o t a o u o t u t g f t e s r i r a a t d c s T e s s h t r t e g f s h t r t c a f o i s f i t j t W t d a r o a w n c w w a t t p d r e f i e f s 7 t 7 i s T e a u t s f a p d e g f s e t a e a p e s w s a a i i t s s b c t g t p o e d t  e s o l t r o a e t a a m o u r a p o u o O a c e s o i t S o m e e d a t a t l r f t c o t l a r f i a r p t t e o e d t n t l a r f f a p N i t s s b c t a a p3L52]
+[DELETED:  r a c e s o i t S o c a j o a p d r e t c o f o a t f t o a g f a t l o a i r o ( s o a t s a r a l i N o a w c i v o 7 s c a o s o s I t e d o t b d t a p s c c o a p d r c r i s s ( a ( o s t a f i t a o f h d T p i w t s t n a c d i s f w t d a t d o w t p e r t n f t e d o t b t I t p e s d t c w l t t d p t s t w n a r b s s ( a ( o s t p e s m r a h b t S r s b s w t d a t p t c m s p t s s t e S h s b h w s d a s r T s p t t p e s w n o t o m g c u g c s o u t o t p e s T f o a r f T b s i a w d w s d a o t h A c o t h s b p b t c c o t p d r e f l t t d p t s t w a c r p t s ( o s o ( t p e s w i r f o o o t p d r e3L52]

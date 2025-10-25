@@ -1,0 +1,1763 @@
+Title: LEGISLATIVE BILL 326
+Official Title: LEGISLATIVE BILL 326
+Number of Sections: 1
+Source: versions - Final Reading
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+LB326 LB326
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+FINAL READING
+Introduced by Jacobson, 42.
+Read first time January 16, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to amend sections 44-1523,
+2 44-1524, 44-1525, 44-1527, 44-1528, 44-1529, 44-1530, 44-1532,
+3 44-2403, 44-2405, 44-2406, 44-2407, 44-2411, and 44-6135, Reissue
+4 Revised Statutes of Nebraska; to define and redefine terms; to
+5 change powers and duties of the Director of Insurance; to change
+6 provisions relating to the Unfair Insurance Trade Practices Act, the
+7 Nebraska Property and Liability Insurance Guaranty Association Act,
+8 and mutual insurance holding companies; to change provisions
+9 relating to the board of directors of the Nebraska Property and
+10 Liability Insurance Guaranty Association and first-party and third-
+11 party claims; to change provisions relating to settlements,
+12 releases, compromises, and judgments; to provide for defenses as
+13 prescribed; to change requirements relating to exhaustion of
+14 remedies; to change requirements relating to annual statements as
+15 prescribed; to eliminate the Health Insurance Access Act and the
+16 Health Care Purchasing Pool Act; to eliminate obsolete provisions;
+17 to harmonize provisions; to repeal the original sections; and to
+18 outright repeal sections 44-5301, 44-5302, 44-5303, 44-5304,
+19 44-5305, 44-5306, 44-5307, 44-5308, 44-5309, 44-5310, 44-5311,
+20 44-6701, and 44-6702, Reissue Revised Statutes of Nebraska.
+21 Be it enacted by the people of the State of Nebraska,
+-1-
+LB326 LB326
+2025 2025
+1 Section 1. Section 44-1523, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 44-1523 For purposes of the Unfair Insurance Trade Practices Act:
+4 (1) Customer means an individual who purchases, applies to purchase,
+5 or is solicited to purchase an insurance product primarily for personal,
+6 family, or household purposes;
+7 (2) (1) Department means shall mean the Department of Insurance;
+8 (3) (2) Director means shall mean the Director of Insurance;
+9 (4) Health insurance lead generator means a person that utilizes a
+10 lead generating device to (a) publicize the availability of what is, or
+11 what purports to be, a health insurance product or service that the
+12 person is not licensed to sell directly to a customer, (b) identify a
+13 customer who may want to learn about a health insurance product, or (c)
+14 sell or transmit customer information to an insurer or producer for
+15 follow-up contact and sales activity;
+16 (5) (3) Insured means shall mean the party named on a policy or
+17 certificate as the individual with legal rights to the benefits provided
+18 by such policy or certificate;
+19 (6) (4) Insurer means shall mean any person, reciprocal exchange,
+20 interinsurer, Lloyds-type insurer or other similar group which includes
+21 an incorporated and individual unincorporated underwriter underwriters, a
+22 fraternal benefit society, or and other legal entity engaged in the
+23 business of insurance, including an agent agents, a broker brokers, an
+24 insurance consultant consultants, an adjuster adjusters, or a and third-
+25 party administrator administrators. Insurer also includes a shall also
+26 mean health maintenance organization organizations, a prepaid limited
+27 health service organization organizations, and a dental, optometric, or
+28 and other similar health service plan plans. For purposes of the Unfair
+29 Insurance Trade Practices Act act, all such insurers shall be deemed to
+30 be engaged in the business of insurance;
+31 (7) Lead generating device means a communication directed to the
+-2-
+LB326 LB326
+2025 2025
+1 public that, regardless of form, content, or stated purpose, is intended
+2 to result in the compilation or qualification of a list containing names
+3 and other personal information to be used to solicit residents of this
+4 state for the purchase of what is, or what purports to be, a health
+5 insurance product or service;
+6 (8) (5) Person means a shall mean any natural or artificial entity,
+7 including, but not limited to, an individual, a partnership, a limited
+8 liability company, an association, a trust, or a corporation, including a
+9 health insurance lead generator operating as a natural or artificial
+10 entity; and
+11 (9) (6) Policy or certificate means shall include any contract of
+12 insurance, indemnity, suretyship, or annuity issued, proposed for
+13 issuance, or intended for issuance by an any insurer; and .
+14 (10) Recording means an audio reproduction of sales and verification
+15 of calls, including virtual technology calls, in its entirety, used in
+16 the marketing of insurance.
+17 Sec. 2. Section 44-1524, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 44-1524 It shall be an unfair trade practice in the business of
+20 insurance for any insurer, health insurance lead generator, or person
+21 engaged in the business of insurance to commit any act or practice
+22 defined in section 44-1525 if the act or practice (1) is committed
+23 flagrantly and in conscious disregard of the Unfair Insurance Trade
+24 Practices Act or any rule or regulation adopted pursuant to the act or
+25 (2) is has been committed with such frequency as to indicate a general
+26 business practice to engage in that type of conduct.
+27 Sec. 3. Section 44-1525, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 44-1525 Any of the following acts or practices, if committed in
+30 violation of section 44-1524, shall be an unfair trade practice practices
+31 in the business of insurance:
+-3-
+LB326 LB326
+2025 2025
+1 (1) Making, issuing, circulating, or causing to be made, issued, or
+2 circulated an any estimate, illustration, circular, statement, sales
+3 presentation, omission, or comparison which:
+4 (a) Misrepresents the benefits, advantages, conditions, or terms of
+5 a any policy;
+6 (b) Misrepresents the dividends or share of the surplus to be
+7 received on a any policy;
+8 (c) Makes a any false or misleading statement relating statements as
+9 to the dividends or share of surplus previously paid on a any policy;
+10 (d) Misleads as to or misrepresents the financial condition of an
+11 any insurer or the legal reserve system upon which a any life insurer
+12 operates;
+13 (e) Uses a any name or title of a any policy or class of policies
+14 which misrepresents the true nature thereof;
+15 (f) Misrepresents for the purpose of inducing or tending to induce
+16 the purchase, lapse, forfeiture, exchange, conversion, or surrender of a
+17 any policy, including intentionally misquoting a any premium rate;
+18 (g) Misrepresents for the purpose of effecting a pledge or
+19 assignment of or effecting a loan against any policy; or
+20 (h) Misrepresents a any policy as being shares of stock;
+21 (2) Making, publishing, disseminating, circulating, or placing
+22 before the public, or causing, directly or indirectly, to be made,
+23 published, disseminated, circulated, or placed before the public, in a
+24 newspaper, magazine, electronic mail, Internet advertisement or posting,
+25 or other publication, or in the form of a notice, circular, pamphlet,
+26 letter, electronic posting of any kind, or poster, or communication over
+27 a any radio or television station, or via the Internet or other
+28 electronic means, or in any other way, an advertisement, announcement, or
+29 statement containing an any assertion, representation, or statement with
+30 respect to the business of insurance or with respect to an any insurer in
+31 the conduct of the insurer's his or her insurance business which is
+-4-
+LB326 LB326
+2025 2025
+1 untrue, deceptive, or misleading;
+2 (3) Making, publishing, disseminating, or circulating, directly or
+3 indirectly, or aiding, abetting, or encouraging the making, publishing,
+4 disseminating, or circulating of any oral or written statement or a any
+5 pamphlet, circular, article, or other literature which is false or
+6 maliciously critical of, or derogatory to, the financial condition of an
+7 any insurer and which is calculated to injure such insurer;
+8 (4) Entering into an any agreement to commit, or by a any concerted
+9 action committing, an any act of boycott, coercion, or intimidation
+10 resulting in, or tending to result in, unreasonable restraint of or
+11 monopoly in the business of insurance;
+12 (5)(a) Knowingly filing with a any supervisory or other public
+13 official, or knowingly making, publishing, disseminating, circulating, or
+14 delivering to a any person, or placing before the public, or knowingly
+15 causing, directly or indirectly, to be made, published, disseminated,
+16 circulated, delivered to a any person, or placed before the public, any
+17 false material statement of fact as to the financial condition of an
+18 insurer; or
+19 (b) Knowingly making a any false entry of a material fact in a any
+20 book, report, or statement of an any insurer or knowingly omitting to
+21 make a true entry of a any material fact pertaining to the business of
+22 such insurer in a any book, report, or statement of such insurer;
+23 (6) Issuing or delivering or permitting an agent agents, officer
+24 officers, or employee employees to issue or deliver agency company stock
+25 or other capital stock, or benefit certificates or shares in any common-
+26 law corporation, or securities or a any special or advisory board
+27 contract contracts or other contract contracts of any kind promising
+28 returns and profits as an inducement to insurance;
+29 (7)(a) Making or permitting any unfair discrimination between
+30 individuals of the same class and equal expectation of life in the rates
+31 charged for a any life insurance policy or annuity or in the dividends or
+-5-
+LB326 LB326
+2025 2025
+1 other benefits payable thereon or in any other of the terms and
+2 conditions of such policy or annuity;
+3 (b) Making or permitting any unfair discrimination between
+4 individuals of the same class involving essentially the same hazards in
+5 the amount of premium, policy fees, or rates charged for a any sickness
+6 and accident insurance policy or in the benefits payable thereunder, in
+7 any of the terms or conditions of such policy, or in any other manner,
+8 except that this subdivision shall not limit the negotiation of preferred
+9 provider policies and contracts under sections 44-4101 to 44-4113;
+10 (c) Making or permitting any unfair discrimination between
+11 individuals or risks of the same class and of essentially the same
+12 hazards by refusing to issue, refusing to renew, canceling, or limiting
+13 the amount of insurance coverage on a property or casualty risk because
+14 of the geographic location of the risk unless:
+15 (i) The refusal, cancellation, or limitation is for a business
+16 purpose which is not a pretext for unfair discrimination; or
+17 (ii) The refusal, cancellation, or limitation is required by law,
+18 rule, or regulation;
+19 (d) Making or permitting any unfair discrimination between
+20 individuals or risks of the same class and of essentially the same
+21 hazards by refusing to issue, refusing to renew, canceling, or limiting
+22 the amount of insurance coverage on a residential property risk, or the
+23 personal property contained therein, because of the age of the
+24 residential property unless:
+25 (i) The refusal, cancellation, or limitation is for a business
+26 purpose which is not a pretext for unfair discrimination; or
+27 (ii) The refusal, cancellation, or limitation is required by law,
+28 rule, or regulation;
+29 (e) Refusing to insure, refusing to continue to insure, or limiting
+30 the amount of coverage available to an individual solely because of the
+31 sex or marital status of the individual. This subdivision shall not
+-6-
+LB326 LB326
+2025 2025
+1 prohibit an insurer from taking marital status into account for the
+2 purpose of defining an individual individuals eligible for dependent
+3 benefits; or
+4 (f) Terminating or modifying coverage or refusing to issue or
+5 refusing to renew any property or casualty insurance policy solely
+6 because the applicant or insured or an any employee of the applicant or
+7 insured is mentally or physically impaired unless:
+8 (i) The termination, modification, or refusal is for a business
+9 purpose which is not a pretext for unfair discrimination; or
+10 (ii) The termination, modification, or refusal is required by law,
+11 rule, or regulation.
+12 This subdivision (f) shall not apply to a any sickness and accident
+13 insurance policy sold by a casualty insurer and shall not be interpreted
+14 to modify any other provision of law relating to the termination,
+15 modification, issuance, or renewal of any policy;
+16 (8)(a) Except as otherwise expressly provided by law:
+17 (i) Knowingly permitting or offering to make or making any life
+18 insurance policy, annuity, or sickness and accident insurance policy, or
+19 agreement relating as to any such policy or annuity, other than as
+20 plainly expressed in the policy or annuity issued thereon, or paying,
+21 allowing, or giving, or offering to pay, allow, or give, directly or
+22 indirectly, as inducement to such policy or annuity, a any rebate of
+23 premiums payable on the policy or annuity, or a any special favor or
+24 advantage in the dividends or other benefits thereon, or any valuable
+25 consideration or inducement whatever not specified in the policy or
+26 annuity; or
+27 (ii) Giving, selling, purchasing, or offering to give, sell, or
+28 purchase as inducement to such policy or annuity or in connection
+29 therewith any stocks, bonds, or other securities of an any insurer or
+30 other corporation, association, partnership, or limited liability
+31 company, or any dividends or profits accrued thereon, or anything of
+-7-
+LB326 LB326
+2025 2025
+1 value not specified in the policy or annuity.
+2 (b) Nothing in subdivision (7) or (8)(a) of this section shall be
+3 construed as including within the definition of discrimination or rebates
+4 any of the following acts or practices:
+5 (i) In the case of a any life insurance policy or annuity, paying
+6 bonuses to policyholders or otherwise abating their premiums, in whole or
+7 in part, out of surplus accumulated from nonparticipating insurance if
+8 such bonuses or abatement of premiums are fair and equitable to
+9 policyholders and for the best interests of the insurer and its
+10 policyholders;
+11 (ii) In the case of life insurance policies issued on the industrial
+12 debit plan, making allowance to policyholders who have continuously for a
+13 specified period made premium payments directly to an office of the
+14 insurer in an amount which fairly represents the saving in collection
+15 expenses; or
+16 (iii) Readjustment of the rate of premium for a group insurance
+17 policy based on the loss or expense thereunder, at the end of the first
+18 or any subsequent policy year of insurance thereunder, which may be made
+19 retroactive only for such policy year;
+20 (9) Failing of an any insurer to maintain a complete record of all
+21 the complaints received since the date of its last examination conducted
+22 pursuant to the Insurers Examination Act. This record shall indicate the
+23 total number of complaints, their classification by line of insurance,
+24 the nature of each complaint, the disposition of each complaint, and the
+25 processing time for it took to process each complaint. For purposes of
+26 this subdivision, complaint means shall mean any written communication
+27 primarily expressing a grievance;
+28 (10) Making a false or fraudulent statement statements or
+29 representation representations on, or relative to, an application for a
+30 policy for the purpose of obtaining a fee, commission, money, or other
+31 benefit from an any insurer, agent, broker, or individual person;
+-8-
+LB326 LB326
+2025 2025
+1 (11) Failing of an any insurer, upon receipt of a written inquiry
+2 from the department, to respond to such inquiry or request additional
+3 reasonable time to respond within fifteen working days;
+4 (12) Accepting applications for, or writing any policy of, insurance
+5 sold, negotiated, or solicited by an insurance producer or business
+6 entity not licensed or appointed as required by the Insurance Producers
+7 Licensing Act; and
+8 (13) Failing of a health insurance lead generator to maintain its
+9 books, records, documents, and other business records, including
+10 recordings, in such an order that data regarding complaints and marketing
+11 are accessible and retrievable for examination by the director. Data for
+12 at least the current calendar year and the two preceding calendar years
+13 shall be maintained; and
+14 (14) (13) Violating any provision of section 44-320, 44-348, 44-360,
+15 44-361, 44-369, 44-393, 44-515 to 44-518, 44-522, 44-523, 44-7,101,
+16 44-2132 to 44-2134, 44-3606, 44-4809, 44-4812, 44-4817, or 44-5266, the
+17 Privacy of Insurance Consumer Information Act, or the Unfair
+18 Discrimination Against Subjects of Abuse in Insurance Act.
+19 Sec. 4. Section 44-1527, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 44-1527 The director may examine and investigate the affairs of
+22 every insurer or health insurance lead generator doing business in this
+23 state in order to determine whether such insurer or health insurance lead
+24 generator has been, or is, engaged in an any unfair trade practice as
+25 defined in section 44-1524. A health insurance lead generator and an An
+26 insurer other than an agent, broker, or insurance consultant shall
+27 reimburse the department for the expense of examination in the same
+28 manner as provided for examination of insurance companies in the Insurers
+29 Examination Act. In the case of a depository institution, the director
+30 may examine and investigate the insurance activities of a depository
+31 institution in order to determine whether the depository institution has
+-9-
+LB326 LB326
+2025 2025
+1 been, or is, engaged in an any unfair trade practice defined in section
+2 44-1524. The director shall notify the appropriate state or federal
+3 banking agency of the director's intent to examine and investigate a
+4 depository institution and advise the appropriate state or federal
+5 banking agency of the suspected violation violations of state law prior
+6 to commencing the examination and investigation.
+7 Sec. 5. Section 44-1528, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 44-1528 (1) Whenever the director has reason to believe that an any
+10 insurer, health insurance lead generator, or person has engaged, or is
+11 engaging, in this state in any unfair trade practice whether or not
+12 defined in the Unfair Insurance Trade Practices Act and that a proceeding
+13 by him or her in respect thereto would be to the interest of the public,
+14 the director he or she shall issue and serve upon such insurer, health
+15 insurance lead generator, or person a statement of the charges in that
+16 respect and a notice of a hearing thereon to be held at a time and place
+17 stated fixed in the notice, which shall be given not be less than ten
+18 days after the date of the service thereof.
+19 (2) At the time and place fixed for such hearing, such insurer,
+20 health insurance lead generator, or person shall have an opportunity to
+21 be heard and to show cause why an order should not be made by the
+22 director requiring such insurer, health insurance lead generator, or
+23 person to cease and desist from the acts or practices so complained of.
+24 Upon good cause shown, the director shall permit any person to intervene,
+25 appear, and be heard at such hearing by counsel or in person.
+26 (3) Nothing contained in the Unfair Insurance Trade Practices Act
+27 shall require the observance at a any such hearing of formal rules of
+28 pleading or evidence.
+29 (4) The director, upon such hearing, may administer oaths, examine
+30 and cross-examine witnesses, receive oral and documentary evidence,
+31 subpoena witnesses, compel their attendance, and require the production
+-10-
+LB326 LB326
+2025 2025
+1 of books, papers, records, correspondence, or other documents which the
+2 director he or she deems relevant to the inquiry. The director may, and
+3 upon the request of any interested party shall, cause to be made a
+4 stenographic record of all the evidence and all the proceedings had at
+5 such hearing. If no stenographic record is made and if a judicial review
+6 is sought, the director shall prepare a statement of the evidence and
+7 proceeding for use on review. In case of a refusal of a any person to
+8 comply with a any subpoena issued under this section or to testify with
+9 respect to any matter concerning which the person he or she may be
+10 lawfully interrogated, the district court of Lancaster County or the
+11 county where such party resides, on application of the director, may
+12 require such person to comply with the such subpoena and to testify, and
+13 a any failure to obey any such order of the court may be punished by the
+14 court as a contempt thereof.
+15 (5) Statements of charges, notices, orders, and other processes of
+16 the director under the act may be served by a person anyone duly
+17 authorized by the director, either in the manner provided by law for
+18 service of process in civil actions or by mailing a copy thereof to the
+19 person affected by such statement, notice, order, or other process at the
+20 person's his, her, or its residence or principal office or place of
+21 business by either certified or registered mail, return receipt
+22 requested. The verified return by the person so serving such statement,
+23 notice, order, or other process, setting forth the manner of such
+24 service, shall be proof of the same, and the return receipt for such
+25 statement, notice, order, or other process, registered and mailed, shall
+26 be proof of the service of the same.
+27 Sec. 6. Section 44-1529, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 44-1529 If, after the hearing, the director finds that the insurer,
+30 health insurance lead generator, or person charged has engaged in an
+31 unfair trade practice, the director he or she shall reduce the his or her
+-11-
+LB326 LB326
+2025 2025
+1 findings to writing and shall issue and cause to be served upon the
+2 insurer, health insurance lead generator, or person charged with the
+3 violation a copy of such findings and an order requiring such insurer,
+4 health insurance lead generator, or person to cease and desist from
+5 engaging in the act or practice and the director he or she may order any
+6 one or more of the following:
+7 (1) Payment of a monetary penalty of not more than one thousand
+8 dollars for each violation, not to exceed an aggregate penalty of thirty
+9 thousand dollars, unless the violation was committed flagrantly in
+10 conscious disregard of the Unfair Insurance Trade Practices Act, in which
+11 case the penalty shall be not more than fifteen thousand dollars for each
+12 violation, not to exceed an aggregate penalty of one hundred fifty
+13 thousand dollars; and
+14 (2) Suspension or revocation of the insurer's license or certificate
+15 of authority if the insurer knew or reasonably should have known that the
+16 insurer he, she, or it was in violation of the act.
+17 Sec. 7. Section 44-1530, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 44-1530 (1) Any insurer, health insurance lead generator, or person
+20 subject to an order of the director under section 44-1529 or 44-1532 may
+21 appeal the order. The appeal shall be in accordance with the
+22 Administrative Procedure Act.
+23 (2) An order issued by the director under section 44-1529 shall
+24 become final:
+25 (a) Upon the expiration of the time allowed for filing a petition
+26 for review if no such petition has been duly filed, except that the
+27 director may thereafter modify or set aside the his or her order; or
+28 (b) Upon the final decision of the court if the court directs that
+29 the order of the director be affirmed or the petition for review
+30 dismissed.
+31 (3) No order of the director under the Unfair Insurance Trade
+-12-
+LB326 LB326
+2025 2025
+1 Practices Act or order of a court to enforce such order shall in any way
+2 relieve or absolve a any person affected by such order from any liability
+3 under any other laws of this state.
+4 Sec. 8. Section 44-1532, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 44-1532 Any insurer, health insurance lead generator, or person
+7 violating who violates a cease and desist order of the director under
+8 section 44-1529 may after notice and hearing and upon order of the
+9 director be subject to:
+10 (1) A monetary penalty of not more than thirty thousand dollars for
+11 each violation, not to exceed an aggregate penalty of one hundred fifty
+12 thousand dollars; and
+13 (2) Suspension or revocation of the insurer's license or certificate
+14 of authority.
+15 Sec. 9. Section 44-2403, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 44-2403 As used in the Nebraska Property and Liability Insurance
+18 Guaranty Association Act, unless the context otherwise requires:
+19 (1) Account means shall mean any one of the three accounts created
+20 by section 44-2404;
+21 (2) Director means shall mean the Director of Insurance or his or
+22 her duly authorized representative;
+23 (3) Association means shall mean the Nebraska Property and Liability
+24 Insurance Guaranty Association created by section 44-2404;
+25 (4)(a) Covered claim means shall mean an unpaid claim as provided
+26 for in the Nebraska Insurers Supervision, Rehabilitation, and Liquidation
+27 Act and which arises out of, and is within the coverage of, an insurance
+28 policy to which the Nebraska Property and Liability Insurance Guaranty
+29 Association Act applies issued by a member insurer that becomes insolvent
+30 after May 26, 1971, and (i) the claimant or insured is a resident of this
+31 state at the time of the insured event or (ii) the property from which
+-13-
+LB326 LB326
+2025 2025
+1 the claim arises is permanently located in this state. For entities other
+2 than an individual, the residence of a claimant, insured, or policyholder
+3 is the state in which the principal place of business is located at the
+4 time of the insured event. Covered claim includes shall also include the
+5 policyholder's unearned premiums paid by the policyholder on an insurance
+6 policy to which the act applies issued by a member insurer that becomes
+7 insolvent on or after July 9, 1988. Nothing in this section shall be
+8 construed to supersede, abrogate, or limit the common-law ownership of
+9 accounts receivable for earned premium, unearned premium, or unearned
+10 commission;
+11 (b) Covered claim includes claim obligations that arise through the
+12 issuance of an insurance policy by a member insurer, which are later
+13 allocated, transferred, merged into, novated, assumed by, or otherwise
+14 made the sole responsibility of a member or nonmember insurer, if: (i)
+15 The original member insurer has no remaining obligations on the policy
+16 after the transfer; (ii) a final order of liquidation with a finding of
+17 insolvency is entered against the insurer that assumes the member's
+18 coverage obligations by a court of competent jurisdiction in the
+19 insurer's state of domicile; (iii) the claim would have been a covered
+20 claim, as defined in subdivision (4)(a) of this section, if the claim had
+21 remained the responsibility of the original member insurer and the order
+22 of liquidation had been entered against the original member insurer, with
+23 the same claim submission date and liquidation date; and (iv) in cases
+24 where the member's coverage obligations are assumed by a nonmember
+25 insurer, the transaction receives prior regulatory or judicial approval;
+26 (c) (b) Covered claim does shall not include any amount due any
+27 reinsurer, insurer, liquidator, insurance pool, state or federal
+28 government program, or underwriting association, as a subrogation or
+29 assignment recovery recoveries or otherwise, a self-insured portion of
+30 the claim, a claim for any premium calculated on a retrospective basis, a
+31 premium any premiums subject to adjustment after the date of liquidation,
+-14-
+LB326 LB326
+2025 2025
+1 or any amount due to an attorney or adjuster as a fee fees for services
+2 rendered to the insolvent insurer. Covered claim shall also does not
+3 include any amount as punitive or exemplary damages or any amount claimed
+4 for incurred but not reported damages. Covered claim shall also does not
+5 include any claim filed with the guaranty fund after the earlier of
+6 twenty-five months after the date of the order of liquidation or the
+7 final date set by the court for the filing of claims against the
+8 liquidator or receiver. Nothing in this This subdivision (4)(b) shall not
+9 prevent a person from presenting the excluded claim to the insolvent
+10 insurer or its liquidator, but the claim shall not be asserted against
+11 any other person, including the person to whom benefits were paid or the
+12 insured of the insolvent insurer, except to the extent that the claim is
+13 outside the coverage or is in excess of the limits of the policy issued
+14 by the insolvent insurer;
+15 (5) Insolvent insurer means shall mean a member insurer licensed to
+16 transact the business of insurance in this state, either at the time the
+17 policy was issued or when the insured event occurred, and against whom a
+18 final order of liquidation, with a finding of insolvency, has been
+19 entered by a court of competent jurisdiction in the company's state of
+20 domicile after September 2, 1977;
+21 (6) Member insurer means a shall mean any person licensed to write
+22 any kind of insurance to which the Nebraska Property and Liability
+23 Insurance Guaranty Association Act applies pursuant to by the provisions
+24 of section 44-2402, including the exchange of reciprocal or
+25 interinsurance contracts, that is licensed to transact insurance in this
+26 state, except assessment associations operating under Chapter 44, article
+27 8, and also excepting unincorporated mutuals;
+28 (7) Net direct written premiums means shall mean direct gross
+29 premiums written in this state on insurance policies to which the
+30 Nebraska Property and Liability Insurance Guaranty Association Act
+31 applies, less return premiums thereon and dividends paid or credited to
+-15-
+LB326 LB326
+2025 2025
+1 policyholders on such direct business. Net direct written premiums does
+2 shall not include premiums on contracts between insurers or reinsurers;
+3 (8) Person means shall mean any individual, corporation,
+4 partnership, limited liability company, association, voluntary
+5 organization, or reciprocal insurance exchange; and
+6 (9) Insurance means shall mean those contracts defined in section
+7 44-102; and .
+8 (10) Cybersecurity insurance means first-party and third-party
+9 coverage in a policy or endorsement, written on a direct, admitted basis
+10 for losses and loss mitigation arising out of, or relating to, data
+11 privacy breaches, unauthorized information network security intrusions,
+12 computer viruses, ransomware, cyber extortion, identity theft, and
+13 similar exposures.
+14 Sec. 10. Section 44-2405, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 44-2405 (1) The board of directors of the association shall consist
+17 of seven member insurers persons serving terms as established in the plan
+18 of operation. The members of the board shall be selected by member
+19 insurers subject to the approval of the director. At least four members
+20 of the board shall represent domestic insurers. Vacancies on the board
+21 shall be filled for the remaining period of the term in the same manner
+22 as initial appointments. If no members are selected within sixty days
+23 after May 26, 1971, the director may appoint the initial members of the
+24 board of directors.
+25 (2) Subject to the limitations in subsection (1) of this section,
+26 the director shall, in approving selections to the board, consider among
+27 other things whether all member insurers are fairly represented.
+28 (3) Members of the board may be reimbursed from the assets of the
+29 association for expenses incurred by them as members of the board of
+30 directors as provided in sections 81-1174 to 81-1177 for state employees.
+31 Sec. 11. Section 44-2406, Reissue Revised Statutes of Nebraska, is
+-16-
+LB326 LB326
+2025 2025
+1 amended to read:
+2 44-2406 (1) The association shall be obligated only to the extent of
+3 the covered claims existing prior to the date a member insurer becomes an
+4 insolvent insurer or arising within thirty days after it has been
+5 determined that the insurer is an insolvent insurer, before the policy
+6 expiration date, if less than thirty days after such determination, or
+7 before the insured replaces the policy or on request effects
+8 cancellation, if the insured he or she does so within thirty days of such
+9 dates, but such obligation shall include only the amount of each covered
+10 claim that does not exceed three hundred thousand dollars, except that
+11 the association shall pay the amount required by law on any covered claim
+12 arising out of a workers' compensation policy. In no event shall the
+13 association be obligated to a policyholder or claimant in an amount in
+14 excess of the face amount of the policy from which the claim arises. The
+15 association shall be obligated on covered claims, including those under a
+16 workers' compensation policy, for unearned premiums only for the amount
+17 of each covered claim that does not exceed ten thousand dollars per
+18 policy. The association shall not be obligated to pay an amount in excess
+19 of three hundred thousand dollars for all first-party and third-party
+20 claims under a policy or endorsement providing, or that is found to
+21 provide, cybersecurity insurance coverage and arising out of, or related
+22 to, a single insured event, without regard to the number of claims made
+23 or the number of claimants.
+24 (2) The director shall transmit to the association all covered
+25 claims timely filed with him or her pursuant to the Nebraska Insurers
+26 Supervision, Rehabilitation, and Liquidation Act. The association shall
+27 thereupon be considered to have been designated the director's
+28 representative pursuant to the act, and it shall proceed to investigate,
+29 hear, settle, and determine such claims unless the claimant shall, within
+30 thirty days from the date the claim is filed with the director, file with
+31 the director a written demand that the claim be processed in the
+-17-
+LB326 LB326
+2025 2025
+1 liquidation proceedings as a claim not covered by the Nebraska Property
+2 and Liability Insurance Guaranty Association Act. In regard to those
+3 claims transmitted to the association by the director, the association
+4 and claimants shall have all of the rights and obligations and be subject
+5 to the same limitations and procedures as are specified in the Nebraska
+6 Insurers Supervision, Rehabilitation, and Liquidation Act for the
+7 determination of claims.
+8 (3) In the case of claims arising from bodily injury, sickness, or
+9 disease, including death resulting therefrom, the amount of any such
+10 award shall not exceed the claimant's reasonable expenses incurred for
+11 necessary medical, surgical, X-ray, and dental services, including
+12 prosthetic devices and necessary ambulance, hospital, professional
+13 nursing, and funeral services, and any amounts actually lost by reason of
+14 claimant's inability to work and earn wages or salary or their
+15 equivalent, but not other income, that would otherwise have been earned
+16 in the normal course of such injured claimant's employment. Such award
+17 may also include payments in fact made to others who are , not members of
+18 claimant's household, which were reasonably incurred to obtain from such
+19 other persons ordinary and necessary services for the production of
+20 income in lieu of those services the claimant would have performed for
+21 himself or herself had the claimant he or she not been injured. The
+22 amount of any such award under this subsection shall be reduced by the
+23 amount the claimant is entitled to receive as the beneficiary under any
+24 health, accident, or disability insurance, under any salary or wage
+25 continuation program under which the claimant he or she is entitled to
+26 benefits, or from the claimant's his or her employer in the form of
+27 workers' compensation benefits, or any other such benefits to which the
+28 claimant is legally entitled, and any claimant who intentionally fails to
+29 correctly disclose a right his or her rights to any such benefits shall
+30 forfeit all rights which the claimant he or she may have by the
+31 provisions of the Nebraska Property and Liability Insurance Guaranty
+-18-
+LB326 LB326
+2025 2025
+1 Association Act.
+2 (4) A third party having a covered claim against any insured of an
+3 insolvent insurer may file such claim with the director pursuant to the
+4 Nebraska Insurers Supervision, Rehabilitation, and Liquidation Act, and
+5 the association shall process such claim in the manner specified in
+6 subsections (2) and (3) of this section. The filing of such claim shall
+7 constitute an unconditional general release of all liability of such
+8 insured in connection with the claim unless the association thereafter
+9 denies the claim for the reason that the insurance policy issued by the
+10 insolvent insurer does not afford coverage or unless the claimant, within
+11 thirty days from the date of filing a his or her claim with the director,
+12 files with the director a written demand that the claim be processed in
+13 the liquidation proceedings as a claim not covered by the Nebraska
+14 Property and Liability Insurance Guaranty Association Act.
+15 Sec. 12. Section 44-2407, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 44-2407 (1) The association shall:
+18 (a) Allocate claims paid and expenses incurred among the three
+19 accounts separately and assess member insurers separately for each
+20 account in the amounts necessary to pay (i) the obligations of the
+21 association under section 44-2406, (ii) the expenses of handling covered
+22 claims, (iii) the cost of examinations under sections 44-2412 and
+23 44-2413, and (iv) other expenses authorized by the Nebraska Property and
+24 Liability Insurance Guaranty Association Act. The assessments of each
+25 member insurer shall be in the proportion that the net direct written
+26 premiums of such member insurer, on the basis of the insurance in the
+27 account involved, bears to the net direct written premiums of all member
+28 insurers for the same period and in the same account for the calendar
+29 year preceding the date of the assessment. The association may make an
+30 assessment for the purpose of meeting administrative costs and other
+31 general expenses not related to a particular impaired insurer, not to
+-19-
+LB326 LB326
+2025 2025
+1 exceed fifty dollars per member insurer in any one year. Each member
+2 insurer shall be notified of the assessment not later than thirty days
+3 before it is due. Except for such administrative assessment, no member
+4 insurer may be assessed in any year, on any account, an amount greater
+5 than one percent of that member insurer's net direct written premiums for
+6 the preceding calendar year on the kinds of insurance in the account. The
+7 association may defer, in whole or in part, the assessment of any member
+8 insurer if the assessment would cause the member insurer's financial
+9 statement to reflect amounts of capital or surplus less than the minimum
+10 required for a certificate of authority by any jurisdiction in which the
+11 member insurer is authorized to transact business as an insurer. Deferred
+12 assessments shall be paid when such payment will not reduce capital or
+13 surplus below such required minimum amounts. Such deferred assessments,
+14 when paid, shall be refunded to those member insurers that received
+15 larger assessments by virtue of such deferment or, in the discretion of
+16 any such insurer, credited against future assessments. No member insurer
+17 may pay a dividend to shareholders or policyholders while such insurer
+18 has an unpaid deferred assessment;
+19 (b) Handle claims through its employees or through one or more
+20 insurers or other persons designated by the association as a servicing
+21 facility, except that the designation of a servicing facility shall be
+22 subject to the approval of the director and such designation may be
+23 declined by a member insurer;
+24 (c) Reimburse any servicing facility for obligations of the
+25 association paid by the facility and for expenses incurred by the
+26 facility while handling claims on behalf of the association and such
+27 other expenses of the association as are authorized by the Nebraska
+28 Property and Liability Insurance Guaranty Association Act;
+29 (d) Issue to each insurer paying an assessment under this section, a
+30 certificate of contribution in appropriate form and terms as prescribed
+31 by the director for the amount so paid. All outstanding certificates
+-20-
+LB326 LB326
+2025 2025
+1 shall be of equal dignity and priority without reference to amounts or
+2 dates of issue. The insurer may offset against its premium and related
+3 retaliatory tax liability to this state, pursuant to sections 44-150 and
+4 77-908, accrued with respect to business transacted in such year, an
+5 amount equal to twenty percent of the original face amount of the
+6 certificate of contribution, beginning with the first calendar year after
+7 the year of issuance through the fifth calendar year after the year of
+8 issuance. If the association recovers any sum representing amounts
+9 previously written off by member insurers and offset against premium and
+10 related retaliatory taxes imposed by sections 44-150 and 77-908, such
+11 recovered sum shall be paid by the association to the director who shall
+12 handle such funds in the same manner as provided in Chapter 77, article
+13 9;
+14 (e) Be deemed the insolvent insurer to the extent of the
+15 association's obligation for covered claims and to such extent shall have
+16 all rights, duties, and obligations of the insolvent insurer, subject to
+17 the limitations provided in the act, as if the insurer had not become
+18 insolvent, with the exception that the liquidator shall retain the sole
+19 right to recover any reinsurance proceeds. The association's rights under
+20 this section include, but are not limited to, the right to pursue and
+21 retain salvage and subrogation recoveries on paid covered claim
+22 obligations to the extent paid by the guaranty fund; and
+23 (f) Have access to impaired or insolvent insurer records. The
+24 rehabilitator or liquidator of an impaired or insolvent insurer shall
+25 permit access by the association or its authorized representatives, and
+26 by any similar organization in another state or its authorized
+27 representatives, to the impaired or insolvent insurer's records which are
+28 necessary for the association or such similar organization in carrying
+29 out its functions with regard to covered claims. In addition, the
+30 rehabilitator or liquidator shall provide the association or its
+31 representative or such similar organization with copies of such records
+-21-
+LB326 LB326
+2025 2025
+1 upon the request and at the expense of the association or similar
+2 organization. In providing the information set forth in this subdivision,
+3 the association or its authorized representatives and the rehabilitator
+4 or liquidator of an impaired or insolvent insurer shall execute such
+5 agreements as are necessary to preserve the confidentiality of the
+6 information provided; and
+7 (g) Have the right to review and contest settlements, releases,
+8 compromises, waivers, and judgments to which the insolvent insurer or its
+9 insureds were parties prior to the entry of the order of liquidation. In
+10 an action to enforce settlements, releases, and judgments to which the
+11 insolvent insurer or its insureds were parties prior to the entry of the
+12 order of liquidation, the association shall have the right to assert the
+13 following defenses described in subsections (2) through (5) of this
+14 section, in addition to the defenses available to the insurer.
+15 (2) The association is not bound by a settlement, release,
+16 compromise, or waiver executed by an insured or the insurer, or any
+17 judgment entered against an insured or the insurer by consent or through
+18 failure to exhaust all appeals, if the settlement, release, compromise,
+19 waiver, or judgment was (a) executed, or entered into, within one hundred
+20 twenty days prior to the entry of an order of liquidation, and the
+21 insured or the insurer did not use reasonable care when it entered into
+22 the settlement, release, compromise, waiver, or judgment, or did not
+23 pursue all reasonable appeals of an adverse judgment or (b) executed by
+24 or taken against an insured or the insurer based on default, fraud,
+25 collusion, or the insurer's failure to defend.
+26 (3) If a court of competent jurisdiction finds that the association
+27 is not bound by a settlement, release, compromise, waiver, or judgment
+28 for the reason described in subdivision (2)(a) or (b) of this section,
+29 the settlement, release, compromise, waiver, or judgment shall be set
+30 aside, and the association shall be permitted to defend any covered claim
+31 on the merits. The settlement, release, compromise, waiver, or judgment
+-22-
+LB326 LB326
+2025 2025
+1 shall not be considered as evidence of liability or damages in connection
+2 with any claim brought against the association or any other party.
+3 (4) The association shall have the right to assert any statutory
+4 defenses or rights of offset against any settlement, release, compromise,
+5 or waiver executed by an insured or the insurer, or any judgment taken
+6 against the insured or the insurer.
+7 (5) As to any covered claims arising from a judgment under any
+8 decision, verdict, or finding based on default of the insolvent insurer
+9 or its failure to defend, the association, either on its own behalf or on
+10 behalf of the insured, may apply to have the judgment, order, decision,
+11 verdict, or finding set aside by the same court or administrator that
+12 entered the judgment, order, decision, verdict, or finding and shall be
+13 permitted to defend the claim on the merits.
+14 (6) (2) The association may:
+15 (a) Appear in, defend, and appeal any action;
+16 (b) Employ or retain such persons as are necessary to handle claims,
+17 provide covered policy benefits and services, and appoint and direct
+18 other service providers for covered services and perform other duties of
+19 the association;
+20 (c) Borrow funds necessary to effect the purposes of the Nebraska
+21 Property and Liability Insurance Guaranty Association Act in accord with
+22 the plan of operation;
+23 (d) Sue or be sued, and such power to sue shall include the power
+24 and right to intervene as a party before any court that has jurisdiction
+25 over an insolvent insurer as defined by such act;
+26 (e) Negotiate and become a party to such contracts as are necessary
+27 to carry out the purpose of such act;
+28 (f) Perform such other acts as are necessary or proper to effectuate
+29 the purpose of such act; and
+30 (g) Bring any action against any third-party administrator, agent,
+31 attorney, or other representative of the insolvent insurer to obtain
+-23-
+LB326 LB326
+2025 2025
+1 custody and control of all files, records, and electronic data related to
+2 an insolvent insurer that is appropriate or necessary for the
+3 association, or a similar organization in another state, to carry out
+4 duties under such act.
+5 Sec. 13. Section 44-2411, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 44-2411 (1) Any person having a claim against any insurer under any
+8 provisions of any insurance policy, which claim is also a covered claim
+9 against an insolvent insurer under the Nebraska Property and Liability
+10 Insurance Guaranty Association Act, shall be required to exhaust all
+11 rights under such policy before the association is obligated to pay the
+12 covered claim, whether the claim is a first-party or third-party claim,
+13 including, but not limited to, accident and health insurance, workers'
+14 compensation, and all other coverages except policies of an insolvent
+15 insurer. Any person having a claim against any state or federal
+16 government program, which claim would also give rise to a covered claim,
+17 shall be required to exhaust all rights under such government program
+18 before the association is obligated to pay the covered claim under such
+19 act. Any amount payable on a covered claim by the provisions of such act
+20 shall be reduced by the amount of the such recovery under any other
+21 insurance policy or state or federal government program.
+22 (2) Any person having a claim which may be recovered under more than
+23 one insurance guaranty association, or its equivalent, shall seek
+24 recovery first from the association of the place of residence of the
+25 insured, except that if it is a first-party claim for damage to property
+26 with a permanent location, from the association of the location of the
+27 property, and if it is a workers' compensation claim, from the
+28 association of the residence of the claimant. Any recovery pursuant to
+29 the Nebraska Property and Liability Insurance Guaranty Association Act
+30 shall be reduced by the amount of the recovery from any other insurance
+31 guaranty association or its equivalent.
+-24-
+LB326 LB326
+2025 2025
+1 Sec. 14. Section 44-6135, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 44-6135 A mutual insurance holding company shall file with the
+4 director, by March 1 of each year, an annual statement consisting of an
+5 income statement, balance sheet, and cash flows prepared in accordance
+6 with generally accepted accounting practices or statutory accounting
+7 principles and a confidential statement disclosing any intention to
+8 pledge, borrow against, alienate, hypothecate, or in any way encumber the
+9 assets of the mutual insurance holding company. A mutual insurance
+10 holding company shall also have an annual audit by an independent
+11 certified public accountant in a form approved by the director and shall
+12 file such audit on or before June 1 of each year for the year ending
+13 December 31 immediately preceding.
+14 Sec. 15. Original sections 44-1523, 44-1524, 44-1525, 44-1527,
+15 44-1528, 44-1529, 44-1530, 44-1532, 44-2403, 44-2405, 44-2406, 44-2407,
+16 44-2411, and 44-6135, Reissue Revised Statutes of Nebraska, are repealed.
+17 Sec. 16. The following sections are outright repealed: Sections
+18 44-5301, 44-5302, 44-5303, 44-5304, 44-5305, 44-5306, 44-5307, 44-5308,
+19 44-5309, 44-5310, 44-5311, 44-6701, and 44-6702, Reissue Revised Statutes
+20 of Nebraska.
+-25-
+[DELETED: yJA B F A A r t i t a s 44 4 4 4 4 4 44 4 4 4 4 a 4 RR S o N t d a r t tc p a d o t D o I t cpNa m i h c t c pr t t b o d o t N P a0L1p c t c p r t s2r c a j t p f d a3p t c r r t e o4r t c r r t a s a5p t e t H I A A a t6H7t h p t r t o s a t8o r s 4 4 4 494 4 4 4 4 4 4041B6L52]
+[DELETED: Sa4(of(((0l1w p t b a h i p o s t t2p i n l t s d t a c ( i 3c4s o t c i t a i o p f5f6( ( I m s m t p n o a p o7c8b9( ( I m s m a p r e0i1a2f b s o a o l e e i t3b4i5p a a I a i a s a6m h m o o a p l7h8a9I0b1( L g d m a c d t t6L52]
+[DELETED: ptas f t p o w i o w p t b a hi(ilh i l g o a a n o a0e1( ( P o c m s i a c o2i i s o a i p f3i4(5o6t7S 2 S 4 R R S o N i8a94 I s b a u t p i t b o0i f a i h i l g o p1e i t b o i t c a a o p2d i s 4 i t a o p ( i c3f a i c d o t U I T4P5(6b7S 3 S 4 R R S o N i8a94 A o t f a o p i c i0v1i6L52]
+[DELETED: (c a a e i c s sp(a( M t d o s o t s t br(t0( M a t o m t f c o a1a i o t l r s u w a a l i2o3(4w5(6t7a8( M f t p o e a p o9a0(1( M p d c o p2b t p o c d o i t b m3p d c o p b t p i 4n5o o p o i t f o a n c p6l7a a r o t s o v t I o o8e9s0r1t c o t i h o h i b w i6L52]
+[DELETED: u( M p d o c d oidp c a o o l w i f oma(a c a a a o b c o i0r i o t t r i u r o o1m2( K f w a a s o o p3o4d5c d o i t b m p d6c7f m s o f a t t f c o a8i9(0b r o s o a a i o k o t1m2s3( I o d o p a a a o4o5o6l c o s o a a s o a b7c c o o c c o a k p8r9( M o p a u d b0i1c6L52]
+[DELETED: o b p t o i a o o t t ac( M o p a u d bitaaep0( M o p a u d b1i o r o t s c a o e t s2h3t4o5( T r c o l i f a b6p7( T r c o l i r b l8r9( M o p a u d b0i o r o t s c a o e t s1h2t3p p c t b o t a o t4r5( T r c o l i f a b6p7( T r c o l i r b l8r9(0t1s o m s o t i T s s n6L52]
+[DELETED: p a i f t m s i a f tp o d a i i e f db( T o m c o r t i or t r a p o c i p sbi( T t m o r i f a bp0(1r2T3i4t m a o p o l r t t t5m6(7( K p o o t m o m a l8i9a r a t a s p o a o t a0p e i t p o a i t o p1a o g o o t p a o g d o2i a i t s p o a a a r o3p p o t p o a o a a s f o4a i t d o o b t o a v5c o i w n s i t p o6a7( G s p o o t g s o8p a i t s p o a o i c9t a s b o o s o a a i o0o c a p o l l1c o a d o p a t o a o6L52]
+[DELETED: v(ca(bi p o o s a f n i is b o a o p a f a e tp a f t b i o t i a i0p1(2d3s p m p p d t a o o t4i i a a w f r t s i c5e6( R o t r o p f a g i7p8o9r0(1t2p3t n o c t c b l o i4t5p6t s c m s m a w c7p8( M a f o f s s o9r0p1b6L52]
+[DELETED: (f t d t r t s i o r ar(s n o s b a i p o beL( F o a h i l g t m ib r d a o b r i0r1a2a3s4(54 4 4 4 t 4 4 4 4647P o I C I A o t U8D9S 4 S 4 R R S o N i0a14 T d m e a i t a o2e3s4g h b o i e i a a u t p a5d6i o t a a b o i c s7r t d f t e o e i t s8m9E0m e a i t i a o a d1i6L52]
+[DELETED: b4 T d s n t a s o fb a o t d i t e a i d i a a t a s o fbtS 5 S 4 R R S o N ia40i1e i t s i a u t p w o n2d3b4t5i6r7s8d9( A t t a p f f s h s i0h1b h a t s c w a o s n b m b t2d r s i h i l g o3p4U5a6( N c i t U I T P A7s r t o a a a s h o f r o8p9(0a c w r o a d e1s6L52]
+[DELETED: odu t r o a i p s c t b m ssi s t d s p a s o t e apcr t a m c w t p h o s m b0l i t d c o L C o t1c w s p r o a o t d m2r3a4c5(6t d u t a m b s b a p a d7a b t d e i t m p b l f8s9p0p h h o i r o p o o p o1b b e c o r m r r2r3n o o o p s f t m o s4s s b p o t s a t r r f s5s6b7S 6 S 4 R R S o N i8a940h i l g o p c h e i a1u6L52]
+[DELETED: f t w a s i a c t b s u ti h i l g o p c w tvh i l g o p t c a d feo( P o a m p o n m t o tdt d u t v w c f i0c1c2v n t e a a p o o h f3t4(5o6i7S 7 S 4 R R S o N i8a940s1a t o T a s b i a w t2A3( A o i b t d u s 4 s4b5(6f r i n s p h b d f e t t7d8(9t o o t d b a o t p f r0d1( N o o t d u t U I T6L52]
+[DELETED: PruS 8 S 4 R R S o N ia4 A i h i l g o pv w v a c a d o o t d us 4 m a n a h a u o o td0(1e2t3(4o5S 9 S 4 R R S o N i6a74 A u i t N P a L I8G9(0b1(2h3(4I5( C c m s m a u c a p6f7A8p t w t N P a L I G9A0a1s6L52]
+[DELETED: ttitppi o o a J 9 1 N i t s s bc t s a o l t c o oa r f e p u p o u0c1(2i o a i p b a m i w a l3a t m i n a b o o4m5T6a7i i e a t i t a t m8c o b a c o c j i t9i0c1r2o3t4w t m c o a a b a n5i6( ( C c d s n i a a d a7r i l i p s o f8g p o u a a a s o9a r r o o a s p o0t1p6L52]
+[DELETED: or t t i i C c s a d nifi a c f w t g f a t e ot m a t d o t o o l o tf d s b t c f t f o c a tlp a p f p t e c t t i0i1a2i3o4b5(6t7p8f o o l w a f o i h b9e0d1(2a k o i t w t N P a L3I4o s 4 i t e o r o5i6s788( N d w p m s m d g9p w i t s o i p t w t0N P a L I G A A1a6L52]
+[DELETED: ps( P m s m a i cp l l c a vo( I m s m t c d i s4( C i m f a tc0f l a l m a o o o r t d1p b u i n s i2c v r c e i t a3s4S5a647o8o o T m o t b s b s b m9i0o1s2a i a I n m a s w s d3a4b5( S t t l i s ( o t s6t7o8(9a f e i b t a m o t b o0d1S6L52]
+[DELETED: a4ti i o a w t d a i h bdeb t i r t p o o r ecd0c1t2a o o a w c p I n e s t3a4e5a6w7o e c c t d n e t t d p8p9o t h t d f a f a t0c u a p o e p o t i f t1p2t3o4( T d s t t t a a c5c t f w h o h p t t N I6S7t b c t h b d t d8r9h0t1t d a w d t t c b p i t6L52]
+[DELETED: la L I G A A I r t tc t t t a b t d t aatI S R a L A f td(d i d r t t a o a s0a s n e t c r e i f1n m s X a d s i2p d a n a h p3n4c i t w a e w o s o t5e6i7m8c9o p o a n s f t p o0i1h o h h t c h o s n b i T2a3a4h a o d i u a s o w5c6b o f t c h o h e i t f o7w8c9c0f a r w t c h o s m h b t1p o t N P a L I G6L52]
+[DELETED: A(iNt a s p s c i t m s isc a u g r o a l o si i c w t c u t a td0i1t2f3t l p a a c n c b t N4P5S6a748( A c p a e i a t t9a s a a m i s f e0a i t a n t p ( t o o t1a2c ( t c o e u s 4 a344L I G A A T a o e5m i s b i t p t t n d w6p o s m i o t b o t i i t7a8i f t s p a i t s a f t c9y0a f t p o m a c a o1g e n r t a p i i n t6L52]
+[DELETED: e f d p m i i a o y E mibittai i t a w c t m i fs0r1m2a3s4w p s b r t t m i t r5l6a7m8h9( H c t i e o t o o m0i1f2s t t a o t d a s d m b3d4( R a s f f o o t5a p b t f a f e i b t6f w h c o b o t a a s7o e o t a a a a b t N8P9(0c1b t d f t a s p A o c6L52]
+[DELETED: sdr7 a w r t b t i s y aa e t t p o t o f a o tcti I t a r a s r ap0r r t i b s 4 a 7 s1r2h394( B d t i i t t e o t5a6a7t l p i t a a i t i h n b8i9r0t s i b a n l t t r t p a1r s a s r o p c c2o3( H a t i o i i r T4r o l o a i o i i s5p6b a s o i a s o i a7r8n f t a o s s o i c9o i f w r t c c I a t0r o l s p t a o i1r6L52]
+[DELETED: u t r a a t e o t a o soto l o a i o i i s e sa a a n t p t c o ti( H t r t r a c s rci0a1i2o3f d d i s ( t ( o t4s5( T a i n b b a s r6c o w e b a i o t i o a7j8f9w0t d p t t e o a o o l a t1i2t s r c w o j o d n3p4o t a a i o t i b o d f5c6(7i8f9t s r c w o j s b s0a1o6L52]
+[DELETED: sw( T a s h t r t a a sdoa( A t a c c a f a j u ado0b1v o f s a b t s c o a t2e3p4(5(6(7p c p b a s a a a d8o9t0( B f n t e t p o t N1P2t3(4a5o6(7t8(9t0(1a o o r o t i i t o6L52]
+[DELETED: ca i i t i a o n f ta o a s o i a s t c odSa4pa a i i u t N P a L0I G A A s b r t e a1r2c3i b n l t a a h i w4c a a o c e p o a i5i A p h a c a a s o f6g7s b r t e a r u s g p8b9a0s b r b t a o t s r u a o1i2(3o i g a o i e s s4r f f t a o t p o r o t5i6w7p a i i i a w c c f t8a9t N P a L I G A A0s1g6L52]
+[DELETED: Sa4 A m i h c s f w tdi s b s a c f p i aw g a a p o s ap a a c s d a i tpa o t m i h c A m i0h c s a h a a a b a i1c2f s a o o b J 1 o e y f t y e3D4S 1  O s 4 4 4 454647S 1  T f s a o r S84940o6L52]
+
+
+================================================================================
+
+Raw Text:
+LB326 LB326
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 326
+FINAL READING
+Introduced by Jacobson, 42.
+Read first time January 16, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to amend sections 44-1523,
+2 44-1524, 44-1525, 44-1527, 44-1528, 44-1529, 44-1530, 44-1532,
+3 44-2403, 44-2405, 44-2406, 44-2407, 44-2411, and 44-6135, Reissue
+4 Revised Statutes of Nebraska; to define and redefine terms; to
+5 change powers and duties of the Director of Insurance; to change
+6 provisions relating to the Unfair Insurance Trade Practices Act, the
+7 Nebraska Property and Liability Insurance Guaranty Association Act,
+8 and mutual insurance holding companies; to change provisions
+9 relating to the board of directors of the Nebraska Property and
+10 Liability Insurance Guaranty Association and first-party and third-
+11 party claims; to change provisions relating to settlements,
+12 releases, compromises, and judgments; to provide for defenses as
+13 prescribed; to change requirements relating to exhaustion of
+14 remedies; to change requirements relating to annual statements as
+15 prescribed; to eliminate the Health Insurance Access Act and the
+16 Health Care Purchasing Pool Act; to eliminate obsolete provisions;
+17 to harmonize provisions; to repeal the original sections; and to
+18 outright repeal sections 44-5301, 44-5302, 44-5303, 44-5304,
+19 44-5305, 44-5306, 44-5307, 44-5308, 44-5309, 44-5310, 44-5311,
+20 44-6701, and 44-6702, Reissue Revised Statutes of Nebraska.
+21 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB326 LB326
+2025 2025
+1 Section 1. Section 44-1523, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 44-1523 For purposes of the Unfair Insurance Trade Practices Act:
+4 (1) Customer means an individual who purchases, applies to purchase,
+5 or is solicited to purchase an insurance product primarily for personal,
+6 family, or household purposes;
+7 (2) (1) Department means shall mean the Department of Insurance;
+8 (3) (2) Director means shall mean the Director of Insurance;
+9 (4) Health insurance lead generator means a person that utilizes a
+10 lead generating device to (a) publicize the availability of what is, or
+11 what purports to be, a health insurance product or service that the
+12 person is not licensed to sell directly to a customer, (b) identify a
+13 customer who may want to learn about a health insurance product, or (c)
+14 sell or transmit customer information to an insurer or producer for
+15 follow-up contact and sales activity;
+16 (5) (3) Insured means shall mean the party named on a policy or
+17 certificate as the individual with legal rights to the benefits provided
+18 by such policy or certificate;
+19 (6) (4) Insurer means shall mean any person, reciprocal exchange,
+20 interinsurer, Lloyds-type insurer or other similar group which includes
+21 an incorporated and individual unincorporated underwriter underwriters, a
+22 fraternal benefit society, or and other legal entity engaged in the
+23 business of insurance, including an agent agents, a broker brokers, an
+24 insurance consultant consultants, an adjuster adjusters, or a and third-
+25 party administrator administrators. Insurer also includes a shall also
+26 mean health maintenance organization organizations, a prepaid limited
+27 health service organization organizations, and a dental, optometric, or
+28 and other similar health service plan plans. For purposes of the Unfair
+29 Insurance Trade Practices Act act, all such insurers shall be deemed to
+30 be engaged in the business of insurance;
+31 (7) Lead generating device means a communication directed to the
+-2-
+
+LB326 LB326
+2025 2025
+1 public that, regardless of form, content, or stated purpose, is intended
+2 to result in the compilation or qualification of a list containing names
+3 and other personal information to be used to solicit residents of this
+4 state for the purchase of what is, or what purports to be, a health
+5 insurance product or service;
+6 (8) (5) Person means a shall mean any natural or artificial entity,
+7 including, but not limited to, an individual, a partnership, a limited
+8 liability company, an association, a trust, or a corporation, including a
+9 health insurance lead generator operating as a natural or artificial
+10 entity; and
+11 (9) (6) Policy or certificate means shall include any contract of
+12 insurance, indemnity, suretyship, or annuity issued, proposed for
+13 issuance, or intended for issuance by an any insurer; and .
+14 (10) Recording means an audio reproduction of sales and verification
+15 of calls, including virtual technology calls, in its entirety, used in
+16 the marketing of insurance.
+17 Sec. 2. Section 44-1524, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 44-1524 It shall be an unfair trade practice in the business of
+20 insurance for any insurer, health insurance lead generator, or person
+21 engaged in the business of insurance to commit any act or practice
+22 defined in section 44-1525 if the act or practice (1) is committed
+23 flagrantly and in conscious disregard of the Unfair Insurance Trade
+24 Practices Act or any rule or regulation adopted pursuant to the act or
+25 (2) is has been committed with such frequency as to indicate a general
+26 business practice to engage in that type of conduct.
+27 Sec. 3. Section 44-1525, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 44-1525 Any of the following acts or practices, if committed in
+30 violation of section 44-1524, shall be an unfair trade practice practices
+31 in the business of insurance:
+-3-
+
+LB326 LB326
+2025 2025
+1 (1) Making, issuing, circulating, or causing to be made, issued, or
+2 circulated an any estimate, illustration, circular, statement, sales
+3 presentation, omission, or comparison which:
+4 (a) Misrepresents the benefits, advantages, conditions, or terms of
+5 a any policy;
+6 (b) Misrepresents the dividends or share of the surplus to be
+7 received on a any policy;
+8 (c) Makes a any false or misleading statement relating statements as
+9 to the dividends or share of surplus previously paid on a any policy;
+10 (d) Misleads as to or misrepresents the financial condition of an
+11 any insurer or the legal reserve system upon which a any life insurer
+12 operates;
+13 (e) Uses a any name or title of a any policy or class of policies
+14 which misrepresents the true nature thereof;
+15 (f) Misrepresents for the purpose of inducing or tending to induce
+16 the purchase, lapse, forfeiture, exchange, conversion, or surrender of a
+17 any policy, including intentionally misquoting a any premium rate;
+18 (g) Misrepresents for the purpose of effecting a pledge or
+19 assignment of or effecting a loan against any policy; or
+20 (h) Misrepresents a any policy as being shares of stock;
+21 (2) Making, publishing, disseminating, circulating, or placing
+22 before the public, or causing, directly or indirectly, to be made,
+23 published, disseminated, circulated, or placed before the public, in a
+24 newspaper, magazine, electronic mail, Internet advertisement or posting,
+25 or other publication, or in the form of a notice, circular, pamphlet,
+26 letter, electronic posting of any kind, or poster, or communication over
+27 a any radio or television station, or via the Internet or other
+28 electronic means, or in any other way, an advertisement, announcement, or
+29 statement containing an any assertion, representation, or statement with
+30 respect to the business of insurance or with respect to an any insurer in
+31 the conduct of the insurer's his or her insurance business which is
+-4-
+
+LB326 LB326
+2025 2025
+1 untrue, deceptive, or misleading;
+2 (3) Making, publishing, disseminating, or circulating, directly or
+3 indirectly, or aiding, abetting, or encouraging the making, publishing,
+4 disseminating, or circulating of any oral or written statement or a any
+5 pamphlet, circular, article, or other literature which is false or
+6 maliciously critical of, or derogatory to, the financial condition of an
+7 any insurer and which is calculated to injure such insurer;
+8 (4) Entering into an any agreement to commit, or by a any concerted
+9 action committing, an any act of boycott, coercion, or intimidation
+10 resulting in, or tending to result in, unreasonable restraint of or
+11 monopoly in the business of insurance;
+12 (5)(a) Knowingly filing with a any supervisory or other public
+13 official, or knowingly making, publishing, disseminating, circulating, or
+14 delivering to a any person, or placing before the public, or knowingly
+15 causing, directly or indirectly, to be made, published, disseminated,
+16 circulated, delivered to a any person, or placed before the public, any
+17 false material statement of fact as to the financial condition of an
+18 insurer; or
+19 (b) Knowingly making a any false entry of a material fact in a any
+20 book, report, or statement of an any insurer or knowingly omitting to
+21 make a true entry of a any material fact pertaining to the business of
+22 such insurer in a any book, report, or statement of such insurer;
+23 (6) Issuing or delivering or permitting an agent agents, officer
+24 officers, or employee employees to issue or deliver agency company stock
+25 or other capital stock, or benefit certificates or shares in any common-
+26 law corporation, or securities or a any special or advisory board
+27 contract contracts or other contract contracts of any kind promising
+28 returns and profits as an inducement to insurance;
+29 (7)(a) Making or permitting any unfair discrimination between
+30 individuals of the same class and equal expectation of life in the rates
+31 charged for a any life insurance policy or annuity or in the dividends or
+-5-
+
+LB326 LB326
+2025 2025
+1 other benefits payable thereon or in any other of the terms and
+2 conditions of such policy or annuity;
+3 (b) Making or permitting any unfair discrimination between
+4 individuals of the same class involving essentially the same hazards in
+5 the amount of premium, policy fees, or rates charged for a any sickness
+6 and accident insurance policy or in the benefits payable thereunder, in
+7 any of the terms or conditions of such policy, or in any other manner,
+8 except that this subdivision shall not limit the negotiation of preferred
+9 provider policies and contracts under sections 44-4101 to 44-4113;
+10 (c) Making or permitting any unfair discrimination between
+11 individuals or risks of the same class and of essentially the same
+12 hazards by refusing to issue, refusing to renew, canceling, or limiting
+13 the amount of insurance coverage on a property or casualty risk because
+14 of the geographic location of the risk unless:
+15 (i) The refusal, cancellation, or limitation is for a business
+16 purpose which is not a pretext for unfair discrimination; or
+17 (ii) The refusal, cancellation, or limitation is required by law,
+18 rule, or regulation;
+19 (d) Making or permitting any unfair discrimination between
+20 individuals or risks of the same class and of essentially the same
+21 hazards by refusing to issue, refusing to renew, canceling, or limiting
+22 the amount of insurance coverage on a residential property risk, or the
+23 personal property contained therein, because of the age of the
+24 residential property unless:
+25 (i) The refusal, cancellation, or limitation is for a business
+26 purpose which is not a pretext for unfair discrimination; or
+27 (ii) The refusal, cancellation, or limitation is required by law,
+28 rule, or regulation;
+29 (e) Refusing to insure, refusing to continue to insure, or limiting
+30 the amount of coverage available to an individual solely because of the
+31 sex or marital status of the individual. This subdivision shall not
+-6-
+
+LB326 LB326
+2025 2025
+1 prohibit an insurer from taking marital status into account for the
+2 purpose of defining an individual individuals eligible for dependent
+3 benefits; or
+4 (f) Terminating or modifying coverage or refusing to issue or
+5 refusing to renew any property or casualty insurance policy solely
+6 because the applicant or insured or an any employee of the applicant or
+7 insured is mentally or physically impaired unless:
+8 (i) The termination, modification, or refusal is for a business
+9 purpose which is not a pretext for unfair discrimination; or
+10 (ii) The termination, modification, or refusal is required by law,
+11 rule, or regulation.
+12 This subdivision (f) shall not apply to a any sickness and accident
+13 insurance policy sold by a casualty insurer and shall not be interpreted
+14 to modify any other provision of law relating to the termination,
+15 modification, issuance, or renewal of any policy;
+16 (8)(a) Except as otherwise expressly provided by law:
+17 (i) Knowingly permitting or offering to make or making any life
+18 insurance policy, annuity, or sickness and accident insurance policy, or
+19 agreement relating as to any such policy or annuity, other than as
+20 plainly expressed in the policy or annuity issued thereon, or paying,
+21 allowing, or giving, or offering to pay, allow, or give, directly or
+22 indirectly, as inducement to such policy or annuity, a any rebate of
+23 premiums payable on the policy or annuity, or a any special favor or
+24 advantage in the dividends or other benefits thereon, or any valuable
+25 consideration or inducement whatever not specified in the policy or
+26 annuity; or
+27 (ii) Giving, selling, purchasing, or offering to give, sell, or
+28 purchase as inducement to such policy or annuity or in connection
+29 therewith any stocks, bonds, or other securities of an any insurer or
+30 other corporation, association, partnership, or limited liability
+31 company, or any dividends or profits accrued thereon, or anything of
+-7-
+
+LB326 LB326
+2025 2025
+1 value not specified in the policy or annuity.
+2 (b) Nothing in subdivision (7) or (8)(a) of this section shall be
+3 construed as including within the definition of discrimination or rebates
+4 any of the following acts or practices:
+5 (i) In the case of a any life insurance policy or annuity, paying
+6 bonuses to policyholders or otherwise abating their premiums, in whole or
+7 in part, out of surplus accumulated from nonparticipating insurance if
+8 such bonuses or abatement of premiums are fair and equitable to
+9 policyholders and for the best interests of the insurer and its
+10 policyholders;
+11 (ii) In the case of life insurance policies issued on the industrial
+12 debit plan, making allowance to policyholders who have continuously for a
+13 specified period made premium payments directly to an office of the
+14 insurer in an amount which fairly represents the saving in collection
+15 expenses; or
+16 (iii) Readjustment of the rate of premium for a group insurance
+17 policy based on the loss or expense thereunder, at the end of the first
+18 or any subsequent policy year of insurance thereunder, which may be made
+19 retroactive only for such policy year;
+20 (9) Failing of an any insurer to maintain a complete record of all
+21 the complaints received since the date of its last examination conducted
+22 pursuant to the Insurers Examination Act. This record shall indicate the
+23 total number of complaints, their classification by line of insurance,
+24 the nature of each complaint, the disposition of each complaint, and the
+25 processing time for it took to process each complaint. For purposes of
+26 this subdivision, complaint means shall mean any written communication
+27 primarily expressing a grievance;
+28 (10) Making a false or fraudulent statement statements or
+29 representation representations on, or relative to, an application for a
+30 policy for the purpose of obtaining a fee, commission, money, or other
+31 benefit from an any insurer, agent, broker, or individual person;
+-8-
+
+LB326 LB326
+2025 2025
+1 (11) Failing of an any insurer, upon receipt of a written inquiry
+2 from the department, to respond to such inquiry or request additional
+3 reasonable time to respond within fifteen working days;
+4 (12) Accepting applications for, or writing any policy of, insurance
+5 sold, negotiated, or solicited by an insurance producer or business
+6 entity not licensed or appointed as required by the Insurance Producers
+7 Licensing Act; and
+8 (13) Failing of a health insurance lead generator to maintain its
+9 books, records, documents, and other business records, including
+10 recordings, in such an order that data regarding complaints and marketing
+11 are accessible and retrievable for examination by the director. Data for
+12 at least the current calendar year and the two preceding calendar years
+13 shall be maintained; and
+14 (14) (13) Violating any provision of section 44-320, 44-348, 44-360,
+15 44-361, 44-369, 44-393, 44-515 to 44-518, 44-522, 44-523, 44-7,101,
+16 44-2132 to 44-2134, 44-3606, 44-4809, 44-4812, 44-4817, or 44-5266, the
+17 Privacy of Insurance Consumer Information Act, or the Unfair
+18 Discrimination Against Subjects of Abuse in Insurance Act.
+19 Sec. 4. Section 44-1527, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 44-1527 The director may examine and investigate the affairs of
+22 every insurer or health insurance lead generator doing business in this
+23 state in order to determine whether such insurer or health insurance lead
+24 generator has been, or is, engaged in an any unfair trade practice as
+25 defined in section 44-1524. A health insurance lead generator and an An
+26 insurer other than an agent, broker, or insurance consultant shall
+27 reimburse the department for the expense of examination in the same
+28 manner as provided for examination of insurance companies in the Insurers
+29 Examination Act. In the case of a depository institution, the director
+30 may examine and investigate the insurance activities of a depository
+31 institution in order to determine whether the depository institution has
+-9-
+
+LB326 LB326
+2025 2025
+1 been, or is, engaged in an any unfair trade practice defined in section
+2 44-1524. The director shall notify the appropriate state or federal
+3 banking agency of the director's intent to examine and investigate a
+4 depository institution and advise the appropriate state or federal
+5 banking agency of the suspected violation violations of state law prior
+6 to commencing the examination and investigation.
+7 Sec. 5. Section 44-1528, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 44-1528 (1) Whenever the director has reason to believe that an any
+10 insurer, health insurance lead generator, or person has engaged, or is
+11 engaging, in this state in any unfair trade practice whether or not
+12 defined in the Unfair Insurance Trade Practices Act and that a proceeding
+13 by him or her in respect thereto would be to the interest of the public,
+14 the director he or she shall issue and serve upon such insurer, health
+15 insurance lead generator, or person a statement of the charges in that
+16 respect and a notice of a hearing thereon to be held at a time and place
+17 stated fixed in the notice, which shall be given not be less than ten
+18 days after the date of the service thereof.
+19 (2) At the time and place fixed for such hearing, such insurer,
+20 health insurance lead generator, or person shall have an opportunity to
+21 be heard and to show cause why an order should not be made by the
+22 director requiring such insurer, health insurance lead generator, or
+23 person to cease and desist from the acts or practices so complained of.
+24 Upon good cause shown, the director shall permit any person to intervene,
+25 appear, and be heard at such hearing by counsel or in person.
+26 (3) Nothing contained in the Unfair Insurance Trade Practices Act
+27 shall require the observance at a any such hearing of formal rules of
+28 pleading or evidence.
+29 (4) The director, upon such hearing, may administer oaths, examine
+30 and cross-examine witnesses, receive oral and documentary evidence,
+31 subpoena witnesses, compel their attendance, and require the production
+-10-
+
+LB326 LB326
+2025 2025
+1 of books, papers, records, correspondence, or other documents which the
+2 director he or she deems relevant to the inquiry. The director may, and
+3 upon the request of any interested party shall, cause to be made a
+4 stenographic record of all the evidence and all the proceedings had at
+5 such hearing. If no stenographic record is made and if a judicial review
+6 is sought, the director shall prepare a statement of the evidence and
+7 proceeding for use on review. In case of a refusal of a any person to
+8 comply with a any subpoena issued under this section or to testify with
+9 respect to any matter concerning which the person he or she may be
+10 lawfully interrogated, the district court of Lancaster County or the
+11 county where such party resides, on application of the director, may
+12 require such person to comply with the such subpoena and to testify, and
+13 a any failure to obey any such order of the court may be punished by the
+14 court as a contempt thereof.
+15 (5) Statements of charges, notices, orders, and other processes of
+16 the director under the act may be served by a person anyone duly
+17 authorized by the director, either in the manner provided by law for
+18 service of process in civil actions or by mailing a copy thereof to the
+19 person affected by such statement, notice, order, or other process at the
+20 person's his, her, or its residence or principal office or place of
+21 business by either certified or registered mail, return receipt
+22 requested. The verified return by the person so serving such statement,
+23 notice, order, or other process, setting forth the manner of such
+24 service, shall be proof of the same, and the return receipt for such
+25 statement, notice, order, or other process, registered and mailed, shall
+26 be proof of the service of the same.
+27 Sec. 6. Section 44-1529, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 44-1529 If, after the hearing, the director finds that the insurer,
+30 health insurance lead generator, or person charged has engaged in an
+31 unfair trade practice, the director he or she shall reduce the his or her
+-11-
+
+LB326 LB326
+2025 2025
+1 findings to writing and shall issue and cause to be served upon the
+2 insurer, health insurance lead generator, or person charged with the
+3 violation a copy of such findings and an order requiring such insurer,
+4 health insurance lead generator, or person to cease and desist from
+5 engaging in the act or practice and the director he or she may order any
+6 one or more of the following:
+7 (1) Payment of a monetary penalty of not more than one thousand
+8 dollars for each violation, not to exceed an aggregate penalty of thirty
+9 thousand dollars, unless the violation was committed flagrantly in
+10 conscious disregard of the Unfair Insurance Trade Practices Act, in which
+11 case the penalty shall be not more than fifteen thousand dollars for each
+12 violation, not to exceed an aggregate penalty of one hundred fifty
+13 thousand dollars; and
+14 (2) Suspension or revocation of the insurer's license or certificate
+15 of authority if the insurer knew or reasonably should have known that the
+16 insurer he, she, or it was in violation of the act.
+17 Sec. 7. Section 44-1530, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 44-1530 (1) Any insurer, health insurance lead generator, or person
+20 subject to an order of the director under section 44-1529 or 44-1532 may
+21 appeal the order. The appeal shall be in accordance with the
+22 Administrative Procedure Act.
+23 (2) An order issued by the director under section 44-1529 shall
+24 become final:
+25 (a) Upon the expiration of the time allowed for filing a petition
+26 for review if no such petition has been duly filed, except that the
+27 director may thereafter modify or set aside the his or her order; or
+28 (b) Upon the final decision of the court if the court directs that
+29 the order of the director be affirmed or the petition for review
+30 dismissed.
+31 (3) No order of the director under the Unfair Insurance Trade
+-12-
+
+LB326 LB326
+2025 2025
+1 Practices Act or order of a court to enforce such order shall in any way
+2 relieve or absolve a any person affected by such order from any liability
+3 under any other laws of this state.
+4 Sec. 8. Section 44-1532, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 44-1532 Any insurer, health insurance lead generator, or person
+7 violating who violates a cease and desist order of the director under
+8 section 44-1529 may after notice and hearing and upon order of the
+9 director be subject to:
+10 (1) A monetary penalty of not more than thirty thousand dollars for
+11 each violation, not to exceed an aggregate penalty of one hundred fifty
+12 thousand dollars; and
+13 (2) Suspension or revocation of the insurer's license or certificate
+14 of authority.
+15 Sec. 9. Section 44-2403, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 44-2403 As used in the Nebraska Property and Liability Insurance
+18 Guaranty Association Act, unless the context otherwise requires:
+19 (1) Account means shall mean any one of the three accounts created
+20 by section 44-2404;
+21 (2) Director means shall mean the Director of Insurance or his or
+22 her duly authorized representative;
+23 (3) Association means shall mean the Nebraska Property and Liability
+24 Insurance Guaranty Association created by section 44-2404;
+25 (4)(a) Covered claim means shall mean an unpaid claim as provided
+26 for in the Nebraska Insurers Supervision, Rehabilitation, and Liquidation
+27 Act and which arises out of, and is within the coverage of, an insurance
+28 policy to which the Nebraska Property and Liability Insurance Guaranty
+29 Association Act applies issued by a member insurer that becomes insolvent
+30 after May 26, 1971, and (i) the claimant or insured is a resident of this
+31 state at the time of the insured event or (ii) the property from which
+-13-
+
+LB326 LB326
+2025 2025
+1 the claim arises is permanently located in this state. For entities other
+2 than an individual, the residence of a claimant, insured, or policyholder
+3 is the state in which the principal place of business is located at the
+4 time of the insured event. Covered claim includes shall also include the
+5 policyholder's unearned premiums paid by the policyholder on an insurance
+6 policy to which the act applies issued by a member insurer that becomes
+7 insolvent on or after July 9, 1988. Nothing in this section shall be
+8 construed to supersede, abrogate, or limit the common-law ownership of
+9 accounts receivable for earned premium, unearned premium, or unearned
+10 commission;
+11 (b) Covered claim includes claim obligations that arise through the
+12 issuance of an insurance policy by a member insurer, which are later
+13 allocated, transferred, merged into, novated, assumed by, or otherwise
+14 made the sole responsibility of a member or nonmember insurer, if: (i)
+15 The original member insurer has no remaining obligations on the policy
+16 after the transfer; (ii) a final order of liquidation with a finding of
+17 insolvency is entered against the insurer that assumes the member's
+18 coverage obligations by a court of competent jurisdiction in the
+19 insurer's state of domicile; (iii) the claim would have been a covered
+20 claim, as defined in subdivision (4)(a) of this section, if the claim had
+21 remained the responsibility of the original member insurer and the order
+22 of liquidation had been entered against the original member insurer, with
+23 the same claim submission date and liquidation date; and (iv) in cases
+24 where the member's coverage obligations are assumed by a nonmember
+25 insurer, the transaction receives prior regulatory or judicial approval;
+26 (c) (b) Covered claim does shall not include any amount due any
+27 reinsurer, insurer, liquidator, insurance pool, state or federal
+28 government program, or underwriting association, as a subrogation or
+29 assignment recovery recoveries or otherwise, a self-insured portion of
+30 the claim, a claim for any premium calculated on a retrospective basis, a
+31 premium any premiums subject to adjustment after the date of liquidation,
+-14-
+
+LB326 LB326
+2025 2025
+1 or any amount due to an attorney or adjuster as a fee fees for services
+2 rendered to the insolvent insurer. Covered claim shall also does not
+3 include any amount as punitive or exemplary damages or any amount claimed
+4 for incurred but not reported damages. Covered claim shall also does not
+5 include any claim filed with the guaranty fund after the earlier of
+6 twenty-five months after the date of the order of liquidation or the
+7 final date set by the court for the filing of claims against the
+8 liquidator or receiver. Nothing in this This subdivision (4)(b) shall not
+9 prevent a person from presenting the excluded claim to the insolvent
+10 insurer or its liquidator, but the claim shall not be asserted against
+11 any other person, including the person to whom benefits were paid or the
+12 insured of the insolvent insurer, except to the extent that the claim is
+13 outside the coverage or is in excess of the limits of the policy issued
+14 by the insolvent insurer;
+15 (5) Insolvent insurer means shall mean a member insurer licensed to
+16 transact the business of insurance in this state, either at the time the
+17 policy was issued or when the insured event occurred, and against whom a
+18 final order of liquidation, with a finding of insolvency, has been
+19 entered by a court of competent jurisdiction in the company's state of
+20 domicile after September 2, 1977;
+21 (6) Member insurer means a shall mean any person licensed to write
+22 any kind of insurance to which the Nebraska Property and Liability
+23 Insurance Guaranty Association Act applies pursuant to by the provisions
+24 of section 44-2402, including the exchange of reciprocal or
+25 interinsurance contracts, that is licensed to transact insurance in this
+26 state, except assessment associations operating under Chapter 44, article
+27 8, and also excepting unincorporated mutuals;
+28 (7) Net direct written premiums means shall mean direct gross
+29 premiums written in this state on insurance policies to which the
+30 Nebraska Property and Liability Insurance Guaranty Association Act
+31 applies, less return premiums thereon and dividends paid or credited to
+-15-
+
+LB326 LB326
+2025 2025
+1 policyholders on such direct business. Net direct written premiums does
+2 shall not include premiums on contracts between insurers or reinsurers;
+3 (8) Person means shall mean any individual, corporation,
+4 partnership, limited liability company, association, voluntary
+5 organization, or reciprocal insurance exchange; and
+6 (9) Insurance means shall mean those contracts defined in section
+7 44-102; and .
+8 (10) Cybersecurity insurance means first-party and third-party
+9 coverage in a policy or endorsement, written on a direct, admitted basis
+10 for losses and loss mitigation arising out of, or relating to, data
+11 privacy breaches, unauthorized information network security intrusions,
+12 computer viruses, ransomware, cyber extortion, identity theft, and
+13 similar exposures.
+14 Sec. 10. Section 44-2405, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 44-2405 (1) The board of directors of the association shall consist
+17 of seven member insurers persons serving terms as established in the plan
+18 of operation. The members of the board shall be selected by member
+19 insurers subject to the approval of the director. At least four members
+20 of the board shall represent domestic insurers. Vacancies on the board
+21 shall be filled for the remaining period of the term in the same manner
+22 as initial appointments. If no members are selected within sixty days
+23 after May 26, 1971, the director may appoint the initial members of the
+24 board of directors.
+25 (2) Subject to the limitations in subsection (1) of this section,
+26 the director shall, in approving selections to the board, consider among
+27 other things whether all member insurers are fairly represented.
+28 (3) Members of the board may be reimbursed from the assets of the
+29 association for expenses incurred by them as members of the board of
+30 directors as provided in sections 81-1174 to 81-1177 for state employees.
+31 Sec. 11. Section 44-2406, Reissue Revised Statutes of Nebraska, is
+-16-
+
+LB326 LB326
+2025 2025
+1 amended to read:
+2 44-2406 (1) The association shall be obligated only to the extent of
+3 the covered claims existing prior to the date a member insurer becomes an
+4 insolvent insurer or arising within thirty days after it has been
+5 determined that the insurer is an insolvent insurer, before the policy
+6 expiration date, if less than thirty days after such determination, or
+7 before the insured replaces the policy or on request effects
+8 cancellation, if the insured he or she does so within thirty days of such
+9 dates, but such obligation shall include only the amount of each covered
+10 claim that does not exceed three hundred thousand dollars, except that
+11 the association shall pay the amount required by law on any covered claim
+12 arising out of a workers' compensation policy. In no event shall the
+13 association be obligated to a policyholder or claimant in an amount in
+14 excess of the face amount of the policy from which the claim arises. The
+15 association shall be obligated on covered claims, including those under a
+16 workers' compensation policy, for unearned premiums only for the amount
+17 of each covered claim that does not exceed ten thousand dollars per
+18 policy. The association shall not be obligated to pay an amount in excess
+19 of three hundred thousand dollars for all first-party and third-party
+20 claims under a policy or endorsement providing, or that is found to
+21 provide, cybersecurity insurance coverage and arising out of, or related
+22 to, a single insured event, without regard to the number of claims made
+23 or the number of claimants.
+24 (2) The director shall transmit to the association all covered
+25 claims timely filed with him or her pursuant to the Nebraska Insurers
+26 Supervision, Rehabilitation, and Liquidation Act. The association shall
+27 thereupon be considered to have been designated the director's
+28 representative pursuant to the act, and it shall proceed to investigate,
+29 hear, settle, and determine such claims unless the claimant shall, within
+30 thirty days from the date the claim is filed with the director, file with
+31 the director a written demand that the claim be processed in the
+-17-
+
+LB326 LB326
+2025 2025
+1 liquidation proceedings as a claim not covered by the Nebraska Property
+2 and Liability Insurance Guaranty Association Act. In regard to those
+3 claims transmitted to the association by the director, the association
+4 and claimants shall have all of the rights and obligations and be subject
+5 to the same limitations and procedures as are specified in the Nebraska
+6 Insurers Supervision, Rehabilitation, and Liquidation Act for the
+7 determination of claims.
+8 (3) In the case of claims arising from bodily injury, sickness, or
+9 disease, including death resulting therefrom, the amount of any such
+10 award shall not exceed the claimant's reasonable expenses incurred for
+11 necessary medical, surgical, X-ray, and dental services, including
+12 prosthetic devices and necessary ambulance, hospital, professional
+13 nursing, and funeral services, and any amounts actually lost by reason of
+14 claimant's inability to work and earn wages or salary or their
+15 equivalent, but not other income, that would otherwise have been earned
+16 in the normal course of such injured claimant's employment. Such award
+17 may also include payments in fact made to others who are , not members of
+18 claimant's household, which were reasonably incurred to obtain from such
+19 other persons ordinary and necessary services for the production of
+20 income in lieu of those services the claimant would have performed for
+21 himself or herself had the claimant he or she not been injured. The
+22 amount of any such award under this subsection shall be reduced by the
+23 amount the claimant is entitled to receive as the beneficiary under any
+24 health, accident, or disability insurance, under any salary or wage
+25 continuation program under which the claimant he or she is entitled to
+26 benefits, or from the claimant's his or her employer in the form of
+27 workers' compensation benefits, or any other such benefits to which the
+28 claimant is legally entitled, and any claimant who intentionally fails to
+29 correctly disclose a right his or her rights to any such benefits shall
+30 forfeit all rights which the claimant he or she may have by the
+31 provisions of the Nebraska Property and Liability Insurance Guaranty
+-18-
+
+LB326 LB326
+2025 2025
+1 Association Act.
+2 (4) A third party having a covered claim against any insured of an
+3 insolvent insurer may file such claim with the director pursuant to the
+4 Nebraska Insurers Supervision, Rehabilitation, and Liquidation Act, and
+5 the association shall process such claim in the manner specified in
+6 subsections (2) and (3) of this section. The filing of such claim shall
+7 constitute an unconditional general release of all liability of such
+8 insured in connection with the claim unless the association thereafter
+9 denies the claim for the reason that the insurance policy issued by the
+10 insolvent insurer does not afford coverage or unless the claimant, within
+11 thirty days from the date of filing a his or her claim with the director,
+12 files with the director a written demand that the claim be processed in
+13 the liquidation proceedings as a claim not covered by the Nebraska
+14 Property and Liability Insurance Guaranty Association Act.
+15 Sec. 12. Section 44-2407, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 44-2407 (1) The association shall:
+18 (a) Allocate claims paid and expenses incurred among the three
+19 accounts separately and assess member insurers separately for each
+20 account in the amounts necessary to pay (i) the obligations of the
+21 association under section 44-2406, (ii) the expenses of handling covered
+22 claims, (iii) the cost of examinations under sections 44-2412 and
+23 44-2413, and (iv) other expenses authorized by the Nebraska Property and
+24 Liability Insurance Guaranty Association Act. The assessments of each
+25 member insurer shall be in the proportion that the net direct written
+26 premiums of such member insurer, on the basis of the insurance in the
+27 account involved, bears to the net direct written premiums of all member
+28 insurers for the same period and in the same account for the calendar
+29 year preceding the date of the assessment. The association may make an
+30 assessment for the purpose of meeting administrative costs and other
+31 general expenses not related to a particular impaired insurer, not to
+-19-
+
+LB326 LB326
+2025 2025
+1 exceed fifty dollars per member insurer in any one year. Each member
+2 insurer shall be notified of the assessment not later than thirty days
+3 before it is due. Except for such administrative assessment, no member
+4 insurer may be assessed in any year, on any account, an amount greater
+5 than one percent of that member insurer's net direct written premiums for
+6 the preceding calendar year on the kinds of insurance in the account. The
+7 association may defer, in whole or in part, the assessment of any member
+8 insurer if the assessment would cause the member insurer's financial
+9 statement to reflect amounts of capital or surplus less than the minimum
+10 required for a certificate of authority by any jurisdiction in which the
+11 member insurer is authorized to transact business as an insurer. Deferred
+12 assessments shall be paid when such payment will not reduce capital or
+13 surplus below such required minimum amounts. Such deferred assessments,
+14 when paid, shall be refunded to those member insurers that received
+15 larger assessments by virtue of such deferment or, in the discretion of
+16 any such insurer, credited against future assessments. No member insurer
+17 may pay a dividend to shareholders or policyholders while such insurer
+18 has an unpaid deferred assessment;
+19 (b) Handle claims through its employees or through one or more
+20 insurers or other persons designated by the association as a servicing
+21 facility, except that the designation of a servicing facility shall be
+22 subject to the approval of the director and such designation may be
+23 declined by a member insurer;
+24 (c) Reimburse any servicing facility for obligations of the
+25 association paid by the facility and for expenses incurred by the
+26 facility while handling claims on behalf of the association and such
+27 other expenses of the association as are authorized by the Nebraska
+28 Property and Liability Insurance Guaranty Association Act;
+29 (d) Issue to each insurer paying an assessment under this section, a
+30 certificate of contribution in appropriate form and terms as prescribed
+31 by the director for the amount so paid. All outstanding certificates
+-20-
+
+LB326 LB326
+2025 2025
+1 shall be of equal dignity and priority without reference to amounts or
+2 dates of issue. The insurer may offset against its premium and related
+3 retaliatory tax liability to this state, pursuant to sections 44-150 and
+4 77-908, accrued with respect to business transacted in such year, an
+5 amount equal to twenty percent of the original face amount of the
+6 certificate of contribution, beginning with the first calendar year after
+7 the year of issuance through the fifth calendar year after the year of
+8 issuance. If the association recovers any sum representing amounts
+9 previously written off by member insurers and offset against premium and
+10 related retaliatory taxes imposed by sections 44-150 and 77-908, such
+11 recovered sum shall be paid by the association to the director who shall
+12 handle such funds in the same manner as provided in Chapter 77, article
+13 9;
+14 (e) Be deemed the insolvent insurer to the extent of the
+15 association's obligation for covered claims and to such extent shall have
+16 all rights, duties, and obligations of the insolvent insurer, subject to
+17 the limitations provided in the act, as if the insurer had not become
+18 insolvent, with the exception that the liquidator shall retain the sole
+19 right to recover any reinsurance proceeds. The association's rights under
+20 this section include, but are not limited to, the right to pursue and
+21 retain salvage and subrogation recoveries on paid covered claim
+22 obligations to the extent paid by the guaranty fund; and
+23 (f) Have access to impaired or insolvent insurer records. The
+24 rehabilitator or liquidator of an impaired or insolvent insurer shall
+25 permit access by the association or its authorized representatives, and
+26 by any similar organization in another state or its authorized
+27 representatives, to the impaired or insolvent insurer's records which are
+28 necessary for the association or such similar organization in carrying
+29 out its functions with regard to covered claims. In addition, the
+30 rehabilitator or liquidator shall provide the association or its
+31 representative or such similar organization with copies of such records
+-21-
+
+LB326 LB326
+2025 2025
+1 upon the request and at the expense of the association or similar
+2 organization. In providing the information set forth in this subdivision,
+3 the association or its authorized representatives and the rehabilitator
+4 or liquidator of an impaired or insolvent insurer shall execute such
+5 agreements as are necessary to preserve the confidentiality of the
+6 information provided; and
+7 (g) Have the right to review and contest settlements, releases,
+8 compromises, waivers, and judgments to which the insolvent insurer or its
+9 insureds were parties prior to the entry of the order of liquidation. In
+10 an action to enforce settlements, releases, and judgments to which the
+11 insolvent insurer or its insureds were parties prior to the entry of the
+12 order of liquidation, the association shall have the right to assert the
+13 following defenses described in subsections (2) through (5) of this
+14 section, in addition to the defenses available to the insurer.
+15 (2) The association is not bound by a settlement, release,
+16 compromise, or waiver executed by an insured or the insurer, or any
+17 judgment entered against an insured or the insurer by consent or through
+18 failure to exhaust all appeals, if the settlement, release, compromise,
+19 waiver, or judgment was (a) executed, or entered into, within one hundred
+20 twenty days prior to the entry of an order of liquidation, and the
+21 insured or the insurer did not use reasonable care when it entered into
+22 the settlement, release, compromise, waiver, or judgment, or did not
+23 pursue all reasonable appeals of an adverse judgment or (b) executed by
+24 or taken against an insured or the insurer based on default, fraud,
+25 collusion, or the insurer's failure to defend.
+26 (3) If a court of competent jurisdiction finds that the association
+27 is not bound by a settlement, release, compromise, waiver, or judgment
+28 for the reason described in subdivision (2)(a) or (b) of this section,
+29 the settlement, release, compromise, waiver, or judgment shall be set
+30 aside, and the association shall be permitted to defend any covered claim
+31 on the merits. The settlement, release, compromise, waiver, or judgment
+-22-
+
+LB326 LB326
+2025 2025
+1 shall not be considered as evidence of liability or damages in connection
+2 with any claim brought against the association or any other party.
+3 (4) The association shall have the right to assert any statutory
+4 defenses or rights of offset against any settlement, release, compromise,
+5 or waiver executed by an insured or the insurer, or any judgment taken
+6 against the insured or the insurer.
+7 (5) As to any covered claims arising from a judgment under any
+8 decision, verdict, or finding based on default of the insolvent insurer
+9 or its failure to defend, the association, either on its own behalf or on
+10 behalf of the insured, may apply to have the judgment, order, decision,
+11 verdict, or finding set aside by the same court or administrator that
+12 entered the judgment, order, decision, verdict, or finding and shall be
+13 permitted to defend the claim on the merits.
+14 (6) (2) The association may:
+15 (a) Appear in, defend, and appeal any action;
+16 (b) Employ or retain such persons as are necessary to handle claims,
+17 provide covered policy benefits and services, and appoint and direct
+18 other service providers for covered services and perform other duties of
+19 the association;
+20 (c) Borrow funds necessary to effect the purposes of the Nebraska
+21 Property and Liability Insurance Guaranty Association Act in accord with
+22 the plan of operation;
+23 (d) Sue or be sued, and such power to sue shall include the power
+24 and right to intervene as a party before any court that has jurisdiction
+25 over an insolvent insurer as defined by such act;
+26 (e) Negotiate and become a party to such contracts as are necessary
+27 to carry out the purpose of such act;
+28 (f) Perform such other acts as are necessary or proper to effectuate
+29 the purpose of such act; and
+30 (g) Bring any action against any third-party administrator, agent,
+31 attorney, or other representative of the insolvent insurer to obtain
+-23-
+
+LB326 LB326
+2025 2025
+1 custody and control of all files, records, and electronic data related to
+2 an insolvent insurer that is appropriate or necessary for the
+3 association, or a similar organization in another state, to carry out
+4 duties under such act.
+5 Sec. 13. Section 44-2411, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 44-2411 (1) Any person having a claim against any insurer under any
+8 provisions of any insurance policy, which claim is also a covered claim
+9 against an insolvent insurer under the Nebraska Property and Liability
+10 Insurance Guaranty Association Act, shall be required to exhaust all
+11 rights under such policy before the association is obligated to pay the
+12 covered claim, whether the claim is a first-party or third-party claim,
+13 including, but not limited to, accident and health insurance, workers'
+14 compensation, and all other coverages except policies of an insolvent
+15 insurer. Any person having a claim against any state or federal
+16 government program, which claim would also give rise to a covered claim,
+17 shall be required to exhaust all rights under such government program
+18 before the association is obligated to pay the covered claim under such
+19 act. Any amount payable on a covered claim by the provisions of such act
+20 shall be reduced by the amount of the such recovery under any other
+21 insurance policy or state or federal government program.
+22 (2) Any person having a claim which may be recovered under more than
+23 one insurance guaranty association, or its equivalent, shall seek
+24 recovery first from the association of the place of residence of the
+25 insured, except that if it is a first-party claim for damage to property
+26 with a permanent location, from the association of the location of the
+27 property, and if it is a workers' compensation claim, from the
+28 association of the residence of the claimant. Any recovery pursuant to
+29 the Nebraska Property and Liability Insurance Guaranty Association Act
+30 shall be reduced by the amount of the recovery from any other insurance
+31 guaranty association or its equivalent.
+-24-
+
+LB326 LB326
+2025 2025
+1 Sec. 14. Section 44-6135, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 44-6135 A mutual insurance holding company shall file with the
+4 director, by March 1 of each year, an annual statement consisting of an
+5 income statement, balance sheet, and cash flows prepared in accordance
+6 with generally accepted accounting practices or statutory accounting
+7 principles and a confidential statement disclosing any intention to
+8 pledge, borrow against, alienate, hypothecate, or in any way encumber the
+9 assets of the mutual insurance holding company. A mutual insurance
+10 holding company shall also have an annual audit by an independent
+11 certified public accountant in a form approved by the director and shall
+12 file such audit on or before June 1 of each year for the year ending
+13 December 31 immediately preceding.
+14 Sec. 15. Original sections 44-1523, 44-1524, 44-1525, 44-1527,
+15 44-1528, 44-1529, 44-1530, 44-1532, 44-2403, 44-2405, 44-2406, 44-2407,
+16 44-2411, and 44-6135, Reissue Revised Statutes of Nebraska, are repealed.
+17 Sec. 16. The following sections are outright repealed: Sections
+18 44-5301, 44-5302, 44-5303, 44-5304, 44-5305, 44-5306, 44-5307, 44-5308,
+19 44-5309, 44-5310, 44-5311, 44-6701, and 44-6702, Reissue Revised Statutes
+20 of Nebraska.
+-25-
+
+[DELETED: yJA B F A A r t i t a s 44 4 4 4 4 4 44 4 4 4 4 a 4 RR S o N t d a r t tc p a d o t D o I t cpNa m i h c t c pr t t b o d o t N P a0L1p c t c p r t s2r c a j t p f d a3p t c r r t e o4r t c r r t a s a5p t e t H I A A a t6H7t h p t r t o s a t8o r s 4 4 4 494 4 4 4 4 4 4041B6L52]
+[DELETED: Sa4(of(((0l1w p t b a h i p o s t t2p i n l t s d t a c ( i 3c4s o t c i t a i o p f5f6( ( I m s m t p n o a p o7c8b9( ( I m s m a p r e0i1a2f b s o a o l e e i t3b4i5p a a I a i a s a6m h m o o a p l7h8a9I0b1( L g d m a c d t t6L52]
+[DELETED: ptas f t p o w i o w p t b a hi(ilh i l g o a a n o a0e1( ( P o c m s i a c o2i i s o a i p f3i4(5o6t7S 2 S 4 R R S o N i8a94 I s b a u t p i t b o0i f a i h i l g o p1e i t b o i t c a a o p2d i s 4 i t a o p ( i c3f a i c d o t U I T4P5(6b7S 3 S 4 R R S o N i8a94 A o t f a o p i c i0v1i6L52]
+[DELETED: (c a a e i c s sp(a( M t d o s o t s t br(t0( M a t o m t f c o a1a i o t l r s u w a a l i2o3(4w5(6t7a8( M f t p o e a p o9a0(1( M p d c o p2b t p o c d o i t b m3p d c o p b t p i 4n5o o p o i t f o a n c p6l7a a r o t s o v t I o o8e9s0r1t c o t i h o h i b w i6L52]
+[DELETED: u( M p d o c d oidp c a o o l w i f oma(a c a a a o b c o i0r i o t t r i u r o o1m2( K f w a a s o o p3o4d5c d o i t b m p d6c7f m s o f a t t f c o a8i9(0b r o s o a a i o k o t1m2s3( I o d o p a a a o4o5o6l c o s o a a s o a b7c c o o c c o a k p8r9( M o p a u d b0i1c6L52]
+[DELETED: o b p t o i a o o t t ac( M o p a u d bitaaep0( M o p a u d b1i o r o t s c a o e t s2h3t4o5( T r c o l i f a b6p7( T r c o l i r b l8r9( M o p a u d b0i o r o t s c a o e t s1h2t3p p c t b o t a o t4r5( T r c o l i f a b6p7( T r c o l i r b l8r9(0t1s o m s o t i T s s n6L52]
+[DELETED: p a i f t m s i a f tp o d a i i e f db( T o m c o r t i or t r a p o c i p sbi( T t m o r i f a bp0(1r2T3i4t m a o p o l r t t t5m6(7( K p o o t m o m a l8i9a r a t a s p o a o t a0p e i t p o a i t o p1a o g o o t p a o g d o2i a i t s p o a a a r o3p p o t p o a o a a s f o4a i t d o o b t o a v5c o i w n s i t p o6a7( G s p o o t g s o8p a i t s p o a o i c9t a s b o o s o a a i o0o c a p o l l1c o a d o p a t o a o6L52]
+[DELETED: v(ca(bi p o o s a f n i is b o a o p a f a e tp a f t b i o t i a i0p1(2d3s p m p p d t a o o t4i i a a w f r t s i c5e6( R o t r o p f a g i7p8o9r0(1t2p3t n o c t c b l o i4t5p6t s c m s m a w c7p8( M a f o f s s o9r0p1b6L52]
+[DELETED: (f t d t r t s i o r ar(s n o s b a i p o beL( F o a h i l g t m ib r d a o b r i0r1a2a3s4(54 4 4 4 t 4 4 4 4647P o I C I A o t U8D9S 4 S 4 R R S o N i0a14 T d m e a i t a o2e3s4g h b o i e i a a u t p a5d6i o t a a b o i c s7r t d f t e o e i t s8m9E0m e a i t i a o a d1i6L52]
+[DELETED: b4 T d s n t a s o fb a o t d i t e a i d i a a t a s o fbtS 5 S 4 R R S o N ia40i1e i t s i a u t p w o n2d3b4t5i6r7s8d9( A t t a p f f s h s i0h1b h a t s c w a o s n b m b t2d r s i h i l g o3p4U5a6( N c i t U I T P A7s r t o a a a s h o f r o8p9(0a c w r o a d e1s6L52]
+[DELETED: odu t r o a i p s c t b m ssi s t d s p a s o t e apcr t a m c w t p h o s m b0l i t d c o L C o t1c w s p r o a o t d m2r3a4c5(6t d u t a m b s b a p a d7a b t d e i t m p b l f8s9p0p h h o i r o p o o p o1b b e c o r m r r2r3n o o o p s f t m o s4s s b p o t s a t r r f s5s6b7S 6 S 4 R R S o N i8a940h i l g o p c h e i a1u6L52]
+[DELETED: f t w a s i a c t b s u ti h i l g o p c w tvh i l g o p t c a d feo( P o a m p o n m t o tdt d u t v w c f i0c1c2v n t e a a p o o h f3t4(5o6i7S 7 S 4 R R S o N i8a940s1a t o T a s b i a w t2A3( A o i b t d u s 4 s4b5(6f r i n s p h b d f e t t7d8(9t o o t d b a o t p f r0d1( N o o t d u t U I T6L52]
+[DELETED: PruS 8 S 4 R R S o N ia4 A i h i l g o pv w v a c a d o o t d us 4 m a n a h a u o o td0(1e2t3(4o5S 9 S 4 R R S o N i6a74 A u i t N P a L I8G9(0b1(2h3(4I5( C c m s m a u c a p6f7A8p t w t N P a L I G9A0a1s6L52]
+[DELETED: ttitppi o o a J 9 1 N i t s s bc t s a o l t c o oa r f e p u p o u0c1(2i o a i p b a m i w a l3a t m i n a b o o4m5T6a7i i e a t i t a t m8c o b a c o c j i t9i0c1r2o3t4w t m c o a a b a n5i6( ( C c d s n i a a d a7r i l i p s o f8g p o u a a a s o9a r r o o a s p o0t1p6L52]
+[DELETED: or t t i i C c s a d nifi a c f w t g f a t e ot m a t d o t o o l o tf d s b t c f t f o c a tlp a p f p t e c t t i0i1a2i3o4b5(6t7p8f o o l w a f o i h b9e0d1(2a k o i t w t N P a L3I4o s 4 i t e o r o5i6s788( N d w p m s m d g9p w i t s o i p t w t0N P a L I G A A1a6L52]
+[DELETED: ps( P m s m a i cp l l c a vo( I m s m t c d i s4( C i m f a tc0f l a l m a o o o r t d1p b u i n s i2c v r c e i t a3s4S5a647o8o o T m o t b s b s b m9i0o1s2a i a I n m a s w s d3a4b5( S t t l i s ( o t s6t7o8(9a f e i b t a m o t b o0d1S6L52]
+[DELETED: a4ti i o a w t d a i h bdeb t i r t p o o r ecd0c1t2a o o a w c p I n e s t3a4e5a6w7o e c c t d n e t t d p8p9o t h t d f a f a t0c u a p o e p o t i f t1p2t3o4( T d s t t t a a c5c t f w h o h p t t N I6S7t b c t h b d t d8r9h0t1t d a w d t t c b p i t6L52]
+[DELETED: la L I G A A I r t tc t t t a b t d t aatI S R a L A f td(d i d r t t a o a s0a s n e t c r e i f1n m s X a d s i2p d a n a h p3n4c i t w a e w o s o t5e6i7m8c9o p o a n s f t p o0i1h o h h t c h o s n b i T2a3a4h a o d i u a s o w5c6b o f t c h o h e i t f o7w8c9c0f a r w t c h o s m h b t1p o t N P a L I G6L52]
+[DELETED: A(iNt a s p s c i t m s isc a u g r o a l o si i c w t c u t a td0i1t2f3t l p a a c n c b t N4P5S6a748( A c p a e i a t t9a s a a m i s f e0a i t a n t p ( t o o t1a2c ( t c o e u s 4 a344L I G A A T a o e5m i s b i t p t t n d w6p o s m i o t b o t i i t7a8i f t s p a i t s a f t c9y0a f t p o m a c a o1g e n r t a p i i n t6L52]
+[DELETED: e f d p m i i a o y E mibittai i t a w c t m i fs0r1m2a3s4w p s b r t t m i t r5l6a7m8h9( H c t i e o t o o m0i1f2s t t a o t d a s d m b3d4( R a s f f o o t5a p b t f a f e i b t6f w h c o b o t a a s7o e o t a a a a b t N8P9(0c1b t d f t a s p A o c6L52]
+[DELETED: sdr7 a w r t b t i s y aa e t t p o t o f a o tcti I t a r a s r ap0r r t i b s 4 a 7 s1r2h394( B d t i i t t e o t5a6a7t l p i t a a i t i h n b8i9r0t s i b a n l t t r t p a1r s a s r o p c c2o3( H a t i o i i r T4r o l o a i o i i s5p6b a s o i a s o i a7r8n f t a o s s o i c9o i f w r t c c I a t0r o l s p t a o i1r6L52]
+[DELETED: u t r a a t e o t a o soto l o a i o i i s e sa a a n t p t c o ti( H t r t r a c s rci0a1i2o3f d d i s ( t ( o t4s5( T a i n b b a s r6c o w e b a i o t i o a7j8f9w0t d p t t e o a o o l a t1i2t s r c w o j o d n3p4o t a a i o t i b o d f5c6(7i8f9t s r c w o j s b s0a1o6L52]
+[DELETED: sw( T a s h t r t a a sdoa( A t a c c a f a j u ado0b1v o f s a b t s c o a t2e3p4(5(6(7p c p b a s a a a d8o9t0( B f n t e t p o t N1P2t3(4a5o6(7t8(9t0(1a o o r o t i i t o6L52]
+[DELETED: ca i i t i a o n f ta o a s o i a s t c odSa4pa a i i u t N P a L0I G A A s b r t e a1r2c3i b n l t a a h i w4c a a o c e p o a i5i A p h a c a a s o f6g7s b r t e a r u s g p8b9a0s b r b t a o t s r u a o1i2(3o i g a o i e s s4r f f t a o t p o r o t5i6w7p a i i i a w c c f t8a9t N P a L I G A A0s1g6L52]
+[DELETED: Sa4 A m i h c s f w tdi s b s a c f p i aw g a a p o s ap a a c s d a i tpa o t m i h c A m i0h c s a h a a a b a i1c2f s a o o b J 1 o e y f t y e3D4S 1  O s 4 4 4 454647S 1  T f s a o r S84940o6L52]

@@ -1,0 +1,674 @@
+Title: LEGISLATIVE BILL 231
+Official Title: LEGISLATIVE BILL 231
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LB231 LB231
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Hallstrom, 1; DeBoer, 10.
+Read first time January 14, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to banking and finance; to adopt the Uniform
+2 Special Deposits Act.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+LB231 LB231
+2025 2025
+1 Section 1. Sections 1 to 16 of this act shall be known and may be
+2 cited as the Uniform Special Deposits Act.
+3 Sec. 2. In the Uniform Special Deposits Act:
+4 (1) Account agreement means an agreement that:
+5 (A) is in a record between a bank and one or more depositors;
+6 (B) may have one or more beneficiaries as additional parties; and
+7 (C) states the intention of the parties to establish a special
+8 deposit governed by the act.
+9 (2) Bank means a person engaged in the business of banking and
+10 includes a savings bank, savings and loan association, credit union, and
+11 trust company. Each branch or separate office of a bank is a separate
+12 bank for the purposes of the act.
+13 (3) Beneficiary means a person that:
+14 (A) is identified as a beneficiary in an account agreement; or
+15 (B) if not identified as a beneficiary in an account agreement, may
+16 be entitled to payment from a special deposit:
+17 (i) under the account agreement; or
+18 (ii) on termination of the special deposit.
+19 (4) Contingency means an event or circumstance stated in an account
+20 agreement that is not certain to occur but must occur before the bank is
+21 obligated to pay a beneficiary.
+22 (5) Creditor process means attachment, garnishment, levy, notice of
+23 lien, sequestration, or similar process issued by or on behalf of a
+24 creditor or other claimant.
+25 (6) Depositor means a person that establishes or funds a special
+26 deposit.
+27 (7) Good faith means honesty in fact and observance of reasonable
+28 commercial standards of fair dealing.
+29 (8) Knowledge of a fact means:
+30 (A) with respect to a beneficiary, actual knowledge of the fact; or
+31 (B) with respect to a bank holding a special deposit:
+-2-
+LB231 LB231
+2025 2025
+1 (i) if the bank:
+2 (I) has established a reasonable routine for communicating material
+3 information to an individual to whom the bank has assigned responsibility
+4 for the special deposit; and
+5 (II) maintains reasonable compliance with the routine, actual
+6 knowledge of the fact by that individual; or
+7 (ii) if the bank has not established and maintained reasonable
+8 compliance with a routine described in clause (i) or otherwise exercised
+9 due diligence, implied knowledge of the fact that would have come to the
+10 attention of an individual to whom the bank has assigned responsibility
+11 for the special deposit.
+12 (9) Obligated to pay a beneficiary means a beneficiary is entitled
+13 under the account agreement to receive from the bank a payment when:
+14 (A) a contingency has occurred; and
+15 (B) the bank has knowledge the contingency has occurred. Obligation
+16 to pay a beneficiary has a corresponding meaning.
+17 (10) Permissible purpose means a governmental, regulatory,
+18 commercial, charitable, or testamentary objective of the parties stated
+19 in an account agreement. The term includes an objective to:
+20 (A) hold funds:
+21 (i) in escrow, including for a purchase and sale, lease, buyback, or
+22 other transaction;
+23 (ii) as a security deposit of a tenant;
+24 (iii) that may be distributed to a person as remuneration,
+25 retirement or other benefit, or compensation under a judgment, consent
+26 decree, court order, or other decision of a tribunal; or
+27 (iv) for distribution to a defined class of persons after
+28 identification of the class members and their interest in the funds;
+29 (B) provide assurance with respect to an obligation created by
+30 contract, such as earnest money to ensure a transaction closes;
+31 (C) settle an obligation that arises in the operation of a payment
+-3-
+LB231 LB231
+2025 2025
+1 system, securities settlement system, or other financial market
+2 infrastructure;
+3 (D) provide assurance with respect to an obligation that arises in
+4 the operation of a payment system, securities settlement system, or other
+5 financial market infrastructure; or
+6 (E) hold margin, other cash collateral, or funds that support the
+7 orderly functioning of financial market infrastructure or the performance
+8 of an obligation with respect to the infrastructure.
+9 (11) Person means an individual, estate, business or nonprofit
+10 entity, government or governmental subdivision, agency, or
+11 instrumentality, or other legal entity. The term includes a protected
+12 series, however denominated, of an entity if the protected series is
+13 established under law that limits, or limits if conditions specified
+14 under law are satisfied, the ability of a creditor of the entity or of
+15 any other protected series of the entity to satisfy a claim from assets
+16 of the protected series.
+17 (12) Record means information:
+18 (A) inscribed on a tangible medium; or
+19 (B) stored in an electronic or other medium and retrievable in
+20 perceivable form.
+21 (13) Special deposit means a deposit that satisfies section 5 of
+22 this act.
+23 (14) State means a state of the United States, the District of
+24 Columbia, Puerto Rico, the United States Virgin Islands, or any other
+25 territory or possession subject to the jurisdiction of the United States.
+26 The term includes an agency or instrumentality of the state.
+27 Sec. 3. (a) The Uniform Special Deposits Act applies to a special
+28 deposit under an account agreement that states the intention of the
+29 parties to establish a special deposit governed by the act, regardless of
+30 whether a party to the account agreement or a transaction related to the
+31 special deposit, or the special deposit itself, has a reasonable relation
+-4-
+LB231 LB231
+2025 2025
+1 to this state.
+2 (b) The parties to an account agreement may choose a forum in this
+3 state for settling a dispute arising out of the special deposit,
+4 regardless of whether a party to the account agreement or a transaction
+5 related to the special deposit, or the special deposit itself, has a
+6 reasonable relation to this state.
+7 (c) The act does not affect:
+8 (1) a right or obligation relating to a deposit other than a special
+9 deposit under the act; or
+10 (2) the voidability of a deposit or transfer that is fraudulent or
+11 voidable under other law.
+12 Sec. 4. (a) The effect of sections 2 to 6, 8 to 11, and 14 of this
+13 act may not be varied by agreement, except as provided in those sections.
+14 Subject to subsection (b), the effect of sections 7, 12, and 13 of this
+15 act may be varied by agreement.
+16 (b) A provision in an account agreement or other record that
+17 substantially excuses liability or substantially limits remedies for
+18 failure to perform an obligation under the Uniform Special Deposits Act
+19 is not sufficient to vary the effect of a provision of the act.
+20 (c) If a beneficiary is a party to an account agreement, the bank
+21 and the depositor may amend the agreement without the consent of the
+22 beneficiary only if the agreement expressly permits the amendment.
+23 (d) If a beneficiary is not a party to an account agreement and the
+24 bank and the depositor know the beneficiary has knowledge of the
+25 agreement's terms, the bank and the depositor may amend the agreement
+26 without the consent of the beneficiary only if the amendment does not
+27 adversely and materially affect a payment right of the beneficiary.
+28 (e) If a beneficiary is not a party to an account agreement and the
+29 bank and the depositor do not know whether the beneficiary has knowledge
+30 of the agreement's terms, the bank and the depositor may amend the
+31 agreement without the consent of the beneficiary only if the amendment is
+-5-
+LB231 LB231
+2025 2025
+1 made in good faith.
+2 Sec. 5. A deposit is a special deposit if it is:
+3 (1) a deposit of funds in a bank under an account agreement;
+4 (2) for the benefit of at least two beneficiaries, one or more of
+5 which may be a depositor;
+6 (3) denominated in a medium of exchange that is currently authorized
+7 or adopted by a domestic or foreign government;
+8 (4) for a permissible purpose stated in the account agreement; and
+9 (5) subject to a contingency.
+10 Sec. 6. (a) A special deposit must serve at least one permissible
+11 purpose stated in the account agreement from the time the special deposit
+12 is created in the account agreement until termination of the special
+13 deposit.
+14 (b) If, before termination of the special deposit, the bank or a
+15 court determines the special deposit no longer satisfies subsection (a),
+16 sections 8 to 11 of this act cease to apply to any funds deposited in the
+17 special deposit after the special deposit ceases to satisfy subsection
+18 (a).
+19 (c) If, before termination of a special deposit, the bank determines
+20 the special deposit no longer satisfies subsection (a), the bank may take
+21 action it believes is necessary under the circumstances, including
+22 terminating the special deposit.
+23 Sec. 7. (a) Unless the account agreement provides otherwise, the
+24 bank is obligated to pay a beneficiary if there are sufficient actually
+25 and finally collected funds in the balance of the special deposit.
+26 (b) Except as provided in subsection (c), the obligation to pay the
+27 beneficiary is excused if the funds available in the special deposit are
+28 insufficient to cover such payment.
+29 (c) Unless the account agreement provides otherwise, if the funds
+30 available in the special deposit are insufficient to cover an obligation
+31 to pay a beneficiary, a beneficiary may elect to be paid the funds that
+-6-
+LB231 LB231
+2025 2025
+1 are available or, if there is more than one beneficiary, a pro rata share
+2 of the funds available. Payment to the beneficiary making the election
+3 under this subsection discharges the bank's obligation to pay a
+4 beneficiary and does not constitute an accord and satisfaction with
+5 respect to another person obligated to the beneficiary.
+6 (d) Unless the account agreement provides otherwise, the obligation
+7 of the bank obligated to pay a beneficiary is immediately due and
+8 payable.
+9 (e) The bank may discharge its obligation under this section by:
+10 (1) crediting another transaction account of the beneficiary; or
+11 (2) taking other action that:
+12 (i) is permitted under the account agreement for the bank to obtain
+13 a discharge; or
+14 (ii) otherwise would constitute a discharge under law.
+15 (f) If the bank obligated to pay a beneficiary has incurred an
+16 obligation to discharge the obligation of another person, the obligation
+17 of the other person is discharged if action by the bank under subsection
+18 (e) would constitute a discharge of the obligation of the other person
+19 under law that determines whether an obligation is satisfied.
+20 Sec. 8. (a) Neither a depositor nor a beneficiary has a property
+21 interest in a special deposit.
+22 (b) Any property interest with respect to a special deposit is only
+23 in the right to receive payment if the bank is obligated to pay a
+24 beneficiary and not in the special deposit itself. Any property interest
+25 under this subsection is determined under other law.
+26 Sec. 9. (a) Subject to subsection (b), creditor process with
+27 respect to a special deposit is not enforceable against the bank holding
+28 the special deposit.
+29 (b) Creditor process is enforceable against the bank holding a
+30 special deposit with respect to an amount the bank is obligated to pay a
+31 beneficiary or a depositor if the process:
+-7-
+LB231 LB231
+2025 2025
+1 (1) is served on the bank;
+2 (2) provides sufficient information to permit the bank to identify
+3 the depositor or the beneficiary from the bank's books and records; and
+4 (3) gives the bank a reasonable opportunity to act on the process.
+5 (c) Creditor process served on a bank before it is enforceable
+6 against the bank under subsection (b) does not create a right of the
+7 creditor against the bank or a duty of the bank to the creditor. Other
+8 law determines whether creditor process creates a lien enforceable
+9 against the beneficiary on a contingent interest of a beneficiary,
+10 including a depositor as a beneficiary, even if not enforceable against
+11 the bank.
+12 Sec. 10. A court may enjoin, or grant similar relief that would
+13 have the effect of enjoining, a bank from paying a depositor or
+14 beneficiary only if payment would constitute a material fraud or
+15 facilitate a material fraud with respect to a special deposit.
+16 Sec. 11. (a) Except as provided in subsection (b) or (c), a bank
+17 may not exercise a right of recoupment or set off against a special
+18 deposit.
+19 (b) An account agreement may authorize the bank to debit the special
+20 deposit:
+21 (1) when the bank becomes obligated to pay a beneficiary, in an
+22 amount that does not exceed the amount necessary to discharge the
+23 obligation;
+24 (2) for a fee assessed by the bank that relates to an overdraft in
+25 the special deposit account;
+26 (3) for costs incurred by the bank that relate directly to the
+27 special deposit; or
+28 (4) to reverse an earlier credit posted by the bank to the balance
+29 of the special deposit account, if the reversal occurs under an event or
+30 circumstance warranted under other law of this state governing mistake
+31 and restitution.
+-8-
+LB231 LB231
+2025 2025
+1 (c) The bank holding a special deposit may exercise a right of
+2 recoupment or set off against an obligation to pay a beneficiary, even if
+3 the bank funds payment from the special deposit.
+4 Sec. 12. (a) A bank does not have a fiduciary duty to any person
+5 with respect to a special deposit.
+6 (b) When the bank holding a special deposit becomes obligated to pay
+7 a beneficiary, a debtor-creditor relationship arises between the bank and
+8 beneficiary.
+9 (c) The bank holding a special deposit has a duty to a beneficiary
+10 to comply with the account agreement and the Uniform Special Deposits
+11 Act.
+12 (d) If the bank holding a special deposit does not comply with the
+13 account agreement or the act, the bank is liable to a depositor or
+14 beneficiary only for damages proximately caused by the noncompliance.
+15 Except as provided by other law of this state, the bank is not liable for
+16 consequential, special, or punitive damages.
+17 (e) The bank holding a special deposit may rely on records presented
+18 in compliance with the account agreement to determine whether the bank is
+19 obligated to pay a beneficiary.
+20 (f) If the account agreement requires payment on presentation of a
+21 record, the bank shall determine within a reasonable time whether the
+22 record is sufficient to require payment. If the agreement requires action
+23 by the bank on presentation of a record, the bank is not liable for
+24 relying in good faith on the genuineness of the record if the record
+25 appears on its face to be genuine.
+26 (g) Unless the account agreement provides otherwise, the bank is not
+27 required to determine whether a permissible purpose stated in the
+28 agreement continues to exist.
+29 Sec. 13. (a) Unless otherwise provided in the account agreement, a
+30 special deposit terminates five years after the date the special deposit
+31 was first funded.
+-9-
+LB231 LB231
+2025 2025
+1 (b) Unless otherwise provided in the account agreement, if the bank
+2 cannot identify or locate a beneficiary entitled to payment when the
+3 special deposit is terminated, and a balance remains in the special
+4 deposit, the bank shall pay the balance to the depositor or depositors as
+5 a beneficiary or beneficiaries.
+6 (c) A bank that pays the remaining balance as provided under
+7 subsection (b) has no further obligation with respect to the special
+8 deposit.
+9 Sec. 14. The Uniform Commercial Code, consumer protection law, law
+10 governing deposits generally, law related to escheat and abandoned or
+11 unclaimed property, and the principles of law and equity, including law
+12 related to capacity to contract, principal and agent, estoppel, fraud,
+13 misrepresentation, duress, coercion, mistake, and bankruptcy, supplement
+14 the Uniform Special Deposits Act except to the extent inconsistent with
+15 the act.
+16 Sec. 15. In applying and construing the Uniform Special Deposits
+17 Act, a court shall consider the promotion of uniformity of the law among
+18 jurisdictions that enact it.
+19 Sec. 16. The Uniform Special Deposits Act applies to:
+20 (1) a special deposit made under an account agreement executed on or
+21 after the effective date of this act; and
+22 (2) a deposit made under an agreement executed before the effective
+23 date of this act, if:
+24 (A) all parties entitled to amend the agreement agree to make the
+25 deposit a special deposit governed by the act; and
+26 (B) the special deposit referenced in the amended agreement
+27 satisfies section 5 of this act.
+-10-
+[DELETED: yHASB1L52]
+[DELETED: ScS(((( s t i o t p t e a sd( B m a p e i t b o b a0i1t c E b o s o o a b i a s2b3(4(5(6b7(8(9(0a1o2(3l s o s p i b o o b o 4c5( D m a p t e o f a s6d7( G f m h i f a o o r8c9(0(1(1L52]
+[DELETED: ((if( m r c w t r ak( i t b h n e a m rcd0a1f2(3u4(5(6t7( P p m a g r8c9i0(1(2o3(4( t m b d t a p a r5r o o b o c u a j c6d7( f d t a d c o p a8i9( p a w r t a o c b0c1(1L52]
+[DELETED: s s s s o o f mi(tf( h m o c c o f t s too( P m a i e b o n0e g o g s a o1i o o l e T t i a p2s h d o a e i t p s i3e u l t l o l i c s4u5a6o7(8(9( s i a e o o m a r i0p1( S d m a d t s s 5 o2t3( S m a s o t U S t D o4C P R t U S V I o a o5t6T7S8d u a a a t s t i o t9p0w1s1L52]
+[DELETED: t(s f s a d a o o t s drr t t s d o t s d i h r((d0(1v2S3a4S5a6( A p i a a a o o r t7s e l o s l r f8f9i0(1a t d m a t a w t c o t2b3(4b a t d k t b h k o t5a t t b a t d m a t a6w t c o t b o i t a d n7a8(9b0o t a t t b a t d m a t1a1L52]
+[DELETED: mS((w(o((0S1p2i c i t a a u t o t s3d4( I b t o t s d t b o 5c6s7s d a t s d c t s s8(9(0t1a i b i n u t c i2t3S 7  ( U t a a p o t4b5a6(7b8i9( U t a a p o i t f0a1t1L52]
+[DELETED: aou t s d t b o t p b a d n c a a a s wr(o t b o t p a b i i d ap(0(1(2(3a4(5( I t b o t p a b h i a6o7o8(9u0S1i2(3i t r t r p i t b i o t p 4b5u6S 9  ( S t s ( c p w7r8t9( C p i e a t b h 0s1b1L52]
+[DELETED: ((t(( C p s o a b b i i ea t b u s ( d n c a r o tcl d w c p c a l ea t b o a c i o a b0i1t2S 1  A c m e o g s r t w3h t e o e a b f p a d o4b o i p w c a m f o5f6S7m n e a r o r o s o a a s8d9(0d1( w t b b o t p a b i a2a t d n e t a n t d t3o4(5t6( f c i b t b t r d t t7s8(9o0c w u o l o t s g m1a1L52]
+[DELETED: ( T b h a s d m e a r ortSw(ab(0t c w t a a a t U S D1A2(3a a o t a t b i l t a d o4b o f d p c b t n5E6c7(8i9o0(1r t b s d w a r t w t2r3b t b o p o a r t b i n l f4r i g f o t g o t r i t r5a6(7r t d w a p p s i t8a9S0s1w1L52]
+[DELETED: (c i o l a b e t p w ts d i t a a b r i t sda( A b t p t r b a p us ( h n f o w r t t sdS0g d g l r t e a a o1u2r t c t c p a a e f3m4t5t6S 1  I a a c t U S D7A8j9S0(1a2(3d4(5d6( t s d r i t a a7s1L52]
+
+
+================================================================================
+
+Raw Text:
+LB231 LB231
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 231
+Introduced by Hallstrom, 1; DeBoer, 10.
+Read first time January 14, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to banking and finance; to adopt the Uniform
+2 Special Deposits Act.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB231 LB231
+2025 2025
+1 Section 1. Sections 1 to 16 of this act shall be known and may be
+2 cited as the Uniform Special Deposits Act.
+3 Sec. 2. In the Uniform Special Deposits Act:
+4 (1) Account agreement means an agreement that:
+5 (A) is in a record between a bank and one or more depositors;
+6 (B) may have one or more beneficiaries as additional parties; and
+7 (C) states the intention of the parties to establish a special
+8 deposit governed by the act.
+9 (2) Bank means a person engaged in the business of banking and
+10 includes a savings bank, savings and loan association, credit union, and
+11 trust company. Each branch or separate office of a bank is a separate
+12 bank for the purposes of the act.
+13 (3) Beneficiary means a person that:
+14 (A) is identified as a beneficiary in an account agreement; or
+15 (B) if not identified as a beneficiary in an account agreement, may
+16 be entitled to payment from a special deposit:
+17 (i) under the account agreement; or
+18 (ii) on termination of the special deposit.
+19 (4) Contingency means an event or circumstance stated in an account
+20 agreement that is not certain to occur but must occur before the bank is
+21 obligated to pay a beneficiary.
+22 (5) Creditor process means attachment, garnishment, levy, notice of
+23 lien, sequestration, or similar process issued by or on behalf of a
+24 creditor or other claimant.
+25 (6) Depositor means a person that establishes or funds a special
+26 deposit.
+27 (7) Good faith means honesty in fact and observance of reasonable
+28 commercial standards of fair dealing.
+29 (8) Knowledge of a fact means:
+30 (A) with respect to a beneficiary, actual knowledge of the fact; or
+31 (B) with respect to a bank holding a special deposit:
+-2-
+
+LB231 LB231
+2025 2025
+1 (i) if the bank:
+2 (I) has established a reasonable routine for communicating material
+3 information to an individual to whom the bank has assigned responsibility
+4 for the special deposit; and
+5 (II) maintains reasonable compliance with the routine, actual
+6 knowledge of the fact by that individual; or
+7 (ii) if the bank has not established and maintained reasonable
+8 compliance with a routine described in clause (i) or otherwise exercised
+9 due diligence, implied knowledge of the fact that would have come to the
+10 attention of an individual to whom the bank has assigned responsibility
+11 for the special deposit.
+12 (9) Obligated to pay a beneficiary means a beneficiary is entitled
+13 under the account agreement to receive from the bank a payment when:
+14 (A) a contingency has occurred; and
+15 (B) the bank has knowledge the contingency has occurred. Obligation
+16 to pay a beneficiary has a corresponding meaning.
+17 (10) Permissible purpose means a governmental, regulatory,
+18 commercial, charitable, or testamentary objective of the parties stated
+19 in an account agreement. The term includes an objective to:
+20 (A) hold funds:
+21 (i) in escrow, including for a purchase and sale, lease, buyback, or
+22 other transaction;
+23 (ii) as a security deposit of a tenant;
+24 (iii) that may be distributed to a person as remuneration,
+25 retirement or other benefit, or compensation under a judgment, consent
+26 decree, court order, or other decision of a tribunal; or
+27 (iv) for distribution to a defined class of persons after
+28 identification of the class members and their interest in the funds;
+29 (B) provide assurance with respect to an obligation created by
+30 contract, such as earnest money to ensure a transaction closes;
+31 (C) settle an obligation that arises in the operation of a payment
+-3-
+
+LB231 LB231
+2025 2025
+1 system, securities settlement system, or other financial market
+2 infrastructure;
+3 (D) provide assurance with respect to an obligation that arises in
+4 the operation of a payment system, securities settlement system, or other
+5 financial market infrastructure; or
+6 (E) hold margin, other cash collateral, or funds that support the
+7 orderly functioning of financial market infrastructure or the performance
+8 of an obligation with respect to the infrastructure.
+9 (11) Person means an individual, estate, business or nonprofit
+10 entity, government or governmental subdivision, agency, or
+11 instrumentality, or other legal entity. The term includes a protected
+12 series, however denominated, of an entity if the protected series is
+13 established under law that limits, or limits if conditions specified
+14 under law are satisfied, the ability of a creditor of the entity or of
+15 any other protected series of the entity to satisfy a claim from assets
+16 of the protected series.
+17 (12) Record means information:
+18 (A) inscribed on a tangible medium; or
+19 (B) stored in an electronic or other medium and retrievable in
+20 perceivable form.
+21 (13) Special deposit means a deposit that satisfies section 5 of
+22 this act.
+23 (14) State means a state of the United States, the District of
+24 Columbia, Puerto Rico, the United States Virgin Islands, or any other
+25 territory or possession subject to the jurisdiction of the United States.
+26 The term includes an agency or instrumentality of the state.
+27 Sec. 3. (a) The Uniform Special Deposits Act applies to a special
+28 deposit under an account agreement that states the intention of the
+29 parties to establish a special deposit governed by the act, regardless of
+30 whether a party to the account agreement or a transaction related to the
+31 special deposit, or the special deposit itself, has a reasonable relation
+-4-
+
+LB231 LB231
+2025 2025
+1 to this state.
+2 (b) The parties to an account agreement may choose a forum in this
+3 state for settling a dispute arising out of the special deposit,
+4 regardless of whether a party to the account agreement or a transaction
+5 related to the special deposit, or the special deposit itself, has a
+6 reasonable relation to this state.
+7 (c) The act does not affect:
+8 (1) a right or obligation relating to a deposit other than a special
+9 deposit under the act; or
+10 (2) the voidability of a deposit or transfer that is fraudulent or
+11 voidable under other law.
+12 Sec. 4. (a) The effect of sections 2 to 6, 8 to 11, and 14 of this
+13 act may not be varied by agreement, except as provided in those sections.
+14 Subject to subsection (b), the effect of sections 7, 12, and 13 of this
+15 act may be varied by agreement.
+16 (b) A provision in an account agreement or other record that
+17 substantially excuses liability or substantially limits remedies for
+18 failure to perform an obligation under the Uniform Special Deposits Act
+19 is not sufficient to vary the effect of a provision of the act.
+20 (c) If a beneficiary is a party to an account agreement, the bank
+21 and the depositor may amend the agreement without the consent of the
+22 beneficiary only if the agreement expressly permits the amendment.
+23 (d) If a beneficiary is not a party to an account agreement and the
+24 bank and the depositor know the beneficiary has knowledge of the
+25 agreement's terms, the bank and the depositor may amend the agreement
+26 without the consent of the beneficiary only if the amendment does not
+27 adversely and materially affect a payment right of the beneficiary.
+28 (e) If a beneficiary is not a party to an account agreement and the
+29 bank and the depositor do not know whether the beneficiary has knowledge
+30 of the agreement's terms, the bank and the depositor may amend the
+31 agreement without the consent of the beneficiary only if the amendment is
+-5-
+
+LB231 LB231
+2025 2025
+1 made in good faith.
+2 Sec. 5. A deposit is a special deposit if it is:
+3 (1) a deposit of funds in a bank under an account agreement;
+4 (2) for the benefit of at least two beneficiaries, one or more of
+5 which may be a depositor;
+6 (3) denominated in a medium of exchange that is currently authorized
+7 or adopted by a domestic or foreign government;
+8 (4) for a permissible purpose stated in the account agreement; and
+9 (5) subject to a contingency.
+10 Sec. 6. (a) A special deposit must serve at least one permissible
+11 purpose stated in the account agreement from the time the special deposit
+12 is created in the account agreement until termination of the special
+13 deposit.
+14 (b) If, before termination of the special deposit, the bank or a
+15 court determines the special deposit no longer satisfies subsection (a),
+16 sections 8 to 11 of this act cease to apply to any funds deposited in the
+17 special deposit after the special deposit ceases to satisfy subsection
+18 (a).
+19 (c) If, before termination of a special deposit, the bank determines
+20 the special deposit no longer satisfies subsection (a), the bank may take
+21 action it believes is necessary under the circumstances, including
+22 terminating the special deposit.
+23 Sec. 7. (a) Unless the account agreement provides otherwise, the
+24 bank is obligated to pay a beneficiary if there are sufficient actually
+25 and finally collected funds in the balance of the special deposit.
+26 (b) Except as provided in subsection (c), the obligation to pay the
+27 beneficiary is excused if the funds available in the special deposit are
+28 insufficient to cover such payment.
+29 (c) Unless the account agreement provides otherwise, if the funds
+30 available in the special deposit are insufficient to cover an obligation
+31 to pay a beneficiary, a beneficiary may elect to be paid the funds that
+-6-
+
+LB231 LB231
+2025 2025
+1 are available or, if there is more than one beneficiary, a pro rata share
+2 of the funds available. Payment to the beneficiary making the election
+3 under this subsection discharges the bank's obligation to pay a
+4 beneficiary and does not constitute an accord and satisfaction with
+5 respect to another person obligated to the beneficiary.
+6 (d) Unless the account agreement provides otherwise, the obligation
+7 of the bank obligated to pay a beneficiary is immediately due and
+8 payable.
+9 (e) The bank may discharge its obligation under this section by:
+10 (1) crediting another transaction account of the beneficiary; or
+11 (2) taking other action that:
+12 (i) is permitted under the account agreement for the bank to obtain
+13 a discharge; or
+14 (ii) otherwise would constitute a discharge under law.
+15 (f) If the bank obligated to pay a beneficiary has incurred an
+16 obligation to discharge the obligation of another person, the obligation
+17 of the other person is discharged if action by the bank under subsection
+18 (e) would constitute a discharge of the obligation of the other person
+19 under law that determines whether an obligation is satisfied.
+20 Sec. 8. (a) Neither a depositor nor a beneficiary has a property
+21 interest in a special deposit.
+22 (b) Any property interest with respect to a special deposit is only
+23 in the right to receive payment if the bank is obligated to pay a
+24 beneficiary and not in the special deposit itself. Any property interest
+25 under this subsection is determined under other law.
+26 Sec. 9. (a) Subject to subsection (b), creditor process with
+27 respect to a special deposit is not enforceable against the bank holding
+28 the special deposit.
+29 (b) Creditor process is enforceable against the bank holding a
+30 special deposit with respect to an amount the bank is obligated to pay a
+31 beneficiary or a depositor if the process:
+-7-
+
+LB231 LB231
+2025 2025
+1 (1) is served on the bank;
+2 (2) provides sufficient information to permit the bank to identify
+3 the depositor or the beneficiary from the bank's books and records; and
+4 (3) gives the bank a reasonable opportunity to act on the process.
+5 (c) Creditor process served on a bank before it is enforceable
+6 against the bank under subsection (b) does not create a right of the
+7 creditor against the bank or a duty of the bank to the creditor. Other
+8 law determines whether creditor process creates a lien enforceable
+9 against the beneficiary on a contingent interest of a beneficiary,
+10 including a depositor as a beneficiary, even if not enforceable against
+11 the bank.
+12 Sec. 10. A court may enjoin, or grant similar relief that would
+13 have the effect of enjoining, a bank from paying a depositor or
+14 beneficiary only if payment would constitute a material fraud or
+15 facilitate a material fraud with respect to a special deposit.
+16 Sec. 11. (a) Except as provided in subsection (b) or (c), a bank
+17 may not exercise a right of recoupment or set off against a special
+18 deposit.
+19 (b) An account agreement may authorize the bank to debit the special
+20 deposit:
+21 (1) when the bank becomes obligated to pay a beneficiary, in an
+22 amount that does not exceed the amount necessary to discharge the
+23 obligation;
+24 (2) for a fee assessed by the bank that relates to an overdraft in
+25 the special deposit account;
+26 (3) for costs incurred by the bank that relate directly to the
+27 special deposit; or
+28 (4) to reverse an earlier credit posted by the bank to the balance
+29 of the special deposit account, if the reversal occurs under an event or
+30 circumstance warranted under other law of this state governing mistake
+31 and restitution.
+-8-
+
+LB231 LB231
+2025 2025
+1 (c) The bank holding a special deposit may exercise a right of
+2 recoupment or set off against an obligation to pay a beneficiary, even if
+3 the bank funds payment from the special deposit.
+4 Sec. 12. (a) A bank does not have a fiduciary duty to any person
+5 with respect to a special deposit.
+6 (b) When the bank holding a special deposit becomes obligated to pay
+7 a beneficiary, a debtor-creditor relationship arises between the bank and
+8 beneficiary.
+9 (c) The bank holding a special deposit has a duty to a beneficiary
+10 to comply with the account agreement and the Uniform Special Deposits
+11 Act.
+12 (d) If the bank holding a special deposit does not comply with the
+13 account agreement or the act, the bank is liable to a depositor or
+14 beneficiary only for damages proximately caused by the noncompliance.
+15 Except as provided by other law of this state, the bank is not liable for
+16 consequential, special, or punitive damages.
+17 (e) The bank holding a special deposit may rely on records presented
+18 in compliance with the account agreement to determine whether the bank is
+19 obligated to pay a beneficiary.
+20 (f) If the account agreement requires payment on presentation of a
+21 record, the bank shall determine within a reasonable time whether the
+22 record is sufficient to require payment. If the agreement requires action
+23 by the bank on presentation of a record, the bank is not liable for
+24 relying in good faith on the genuineness of the record if the record
+25 appears on its face to be genuine.
+26 (g) Unless the account agreement provides otherwise, the bank is not
+27 required to determine whether a permissible purpose stated in the
+28 agreement continues to exist.
+29 Sec. 13. (a) Unless otherwise provided in the account agreement, a
+30 special deposit terminates five years after the date the special deposit
+31 was first funded.
+-9-
+
+LB231 LB231
+2025 2025
+1 (b) Unless otherwise provided in the account agreement, if the bank
+2 cannot identify or locate a beneficiary entitled to payment when the
+3 special deposit is terminated, and a balance remains in the special
+4 deposit, the bank shall pay the balance to the depositor or depositors as
+5 a beneficiary or beneficiaries.
+6 (c) A bank that pays the remaining balance as provided under
+7 subsection (b) has no further obligation with respect to the special
+8 deposit.
+9 Sec. 14. The Uniform Commercial Code, consumer protection law, law
+10 governing deposits generally, law related to escheat and abandoned or
+11 unclaimed property, and the principles of law and equity, including law
+12 related to capacity to contract, principal and agent, estoppel, fraud,
+13 misrepresentation, duress, coercion, mistake, and bankruptcy, supplement
+14 the Uniform Special Deposits Act except to the extent inconsistent with
+15 the act.
+16 Sec. 15. In applying and construing the Uniform Special Deposits
+17 Act, a court shall consider the promotion of uniformity of the law among
+18 jurisdictions that enact it.
+19 Sec. 16. The Uniform Special Deposits Act applies to:
+20 (1) a special deposit made under an account agreement executed on or
+21 after the effective date of this act; and
+22 (2) a deposit made under an agreement executed before the effective
+23 date of this act, if:
+24 (A) all parties entitled to amend the agreement agree to make the
+25 deposit a special deposit governed by the act; and
+26 (B) the special deposit referenced in the amended agreement
+27 satisfies section 5 of this act.
+-10-
+
+[DELETED: yHASB1L52]
+[DELETED: ScS(((( s t i o t p t e a sd( B m a p e i t b o b a0i1t c E b o s o o a b i a s2b3(4(5(6b7(8(9(0a1o2(3l s o s p i b o o b o 4c5( D m a p t e o f a s6d7( G f m h i f a o o r8c9(0(1(1L52]
+[DELETED: ((if( m r c w t r ak( i t b h n e a m rcd0a1f2(3u4(5(6t7( P p m a g r8c9i0(1(2o3(4( t m b d t a p a r5r o o b o c u a j c6d7( f d t a d c o p a8i9( p a w r t a o c b0c1(1L52]
+[DELETED: s s s s o o f mi(tf( h m o c c o f t s too( P m a i e b o n0e g o g s a o1i o o l e T t i a p2s h d o a e i t p s i3e u l t l o l i c s4u5a6o7(8(9( s i a e o o m a r i0p1( S d m a d t s s 5 o2t3( S m a s o t U S t D o4C P R t U S V I o a o5t6T7S8d u a a a t s t i o t9p0w1s1L52]
+[DELETED: t(s f s a d a o o t s drr t t s d o t s d i h r((d0(1v2S3a4S5a6( A p i a a a o o r t7s e l o s l r f8f9i0(1a t d m a t a w t c o t2b3(4b a t d k t b h k o t5a t t b a t d m a t a6w t c o t b o i t a d n7a8(9b0o t a t t b a t d m a t1a1L52]
+[DELETED: mS((w(o((0S1p2i c i t a a u t o t s3d4( I b t o t s d t b o 5c6s7s d a t s d c t s s8(9(0t1a i b i n u t c i2t3S 7  ( U t a a p o t4b5a6(7b8i9( U t a a p o i t f0a1t1L52]
+[DELETED: aou t s d t b o t p b a d n c a a a s wr(o t b o t p a b i i d ap(0(1(2(3a4(5( I t b o t p a b h i a6o7o8(9u0S1i2(3i t r t r p i t b i o t p 4b5u6S 9  ( S t s ( c p w7r8t9( C p i e a t b h 0s1b1L52]
+[DELETED: ((t(( C p s o a b b i i ea t b u s ( d n c a r o tcl d w c p c a l ea t b o a c i o a b0i1t2S 1  A c m e o g s r t w3h t e o e a b f p a d o4b o i p w c a m f o5f6S7m n e a r o r o s o a a s8d9(0d1( w t b b o t p a b i a2a t d n e t a n t d t3o4(5t6( f c i b t b t r d t t7s8(9o0c w u o l o t s g m1a1L52]
+[DELETED: ( T b h a s d m e a r ortSw(ab(0t c w t a a a t U S D1A2(3a a o t a t b i l t a d o4b o f d p c b t n5E6c7(8i9o0(1r t b s d w a r t w t2r3b t b o p o a r t b i n l f4r i g f o t g o t r i t r5a6(7r t d w a p p s i t8a9S0s1w1L52]
+[DELETED: (c i o l a b e t p w ts d i t a a b r i t sda( A b t p t r b a p us ( h n f o w r t t sdS0g d g l r t e a a o1u2r t c t c p a a e f3m4t5t6S 1  I a a c t U S D7A8j9S0(1a2(3d4(5d6( t s d r i t a a7s1L52]
