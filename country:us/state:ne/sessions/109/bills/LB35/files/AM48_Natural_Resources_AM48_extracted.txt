@@ -1,0 +1,33 @@
+Title: 1 1. On page 3, line 24, strike "7.4", show as stricken, and insert
+Official Title: 1 1. On page 3, line 24, strike "7.4", show as stricken, and insert
+Number of Sections: 1
+Source: versions - Natural Resources AM48
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM48 AM48
+LB35 LB35
+QNC - 01/24/2025 QNC - 01/24/2025
+AMENDMENTS TO LB35
+Introduced by Natural Resources.
+2 "791.4, as such regulation existed on January 1, 2025".
+-1-
+[DELETED: yN1"8A5L5Q]
+
+
+================================================================================
+
+Raw Text:
+AM48 AM48
+LB35 LB35
+QNC - 01/24/2025 QNC - 01/24/2025
+AMENDMENTS TO LB35
+Introduced by Natural Resources.
+1 1. On page 3, line 24, strike "7.4", show as stricken, and insert
+2 "791.4, as such regulation existed on January 1, 2025".
+-1-
+
+[DELETED: yN1"8A5L5Q]

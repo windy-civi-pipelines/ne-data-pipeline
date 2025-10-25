@@ -1,0 +1,1122 @@
+Title: LEGISLATIVE BILL 303
+Official Title: LEGISLATIVE BILL 303
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+LB303 LB303
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Hughes, 24; at the request of the Governor; Brandt, 32;
+Dorn, 30.
+Read first time January 15, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend sections 79-1001,
+2 79-1006, 79-1022, 79-1022.02, 79-1023, 79-1027, and 79-1031.01,
+3 Reissue Revised Statutes of Nebraska, and section 77-3442, Revised
+4 Statutes Cumulative Supplement, 2024; to change school district levy
+5 authority; to change provisions relating to foundation aid and
+6 certain certification dates and provide for a base levy adjustment
+7 under the Tax Equity and Educational Opportunities Support Act; to
+8 create the School Finance Reform Commission; to harmonize
+9 provisions; to repeal the original sections; and to declare an
+10 emergency.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+LB303 LB303
+2025 2025
+1 Section 1. Section 77-3442, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-3442 (1) Property tax levies for the support of local governments
+4 for fiscal years beginning on or after July 1, 1998, shall be limited to
+5 the amounts set forth in this section except as provided in section
+6 77-3444.
+7 (2)(a) Except as provided in subdivisions (2)(b) and (2)(e) of this
+8 section, school districts and multiple-district school systems may levy a
+9 maximum levy of:
+10 (i) Through fiscal year 2024-25, one dollar and five cents per one
+11 hundred dollars of taxable valuation of property subject to the levy;
+12 and .
+13 (ii) For fiscal year 2025-26 and each fiscal year thereafter, one
+14 dollar and two cents per one hundred dollars of taxable valuation of
+15 property subject to the levy.
+16 (b) For each fiscal year prior to fiscal year 2017-18, learning
+17 communities may levy a maximum levy for the general fund budgets of
+18 member school districts of ninety-five cents per one hundred dollars of
+19 taxable valuation of property subject to the levy. The proceeds from the
+20 levy pursuant to this subdivision shall be distributed pursuant to
+21 section 79-1073.
+22 (c) Except as provided in subdivision (2)(e) of this section, for
+23 each fiscal year prior to fiscal year 2017-18, school districts that are
+24 members of learning communities may levy for purposes of such districts'
+25 general fund budget and special building funds a maximum combined levy of
+26 the difference of one dollar and five cents on each one hundred dollars
+27 of taxable property subject to the levy minus the learning community levy
+28 pursuant to subdivision (2)(b) of this section for such learning
+29 community.
+30 (d) Excluded from the limitations in subdivisions (2)(a) and (2)(c)
+31 of this section are (i) amounts levied to pay for current and future sums
+-2-
+LB303 LB303
+2025 2025
+1 agreed to be paid by a school district to certificated employees in
+2 exchange for a voluntary termination of employment occurring prior to
+3 September 1, 2017, (ii) amounts levied by a school district otherwise at
+4 the maximum levy pursuant to subdivision (2)(a) of this section to pay
+5 for current and future qualified voluntary termination incentives for
+6 certificated teachers pursuant to subsection (3) of section 79-8,142 that
+7 are not otherwise included in an exclusion pursuant to subdivision (2)(d)
+8 of this section, (iii) amounts levied by a school district otherwise at
+9 the maximum levy pursuant to subdivision (2)(a) of this section to pay
+10 for seventy-five percent of the current and future sums agreed to be paid
+11 to certificated employees in exchange for a voluntary termination of
+12 employment occurring between September 1, 2017, and August 31, 2018, as a
+13 result of a collective-bargaining agreement in force and effect on
+14 September 1, 2017, that are not otherwise included in an exclusion
+15 pursuant to subdivision (2)(d) of this section, (iv) amounts levied by a
+16 school district otherwise at the maximum levy pursuant to subdivision (2)
+17 (a) of this section to pay for fifty percent of the current and future
+18 sums agreed to be paid to certificated employees in exchange for a
+19 voluntary termination of employment occurring between September 1, 2018,
+20 and August 31, 2019, as a result of a collective-bargaining agreement in
+21 force and effect on September 1, 2017, that are not otherwise included in
+22 an exclusion pursuant to subdivision (2)(d) of this section, (v) amounts
+23 levied by a school district otherwise at the maximum levy pursuant to
+24 subdivision (2)(a) of this section to pay for twenty-five percent of the
+25 current and future sums agreed to be paid to certificated employees in
+26 exchange for a voluntary termination of employment occurring between
+27 September 1, 2019, and August 31, 2020, as a result of a collective-
+28 bargaining agreement in force and effect on September 1, 2017, that are
+29 not otherwise included in an exclusion pursuant to subdivision (2)(d) of
+30 this section, (vi) amounts levied in compliance with sections 79-10,110
+31 and 79-10,110.02, and (vii) amounts levied to pay for special building
+-3-
+LB303 LB303
+2025 2025
+1 funds and sinking funds established for projects commenced prior to April
+2 1, 1996, for construction, expansion, or alteration of school district
+3 buildings. For purposes of this subsection, commenced means any action
+4 taken by the school board on the record which commits the board to expend
+5 district funds in planning, constructing, or carrying out the project.
+6 (e) Federal aid school districts may exceed the maximum levy
+7 prescribed by subdivision (2)(a) or (2)(c) of this section only to the
+8 extent necessary to qualify to receive federal aid pursuant to Title VIII
+9 of Public Law 103-382, as such title existed on September 1, 2001. For
+10 purposes of this subdivision, federal aid school district means any
+11 school district which receives ten percent or more of the revenue for its
+12 general fund budget from federal government sources pursuant to Title
+13 VIII of Public Law 103-382, as such title existed on September 1, 2001.
+14 (f) For each fiscal year, learning communities may levy a maximum
+15 levy of one-half cent on each one hundred dollars of taxable property
+16 subject to the levy for elementary learning center facility leases, for
+17 remodeling of leased elementary learning center facilities, and for up to
+18 fifty percent of the estimated cost for focus school or program capital
+19 projects approved by the learning community coordinating council pursuant
+20 to section 79-2111.
+21 (g) For each fiscal year, learning communities may levy a maximum
+22 levy of one and one-half cents on each one hundred dollars of taxable
+23 property subject to the levy for early childhood education programs for
+24 children in poverty, for elementary learning center employees, for
+25 contracts with other entities or individuals who are not employees of the
+26 learning community for elementary learning center programs and services,
+27 and for pilot projects, except that no more than ten percent of such levy
+28 may be used for elementary learning center employees.
+29 (3) For each fiscal year through fiscal year 2023-24, community
+30 college areas may levy the levies provided in subdivisions (2)(a) through
+31 (c) of section 85-1517, in accordance with the provisions of such
+-4-
+LB303 LB303
+2025 2025
+1 subdivisions. For fiscal year 2024-25 and each fiscal year thereafter,
+2 community college areas may levy the levies provided in subdivisions (2)
+3 (a) and (b) of section 85-1517, in accordance with the provisions of such
+4 subdivisions. A community college area may exceed the levy provided in
+5 subdivision (2)(a) of section 85-1517 by the amount necessary to generate
+6 sufficient revenue as described in section 85-1543 or 85-2238. A
+7 community college area may exceed the levy provided in subdivision (2)(b)
+8 of section 85-1517 by the amount necessary to retire general obligation
+9 bonds assumed by the community college area or issued pursuant to section
+10 85-1515 according to the terms of such bonds or for any obligation
+11 pursuant to section 85-1535 entered into prior to January 1, 1997.
+12 (4)(a) Natural resources districts may levy a maximum levy of four
+13 and one-half cents per one hundred dollars of taxable valuation of
+14 property subject to the levy.
+15 (b) Natural resources districts shall also have the power and
+16 authority to levy a tax equal to the dollar amount by which their
+17 restricted funds budgeted to administer and implement ground water
+18 management activities and integrated management activities under the
+19 Nebraska Ground Water Management and Protection Act exceed their
+20 restricted funds budgeted to administer and implement ground water
+21 management activities and integrated management activities for FY2003-04,
+22 not to exceed one cent on each one hundred dollars of taxable valuation
+23 annually on all of the taxable property within the district.
+24 (c) In addition, natural resources districts located in a river
+25 basin, subbasin, or reach that has been determined to be fully
+26 appropriated pursuant to section 46-714 or designated as overappropriated
+27 pursuant to section 46-713 by the Department of Natural Resources shall
+28 also have the power and authority to levy a tax equal to the dollar
+29 amount by which their restricted funds budgeted to administer and
+30 implement ground water management activities and integrated management
+31 activities under the Nebraska Ground Water Management and Protection Act
+-5-
+LB303 LB303
+2025 2025
+1 exceed their restricted funds budgeted to administer and implement ground
+2 water management activities and integrated management activities for
+3 FY2005-06, not to exceed three cents on each one hundred dollars of
+4 taxable valuation on all of the taxable property within the district for
+5 fiscal year 2006-07 and each fiscal year thereafter through fiscal year
+6 2017-18.
+7 (5) Any educational service unit authorized to levy a property tax
+8 pursuant to section 79-1225 may levy a maximum levy of one and one-half
+9 cents per one hundred dollars of taxable valuation of property subject to
+10 the levy.
+11 (6)(a) Incorporated cities and villages which are not within the
+12 boundaries of a municipal county may levy a maximum levy of forty-five
+13 cents per one hundred dollars of taxable valuation of property subject to
+14 the levy plus an additional five cents per one hundred dollars of taxable
+15 valuation to provide financing for the municipality's share of revenue
+16 required under an agreement or agreements executed pursuant to the
+17 Interlocal Cooperation Act or the Joint Public Agency Act. The maximum
+18 levy shall include amounts levied to pay for sums to support a library
+19 pursuant to section 51-201, museum pursuant to section 51-501, visiting
+20 community nurse, home health nurse, or home health agency pursuant to
+21 section 71-1637, or statue, memorial, or monument pursuant to section
+22 80-202.
+23 (b) Incorporated cities and villages which are within the boundaries
+24 of a municipal county may levy a maximum levy of ninety cents per one
+25 hundred dollars of taxable valuation of property subject to the levy. The
+26 maximum levy shall include amounts paid to a municipal county for county
+27 services, amounts levied to pay for sums to support a library pursuant to
+28 section 51-201, a museum pursuant to section 51-501, a visiting community
+29 nurse, home health nurse, or home health agency pursuant to section
+30 71-1637, or a statue, memorial, or monument pursuant to section 80-202.
+31 (7) Sanitary and improvement districts which have been in existence
+-6-
+LB303 LB303
+2025 2025
+1 for more than five years may levy a maximum levy of forty cents per one
+2 hundred dollars of taxable valuation of property subject to the levy, and
+3 sanitary and improvement districts which have been in existence for five
+4 years or less shall not have a maximum levy. Unconsolidated sanitary and
+5 improvement districts which have been in existence for more than five
+6 years and are located in a municipal county may levy a maximum of eighty-
+7 five cents per hundred dollars of taxable valuation of property subject
+8 to the levy.
+9 (8) Counties may levy or authorize a maximum levy of fifty cents per
+10 one hundred dollars of taxable valuation of property subject to the levy,
+11 except that five cents per one hundred dollars of taxable valuation of
+12 property subject to the levy may only be levied to provide financing for
+13 the county's share of revenue required under an agreement or agreements
+14 executed pursuant to the Interlocal Cooperation Act or the Joint Public
+15 Agency Act. The maximum levy shall include amounts levied to pay for sums
+16 to support a library pursuant to section 51-201 or museum pursuant to
+17 section 51-501. The county may allocate up to fifteen cents of its
+18 authority to other political subdivisions subject to allocation of
+19 property tax authority under subsection (1) of section 77-3443 and not
+20 specifically covered in this section to levy taxes as authorized by law
+21 which do not collectively exceed fifteen cents per one hundred dollars of
+22 taxable valuation on any parcel or item of taxable property. The county
+23 may allocate to one or more other political subdivisions subject to
+24 allocation of property tax authority by the county under subsection (1)
+25 of section 77-3443 some or all of the county's five cents per one hundred
+26 dollars of valuation authorized for support of an agreement or agreements
+27 to be levied by the political subdivision for the purpose of supporting
+28 that political subdivision's share of revenue required under an agreement
+29 or agreements executed pursuant to the Interlocal Cooperation Act or the
+30 Joint Public Agency Act. If an allocation by a county would cause another
+31 county to exceed its levy authority under this section, the second county
+-7-
+LB303 LB303
+2025 2025
+1 may exceed the levy authority in order to levy the amount allocated.
+2 (9) Municipal counties may levy or authorize a maximum levy of one
+3 dollar per one hundred dollars of taxable valuation of property subject
+4 to the levy. The municipal county may allocate levy authority to any
+5 political subdivision or entity subject to allocation under section
+6 77-3443.
+7 (10) Beginning July 1, 2016, rural and suburban fire protection
+8 districts may levy a maximum levy of ten and one-half cents per one
+9 hundred dollars of taxable valuation of property subject to the levy if
+10 (a) such district is located in a county that had a levy pursuant to
+11 subsection (8) of this section in the previous year of at least forty
+12 cents per one hundred dollars of taxable valuation of property subject to
+13 the levy or (b) such district had a levy request pursuant to section
+14 77-3443 in any of the three previous years and the county board of the
+15 county in which the greatest portion of the valuation of such district is
+16 located did not authorize any levy authority to such district in such
+17 year.
+18 (11) A regional metropolitan transit authority may levy a maximum
+19 levy of ten cents per one hundred dollars of taxable valuation of
+20 property subject to the levy for each fiscal year that commences on the
+21 January 1 that follows the effective date of the conversion of the
+22 transit authority established under the Transit Authority Law into the
+23 regional metropolitan transit authority.
+24 (12) Property tax levies (a) for judgments, except judgments or
+25 orders from the Commission of Industrial Relations, obtained against a
+26 political subdivision which require or obligate a political subdivision
+27 to pay such judgment, to the extent such judgment is not paid by
+28 liability insurance coverage of a political subdivision, (b) for
+29 preexisting lease-purchase contracts approved prior to July 1, 1998, (c)
+30 for bonds as defined in section 10-134 approved according to law and
+31 secured by a levy on property except as provided in section 44-4317 for
+-8-
+LB303 LB303
+2025 2025
+1 bonded indebtedness issued by educational service units and school
+2 districts, (d) for payments by a public airport to retire interest-free
+3 loans from the Division of Aeronautics of the Department of
+4 Transportation in lieu of bonded indebtedness at a lower cost to the
+5 public airport, and (e) to pay for cancer benefits provided on or after
+6 January 1, 2022, pursuant to the Firefighter Cancer Benefits Act are not
+7 included in the levy limits established by this section.
+8 (13) The limitations on tax levies provided in this section are to
+9 include all other general or special levies provided by law.
+10 Notwithstanding other provisions of law, the only exceptions to the
+11 limits in this section are those provided by or authorized by sections
+12 77-3442 to 77-3444.
+13 (14) Tax levies in excess of the limitations in this section shall
+14 be considered unauthorized levies under section 77-1606 unless approved
+15 under section 77-3444.
+16 (15) For purposes of sections 77-3442 to 77-3444, political
+17 subdivision means a political subdivision of this state and a county
+18 agricultural society.
+19 (16) For school districts that file a binding resolution on or
+20 before May 9, 2008, with the county assessors, county clerks, and county
+21 treasurers for all counties in which the school district has territory
+22 pursuant to subsection (7) of section 79-458, if the combined levies,
+23 except levies for bonded indebtedness approved by the voters of the
+24 school district and levies for the refinancing of such bonded
+25 indebtedness, are in excess of the greater of (a) one dollar and twenty
+26 cents per one hundred dollars of taxable valuation of property subject to
+27 the levy or (b) the maximum levy authorized by a vote pursuant to section
+28 77-3444, all school district levies, except levies for bonded
+29 indebtedness approved by the voters of the school district and levies for
+30 the refinancing of such bonded indebtedness, shall be considered
+31 unauthorized levies under section 77-1606.
+-9-
+LB303 LB303
+2025 2025
+1 Sec. 2. Section 79-1001, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-1001 Sections 79-1001 to 79-1033 and section 4 of this act shall
+4 be known and may be cited as the Tax Equity and Educational Opportunities
+5 Support Act.
+6 Sec. 3. Section 79-1006, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 79-1006 (1) The For school fiscal year 2023-24 and each school
+9 fiscal year thereafter, the department shall determine the foundation aid
+10 to be paid to each school district in accordance with subsection (2) of
+11 this section.
+12 (2)(a) Through school fiscal year 2024-25, the (2) The foundation
+13 aid to be paid to each school district in each school fiscal year shall
+14 equal one thousand five hundred dollars multiplied by the number of
+15 formula students for such school district.
+16 (b) For school fiscal year 2025-26 and each school fiscal year
+17 thereafter, the foundation aid to be paid to each school district shall
+18 be calculated as follows: (i) The amount of one thousand five hundred
+19 ninety dollars multiplied by (ii) the number of formula students for such
+20 school district.
+21 (3) Twenty-four percent of the total amount of foundation aid paid
+22 each school fiscal year shall be paid from money appropriated from the
+23 Education Future Fund.
+24 (4) For school fiscal years 2023-24 and 2024-25, one hundred percent
+25 of foundation aid shall be included as a formula resource pursuant to
+26 section 79-1017.01. For school fiscal year 2025-26 and each school fiscal
+27 year thereafter, sixty percent of foundation aid shall be included as a
+28 formula resource pursuant to section 79-1017.01.
+29 Sec. 4. (1) For school fiscal year 2025-26 and each school fiscal
+30 year thereafter, the department shall calculate a base levy adjustment
+31 pursuant to subsection (3) of this section for each school district to
+-10-
+LB303 LB303
+2025 2025
+1 adjust the calculated state aid amount for the ensuing school fiscal year
+2 prior to certification.
+3 (2) For purposes of the calculation of the base levy adjustment
+4 pursuant to this section:
+5 (a) Base levy shall be equal to thirty cents per one hundred dollars
+6 of taxable valuation;
+7 (b) The potential general fund levy for the ensuing school fiscal
+8 year shall equal the general fund levy for the school fiscal year
+9 immediately preceding the school fiscal year for which aid is being
+10 calculated plus the potential general fund levy change calculated in
+11 subdivision (c) of this subsection; and
+12 (c) The potential general fund levy change shall equal the
+13 difference between the amount of state aid for the school fiscal year
+14 immediately preceding the school fiscal year for which aid is being
+15 calculated and the state aid calculated for the ensuing school fiscal
+16 year divided by the adjusted valuation and multiplied by one hundred.
+17 (3) If the potential general fund levy for the ensuing school fiscal
+18 year is less than the base levy, the difference between such amounts
+19 shall be multiplied by the adjusted valuation and divided by one hundred.
+20 Such amount shall then be subtracted from the state aid calculated for
+21 the ensuing school fiscal year to determine the adjusted amount of state
+22 aid to be distributed to the school district in the ensuing school fiscal
+23 year.
+24 Sec. 5. Section 79-1022, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 79-1022 (1) On or before June 15, 2025 2023, and on or before March
+27 1 of each year thereafter, the department shall determine the amounts to
+28 be distributed to each local system for the ensuing school fiscal year
+29 pursuant to the Tax Equity and Educational Opportunities Support Act,
+30 which shall include adjustments required under section 4 of this act, and
+31 shall certify the amounts to the Director of Administrative Services, the
+-11-
+LB303 LB303
+2025 2025
+1 Auditor of Public Accounts, and each local system. On or before June 15,
+2 2025 2023, and on or before March 1 of each year thereafter, the
+3 department shall report the necessary funding level for the ensuing
+4 school fiscal year to the Governor, the Appropriations Committee of the
+5 Legislature, and the Education Committee of the Legislature. The report
+6 submitted to the committees of the Legislature shall be submitted
+7 electronically. Except as otherwise provided in this subsection,
+8 certified state aid amounts, including adjustments pursuant to section
+9 79-1065.02, shall be shown as budgeted non-property-tax receipts and
+10 deducted prior to calculating the property tax request in the local
+11 system's general fund budget statement as provided to the Auditor of
+12 Public Accounts pursuant to section 79-1024.
+13 (2) Except as provided in this subsection, subsection (8) of section
+14 79-1016, and sections 79-1005, 79-1033, and 79-1065.02, the amounts
+15 certified pursuant to subsection (1) of this section shall be distributed
+16 in ten as nearly as possible equal payments on the last business day of
+17 each month beginning in September of each ensuing school fiscal year and
+18 ending in June of the following year, except that when a local system is
+19 to receive a monthly payment of less than one thousand dollars, such
+20 payment shall be one lump-sum payment on the last business day of
+21 December during the ensuing school fiscal year.
+22 Sec. 6. Section 79-1022.02, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 79-1022.02 Notwithstanding any other provision of law, any
+25 certification of state aid pursuant to section 79-1022, certification of
+26 budget authority pursuant to section 79-1023, and certification of
+27 applicable allowable reserve percentages pursuant to section 79-1027
+28 completed prior to the effective date of this act June 1, 2023, for
+29 school fiscal year 2025-26 2023-24 are null and void.
+30 Sec. 7. Section 79-1023, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-12-
+LB303 LB303
+2025 2025
+1 79-1023 (1) On or before June 15, 2025 2023, and on or before March
+2 1 of each year thereafter, the department shall determine and certify to
+3 each school district budget authority for the general fund budget of
+4 expenditures for the ensuing school fiscal year.
+5 (2) Except as provided in sections 79-1028.01, 79-1029, 79-1030, and
+6 81-829.51, each school district shall have budget authority for the
+7 general fund budget of expenditures equal to the greater of (a) the
+8 general fund budget of expenditures for the immediately preceding school
+9 fiscal year minus exclusions pursuant to subsection (1) of section
+10 79-1028.01 for such school fiscal year with the difference increased by
+11 the basic allowable growth rate for the school fiscal year for which
+12 budget authority is being calculated, (b) the general fund budget of
+13 expenditures for the immediately preceding school fiscal year minus
+14 exclusions pursuant to subsection (1) of section 79-1028.01 for such
+15 school fiscal year with the difference increased by an amount equal to
+16 any student growth adjustment calculated for the school fiscal year for
+17 which budget authority is being calculated, or (c) one hundred ten
+18 percent of formula need for the school fiscal year for which budget
+19 authority is being calculated minus the special education budget of
+20 expenditures as filed on the school district budget statement on or
+21 before September 30 for the immediately preceding school fiscal year,
+22 which special education budget of expenditures is increased by the basic
+23 allowable growth rate for the school fiscal year for which budget
+24 authority is being calculated.
+25 (3) For any school fiscal year for which the budget authority for
+26 the general fund budget of expenditures for a school district is based on
+27 a student growth adjustment, the budget authority for the general fund
+28 budget of expenditures for such school district shall be adjusted in
+29 future years to reflect any student growth adjustment corrections related
+30 to such student growth adjustment.
+31 Sec. 8. Section 79-1027, Reissue Revised Statutes of Nebraska, is
+-13-
+LB303 LB303
+2025 2025
+1 amended to read:
+2 79-1027 No district shall adopt a budget, which includes total
+3 requirements of depreciation funds, necessary employee benefit fund cash
+4 reserves, and necessary general fund cash reserves, exceeding the
+5 applicable allowable reserve percentages of total general fund budget of
+6 expenditures as specified in the schedule set forth in this section.
+7 Average daily Allowable
+8 membership of reserve
+9 district percentage
+10 0 - 471 45
+11 471.01 - 3,044 35
+12 3,044.01 - 10,000 25
+13 10,000.01 and over 20
+14 On or before June 15, 2025 2023, and on or before March 1 each year
+15 thereafter, the department shall determine and certify each district's
+16 applicable allowable reserve percentage for the ensuing school fiscal
+17 year.
+18 Each district with combined necessary general fund cash reserves,
+19 total requirements of depreciation funds, and necessary employee benefit
+20 fund cash reserves less than the applicable allowable reserve percentage
+21 specified in this section may, notwithstanding the district's applicable
+22 allowable growth rate, increase its necessary general fund cash reserves
+23 such that the total necessary general fund cash reserves, total
+24 requirements of depreciation funds, and necessary employee benefit fund
+25 cash reserves do not exceed such applicable allowable reserve percentage.
+26 Sec. 9. Section 79-1031.01, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 79-1031.01 The Appropriations Committee of the Legislature shall
+29 annually include the amount necessary to fund the state aid that will be
+30 certified to school districts on or before June 15, 2025 2023, and on or
+31 before March 1 of each year thereafter for each ensuing school fiscal
+-14-
+LB303 LB303
+2025 2025
+1 year in its recommendations to the Legislature to carry out the
+2 requirements of the Tax Equity and Educational Opportunities Support Act.
+3 Sec. 10. (1)(a) The School Finance Reform Commission is created.
+4 The purpose of the commission is to study and provide advisory
+5 recommendations relating to school funding in Nebraska. The commission
+6 shall:
+7 (i) Evaluate the current formula under the Tax Equity and
+8 Educational Opportunities Support Act for funding education and make
+9 recommendations for adjustments or changes that may be necessary to help
+10 prevent the increase of local property taxes;
+11 (ii) Regularly review the resources side of the formula;
+12 (iii) Regularly review the needs side of the formula; and
+13 (iv) Analyze options for how to minimize the negative impact on
+14 schools during times when the state may be unable to fully fund the
+15 formula.
+16 (b) By December 1 of each year, the commission shall prepare and
+17 electronically deliver to the Clerk of the Legislature an annual report
+18 with the observations and recommendations developed pursuant to this
+19 subsection.
+20 (2)(a)(i) The commission shall consist of eleven voting members and
+21 four consulting members for a total of fifteen members.
+22 (ii) The eleven voting members shall be:
+23 (A) Two members appointed to serve at the pleasure of the Governor;
+24 (B) The Chairperson of the Education Committee of the Legislature;
+25 (C) The Chairperson of the Revenue Committee of the Legislature;
+26 (D) The Chairperson of the Appropriations Committee of the
+27 Legislature;
+28 (E) A superintendent of a Class I school district appointed by the
+29 Governor;
+30 (F) A superintendent of a Class II school district appointed by the
+31 Governor;
+-15-
+LB303 LB303
+2025 2025
+1 (G) Two superintendents of a Class III school district appointed by
+2 the Governor;
+3 (H) A superintendent of a Class IV school district appointed by the
+4 Governor; and
+5 (I) A superintendent of a Class V school district appointed by the
+6 Governor.
+7 (iii) The four nonvoting, consulting members shall be:
+8 (A) The Commissioner of Education or such person's designee;
+9 (B) The finance officer of the State Department of Education or such
+10 person's designee;
+11 (C) The Legislative Fiscal Analyst or such person's designee; and
+12 (D) The budget administrator of the budget division of the
+13 Department of Administrative Services or such person's designee.
+14 (b)(i) The members of the commission shall serve for a term of two
+15 years or until their successor is appointed and qualified. If at any
+16 point a member no longer meets the qualification for such member's
+17 position on the commission, such member shall vacate membership on the
+18 commission. Any vacancy in the commission shall be filled in the same
+19 manner or qualification as the original appointment.
+20 (ii) The commission shall annually elect a chairperson from among
+21 its members. The commission shall meet at the call of the chairperson or
+22 at the request of any five members and shall meet as often as necessary
+23 to carry out its duties, but at least once per year.
+24 Sec. 11. Original sections 79-1001, 79-1006, 79-1022, 79-1022.02,
+25 79-1023, 79-1027, and 79-1031.01, Reissue Revised Statutes of Nebraska,
+26 and section 77-3442, Revised Statutes Cumulative Supplement, 2024, are
+27 repealed.
+28 Sec. 12. Since an emergency exists, this act takes effect when
+29 passed and approved according to law.
+-16-
+[DELETED: yHA B F A A r t e t a s 77 7 7 7 7 a 7RSa t c p r t f a acuc t S F R C t hp t r t o s a t d a0e1B3L52]
+[DELETED: S27ft a s f i t s e a p i s7(sm0(1h d o t v o p s t t l2a3( F f y 2 a e f y t o4d a t c p o h d o t v o5p6( F e f y p t f y 2 l7c m l a m l f t g f b o8m9t0l p t t s s b d p t1s2( E a p i s ( o t s f3e4m5g6t7o8p t s ( o t s f s l9c0(1o3L52]
+[DELETED: a t b p b a s d t c e ie f a v t o e o p tStf c a f q v t i fcaot0f1t c e i e f a v t o2e3r o a c a i f a e o4S 1 2 t a n o i i a e5p6s7(8s a t b p t c e i e f 9v0a1f2a3l b a s d o a t m l p t4s5c6e f a v t o e o b7S 1 2 a A 3 2 a a r o a c8b9n0t1a3L52]
+[DELETED: f1 1 f c e o a o s db F p o t s c m a atd( F a s d m e t m lpeo0p o t s f a s d m a1s2g f b f f g s p t T3V4( F e f y l c m l a m5l o o c o e o h d o t p6s7r8f9p0t1( F e f y l c m l a m2l o o a o c o e o h d o t3p4c i p f e l c e f5c6l7a8m9( F e f y t f y 2 c0c1( o s 8 i a w t p o s3L52]
+[DELETED: s F f y 2 a e f y tc(sss r a d i s 8 o 8 cob08 a t t t o s b o f a o1p2(3a o c p o h d o t v o4p5( N r d s a h t p a6a t l a t e t t d a b w t7r f b t a a i g w8m a a i m a u t9N G W M a P A e t0r f b t a a i g w1m2n3a4( I a n r d l i a r5b s o r t h b d t b f6a7p8a h t p a a t l a t e t t d9a b w t r f b t a a0i g w m a a i m1a3L52]
+[DELETED: ew m a a i m a fF n t e t c o e o h d otf2(pc0t1( I c a v w a n w t2b3c4t5v t p f f t m s o r6r u a a o a e p t t7I8l9p0c n h h n o h h a p t1s 7 o s m o m p t s283(4o5h6m7s8s9n h h n o h h a p t s071(3L52]
+[DELETED: fhsyi d w h b i e f m t fyft(0o1e2p3t4e5A6t s a l p t s 5 o m p t7s 5 T c m a u t f c o i8a t o p s s t a o9p0s1w2t3m a t o o m o p s s t4a5o6d7t8t9o0J1c3L52]
+[DELETED: m(dt t l T m c m a l a t ap s o e s t a u s7( B J 1 2 r a s f pd m l a m l o t a o c p oh0( s d i l i a c t h a l p t1s ( o t s i t p y o a l f2c3t l o ( s d h a l r p t s475c6l d n a a l a t s d i s7y8( A r m t a m l a m9l o t c p o h d o t v o0p1J 1 t f t e d o t c o t2t a e u t T A L i t3r4( P t l ( f j e j o5o f t C o I R o a 6p7t p s j t t e s j i n p b8l i c o a p s ( f9p0f b a d i s 1 a a t l a1s3L52]
+[DELETED: b i i b e s u a sdl f t D o A o t D oT i l o b i a a l c t tpJi(i a o g o s l p b l0N o p o l t o e t t1l273(4b5u6( F p o s 7 t 7 p7s m a p s o t s a a c8a9( F s d t f a b r o o0b1t2p t s ( o s 7 i t c l3e l f b i a b t v o t4s d a l f t r o s b5i6c7t87 a s d l e l f b9i0t r o s b i s b c1u3L52]
+[DELETED: S 2 S 7 R R S o N ia7bSS 3 S 7 R R S o N ia7 ( T F s f y 2 a e sf0t1t2( T s f y 2 t ( T f3a4e o t f h d m b t n o5f6( F s f y 2 a e s f y7t8b c a f ( T a o o t f h9n0s1(2e3E4(5o f a s b i a a f r p t6s7y8f9S0y t t d s c a b l a1p3L52]
+[DELETED: ap( F p o t c o t b l ap(o( T p g f l f t e s fy s e t g f l f t s f yi p t s f y f w a i b0c p t p g f l c c i1s2( T p g f l c s e t3d b t a o s a f t s f y4i p t s f y f w a i b5c a t s a c f t e s f6y7(8y i l t t b l t d b s a9s0S1t2a3y4S 5 S 7 R R S o N i5a67718b9p t t T E a E O S A0w1s3L52]
+[DELETED: A2 2 a o o b M 1 o e y t td s r t n f l f t esLs t t c o t L s b se E a o p i t sc s a a i a p t s7 s b s a b n r a0d p t c t p t r i t l1s g f b s a p t t A o2P3(47 a s 7 7 a 7 t a5c6i7e8e9t r a m p o l t o t d s0p s b o l p o t l b d o1D2S3a47 N a o p o l a5c6b a p t s 7 a c o7a a r p p t s 78c p t t e d o t a J 1 2 f9s0S 7 S 7 R R S o N i1a3L52]
+[DELETED: 71e s d b a f t g f b oe(8 e s d s h b a f tg f b o e e t t g o ( tgf y m e p t s ( o s071t b a g r f t s f y f w2b a i b c ( t g f b o3e f t i p s f y m4e p t s ( o s 7 f s5s6a7w b a i b c o ( o h t8p o f n f t s f y f w b9a i b c m t s e b o0e a f o t s d b s o o1b S 3 f t i p s f y2w3a g r f t s f y f w b4a5(6t7a8b o e f s s d s b a i9f0t1S 8 S 7 R R S o N i3L52]
+[DELETED: a7 N d s a a b w i trr a n g f c r e taeAyAmfrdtp00141443230231r24O5t t d s d a c e d6a a r p f t e s f7y8E d w c n g f c r9t0f1s2a3s t t t n g f c r t4r5c6S7a87 T A C o t L s9a0c1b M 1 o e y t f e e s f3L52]
+[DELETED: y i i r t t L t c o trS 1  ( T S F R C i cT p o t c i t s a p ar r t s f i N T cs( E t c f u t T E aE O S A f f e a mr0p1(2(3( A o f h t m t n i o4s d t w t s m b u t f f t5f6( B D 1 o e y t c s p a7e8w t o a r d p t t9s0(1f2(3(4(5(6( T C o t A C o t7L8(9G0(1G3L52]
+[DELETED: (t(G(G(((0p1(2( T b a o t b d o t3D4(5y o u t s i a a q I a a6p a m n l m t q f s m7p8c A v i t c s b f i t s9m0( T c s a e a c f a1i2a3t4S576a s 7 R S C S 2 a7r8S 1  S a e e t a t e w9p3L52]
+
+
+================================================================================
+
+Raw Text:
+LB303 LB303
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 303
+Introduced by Hughes, 24; at the request of the Governor; Brandt, 32;
+Dorn, 30.
+Read first time January 15, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend sections 79-1001,
+2 79-1006, 79-1022, 79-1022.02, 79-1023, 79-1027, and 79-1031.01,
+3 Reissue Revised Statutes of Nebraska, and section 77-3442, Revised
+4 Statutes Cumulative Supplement, 2024; to change school district levy
+5 authority; to change provisions relating to foundation aid and
+6 certain certification dates and provide for a base levy adjustment
+7 under the Tax Equity and Educational Opportunities Support Act; to
+8 create the School Finance Reform Commission; to harmonize
+9 provisions; to repeal the original sections; and to declare an
+10 emergency.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB303 LB303
+2025 2025
+1 Section 1. Section 77-3442, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-3442 (1) Property tax levies for the support of local governments
+4 for fiscal years beginning on or after July 1, 1998, shall be limited to
+5 the amounts set forth in this section except as provided in section
+6 77-3444.
+7 (2)(a) Except as provided in subdivisions (2)(b) and (2)(e) of this
+8 section, school districts and multiple-district school systems may levy a
+9 maximum levy of:
+10 (i) Through fiscal year 2024-25, one dollar and five cents per one
+11 hundred dollars of taxable valuation of property subject to the levy;
+12 and .
+13 (ii) For fiscal year 2025-26 and each fiscal year thereafter, one
+14 dollar and two cents per one hundred dollars of taxable valuation of
+15 property subject to the levy.
+16 (b) For each fiscal year prior to fiscal year 2017-18, learning
+17 communities may levy a maximum levy for the general fund budgets of
+18 member school districts of ninety-five cents per one hundred dollars of
+19 taxable valuation of property subject to the levy. The proceeds from the
+20 levy pursuant to this subdivision shall be distributed pursuant to
+21 section 79-1073.
+22 (c) Except as provided in subdivision (2)(e) of this section, for
+23 each fiscal year prior to fiscal year 2017-18, school districts that are
+24 members of learning communities may levy for purposes of such districts'
+25 general fund budget and special building funds a maximum combined levy of
+26 the difference of one dollar and five cents on each one hundred dollars
+27 of taxable property subject to the levy minus the learning community levy
+28 pursuant to subdivision (2)(b) of this section for such learning
+29 community.
+30 (d) Excluded from the limitations in subdivisions (2)(a) and (2)(c)
+31 of this section are (i) amounts levied to pay for current and future sums
+-2-
+
+LB303 LB303
+2025 2025
+1 agreed to be paid by a school district to certificated employees in
+2 exchange for a voluntary termination of employment occurring prior to
+3 September 1, 2017, (ii) amounts levied by a school district otherwise at
+4 the maximum levy pursuant to subdivision (2)(a) of this section to pay
+5 for current and future qualified voluntary termination incentives for
+6 certificated teachers pursuant to subsection (3) of section 79-8,142 that
+7 are not otherwise included in an exclusion pursuant to subdivision (2)(d)
+8 of this section, (iii) amounts levied by a school district otherwise at
+9 the maximum levy pursuant to subdivision (2)(a) of this section to pay
+10 for seventy-five percent of the current and future sums agreed to be paid
+11 to certificated employees in exchange for a voluntary termination of
+12 employment occurring between September 1, 2017, and August 31, 2018, as a
+13 result of a collective-bargaining agreement in force and effect on
+14 September 1, 2017, that are not otherwise included in an exclusion
+15 pursuant to subdivision (2)(d) of this section, (iv) amounts levied by a
+16 school district otherwise at the maximum levy pursuant to subdivision (2)
+17 (a) of this section to pay for fifty percent of the current and future
+18 sums agreed to be paid to certificated employees in exchange for a
+19 voluntary termination of employment occurring between September 1, 2018,
+20 and August 31, 2019, as a result of a collective-bargaining agreement in
+21 force and effect on September 1, 2017, that are not otherwise included in
+22 an exclusion pursuant to subdivision (2)(d) of this section, (v) amounts
+23 levied by a school district otherwise at the maximum levy pursuant to
+24 subdivision (2)(a) of this section to pay for twenty-five percent of the
+25 current and future sums agreed to be paid to certificated employees in
+26 exchange for a voluntary termination of employment occurring between
+27 September 1, 2019, and August 31, 2020, as a result of a collective-
+28 bargaining agreement in force and effect on September 1, 2017, that are
+29 not otherwise included in an exclusion pursuant to subdivision (2)(d) of
+30 this section, (vi) amounts levied in compliance with sections 79-10,110
+31 and 79-10,110.02, and (vii) amounts levied to pay for special building
+-3-
+
+LB303 LB303
+2025 2025
+1 funds and sinking funds established for projects commenced prior to April
+2 1, 1996, for construction, expansion, or alteration of school district
+3 buildings. For purposes of this subsection, commenced means any action
+4 taken by the school board on the record which commits the board to expend
+5 district funds in planning, constructing, or carrying out the project.
+6 (e) Federal aid school districts may exceed the maximum levy
+7 prescribed by subdivision (2)(a) or (2)(c) of this section only to the
+8 extent necessary to qualify to receive federal aid pursuant to Title VIII
+9 of Public Law 103-382, as such title existed on September 1, 2001. For
+10 purposes of this subdivision, federal aid school district means any
+11 school district which receives ten percent or more of the revenue for its
+12 general fund budget from federal government sources pursuant to Title
+13 VIII of Public Law 103-382, as such title existed on September 1, 2001.
+14 (f) For each fiscal year, learning communities may levy a maximum
+15 levy of one-half cent on each one hundred dollars of taxable property
+16 subject to the levy for elementary learning center facility leases, for
+17 remodeling of leased elementary learning center facilities, and for up to
+18 fifty percent of the estimated cost for focus school or program capital
+19 projects approved by the learning community coordinating council pursuant
+20 to section 79-2111.
+21 (g) For each fiscal year, learning communities may levy a maximum
+22 levy of one and one-half cents on each one hundred dollars of taxable
+23 property subject to the levy for early childhood education programs for
+24 children in poverty, for elementary learning center employees, for
+25 contracts with other entities or individuals who are not employees of the
+26 learning community for elementary learning center programs and services,
+27 and for pilot projects, except that no more than ten percent of such levy
+28 may be used for elementary learning center employees.
+29 (3) For each fiscal year through fiscal year 2023-24, community
+30 college areas may levy the levies provided in subdivisions (2)(a) through
+31 (c) of section 85-1517, in accordance with the provisions of such
+-4-
+
+LB303 LB303
+2025 2025
+1 subdivisions. For fiscal year 2024-25 and each fiscal year thereafter,
+2 community college areas may levy the levies provided in subdivisions (2)
+3 (a) and (b) of section 85-1517, in accordance with the provisions of such
+4 subdivisions. A community college area may exceed the levy provided in
+5 subdivision (2)(a) of section 85-1517 by the amount necessary to generate
+6 sufficient revenue as described in section 85-1543 or 85-2238. A
+7 community college area may exceed the levy provided in subdivision (2)(b)
+8 of section 85-1517 by the amount necessary to retire general obligation
+9 bonds assumed by the community college area or issued pursuant to section
+10 85-1515 according to the terms of such bonds or for any obligation
+11 pursuant to section 85-1535 entered into prior to January 1, 1997.
+12 (4)(a) Natural resources districts may levy a maximum levy of four
+13 and one-half cents per one hundred dollars of taxable valuation of
+14 property subject to the levy.
+15 (b) Natural resources districts shall also have the power and
+16 authority to levy a tax equal to the dollar amount by which their
+17 restricted funds budgeted to administer and implement ground water
+18 management activities and integrated management activities under the
+19 Nebraska Ground Water Management and Protection Act exceed their
+20 restricted funds budgeted to administer and implement ground water
+21 management activities and integrated management activities for FY2003-04,
+22 not to exceed one cent on each one hundred dollars of taxable valuation
+23 annually on all of the taxable property within the district.
+24 (c) In addition, natural resources districts located in a river
+25 basin, subbasin, or reach that has been determined to be fully
+26 appropriated pursuant to section 46-714 or designated as overappropriated
+27 pursuant to section 46-713 by the Department of Natural Resources shall
+28 also have the power and authority to levy a tax equal to the dollar
+29 amount by which their restricted funds budgeted to administer and
+30 implement ground water management activities and integrated management
+31 activities under the Nebraska Ground Water Management and Protection Act
+-5-
+
+LB303 LB303
+2025 2025
+1 exceed their restricted funds budgeted to administer and implement ground
+2 water management activities and integrated management activities for
+3 FY2005-06, not to exceed three cents on each one hundred dollars of
+4 taxable valuation on all of the taxable property within the district for
+5 fiscal year 2006-07 and each fiscal year thereafter through fiscal year
+6 2017-18.
+7 (5) Any educational service unit authorized to levy a property tax
+8 pursuant to section 79-1225 may levy a maximum levy of one and one-half
+9 cents per one hundred dollars of taxable valuation of property subject to
+10 the levy.
+11 (6)(a) Incorporated cities and villages which are not within the
+12 boundaries of a municipal county may levy a maximum levy of forty-five
+13 cents per one hundred dollars of taxable valuation of property subject to
+14 the levy plus an additional five cents per one hundred dollars of taxable
+15 valuation to provide financing for the municipality's share of revenue
+16 required under an agreement or agreements executed pursuant to the
+17 Interlocal Cooperation Act or the Joint Public Agency Act. The maximum
+18 levy shall include amounts levied to pay for sums to support a library
+19 pursuant to section 51-201, museum pursuant to section 51-501, visiting
+20 community nurse, home health nurse, or home health agency pursuant to
+21 section 71-1637, or statue, memorial, or monument pursuant to section
+22 80-202.
+23 (b) Incorporated cities and villages which are within the boundaries
+24 of a municipal county may levy a maximum levy of ninety cents per one
+25 hundred dollars of taxable valuation of property subject to the levy. The
+26 maximum levy shall include amounts paid to a municipal county for county
+27 services, amounts levied to pay for sums to support a library pursuant to
+28 section 51-201, a museum pursuant to section 51-501, a visiting community
+29 nurse, home health nurse, or home health agency pursuant to section
+30 71-1637, or a statue, memorial, or monument pursuant to section 80-202.
+31 (7) Sanitary and improvement districts which have been in existence
+-6-
+
+LB303 LB303
+2025 2025
+1 for more than five years may levy a maximum levy of forty cents per one
+2 hundred dollars of taxable valuation of property subject to the levy, and
+3 sanitary and improvement districts which have been in existence for five
+4 years or less shall not have a maximum levy. Unconsolidated sanitary and
+5 improvement districts which have been in existence for more than five
+6 years and are located in a municipal county may levy a maximum of eighty-
+7 five cents per hundred dollars of taxable valuation of property subject
+8 to the levy.
+9 (8) Counties may levy or authorize a maximum levy of fifty cents per
+10 one hundred dollars of taxable valuation of property subject to the levy,
+11 except that five cents per one hundred dollars of taxable valuation of
+12 property subject to the levy may only be levied to provide financing for
+13 the county's share of revenue required under an agreement or agreements
+14 executed pursuant to the Interlocal Cooperation Act or the Joint Public
+15 Agency Act. The maximum levy shall include amounts levied to pay for sums
+16 to support a library pursuant to section 51-201 or museum pursuant to
+17 section 51-501. The county may allocate up to fifteen cents of its
+18 authority to other political subdivisions subject to allocation of
+19 property tax authority under subsection (1) of section 77-3443 and not
+20 specifically covered in this section to levy taxes as authorized by law
+21 which do not collectively exceed fifteen cents per one hundred dollars of
+22 taxable valuation on any parcel or item of taxable property. The county
+23 may allocate to one or more other political subdivisions subject to
+24 allocation of property tax authority by the county under subsection (1)
+25 of section 77-3443 some or all of the county's five cents per one hundred
+26 dollars of valuation authorized for support of an agreement or agreements
+27 to be levied by the political subdivision for the purpose of supporting
+28 that political subdivision's share of revenue required under an agreement
+29 or agreements executed pursuant to the Interlocal Cooperation Act or the
+30 Joint Public Agency Act. If an allocation by a county would cause another
+31 county to exceed its levy authority under this section, the second county
+-7-
+
+LB303 LB303
+2025 2025
+1 may exceed the levy authority in order to levy the amount allocated.
+2 (9) Municipal counties may levy or authorize a maximum levy of one
+3 dollar per one hundred dollars of taxable valuation of property subject
+4 to the levy. The municipal county may allocate levy authority to any
+5 political subdivision or entity subject to allocation under section
+6 77-3443.
+7 (10) Beginning July 1, 2016, rural and suburban fire protection
+8 districts may levy a maximum levy of ten and one-half cents per one
+9 hundred dollars of taxable valuation of property subject to the levy if
+10 (a) such district is located in a county that had a levy pursuant to
+11 subsection (8) of this section in the previous year of at least forty
+12 cents per one hundred dollars of taxable valuation of property subject to
+13 the levy or (b) such district had a levy request pursuant to section
+14 77-3443 in any of the three previous years and the county board of the
+15 county in which the greatest portion of the valuation of such district is
+16 located did not authorize any levy authority to such district in such
+17 year.
+18 (11) A regional metropolitan transit authority may levy a maximum
+19 levy of ten cents per one hundred dollars of taxable valuation of
+20 property subject to the levy for each fiscal year that commences on the
+21 January 1 that follows the effective date of the conversion of the
+22 transit authority established under the Transit Authority Law into the
+23 regional metropolitan transit authority.
+24 (12) Property tax levies (a) for judgments, except judgments or
+25 orders from the Commission of Industrial Relations, obtained against a
+26 political subdivision which require or obligate a political subdivision
+27 to pay such judgment, to the extent such judgment is not paid by
+28 liability insurance coverage of a political subdivision, (b) for
+29 preexisting lease-purchase contracts approved prior to July 1, 1998, (c)
+30 for bonds as defined in section 10-134 approved according to law and
+31 secured by a levy on property except as provided in section 44-4317 for
+-8-
+
+LB303 LB303
+2025 2025
+1 bonded indebtedness issued by educational service units and school
+2 districts, (d) for payments by a public airport to retire interest-free
+3 loans from the Division of Aeronautics of the Department of
+4 Transportation in lieu of bonded indebtedness at a lower cost to the
+5 public airport, and (e) to pay for cancer benefits provided on or after
+6 January 1, 2022, pursuant to the Firefighter Cancer Benefits Act are not
+7 included in the levy limits established by this section.
+8 (13) The limitations on tax levies provided in this section are to
+9 include all other general or special levies provided by law.
+10 Notwithstanding other provisions of law, the only exceptions to the
+11 limits in this section are those provided by or authorized by sections
+12 77-3442 to 77-3444.
+13 (14) Tax levies in excess of the limitations in this section shall
+14 be considered unauthorized levies under section 77-1606 unless approved
+15 under section 77-3444.
+16 (15) For purposes of sections 77-3442 to 77-3444, political
+17 subdivision means a political subdivision of this state and a county
+18 agricultural society.
+19 (16) For school districts that file a binding resolution on or
+20 before May 9, 2008, with the county assessors, county clerks, and county
+21 treasurers for all counties in which the school district has territory
+22 pursuant to subsection (7) of section 79-458, if the combined levies,
+23 except levies for bonded indebtedness approved by the voters of the
+24 school district and levies for the refinancing of such bonded
+25 indebtedness, are in excess of the greater of (a) one dollar and twenty
+26 cents per one hundred dollars of taxable valuation of property subject to
+27 the levy or (b) the maximum levy authorized by a vote pursuant to section
+28 77-3444, all school district levies, except levies for bonded
+29 indebtedness approved by the voters of the school district and levies for
+30 the refinancing of such bonded indebtedness, shall be considered
+31 unauthorized levies under section 77-1606.
+-9-
+
+LB303 LB303
+2025 2025
+1 Sec. 2. Section 79-1001, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-1001 Sections 79-1001 to 79-1033 and section 4 of this act shall
+4 be known and may be cited as the Tax Equity and Educational Opportunities
+5 Support Act.
+6 Sec. 3. Section 79-1006, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 79-1006 (1) The For school fiscal year 2023-24 and each school
+9 fiscal year thereafter, the department shall determine the foundation aid
+10 to be paid to each school district in accordance with subsection (2) of
+11 this section.
+12 (2)(a) Through school fiscal year 2024-25, the (2) The foundation
+13 aid to be paid to each school district in each school fiscal year shall
+14 equal one thousand five hundred dollars multiplied by the number of
+15 formula students for such school district.
+16 (b) For school fiscal year 2025-26 and each school fiscal year
+17 thereafter, the foundation aid to be paid to each school district shall
+18 be calculated as follows: (i) The amount of one thousand five hundred
+19 ninety dollars multiplied by (ii) the number of formula students for such
+20 school district.
+21 (3) Twenty-four percent of the total amount of foundation aid paid
+22 each school fiscal year shall be paid from money appropriated from the
+23 Education Future Fund.
+24 (4) For school fiscal years 2023-24 and 2024-25, one hundred percent
+25 of foundation aid shall be included as a formula resource pursuant to
+26 section 79-1017.01. For school fiscal year 2025-26 and each school fiscal
+27 year thereafter, sixty percent of foundation aid shall be included as a
+28 formula resource pursuant to section 79-1017.01.
+29 Sec. 4. (1) For school fiscal year 2025-26 and each school fiscal
+30 year thereafter, the department shall calculate a base levy adjustment
+31 pursuant to subsection (3) of this section for each school district to
+-10-
+
+LB303 LB303
+2025 2025
+1 adjust the calculated state aid amount for the ensuing school fiscal year
+2 prior to certification.
+3 (2) For purposes of the calculation of the base levy adjustment
+4 pursuant to this section:
+5 (a) Base levy shall be equal to thirty cents per one hundred dollars
+6 of taxable valuation;
+7 (b) The potential general fund levy for the ensuing school fiscal
+8 year shall equal the general fund levy for the school fiscal year
+9 immediately preceding the school fiscal year for which aid is being
+10 calculated plus the potential general fund levy change calculated in
+11 subdivision (c) of this subsection; and
+12 (c) The potential general fund levy change shall equal the
+13 difference between the amount of state aid for the school fiscal year
+14 immediately preceding the school fiscal year for which aid is being
+15 calculated and the state aid calculated for the ensuing school fiscal
+16 year divided by the adjusted valuation and multiplied by one hundred.
+17 (3) If the potential general fund levy for the ensuing school fiscal
+18 year is less than the base levy, the difference between such amounts
+19 shall be multiplied by the adjusted valuation and divided by one hundred.
+20 Such amount shall then be subtracted from the state aid calculated for
+21 the ensuing school fiscal year to determine the adjusted amount of state
+22 aid to be distributed to the school district in the ensuing school fiscal
+23 year.
+24 Sec. 5. Section 79-1022, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 79-1022 (1) On or before June 15, 2025 2023, and on or before March
+27 1 of each year thereafter, the department shall determine the amounts to
+28 be distributed to each local system for the ensuing school fiscal year
+29 pursuant to the Tax Equity and Educational Opportunities Support Act,
+30 which shall include adjustments required under section 4 of this act, and
+31 shall certify the amounts to the Director of Administrative Services, the
+-11-
+
+LB303 LB303
+2025 2025
+1 Auditor of Public Accounts, and each local system. On or before June 15,
+2 2025 2023, and on or before March 1 of each year thereafter, the
+3 department shall report the necessary funding level for the ensuing
+4 school fiscal year to the Governor, the Appropriations Committee of the
+5 Legislature, and the Education Committee of the Legislature. The report
+6 submitted to the committees of the Legislature shall be submitted
+7 electronically. Except as otherwise provided in this subsection,
+8 certified state aid amounts, including adjustments pursuant to section
+9 79-1065.02, shall be shown as budgeted non-property-tax receipts and
+10 deducted prior to calculating the property tax request in the local
+11 system's general fund budget statement as provided to the Auditor of
+12 Public Accounts pursuant to section 79-1024.
+13 (2) Except as provided in this subsection, subsection (8) of section
+14 79-1016, and sections 79-1005, 79-1033, and 79-1065.02, the amounts
+15 certified pursuant to subsection (1) of this section shall be distributed
+16 in ten as nearly as possible equal payments on the last business day of
+17 each month beginning in September of each ensuing school fiscal year and
+18 ending in June of the following year, except that when a local system is
+19 to receive a monthly payment of less than one thousand dollars, such
+20 payment shall be one lump-sum payment on the last business day of
+21 December during the ensuing school fiscal year.
+22 Sec. 6. Section 79-1022.02, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 79-1022.02 Notwithstanding any other provision of law, any
+25 certification of state aid pursuant to section 79-1022, certification of
+26 budget authority pursuant to section 79-1023, and certification of
+27 applicable allowable reserve percentages pursuant to section 79-1027
+28 completed prior to the effective date of this act June 1, 2023, for
+29 school fiscal year 2025-26 2023-24 are null and void.
+30 Sec. 7. Section 79-1023, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-12-
+
+LB303 LB303
+2025 2025
+1 79-1023 (1) On or before June 15, 2025 2023, and on or before March
+2 1 of each year thereafter, the department shall determine and certify to
+3 each school district budget authority for the general fund budget of
+4 expenditures for the ensuing school fiscal year.
+5 (2) Except as provided in sections 79-1028.01, 79-1029, 79-1030, and
+6 81-829.51, each school district shall have budget authority for the
+7 general fund budget of expenditures equal to the greater of (a) the
+8 general fund budget of expenditures for the immediately preceding school
+9 fiscal year minus exclusions pursuant to subsection (1) of section
+10 79-1028.01 for such school fiscal year with the difference increased by
+11 the basic allowable growth rate for the school fiscal year for which
+12 budget authority is being calculated, (b) the general fund budget of
+13 expenditures for the immediately preceding school fiscal year minus
+14 exclusions pursuant to subsection (1) of section 79-1028.01 for such
+15 school fiscal year with the difference increased by an amount equal to
+16 any student growth adjustment calculated for the school fiscal year for
+17 which budget authority is being calculated, or (c) one hundred ten
+18 percent of formula need for the school fiscal year for which budget
+19 authority is being calculated minus the special education budget of
+20 expenditures as filed on the school district budget statement on or
+21 before September 30 for the immediately preceding school fiscal year,
+22 which special education budget of expenditures is increased by the basic
+23 allowable growth rate for the school fiscal year for which budget
+24 authority is being calculated.
+25 (3) For any school fiscal year for which the budget authority for
+26 the general fund budget of expenditures for a school district is based on
+27 a student growth adjustment, the budget authority for the general fund
+28 budget of expenditures for such school district shall be adjusted in
+29 future years to reflect any student growth adjustment corrections related
+30 to such student growth adjustment.
+31 Sec. 8. Section 79-1027, Reissue Revised Statutes of Nebraska, is
+-13-
+
+LB303 LB303
+2025 2025
+1 amended to read:
+2 79-1027 No district shall adopt a budget, which includes total
+3 requirements of depreciation funds, necessary employee benefit fund cash
+4 reserves, and necessary general fund cash reserves, exceeding the
+5 applicable allowable reserve percentages of total general fund budget of
+6 expenditures as specified in the schedule set forth in this section.
+7 Average daily Allowable
+8 membership of reserve
+9 district percentage
+10 0 - 471 45
+11 471.01 - 3,044 35
+12 3,044.01 - 10,000 25
+13 10,000.01 and over 20
+14 On or before June 15, 2025 2023, and on or before March 1 each year
+15 thereafter, the department shall determine and certify each district's
+16 applicable allowable reserve percentage for the ensuing school fiscal
+17 year.
+18 Each district with combined necessary general fund cash reserves,
+19 total requirements of depreciation funds, and necessary employee benefit
+20 fund cash reserves less than the applicable allowable reserve percentage
+21 specified in this section may, notwithstanding the district's applicable
+22 allowable growth rate, increase its necessary general fund cash reserves
+23 such that the total necessary general fund cash reserves, total
+24 requirements of depreciation funds, and necessary employee benefit fund
+25 cash reserves do not exceed such applicable allowable reserve percentage.
+26 Sec. 9. Section 79-1031.01, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 79-1031.01 The Appropriations Committee of the Legislature shall
+29 annually include the amount necessary to fund the state aid that will be
+30 certified to school districts on or before June 15, 2025 2023, and on or
+31 before March 1 of each year thereafter for each ensuing school fiscal
+-14-
+
+LB303 LB303
+2025 2025
+1 year in its recommendations to the Legislature to carry out the
+2 requirements of the Tax Equity and Educational Opportunities Support Act.
+3 Sec. 10. (1)(a) The School Finance Reform Commission is created.
+4 The purpose of the commission is to study and provide advisory
+5 recommendations relating to school funding in Nebraska. The commission
+6 shall:
+7 (i) Evaluate the current formula under the Tax Equity and
+8 Educational Opportunities Support Act for funding education and make
+9 recommendations for adjustments or changes that may be necessary to help
+10 prevent the increase of local property taxes;
+11 (ii) Regularly review the resources side of the formula;
+12 (iii) Regularly review the needs side of the formula; and
+13 (iv) Analyze options for how to minimize the negative impact on
+14 schools during times when the state may be unable to fully fund the
+15 formula.
+16 (b) By December 1 of each year, the commission shall prepare and
+17 electronically deliver to the Clerk of the Legislature an annual report
+18 with the observations and recommendations developed pursuant to this
+19 subsection.
+20 (2)(a)(i) The commission shall consist of eleven voting members and
+21 four consulting members for a total of fifteen members.
+22 (ii) The eleven voting members shall be:
+23 (A) Two members appointed to serve at the pleasure of the Governor;
+24 (B) The Chairperson of the Education Committee of the Legislature;
+25 (C) The Chairperson of the Revenue Committee of the Legislature;
+26 (D) The Chairperson of the Appropriations Committee of the
+27 Legislature;
+28 (E) A superintendent of a Class I school district appointed by the
+29 Governor;
+30 (F) A superintendent of a Class II school district appointed by the
+31 Governor;
+-15-
+
+LB303 LB303
+2025 2025
+1 (G) Two superintendents of a Class III school district appointed by
+2 the Governor;
+3 (H) A superintendent of a Class IV school district appointed by the
+4 Governor; and
+5 (I) A superintendent of a Class V school district appointed by the
+6 Governor.
+7 (iii) The four nonvoting, consulting members shall be:
+8 (A) The Commissioner of Education or such person's designee;
+9 (B) The finance officer of the State Department of Education or such
+10 person's designee;
+11 (C) The Legislative Fiscal Analyst or such person's designee; and
+12 (D) The budget administrator of the budget division of the
+13 Department of Administrative Services or such person's designee.
+14 (b)(i) The members of the commission shall serve for a term of two
+15 years or until their successor is appointed and qualified. If at any
+16 point a member no longer meets the qualification for such member's
+17 position on the commission, such member shall vacate membership on the
+18 commission. Any vacancy in the commission shall be filled in the same
+19 manner or qualification as the original appointment.
+20 (ii) The commission shall annually elect a chairperson from among
+21 its members. The commission shall meet at the call of the chairperson or
+22 at the request of any five members and shall meet as often as necessary
+23 to carry out its duties, but at least once per year.
+24 Sec. 11. Original sections 79-1001, 79-1006, 79-1022, 79-1022.02,
+25 79-1023, 79-1027, and 79-1031.01, Reissue Revised Statutes of Nebraska,
+26 and section 77-3442, Revised Statutes Cumulative Supplement, 2024, are
+27 repealed.
+28 Sec. 12. Since an emergency exists, this act takes effect when
+29 passed and approved according to law.
+-16-
+
+[DELETED: yHA B F A A r t e t a s 77 7 7 7 7 a 7RSa t c p r t f a acuc t S F R C t hp t r t o s a t d a0e1B3L52]
+[DELETED: S27ft a s f i t s e a p i s7(sm0(1h d o t v o p s t t l2a3( F f y 2 a e f y t o4d a t c p o h d o t v o5p6( F e f y p t f y 2 l7c m l a m l f t g f b o8m9t0l p t t s s b d p t1s2( E a p i s ( o t s f3e4m5g6t7o8p t s ( o t s f s l9c0(1o3L52]
+[DELETED: a t b p b a s d t c e ie f a v t o e o p tStf c a f q v t i fcaot0f1t c e i e f a v t o2e3r o a c a i f a e o4S 1 2 t a n o i i a e5p6s7(8s a t b p t c e i e f 9v0a1f2a3l b a s d o a t m l p t4s5c6e f a v t o e o b7S 1 2 a A 3 2 a a r o a c8b9n0t1a3L52]
+[DELETED: f1 1 f c e o a o s db F p o t s c m a atd( F a s d m e t m lpeo0p o t s f a s d m a1s2g f b f f g s p t T3V4( F e f y l c m l a m5l o o c o e o h d o t p6s7r8f9p0t1( F e f y l c m l a m2l o o a o c o e o h d o t3p4c i p f e l c e f5c6l7a8m9( F e f y t f y 2 c0c1( o s 8 i a w t p o s3L52]
+[DELETED: s F f y 2 a e f y tc(sss r a d i s 8 o 8 cob08 a t t t o s b o f a o1p2(3a o c p o h d o t v o4p5( N r d s a h t p a6a t l a t e t t d a b w t7r f b t a a i g w8m a a i m a u t9N G W M a P A e t0r f b t a a i g w1m2n3a4( I a n r d l i a r5b s o r t h b d t b f6a7p8a h t p a a t l a t e t t d9a b w t r f b t a a0i g w m a a i m1a3L52]
+[DELETED: ew m a a i m a fF n t e t c o e o h d otf2(pc0t1( I c a v w a n w t2b3c4t5v t p f f t m s o r6r u a a o a e p t t7I8l9p0c n h h n o h h a p t1s 7 o s m o m p t s283(4o5h6m7s8s9n h h n o h h a p t s071(3L52]
+[DELETED: fhsyi d w h b i e f m t fyft(0o1e2p3t4e5A6t s a l p t s 5 o m p t7s 5 T c m a u t f c o i8a t o p s s t a o9p0s1w2t3m a t o o m o p s s t4a5o6d7t8t9o0J1c3L52]
+[DELETED: m(dt t l T m c m a l a t ap s o e s t a u s7( B J 1 2 r a s f pd m l a m l o t a o c p oh0( s d i l i a c t h a l p t1s ( o t s i t p y o a l f2c3t l o ( s d h a l r p t s475c6l d n a a l a t s d i s7y8( A r m t a m l a m9l o t c p o h d o t v o0p1J 1 t f t e d o t c o t2t a e u t T A L i t3r4( P t l ( f j e j o5o f t C o I R o a 6p7t p s j t t e s j i n p b8l i c o a p s ( f9p0f b a d i s 1 a a t l a1s3L52]
+[DELETED: b i i b e s u a sdl f t D o A o t D oT i l o b i a a l c t tpJi(i a o g o s l p b l0N o p o l t o e t t1l273(4b5u6( F p o s 7 t 7 p7s m a p s o t s a a c8a9( F s d t f a b r o o0b1t2p t s ( o s 7 i t c l3e l f b i a b t v o t4s d a l f t r o s b5i6c7t87 a s d l e l f b9i0t r o s b i s b c1u3L52]
+[DELETED: S 2 S 7 R R S o N ia7bSS 3 S 7 R R S o N ia7 ( T F s f y 2 a e sf0t1t2( T s f y 2 t ( T f3a4e o t f h d m b t n o5f6( F s f y 2 a e s f y7t8b c a f ( T a o o t f h9n0s1(2e3E4(5o f a s b i a a f r p t6s7y8f9S0y t t d s c a b l a1p3L52]
+[DELETED: ap( F p o t c o t b l ap(o( T p g f l f t e s fy s e t g f l f t s f yi p t s f y f w a i b0c p t p g f l c c i1s2( T p g f l c s e t3d b t a o s a f t s f y4i p t s f y f w a i b5c a t s a c f t e s f6y7(8y i l t t b l t d b s a9s0S1t2a3y4S 5 S 7 R R S o N i5a67718b9p t t T E a E O S A0w1s3L52]
+[DELETED: A2 2 a o o b M 1 o e y t td s r t n f l f t esLs t t c o t L s b se E a o p i t sc s a a i a p t s7 s b s a b n r a0d p t c t p t r i t l1s g f b s a p t t A o2P3(47 a s 7 7 a 7 t a5c6i7e8e9t r a m p o l t o t d s0p s b o l p o t l b d o1D2S3a47 N a o p o l a5c6b a p t s 7 a c o7a a r p p t s 78c p t t e d o t a J 1 2 f9s0S 7 S 7 R R S o N i1a3L52]
+[DELETED: 71e s d b a f t g f b oe(8 e s d s h b a f tg f b o e e t t g o ( tgf y m e p t s ( o s071t b a g r f t s f y f w2b a i b c ( t g f b o3e f t i p s f y m4e p t s ( o s 7 f s5s6a7w b a i b c o ( o h t8p o f n f t s f y f w b9a i b c m t s e b o0e a f o t s d b s o o1b S 3 f t i p s f y2w3a g r f t s f y f w b4a5(6t7a8b o e f s s d s b a i9f0t1S 8 S 7 R R S o N i3L52]
+[DELETED: a7 N d s a a b w i trr a n g f c r e taeAyAmfrdtp00141443230231r24O5t t d s d a c e d6a a r p f t e s f7y8E d w c n g f c r9t0f1s2a3s t t t n g f c r t4r5c6S7a87 T A C o t L s9a0c1b M 1 o e y t f e e s f3L52]
+[DELETED: y i i r t t L t c o trS 1  ( T S F R C i cT p o t c i t s a p ar r t s f i N T cs( E t c f u t T E aE O S A f f e a mr0p1(2(3( A o f h t m t n i o4s d t w t s m b u t f f t5f6( B D 1 o e y t c s p a7e8w t o a r d p t t9s0(1f2(3(4(5(6( T C o t A C o t7L8(9G0(1G3L52]
+[DELETED: (t(G(G(((0p1(2( T b a o t b d o t3D4(5y o u t s i a a q I a a6p a m n l m t q f s m7p8c A v i t c s b f i t s9m0( T c s a e a c f a1i2a3t4S576a s 7 R S C S 2 a7r8S 1  S a e e t a t e w9p3L52]

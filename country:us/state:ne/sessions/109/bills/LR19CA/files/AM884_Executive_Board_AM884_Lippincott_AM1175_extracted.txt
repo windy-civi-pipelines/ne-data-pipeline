@@ -1,0 +1,33 @@
+Title: 1 1. On page 1, line 3, strike "the general election in November" and
+Official Title: 1 1. On page 1, line 3, strike "the general election in November" and
+Number of Sections: 1
+Source: versions - Executive Board AM884 Lippincott AM1175
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM884 AM884
+LR19CA LR19CA
+MMM - 04/01/2025 MMM - 04/01/2025
+AMENDMENTS TO LR19CA
+Introduced by Executive Board.
+2 insert "a special election on May 12,".
+-1-
+[DELETED: yE1i4AAL5M]
+
+
+================================================================================
+
+Raw Text:
+AM884 AM884
+LR19CA LR19CA
+MMM - 04/01/2025 MMM - 04/01/2025
+AMENDMENTS TO LR19CA
+Introduced by Executive Board.
+1 1. On page 1, line 3, strike "the general election in November" and
+2 insert "a special election on May 12,".
+-1-
+
+[DELETED: yE1i4AAL5M]

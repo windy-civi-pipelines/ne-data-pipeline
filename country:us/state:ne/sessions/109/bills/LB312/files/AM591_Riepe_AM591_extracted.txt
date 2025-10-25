@@ -1,0 +1,57 @@
+Title: 1 1. On page 2, line 9, strike "or" and show as stricken; after line 9
+Official Title: 1 1. On page 2, line 9, strike "or" and show as stricken; after line 9
+Number of Sections: 1
+Source: versions - Riepe AM591
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM591 AM591
+LB312 LB312
+MJP - 03/10/2025 MJP - 03/10/2025
+AMENDMENTS TO LB312
+Introduced by Riepe, 12.
+2 insert the following new subdivision:
+3 "(d) Dietitian nutritionist program; or"; in line 10 strike "(d)"
+4 and insert "(e)"; after line 26 insert the following new subdivision:
+5 "(x) A dietitian nutritionist licensed under section 38-1813;"; in
+6 line 27 strike "(x)" and insert "(xi)"; and in line 28 strike "(xi)" and
+7 insert "(xii)".
+8 2. On page 3, line 26, after the third comma insert "dietitian
+9 nutritionists,".
+10 3. On page 5, line 2, after the underscored comma insert "dietitian
+11 nutritionist practice,"; and in line 25 after the underscored comma
+12 insert "dietitian nutritionist,".
+13 4. On page 6, line 6, after the second comma insert "dietitian
+14 nutritionists,".
+-1-
+[DELETED: yR1i" D n p o i l 1 s "a"li2 O p 3 l 2 a t t c i "n031n p a i l 2 a t u c2i34 O p 6 l 6 a t s c i "4n1A2L5M]
+
+
+================================================================================
+
+Raw Text:
+AM591 AM591
+LB312 LB312
+MJP - 03/10/2025 MJP - 03/10/2025
+AMENDMENTS TO LB312
+Introduced by Riepe, 12.
+1 1. On page 2, line 9, strike "or" and show as stricken; after line 9
+2 insert the following new subdivision:
+3 "(d) Dietitian nutritionist program; or"; in line 10 strike "(d)"
+4 and insert "(e)"; after line 26 insert the following new subdivision:
+5 "(x) A dietitian nutritionist licensed under section 38-1813;"; in
+6 line 27 strike "(x)" and insert "(xi)"; and in line 28 strike "(xi)" and
+7 insert "(xii)".
+8 2. On page 3, line 26, after the third comma insert "dietitian
+9 nutritionists,".
+10 3. On page 5, line 2, after the underscored comma insert "dietitian
+11 nutritionist practice,"; and in line 25 after the underscored comma
+12 insert "dietitian nutritionist,".
+13 4. On page 6, line 6, after the second comma insert "dietitian
+14 nutritionists,".
+-1-
+
+[DELETED: yR1i" D n p o i l 1 s "a"li2 O p 3 l 2 a t t c i "n031n p a i l 2 a t u c2i34 O p 6 l 6 a t s c i "4n1A2L5M]

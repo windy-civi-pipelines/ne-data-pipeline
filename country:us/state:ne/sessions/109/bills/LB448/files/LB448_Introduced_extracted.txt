@@ -1,0 +1,408 @@
+Title: LEGISLATIVE BILL 448
+Official Title: LEGISLATIVE BILL 448
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LB448 LB448
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Dungan, 26; Riepe, 12.
+Read first time January 21, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to postconviction relief; to amend sections
+2 29-3002, 29-3003, 29-3004, and 29-3915, Reissue Revised Statutes of
+3 Nebraska, and section 29-3001, Revised Statutes Cumulative
+4 Supplement, 2024; to name the Postconviction Relief Act; to provide
+5 for postconviction relief for a claim of actual innocence; to
+6 provide exceptions for time limitations and procedural defaults; to
+7 define terms; to provide for disclosure of certain files by
+8 attorneys, law enforcement, and prosecutors; to provide for
+9 discovery; to harmonize provisions; and to repeal the original
+10 sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+LB448 LB448
+2025 2025
+1 Section 1. Sections 1 to 6 of this act shall be known and may be
+2 cited as the Postconviction Relief Act.
+3 Sec. 2. Section 29-3001, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 29-3001 (1) A prisoner in custody under sentence and claiming a
+6 right to be released on a the ground listed in subsection (2) of this
+7 section that there was such a denial or infringement of the rights of the
+8 prisoner as to render the judgment void or voidable under the
+9 Constitution of this state or the Constitution of the United States, may
+10 file a verified motion, in the court which imposed such sentence, stating
+11 the grounds relied upon and asking the court to vacate or set aside the
+12 sentence.
+13 (2) The following shall constitute grounds for relief under this
+14 section:
+15 (a) There was such a denial or infringement of the rights of the
+16 prisoner as to render the judgment void or voidable under the
+17 Constitution of Nebraska or the Constitution of the United States; or
+18 (b) The prisoner is actually innocent.
+19 (3)(a) To establish actual innocence:
+20 (i) The prisoner must present evidence of actual innocence that was
+21 not presented at trial. This may include, but is not limited to:
+22 Exculpatory DNA testing results; evidence implicating an alternative
+23 suspect, including third-party confessions; impeachment evidence of
+24 state's witnesses; or relevant forensic scientific evidence that
+25 undermines other evidence presented at trial, including forensic
+26 evidence; and
+27 (ii) The prisoner must prove by clear and convincing evidence that
+28 there is a reasonable likelihood that the factfinder's consideration of
+29 such evidence would have resulted in a different outcome at trial.
+30 (b) Forensic scientific evidence shall be considered undermined if
+31 new research or information exists that repudiates:
+-2-
+LB448 LB448
+2025 2025
+1 (i) The foundational validity of the challenged evidence or
+2 testimony; or
+3 (ii) The applied validity of the method or technique.
+4 (c) For purposes of this subsection:
+5 (i) Applied validity means the reliability of the method or
+6 technique in practice; and
+7 (ii) Foundational validity means the reliability of the method to be
+8 repeatable, reproducible, and accurate in a scientific setting.
+9 (4) (2) Unless the motion and the files and records of the case show
+10 to the satisfaction of the court that the prisoner is entitled to no
+11 relief, the court shall cause notice thereof to be served on the county
+12 attorney, grant a prompt hearing thereon, and determine the issues and
+13 make findings of fact and conclusions of law with respect thereto. If the
+14 court finds that there are grounds for relief under subsection (2) of
+15 this section was such a denial or infringement of the rights of the
+16 prisoner as to render the judgment void or voidable under the
+17 Constitution of this state or the Constitution of the United States, the
+18 court shall vacate and set aside the judgment and shall discharge the
+19 prisoner or resentence the prisoner or grant a new trial as may appear
+20 appropriate. Proceedings under the Postconviction Relief Act provisions
+21 of sections 29-3001 to 29-3004 shall be civil in nature. Costs shall be
+22 taxed as in habeas corpus cases.
+23 (5) (3) A court may entertain and determine such motion without
+24 requiring the production of the prisoner, whether or not a hearing is
+25 held. Testimony of the prisoner or other witnesses may be offered by
+26 deposition. The court need not entertain a second motion or successive
+27 motions for similar relief on behalf of the same prisoner.
+28 (6) Except as provided in subsection (7) of this section, a (4) A
+29 one-year period of limitation shall apply to the filing of a verified
+30 motion for postconviction relief. The one-year limitation period shall
+31 run from the later of:
+-3-
+LB448 LB448
+2025 2025
+1 (a) The date the judgment of conviction became final by the
+2 conclusion of a direct appeal or the expiration of the time for filing a
+3 direct appeal;
+4 (b) The date on which the factual predicate of the constitutional
+5 claim or claims alleged could have been discovered through the exercise
+6 of due diligence;
+7 (c) The date on which an impediment created by state action, in
+8 violation of the Constitution of the United States or the Constitution of
+9 Nebraska or any law of this state, is removed, if the prisoner was
+10 prevented from filing a verified motion by such state action;
+11 (d) The date on which a constitutional claim asserted was initially
+12 recognized by the Supreme Court of the United States or the Nebraska
+13 Supreme Court, if the newly recognized right has been made applicable
+14 retroactively to cases on postconviction collateral review; or
+15 (e) The date on which the Supreme Court of the United States denies
+16 a writ of certiorari or affirms a conviction appealed from the Nebraska
+17 Supreme Court. This subdivision only applies if, within thirty days after
+18 petitioning the Supreme Court of the United States for a writ of
+19 certiorari, the prisoner files a notice in the district court of
+20 conviction stating that the prisoner has filed such petition.
+21 (7)(a) Any procedural default or time limitation may be excused by
+22 the court to prevent a manifest injustice.
+23 (b) In determining whether to excuse a procedural default or time
+24 limitation under this subsection due to a manifest injustice, the court's
+25 inquiry shall be limited to determining whether the prisoner makes a
+26 colorable claim of actual innocence.
+27 (8) Failure to bring an ineffective assistance of trial counsel
+28 claim on direct appeal shall not result in the procedural default of that
+29 claim.
+30 Sec. 3. Section 29-3002, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-4-
+LB448 LB448
+2025 2025
+1 29-3002 An order sustaining or overruling a motion filed under
+2 section 2 of this act sections 29-3001 to 29-3004 shall be deemed to be a
+3 final judgment, and an appeal may be taken from the district court as
+4 provided for in appeals in civil cases. A prisoner may, in the discretion
+5 of the appellate court and upon application to the appellate court, be
+6 released on such recognizance as the appellate court fixes pending the
+7 determination of the appeal.
+8 Sec. 4. Section 29-3003, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 29-3003 The remedy provided by the Postconviction Relief Act
+11 sections 29-3001 to 29-3004 is cumulative and is not intended to be
+12 concurrent with any other remedy existing in the courts of this state.
+13 Any proceeding filed under the Postconviction Relief Act provisions of
+14 sections 29-3001 to 29-3004 which states facts which if true would
+15 constitute grounds for relief under another remedy shall be dismissed
+16 without prejudice.
+17 Sec. 5. Section 29-3004, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 29-3004 The district court may appoint not to exceed two attorneys
+20 to represent the prisoners in all proceedings under the Postconviction
+21 Relief Act sections 29-3001 to 29-3004. The district court, upon hearing
+22 the application, shall fix reasonable expenses and fees, and the county
+23 board shall allow payment to the attorney or attorneys in the full amount
+24 determined by the court. The attorney or attorneys shall be competent and
+25 shall provide effective counsel.
+26 Sec. 6. (1) Upon request of the prisoner, the district court may
+27 order that:
+28 (a) The prisoner's prior trial or appellate counsel make available
+29 to the prisoner such counsel's complete files relating to the case that
+30 is the subject of the proceedings under the Postconviction Relief Act;
+31 and
+-5-
+LB448 LB448
+2025 2025
+1 (b) The county attorney or other prosecutor make available to the
+2 prisoner the complete files of all law enforcement and prosecutorial
+3 agencies involved in the investigation or prosecution of the prisoner.
+4 (2) Upon request of the prisoner, the district court may order that
+5 discovery be allowed as provided in sections 29-1912 to 29-1921 if the
+6 court finds that such discovery could assist the prisoner in
+7 investigating, preparing, or presenting a motion for relief under section
+8 2 of this act.
+9 Sec. 7. Section 29-3915, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 29-3915 The following persons who are financially unable to obtain
+12 counsel shall be entitled to be represented by a judicial district public
+13 defender:
+14 (1) A person charged with a felony, including appeals from
+15 convictions for a felony;
+16 (2) A person pursuing a postconviction proceeding under the
+17 Postconviction Relief Act sections 29-3001 to 29-3004 after conviction of
+18 a felony, when the public defender after investigation concludes that
+19 there may be merit to such a proceeding or when the court in which such
+20 proceeding is pending directs the public defender to represent the
+21 person;
+22 (3) A minor brought before the juvenile court when neither the minor
+23 nor his or her parent or guardian is able to afford counsel; and
+24 (4) A person against whom a petition has been filed with a mental
+25 health board as provided in sections 71-945 to 71-947.
+26 Sec. 8. Original sections 29-3002, 29-3003, 29-3004, and 29-3915,
+27 Reissue Revised Statutes of Nebraska, and section 29-3001, Revised
+28 Statutes Cumulative Supplement, 2024, are repealed.
+-6-
+[DELETED: yDA2N a s 2 R S CSf p r f a c o a i tpd t t p f d o c f ba l e a p t p fd t h p a t r t o0s1B8L52]
+[DELETED: ScS 2 S 2 R S C S22 ( A p i c u s a c rsp a t r t j v o v u tC0f1t2s3( T f s c g f r u t4s5( T w s a d o i o t r o t6p a t r t j v o v u t7C8(9(0(1n p a t T m i b i n l t2E D t r e i a a3s i t c i e o4s w o r f s e t5u o e p a t i f6e7(8t9s0(1n8L52]
+[DELETED: ( T f v o t c e ot((( A v m t r o t m ot(r(0t t s o t c t t p i e t n1r2a3m4c f t t a g f r u s ( o5t s w s a d o i o t r o t6p a t r t j v o v u t7C8c s v a s a t j a s d t9p0a1o2t3( ( A c m e a d s m w4r t p o t p w o n a h i5h T o t p o o w m b o b6d7m8(9o p o l s a t t f o a v0m f p r T o l p s1r8L52]
+[DELETED: ( T d t j o c b f b tcd( T d o w t f p o t cco( T d o w a i c b s a ivN o a l o t s i r i t p w0p1(2r b t S C o t U S o t N3S C i t n r r h b m a4r5(6a7S8p t S C o t U S f a w o9c t p f a n i t d c o0c1(2t3( I d w t e a p d o t4l5i s b l t d w t p m 6c7( F t b a i a o t c8c9c0S 3 S 2 R R S o N i1a8L52]
+[DELETED: 2 A o s o o a m f usf j a a a m b t f t d c apordS 4 S 2 R R S o N ia02 T r p b t P R A1s 2 t 2 i c a i n i t b2c3A p f u t P R A p o4s 2 t 2 w s f w i t w5c g f r u a r s b d6w7S 5 S 2 R R S o N i8a920t r t p i a p u t P1R2t3b4d5s6S7o8(9t0i1a8L52]
+[DELETED: ( T c a o o p m a t tp t c f o a l e a pa(dc f t s d c a t p ii2S 7 S 2 R R S o N i0a122c3d4( A p c w a f i a f5c6( A p p a p p u t7P8a f w t p d a i c t9t0p i p d t p d t r t1p2(3n4(5h6S7R R S o N a s 2 R8S8L52]
+
+
+================================================================================
+
+Raw Text:
+LB448 LB448
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 448
+Introduced by Dungan, 26; Riepe, 12.
+Read first time January 21, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to postconviction relief; to amend sections
+2 29-3002, 29-3003, 29-3004, and 29-3915, Reissue Revised Statutes of
+3 Nebraska, and section 29-3001, Revised Statutes Cumulative
+4 Supplement, 2024; to name the Postconviction Relief Act; to provide
+5 for postconviction relief for a claim of actual innocence; to
+6 provide exceptions for time limitations and procedural defaults; to
+7 define terms; to provide for disclosure of certain files by
+8 attorneys, law enforcement, and prosecutors; to provide for
+9 discovery; to harmonize provisions; and to repeal the original
+10 sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB448 LB448
+2025 2025
+1 Section 1. Sections 1 to 6 of this act shall be known and may be
+2 cited as the Postconviction Relief Act.
+3 Sec. 2. Section 29-3001, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 29-3001 (1) A prisoner in custody under sentence and claiming a
+6 right to be released on a the ground listed in subsection (2) of this
+7 section that there was such a denial or infringement of the rights of the
+8 prisoner as to render the judgment void or voidable under the
+9 Constitution of this state or the Constitution of the United States, may
+10 file a verified motion, in the court which imposed such sentence, stating
+11 the grounds relied upon and asking the court to vacate or set aside the
+12 sentence.
+13 (2) The following shall constitute grounds for relief under this
+14 section:
+15 (a) There was such a denial or infringement of the rights of the
+16 prisoner as to render the judgment void or voidable under the
+17 Constitution of Nebraska or the Constitution of the United States; or
+18 (b) The prisoner is actually innocent.
+19 (3)(a) To establish actual innocence:
+20 (i) The prisoner must present evidence of actual innocence that was
+21 not presented at trial. This may include, but is not limited to:
+22 Exculpatory DNA testing results; evidence implicating an alternative
+23 suspect, including third-party confessions; impeachment evidence of
+24 state's witnesses; or relevant forensic scientific evidence that
+25 undermines other evidence presented at trial, including forensic
+26 evidence; and
+27 (ii) The prisoner must prove by clear and convincing evidence that
+28 there is a reasonable likelihood that the factfinder's consideration of
+29 such evidence would have resulted in a different outcome at trial.
+30 (b) Forensic scientific evidence shall be considered undermined if
+31 new research or information exists that repudiates:
+-2-
+
+LB448 LB448
+2025 2025
+1 (i) The foundational validity of the challenged evidence or
+2 testimony; or
+3 (ii) The applied validity of the method or technique.
+4 (c) For purposes of this subsection:
+5 (i) Applied validity means the reliability of the method or
+6 technique in practice; and
+7 (ii) Foundational validity means the reliability of the method to be
+8 repeatable, reproducible, and accurate in a scientific setting.
+9 (4) (2) Unless the motion and the files and records of the case show
+10 to the satisfaction of the court that the prisoner is entitled to no
+11 relief, the court shall cause notice thereof to be served on the county
+12 attorney, grant a prompt hearing thereon, and determine the issues and
+13 make findings of fact and conclusions of law with respect thereto. If the
+14 court finds that there are grounds for relief under subsection (2) of
+15 this section was such a denial or infringement of the rights of the
+16 prisoner as to render the judgment void or voidable under the
+17 Constitution of this state or the Constitution of the United States, the
+18 court shall vacate and set aside the judgment and shall discharge the
+19 prisoner or resentence the prisoner or grant a new trial as may appear
+20 appropriate. Proceedings under the Postconviction Relief Act provisions
+21 of sections 29-3001 to 29-3004 shall be civil in nature. Costs shall be
+22 taxed as in habeas corpus cases.
+23 (5) (3) A court may entertain and determine such motion without
+24 requiring the production of the prisoner, whether or not a hearing is
+25 held. Testimony of the prisoner or other witnesses may be offered by
+26 deposition. The court need not entertain a second motion or successive
+27 motions for similar relief on behalf of the same prisoner.
+28 (6) Except as provided in subsection (7) of this section, a (4) A
+29 one-year period of limitation shall apply to the filing of a verified
+30 motion for postconviction relief. The one-year limitation period shall
+31 run from the later of:
+-3-
+
+LB448 LB448
+2025 2025
+1 (a) The date the judgment of conviction became final by the
+2 conclusion of a direct appeal or the expiration of the time for filing a
+3 direct appeal;
+4 (b) The date on which the factual predicate of the constitutional
+5 claim or claims alleged could have been discovered through the exercise
+6 of due diligence;
+7 (c) The date on which an impediment created by state action, in
+8 violation of the Constitution of the United States or the Constitution of
+9 Nebraska or any law of this state, is removed, if the prisoner was
+10 prevented from filing a verified motion by such state action;
+11 (d) The date on which a constitutional claim asserted was initially
+12 recognized by the Supreme Court of the United States or the Nebraska
+13 Supreme Court, if the newly recognized right has been made applicable
+14 retroactively to cases on postconviction collateral review; or
+15 (e) The date on which the Supreme Court of the United States denies
+16 a writ of certiorari or affirms a conviction appealed from the Nebraska
+17 Supreme Court. This subdivision only applies if, within thirty days after
+18 petitioning the Supreme Court of the United States for a writ of
+19 certiorari, the prisoner files a notice in the district court of
+20 conviction stating that the prisoner has filed such petition.
+21 (7)(a) Any procedural default or time limitation may be excused by
+22 the court to prevent a manifest injustice.
+23 (b) In determining whether to excuse a procedural default or time
+24 limitation under this subsection due to a manifest injustice, the court's
+25 inquiry shall be limited to determining whether the prisoner makes a
+26 colorable claim of actual innocence.
+27 (8) Failure to bring an ineffective assistance of trial counsel
+28 claim on direct appeal shall not result in the procedural default of that
+29 claim.
+30 Sec. 3. Section 29-3002, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-4-
+
+LB448 LB448
+2025 2025
+1 29-3002 An order sustaining or overruling a motion filed under
+2 section 2 of this act sections 29-3001 to 29-3004 shall be deemed to be a
+3 final judgment, and an appeal may be taken from the district court as
+4 provided for in appeals in civil cases. A prisoner may, in the discretion
+5 of the appellate court and upon application to the appellate court, be
+6 released on such recognizance as the appellate court fixes pending the
+7 determination of the appeal.
+8 Sec. 4. Section 29-3003, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 29-3003 The remedy provided by the Postconviction Relief Act
+11 sections 29-3001 to 29-3004 is cumulative and is not intended to be
+12 concurrent with any other remedy existing in the courts of this state.
+13 Any proceeding filed under the Postconviction Relief Act provisions of
+14 sections 29-3001 to 29-3004 which states facts which if true would
+15 constitute grounds for relief under another remedy shall be dismissed
+16 without prejudice.
+17 Sec. 5. Section 29-3004, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 29-3004 The district court may appoint not to exceed two attorneys
+20 to represent the prisoners in all proceedings under the Postconviction
+21 Relief Act sections 29-3001 to 29-3004. The district court, upon hearing
+22 the application, shall fix reasonable expenses and fees, and the county
+23 board shall allow payment to the attorney or attorneys in the full amount
+24 determined by the court. The attorney or attorneys shall be competent and
+25 shall provide effective counsel.
+26 Sec. 6. (1) Upon request of the prisoner, the district court may
+27 order that:
+28 (a) The prisoner's prior trial or appellate counsel make available
+29 to the prisoner such counsel's complete files relating to the case that
+30 is the subject of the proceedings under the Postconviction Relief Act;
+31 and
+-5-
+
+LB448 LB448
+2025 2025
+1 (b) The county attorney or other prosecutor make available to the
+2 prisoner the complete files of all law enforcement and prosecutorial
+3 agencies involved in the investigation or prosecution of the prisoner.
+4 (2) Upon request of the prisoner, the district court may order that
+5 discovery be allowed as provided in sections 29-1912 to 29-1921 if the
+6 court finds that such discovery could assist the prisoner in
+7 investigating, preparing, or presenting a motion for relief under section
+8 2 of this act.
+9 Sec. 7. Section 29-3915, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 29-3915 The following persons who are financially unable to obtain
+12 counsel shall be entitled to be represented by a judicial district public
+13 defender:
+14 (1) A person charged with a felony, including appeals from
+15 convictions for a felony;
+16 (2) A person pursuing a postconviction proceeding under the
+17 Postconviction Relief Act sections 29-3001 to 29-3004 after conviction of
+18 a felony, when the public defender after investigation concludes that
+19 there may be merit to such a proceeding or when the court in which such
+20 proceeding is pending directs the public defender to represent the
+21 person;
+22 (3) A minor brought before the juvenile court when neither the minor
+23 nor his or her parent or guardian is able to afford counsel; and
+24 (4) A person against whom a petition has been filed with a mental
+25 health board as provided in sections 71-945 to 71-947.
+26 Sec. 8. Original sections 29-3002, 29-3003, 29-3004, and 29-3915,
+27 Reissue Revised Statutes of Nebraska, and section 29-3001, Revised
+28 Statutes Cumulative Supplement, 2024, are repealed.
+-6-
+
+[DELETED: yDA2N a s 2 R S CSf p r f a c o a i tpd t t p f d o c f ba l e a p t p fd t h p a t r t o0s1B8L52]
+[DELETED: ScS 2 S 2 R S C S22 ( A p i c u s a c rsp a t r t j v o v u tC0f1t2s3( T f s c g f r u t4s5( T w s a d o i o t r o t6p a t r t j v o v u t7C8(9(0(1n p a t T m i b i n l t2E D t r e i a a3s i t c i e o4s w o r f s e t5u o e p a t i f6e7(8t9s0(1n8L52]
+[DELETED: ( T f v o t c e ot((( A v m t r o t m ot(r(0t t s o t c t t p i e t n1r2a3m4c f t t a g f r u s ( o5t s w s a d o i o t r o t6p a t r t j v o v u t7C8c s v a s a t j a s d t9p0a1o2t3( ( A c m e a d s m w4r t p o t p w o n a h i5h T o t p o o w m b o b6d7m8(9o p o l s a t t f o a v0m f p r T o l p s1r8L52]
+[DELETED: ( T d t j o c b f b tcd( T d o w t f p o t cco( T d o w a i c b s a ivN o a l o t s i r i t p w0p1(2r b t S C o t U S o t N3S C i t n r r h b m a4r5(6a7S8p t S C o t U S f a w o9c t p f a n i t d c o0c1(2t3( I d w t e a p d o t4l5i s b l t d w t p m 6c7( F t b a i a o t c8c9c0S 3 S 2 R R S o N i1a8L52]
+[DELETED: 2 A o s o o a m f usf j a a a m b t f t d c apordS 4 S 2 R R S o N ia02 T r p b t P R A1s 2 t 2 i c a i n i t b2c3A p f u t P R A p o4s 2 t 2 w s f w i t w5c g f r u a r s b d6w7S 5 S 2 R R S o N i8a920t r t p i a p u t P1R2t3b4d5s6S7o8(9t0i1a8L52]
+[DELETED: ( T c a o o p m a t tp t c f o a l e a pa(dc f t s d c a t p ii2S 7 S 2 R R S o N i0a122c3d4( A p c w a f i a f5c6( A p p a p p u t7P8a f w t p d a i c t9t0p i p d t p d t r t1p2(3n4(5h6S7R R S o N a s 2 R8S8L52]

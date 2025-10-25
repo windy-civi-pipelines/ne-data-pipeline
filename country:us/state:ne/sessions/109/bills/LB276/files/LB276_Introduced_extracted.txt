@@ -1,0 +1,731 @@
+Title: LEGISLATIVE BILL 276
+Official Title: LEGISLATIVE BILL 276
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LB276 LB276
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by McKinney, 11.
+Read first time January 15, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to law enforcement; to amend sections 29-411,
+2 81-1414.15, and 81-1414.19, Reissue Revised Statutes of Nebraska; to
+3 adopt the Municipal Police Oversight Act; to require city and county
+4 attorneys and the Attorney General to maintain public Brady and
+5 Giglio lists; to prohibit no-knock search and arrest warrants; to
+6 define a term; to change provisions relating to law enforcement
+7 officer records; to harmonize provisions; to provide a duty for the
+8 Revisor of Statutes; to repeal the original sections; and to declare
+9 an emergency.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+LB276 LB276
+2025 2025
+1 Section 1. Sections 1 to 16 of this act shall be known and may be
+2 cited as the Municipal Police Oversight Act.
+3 Sec. 2. The Legislature finds that oversight of municipal law
+4 enforcement agencies is a matter of state concern, particularly in larger
+5 cities which maintain sizeable police forces. Municipal law enforcement
+6 agencies are the primary agencies providing enforcement of criminal laws
+7 adopted under state law. Under the Civil Service Act, certain cities
+8 having a population of more than five thousand inhabitants which employ
+9 full-time police officers must maintain a civil service commission. The
+10 Legislature finds that certain cities should also establish oversight
+11 boards to monitor, investigate, and evaluate police standards and
+12 practices.
+13 Sec. 3. For purposes of the Municipal Police Oversight Act:
+14 (1) City means any city of the metropolitan class or city of the
+15 primary class, including any city which has adopted a home rule charter
+16 pursuant to sections 2 to 5 of Article XI of the Constitution of
+17 Nebraska, which employs full-time police officers; and
+18 (2) Oversight board means a citizen police oversight board created
+19 under section 4 of this act.
+20 Sec. 4. On or before January 1, 2028, each city shall, by
+21 ordinance, create a citizen police oversight board. The ordinance shall
+22 specify the composition, jurisdiction, and powers of the oversight board
+23 as provided in the Municipal Police Oversight Act.
+24 Sec. 5. Each oversight board shall be composed of seven members of
+25 the public who shall serve for terms of five years. The members of the
+26 oversight board shall be appointed by the city council and shall consist
+27 of individuals who represent a cross-section of the residents of the
+28 city. Any member of the oversight board shall be eligible for
+29 reappointment to the oversight board at the end of the term for which
+30 appointed. No person shall serve on an oversight board if, at the time of
+31 appointment, during the term for which appointed, or at any time prior to
+-2-
+LB276 LB276
+2025 2025
+1 such appointment, such person is or was affiliated with or employed by
+2 any law enforcement agency, department, or office of the city for which
+3 the oversight board was created or of the county in which the city is
+4 located.
+5 Sec. 6. Each oversight board shall be mandated and empowered by
+6 ordinance to:
+7 (1) Investigate and address grievances and complaints filed by
+8 members of the public against the police department of the city and any
+9 officers of such department;
+10 (2) Investigate and address grievances and complaints relating to
+11 discrimination based on race, ethnicity, or gender and sexual harassment
+12 filed by employees of the police department of such city against any
+13 other officers or supervisory personnel of such department;
+14 (3) Investigate all shootings involving police officers of such
+15 city;
+16 (4) Independently investigate all cases of alleged mistreatment or
+17 misconduct by the police department of such city and any officers of such
+18 department that come to the attention of the oversight board, regardless
+19 of whether those cases are the subject of any specific formal complaint
+20 or grievance;
+21 (5) Identify all instances of police misconduct by police officers
+22 of such city and report findings and recommendations in those cases to
+23 the police department, the mayor, and the city council of such city and
+24 all federal and state registries of police misconduct;
+25 (6) When appropriate, provide the police department of such city and
+26 other law enforcement agencies with evidence in support of any criminal
+27 proceedings, disciplinary proceedings, or other management actions or
+28 measures;
+29 (7) Provide the police department of such city with feedback from
+30 members of the public who have direct experience with police practices;
+31 and
+-3-
+LB276 LB276
+2025 2025
+1 (8) Monitor, investigate, and evaluate policing standards, patterns,
+2 and practices of the police department of such city.
+3 Sec. 7. (1) An oversight board may summarily dismiss a grievance or
+4 complaint filed by a member of the public without investigation only when
+5 the oversight board determines that:
+6 (a) The complainant's interest is not sufficiently related to the
+7 subject matter of the grievance or complaint;
+8 (b) The grievance or complaint is trivial, frivolous, vexatious, or
+9 not made in good faith;
+10 (c) The oversight board's resources are insufficient for an adequate
+11 investigation of the grievance or complaint; or
+12 (d) The grievance or complaint has been delayed too long to justify
+13 a present examination of its merit.
+14 (2) A decision by the oversight board to summarily dismiss a
+15 grievance or complaint filed by a member of the public without
+16 investigation shall not bar the oversight board from incorporating the
+17 facts related to such grievance or complaint in other matters
+18 investigated by the oversight board.
+19 Sec. 8. A city shall provide its oversight board with sufficient
+20 funding and resources to adequately perform its duties under the
+21 Municipal Police Oversight Act. Each investigation carried out under the
+22 authority of the oversight board shall be conducted independently of the
+23 police department of such city. The oversight board shall employ
+24 dedicated staff investigators, none of whom shall have previously been
+25 affiliated with or employed by any law enforcement agency, department, or
+26 office of such city or of the county in which the city is located.
+27 Sec. 9. Each oversight board and the investigators employed by the
+28 oversight board shall be empowered by ordinance with the full range of
+29 investigative powers necessary to enable such board and investigators to
+30 conduct fair, independent, and effective investigations. Such powers
+31 shall include, but are not limited to, the power to:
+-4-
+LB276 LB276
+2025 2025
+1 (1) Request and receive from the police department of the city any
+2 assistance and information the oversight board deems necessary for the
+3 discharge of its duties and responsibilities;
+4 (2) Notwithstanding any other provision of law, inspect and examine
+5 all police department records and documents, including police department
+6 personnel records and documents, that the oversight board deems relevant
+7 to any matter being investigated by the oversight board; and
+8 (3) Issue subpoenas, enforceable by action in an appropriate court,
+9 to compel any person to appear, give sworn testimony, or produce
+10 documentary or other evidence deemed relevant to a matter under
+11 investigation by the oversight board.
+12 Sec. 10. To the extent applicable, each oversight board and the
+13 investigators employed by an oversight board shall, in evaluating matters
+14 under investigation or review by the oversight board, consult relevant
+15 standards promulgated by the Nebraska Commission on Law Enforcement and
+16 Criminal Justice and the Nebraska Police Standards Advisory Council.
+17 Sec. 11. (1) After an investigator employed by an oversight board
+18 has completed an investigation of any matter within the authority of the
+19 oversight board, the investigator shall submit a report in writing to the
+20 oversight board summarizing the:
+21 (a) Findings of fact relative to the matter; and
+22 (b) Recommendations to the oversight board relating to the
+23 disposition of the matter.
+24 (2) After receiving such report, the oversight board shall place the
+25 matter on its agenda for the oversight board's next public meeting, and
+26 at that meeting the oversight board shall determine the disposition of
+27 the matter by a majority vote of all members of the oversight board. The
+28 oversight board shall immediately thereafter publish its conclusions and
+29 recommendations in a written summary transmitted to the city police
+30 department, the mayor, and the city council.
+31 (3) When it appears there may have been criminal conduct by any
+-5-
+LB276 LB276
+2025 2025
+1 police officer involved in a matter that was investigated by the
+2 oversight board, the oversight board shall also submit its written
+3 summary on the matter, along with any evidence in support of possible
+4 criminal proceedings, to the county attorney of the county in which such
+5 potential criminal conduct occurred.
+6 (4) All written summaries prepared by an oversight board shall
+7 incorporate verbatim copies of the written report submitted to the
+8 oversight board by the investigator. The oversight board may also submit
+9 such special reports as the oversight board may deem necessary to the
+10 police department, the mayor, and the city council of such city.
+11 (5) At its sole discretion, an oversight board may publish any of
+12 its written summaries and reports, including by releasing such written
+13 summaries and reports to the news media.
+14 Sec. 12. If an oversight board submits a summary or report to the
+15 police department making specific recommendations for action to be taken
+16 by the police department, the police department shall be required by city
+17 ordinance to submit a timely response to the oversight board explaining
+18 the reasons for the police department's acceptance or rejection of such
+19 recommendations.
+20 Sec. 13. No member or employee of an oversight board shall be held
+21 civilly liable for any actions taken or decisions made in good faith
+22 under the Municipal Police Oversight Act.
+23 Sec. 14. (1) All written summaries and reports prepared by an
+24 oversight board, including the verbatim copies of the written reports
+25 submitted to the oversight board by investigators employed by the
+26 oversight board, shall be considered public records for purposes of
+27 sections 84-712 to 84-712.09.
+28 (2) All responses submitted to an oversight board pursuant to
+29 section 12 of this act shall be considered public records for purposes of
+30 sections 84-712 to 84-712.09.
+31 (3) Subdivision (8) of section 84-712.05 shall not apply to the
+-6-
+LB276 LB276
+2025 2025
+1 written summaries and reports prepared by an oversight board, including
+2 verbatim copies of the written reports submitted to the oversight board
+3 by investigators, or the responses submitted to the oversight board
+4 pursuant to section 12 of this act.
+5 Sec. 15. All meetings of an oversight board shall be public
+6 meetings conducted in compliance with the Open Meetings Act.
+7 Sec. 16. No city or city police department may negotiate or agree
+8 to any employment contract or collective-bargaining agreement that would
+9 conflict with or abrogate the authority of an oversight board created
+10 pursuant to the Municipal Police Oversight Act. Any provision of any
+11 employment contract or collective-bargaining agreement entered into after
+12 the effective date of this act that conflicts with or abrogates the
+13 authority of an oversight board created pursuant to the Municipal Police
+14 Oversight Act is null and void.
+15 Sec. 17. (1) Beginning September 1, 2025, each city attorney and
+16 county attorney and the Attorney General shall maintain a Brady and
+17 Giglio list in accordance with this section. The list shall identify law
+18 enforcement officers who, due to misconduct or otherwise, have impaired
+19 their own credibility such that disclosure to the defendant is required
+20 under Brady v. Maryland, 373 U.S. 83 (1963), and Giglio v. United States,
+21 405 U.S. 150 (1972), and subsequent cases of the Supreme Court of the
+22 United States and the Supreme Court of Nebraska. The list shall contain a
+23 description of the reason disclosure is required.
+24 (2) The list required by this section is a public document. A city
+25 attorney shall post such list on the city's website. A county attorney
+26 shall post such list on the county's website. The Attorney General shall
+27 post such list on the Attorney General's website. The list shall be
+28 updated at least monthly.
+29 (3) On or before September 1, 2025, the Nebraska Commission on Law
+30 Enforcement and Criminal Justice shall adopt and promulgate rules and
+31 regulations to carry out this section, including, but not limited to,
+-7-
+LB276 LB276
+2025 2025
+1 criteria and processes for determining when disclosure is required and
+2 what is required to be disclosed.
+3 Sec. 18. Section 29-411, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 29-411 In executing a warrant for the arrest of a person charged
+6 with an offense, or a search warrant, or when authorized to make an
+7 arrest for a felony without a warrant, the officer may break open any
+8 outer or inner door or window of a dwelling house or other building, if,
+9 after notice of his or her office and purpose, the officer he is refused
+10 admittance ; or without giving notice of his authority and purpose, if
+11 the judge or magistrate issuing a search warrant has inserted a direction
+12 therein that the officer executing it shall not be required to give such
+13 notice, but the political subdivision from which such officer is elected
+14 or appointed shall be liable for all damages to the property in gaining
+15 admission. The judge or magistrate may so direct only upon proof under
+16 oath, to his satisfaction that the property sought may be easily or
+17 quickly destroyed or disposed of, or that danger to the life or limb of
+18 the officer or another may result, if such notice be given; but this
+19 section is not intended to authorize any officer executing a search
+20 warrant to enter any house or building not described in the warrant.
+21 Sec. 19. (1) For purposes of this section, no-knock warrant means
+22 an arrest warrant or a search warrant authorizing entry into any dwelling
+23 house or other building that expressly authorizes a peace officer to
+24 dispense with the requirement to knock and announce the peace officer's
+25 presence prior to the execution of the warrant.
+26 (2) No judge or magistrate shall issue a no-knock warrant.
+27 Sec. 20. Section 81-1414.15, Reissue Revised Statutes of Nebraska,
+28 is amended to read:
+29 81-1414.15 (1) The chief of police, sheriff, Superintendent of Law
+30 Enforcement and Public Safety, or the head administrator of a law
+31 enforcement agency or an agency employing a law enforcement officer shall
+-8-
+LB276 LB276
+2025 2025
+1 submit a personnel change in status form as approved by the council to
+2 the director of the training center within seven calendar days after the
+3 date a law enforcement officer is hired by the agency or leaves
+4 employment with the agency.
+5 (2) Each law enforcement agency or agency employing a law
+6 enforcement officer shall maintain a record regarding the reason or
+7 reasons for, and circumstances surrounding, a separation of service for
+8 each law enforcement officer employed by that agency. Such record shall
+9 be retained for five years following a law enforcement officer's
+10 separation from the agency.
+11 (3) Each law enforcement agency or agency employing a law
+12 enforcement officer shall maintain any and all records of officer conduct
+13 which could constitute grounds for revocation or suspension of a law
+14 enforcement certification by the commission. Such record shall include
+15 any and all records of conduct which could constitute grounds for
+16 revocation or suspension under subdivision (6) of section 81-1403. Such
+17 record, which shall include the name of the law enforcement officer,
+18 shall be permanently retained and shall not be destroyed. shall be
+19 retained for the duration of the law enforcement officer's employment
+20 with the agency and for ten years following his or her separation from
+21 the agency.
+22 (4) The chief of police, sheriff, Superintendent of Law Enforcement
+23 and Public Safety, or the head administrator of a law enforcement agency
+24 or an agency employing a law enforcement officer shall make a report to
+25 the commission of any law enforcement officer who is terminated from
+26 employment or allowed to resign in lieu of termination for conduct
+27 described in subdivision (6) of section 81-1403. The report shall
+28 include, but not be limited to, a summary of the allegations pertaining
+29 to the officer and identification of any witnesses relevant to the
+30 allegations, and shall be filed with the commission within thirty
+31 calendar days of the termination or resignation in lieu of termination.
+-9-
+LB276 LB276
+2025 2025
+1 (5) Failure to comply with this section shall constitute neglect of
+2 duty.
+3 Sec. 21. Section 81-1414.19, Reissue Revised Statutes of Nebraska,
+4 is amended to read:
+5 81-1414.19 (1) The On or before July 1, 2022, the commission shall
+6 post on its public website a list of all law enforcement officers who
+7 have, on or after January 1, 2021:
+8 (a) Voluntarily surrendered their certifications or had their
+9 certifications revoked;
+10 (b) Been convicted of or pleaded guilty or nolo contendere to a
+11 felony or a Class I misdemeanor; or
+12 (c) Upon adjudication by the council, been found to have engaged in
+13 serious misconduct.
+14 (2) The list provided for in this section shall be accompanied on
+15 the commission's public website by a letter that includes, for each law
+16 enforcement officer on such list:
+17 (a) The officer's name, rank, and the law enforcement agency for
+18 which such officer works or most recently worked;
+19 (b) A statement indicating the reason such officer's name is on the
+20 list;
+21 (c) A description of any discipline imposed; and
+22 (d) An affirmation, signed by the chief of police, sheriff, or the
+23 head administrator of the officer's law enforcement agency or the
+24 Superintendent of Law Enforcement and Public Safety affirming the truth
+25 and accuracy of the matters stated in the letter.
+26 (3) The list provided for in this section shall include, for each
+27 law enforcement officer on such list, an indication of whether the
+28 officer's certification is active or has been suspended or revoked or is
+29 otherwise inactive.
+30 (4) Any (3) Beginning July 1, 2022, any time a law enforcement
+31 officer voluntarily surrenders such officer's certification, has such
+-10-
+LB276 LB276
+2025 2025
+1 certification revoked, or is adjudicated by the council to have engaged
+2 in serious misconduct, the council shall notify the commission within
+3 thirty days after such surrender, revocation, or adjudication.
+4 (5) The (4) By July 1, 2022, the council shall establish a
+5 procedure, including an opportunity for a hearing, by which a law
+6 enforcement officer may challenge the inclusion of such officer's name on
+7 the list.
+8 Sec. 22. The Revisor of Statutes shall assign sections 1 to 16 of
+9 this act to Chapter 18.
+10 Sec. 23. Original sections 29-411, 81-1414.15, and 81-1414.19,
+11 Reissue Revised Statutes of Nebraska, are repealed.
+12 Sec. 24. Since an emergency exists, this act takes effect when
+13 passed and approved according to law.
+-11-
+[DELETED: yMA8aa a t A G t m p B aG l t p n s a a w td a t t c p r t l eoRa0B6L52]
+[DELETED: ScS 2  T L f t o o m lecaa u s l U t C S A c chf0L f t c c s a e o1b t m i a e p s a2p3S4( C m a c o t m c o c o t5p6p t s 2 t 5 o A X o t C o7N8(9u0S 4  O o b J 1 2 e c s b1o2s3a4S5t6o7o i w r a c o t r o t8c A m o t o b s b e f9r t t o b a t e o t t f w0a1a6L52]
+[DELETED: satlS 6  E o b s b m a e bo( I a a g a c f bmo0( I a a g a c r t1d2f b e o t p d o s c a a3o4( I a s i p o o s5c6(7m8d9o0o1(2o3t4a5(6o7p d p o o m a o8m9( P t p d o s c w f f0m1a6L52]
+[DELETED: (aSct( T c i i n s r t ts(n0(1i2(3a4( A d b t o b t s d 5g o c f b a m o t p w6i s n b t o b f i t7f r t s g o c i o m8i9S0f a r t a p i d u t1M2a3p d o s c T o b s e4d s i n o w s h p b5a6o7S8o9i0c f i a e i S p1s6L52]
+[DELETED: (a a i t o b d n f td(apt(t c a p t a g s t o p0d o o e d r t a m u1i2S 1  T t e a e o b a t3i4u i o r b t o b c r5s6C7S8h9o0o1(2( R t t o b r t t3d4(5m6a7t8o9r i a w s t t t c p0d1( W i a t m h b c c b a6L52]
+[DELETED: p o i i a m t w i b to b t o b s a s i ws o t m a w a e i s o pcp( A w s p b a o b si v c o t w r s t tos s r a t o b m d n t t0p1(2i w s a r i b r s w3s4S5p6b7o8t9r0S1c l f a a t o d m i g f2u3S 1  ( A w s a r p b a4o b i t v c o t w r5s t t o b b i e b t6o b s b c p r f p o7s8( A r s t a o b p t9s0s1( S ( o s 8 s n a t t6L52]
+[DELETED: wvb i o t r s t t o bpS 1  A m o a o b s b pmStc w o a t a o a o b c0p t t M P O A A p o a1e2t e d o t a t c w o a t3a4O5S6c a a t A G s m a B a7G8e9t0u14 U 1 ( a s c o t S C o t2U3d4(5a6s7p s l o t A G w T l s b8u9(0E a C J s a a p r a1r t c o t s i b n l t6L52]
+[DELETED: c a p f d w d i r awS 1 S 2 R R S o N ia2 I e a w f t a o a p cw a o o a s w o w a t m aa f a f w a w t o m b o aoa0a1t2t3n4o5a6o t h s t t p s m b e o7q8t o o a m r i s n b g b t9s i n i t a a o e a s0w1S2a3h o o b t e a a p o t4d5p6(7S8i980E a P S o t h a o a l1e6L52]
+[DELETED: std a l e o i h b t a o le( E l e a o a e a le o s m a r r t r oreb r f f y f a l e o0s1( E l e a o a e a l2e3w c c g f r o s o a l4e c b t c S r s i5a a a r o c w c c g f6r7r w s i t n o t l e o8s b p r a s n b d s b9r f t d o t l e o e0w1t2(3a4o5t c o a l e o w i t f6e o a t r i l o t f c7d i s ( o s 8 T r s8i9t t o a i o a w r t t0a a s b f w t c w t1c6L52]
+[DELETED: (dSi8p o i p w a l o a l e o wh( V s t c o h tc0( B c o o p g o n c t 1f2(3s4(5t6e7( T o n r a t l e a f8w9(0l1(2(3h a o t o l e a o t4S5a6(7l e o o s l a i o w t8o9o0( A ( B J 1 2 a t a l e1o v s s o c h s6L52]
+[DELETED: ci s m t c s n t c wt( T ( B J 1 2 t c s e p i a o f a h b w a letSt0S 2  O s 2 8 a 81R2S 2  S a e e t a t e w3p6L52]
+
+
+================================================================================
+
+Raw Text:
+LB276 LB276
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 276
+Introduced by McKinney, 11.
+Read first time January 15, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to law enforcement; to amend sections 29-411,
+2 81-1414.15, and 81-1414.19, Reissue Revised Statutes of Nebraska; to
+3 adopt the Municipal Police Oversight Act; to require city and county
+4 attorneys and the Attorney General to maintain public Brady and
+5 Giglio lists; to prohibit no-knock search and arrest warrants; to
+6 define a term; to change provisions relating to law enforcement
+7 officer records; to harmonize provisions; to provide a duty for the
+8 Revisor of Statutes; to repeal the original sections; and to declare
+9 an emergency.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB276 LB276
+2025 2025
+1 Section 1. Sections 1 to 16 of this act shall be known and may be
+2 cited as the Municipal Police Oversight Act.
+3 Sec. 2. The Legislature finds that oversight of municipal law
+4 enforcement agencies is a matter of state concern, particularly in larger
+5 cities which maintain sizeable police forces. Municipal law enforcement
+6 agencies are the primary agencies providing enforcement of criminal laws
+7 adopted under state law. Under the Civil Service Act, certain cities
+8 having a population of more than five thousand inhabitants which employ
+9 full-time police officers must maintain a civil service commission. The
+10 Legislature finds that certain cities should also establish oversight
+11 boards to monitor, investigate, and evaluate police standards and
+12 practices.
+13 Sec. 3. For purposes of the Municipal Police Oversight Act:
+14 (1) City means any city of the metropolitan class or city of the
+15 primary class, including any city which has adopted a home rule charter
+16 pursuant to sections 2 to 5 of Article XI of the Constitution of
+17 Nebraska, which employs full-time police officers; and
+18 (2) Oversight board means a citizen police oversight board created
+19 under section 4 of this act.
+20 Sec. 4. On or before January 1, 2028, each city shall, by
+21 ordinance, create a citizen police oversight board. The ordinance shall
+22 specify the composition, jurisdiction, and powers of the oversight board
+23 as provided in the Municipal Police Oversight Act.
+24 Sec. 5. Each oversight board shall be composed of seven members of
+25 the public who shall serve for terms of five years. The members of the
+26 oversight board shall be appointed by the city council and shall consist
+27 of individuals who represent a cross-section of the residents of the
+28 city. Any member of the oversight board shall be eligible for
+29 reappointment to the oversight board at the end of the term for which
+30 appointed. No person shall serve on an oversight board if, at the time of
+31 appointment, during the term for which appointed, or at any time prior to
+-2-
+
+LB276 LB276
+2025 2025
+1 such appointment, such person is or was affiliated with or employed by
+2 any law enforcement agency, department, or office of the city for which
+3 the oversight board was created or of the county in which the city is
+4 located.
+5 Sec. 6. Each oversight board shall be mandated and empowered by
+6 ordinance to:
+7 (1) Investigate and address grievances and complaints filed by
+8 members of the public against the police department of the city and any
+9 officers of such department;
+10 (2) Investigate and address grievances and complaints relating to
+11 discrimination based on race, ethnicity, or gender and sexual harassment
+12 filed by employees of the police department of such city against any
+13 other officers or supervisory personnel of such department;
+14 (3) Investigate all shootings involving police officers of such
+15 city;
+16 (4) Independently investigate all cases of alleged mistreatment or
+17 misconduct by the police department of such city and any officers of such
+18 department that come to the attention of the oversight board, regardless
+19 of whether those cases are the subject of any specific formal complaint
+20 or grievance;
+21 (5) Identify all instances of police misconduct by police officers
+22 of such city and report findings and recommendations in those cases to
+23 the police department, the mayor, and the city council of such city and
+24 all federal and state registries of police misconduct;
+25 (6) When appropriate, provide the police department of such city and
+26 other law enforcement agencies with evidence in support of any criminal
+27 proceedings, disciplinary proceedings, or other management actions or
+28 measures;
+29 (7) Provide the police department of such city with feedback from
+30 members of the public who have direct experience with police practices;
+31 and
+-3-
+
+LB276 LB276
+2025 2025
+1 (8) Monitor, investigate, and evaluate policing standards, patterns,
+2 and practices of the police department of such city.
+3 Sec. 7. (1) An oversight board may summarily dismiss a grievance or
+4 complaint filed by a member of the public without investigation only when
+5 the oversight board determines that:
+6 (a) The complainant's interest is not sufficiently related to the
+7 subject matter of the grievance or complaint;
+8 (b) The grievance or complaint is trivial, frivolous, vexatious, or
+9 not made in good faith;
+10 (c) The oversight board's resources are insufficient for an adequate
+11 investigation of the grievance or complaint; or
+12 (d) The grievance or complaint has been delayed too long to justify
+13 a present examination of its merit.
+14 (2) A decision by the oversight board to summarily dismiss a
+15 grievance or complaint filed by a member of the public without
+16 investigation shall not bar the oversight board from incorporating the
+17 facts related to such grievance or complaint in other matters
+18 investigated by the oversight board.
+19 Sec. 8. A city shall provide its oversight board with sufficient
+20 funding and resources to adequately perform its duties under the
+21 Municipal Police Oversight Act. Each investigation carried out under the
+22 authority of the oversight board shall be conducted independently of the
+23 police department of such city. The oversight board shall employ
+24 dedicated staff investigators, none of whom shall have previously been
+25 affiliated with or employed by any law enforcement agency, department, or
+26 office of such city or of the county in which the city is located.
+27 Sec. 9. Each oversight board and the investigators employed by the
+28 oversight board shall be empowered by ordinance with the full range of
+29 investigative powers necessary to enable such board and investigators to
+30 conduct fair, independent, and effective investigations. Such powers
+31 shall include, but are not limited to, the power to:
+-4-
+
+LB276 LB276
+2025 2025
+1 (1) Request and receive from the police department of the city any
+2 assistance and information the oversight board deems necessary for the
+3 discharge of its duties and responsibilities;
+4 (2) Notwithstanding any other provision of law, inspect and examine
+5 all police department records and documents, including police department
+6 personnel records and documents, that the oversight board deems relevant
+7 to any matter being investigated by the oversight board; and
+8 (3) Issue subpoenas, enforceable by action in an appropriate court,
+9 to compel any person to appear, give sworn testimony, or produce
+10 documentary or other evidence deemed relevant to a matter under
+11 investigation by the oversight board.
+12 Sec. 10. To the extent applicable, each oversight board and the
+13 investigators employed by an oversight board shall, in evaluating matters
+14 under investigation or review by the oversight board, consult relevant
+15 standards promulgated by the Nebraska Commission on Law Enforcement and
+16 Criminal Justice and the Nebraska Police Standards Advisory Council.
+17 Sec. 11. (1) After an investigator employed by an oversight board
+18 has completed an investigation of any matter within the authority of the
+19 oversight board, the investigator shall submit a report in writing to the
+20 oversight board summarizing the:
+21 (a) Findings of fact relative to the matter; and
+22 (b) Recommendations to the oversight board relating to the
+23 disposition of the matter.
+24 (2) After receiving such report, the oversight board shall place the
+25 matter on its agenda for the oversight board's next public meeting, and
+26 at that meeting the oversight board shall determine the disposition of
+27 the matter by a majority vote of all members of the oversight board. The
+28 oversight board shall immediately thereafter publish its conclusions and
+29 recommendations in a written summary transmitted to the city police
+30 department, the mayor, and the city council.
+31 (3) When it appears there may have been criminal conduct by any
+-5-
+
+LB276 LB276
+2025 2025
+1 police officer involved in a matter that was investigated by the
+2 oversight board, the oversight board shall also submit its written
+3 summary on the matter, along with any evidence in support of possible
+4 criminal proceedings, to the county attorney of the county in which such
+5 potential criminal conduct occurred.
+6 (4) All written summaries prepared by an oversight board shall
+7 incorporate verbatim copies of the written report submitted to the
+8 oversight board by the investigator. The oversight board may also submit
+9 such special reports as the oversight board may deem necessary to the
+10 police department, the mayor, and the city council of such city.
+11 (5) At its sole discretion, an oversight board may publish any of
+12 its written summaries and reports, including by releasing such written
+13 summaries and reports to the news media.
+14 Sec. 12. If an oversight board submits a summary or report to the
+15 police department making specific recommendations for action to be taken
+16 by the police department, the police department shall be required by city
+17 ordinance to submit a timely response to the oversight board explaining
+18 the reasons for the police department's acceptance or rejection of such
+19 recommendations.
+20 Sec. 13. No member or employee of an oversight board shall be held
+21 civilly liable for any actions taken or decisions made in good faith
+22 under the Municipal Police Oversight Act.
+23 Sec. 14. (1) All written summaries and reports prepared by an
+24 oversight board, including the verbatim copies of the written reports
+25 submitted to the oversight board by investigators employed by the
+26 oversight board, shall be considered public records for purposes of
+27 sections 84-712 to 84-712.09.
+28 (2) All responses submitted to an oversight board pursuant to
+29 section 12 of this act shall be considered public records for purposes of
+30 sections 84-712 to 84-712.09.
+31 (3) Subdivision (8) of section 84-712.05 shall not apply to the
+-6-
+
+LB276 LB276
+2025 2025
+1 written summaries and reports prepared by an oversight board, including
+2 verbatim copies of the written reports submitted to the oversight board
+3 by investigators, or the responses submitted to the oversight board
+4 pursuant to section 12 of this act.
+5 Sec. 15. All meetings of an oversight board shall be public
+6 meetings conducted in compliance with the Open Meetings Act.
+7 Sec. 16. No city or city police department may negotiate or agree
+8 to any employment contract or collective-bargaining agreement that would
+9 conflict with or abrogate the authority of an oversight board created
+10 pursuant to the Municipal Police Oversight Act. Any provision of any
+11 employment contract or collective-bargaining agreement entered into after
+12 the effective date of this act that conflicts with or abrogates the
+13 authority of an oversight board created pursuant to the Municipal Police
+14 Oversight Act is null and void.
+15 Sec. 17. (1) Beginning September 1, 2025, each city attorney and
+16 county attorney and the Attorney General shall maintain a Brady and
+17 Giglio list in accordance with this section. The list shall identify law
+18 enforcement officers who, due to misconduct or otherwise, have impaired
+19 their own credibility such that disclosure to the defendant is required
+20 under Brady v. Maryland, 373 U.S. 83 (1963), and Giglio v. United States,
+21 405 U.S. 150 (1972), and subsequent cases of the Supreme Court of the
+22 United States and the Supreme Court of Nebraska. The list shall contain a
+23 description of the reason disclosure is required.
+24 (2) The list required by this section is a public document. A city
+25 attorney shall post such list on the city's website. A county attorney
+26 shall post such list on the county's website. The Attorney General shall
+27 post such list on the Attorney General's website. The list shall be
+28 updated at least monthly.
+29 (3) On or before September 1, 2025, the Nebraska Commission on Law
+30 Enforcement and Criminal Justice shall adopt and promulgate rules and
+31 regulations to carry out this section, including, but not limited to,
+-7-
+
+LB276 LB276
+2025 2025
+1 criteria and processes for determining when disclosure is required and
+2 what is required to be disclosed.
+3 Sec. 18. Section 29-411, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 29-411 In executing a warrant for the arrest of a person charged
+6 with an offense, or a search warrant, or when authorized to make an
+7 arrest for a felony without a warrant, the officer may break open any
+8 outer or inner door or window of a dwelling house or other building, if,
+9 after notice of his or her office and purpose, the officer he is refused
+10 admittance ; or without giving notice of his authority and purpose, if
+11 the judge or magistrate issuing a search warrant has inserted a direction
+12 therein that the officer executing it shall not be required to give such
+13 notice, but the political subdivision from which such officer is elected
+14 or appointed shall be liable for all damages to the property in gaining
+15 admission. The judge or magistrate may so direct only upon proof under
+16 oath, to his satisfaction that the property sought may be easily or
+17 quickly destroyed or disposed of, or that danger to the life or limb of
+18 the officer or another may result, if such notice be given; but this
+19 section is not intended to authorize any officer executing a search
+20 warrant to enter any house or building not described in the warrant.
+21 Sec. 19. (1) For purposes of this section, no-knock warrant means
+22 an arrest warrant or a search warrant authorizing entry into any dwelling
+23 house or other building that expressly authorizes a peace officer to
+24 dispense with the requirement to knock and announce the peace officer's
+25 presence prior to the execution of the warrant.
+26 (2) No judge or magistrate shall issue a no-knock warrant.
+27 Sec. 20. Section 81-1414.15, Reissue Revised Statutes of Nebraska,
+28 is amended to read:
+29 81-1414.15 (1) The chief of police, sheriff, Superintendent of Law
+30 Enforcement and Public Safety, or the head administrator of a law
+31 enforcement agency or an agency employing a law enforcement officer shall
+-8-
+
+LB276 LB276
+2025 2025
+1 submit a personnel change in status form as approved by the council to
+2 the director of the training center within seven calendar days after the
+3 date a law enforcement officer is hired by the agency or leaves
+4 employment with the agency.
+5 (2) Each law enforcement agency or agency employing a law
+6 enforcement officer shall maintain a record regarding the reason or
+7 reasons for, and circumstances surrounding, a separation of service for
+8 each law enforcement officer employed by that agency. Such record shall
+9 be retained for five years following a law enforcement officer's
+10 separation from the agency.
+11 (3) Each law enforcement agency or agency employing a law
+12 enforcement officer shall maintain any and all records of officer conduct
+13 which could constitute grounds for revocation or suspension of a law
+14 enforcement certification by the commission. Such record shall include
+15 any and all records of conduct which could constitute grounds for
+16 revocation or suspension under subdivision (6) of section 81-1403. Such
+17 record, which shall include the name of the law enforcement officer,
+18 shall be permanently retained and shall not be destroyed. shall be
+19 retained for the duration of the law enforcement officer's employment
+20 with the agency and for ten years following his or her separation from
+21 the agency.
+22 (4) The chief of police, sheriff, Superintendent of Law Enforcement
+23 and Public Safety, or the head administrator of a law enforcement agency
+24 or an agency employing a law enforcement officer shall make a report to
+25 the commission of any law enforcement officer who is terminated from
+26 employment or allowed to resign in lieu of termination for conduct
+27 described in subdivision (6) of section 81-1403. The report shall
+28 include, but not be limited to, a summary of the allegations pertaining
+29 to the officer and identification of any witnesses relevant to the
+30 allegations, and shall be filed with the commission within thirty
+31 calendar days of the termination or resignation in lieu of termination.
+-9-
+
+LB276 LB276
+2025 2025
+1 (5) Failure to comply with this section shall constitute neglect of
+2 duty.
+3 Sec. 21. Section 81-1414.19, Reissue Revised Statutes of Nebraska,
+4 is amended to read:
+5 81-1414.19 (1) The On or before July 1, 2022, the commission shall
+6 post on its public website a list of all law enforcement officers who
+7 have, on or after January 1, 2021:
+8 (a) Voluntarily surrendered their certifications or had their
+9 certifications revoked;
+10 (b) Been convicted of or pleaded guilty or nolo contendere to a
+11 felony or a Class I misdemeanor; or
+12 (c) Upon adjudication by the council, been found to have engaged in
+13 serious misconduct.
+14 (2) The list provided for in this section shall be accompanied on
+15 the commission's public website by a letter that includes, for each law
+16 enforcement officer on such list:
+17 (a) The officer's name, rank, and the law enforcement agency for
+18 which such officer works or most recently worked;
+19 (b) A statement indicating the reason such officer's name is on the
+20 list;
+21 (c) A description of any discipline imposed; and
+22 (d) An affirmation, signed by the chief of police, sheriff, or the
+23 head administrator of the officer's law enforcement agency or the
+24 Superintendent of Law Enforcement and Public Safety affirming the truth
+25 and accuracy of the matters stated in the letter.
+26 (3) The list provided for in this section shall include, for each
+27 law enforcement officer on such list, an indication of whether the
+28 officer's certification is active or has been suspended or revoked or is
+29 otherwise inactive.
+30 (4) Any (3) Beginning July 1, 2022, any time a law enforcement
+31 officer voluntarily surrenders such officer's certification, has such
+-10-
+
+LB276 LB276
+2025 2025
+1 certification revoked, or is adjudicated by the council to have engaged
+2 in serious misconduct, the council shall notify the commission within
+3 thirty days after such surrender, revocation, or adjudication.
+4 (5) The (4) By July 1, 2022, the council shall establish a
+5 procedure, including an opportunity for a hearing, by which a law
+6 enforcement officer may challenge the inclusion of such officer's name on
+7 the list.
+8 Sec. 22. The Revisor of Statutes shall assign sections 1 to 16 of
+9 this act to Chapter 18.
+10 Sec. 23. Original sections 29-411, 81-1414.15, and 81-1414.19,
+11 Reissue Revised Statutes of Nebraska, are repealed.
+12 Sec. 24. Since an emergency exists, this act takes effect when
+13 passed and approved according to law.
+-11-
+
+[DELETED: yMA8aa a t A G t m p B aG l t p n s a a w td a t t c p r t l eoRa0B6L52]
+[DELETED: ScS 2  T L f t o o m lecaa u s l U t C S A c chf0L f t c c s a e o1b t m i a e p s a2p3S4( C m a c o t m c o c o t5p6p t s 2 t 5 o A X o t C o7N8(9u0S 4  O o b J 1 2 e c s b1o2s3a4S5t6o7o i w r a c o t r o t8c A m o t o b s b e f9r t t o b a t e o t t f w0a1a6L52]
+[DELETED: satlS 6  E o b s b m a e bo( I a a g a c f bmo0( I a a g a c r t1d2f b e o t p d o s c a a3o4( I a s i p o o s5c6(7m8d9o0o1(2o3t4a5(6o7p d p o o m a o8m9( P t p d o s c w f f0m1a6L52]
+[DELETED: (aSct( T c i i n s r t ts(n0(1i2(3a4( A d b t o b t s d 5g o c f b a m o t p w6i s n b t o b f i t7f r t s g o c i o m8i9S0f a r t a p i d u t1M2a3p d o s c T o b s e4d s i n o w s h p b5a6o7S8o9i0c f i a e i S p1s6L52]
+[DELETED: (a a i t o b d n f td(apt(t c a p t a g s t o p0d o o e d r t a m u1i2S 1  T t e a e o b a t3i4u i o r b t o b c r5s6C7S8h9o0o1(2( R t t o b r t t3d4(5m6a7t8o9r i a w s t t t c p0d1( W i a t m h b c c b a6L52]
+[DELETED: p o i i a m t w i b to b t o b s a s i ws o t m a w a e i s o pcp( A w s p b a o b si v c o t w r s t tos s r a t o b m d n t t0p1(2i w s a r i b r s w3s4S5p6b7o8t9r0S1c l f a a t o d m i g f2u3S 1  ( A w s a r p b a4o b i t v c o t w r5s t t o b b i e b t6o b s b c p r f p o7s8( A r s t a o b p t9s0s1( S ( o s 8 s n a t t6L52]
+[DELETED: wvb i o t r s t t o bpS 1  A m o a o b s b pmStc w o a t a o a o b c0p t t M P O A A p o a1e2t e d o t a t c w o a t3a4O5S6c a a t A G s m a B a7G8e9t0u14 U 1 ( a s c o t S C o t2U3d4(5a6s7p s l o t A G w T l s b8u9(0E a C J s a a p r a1r t c o t s i b n l t6L52]
+[DELETED: c a p f d w d i r awS 1 S 2 R R S o N ia2 I e a w f t a o a p cw a o o a s w o w a t m aa f a f w a w t o m b o aoa0a1t2t3n4o5a6o t h s t t p s m b e o7q8t o o a m r i s n b g b t9s i n i t a a o e a s0w1S2a3h o o b t e a a p o t4d5p6(7S8i980E a P S o t h a o a l1e6L52]
+[DELETED: std a l e o i h b t a o le( E l e a o a e a le o s m a r r t r oreb r f f y f a l e o0s1( E l e a o a e a l2e3w c c g f r o s o a l4e c b t c S r s i5a a a r o c w c c g f6r7r w s i t n o t l e o8s b p r a s n b d s b9r f t d o t l e o e0w1t2(3a4o5t c o a l e o w i t f6e o a t r i l o t f c7d i s ( o s 8 T r s8i9t t o a i o a w r t t0a a s b f w t c w t1c6L52]
+[DELETED: (dSi8p o i p w a l o a l e o wh( V s t c o h tc0( B c o o p g o n c t 1f2(3s4(5t6e7( T o n r a t l e a f8w9(0l1(2(3h a o t o l e a o t4S5a6(7l e o o s l a i o w t8o9o0( A ( B J 1 2 a t a l e1o v s s o c h s6L52]
+[DELETED: ci s m t c s n t c wt( T ( B J 1 2 t c s e p i a o f a h b w a letSt0S 2  O s 2 8 a 81R2S 2  S a e e t a t e w3p6L52]

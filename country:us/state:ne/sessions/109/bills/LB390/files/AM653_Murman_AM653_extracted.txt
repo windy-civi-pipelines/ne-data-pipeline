@@ -1,0 +1,39 @@
+Title: 1 1. On page 2, after line 20, insert the following new subsection:
+Official Title: 1 1. On page 2, after line 20, insert the following new subsection:
+Number of Sections: 1
+Source: versions - Murman AM653
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM653 AM653
+LB390 LB390
+LPB - 03/13/2025 LPB - 03/13/2025
+AMENDMENTS TO LB390
+Introduced by Murman, 38.
+2 "(3) This section shall only apply to a school library that is
+3 located on school district property and shall not apply to any other
+4 public library regardless if such library contracts with a school
+5 district for use by students.".
+-1-
+[DELETED: yM1" T s s o a t a s l t il o s d p a s n a t a op l r i s l c w a sd3A0L5L]
+
+
+================================================================================
+
+Raw Text:
+AM653 AM653
+LB390 LB390
+LPB - 03/13/2025 LPB - 03/13/2025
+AMENDMENTS TO LB390
+Introduced by Murman, 38.
+1 1. On page 2, after line 20, insert the following new subsection:
+2 "(3) This section shall only apply to a school library that is
+3 located on school district property and shall not apply to any other
+4 public library regardless if such library contracts with a school
+5 district for use by students.".
+-1-
+
+[DELETED: yM1" T s s o a t a s l t il o s d p a s n a t a op l r i s l c w a sd3A0L5L]

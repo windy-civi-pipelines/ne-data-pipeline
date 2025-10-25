@@ -1,0 +1,2716 @@
+Title: LEGISLATIVE BILL 80
+Official Title: LEGISLATIVE BILL 80
+Number of Sections: 26
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+LB80 LB80
+2025 2025
+Approved by the Governor May 20, 2025
+Introduced by Hallstrom, 1; Bosn, 25; DeKay, 40; Clements, 2; Ballard, 21.
+A BILL FOR AN ACT relating to protection orders; to amend sections 28-311.02,
+28-311.05, 42-901, 42-905, 42-924.01, 42-924.03, 42-927, 42-928, 42-929,
+42-931, 43-2,107, and 60-3209, Reissue Revised Statutes of Nebraska, and
+
+Section 2:
+sections 25-2740, 28-311.04, 28-311.12, 28-358.01, 28-710, 28-713.01,
+28-1205, 28-1206, 29-404.02, 29-422, 29-2292, 42-903, 42-924, 42-924.02,
+42-925, 42-926, 43-1609, 43-1611, and 76-1401, Revised Statutes Cumulative
+Supplement, 2024; to adopt the Protection Orders Act; to extend the
+initial period of protection orders; to define terms; to provide
+penalties; to provide powers and duties relating to such orders; to change
+a penalty for violating a harassment protection order; to provide for
+notification of reports of child abuse or neglect to a military
+installation as prescribed; to provide powers and duties to landlords
+relating to acts of domestic violence against tenants or household
+members; to transfer provisions; to harmonize provisions; to repeal the
+original sections; and to outright repeal section 28-311.10, Reissue
+Revised Statutes of Nebraska, and sections 28-311.09 and 28-311.11,
+Revised Statutes Cumulative Supplement, 2024.
+Be it enacted by the people of the State of Nebraska,
+
+Section 3:
+Section 1. Sections 1 to 25 of this act shall be known and may be cited
+as the Protection Orders Act.
+Sec. 2. For purposes of the Protection Orders Act:
+(1) Abuse has the same meaning as in section 42-903;
+(2) Course of conduct has the same meaning as in section 28-311.02;
+(3) Family or household members has the same meaning as in section 42-903;
+(4) Harass has the same meaning as in section 28-311.02;
+(5) Household pet means any animal maintained for companionship or
+pleasure but does not include any animal kept primarily for commercial purposes
+or for consumption or any livestock animal as defined in section 54-902;
+(6) Law enforcement agency means the police department or town marshal in
+incorporated municipalities, the office of the sheriff in unincorporated areas,
+and the Nebraska State Patrol; and
+(7) Sexual assault offense means:
+(a) Conduct amounting to sexual assault under section 28-319 or 28-320,
+sexual abuse by a school employee under section 28-316.01, sexual assault of a
+child under section 28-319.01 or 28-320.01, a violation of section 28-311.08,
+or an attempt to commit any of such offenses; or
+(b) Subjecting or attempting to subject another person to sexual contact
+or sexual penetration without such person's consent, as such terms are defined
+in section 28-318.
+Sec. 3. Section 42-924, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-924 (1) (1)(a) Any victim of domestic abuse may file a petition and
+affidavit for a domestic abuse protection order as provided in this section.
+The petition shall state the events and dates or approximate dates of acts
+constituting the alleged domestic abuse, including the most recent and most
+severe incident or incidents.
+(2) Upon the filing of such a petition and affidavit in support thereof,
+the court may issue a domestic abuse protection order, without bond, granting
+the following relief:
+(a) (i) Enjoining the respondent from imposing any restraint upon the
+petitioner or upon the liberty of the petitioner;
+(b) (ii) Enjoining the respondent from threatening, assaulting, molesting,
+attacking, or otherwise disturbing the peace of the petitioner;
+(c) (iii) Enjoining the respondent from telephoning, contacting, or
+otherwise communicating with the petitioner;
+(d) (iv) Removing and excluding the respondent from the residence of the
+petitioner, regardless of the ownership of the residence;
+(e) (v) Ordering the respondent to stay away from any place specified by
+the court;
+(f) (vi) Awarding the petitioner temporary custody of any minor children
+for a period not to exceed ninety days. If the order grants such temporary
+custody, the order shall specify the number of days of custody granted unless
+otherwise modified by the court;
+(g) (vii) Enjoining the respondent from possessing or purchasing a firearm
+as defined in section 28-1201;
+(h) (viii) Directing that the petitioner have sole possession of any
+household pet owned, possessed, leased, kept, or held by the petitioner, the
+respondent, or any family or household member residing in the household of the
+petitioner or respondent;
+(i) (ix) Enjoining the respondent from coming into contact with, harming,
+or killing any household pet owned, possessed, leased, kept, or held by the
+petitioner, the respondent, or any family or household member of the petitioner
+-1-
+LB80 LB80
+2025 2025
+or respondent; or
+(j) (x) Ordering such other relief deemed necessary to provide for the
+safety and welfare of the petitioner and any designated family or household
+member.
+(3) (b) If sole possession of a household pet is ordered by a court
+pursuant to subdivision (2)(h) (1)(a)(viii) of this section, such possession
+shall be for the duration of the domestic abuse protection order or until
+further order of the court. The grant of sole possession of a household pet
+under such subdivision is not intended to permanently determine ownership of
+such household pet. The petitioner shall not permanently transfer, sell, or
+dispose of a household pet placed in the petitioner's possession without prior
+court approval, except that court approval shall not be required in cases where
+humane euthanasia of a seriously ill or injured household pet is recommended by
+a licensed veterinarian.
+(c) The petition for a protection order shall state the events and dates
+or approximate dates of acts constituting the alleged domestic abuse, including
+the most recent and most severe incident or incidents.
+(d) The protection order shall specify to whom relief under this section
+was granted.
+(2) Petitions for protection orders shall be filed with the clerk of the
+district court, and the proceeding may be heard by the county court or the
+district court as provided in section 25-2740. A petition for a protection
+order may not be withdrawn except upon order of the court.
+(3)(a) A protection order shall specify that it is effective for a period
+of one year and, if the order grants temporary custody, the number of days of
+custody granted to the petitioner unless otherwise modified by the court.
+(b)(i) Any victim of domestic abuse may file a petition and affidavit to
+renew a protection order. Such petition and affidavit for renewal shall be
+filed any time within forty-five days before the expiration of the previous
+protection order, including the date the order expires.
+(ii) A protection order may be renewed on the basis of the petitioner's
+affidavit stating that there has been no material change in relevant
+circumstances since entry of the order and stating the reason for the requested
+renewal if:
+(A) The petitioner seeks no modification of the order; and
+(B)(I) The respondent has been properly served with notice of the petition
+for renewal and notice of hearing and fails to appear at the hearing; or
+(II) The respondent indicates that he or she does not contest the renewal.
+(iii) Such renewed order shall specify that it is effective for a period
+of one year to commence on the first calendar day following the expiration of
+the previous order or on the calendar day the court grants the renewal if such
+day is subsequent to the first calendar day after expiration of the previous
+order and, if the court grants temporary custody, the number of days of custody
+granted to the petitioner unless otherwise modified by the court.
+(4) Any person, except the petitioner, who knowingly violates a protection
+order issued pursuant to this section or section 42-931 after service or notice
+as described in subsection (2) of section 42-926 shall be guilty of a Class I
+misdemeanor, except that any person convicted of violating such order who has a
+prior conviction for violating a protection order shall be guilty of a Class IV
+felony.
+(5) If there is any conflict between sections 42-924 to 42-926 and any
+other provision of law, sections 42-924 to 42-926 shall govern.
+Sec. 4. (1) Any victim who has been harassed may file a petition and
+affidavit for a harassment protection order as provided in this section. The
+petition shall state the events and dates or approximate dates of acts
+constituting the alleged harassment, including the most recent and most severe
+incident or incidents.
+(2) Upon the filing of such a petition and affidavit, the court may issue
+a harassment protection order, without bond, enjoining the respondent from:
+(a) Imposing any restraint upon the person or liberty of the petitioner;
+(b) Harassing, threatening, assaulting, molesting, attacking, or otherwise
+disturbing the peace of the petitioner; or
+(c) Telephoning, contacting, or otherwise communicating with the
+petitioner.
+(3) The court may order such other relief as the court deems necessary to
+provide for the safety and welfare of the petitioner.
+(4) This section does not apply to conduct which occurs during labor
+picketing.
+Sec. 5. (1) Any victim of a sexual assault offense may file a petition
+and affidavit for a sexual assault protection order as provided in this
+
+Section 4:
+section. The petition shall state the events and dates or approximate dates of
+acts constituting the sexual assault offense, including the most recent and
+most severe incident or incidents.
+(2) Upon the filing of such a petition and affidavit, the court may issue
+a sexual assault protection order, without bond, enjoining the respondent from:
+(a) Imposing any restraint upon the person or liberty of the petitioner;
+(b) Harassing, threatening, assaulting, molesting, attacking, or otherwise
+disturbing the peace of the petitioner; or
+(c) Telephoning, contacting, or otherwise communicating with the
+petitioner.
+(3) The court may order such other relief as the court deems necessary to
+provide for the safety and welfare of the petitioner.
+Sec. 6. (1) A petition for a protection order shall be filed with the
+-2-
+LB80 LB80
+2025 2025
+clerk of the district court, and the proceeding may be heard by the county
+court or the district court as provided in section 25-2740.
+(2) A petition for a protection order may not be withdrawn except upon
+order of the court.
+Sec. 7. A court may treat a petition for a domestic abuse, harassment, or
+sexual assault protection order as a petition for another of such types of
+protection order if it appears from the facts in the petition, affidavit, and
+evidence presented that such other type of protection order is more appropriate
+and if:
+(1) The court makes specific findings that such other order is more
+appropriate; or
+(2) The petitioner has requested the court to so treat the petition.
+Sec. 8. (1)(a) If a domestic abuse protection order or sexual assault
+protection order is not issued or renewed ex parte under section 9 of this act,
+the court shall immediately schedule an evidentiary hearing to be held within
+fourteen days after the filing of the petition, and the court shall cause
+notice of the application to be given to the respondent stating that the
+respondent may show cause why such order should not be entered.
+(b) If a harassment protection order is not issued or renewed ex parte
+under section 9 of this act, the court may schedule an evidentiary hearing to
+be held within fourteen days after the filing of the petition, and in such case
+the court shall cause notice of the application to be given to the respondent
+stating that the respondent may show cause why such order should not be
+entered.
+(2) Any notice provided to the respondent shall include notification that:
+(a) A court may treat a petition for a domestic abuse, harassment, or
+sexual assault protection order as a petition for another of such types of
+order if it appears from the facts that such other protection order is more
+appropriate; and
+(b) The respondent shall have an opportunity to show cause as to why such
+protection order should not be entered.
+Sec. 9. Section 42-925, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-925 (1) A protection An order issued under section 42-924 may be issued
+or renewed ex parte to the respondent if it reasonably appears from the
+specific facts included in the affidavit that:
+(a) For a domestic abuse protection order, the petitioner will be in
+immediate danger of abuse before the matter can be heard on notice; or .
+(b) For a harassment protection order or a sexual assault protection
+order, irreparable harm, loss, or damage will result before the matter can be
+heard on notice.
+(2) For a harassment protection order, the court may decline to issue or
+renew a protection order ex parte to the respondent if the specific facts
+included in the affidavit (a) do not show that the petitioner will suffer
+irreparable harm, loss, or damage or (b) show that, for any compelling reason,
+an ex parte order should not be issued or renewed. If the court declines to
+issue or renew an ex parte harassment protection order, the court may dismiss
+the petition without prejudice or schedule an evidentiary hearing as provided
+in section 8 of this act.
+(3) If a protection an order is issued or renewed ex parte, such order is
+a temporary order and the court shall forthwith cause notice of the petition
+and order to be given to the respondent. The court shall also cause a form to
+request a show-cause hearing to be served upon the respondent. If the
+respondent wishes to appear and show cause why the order should not remain in
+effect, he or she shall affix his or her current address, telephone number, and
+signature to the form and return it to the clerk of the district court within
+ten business days after service upon him or her.
+(4) Upon receipt of a timely request for a show-cause hearing or upon ,
+the request of the petitioner, or upon the court's own motion, the court shall
+immediately schedule a show-cause hearing to be held within thirty days after
+the receipt of such the request for a show-cause hearing and shall notify the
+petitioner and respondent of the hearing date. The court may also schedule such
+hearing on its own motion. The petition and affidavit shall be deemed to have
+been offered into evidence at any show-cause hearing. The petition and
+affidavit shall be admitted into evidence unless specifically excluded by the
+court. If the respondent appears at the hearing and shows cause why such order
+should not remain in effect, the court shall rescind the temporary order.
+(5) (2) A temporary ex parte order shall be affirmed and deemed the final
+protection order and service of the temporary ex parte order shall be notice of
+the final protection order if the respondent has been properly served with the
+temporary ex parte order and:
+(a) The respondent fails to request a show cause show-cause hearing within
+ten business days after service upon him or her and no hearing was requested by
+the petitioner or upon the court's own motion;
+(b) The respondent has been properly served with notice of any show cause
+hearing requested by the respondent, the petitioner, or upon the court's own
+motion and fails to appear at such hearing; or
+(c) The respondent has been properly served with notice of any show cause
+hearing requested by the respondent, the petitioner, or upon the court's own
+motion and the protection order was not dismissed at the hearing.
+(3) If an order under section 42-924 is not issued ex parte, the court
+shall immediately schedule an evidentiary hearing to be held within fourteen
+days after the filing of the petition, and the court shall cause notice of the
+-3-
+LB80 LB80
+2025 2025
+hearing to be given to the petitioner and the respondent. Any notice provided
+to the respondent shall include notification that a court may treat a petition
+for a domestic abuse protection order as a petition for a harassment protection
+order or a sexual assault protection order if it appears from the facts that
+such other protection order is more appropriate and that the respondent shall
+have an opportunity to show cause as to why such protection order should not be
+entered. If the respondent does not appear at the hearing and show cause why
+such order should not be issued, the court shall issue a final protection
+order.
+(4) The court may by rule or order refer or assign all matters regarding
+orders issued under section 42-924 to a referee for findings and
+recommendations.
+(5) An order issued under section 42-924 shall remain in effect for the
+period provided in subsection (3) of section 42-924, unless dismissed or
+modified by the court prior to such date. If the order grants temporary
+custody, such custody shall not exceed the number of days specified by the
+court unless the respondent shows cause why the order should not remain in
+effect.
+(6) The court shall also cause the notice created under section 29-2291 to
+be served upon the respondent notifying the respondent that it may be unlawful
+under federal law for a person who is subject to a protection order to possess
+or receive any firearm or ammunition.
+(7) A court may treat a petition for a domestic abuse protection order as
+a petition for a harassment protection order or a sexual assault protection
+order if it appears from the facts in the petition, affidavit, and evidence
+presented at a show-cause hearing that such other protection order is more
+appropriate and if:
+(a) The court makes specific findings that such other order is more
+appropriate; or
+(b) The petitioner has requested the court to so treat the petition.
+Sec. 10. (1) A protection order may be issued for an initial period of at
+least one year and no more than two years, unless dismissed or modified by the
+court. The length of the initial period shall be set at the court's discretion
+based upon the evidence presented. When issued, the protection order shall
+specify its effective initial period.
+(2) Any protection order shall specify who is protected by the order and
+who is subject to restrictions under the order.
+Sec. 11. (1) A petitioner may file a petition and affidavit to renew a
+protection order. A petition for renewal may be filed ex parte as provided in
+
+Section 5:
+section 9 of this act. Such petition and affidavit for renewal shall be filed
+any time within forty-five days before the expiration of the protection order,
+including the date the order expires.
+(2) A protection order may be renewed on the basis of the petitioner's
+affidavit stating that there has been no material change in relevant
+circumstances since entry of the order and stating the reason for the requested
+renewal if:
+(a) The petitioner seeks no modification of the order; and
+(b)(i) The respondent has been properly served with notice of the petition
+for renewal and notice of hearing and fails to appear at the hearing; or
+(ii) The respondent indicates that he or she does not contest the renewal.
+(3) A renewed protection order shall specify that it is effective for a
+period of one year to commence on the first calendar day following the
+expiration of the previous order or on the calendar day the court grants the
+renewal if such day is subsequent to the first calendar day after expiration of
+the previous order.
+(4) For a renewed domestic abuse protection order, if the court grants
+temporary custody of minor children, the renewed order shall specify the number
+of days of custody granted to the petitioner unless otherwise modified by the
+court.
+Sec. 12. During any hearing on a protection order, the petition and
+affidavit shall be deemed to have been offered into evidence, and they shall be
+admitted into evidence unless specifically excluded by the court.
+Sec. 13. The court may by rule or order refer or assign all matters
+regarding a domestic abuse protection order to a referee for findings and
+recommendations.
+Sec. 14. Section 42-926, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-926 (1)(a) (1) Upon the issuance of a temporary ex parte protection
+order or final protection order under section 42-925, the clerk of the court
+shall forthwith provide, free of charge:
+(i) The the petitioner , without charge, with two certified copies of such
+order;
+(ii) The . The clerk of the court shall also forthwith provide the local
+police department or local law enforcement agency and the local sheriff's
+office , without charge, with one copy each of such order and one copy each of
+the sheriff's return thereon; and .
+(iii) A The clerk of the court shall also forthwith provide a copy of the
+protection order to the sheriff's office in the county where the respondent may
+be personally served, together with instructions for service.
+(b) Upon receipt of the order and instructions for service, the such
+sheriff's office in the county where the respondent may be personally served
+shall forthwith serve the protection order upon the respondent and file its
+return thereon with the clerk of the court which issued the protection order
+-4-
+LB80 LB80
+2025 2025
+within fourteen days of the issuance of the protection order.
+(2) If any protection order is dismissed or modified by the court, the
+clerk of the court shall forthwith provide the local police department or local
+law enforcement agency and the local sheriff's office, without charge, with one
+copy each of the order of dismissal or modification. If the respondent has
+notice as described in subsection (2) of this section, further service under
+this subsection is unnecessary.
+(3) Any document required to be provided under this section, including
+certified copies of protection orders, may be provided electronically.
+(4) (2) If the respondent was present at a hearing convened pursuant to
+
+Section 6:
+section 9 of this act following issuance of an ex parte protection order 42-925
+and the protection order was not dismissed, the respondent shall be deemed to
+have notice by the court at such hearing that the protection order will be
+granted and remain in effect and further service of notice described in
+subsection (1) of this section is not required for purposes of prosecution
+under subsection (4) of section 18 of this act 42-924.
+(3) When provided by the petitioner, the court shall make confidential
+numeric victim identification information, including social security numbers
+and dates of birth, available to appropriate criminal justice agencies engaged
+in protection order enforcement efforts. Such agencies shall maintain the
+confidentiality of this information, except for entry into state and federal
+databases for protection order enforcement.
+Sec. 15. Upon issuance of any domestic abuse protection order, the court
+shall cause the notice created under section 29-2291 to be served upon the
+respondent notifying the respondent that it may be unlawful under federal law
+for a person who is subject to a domestic abuse protection order to possess or
+receive any firearm or ammunition.
+Sec. 16. Section 42-924.01, Reissue Revised Statutes of Nebraska, is
+amended to read:
+42-924.01 (1) Fees to cover costs associated with the filing of a petition
+for a protection order or the issuance or service of a protection order seeking
+only the relief provided by the Protection Orders from Domestic Abuse Act shall
+not be charged, except that a court may assess such fees and costs if the court
+finds, by clear and convincing evidence, that the statements contained in the
+petition were false and that the protection order was sought in bad faith.
+(2) At the final hearing, a court may assess costs associated with the
+filing of a petition for a protection order or the issuance or service of a
+protection order seeking only the relief provided by the Protection Orders from
+Domestic Abuse Act against the respondent.
+Sec. 17. Section 42-924.03, Reissue Revised Statutes of Nebraska, is
+amended to read:
+42-924.03 When ruling on a petition for a domestic abuse protection order,
+a A court shall only grant a respondent a domestic abuse protection order if
+(1) the respondent files a cross or counter petition seeking a protection order
+and (2) the issuing court makes specific findings of domestic or family abuse
+against the respondent and determines that the respondent is entitled to a
+protection order.
+Sec. 18. (1) Any person, except the petitioner, who knowingly violates a
+protection order issued pursuant to the Protection Orders Act, after service or
+notice as described in subsection (4) of section 14 of this act, or a valid
+foreign protection order recognized pursuant to section 23 or 24 of this act,
+shall be guilty of an offense and punished as provided in this section.
+(2) For a violation involving a domestic abuse protection order, a sexual
+assault protection order, a valid foreign domestic abuse protection order
+recognized pursuant to section 23 of this act, or a valid foreign sexual
+assault protection order recognized pursuant to section 24 of this act a
+violation of this section is a Class I misdemeanor for a first offense and a
+Class IV felony for any second or subsequent offense.
+(3) For a violation of a harassment protection order or a valid foreign
+harassment protection order recognized pursuant to section 24 of this act, a
+violation of this section is a Class II misdemeanor for a first offense and a
+Class I misdemeanor for any second or subsequent offense.
+Sec. 19. Section 42-928, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-928 A peace officer shall with or without a warrant arrest a person if:
+(1) The the officer has probable cause to believe that the person has
+committed a violation of a protection order described in section 18 of this act
+or an order issued pursuant to section 42-924, a violation of section 42-925, a
+violation of an order excluding a person from certain premises issued pursuant
+to section 42-357; , or a violation of a valid foreign protection order
+recognized pursuant to section 42-931 and
+(2) A a petitioner or person protected by a protection order or under
+
+Section 7:
+section 42-924 or 42-925, an applicant for an order excluding a person from
+certain premises issued pursuant to section 42-357 , or a person protected
+under a valid foreign protection order recognized pursuant to section 42-931
+provides the peace officer with a copy of such a protection order or an order
+excluding a person from certain premises issued under such sections or the
+peace officer determines that such an order exists after communicating with the
+local law enforcement agency.
+Sec. 20. Section 42-929, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-929 A peace officer making an arrest pursuant to section 19 of this act
+42-928 shall take such person into custody and take such person before a judge
+-5-
+LB80 LB80
+2025 2025
+of the county court or the court which issued the protection order or other
+order. At such time the court shall establish the conditions of such person's
+release from custody, including the determination of bond or recognizance, as
+the case may be. The court shall issue an order directing that such person
+shall have no contact with any person protected by such order the alleged
+victim of the abuse or violation.
+Sec. 21. Section 42-924.02, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+42-924.02 (1) The clerk of the district court shall make available
+standard petition and affidavit forms for all types of protection orders
+provided by law with instructions for completion to be used by a petitioner.
+(2) Affidavit forms shall request all relevant information, including, but
+not limited to: A description of the most recent incident that was the basis
+for the application for a protection order and the date or approximate date of
+the incident and, if there was more than one incident, the most severe incident
+and the date or approximate date of such incident. The affidavit form shall
+permit the petitioner to request that any contact information of the petitioner
+be kept confidential. If the petitioner makes such request, such information
+shall not be released and shall only be available for the court's use. The
+clerk and his or her employees shall not provide assistance in completing the
+forms.
+(3) The State Court Administrator shall adopt and promulgate the standard
+petition and affidavit forms provided for in this section as well as the
+standard temporary ex parte and final protection order forms and provide a copy
+of such forms to all clerks of the district courts in this state. These
+standard temporary ex parte and final protection order forms shall be the only
+such forms used in this state.
+Sec. 22. When provided by the petitioner, the court shall make
+confidential numeric victim identification information, including social
+security numbers and dates of birth, available to appropriate criminal justice
+agencies engaged in protection order enforcement efforts. Such agencies shall
+maintain the confidentiality of this information, except for entry into state
+and federal databases for protection order enforcement.
+Sec. 23. Section 42-931, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-931 A valid foreign protection order related to domestic or family
+abuse issued by a tribunal of another state, tribe, or territory shall be
+accorded full faith and credit by the courts of this state and enforced
+pursuant to the Uniform Interstate Enforcement of Domestic Violence Protection
+Orders Act.
+Sec. 24. Section 28-311.12, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-311.12 (1) A valid foreign harassment or sexual assault protection
+order or an order similar to a harassment or sexual assault protection order
+issued by a court of another state, territory, possession, or tribe shall be
+accorded full faith and credit by the courts of this state and enforced as if
+it were issued in this state.
+(2) A foreign harassment or sexual assault protection order issued by a
+court of another state, territory, possession, or tribe shall be valid if:
+(a) The issuing court had jurisdiction over the parties and matter under
+the law of such state, territory, possession, or tribe;
+(b) The respondent was given reasonable notice and an opportunity to be
+heard sufficient to protect the respondent's right to due process before the
+order was issued; and
+(c) The harassment or sexual assault protection order from another
+jurisdiction has not been rendered against both the petitioner and the
+respondent, unless: (i) The respondent filed a cross or counter petition,
+complaint, or other written pleading seeking such an a sexual assault
+protection order; and (ii) the issuing court made specific findings of
+harassment or sexual assault offenses against both the petitioner and
+respondent and determined that each party was entitled to such an order.
+(3) There is a presumption of the validity of the foreign protection order
+when the order appears authentic on its face.
+(4) A peace officer may rely upon a copy of any putative valid foreign
+harassment or sexual assault protection order which has been provided to the
+peace officer by any source.
+Sec. 25. If there is any conflict between the Protection Orders Act and
+any other provision of law, the Protection Orders Act shall govern.
+Sec. 26. Section 25-2740, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+25-2740 (1) For purposes of this section:
+(a) Domestic relations matters means proceedings under the Protection
+Orders Act, sections 28-311.09 and 28-311.10 (including harassment protection
+orders and valid foreign harassment protection orders), sections 28-311.11 and
+28-311.12 (including sexual assault protection orders and valid foreign sexual
+assault protection orders), the Conciliation Court Law and sections 42-347 to
+42-381 (including dissolution, separation, annulment, custody, and support),
+
+Section 8:
+section 43-512.04 (including child support or medical support), section 42-924
+(including domestic protection orders), sections 43-1401 to 43-1418 (including
+paternity determinations and parental support), and sections 43-1801 to 43-1803
+(including grandparent visitation); and
+(b) Paternity or custody determinations means proceedings to establish the
+paternity of a child under sections 43-1411 to 43-1418 or proceedings to
+-6-
+LB80 LB80
+2025 2025
+determine custody of a child under section 42-364.
+(2) Except as provided in subsection (3) of this section, in domestic
+relations matters, a party shall file his or her petition or complaint and all
+other court filings with the clerk of the district court. The party shall state
+in the petition or complaint whether such party requests that the proceeding be
+heard by a county court judge or by a district court judge. If the party
+requests the case be heard by a county court judge, the county court judge
+assigned to hear cases in the county in which the matter is filed at the time
+of the hearing is deemed appointed by the district court and the consent of the
+county court judge is not required. Such proceeding is considered a district
+court proceeding, even if heard by a county court judge, and an order or
+judgment of the county court in a domestic relations matter has the force and
+effect of a district court judgment. The testimony in a domestic relations
+matter heard before a county court judge shall be preserved as provided in
+
+Section 9:
+section 25-2732.
+(3) In addition to the jurisdiction provided for paternity or custody
+determinations under subsection (2) of this section, a county court or separate
+juvenile court which already has jurisdiction over the child whose paternity or
+custody is to be determined has jurisdiction over such paternity or custody
+determination.
+Sec. 27. Section 28-311.02, Reissue Revised Statutes of Nebraska, is
+amended to read:
+28-311.02 (1) It is the intent of the Legislature to enact laws dealing
+with stalking offenses which will protect victims from being willfully
+harassed, intentionally terrified, threatened, or intimidated by individuals
+who intentionally follow, detain, stalk, or harass them or impose any restraint
+on their personal liberty and which will not prohibit constitutionally
+protected activities.
+(2) For purposes of sections 28-311.02 to 28-311.05 , 28-311.09, and
+28-311.10:
+(a) Harass means to engage in a knowing and willful course of conduct
+directed at a specific person which seriously terrifies, threatens, or
+intimidates the person and which serves no legitimate purpose;
+(b) Course of conduct means a pattern of conduct composed of a series of
+acts over a period of time, however short, evidencing a continuity of purpose,
+including a series of acts of following, detaining, restraining the personal
+liberty of, or stalking the person or telephoning, contacting, or otherwise
+communicating with the person;
+(c) Family or household member means a spouse or former spouse of the
+victim, children of the victim, a person presently residing with the victim or
+who has resided with the victim in the past, a person who had a child in common
+with the victim, other persons related to the victim by consanguinity or
+affinity, or any person presently involved in a dating relationship with the
+victim or who has been involved in a dating relationship with the victim. For
+purposes of this subdivision, dating relationship means frequent, intimate
+associations primarily characterized by the expectation of affectional or
+sexual involvement but does not include a casual relationship or an ordinary
+association between persons in a business or social context; and
+(d) Substantially conforming criminal violation means a guilty plea, a
+nolo contendere plea, or a conviction for a violation of any federal law or law
+of another state or any county, city, or village ordinance of this state or
+another state substantially similar to section 28-311.03. Substantially
+conforming is a question of law to be determined by the court.
+Sec. 28. Section 28-311.04, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-311.04 (1) Except as provided in subsection (2) of this section, any
+person convicted of violating section 28-311.03 is guilty of a Class I
+misdemeanor.
+(2) Any person convicted of violating section 28-311.03 is guilty of a
+Class IIIA felony if:
+(a) The person has a prior conviction under such section or a
+substantially conforming criminal violation within the last seven years;
+(b) The victim is under sixteen years of age;
+(c) The person possessed a deadly weapon at any time during the violation;
+(d) The person was also in violation of any protection order issued under
+the Protection Orders Act or any section 28-311.09, 28-311.11, 42-924, or
+42-925, or in violation of a valid foreign harassment protection order
+recognized pursuant to section 23 or 24 of this act 28-311.10 or a valid
+foreign sexual assault protection order recognized pursuant to section
+28-311.12 at any time during the violation; or
+(e) The person has been convicted of any felony in this state or has been
+convicted of a crime in another jurisdiction which, if committed in this state,
+would constitute a felony and the victim or a family or household member of the
+victim was also the victim of such previous felony.
+Sec. 29. Section 28-311.05, Reissue Revised Statutes of Nebraska, is
+amended to read:
+28-311.05 Sections 28-311.02 to 28-311.04 , 28-311.09, and 28-311.10 shall
+not apply to conduct which occurs during labor picketing.
+Sec. 30. Section 28-358.01, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-358.01 (1) Isolation means intentional acts (a) committed for the
+purpose of preventing, and which do prevent, a vulnerable adult or senior adult
+from having contact with family, friends, or concerned persons; , (b) committed
+-7-
+LB80 LB80
+2025 2025
+to prevent a vulnerable adult or senior adult from receiving his or her mail or
+telephone calls; , (c) of physical or chemical restraint of a vulnerable adult
+or senior adult committed for purposes of preventing contact with visitors,
+family, friends, or other concerned persons; , or (d) which restrict, place, or
+confine a vulnerable adult or senior adult in a restricted area for purposes of
+social deprivation or preventing contact with family, friends, visitors, or
+other concerned persons.
+(2) Isolation does not include (a) medical isolation prescribed by a
+licensed physician caring for the vulnerable adult or senior adult; , (b)
+action taken in compliance with a harassment protection order issued under the
+Protection Orders Act, pursuant to section 28-311.09, a valid foreign
+harassment protection order recognized pursuant to section 23 or 24 of this
+act, or 28-311.10, a sexual assault protection order issued pursuant to section
+28-311.11, a valid foreign sexual assault protection order recognized pursuant
+to section 28-311.12, an order issued pursuant to section 42-924, an ex parte
+order issued pursuant to section 42-925, an order excluding a person from
+certain premises issued pursuant to section 42-357; , or a valid foreign
+protection order recognized pursuant to section 42-931, or (c) action
+authorized by an administrator of a nursing home pursuant to section 71-6021.
+Sec. 31. Section 28-710, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+28-710 (1) Sections 28-710 to 28-727 and section 32 of this act shall be
+known and may be cited as the Child Protection and Family Safety Act.
+(2) For purposes of the Child Protection and Family Safety Act:
+(a) Alternative response means a comprehensive assessment of (i) child
+safety, (ii) the risk of future child abuse or neglect, (iii) family strengths
+and needs, and (iv) the provision of or referral for necessary services and
+support. Alternative response is an alternative to traditional response and
+does not include an investigation or a formal determination as to whether child
+abuse or neglect has occurred, and the subject of the report shall not be
+entered into the central registry of child protection cases maintained pursuant
+to section 28-718;
+(b) Child abuse or neglect means knowingly, intentionally, or negligently
+causing or permitting a minor child to be:
+(i) Placed in a situation that endangers his or her life or physical or
+mental health;
+(ii) Cruelly confined or cruelly punished;
+(iii) Deprived of necessary food, clothing, shelter, or care;
+(iv) Left unattended in a motor vehicle if such minor child is six years
+of age or younger;
+(v) Placed in a situation to be sexually abused;
+(vi) Placed in a situation to be sexually exploited through sex
+trafficking of a minor as defined in section 28-830 or by allowing,
+encouraging, or forcing such person to engage in debauchery, public indecency,
+or obscene or pornographic photography, films, or depictions; or
+(vii) Placed in a situation to be a trafficking victim as defined in
+
+Section 10:
+section 28-830;
+(c) Child advocacy center means a community-based organization that (i)
+provides an appropriate site for conducting forensic interviews as defined in
+
+Section 11:
+section 28-728 and referring victims of child abuse or neglect and appropriate
+caregivers for such victims to needed evaluation, services, and supports, (ii)
+assists county attorneys in facilitating case reviews, developing and updating
+protocols, and arranging training opportunities for the teams established
+pursuant to sections 28-728 and 28-729, and (iii) is a member, in good
+standing, of a state chapter as defined in 34 U.S.C. 20302;
+(d) Comprehensive assessment means an analysis of child safety, risk of
+future child abuse or neglect, and family strengths and needs on a report of
+child abuse or neglect using an evidence-informed and validated tool.
+Comprehensive assessment does not include a finding as to whether the child
+abuse or neglect occurred but does determine the need for services and support,
+if any, to address the safety of children and the risk of future abuse or
+neglect;
+(e) Department means the Department of Health and Human Services;
+(f) Investigation means fact gathering by the department, using an
+evidence-informed and validated tool, or by law enforcement related to the
+current safety of a child and the risk of future child abuse or neglect that
+determines whether child abuse or neglect has occurred and whether child
+protective services are needed;
+(g) Kin caregiver means a person with whom a child in foster care has been
+placed or with whom a child is residing pursuant to a temporary living
+arrangement in a non-court-involved case, who has previously lived with or is a
+trusted adult that has a preexisting, significant relationship with the child
+or with a sibling of such child placed pursuant to section 43-1311.02;
+(h) Law enforcement agency means the police department or town marshal in
+incorporated municipalities, the office of the sheriff in unincorporated areas,
+and the Nebraska State Patrol;
+(i) Member of a military family means an individual who is:
+(i) Serving active duty service in the armed forces of the United States,
+including any reserve component or the National Guard; or
+(ii) Is a dependent, as defined in 50 U.S.C. 3911, of a person described
+in subdivision (2)(i)(i) of this section;
+(j) (i) Non-court-involved case means an ongoing case opened by the
+department following a report of child abuse or neglect in which the department
+-8-
+LB80 LB80
+2025 2025
+has determined that ongoing services are required to maintain the safety of a
+child or alleviate the risk of future abuse or neglect and in which the family
+voluntarily engages in child protective services without a filing in a juvenile
+court;
+(k) (j) Out-of-home child abuse or neglect means child abuse or neglect
+occurring outside of a child's family home, including in day care homes, foster
+homes, day care centers, residential child-caring agencies as defined in
+
+Section 12:
+section 71-1926, other child care facilities or institutions, and the
+community. Out-of-home child abuse or neglect also includes cases in which the
+subject of the report of child abuse or neglect is not a member of the child's
+household, no longer has access to the child, is unknown, or cannot be
+identified;
+(l) (k) Relative caregiver means a person with whom a child is placed by
+the department and who is related to the child, or to a sibling of such child
+pursuant to section 43-1311.02, by blood, marriage, or adoption or, in the case
+of an Indian child, is an extended family member as defined in section 43-1503;
+(m) (l) Report means any communication received by the department or a law
+enforcement agency pursuant to the Child Protection and Family Safety Act that
+describes child abuse or neglect and contains sufficient content to identify
+the child who is the alleged victim of child abuse or neglect;
+(n) (m) Review, Evaluate, and Decide Team means an internal team of staff
+within the department and shall include no fewer than two supervisors or
+administrators and two staff members knowledgeable on the policies and
+practices of the department, including, but not limited to, the structured
+review process. County attorneys, child advocacy centers, or law enforcement
+agency personnel may attend team reviews upon request of a party;
+(o) (n) School employee means a person nineteen years of age or older who
+is employed by a public, private, denominational, or parochial school approved
+or accredited by the State Department of Education;
+(p) (o) Student means a person less than nineteen years of age enrolled in
+or attending a public, private, denominational, or parochial school approved or
+accredited by the State Department of Education, or who was such a person
+enrolled in or who attended such a school within ninety days of any violation
+of section 28-316.01;
+(q) (p) Traditional response means an investigation by a law enforcement
+agency or the department pursuant to section 28-713 which requires a formal
+determination of whether child abuse or neglect has occurred; and
+(r) (q) Subject of the report of child abuse or neglect or subject of the
+report means the person or persons identified in the report as responsible for
+the child abuse or neglect.
+Sec. 32. (1) For purposes of this section:
+(a) Military family advocacy program means the program established by the
+United States Department of Defense and provided at a military installation to
+address child abuse and neglect in military families; and
+(b) Military installation has the same meaning as in section 79-2201.
+(2) Upon receipt of a report of child abuse or neglect, and after the
+department has contacted the family of the identified victim and determined
+that the subject of the report is a member of a military family, the department
+shall notify the appropriate military installation with which it has a
+memorandum of understanding under subsection (3) of this section of the report
+and the nature of the allegations contained in the report.
+(3) The department shall negotiate a memorandum of understanding with each
+military installation in Nebraska that has a military family advocacy program.
+The memorandum shall establish procedures and protocols for:
+(a) Identifying the subject of a report of child abuse or neglect as a
+member of a military family;
+(b) Sharing information as required by this section; and
+(c) Maintaining confidentiality as required by state and federal law.
+(4) The department may adopt and promulgate rules and regulations to carry
+out this section.
+Sec. 33. Section 28-713.01, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-713.01 (1) Upon completion of the investigation pursuant to section
+28-713:
+(a) In situations of alleged out-of-home child abuse or neglect, the
+person or persons having custody of the allegedly abused or neglected child or
+children shall be given written notice of the results of the investigation and
+any other information the law enforcement agency or department deems necessary.
+Such notice and information shall be sent by first-class mail;
+(b) The subject of the report of child abuse or neglect shall be given
+written notice of the determination of the case and whether the subject of the
+report of child abuse or neglect will be entered into the central registry of
+child protection cases maintained pursuant to section 28-718 under the criteria
+provided in section 28-720; and
+(c) If the subject of the report of child abuse or neglect is a school
+employee and the child is a student in the school to which such school employee
+is assigned for work, the notice described in subdivision (1)(b) of this
+
+Section 13:
+section shall also be sent to the Commissioner of Education; and .
+(d) If the subject of the report of child abuse or neglect is a member of
+a military family, the notice described in subdivision (1)(b) of this section
+shall also be sent to the appropriate military installation as provided in
+
+Section 14:
+section 32 of this act.
+(2) If the subject of the report will be entered into the central
+-9-
+LB80 LB80
+2025 2025
+registry, the notice to the subject shall be sent by certified mail with return
+receipt requested or first-class mail to the last-known address of the subject
+of the report of child abuse or neglect and shall include:
+(a) The nature of the report;
+(b) The classification of the report under section 28-720;
+(c) Notification of the right of the subject of the report of child abuse
+or neglect to request the department to amend or expunge identifying
+information from the report or to remove the substantiated report from the
+central registry in accordance with section 28-723; and
+(d) If the subject of the report of child abuse or neglect is a minor
+child who is twelve years of age or older but younger than nineteen years of
+age:
+(i) Notification of the mandatory expungement hearing to be held according
+to section 28-721, a waiver form to waive the hearing, and an explanation of
+the hearing process;
+(ii) An explanation of the implications of being entered in the central
+registry as a subject;
+(iii) Notification of any other procedures determined appropriate in rules
+and regulations adopted and promulgated by the department; and
+(iv) Provision of a copy of all notice materials required to be provided
+to the subject under this subsection to the minor child's attorney of record,
+parent or guardian, and guardian ad litem, if applicable.
+(3) If the subject of the report will not be entered into the central
+registry, the notice to the subject shall be sent by first-class mail and shall
+include:
+(a) The nature of the report; and
+(b) The classification of the report under section 28-720.
+Sec. 34. Section 28-1205, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+28-1205 (1)(a) Any person who uses a firearm, a knife, brass or iron
+knuckles, or any other deadly weapon to commit any felony which may be
+prosecuted in a court of this state commits the offense of use of a deadly
+weapon to commit a felony.
+(b) Use of a deadly weapon, other than a firearm, to commit a felony is a
+Class II felony.
+(c) Use of a deadly weapon, which is a firearm, to commit a felony is a
+Class IC felony.
+(2)(a) Any person who possesses a firearm, a knife, brass or iron
+knuckles, or a destructive device during the commission of any felony which may
+be prosecuted in a court of this state commits the offense of possession of a
+deadly weapon during the commission of a felony.
+(b) Possession of a deadly weapon, other than a firearm, during the
+commission of a felony is a Class III felony.
+(c) Possession of a deadly weapon, which is a firearm, during the
+commission of a felony is a Class II felony.
+(3)(a) Any person who carries a firearm or a destructive device during the
+commission of a dangerous misdemeanor commits the offense of carrying a firearm
+or destructive device during the commission of a dangerous misdemeanor.
+(b) A violation of this subsection is a:
+(i) Class I misdemeanor for a first or second offense; and
+(ii) A Class IV felony for any third or subsequent offense.
+(4) A violation of this section shall be treated as a separate and
+distinct offense from the underlying crimes being committed, and a sentence
+imposed under this section shall be consecutive to any other sentence imposed.
+(5) Possession of a deadly weapon may be proved through evidence
+demonstrating either actual or constructive possession of a firearm, a knife,
+brass or iron knuckles, or a destructive device during, immediately prior to,
+or immediately after the commission of a felony.
+(6) For purposes of this section:
+(a) Dangerous misdemeanor means a misdemeanor violation of any of the
+following offenses:
+(i) Stalking under section 28-311.03;
+(ii) Knowing violation of any a harassment protection order issued under
+the Protection Orders Act section 28-311.09;
+(iii) Knowing violation of a sexual assault protection order under section
+28-311.11;
+(iii) (iv) Domestic assault under section 28-323;
+(iv) (v) Assault of an unborn child in the third degree under section
+28-399;
+(v) (vi) Theft by shoplifting under section 28-511.01;
+(vi) (vii) Unauthorized use of a propelled vehicle under section 28-516;
+(vii) (viii) Criminal mischief under section 28-519 if such violation
+arises from an incident involving the commission of a misdemeanor crime of
+domestic violence;
+(viii) (ix) Impersonating a police officer under section 28-610;
+(ix) (x) Resisting arrest under section 28-904;
+(x) (xi) Operating a motor vehicle or vessel to avoid arrest under section
+28-905;
+(xi) (xii) Obstructing a peace officer under section 28-906; or
+(xiii) Knowing violation of a domestic abuse protection order under
+
+Section 15:
+section 42-924; or
+(xii) (xiv) Any attempt under section 28-201 to commit an offense
+described in subdivisions (6)(a)(i) through (xi) (xiii) of this section;
+-10-
+LB80 LB80
+2025 2025
+(b) Destructive device has the same meaning as in section 28-1213;
+(c) Misdemeanor crime of domestic violence has the same meaning as in
+
+Section 16:
+section 28-1206; and
+(d) Use of a deadly weapon includes the discharge, employment, or visible
+display of any part of a firearm, a knife, brass or iron knuckles, any other
+deadly weapon, or a destructive device during, immediately prior to, or
+immediately after the commission of a felony or communication to another
+indicating the presence of a firearm, a knife, brass or iron knuckles, any
+other deadly weapon, or a destructive device during, immediately prior to, or
+immediately after the commission of a felony, regardless of whether such
+firearm, knife, brass or iron knuckles, deadly weapon, or destructive device
+was discharged, actively employed, or displayed.
+Sec. 35. Section 28-1206, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+28-1206 (1) A person commits the offense of possession of a deadly weapon
+by a prohibited person if he or she:
+(a) Possesses a firearm, a knife, or brass or iron knuckles and he or she:
+(i) Has previously been convicted of a felony;
+(ii) Is a fugitive from justice;
+(iii) Is the subject of a current and valid validly issued domestic
+violence protection order issued under the Protection Orders Act or a current
+and valid foreign protection order recognized under section 23 or 24 of this
+act , harassment protection order, or sexual assault protection order and is
+knowingly violating such order; or
+(iv) Is on probation pursuant to a deferred judgment for a felony under
+
+Section 17:
+section 29-2292 or 29-4803; or
+(b) Possesses a firearm or brass or iron knuckles and he or she has been
+convicted within the past seven years of a misdemeanor crime of domestic
+violence.
+(2) The felony conviction may have been had in any court in the United
+States, the several states, territories, or possessions, or the District of
+Columbia.
+(3)(a) Possession of a deadly weapon which is not a firearm by a
+prohibited person is a Class III felony.
+(b) Possession of a deadly weapon which is a firearm by a prohibited
+person is a Class ID felony for a first offense and a Class IB felony for a
+second or subsequent offense.
+(4) Subdivision (1)(a)(i) of this section shall not prohibit:
+(a) Possession of archery equipment for lawful purposes; or
+(b) If in possession of a recreational license, possession of a knife for
+purposes of butchering, dressing, or otherwise processing or harvesting game,
+fish, or furs.
+(5)(a) For purposes of this section, misdemeanor crime of domestic
+violence means a crime that:
+(i) Is classified as a misdemeanor under the laws of the United States or
+the District of Columbia or the laws of any state, territory, possession, or
+tribe;
+(ii) Has, as an element, the use or attempted use of physical force or the
+threatened use of a deadly weapon; and
+(iii) Is committed by another against his or her spouse, his or her former
+spouse, a person with whom he or she has a child in common whether or not they
+have been married or lived together at any time, or a person with whom he or
+she is or was involved in a dating relationship as defined in section 28-323.
+(b) For purposes of this section, misdemeanor crime of domestic violence
+also includes the following offenses, if committed by a person against his or
+her spouse, his or her former spouse, a person with whom he or she is or was
+involved in a dating relationship as defined in section 28-323, or a person
+with whom he or she has a child in common whether or not they have been married
+or lived together at any time:
+(i) Assault in the third degree under section 28-310;
+(ii) Stalking under subsection (1) of section 28-311.04;
+(iii) False imprisonment in the second degree under section 28-315;
+(iv) First offense domestic assault in the third degree under subsection
+(1) of section 28-323; or
+(v) Any attempt or conspiracy to commit any of such offenses.
+(c) A person shall not be considered to have been convicted of a
+misdemeanor crime of domestic violence unless:
+(i) The person was represented by counsel in the case or knowingly and
+intelligently waived the right to counsel in the case; and
+(ii) In the case of a prosecution for a misdemeanor crime of domestic
+violence for which a person was entitled to a jury trial in the jurisdiction in
+which the case was tried, either:
+(A) The case was tried to a jury; or
+(B) The person knowingly and intelligently waived the right to have the
+case tried to a jury.
+(6) In addition, for purposes of this section:
+(a) Archery equipment means:
+(i) A longbow, recurve bow, compound bow, or nonelectric crossbow that is
+drawn or cocked with human power and released by human power; and
+(ii) Target or hunting arrows, including arrows with broad, fixed, or
+removable heads or that contain multiple sharp cutting edges; and
+(b) Domestic violence protection order means a protection order issued
+pursuant to section 42-924;
+-11-
+LB80 LB80
+2025 2025
+(c) Harassment protection order means a protection order issued pursuant
+to section 28-311.09 or that meets or exceeds the criteria set forth in section
+28-311.10 regarding protection orders issued by a court in any other state or a
+territory, possession, or tribe;
+(b) (d) Recreational license means a state-issued license, certificate,
+registration, permit, tag, sticker, or other similar document or identifier
+evidencing permission to hunt, fish, or trap for furs in the State of
+Nebraska. ; and
+(e) Sexual assault protection order means a protection order issued
+pursuant to section 28-311.11 or that meets or exceeds the criteria set forth
+in section 28-311.12 regarding protection orders issued by a court in any other
+state or a territory, possession, or tribe.
+Sec. 36. Section 29-404.02, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+29-404.02 (1) Except as provided in section 19 of this act sections
+28-311.11 and 42-928, a peace officer may arrest a person without a warrant if
+the officer has reasonable cause to believe that such person has committed:
+(a) A felony;
+(b) A misdemeanor, and the officer has reasonable cause to believe that
+such person either (i) will not be apprehended unless immediately arrested,
+(ii) may cause injury to himself or herself or others or damage to property
+unless immediately arrested, (iii) may destroy or conceal evidence of the
+commission of such misdemeanor, or (iv) has committed a misdemeanor in the
+presence of the officer; or
+(c) One or more of the following acts to one or more household members,
+whether or not committed in the presence of the peace officer:
+(i) Attempting to cause or intentionally and knowingly causing bodily
+injury with or without a dangerous instrument;
+(ii) Placing, by physical menace, another in fear of imminent bodily
+injury; or
+(iii) Engaging in sexual contact or sexual penetration without consent as
+defined in section 28-318.
+(2) An individual arrested without a warrant under this section who
+remains in custody shall be brought before a court in the county where the
+arrest occurred for an appearance no later than seven days after such arrest.
+The appearance may be in person or conducted remotely by means of
+videoconferencing. The individual shall have the right to appear in person but
+must agree to waive the seven-day deadline if an in-person appearance within
+such time is not reasonably practicable.
+(3) For purposes of this section:
+(a) Household members includes spouses or former spouses, children,
+persons who are presently residing together or who have resided together in the
+past, persons who have a child in common whether or not they have been married
+or have lived together at any time, other persons related by consanguinity or
+affinity, and persons who are presently involved in a dating relationship with
+each other or who have been involved in a dating relationship with each other;
+and
+(b) Dating relationship means frequent, intimate associations primarily
+characterized by the expectation of affectional or sexual involvement, but does
+not include a casual relationship or an ordinary association between persons in
+a business or social context.
+Sec. 37. Section 29-422, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+29-422 It is hereby declared to be the policy of the State of Nebraska to
+issue citations in lieu of arrest or continued custody to the maximum extent
+consistent with the effective enforcement of the law and the protection of the
+public. In furtherance of that policy, except as provided in sections 19 and 20
+of this act 28-311.11, 42-928, and 42-929, any peace officer shall be
+authorized to issue a citation in lieu of arrest or continued custody for any
+offense which is a traffic infraction, any other infraction, or a misdemeanor
+and for any violation of a city or village ordinance. Such authorization shall
+be carried out in the manner specified in sections 29-422 to 29-429 and 60-684
+to 60-686.
+Sec. 38. Section 29-2292, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+29-2292 (1) Upon a finding of guilt for which a judgment of conviction may
+be rendered, a defendant may request the court defer the entry of judgment of
+conviction. Upon such request and after giving the prosecutor and defendant the
+opportunity to be heard, the court may defer the entry of a judgment of
+conviction and the imposition of a sentence and place the defendant on
+probation, upon conditions as the court may require under section 29-2262.
+(2) The court shall not defer judgment under this section if:
+(a) The offense is a violation of a domestic abuse protection order under
+
+Section 18:
+section 18 of this act section 42-924;
+(b) The victim of the offense is an intimate partner as defined in section
+28-323;
+(c) The offense is a violation of section 60-6,196 or 60-6,197 or a city
+or village ordinance enacted in conformance with section 60-6,196 or 60-6,197;
+or
+(d) The defendant is not eligible for probation.
+(3) Whenever a court considers a request to defer judgment, the court
+shall consider the factors set forth in section 29-2260 and any other
+information the court deems relevant.
+-12-
+LB80 LB80
+2025 2025
+(4) Except as otherwise provided in this section and sections 29-2293 and
+29-2294, the supervision of a defendant on probation pursuant to a deferred
+judgment shall be governed by the Nebraska Probation Administration Act and
+
+Section 19:
+sections 29-2270 to 29-2273.
+(5) After a hearing providing the prosecutor and defendant an opportunity
+to be heard and upon a finding that a defendant has violated a condition of his
+or her probation, the court may enter any order authorized by section 29-2268
+or pronounce judgment and impose such new sentence as might have been
+originally imposed for the offense for which the defendant was convicted.
+(6) Upon satisfactory completion of the conditions of probation and the
+payment or waiver of all administrative and programming fees assessed under
+
+Section 20:
+section 29-2293, the defendant or prosecutor may file a motion to withdraw any
+plea entered by the defendant and to dismiss the action without entry of
+judgment.
+(7) The provisions of this section apply to offenses committed on or after
+July 1, 2020. For purposes of this section, an offense shall be deemed to have
+been committed prior to July 1, 2020, if any element of the offense occurred
+prior to such date.
+Sec. 39. Section 42-901, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-901 Sections 42-901 to 42-930 42-931 shall be known and may be cited as
+the Protection from Domestic Abuse Act.
+Sec. 40. Section 42-903, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-903 For purposes of the Protection from Domestic Abuse Act, unless the
+context otherwise requires:
+(1) Abuse means the occurrence of one or more of the following acts
+between family or household members:
+(a) Attempting to cause or intentionally and knowingly causing bodily
+injury with or without a dangerous instrument;
+(b) Placing, by means of credible threat, another person in fear of bodily
+injury. For purposes of this subdivision, credible threat means a verbal or
+written threat, including a threat performed through the use of an electronic
+communication device, or a threat implied by a pattern of conduct or a
+combination of verbal, written, or electronically communicated statements and
+conduct that is made by a person with the apparent ability to carry out the
+threat so as to cause the person who is the target of the threat to reasonably
+fear for his or her safety or the safety of his or her family. It is not
+necessary to prove that the person making the threat had the intent to actually
+carry out the threat. The present incarceration of the person making the threat
+shall not prevent the threat from being deemed a credible threat under this
+
+Section 21:
+section; or
+(c) Engaging in sexual contact or sexual penetration without consent as
+defined in section 28-318;
+(2) Department means the Department of Health and Human Services;
+(3) Family or household members includes spouses or former spouses,
+children, persons who are presently residing together or who have resided
+together in the past, persons who have a child in common whether or not they
+have been married or have lived together at any time, other persons related by
+consanguinity or affinity, and persons who are presently involved in a dating
+relationship with each other or who have been involved in a dating relationship
+with each other. For purposes of this subdivision, dating relationship means
+frequent, intimate associations primarily characterized by the expectation of
+affectional or sexual involvement, but does not include a casual relationship
+or an ordinary association between persons in a business or social context; and
+(4) Household pet means any animal maintained for companionship or
+pleasure but does not include any animal kept primarily for commercial purposes
+or for consumption or any livestock animal as defined in section 54-902; and
+(4) (5) Law enforcement agency means the police department or town marshal
+in incorporated municipalities, the office of the sheriff in unincorporated
+areas, and the Nebraska State Patrol.
+Sec. 41. Section 42-905, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-905 The comprehensive support services shall include, but not be
+limited to:
+(1) Emergency services for victims of abuse and their families;
+(2) Support programs that meet specific needs of victims of abuse and
+their families;
+(3) Education, counseling, and supportive programs for the abuser;
+(4) Programs to aid in the prevention and elimination of domestic violence
+which shall include education and public awareness; and
+(5) Assistance in completing the standard petition and affidavit forms for
+persons who file a petition and affidavit for a domestic abuse protection order
+under the Protection Orders Act.
+Sec. 42. Section 42-927, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-927 All law enforcement agencies in the state shall provide officers
+employed by them with an education and training program designed to inform the
+officers of the problems of domestic abuse, procedures to deal with such
+problems, the Protection from Domestic Abuse Act, the Protection Orders Act,
+and the services and facilities available to abused family and household
+members.
+Sec. 43. Section 43-2,107, Reissue Revised Statutes of Nebraska, is
+-13-
+LB80 LB80
+2025 2025
+amended to read:
+43-2,107 On application of a party or on the court's own motion, the court
+may restrain or otherwise control the conduct of a person if a petition has
+been filed under the Nebraska Juvenile Code and the court finds that such
+conduct is or may be detrimental or harmful to the juvenile. Notice of the
+application or motion and an opportunity to be heard thereon shall be given to
+the person against whom such application or motion is directed, except that the
+court may enter a temporary order restraining or otherwise controlling the
+conduct of a person for the protection of a juvenile without prior notice if it
+appears to the court that it is necessary to issue such order forthwith. Such
+temporary order shall be effective not to exceed ten days and shall not be
+binding against any person unless he or she has received a copy of such order.
+Any individual who violates an order restraining or otherwise controlling his
+or her conduct under this section shall be guilty of a Class II misdemeanor and
+may be proceeded against as described in sections 19 and 20 of this act 42-928
+and 42-929.
+Sec. 44. Section 43-1609, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+43-1609 (1) Child support referees shall be appointed when necessary by
+the district courts, separate juvenile courts, and county courts to meet the
+requirements of federal law relating to expediting the establishment,
+modification, enforcement, and collection of child, spousal, or medical support
+and domestic abuse protection orders issued under the Protection Orders Act
+
+Section 22:
+section 42-924.
+(2) Child support referees shall be appointed by order of the district
+court, separate juvenile court, or county court. The Supreme Court shall
+appoint child support referees to serve more than one judicial district if the
+Supreme Court determines it is necessary.
+(3) To be qualified for appointment as a child support referee, a person
+shall be an attorney in good standing admitted to the practice of law in the
+State of Nebraska and shall meet any other requirements imposed by the Supreme
+Court. A child support referee shall be sworn or affirmed to well and
+faithfully hear and examine the cause and to make a just and true report
+according to the best of his or her understanding. The oath or affirmation may
+be administered by a district, county, or separate juvenile court judge. A
+child support referee may be removed at any time by the appointing court.
+(4) The Supreme Court may contract with an attorney to perform the duties
+of a referee for a specific case or for a specific amount of time or may direct
+a judge of the county court to perform such duties.
+Sec. 45. Section 43-1611, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+43-1611 A district court, separate juvenile court, or county court may by
+rule or order refer or assign any and all matters regarding the establishment,
+modification, enforcement, and collection of child, spousal, or medical
+support, paternity matters, and domestic abuse protection orders issued under
+the Protection Orders Act section 42-924 to a child support referee for
+findings and recommendations.
+Sec. 46. Section 60-3209, Reissue Revised Statutes of Nebraska, is amended
+to read:
+60-3209 (1) Captured plate data held by a governmental entity is not
+considered a public record for purposes of sections 84-712 to 84-712.09 and
+shall only be disclosed to the person to whom the vehicle is registered or with
+the prior written consent of the person to whom the vehicle is registered or
+pursuant to a disclosure order under subsection (2) of section 60-3205 or as
+the result of a match pursuant to subsection (2) of section 60-3203.
+(2) Upon the presentation to a governmental entity of a valid, outstanding
+protection order pursuant to the Protection Orders from Domestic Abuse Act or ,
+the Uniform Interstate Enforcement of Domestic Violence Protection Orders Act ,
+or section 28-311.09 or 28-311.10 protecting the driver of a vehicle jointly
+registered with or registered solely in the name of the individual against whom
+the order was issued, captured plate data may not be disclosed except pursuant
+to a disclosure order under subsection (2) of section 60-3205 or as the result
+of a match pursuant to subsection (2) of section 60-3203.
+Sec. 47. Section 76-1401, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+76-1401 Sections 76-1401 to 76-1449 and sections 48 to 50 of this act
+shall be known and may be cited as the Uniform Residential Landlord and Tenant
+Act.
+Sec. 48. (1) When an act of domestic violence is perpetrated against a
+tenant or household member by another cotenant or occupant of the same dwelling
+unit, the tenant may have the perpetrator removed from the rental agreement
+and, if needed, excluded from the premises if the tenant or household member
+has:
+(a) Obtained a protective order, restraining order, or other similar
+relief which applies to the perpetrator of the act of domestic violence; or
+(b) Obtained certification confirming domestic violence as set forth in
+subdivision (5)(a)(iii) of section 76-1431.
+(2) To have the perpetrator removed from a rental agreement under this
+
+Section 23:
+section, the tenant shall:
+(a) Provide the landlord a copy of the documentation described in
+subsection (1) of this section; and
+(b) Provide the landlord a written notice containing:
+(i) The full legal name of the cotenant or occupant who is the perpetrator
+-14-
+LB80 LB80
+2025 2025
+of the act of domestic violence;
+(ii) The date on which the tenant wishes the notice of termination to be
+served upon the perpetrator. Such date shall be at least five days after the
+date the tenant provides the documentation and written notice to the landlord
+and no more than thirty days after such date; and
+(iii) The tenant's preferred method by which to receive future
+communications from the landlord.
+(3) When a tenant has provided the landlord with documentation and written
+notice, as described in subsections (1) and (2) of this section, the landlord
+shall proceed under subsection (4) of section 76-1431 against only the cotenant
+or occupant who is the perpetrator of the act of domestic violence. The
+landlord shall serve the five-day notice provided for in subsection (4) of
+
+Section 24:
+section 76-1431 on such perpetrator on the date provided by the requesting
+tenant under subdivision (2)(b)(ii) of this section.
+(4)(a) If the perpetrator vacates the premises within the five-day notice
+period described in subsection (4) of section 76-1431, the landlord shall:
+(i) Install a new lock to the dwelling unit, pursuant to section 50 of
+this act; and
+(ii) Timely notify the requesting tenant by the method provided under
+subdivision (2)(b)(iii) of this section to inform the requesting tenant how the
+tenant can obtain access to the re-keyed unit.
+(b) If the perpetrator fails to vacate the premises within the five-day
+notice period described in subsection (4) of section 76-1431, the landlord
+shall:
+(i) File suit for recovery of possession of the premises against the
+perpetrator only; and
+(ii) Timely notify the requesting tenant by the method provided under
+subsection (2)(b)(iii) of this section to inform them of the hearing date set
+in the suit.
+(c) If judgment is entered in favor of the landlord in a suit brought
+pursuant to subsection (4) of section 76-1431, the landlord shall:
+(i) Be entitled to recover court costs and reasonable attorney's fees from
+the perpetrator;
+(ii) Install a new lock to the dwelling unit, pursuant to section 50 of
+this act;
+(iii) Timely notify the requesting tenant by the method provided under
+subdivision (2)(b)(iii) of this section to inform the requesting tenant of the
+reasonable method by which the tenant can obtain access to the re-keyed unit;
+and
+(iv) Refuse to provide the perpetrator with access to the dwelling unit to
+reclaim property unless a law enforcement officer escorts the perpetrator into
+and out of the dwelling.
+(5) If two individuals have requested each other to be removed from the
+rental agreement under this section and each provides qualifying documentation
+under subsection (1) of this section:
+(a) The landlord is only required to proceed against an individual who is,
+by court order, specifically excluded from the dwelling unit; and
+(b) If neither individual is specifically excluded from the dwelling unit
+by court order, the landlord is not required to proceed under this section.
+(6) A landlord is not liable for any actions taken in good faith pursuant
+to this section.
+Sec. 49. (1) When an act of domestic violence is perpetrated against a
+tenant or household member by someone who is not a cotenant or occupant of the
+same dwelling unit, the tenant may require the landlord to change the lock to
+the tenant's dwelling unit pursuant to section 50 of this act if the tenant or
+household member has:
+(a) Obtained a protective order, restraining order, or other similar
+relief which applies to the perpetrator of the act of domestic violence; or
+(b) Obtained certification confirming domestic violence as set forth in
+subdivision (5)(a)(iii) of section 76-1431.
+(2) To have a lock changed under this section, the tenant shall:
+(a) Provide the landlord a copy of the documentation described in
+subsection (1) of this section; and
+(b) Provide the landlord a written notice containing the request that the
+locks be changed immediately.
+(3) The landlord shall change the locks to the tenant's dwelling unit as
+provided in section 50 of this act within twenty-four hours after receiving the
+tenant's written request.
+Sec. 50. (1) A landlord required to change locks under section 48 or 49
+of this act shall do so by either:
+(a) Replacing the entire locking mechanism with a locking mechanism of
+equal or better quality than the lock being replaced; or
+(b) If the lock is in good working condition:
+(i) Rekeying the lock; or
+(ii) In the case of a keyless electronic lock, resetting the entry code.
+(2)(a) If a landlord fails to change the locks as required by this
+
+Section 25:
+section, the tenant:
+(i) May change the locks in a workmanlike manner with locks of similar or
+better quality than the original lock;
+(ii) Shall timely notify the landlord that the locks have been changed;
+and
+(iii) Shall, by a reasonable method agreed upon by the landlord and
+tenant, provide the landlord with a new key or the entry code by which to
+-15-
+LB80 LB80
+2025 2025
+access the dwelling unit.
+(b) This subsection applies notwithstanding any provision in the rental
+agreement to the contrary.
+(3) A landlord who installs a new lock pursuant to this section may retain
+a copy of the key or entry code that opens the new lock.
+(4) The landlord may require the tenant to pay for the actual and
+reasonable cost incurred by the landlord in changing the locks under this
+
+Section 26:
+section.
+Sec. 51. Original sections 28-311.02, 28-311.05, 42-901, 42-905,
+42-924.01, 42-924.03, 42-927, 42-928, 42-929, 42-931, 43-2,107, and 60-3209,
+Reissue Revised Statutes of Nebraska, and sections 25-2740, 28-311.04,
+28-311.12, 28-358.01, 28-710, 28-713.01, 28-1205, 28-1206, 29-404.02, 29-422,
+29-2292, 42-903, 42-924, 42-924.02, 42-925, 42-926, 43-1609, 43-1611, and
+76-1401, Revised Statutes Cumulative Supplement, 2024, are repealed.
+Sec. 52. The following sections are outright repealed: Section 28-311.10,
+Reissue Revised Statutes of Nebraska, and sections 28-311.09 and 28-311.11,
+Revised Statutes Cumulative Supplement, 2024.
+-16-
+[DELETED: yH 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 2 4 4 4 2 t a t P O A t e t p o p o t d t t p p f v a h p o t p f o r o c a o n t a m a p t p p a d t l t a o d v a t o h t t p t h p t r t s a t o r s 2 R S o N a s 2 a 2 H p m a a m f c o C a t s a u s 2 o 2 ( ( A v o d a m f a p a p s s t e a d o a d o a t a d a i t m r a m ( E t r f i a r u t ( E t r f t c o a p n t e n d I t o g s t ( D t t p h s p o a k a h p o p l k o h b t0L52]
+[DELETED:  ( O s o r d n t p f t a w o t p a a d f o h ( I s p o a h p i o b a c t s ( ( o t s s p b f t d o t d a p o o u h p T p s n p t s o c a t p m b h b t c c o t c a p i s 2 A p f a p a p o S p a a f r s b a t w f d b t e o t p s t t h b n m c i r I t i a c b s 4 t 4 a a 4  ( A v w h b h m f a p a s s t e a d o a d o a T c o o c w t T s d n a t c w o d l a f a s a p o a p i t c t s a o i t m r a T c o o c w t0L52]
+[DELETED:  o t d c a t p m b h b t c A p f a p o m n b w e u a p o a a p f a o s t o T c m s f t s o o i m 8  ( I a d a p o o s a d a t f o t p a t c s c o t a t b g t t r s t t I a h p o i n i o r e p t t r m s c w s o s n b A c m t a p f a d a h o a p o a a p f a o s t o r e p t t r i i r a f t F a d a p o t p w b i F a h p o o a s a p a p o e p t t r i t s f i t a ( d n s t t p w s a s h t b s u t r I t o i e a a s h T p a I a o u s 4 i n i e p t c0L52]
+[DELETED:  o s n b i t c s i a f p i u s 4 t a r f f a p i s ( o s 4 u d o b t c p t s d I t o g t s c s n e t n o d s b t u t r s c w t o s n r i p f a h p o o a s a p i i a f t f i t p a a e a a s h t s o p o i m T c m s f t s o o i m u t e p W i t p o s A p o m b r o t b o t p s t t h b n m c i r o o y t c o t f c d f t F a r d a p o i t c g 1  D a h o a p o t p a 1  T c m b r o o r o a a m a d a p o t a r f f a ( ( U t i o a t e p p d o l l e a a t l s U r o t o a i f s t s f s t p o u t r a f i0L52]
+[DELETED:  I a p o i d o m b t c t e o t o o d o m I t r h A d r t b p u t s i n b t c a s h t t p o w b a r i e a f s o n d i ( o t s i n r f p o p W p b t p t c s m c v i i i s s n p o e e S a s m t c t n c u s 2 t b s u t 1 S 4 R R S o N i A t f h a c m a c a w t 1 S 4 R R S o N i t r a d t t r i e t  p o a v f d a p o p t s 2 o t a o a v f s p o r p t s 2 o t a  T t o h p c t b t t p h s 4 , o a v o a v f p o A a p o p p b a p o o u 4 o 4 a a f a o e a p f p i p t s 4 , o a p p a p f c p i u s s o t0L52]
+[DELETED:  c m b T c s i a o d t s p h n c w a p p b s o t a ( T c o t d c s m a p a a f f a t o p o t d o a d o s i T a f s n b r a s o b a f t c u T a a f p f i t s a w a t s f t a c o t d c i t s T 2  W p b t p t c s m n v i i i s A v f p o r t d o f i b a t o a s t o t s b f f a c b t c o t s a e ( A v f h o s a p T h o s a p o f a h n b r a b t p a t u ( T r f a c o c p o o w p s s a a s a o a ( t i c m s f o o s a o a b t p a A p o m r u a c o a p v f D r m m p u t P ( d s a c a s o a c u s 4 t 4 o p t0L52]
+[DELETED:  E a p i s ( o t s i d b a c c j o b a d c j I t p t c b h b a c c j t c c j p e i h b a c c j a a o o o a d c j T t i a d r h b a c c j s b p a p i I a t t j p f p o c i t b d h j o s p o c 2 S 2 R R S o N i s o w w p v f b w i t t o i b i t p l a w w n p c F p o s 2 t 2 , 2 a H m t e i a k a w c o c a a s p w s t t o o o s t p o t c o o F o h m m a s o f s o t t v o p r t t v b c o o t s d r m f i p c b t e o a o S c c v m a g p  s s s t s 2 S c o v s 2 i g o a C  A p c o v s 2 i g o  T p h a p c u s s o  P O A o a s 2 2 4 o o i v o a v f h p o p t s 2 o 2 o t a 2 o a v s a p o r p t s 2 S 2 R R S o N i ( I m i a ( c f t0L52]
+[DELETED:  s a c f p o p c w v d o p c w f f v o I d n i ( m i p b  p c f t v a o s a , ( O A p t s 2 a v f p o r p t s 2 o 2 o t i p t s 4 a o e a p f p i p t s 4 , o a v f o r p t s 4 o ( a A r m a c a o ( c n a ( t p o o r f n s a A r i a a t t r a o n h o a t s o t r s n b P i a s t b s e t s o a m a d i s 2 o b a P i a s t b a t v a d i C a c m a c o t ( a a t o f t t e t s 2 a 2 a ( i a m i g C a m a a o c s r o a o n u a e a v t a d n i a f a t w t c a t a t s o c a t r o f a o I m f g b t d u a a v t o b l e r t t w c a o n h o a w c o w w a c i r p t a t l ( N c m a o c o b t0L52]
+[DELETED:  d c c r c a a d i 7 o c c f o i a t n l h a t t c i u o c b t d a s i n f t t s o a t s m k o t p a o t d i b n l t t s p C a c a c o l e b t S D o E o w w s a p o t d p t s 2 w r a f U r o a r o c a o n a a t h c t f o t i v a d n t a m i w w i h  I t s o a r o c a o n a  ( U c o t i p t s I s o a o c a o n t T s o t r o c a o n s b g a f w t n d i s ( o t a b s t t a m i a p i I t s o t r w b e i t c0L52]
+[DELETED:  n t r t d t a o e i f t r o t r t s r f t I t s o t r o c a o n i a m I t s o t r w n b e i t c ( A p w u a f a k b o i o a o d w t c a f w m b i a c o t s c t o o u o a d A p w p a f a k b o i P o a d w o t a f d t P o a d w w i a f d t A v o t s s b t a a s a o f t u c b c a a s P o a d w m b p t e D m m a m v o a o t ( A o a u c i t t d u s ( C m u s 2 i s v f a i i t c o a m c o K v o a d a p o u ( A a u s 2 t c a o0L52]
+[DELETED:  M c o d v h t s m a i w o a d d d i p t o a t c o a f o c t a t p o a f a k b o i k a a t c o a f r o w s I t s o a c a v v i d w t p s y o a m c o d T f c m h b h i a c i t U t s s t o p o t D o P o a d w w i n a f b  P o a d w w i a f b a p F p o t s m c o d i a d r a d i s 2 o a p A p s n b c t h b c o  T p w r b c i t c o k a I t c o a p f a m c o d T o h a i a w b f o D v p o m a p o i0L52]
+[DELETED:  ( R l m a s l c p t s o o s d o i p t h f o t f f i t S o S a p o m a p o i ( E a p i s 1 o t a s p e ( w n b a u i a i a ( m d o c e o t o s m o ( h c a m i t A t c o i a k c b P b p m a i f o i b A i a w a w u t s w i c s b b b a c i t c w t a m b i p o c r b m o H m i s o f s c D r m f i a p t a 2 4 a 4 a p o s b t b h t c m d t e o a j o a t i o a s a p t d o W a c c a r t d j t c c t f s f i s 2 a a o0L52]
+[DELETED:  t s o a d o p p t a d s b g b t N P A A a p j a i s n s a m h b U s c o t c o p a t o w o a a a p f a u e b t d a t d t a w e o A m t o o o o m o t f a A t c o i a k c b F p o t s c t m a v o d o a t i b a p o c o  f h o h s o t s o h o h f I i n n p t t f b d a c t u t E i s c o s p w c a F o h m i s o f s p w a p r t o w h r H p m a a m f c o i m t o o t s i u T c s s s i b n b S p t m s n o v o a a A l e a i t s s p o o t p o d a p t d w s t s a f a t a f a h 4 S 4 R R S o N i0L52]
+[DELETED:  f u t N J C a t c f t s i o m b d o h t t j N o t m e a t o r o o c t o s b e n t e t d a s n b ( C s r s b a w n b o f l r t e t e d a p o i u t P O A C s r s b a b o o t d s j c o c c T S C s A c s r s b s o a t w a h a e t c a t m a j a t r a b a d c o s j c j  e a c o c s o m P O A s 4 t a c s r f ( C p d h b a g e i n a p r f p o s 8 t 8 a S 7 t 7 a s 4 t 5 o t a t t m h t p r f t r a O a p o r o o o s O c c d v a s f i T h t p r f a r a u t P t l a c o t d d i0L52]
+[DELETED:  T t p m b w t r f o w i t p o t a o d v T s s t f n p f i s ( o 7 o s p o t d p b t r I a n l t t d u p t s 5 o T n t r t b t m p u p d i s ( o s 7 t l F s f r o p o t p a t T n t r t b t m p u I j i e i f o t l i a s b T n t r t b t m p u O a p o r o o o s O c c d v a s f i P t l a c o t d d i R t e l m w a l m o I a l f t c t l a r b t S b a r m a u b t l a p t l w a n k o t e c b w t0L52]
+[DELETED:  T s a n a p i t r T l m r t t t p f t a a c i b t l i c t l u t 5  O s 2 2 4 4 4 4 4 4 4 4 a 6 R S o N a s 2 2 4 4 4 4 4 4 4 a R S o N a s 2 a 20L52]
+
+
+================================================================================
+
+Raw Text:
+LB80 LB80
+2025 2025
+LEGISLATIVE BILL 80
+Approved by the Governor May 20, 2025
+Introduced by Hallstrom, 1; Bosn, 25; DeKay, 40; Clements, 2; Ballard, 21.
+A BILL FOR AN ACT relating to protection orders; to amend sections 28-311.02,
+28-311.05, 42-901, 42-905, 42-924.01, 42-924.03, 42-927, 42-928, 42-929,
+42-931, 43-2,107, and 60-3209, Reissue Revised Statutes of Nebraska, and
+sections 25-2740, 28-311.04, 28-311.12, 28-358.01, 28-710, 28-713.01,
+28-1205, 28-1206, 29-404.02, 29-422, 29-2292, 42-903, 42-924, 42-924.02,
+42-925, 42-926, 43-1609, 43-1611, and 76-1401, Revised Statutes Cumulative
+Supplement, 2024; to adopt the Protection Orders Act; to extend the
+initial period of protection orders; to define terms; to provide
+penalties; to provide powers and duties relating to such orders; to change
+a penalty for violating a harassment protection order; to provide for
+notification of reports of child abuse or neglect to a military
+installation as prescribed; to provide powers and duties to landlords
+relating to acts of domestic violence against tenants or household
+members; to transfer provisions; to harmonize provisions; to repeal the
+original sections; and to outright repeal section 28-311.10, Reissue
+Revised Statutes of Nebraska, and sections 28-311.09 and 28-311.11,
+Revised Statutes Cumulative Supplement, 2024.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Sections 1 to 25 of this act shall be known and may be cited
+as the Protection Orders Act.
+Sec. 2. For purposes of the Protection Orders Act:
+(1) Abuse has the same meaning as in section 42-903;
+(2) Course of conduct has the same meaning as in section 28-311.02;
+(3) Family or household members has the same meaning as in section 42-903;
+(4) Harass has the same meaning as in section 28-311.02;
+(5) Household pet means any animal maintained for companionship or
+pleasure but does not include any animal kept primarily for commercial purposes
+or for consumption or any livestock animal as defined in section 54-902;
+(6) Law enforcement agency means the police department or town marshal in
+incorporated municipalities, the office of the sheriff in unincorporated areas,
+and the Nebraska State Patrol; and
+(7) Sexual assault offense means:
+(a) Conduct amounting to sexual assault under section 28-319 or 28-320,
+sexual abuse by a school employee under section 28-316.01, sexual assault of a
+child under section 28-319.01 or 28-320.01, a violation of section 28-311.08,
+or an attempt to commit any of such offenses; or
+(b) Subjecting or attempting to subject another person to sexual contact
+or sexual penetration without such person's consent, as such terms are defined
+in section 28-318.
+Sec. 3. Section 42-924, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-924 (1) (1)(a) Any victim of domestic abuse may file a petition and
+affidavit for a domestic abuse protection order as provided in this section.
+The petition shall state the events and dates or approximate dates of acts
+constituting the alleged domestic abuse, including the most recent and most
+severe incident or incidents.
+(2) Upon the filing of such a petition and affidavit in support thereof,
+the court may issue a domestic abuse protection order, without bond, granting
+the following relief:
+(a) (i) Enjoining the respondent from imposing any restraint upon the
+petitioner or upon the liberty of the petitioner;
+(b) (ii) Enjoining the respondent from threatening, assaulting, molesting,
+attacking, or otherwise disturbing the peace of the petitioner;
+(c) (iii) Enjoining the respondent from telephoning, contacting, or
+otherwise communicating with the petitioner;
+(d) (iv) Removing and excluding the respondent from the residence of the
+petitioner, regardless of the ownership of the residence;
+(e) (v) Ordering the respondent to stay away from any place specified by
+the court;
+(f) (vi) Awarding the petitioner temporary custody of any minor children
+for a period not to exceed ninety days. If the order grants such temporary
+custody, the order shall specify the number of days of custody granted unless
+otherwise modified by the court;
+(g) (vii) Enjoining the respondent from possessing or purchasing a firearm
+as defined in section 28-1201;
+(h) (viii) Directing that the petitioner have sole possession of any
+household pet owned, possessed, leased, kept, or held by the petitioner, the
+respondent, or any family or household member residing in the household of the
+petitioner or respondent;
+(i) (ix) Enjoining the respondent from coming into contact with, harming,
+or killing any household pet owned, possessed, leased, kept, or held by the
+petitioner, the respondent, or any family or household member of the petitioner
+-1-
+
+LB80 LB80
+2025 2025
+or respondent; or
+(j) (x) Ordering such other relief deemed necessary to provide for the
+safety and welfare of the petitioner and any designated family or household
+member.
+(3) (b) If sole possession of a household pet is ordered by a court
+pursuant to subdivision (2)(h) (1)(a)(viii) of this section, such possession
+shall be for the duration of the domestic abuse protection order or until
+further order of the court. The grant of sole possession of a household pet
+under such subdivision is not intended to permanently determine ownership of
+such household pet. The petitioner shall not permanently transfer, sell, or
+dispose of a household pet placed in the petitioner's possession without prior
+court approval, except that court approval shall not be required in cases where
+humane euthanasia of a seriously ill or injured household pet is recommended by
+a licensed veterinarian.
+(c) The petition for a protection order shall state the events and dates
+or approximate dates of acts constituting the alleged domestic abuse, including
+the most recent and most severe incident or incidents.
+(d) The protection order shall specify to whom relief under this section
+was granted.
+(2) Petitions for protection orders shall be filed with the clerk of the
+district court, and the proceeding may be heard by the county court or the
+district court as provided in section 25-2740. A petition for a protection
+order may not be withdrawn except upon order of the court.
+(3)(a) A protection order shall specify that it is effective for a period
+of one year and, if the order grants temporary custody, the number of days of
+custody granted to the petitioner unless otherwise modified by the court.
+(b)(i) Any victim of domestic abuse may file a petition and affidavit to
+renew a protection order. Such petition and affidavit for renewal shall be
+filed any time within forty-five days before the expiration of the previous
+protection order, including the date the order expires.
+(ii) A protection order may be renewed on the basis of the petitioner's
+affidavit stating that there has been no material change in relevant
+circumstances since entry of the order and stating the reason for the requested
+renewal if:
+(A) The petitioner seeks no modification of the order; and
+(B)(I) The respondent has been properly served with notice of the petition
+for renewal and notice of hearing and fails to appear at the hearing; or
+(II) The respondent indicates that he or she does not contest the renewal.
+(iii) Such renewed order shall specify that it is effective for a period
+of one year to commence on the first calendar day following the expiration of
+the previous order or on the calendar day the court grants the renewal if such
+day is subsequent to the first calendar day after expiration of the previous
+order and, if the court grants temporary custody, the number of days of custody
+granted to the petitioner unless otherwise modified by the court.
+(4) Any person, except the petitioner, who knowingly violates a protection
+order issued pursuant to this section or section 42-931 after service or notice
+as described in subsection (2) of section 42-926 shall be guilty of a Class I
+misdemeanor, except that any person convicted of violating such order who has a
+prior conviction for violating a protection order shall be guilty of a Class IV
+felony.
+(5) If there is any conflict between sections 42-924 to 42-926 and any
+other provision of law, sections 42-924 to 42-926 shall govern.
+Sec. 4. (1) Any victim who has been harassed may file a petition and
+affidavit for a harassment protection order as provided in this section. The
+petition shall state the events and dates or approximate dates of acts
+constituting the alleged harassment, including the most recent and most severe
+incident or incidents.
+(2) Upon the filing of such a petition and affidavit, the court may issue
+a harassment protection order, without bond, enjoining the respondent from:
+(a) Imposing any restraint upon the person or liberty of the petitioner;
+(b) Harassing, threatening, assaulting, molesting, attacking, or otherwise
+disturbing the peace of the petitioner; or
+(c) Telephoning, contacting, or otherwise communicating with the
+petitioner.
+(3) The court may order such other relief as the court deems necessary to
+provide for the safety and welfare of the petitioner.
+(4) This section does not apply to conduct which occurs during labor
+picketing.
+Sec. 5. (1) Any victim of a sexual assault offense may file a petition
+and affidavit for a sexual assault protection order as provided in this
+section. The petition shall state the events and dates or approximate dates of
+acts constituting the sexual assault offense, including the most recent and
+most severe incident or incidents.
+(2) Upon the filing of such a petition and affidavit, the court may issue
+a sexual assault protection order, without bond, enjoining the respondent from:
+(a) Imposing any restraint upon the person or liberty of the petitioner;
+(b) Harassing, threatening, assaulting, molesting, attacking, or otherwise
+disturbing the peace of the petitioner; or
+(c) Telephoning, contacting, or otherwise communicating with the
+petitioner.
+(3) The court may order such other relief as the court deems necessary to
+provide for the safety and welfare of the petitioner.
+Sec. 6. (1) A petition for a protection order shall be filed with the
+-2-
+
+LB80 LB80
+2025 2025
+clerk of the district court, and the proceeding may be heard by the county
+court or the district court as provided in section 25-2740.
+(2) A petition for a protection order may not be withdrawn except upon
+order of the court.
+Sec. 7. A court may treat a petition for a domestic abuse, harassment, or
+sexual assault protection order as a petition for another of such types of
+protection order if it appears from the facts in the petition, affidavit, and
+evidence presented that such other type of protection order is more appropriate
+and if:
+(1) The court makes specific findings that such other order is more
+appropriate; or
+(2) The petitioner has requested the court to so treat the petition.
+Sec. 8. (1)(a) If a domestic abuse protection order or sexual assault
+protection order is not issued or renewed ex parte under section 9 of this act,
+the court shall immediately schedule an evidentiary hearing to be held within
+fourteen days after the filing of the petition, and the court shall cause
+notice of the application to be given to the respondent stating that the
+respondent may show cause why such order should not be entered.
+(b) If a harassment protection order is not issued or renewed ex parte
+under section 9 of this act, the court may schedule an evidentiary hearing to
+be held within fourteen days after the filing of the petition, and in such case
+the court shall cause notice of the application to be given to the respondent
+stating that the respondent may show cause why such order should not be
+entered.
+(2) Any notice provided to the respondent shall include notification that:
+(a) A court may treat a petition for a domestic abuse, harassment, or
+sexual assault protection order as a petition for another of such types of
+order if it appears from the facts that such other protection order is more
+appropriate; and
+(b) The respondent shall have an opportunity to show cause as to why such
+protection order should not be entered.
+Sec. 9. Section 42-925, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-925 (1) A protection An order issued under section 42-924 may be issued
+or renewed ex parte to the respondent if it reasonably appears from the
+specific facts included in the affidavit that:
+(a) For a domestic abuse protection order, the petitioner will be in
+immediate danger of abuse before the matter can be heard on notice; or .
+(b) For a harassment protection order or a sexual assault protection
+order, irreparable harm, loss, or damage will result before the matter can be
+heard on notice.
+(2) For a harassment protection order, the court may decline to issue or
+renew a protection order ex parte to the respondent if the specific facts
+included in the affidavit (a) do not show that the petitioner will suffer
+irreparable harm, loss, or damage or (b) show that, for any compelling reason,
+an ex parte order should not be issued or renewed. If the court declines to
+issue or renew an ex parte harassment protection order, the court may dismiss
+the petition without prejudice or schedule an evidentiary hearing as provided
+in section 8 of this act.
+(3) If a protection an order is issued or renewed ex parte, such order is
+a temporary order and the court shall forthwith cause notice of the petition
+and order to be given to the respondent. The court shall also cause a form to
+request a show-cause hearing to be served upon the respondent. If the
+respondent wishes to appear and show cause why the order should not remain in
+effect, he or she shall affix his or her current address, telephone number, and
+signature to the form and return it to the clerk of the district court within
+ten business days after service upon him or her.
+(4) Upon receipt of a timely request for a show-cause hearing or upon ,
+the request of the petitioner, or upon the court's own motion, the court shall
+immediately schedule a show-cause hearing to be held within thirty days after
+the receipt of such the request for a show-cause hearing and shall notify the
+petitioner and respondent of the hearing date. The court may also schedule such
+hearing on its own motion. The petition and affidavit shall be deemed to have
+been offered into evidence at any show-cause hearing. The petition and
+affidavit shall be admitted into evidence unless specifically excluded by the
+court. If the respondent appears at the hearing and shows cause why such order
+should not remain in effect, the court shall rescind the temporary order.
+(5) (2) A temporary ex parte order shall be affirmed and deemed the final
+protection order and service of the temporary ex parte order shall be notice of
+the final protection order if the respondent has been properly served with the
+temporary ex parte order and:
+(a) The respondent fails to request a show cause show-cause hearing within
+ten business days after service upon him or her and no hearing was requested by
+the petitioner or upon the court's own motion;
+(b) The respondent has been properly served with notice of any show cause
+hearing requested by the respondent, the petitioner, or upon the court's own
+motion and fails to appear at such hearing; or
+(c) The respondent has been properly served with notice of any show cause
+hearing requested by the respondent, the petitioner, or upon the court's own
+motion and the protection order was not dismissed at the hearing.
+(3) If an order under section 42-924 is not issued ex parte, the court
+shall immediately schedule an evidentiary hearing to be held within fourteen
+days after the filing of the petition, and the court shall cause notice of the
+-3-
+
+LB80 LB80
+2025 2025
+hearing to be given to the petitioner and the respondent. Any notice provided
+to the respondent shall include notification that a court may treat a petition
+for a domestic abuse protection order as a petition for a harassment protection
+order or a sexual assault protection order if it appears from the facts that
+such other protection order is more appropriate and that the respondent shall
+have an opportunity to show cause as to why such protection order should not be
+entered. If the respondent does not appear at the hearing and show cause why
+such order should not be issued, the court shall issue a final protection
+order.
+(4) The court may by rule or order refer or assign all matters regarding
+orders issued under section 42-924 to a referee for findings and
+recommendations.
+(5) An order issued under section 42-924 shall remain in effect for the
+period provided in subsection (3) of section 42-924, unless dismissed or
+modified by the court prior to such date. If the order grants temporary
+custody, such custody shall not exceed the number of days specified by the
+court unless the respondent shows cause why the order should not remain in
+effect.
+(6) The court shall also cause the notice created under section 29-2291 to
+be served upon the respondent notifying the respondent that it may be unlawful
+under federal law for a person who is subject to a protection order to possess
+or receive any firearm or ammunition.
+(7) A court may treat a petition for a domestic abuse protection order as
+a petition for a harassment protection order or a sexual assault protection
+order if it appears from the facts in the petition, affidavit, and evidence
+presented at a show-cause hearing that such other protection order is more
+appropriate and if:
+(a) The court makes specific findings that such other order is more
+appropriate; or
+(b) The petitioner has requested the court to so treat the petition.
+Sec. 10. (1) A protection order may be issued for an initial period of at
+least one year and no more than two years, unless dismissed or modified by the
+court. The length of the initial period shall be set at the court's discretion
+based upon the evidence presented. When issued, the protection order shall
+specify its effective initial period.
+(2) Any protection order shall specify who is protected by the order and
+who is subject to restrictions under the order.
+Sec. 11. (1) A petitioner may file a petition and affidavit to renew a
+protection order. A petition for renewal may be filed ex parte as provided in
+section 9 of this act. Such petition and affidavit for renewal shall be filed
+any time within forty-five days before the expiration of the protection order,
+including the date the order expires.
+(2) A protection order may be renewed on the basis of the petitioner's
+affidavit stating that there has been no material change in relevant
+circumstances since entry of the order and stating the reason for the requested
+renewal if:
+(a) The petitioner seeks no modification of the order; and
+(b)(i) The respondent has been properly served with notice of the petition
+for renewal and notice of hearing and fails to appear at the hearing; or
+(ii) The respondent indicates that he or she does not contest the renewal.
+(3) A renewed protection order shall specify that it is effective for a
+period of one year to commence on the first calendar day following the
+expiration of the previous order or on the calendar day the court grants the
+renewal if such day is subsequent to the first calendar day after expiration of
+the previous order.
+(4) For a renewed domestic abuse protection order, if the court grants
+temporary custody of minor children, the renewed order shall specify the number
+of days of custody granted to the petitioner unless otherwise modified by the
+court.
+Sec. 12. During any hearing on a protection order, the petition and
+affidavit shall be deemed to have been offered into evidence, and they shall be
+admitted into evidence unless specifically excluded by the court.
+Sec. 13. The court may by rule or order refer or assign all matters
+regarding a domestic abuse protection order to a referee for findings and
+recommendations.
+Sec. 14. Section 42-926, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-926 (1)(a) (1) Upon the issuance of a temporary ex parte protection
+order or final protection order under section 42-925, the clerk of the court
+shall forthwith provide, free of charge:
+(i) The the petitioner , without charge, with two certified copies of such
+order;
+(ii) The . The clerk of the court shall also forthwith provide the local
+police department or local law enforcement agency and the local sheriff's
+office , without charge, with one copy each of such order and one copy each of
+the sheriff's return thereon; and .
+(iii) A The clerk of the court shall also forthwith provide a copy of the
+protection order to the sheriff's office in the county where the respondent may
+be personally served, together with instructions for service.
+(b) Upon receipt of the order and instructions for service, the such
+sheriff's office in the county where the respondent may be personally served
+shall forthwith serve the protection order upon the respondent and file its
+return thereon with the clerk of the court which issued the protection order
+-4-
+
+LB80 LB80
+2025 2025
+within fourteen days of the issuance of the protection order.
+(2) If any protection order is dismissed or modified by the court, the
+clerk of the court shall forthwith provide the local police department or local
+law enforcement agency and the local sheriff's office, without charge, with one
+copy each of the order of dismissal or modification. If the respondent has
+notice as described in subsection (2) of this section, further service under
+this subsection is unnecessary.
+(3) Any document required to be provided under this section, including
+certified copies of protection orders, may be provided electronically.
+(4) (2) If the respondent was present at a hearing convened pursuant to
+section 9 of this act following issuance of an ex parte protection order 42-925
+and the protection order was not dismissed, the respondent shall be deemed to
+have notice by the court at such hearing that the protection order will be
+granted and remain in effect and further service of notice described in
+subsection (1) of this section is not required for purposes of prosecution
+under subsection (4) of section 18 of this act 42-924.
+(3) When provided by the petitioner, the court shall make confidential
+numeric victim identification information, including social security numbers
+and dates of birth, available to appropriate criminal justice agencies engaged
+in protection order enforcement efforts. Such agencies shall maintain the
+confidentiality of this information, except for entry into state and federal
+databases for protection order enforcement.
+Sec. 15. Upon issuance of any domestic abuse protection order, the court
+shall cause the notice created under section 29-2291 to be served upon the
+respondent notifying the respondent that it may be unlawful under federal law
+for a person who is subject to a domestic abuse protection order to possess or
+receive any firearm or ammunition.
+Sec. 16. Section 42-924.01, Reissue Revised Statutes of Nebraska, is
+amended to read:
+42-924.01 (1) Fees to cover costs associated with the filing of a petition
+for a protection order or the issuance or service of a protection order seeking
+only the relief provided by the Protection Orders from Domestic Abuse Act shall
+not be charged, except that a court may assess such fees and costs if the court
+finds, by clear and convincing evidence, that the statements contained in the
+petition were false and that the protection order was sought in bad faith.
+(2) At the final hearing, a court may assess costs associated with the
+filing of a petition for a protection order or the issuance or service of a
+protection order seeking only the relief provided by the Protection Orders from
+Domestic Abuse Act against the respondent.
+Sec. 17. Section 42-924.03, Reissue Revised Statutes of Nebraska, is
+amended to read:
+42-924.03 When ruling on a petition for a domestic abuse protection order,
+a A court shall only grant a respondent a domestic abuse protection order if
+(1) the respondent files a cross or counter petition seeking a protection order
+and (2) the issuing court makes specific findings of domestic or family abuse
+against the respondent and determines that the respondent is entitled to a
+protection order.
+Sec. 18. (1) Any person, except the petitioner, who knowingly violates a
+protection order issued pursuant to the Protection Orders Act, after service or
+notice as described in subsection (4) of section 14 of this act, or a valid
+foreign protection order recognized pursuant to section 23 or 24 of this act,
+shall be guilty of an offense and punished as provided in this section.
+(2) For a violation involving a domestic abuse protection order, a sexual
+assault protection order, a valid foreign domestic abuse protection order
+recognized pursuant to section 23 of this act, or a valid foreign sexual
+assault protection order recognized pursuant to section 24 of this act a
+violation of this section is a Class I misdemeanor for a first offense and a
+Class IV felony for any second or subsequent offense.
+(3) For a violation of a harassment protection order or a valid foreign
+harassment protection order recognized pursuant to section 24 of this act, a
+violation of this section is a Class II misdemeanor for a first offense and a
+Class I misdemeanor for any second or subsequent offense.
+Sec. 19. Section 42-928, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-928 A peace officer shall with or without a warrant arrest a person if:
+(1) The the officer has probable cause to believe that the person has
+committed a violation of a protection order described in section 18 of this act
+or an order issued pursuant to section 42-924, a violation of section 42-925, a
+violation of an order excluding a person from certain premises issued pursuant
+to section 42-357; , or a violation of a valid foreign protection order
+recognized pursuant to section 42-931 and
+(2) A a petitioner or person protected by a protection order or under
+section 42-924 or 42-925, an applicant for an order excluding a person from
+certain premises issued pursuant to section 42-357 , or a person protected
+under a valid foreign protection order recognized pursuant to section 42-931
+provides the peace officer with a copy of such a protection order or an order
+excluding a person from certain premises issued under such sections or the
+peace officer determines that such an order exists after communicating with the
+local law enforcement agency.
+Sec. 20. Section 42-929, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-929 A peace officer making an arrest pursuant to section 19 of this act
+42-928 shall take such person into custody and take such person before a judge
+-5-
+
+LB80 LB80
+2025 2025
+of the county court or the court which issued the protection order or other
+order. At such time the court shall establish the conditions of such person's
+release from custody, including the determination of bond or recognizance, as
+the case may be. The court shall issue an order directing that such person
+shall have no contact with any person protected by such order the alleged
+victim of the abuse or violation.
+Sec. 21. Section 42-924.02, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+42-924.02 (1) The clerk of the district court shall make available
+standard petition and affidavit forms for all types of protection orders
+provided by law with instructions for completion to be used by a petitioner.
+(2) Affidavit forms shall request all relevant information, including, but
+not limited to: A description of the most recent incident that was the basis
+for the application for a protection order and the date or approximate date of
+the incident and, if there was more than one incident, the most severe incident
+and the date or approximate date of such incident. The affidavit form shall
+permit the petitioner to request that any contact information of the petitioner
+be kept confidential. If the petitioner makes such request, such information
+shall not be released and shall only be available for the court's use. The
+clerk and his or her employees shall not provide assistance in completing the
+forms.
+(3) The State Court Administrator shall adopt and promulgate the standard
+petition and affidavit forms provided for in this section as well as the
+standard temporary ex parte and final protection order forms and provide a copy
+of such forms to all clerks of the district courts in this state. These
+standard temporary ex parte and final protection order forms shall be the only
+such forms used in this state.
+Sec. 22. When provided by the petitioner, the court shall make
+confidential numeric victim identification information, including social
+security numbers and dates of birth, available to appropriate criminal justice
+agencies engaged in protection order enforcement efforts. Such agencies shall
+maintain the confidentiality of this information, except for entry into state
+and federal databases for protection order enforcement.
+Sec. 23. Section 42-931, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-931 A valid foreign protection order related to domestic or family
+abuse issued by a tribunal of another state, tribe, or territory shall be
+accorded full faith and credit by the courts of this state and enforced
+pursuant to the Uniform Interstate Enforcement of Domestic Violence Protection
+Orders Act.
+Sec. 24. Section 28-311.12, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-311.12 (1) A valid foreign harassment or sexual assault protection
+order or an order similar to a harassment or sexual assault protection order
+issued by a court of another state, territory, possession, or tribe shall be
+accorded full faith and credit by the courts of this state and enforced as if
+it were issued in this state.
+(2) A foreign harassment or sexual assault protection order issued by a
+court of another state, territory, possession, or tribe shall be valid if:
+(a) The issuing court had jurisdiction over the parties and matter under
+the law of such state, territory, possession, or tribe;
+(b) The respondent was given reasonable notice and an opportunity to be
+heard sufficient to protect the respondent's right to due process before the
+order was issued; and
+(c) The harassment or sexual assault protection order from another
+jurisdiction has not been rendered against both the petitioner and the
+respondent, unless: (i) The respondent filed a cross or counter petition,
+complaint, or other written pleading seeking such an a sexual assault
+protection order; and (ii) the issuing court made specific findings of
+harassment or sexual assault offenses against both the petitioner and
+respondent and determined that each party was entitled to such an order.
+(3) There is a presumption of the validity of the foreign protection order
+when the order appears authentic on its face.
+(4) A peace officer may rely upon a copy of any putative valid foreign
+harassment or sexual assault protection order which has been provided to the
+peace officer by any source.
+Sec. 25. If there is any conflict between the Protection Orders Act and
+any other provision of law, the Protection Orders Act shall govern.
+Sec. 26. Section 25-2740, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+25-2740 (1) For purposes of this section:
+(a) Domestic relations matters means proceedings under the Protection
+Orders Act, sections 28-311.09 and 28-311.10 (including harassment protection
+orders and valid foreign harassment protection orders), sections 28-311.11 and
+28-311.12 (including sexual assault protection orders and valid foreign sexual
+assault protection orders), the Conciliation Court Law and sections 42-347 to
+42-381 (including dissolution, separation, annulment, custody, and support),
+section 43-512.04 (including child support or medical support), section 42-924
+(including domestic protection orders), sections 43-1401 to 43-1418 (including
+paternity determinations and parental support), and sections 43-1801 to 43-1803
+(including grandparent visitation); and
+(b) Paternity or custody determinations means proceedings to establish the
+paternity of a child under sections 43-1411 to 43-1418 or proceedings to
+-6-
+
+LB80 LB80
+2025 2025
+determine custody of a child under section 42-364.
+(2) Except as provided in subsection (3) of this section, in domestic
+relations matters, a party shall file his or her petition or complaint and all
+other court filings with the clerk of the district court. The party shall state
+in the petition or complaint whether such party requests that the proceeding be
+heard by a county court judge or by a district court judge. If the party
+requests the case be heard by a county court judge, the county court judge
+assigned to hear cases in the county in which the matter is filed at the time
+of the hearing is deemed appointed by the district court and the consent of the
+county court judge is not required. Such proceeding is considered a district
+court proceeding, even if heard by a county court judge, and an order or
+judgment of the county court in a domestic relations matter has the force and
+effect of a district court judgment. The testimony in a domestic relations
+matter heard before a county court judge shall be preserved as provided in
+section 25-2732.
+(3) In addition to the jurisdiction provided for paternity or custody
+determinations under subsection (2) of this section, a county court or separate
+juvenile court which already has jurisdiction over the child whose paternity or
+custody is to be determined has jurisdiction over such paternity or custody
+determination.
+Sec. 27. Section 28-311.02, Reissue Revised Statutes of Nebraska, is
+amended to read:
+28-311.02 (1) It is the intent of the Legislature to enact laws dealing
+with stalking offenses which will protect victims from being willfully
+harassed, intentionally terrified, threatened, or intimidated by individuals
+who intentionally follow, detain, stalk, or harass them or impose any restraint
+on their personal liberty and which will not prohibit constitutionally
+protected activities.
+(2) For purposes of sections 28-311.02 to 28-311.05 , 28-311.09, and
+28-311.10:
+(a) Harass means to engage in a knowing and willful course of conduct
+directed at a specific person which seriously terrifies, threatens, or
+intimidates the person and which serves no legitimate purpose;
+(b) Course of conduct means a pattern of conduct composed of a series of
+acts over a period of time, however short, evidencing a continuity of purpose,
+including a series of acts of following, detaining, restraining the personal
+liberty of, or stalking the person or telephoning, contacting, or otherwise
+communicating with the person;
+(c) Family or household member means a spouse or former spouse of the
+victim, children of the victim, a person presently residing with the victim or
+who has resided with the victim in the past, a person who had a child in common
+with the victim, other persons related to the victim by consanguinity or
+affinity, or any person presently involved in a dating relationship with the
+victim or who has been involved in a dating relationship with the victim. For
+purposes of this subdivision, dating relationship means frequent, intimate
+associations primarily characterized by the expectation of affectional or
+sexual involvement but does not include a casual relationship or an ordinary
+association between persons in a business or social context; and
+(d) Substantially conforming criminal violation means a guilty plea, a
+nolo contendere plea, or a conviction for a violation of any federal law or law
+of another state or any county, city, or village ordinance of this state or
+another state substantially similar to section 28-311.03. Substantially
+conforming is a question of law to be determined by the court.
+Sec. 28. Section 28-311.04, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-311.04 (1) Except as provided in subsection (2) of this section, any
+person convicted of violating section 28-311.03 is guilty of a Class I
+misdemeanor.
+(2) Any person convicted of violating section 28-311.03 is guilty of a
+Class IIIA felony if:
+(a) The person has a prior conviction under such section or a
+substantially conforming criminal violation within the last seven years;
+(b) The victim is under sixteen years of age;
+(c) The person possessed a deadly weapon at any time during the violation;
+(d) The person was also in violation of any protection order issued under
+the Protection Orders Act or any section 28-311.09, 28-311.11, 42-924, or
+42-925, or in violation of a valid foreign harassment protection order
+recognized pursuant to section 23 or 24 of this act 28-311.10 or a valid
+foreign sexual assault protection order recognized pursuant to section
+28-311.12 at any time during the violation; or
+(e) The person has been convicted of any felony in this state or has been
+convicted of a crime in another jurisdiction which, if committed in this state,
+would constitute a felony and the victim or a family or household member of the
+victim was also the victim of such previous felony.
+Sec. 29. Section 28-311.05, Reissue Revised Statutes of Nebraska, is
+amended to read:
+28-311.05 Sections 28-311.02 to 28-311.04 , 28-311.09, and 28-311.10 shall
+not apply to conduct which occurs during labor picketing.
+Sec. 30. Section 28-358.01, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-358.01 (1) Isolation means intentional acts (a) committed for the
+purpose of preventing, and which do prevent, a vulnerable adult or senior adult
+from having contact with family, friends, or concerned persons; , (b) committed
+-7-
+
+LB80 LB80
+2025 2025
+to prevent a vulnerable adult or senior adult from receiving his or her mail or
+telephone calls; , (c) of physical or chemical restraint of a vulnerable adult
+or senior adult committed for purposes of preventing contact with visitors,
+family, friends, or other concerned persons; , or (d) which restrict, place, or
+confine a vulnerable adult or senior adult in a restricted area for purposes of
+social deprivation or preventing contact with family, friends, visitors, or
+other concerned persons.
+(2) Isolation does not include (a) medical isolation prescribed by a
+licensed physician caring for the vulnerable adult or senior adult; , (b)
+action taken in compliance with a harassment protection order issued under the
+Protection Orders Act, pursuant to section 28-311.09, a valid foreign
+harassment protection order recognized pursuant to section 23 or 24 of this
+act, or 28-311.10, a sexual assault protection order issued pursuant to section
+28-311.11, a valid foreign sexual assault protection order recognized pursuant
+to section 28-311.12, an order issued pursuant to section 42-924, an ex parte
+order issued pursuant to section 42-925, an order excluding a person from
+certain premises issued pursuant to section 42-357; , or a valid foreign
+protection order recognized pursuant to section 42-931, or (c) action
+authorized by an administrator of a nursing home pursuant to section 71-6021.
+Sec. 31. Section 28-710, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+28-710 (1) Sections 28-710 to 28-727 and section 32 of this act shall be
+known and may be cited as the Child Protection and Family Safety Act.
+(2) For purposes of the Child Protection and Family Safety Act:
+(a) Alternative response means a comprehensive assessment of (i) child
+safety, (ii) the risk of future child abuse or neglect, (iii) family strengths
+and needs, and (iv) the provision of or referral for necessary services and
+support. Alternative response is an alternative to traditional response and
+does not include an investigation or a formal determination as to whether child
+abuse or neglect has occurred, and the subject of the report shall not be
+entered into the central registry of child protection cases maintained pursuant
+to section 28-718;
+(b) Child abuse or neglect means knowingly, intentionally, or negligently
+causing or permitting a minor child to be:
+(i) Placed in a situation that endangers his or her life or physical or
+mental health;
+(ii) Cruelly confined or cruelly punished;
+(iii) Deprived of necessary food, clothing, shelter, or care;
+(iv) Left unattended in a motor vehicle if such minor child is six years
+of age or younger;
+(v) Placed in a situation to be sexually abused;
+(vi) Placed in a situation to be sexually exploited through sex
+trafficking of a minor as defined in section 28-830 or by allowing,
+encouraging, or forcing such person to engage in debauchery, public indecency,
+or obscene or pornographic photography, films, or depictions; or
+(vii) Placed in a situation to be a trafficking victim as defined in
+section 28-830;
+(c) Child advocacy center means a community-based organization that (i)
+provides an appropriate site for conducting forensic interviews as defined in
+section 28-728 and referring victims of child abuse or neglect and appropriate
+caregivers for such victims to needed evaluation, services, and supports, (ii)
+assists county attorneys in facilitating case reviews, developing and updating
+protocols, and arranging training opportunities for the teams established
+pursuant to sections 28-728 and 28-729, and (iii) is a member, in good
+standing, of a state chapter as defined in 34 U.S.C. 20302;
+(d) Comprehensive assessment means an analysis of child safety, risk of
+future child abuse or neglect, and family strengths and needs on a report of
+child abuse or neglect using an evidence-informed and validated tool.
+Comprehensive assessment does not include a finding as to whether the child
+abuse or neglect occurred but does determine the need for services and support,
+if any, to address the safety of children and the risk of future abuse or
+neglect;
+(e) Department means the Department of Health and Human Services;
+(f) Investigation means fact gathering by the department, using an
+evidence-informed and validated tool, or by law enforcement related to the
+current safety of a child and the risk of future child abuse or neglect that
+determines whether child abuse or neglect has occurred and whether child
+protective services are needed;
+(g) Kin caregiver means a person with whom a child in foster care has been
+placed or with whom a child is residing pursuant to a temporary living
+arrangement in a non-court-involved case, who has previously lived with or is a
+trusted adult that has a preexisting, significant relationship with the child
+or with a sibling of such child placed pursuant to section 43-1311.02;
+(h) Law enforcement agency means the police department or town marshal in
+incorporated municipalities, the office of the sheriff in unincorporated areas,
+and the Nebraska State Patrol;
+(i) Member of a military family means an individual who is:
+(i) Serving active duty service in the armed forces of the United States,
+including any reserve component or the National Guard; or
+(ii) Is a dependent, as defined in 50 U.S.C. 3911, of a person described
+in subdivision (2)(i)(i) of this section;
+(j) (i) Non-court-involved case means an ongoing case opened by the
+department following a report of child abuse or neglect in which the department
+-8-
+
+LB80 LB80
+2025 2025
+has determined that ongoing services are required to maintain the safety of a
+child or alleviate the risk of future abuse or neglect and in which the family
+voluntarily engages in child protective services without a filing in a juvenile
+court;
+(k) (j) Out-of-home child abuse or neglect means child abuse or neglect
+occurring outside of a child's family home, including in day care homes, foster
+homes, day care centers, residential child-caring agencies as defined in
+section 71-1926, other child care facilities or institutions, and the
+community. Out-of-home child abuse or neglect also includes cases in which the
+subject of the report of child abuse or neglect is not a member of the child's
+household, no longer has access to the child, is unknown, or cannot be
+identified;
+(l) (k) Relative caregiver means a person with whom a child is placed by
+the department and who is related to the child, or to a sibling of such child
+pursuant to section 43-1311.02, by blood, marriage, or adoption or, in the case
+of an Indian child, is an extended family member as defined in section 43-1503;
+(m) (l) Report means any communication received by the department or a law
+enforcement agency pursuant to the Child Protection and Family Safety Act that
+describes child abuse or neglect and contains sufficient content to identify
+the child who is the alleged victim of child abuse or neglect;
+(n) (m) Review, Evaluate, and Decide Team means an internal team of staff
+within the department and shall include no fewer than two supervisors or
+administrators and two staff members knowledgeable on the policies and
+practices of the department, including, but not limited to, the structured
+review process. County attorneys, child advocacy centers, or law enforcement
+agency personnel may attend team reviews upon request of a party;
+(o) (n) School employee means a person nineteen years of age or older who
+is employed by a public, private, denominational, or parochial school approved
+or accredited by the State Department of Education;
+(p) (o) Student means a person less than nineteen years of age enrolled in
+or attending a public, private, denominational, or parochial school approved or
+accredited by the State Department of Education, or who was such a person
+enrolled in or who attended such a school within ninety days of any violation
+of section 28-316.01;
+(q) (p) Traditional response means an investigation by a law enforcement
+agency or the department pursuant to section 28-713 which requires a formal
+determination of whether child abuse or neglect has occurred; and
+(r) (q) Subject of the report of child abuse or neglect or subject of the
+report means the person or persons identified in the report as responsible for
+the child abuse or neglect.
+Sec. 32. (1) For purposes of this section:
+(a) Military family advocacy program means the program established by the
+United States Department of Defense and provided at a military installation to
+address child abuse and neglect in military families; and
+(b) Military installation has the same meaning as in section 79-2201.
+(2) Upon receipt of a report of child abuse or neglect, and after the
+department has contacted the family of the identified victim and determined
+that the subject of the report is a member of a military family, the department
+shall notify the appropriate military installation with which it has a
+memorandum of understanding under subsection (3) of this section of the report
+and the nature of the allegations contained in the report.
+(3) The department shall negotiate a memorandum of understanding with each
+military installation in Nebraska that has a military family advocacy program.
+The memorandum shall establish procedures and protocols for:
+(a) Identifying the subject of a report of child abuse or neglect as a
+member of a military family;
+(b) Sharing information as required by this section; and
+(c) Maintaining confidentiality as required by state and federal law.
+(4) The department may adopt and promulgate rules and regulations to carry
+out this section.
+Sec. 33. Section 28-713.01, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-713.01 (1) Upon completion of the investigation pursuant to section
+28-713:
+(a) In situations of alleged out-of-home child abuse or neglect, the
+person or persons having custody of the allegedly abused or neglected child or
+children shall be given written notice of the results of the investigation and
+any other information the law enforcement agency or department deems necessary.
+Such notice and information shall be sent by first-class mail;
+(b) The subject of the report of child abuse or neglect shall be given
+written notice of the determination of the case and whether the subject of the
+report of child abuse or neglect will be entered into the central registry of
+child protection cases maintained pursuant to section 28-718 under the criteria
+provided in section 28-720; and
+(c) If the subject of the report of child abuse or neglect is a school
+employee and the child is a student in the school to which such school employee
+is assigned for work, the notice described in subdivision (1)(b) of this
+section shall also be sent to the Commissioner of Education; and .
+(d) If the subject of the report of child abuse or neglect is a member of
+a military family, the notice described in subdivision (1)(b) of this section
+shall also be sent to the appropriate military installation as provided in
+section 32 of this act.
+(2) If the subject of the report will be entered into the central
+-9-
+
+LB80 LB80
+2025 2025
+registry, the notice to the subject shall be sent by certified mail with return
+receipt requested or first-class mail to the last-known address of the subject
+of the report of child abuse or neglect and shall include:
+(a) The nature of the report;
+(b) The classification of the report under section 28-720;
+(c) Notification of the right of the subject of the report of child abuse
+or neglect to request the department to amend or expunge identifying
+information from the report or to remove the substantiated report from the
+central registry in accordance with section 28-723; and
+(d) If the subject of the report of child abuse or neglect is a minor
+child who is twelve years of age or older but younger than nineteen years of
+age:
+(i) Notification of the mandatory expungement hearing to be held according
+to section 28-721, a waiver form to waive the hearing, and an explanation of
+the hearing process;
+(ii) An explanation of the implications of being entered in the central
+registry as a subject;
+(iii) Notification of any other procedures determined appropriate in rules
+and regulations adopted and promulgated by the department; and
+(iv) Provision of a copy of all notice materials required to be provided
+to the subject under this subsection to the minor child's attorney of record,
+parent or guardian, and guardian ad litem, if applicable.
+(3) If the subject of the report will not be entered into the central
+registry, the notice to the subject shall be sent by first-class mail and shall
+include:
+(a) The nature of the report; and
+(b) The classification of the report under section 28-720.
+Sec. 34. Section 28-1205, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+28-1205 (1)(a) Any person who uses a firearm, a knife, brass or iron
+knuckles, or any other deadly weapon to commit any felony which may be
+prosecuted in a court of this state commits the offense of use of a deadly
+weapon to commit a felony.
+(b) Use of a deadly weapon, other than a firearm, to commit a felony is a
+Class II felony.
+(c) Use of a deadly weapon, which is a firearm, to commit a felony is a
+Class IC felony.
+(2)(a) Any person who possesses a firearm, a knife, brass or iron
+knuckles, or a destructive device during the commission of any felony which may
+be prosecuted in a court of this state commits the offense of possession of a
+deadly weapon during the commission of a felony.
+(b) Possession of a deadly weapon, other than a firearm, during the
+commission of a felony is a Class III felony.
+(c) Possession of a deadly weapon, which is a firearm, during the
+commission of a felony is a Class II felony.
+(3)(a) Any person who carries a firearm or a destructive device during the
+commission of a dangerous misdemeanor commits the offense of carrying a firearm
+or destructive device during the commission of a dangerous misdemeanor.
+(b) A violation of this subsection is a:
+(i) Class I misdemeanor for a first or second offense; and
+(ii) A Class IV felony for any third or subsequent offense.
+(4) A violation of this section shall be treated as a separate and
+distinct offense from the underlying crimes being committed, and a sentence
+imposed under this section shall be consecutive to any other sentence imposed.
+(5) Possession of a deadly weapon may be proved through evidence
+demonstrating either actual or constructive possession of a firearm, a knife,
+brass or iron knuckles, or a destructive device during, immediately prior to,
+or immediately after the commission of a felony.
+(6) For purposes of this section:
+(a) Dangerous misdemeanor means a misdemeanor violation of any of the
+following offenses:
+(i) Stalking under section 28-311.03;
+(ii) Knowing violation of any a harassment protection order issued under
+the Protection Orders Act section 28-311.09;
+(iii) Knowing violation of a sexual assault protection order under section
+28-311.11;
+(iii) (iv) Domestic assault under section 28-323;
+(iv) (v) Assault of an unborn child in the third degree under section
+28-399;
+(v) (vi) Theft by shoplifting under section 28-511.01;
+(vi) (vii) Unauthorized use of a propelled vehicle under section 28-516;
+(vii) (viii) Criminal mischief under section 28-519 if such violation
+arises from an incident involving the commission of a misdemeanor crime of
+domestic violence;
+(viii) (ix) Impersonating a police officer under section 28-610;
+(ix) (x) Resisting arrest under section 28-904;
+(x) (xi) Operating a motor vehicle or vessel to avoid arrest under section
+28-905;
+(xi) (xii) Obstructing a peace officer under section 28-906; or
+(xiii) Knowing violation of a domestic abuse protection order under
+section 42-924; or
+(xii) (xiv) Any attempt under section 28-201 to commit an offense
+described in subdivisions (6)(a)(i) through (xi) (xiii) of this section;
+-10-
+
+LB80 LB80
+2025 2025
+(b) Destructive device has the same meaning as in section 28-1213;
+(c) Misdemeanor crime of domestic violence has the same meaning as in
+section 28-1206; and
+(d) Use of a deadly weapon includes the discharge, employment, or visible
+display of any part of a firearm, a knife, brass or iron knuckles, any other
+deadly weapon, or a destructive device during, immediately prior to, or
+immediately after the commission of a felony or communication to another
+indicating the presence of a firearm, a knife, brass or iron knuckles, any
+other deadly weapon, or a destructive device during, immediately prior to, or
+immediately after the commission of a felony, regardless of whether such
+firearm, knife, brass or iron knuckles, deadly weapon, or destructive device
+was discharged, actively employed, or displayed.
+Sec. 35. Section 28-1206, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+28-1206 (1) A person commits the offense of possession of a deadly weapon
+by a prohibited person if he or she:
+(a) Possesses a firearm, a knife, or brass or iron knuckles and he or she:
+(i) Has previously been convicted of a felony;
+(ii) Is a fugitive from justice;
+(iii) Is the subject of a current and valid validly issued domestic
+violence protection order issued under the Protection Orders Act or a current
+and valid foreign protection order recognized under section 23 or 24 of this
+act , harassment protection order, or sexual assault protection order and is
+knowingly violating such order; or
+(iv) Is on probation pursuant to a deferred judgment for a felony under
+section 29-2292 or 29-4803; or
+(b) Possesses a firearm or brass or iron knuckles and he or she has been
+convicted within the past seven years of a misdemeanor crime of domestic
+violence.
+(2) The felony conviction may have been had in any court in the United
+States, the several states, territories, or possessions, or the District of
+Columbia.
+(3)(a) Possession of a deadly weapon which is not a firearm by a
+prohibited person is a Class III felony.
+(b) Possession of a deadly weapon which is a firearm by a prohibited
+person is a Class ID felony for a first offense and a Class IB felony for a
+second or subsequent offense.
+(4) Subdivision (1)(a)(i) of this section shall not prohibit:
+(a) Possession of archery equipment for lawful purposes; or
+(b) If in possession of a recreational license, possession of a knife for
+purposes of butchering, dressing, or otherwise processing or harvesting game,
+fish, or furs.
+(5)(a) For purposes of this section, misdemeanor crime of domestic
+violence means a crime that:
+(i) Is classified as a misdemeanor under the laws of the United States or
+the District of Columbia or the laws of any state, territory, possession, or
+tribe;
+(ii) Has, as an element, the use or attempted use of physical force or the
+threatened use of a deadly weapon; and
+(iii) Is committed by another against his or her spouse, his or her former
+spouse, a person with whom he or she has a child in common whether or not they
+have been married or lived together at any time, or a person with whom he or
+she is or was involved in a dating relationship as defined in section 28-323.
+(b) For purposes of this section, misdemeanor crime of domestic violence
+also includes the following offenses, if committed by a person against his or
+her spouse, his or her former spouse, a person with whom he or she is or was
+involved in a dating relationship as defined in section 28-323, or a person
+with whom he or she has a child in common whether or not they have been married
+or lived together at any time:
+(i) Assault in the third degree under section 28-310;
+(ii) Stalking under subsection (1) of section 28-311.04;
+(iii) False imprisonment in the second degree under section 28-315;
+(iv) First offense domestic assault in the third degree under subsection
+(1) of section 28-323; or
+(v) Any attempt or conspiracy to commit any of such offenses.
+(c) A person shall not be considered to have been convicted of a
+misdemeanor crime of domestic violence unless:
+(i) The person was represented by counsel in the case or knowingly and
+intelligently waived the right to counsel in the case; and
+(ii) In the case of a prosecution for a misdemeanor crime of domestic
+violence for which a person was entitled to a jury trial in the jurisdiction in
+which the case was tried, either:
+(A) The case was tried to a jury; or
+(B) The person knowingly and intelligently waived the right to have the
+case tried to a jury.
+(6) In addition, for purposes of this section:
+(a) Archery equipment means:
+(i) A longbow, recurve bow, compound bow, or nonelectric crossbow that is
+drawn or cocked with human power and released by human power; and
+(ii) Target or hunting arrows, including arrows with broad, fixed, or
+removable heads or that contain multiple sharp cutting edges; and
+(b) Domestic violence protection order means a protection order issued
+pursuant to section 42-924;
+-11-
+
+LB80 LB80
+2025 2025
+(c) Harassment protection order means a protection order issued pursuant
+to section 28-311.09 or that meets or exceeds the criteria set forth in section
+28-311.10 regarding protection orders issued by a court in any other state or a
+territory, possession, or tribe;
+(b) (d) Recreational license means a state-issued license, certificate,
+registration, permit, tag, sticker, or other similar document or identifier
+evidencing permission to hunt, fish, or trap for furs in the State of
+Nebraska. ; and
+(e) Sexual assault protection order means a protection order issued
+pursuant to section 28-311.11 or that meets or exceeds the criteria set forth
+in section 28-311.12 regarding protection orders issued by a court in any other
+state or a territory, possession, or tribe.
+Sec. 36. Section 29-404.02, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+29-404.02 (1) Except as provided in section 19 of this act sections
+28-311.11 and 42-928, a peace officer may arrest a person without a warrant if
+the officer has reasonable cause to believe that such person has committed:
+(a) A felony;
+(b) A misdemeanor, and the officer has reasonable cause to believe that
+such person either (i) will not be apprehended unless immediately arrested,
+(ii) may cause injury to himself or herself or others or damage to property
+unless immediately arrested, (iii) may destroy or conceal evidence of the
+commission of such misdemeanor, or (iv) has committed a misdemeanor in the
+presence of the officer; or
+(c) One or more of the following acts to one or more household members,
+whether or not committed in the presence of the peace officer:
+(i) Attempting to cause or intentionally and knowingly causing bodily
+injury with or without a dangerous instrument;
+(ii) Placing, by physical menace, another in fear of imminent bodily
+injury; or
+(iii) Engaging in sexual contact or sexual penetration without consent as
+defined in section 28-318.
+(2) An individual arrested without a warrant under this section who
+remains in custody shall be brought before a court in the county where the
+arrest occurred for an appearance no later than seven days after such arrest.
+The appearance may be in person or conducted remotely by means of
+videoconferencing. The individual shall have the right to appear in person but
+must agree to waive the seven-day deadline if an in-person appearance within
+such time is not reasonably practicable.
+(3) For purposes of this section:
+(a) Household members includes spouses or former spouses, children,
+persons who are presently residing together or who have resided together in the
+past, persons who have a child in common whether or not they have been married
+or have lived together at any time, other persons related by consanguinity or
+affinity, and persons who are presently involved in a dating relationship with
+each other or who have been involved in a dating relationship with each other;
+and
+(b) Dating relationship means frequent, intimate associations primarily
+characterized by the expectation of affectional or sexual involvement, but does
+not include a casual relationship or an ordinary association between persons in
+a business or social context.
+Sec. 37. Section 29-422, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+29-422 It is hereby declared to be the policy of the State of Nebraska to
+issue citations in lieu of arrest or continued custody to the maximum extent
+consistent with the effective enforcement of the law and the protection of the
+public. In furtherance of that policy, except as provided in sections 19 and 20
+of this act 28-311.11, 42-928, and 42-929, any peace officer shall be
+authorized to issue a citation in lieu of arrest or continued custody for any
+offense which is a traffic infraction, any other infraction, or a misdemeanor
+and for any violation of a city or village ordinance. Such authorization shall
+be carried out in the manner specified in sections 29-422 to 29-429 and 60-684
+to 60-686.
+Sec. 38. Section 29-2292, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+29-2292 (1) Upon a finding of guilt for which a judgment of conviction may
+be rendered, a defendant may request the court defer the entry of judgment of
+conviction. Upon such request and after giving the prosecutor and defendant the
+opportunity to be heard, the court may defer the entry of a judgment of
+conviction and the imposition of a sentence and place the defendant on
+probation, upon conditions as the court may require under section 29-2262.
+(2) The court shall not defer judgment under this section if:
+(a) The offense is a violation of a domestic abuse protection order under
+section 18 of this act section 42-924;
+(b) The victim of the offense is an intimate partner as defined in section
+28-323;
+(c) The offense is a violation of section 60-6,196 or 60-6,197 or a city
+or village ordinance enacted in conformance with section 60-6,196 or 60-6,197;
+or
+(d) The defendant is not eligible for probation.
+(3) Whenever a court considers a request to defer judgment, the court
+shall consider the factors set forth in section 29-2260 and any other
+information the court deems relevant.
+-12-
+
+LB80 LB80
+2025 2025
+(4) Except as otherwise provided in this section and sections 29-2293 and
+29-2294, the supervision of a defendant on probation pursuant to a deferred
+judgment shall be governed by the Nebraska Probation Administration Act and
+sections 29-2270 to 29-2273.
+(5) After a hearing providing the prosecutor and defendant an opportunity
+to be heard and upon a finding that a defendant has violated a condition of his
+or her probation, the court may enter any order authorized by section 29-2268
+or pronounce judgment and impose such new sentence as might have been
+originally imposed for the offense for which the defendant was convicted.
+(6) Upon satisfactory completion of the conditions of probation and the
+payment or waiver of all administrative and programming fees assessed under
+section 29-2293, the defendant or prosecutor may file a motion to withdraw any
+plea entered by the defendant and to dismiss the action without entry of
+judgment.
+(7) The provisions of this section apply to offenses committed on or after
+July 1, 2020. For purposes of this section, an offense shall be deemed to have
+been committed prior to July 1, 2020, if any element of the offense occurred
+prior to such date.
+Sec. 39. Section 42-901, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-901 Sections 42-901 to 42-930 42-931 shall be known and may be cited as
+the Protection from Domestic Abuse Act.
+Sec. 40. Section 42-903, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+42-903 For purposes of the Protection from Domestic Abuse Act, unless the
+context otherwise requires:
+(1) Abuse means the occurrence of one or more of the following acts
+between family or household members:
+(a) Attempting to cause or intentionally and knowingly causing bodily
+injury with or without a dangerous instrument;
+(b) Placing, by means of credible threat, another person in fear of bodily
+injury. For purposes of this subdivision, credible threat means a verbal or
+written threat, including a threat performed through the use of an electronic
+communication device, or a threat implied by a pattern of conduct or a
+combination of verbal, written, or electronically communicated statements and
+conduct that is made by a person with the apparent ability to carry out the
+threat so as to cause the person who is the target of the threat to reasonably
+fear for his or her safety or the safety of his or her family. It is not
+necessary to prove that the person making the threat had the intent to actually
+carry out the threat. The present incarceration of the person making the threat
+shall not prevent the threat from being deemed a credible threat under this
+section; or
+(c) Engaging in sexual contact or sexual penetration without consent as
+defined in section 28-318;
+(2) Department means the Department of Health and Human Services;
+(3) Family or household members includes spouses or former spouses,
+children, persons who are presently residing together or who have resided
+together in the past, persons who have a child in common whether or not they
+have been married or have lived together at any time, other persons related by
+consanguinity or affinity, and persons who are presently involved in a dating
+relationship with each other or who have been involved in a dating relationship
+with each other. For purposes of this subdivision, dating relationship means
+frequent, intimate associations primarily characterized by the expectation of
+affectional or sexual involvement, but does not include a casual relationship
+or an ordinary association between persons in a business or social context; and
+(4) Household pet means any animal maintained for companionship or
+pleasure but does not include any animal kept primarily for commercial purposes
+or for consumption or any livestock animal as defined in section 54-902; and
+(4) (5) Law enforcement agency means the police department or town marshal
+in incorporated municipalities, the office of the sheriff in unincorporated
+areas, and the Nebraska State Patrol.
+Sec. 41. Section 42-905, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-905 The comprehensive support services shall include, but not be
+limited to:
+(1) Emergency services for victims of abuse and their families;
+(2) Support programs that meet specific needs of victims of abuse and
+their families;
+(3) Education, counseling, and supportive programs for the abuser;
+(4) Programs to aid in the prevention and elimination of domestic violence
+which shall include education and public awareness; and
+(5) Assistance in completing the standard petition and affidavit forms for
+persons who file a petition and affidavit for a domestic abuse protection order
+under the Protection Orders Act.
+Sec. 42. Section 42-927, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-927 All law enforcement agencies in the state shall provide officers
+employed by them with an education and training program designed to inform the
+officers of the problems of domestic abuse, procedures to deal with such
+problems, the Protection from Domestic Abuse Act, the Protection Orders Act,
+and the services and facilities available to abused family and household
+members.
+Sec. 43. Section 43-2,107, Reissue Revised Statutes of Nebraska, is
+-13-
+
+LB80 LB80
+2025 2025
+amended to read:
+43-2,107 On application of a party or on the court's own motion, the court
+may restrain or otherwise control the conduct of a person if a petition has
+been filed under the Nebraska Juvenile Code and the court finds that such
+conduct is or may be detrimental or harmful to the juvenile. Notice of the
+application or motion and an opportunity to be heard thereon shall be given to
+the person against whom such application or motion is directed, except that the
+court may enter a temporary order restraining or otherwise controlling the
+conduct of a person for the protection of a juvenile without prior notice if it
+appears to the court that it is necessary to issue such order forthwith. Such
+temporary order shall be effective not to exceed ten days and shall not be
+binding against any person unless he or she has received a copy of such order.
+Any individual who violates an order restraining or otherwise controlling his
+or her conduct under this section shall be guilty of a Class II misdemeanor and
+may be proceeded against as described in sections 19 and 20 of this act 42-928
+and 42-929.
+Sec. 44. Section 43-1609, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+43-1609 (1) Child support referees shall be appointed when necessary by
+the district courts, separate juvenile courts, and county courts to meet the
+requirements of federal law relating to expediting the establishment,
+modification, enforcement, and collection of child, spousal, or medical support
+and domestic abuse protection orders issued under the Protection Orders Act
+section 42-924.
+(2) Child support referees shall be appointed by order of the district
+court, separate juvenile court, or county court. The Supreme Court shall
+appoint child support referees to serve more than one judicial district if the
+Supreme Court determines it is necessary.
+(3) To be qualified for appointment as a child support referee, a person
+shall be an attorney in good standing admitted to the practice of law in the
+State of Nebraska and shall meet any other requirements imposed by the Supreme
+Court. A child support referee shall be sworn or affirmed to well and
+faithfully hear and examine the cause and to make a just and true report
+according to the best of his or her understanding. The oath or affirmation may
+be administered by a district, county, or separate juvenile court judge. A
+child support referee may be removed at any time by the appointing court.
+(4) The Supreme Court may contract with an attorney to perform the duties
+of a referee for a specific case or for a specific amount of time or may direct
+a judge of the county court to perform such duties.
+Sec. 45. Section 43-1611, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+43-1611 A district court, separate juvenile court, or county court may by
+rule or order refer or assign any and all matters regarding the establishment,
+modification, enforcement, and collection of child, spousal, or medical
+support, paternity matters, and domestic abuse protection orders issued under
+the Protection Orders Act section 42-924 to a child support referee for
+findings and recommendations.
+Sec. 46. Section 60-3209, Reissue Revised Statutes of Nebraska, is amended
+to read:
+60-3209 (1) Captured plate data held by a governmental entity is not
+considered a public record for purposes of sections 84-712 to 84-712.09 and
+shall only be disclosed to the person to whom the vehicle is registered or with
+the prior written consent of the person to whom the vehicle is registered or
+pursuant to a disclosure order under subsection (2) of section 60-3205 or as
+the result of a match pursuant to subsection (2) of section 60-3203.
+(2) Upon the presentation to a governmental entity of a valid, outstanding
+protection order pursuant to the Protection Orders from Domestic Abuse Act or ,
+the Uniform Interstate Enforcement of Domestic Violence Protection Orders Act ,
+or section 28-311.09 or 28-311.10 protecting the driver of a vehicle jointly
+registered with or registered solely in the name of the individual against whom
+the order was issued, captured plate data may not be disclosed except pursuant
+to a disclosure order under subsection (2) of section 60-3205 or as the result
+of a match pursuant to subsection (2) of section 60-3203.
+Sec. 47. Section 76-1401, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+76-1401 Sections 76-1401 to 76-1449 and sections 48 to 50 of this act
+shall be known and may be cited as the Uniform Residential Landlord and Tenant
+Act.
+Sec. 48. (1) When an act of domestic violence is perpetrated against a
+tenant or household member by another cotenant or occupant of the same dwelling
+unit, the tenant may have the perpetrator removed from the rental agreement
+and, if needed, excluded from the premises if the tenant or household member
+has:
+(a) Obtained a protective order, restraining order, or other similar
+relief which applies to the perpetrator of the act of domestic violence; or
+(b) Obtained certification confirming domestic violence as set forth in
+subdivision (5)(a)(iii) of section 76-1431.
+(2) To have the perpetrator removed from a rental agreement under this
+section, the tenant shall:
+(a) Provide the landlord a copy of the documentation described in
+subsection (1) of this section; and
+(b) Provide the landlord a written notice containing:
+(i) The full legal name of the cotenant or occupant who is the perpetrator
+-14-
+
+LB80 LB80
+2025 2025
+of the act of domestic violence;
+(ii) The date on which the tenant wishes the notice of termination to be
+served upon the perpetrator. Such date shall be at least five days after the
+date the tenant provides the documentation and written notice to the landlord
+and no more than thirty days after such date; and
+(iii) The tenant's preferred method by which to receive future
+communications from the landlord.
+(3) When a tenant has provided the landlord with documentation and written
+notice, as described in subsections (1) and (2) of this section, the landlord
+shall proceed under subsection (4) of section 76-1431 against only the cotenant
+or occupant who is the perpetrator of the act of domestic violence. The
+landlord shall serve the five-day notice provided for in subsection (4) of
+section 76-1431 on such perpetrator on the date provided by the requesting
+tenant under subdivision (2)(b)(ii) of this section.
+(4)(a) If the perpetrator vacates the premises within the five-day notice
+period described in subsection (4) of section 76-1431, the landlord shall:
+(i) Install a new lock to the dwelling unit, pursuant to section 50 of
+this act; and
+(ii) Timely notify the requesting tenant by the method provided under
+subdivision (2)(b)(iii) of this section to inform the requesting tenant how the
+tenant can obtain access to the re-keyed unit.
+(b) If the perpetrator fails to vacate the premises within the five-day
+notice period described in subsection (4) of section 76-1431, the landlord
+shall:
+(i) File suit for recovery of possession of the premises against the
+perpetrator only; and
+(ii) Timely notify the requesting tenant by the method provided under
+subsection (2)(b)(iii) of this section to inform them of the hearing date set
+in the suit.
+(c) If judgment is entered in favor of the landlord in a suit brought
+pursuant to subsection (4) of section 76-1431, the landlord shall:
+(i) Be entitled to recover court costs and reasonable attorney's fees from
+the perpetrator;
+(ii) Install a new lock to the dwelling unit, pursuant to section 50 of
+this act;
+(iii) Timely notify the requesting tenant by the method provided under
+subdivision (2)(b)(iii) of this section to inform the requesting tenant of the
+reasonable method by which the tenant can obtain access to the re-keyed unit;
+and
+(iv) Refuse to provide the perpetrator with access to the dwelling unit to
+reclaim property unless a law enforcement officer escorts the perpetrator into
+and out of the dwelling.
+(5) If two individuals have requested each other to be removed from the
+rental agreement under this section and each provides qualifying documentation
+under subsection (1) of this section:
+(a) The landlord is only required to proceed against an individual who is,
+by court order, specifically excluded from the dwelling unit; and
+(b) If neither individual is specifically excluded from the dwelling unit
+by court order, the landlord is not required to proceed under this section.
+(6) A landlord is not liable for any actions taken in good faith pursuant
+to this section.
+Sec. 49. (1) When an act of domestic violence is perpetrated against a
+tenant or household member by someone who is not a cotenant or occupant of the
+same dwelling unit, the tenant may require the landlord to change the lock to
+the tenant's dwelling unit pursuant to section 50 of this act if the tenant or
+household member has:
+(a) Obtained a protective order, restraining order, or other similar
+relief which applies to the perpetrator of the act of domestic violence; or
+(b) Obtained certification confirming domestic violence as set forth in
+subdivision (5)(a)(iii) of section 76-1431.
+(2) To have a lock changed under this section, the tenant shall:
+(a) Provide the landlord a copy of the documentation described in
+subsection (1) of this section; and
+(b) Provide the landlord a written notice containing the request that the
+locks be changed immediately.
+(3) The landlord shall change the locks to the tenant's dwelling unit as
+provided in section 50 of this act within twenty-four hours after receiving the
+tenant's written request.
+Sec. 50. (1) A landlord required to change locks under section 48 or 49
+of this act shall do so by either:
+(a) Replacing the entire locking mechanism with a locking mechanism of
+equal or better quality than the lock being replaced; or
+(b) If the lock is in good working condition:
+(i) Rekeying the lock; or
+(ii) In the case of a keyless electronic lock, resetting the entry code.
+(2)(a) If a landlord fails to change the locks as required by this
+section, the tenant:
+(i) May change the locks in a workmanlike manner with locks of similar or
+better quality than the original lock;
+(ii) Shall timely notify the landlord that the locks have been changed;
+and
+(iii) Shall, by a reasonable method agreed upon by the landlord and
+tenant, provide the landlord with a new key or the entry code by which to
+-15-
+
+LB80 LB80
+2025 2025
+access the dwelling unit.
+(b) This subsection applies notwithstanding any provision in the rental
+agreement to the contrary.
+(3) A landlord who installs a new lock pursuant to this section may retain
+a copy of the key or entry code that opens the new lock.
+(4) The landlord may require the tenant to pay for the actual and
+reasonable cost incurred by the landlord in changing the locks under this
+section.
+Sec. 51. Original sections 28-311.02, 28-311.05, 42-901, 42-905,
+42-924.01, 42-924.03, 42-927, 42-928, 42-929, 42-931, 43-2,107, and 60-3209,
+Reissue Revised Statutes of Nebraska, and sections 25-2740, 28-311.04,
+28-311.12, 28-358.01, 28-710, 28-713.01, 28-1205, 28-1206, 29-404.02, 29-422,
+29-2292, 42-903, 42-924, 42-924.02, 42-925, 42-926, 43-1609, 43-1611, and
+76-1401, Revised Statutes Cumulative Supplement, 2024, are repealed.
+Sec. 52. The following sections are outright repealed: Section 28-311.10,
+Reissue Revised Statutes of Nebraska, and sections 28-311.09 and 28-311.11,
+Revised Statutes Cumulative Supplement, 2024.
+-16-
+
+[DELETED: yH 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 2 4 4 4 2 t a t P O A t e t p o p o t d t t p p f v a h p o t p f o r o c a o n t a m a p t p p a d t l t a o d v a t o h t t p t h p t r t s a t o r s 2 R S o N a s 2 a 2 H p m a a m f c o C a t s a u s 2 o 2 ( ( A v o d a m f a p a p s s t e a d o a d o a t a d a i t m r a m ( E t r f i a r u t ( E t r f t c o a p n t e n d I t o g s t ( D t t p h s p o a k a h p o p l k o h b t0L52]
+[DELETED:  ( O s o r d n t p f t a w o t p a a d f o h ( I s p o a h p i o b a c t s ( ( o t s s p b f t d o t d a p o o u h p T p s n p t s o c a t p m b h b t c c o t c a p i s 2 A p f a p a p o S p a a f r s b a t w f d b t e o t p s t t h b n m c i r I t i a c b s 4 t 4 a a 4  ( A v w h b h m f a p a s s t e a d o a d o a T c o o c w t T s d n a t c w o d l a f a s a p o a p i t c t s a o i t m r a T c o o c w t0L52]
+[DELETED:  o t d c a t p m b h b t c A p f a p o m n b w e u a p o a a p f a o s t o T c m s f t s o o i m 8  ( I a d a p o o s a d a t f o t p a t c s c o t a t b g t t r s t t I a h p o i n i o r e p t t r m s c w s o s n b A c m t a p f a d a h o a p o a a p f a o s t o r e p t t r i i r a f t F a d a p o t p w b i F a h p o o a s a p a p o e p t t r i t s f i t a ( d n s t t p w s a s h t b s u t r I t o i e a a s h T p a I a o u s 4 i n i e p t c0L52]
+[DELETED:  o s n b i t c s i a f p i u s 4 t a r f f a p i s ( o s 4 u d o b t c p t s d I t o g t s c s n e t n o d s b t u t r s c w t o s n r i p f a h p o o a s a p i i a f t f i t p a a e a a s h t s o p o i m T c m s f t s o o i m u t e p W i t p o s A p o m b r o t b o t p s t t h b n m c i r o o y t c o t f c d f t F a r d a p o i t c g 1  D a h o a p o t p a 1  T c m b r o o r o a a m a d a p o t a r f f a ( ( U t i o a t e p p d o l l e a a t l s U r o t o a i f s t s f s t p o u t r a f i0L52]
+[DELETED:  I a p o i d o m b t c t e o t o o d o m I t r h A d r t b p u t s i n b t c a s h t t p o w b a r i e a f s o n d i ( o t s i n r f p o p W p b t p t c s m c v i i i s s n p o e e S a s m t c t n c u s 2 t b s u t 1 S 4 R R S o N i A t f h a c m a c a w t 1 S 4 R R S o N i t r a d t t r i e t  p o a v f d a p o p t s 2 o t a o a v f s p o r p t s 2 o t a  T t o h p c t b t t p h s 4 , o a v o a v f p o A a p o p p b a p o o u 4 o 4 a a f a o e a p f p i p t s 4 , o a p p a p f c p i u s s o t0L52]
+[DELETED:  c m b T c s i a o d t s p h n c w a p p b s o t a ( T c o t d c s m a p a a f f a t o p o t d o a d o s i T a f s n b r a s o b a f t c u T a a f p f i t s a w a t s f t a c o t d c i t s T 2  W p b t p t c s m n v i i i s A v f p o r t d o f i b a t o a s t o t s b f f a c b t c o t s a e ( A v f h o s a p T h o s a p o f a h n b r a b t p a t u ( T r f a c o c p o o w p s s a a s a o a ( t i c m s f o o s a o a b t p a A p o m r u a c o a p v f D r m m p u t P ( d s a c a s o a c u s 4 t 4 o p t0L52]
+[DELETED:  E a p i s ( o t s i d b a c c j o b a d c j I t p t c b h b a c c j t c c j p e i h b a c c j a a o o o a d c j T t i a d r h b a c c j s b p a p i I a t t j p f p o c i t b d h j o s p o c 2 S 2 R R S o N i s o w w p v f b w i t t o i b i t p l a w w n p c F p o s 2 t 2 , 2 a H m t e i a k a w c o c a a s p w s t t o o o s t p o t c o o F o h m m a s o f s o t t v o p r t t v b c o o t s d r m f i p c b t e o a o S c c v m a g p  s s s t s 2 S c o v s 2 i g o a C  A p c o v s 2 i g o  T p h a p c u s s o  P O A o a s 2 2 4 o o i v o a v f h p o p t s 2 o 2 o t a 2 o a v s a p o r p t s 2 S 2 R R S o N i ( I m i a ( c f t0L52]
+[DELETED:  s a c f p o p c w v d o p c w f f v o I d n i ( m i p b  p c f t v a o s a , ( O A p t s 2 a v f p o r p t s 2 o 2 o t i p t s 4 a o e a p f p i p t s 4 , o a v f o r p t s 4 o ( a A r m a c a o ( c n a ( t p o o r f n s a A r i a a t t r a o n h o a t s o t r s n b P i a s t b s e t s o a m a d i s 2 o b a P i a s t b a t v a d i C a c m a c o t ( a a t o f t t e t s 2 a 2 a ( i a m i g C a m a a o c s r o a o n u a e a v t a d n i a f a t w t c a t a t s o c a t r o f a o I m f g b t d u a a v t o b l e r t t w c a o n h o a w c o w w a c i r p t a t l ( N c m a o c o b t0L52]
+[DELETED:  d c c r c a a d i 7 o c c f o i a t n l h a t t c i u o c b t d a s i n f t t s o a t s m k o t p a o t d i b n l t t s p C a c a c o l e b t S D o E o w w s a p o t d p t s 2 w r a f U r o a r o c a o n a a t h c t f o t i v a d n t a m i w w i h  I t s o a r o c a o n a  ( U c o t i p t s I s o a o c a o n t T s o t r o c a o n s b g a f w t n d i s ( o t a b s t t a m i a p i I t s o t r w b e i t c0L52]
+[DELETED:  n t r t d t a o e i f t r o t r t s r f t I t s o t r o c a o n i a m I t s o t r w n b e i t c ( A p w u a f a k b o i o a o d w t c a f w m b i a c o t s c t o o u o a d A p w p a f a k b o i P o a d w o t a f d t P o a d w w i a f d t A v o t s s b t a a s a o f t u c b c a a s P o a d w m b p t e D m m a m v o a o t ( A o a u c i t t d u s ( C m u s 2 i s v f a i i t c o a m c o K v o a d a p o u ( A a u s 2 t c a o0L52]
+[DELETED:  M c o d v h t s m a i w o a d d d i p t o a t c o a f o c t a t p o a f a k b o i k a a t c o a f r o w s I t s o a c a v v i d w t p s y o a m c o d T f c m h b h i a c i t U t s s t o p o t D o P o a d w w i n a f b  P o a d w w i a f b a p F p o t s m c o d i a d r a d i s 2 o a p A p s n b c t h b c o  T p w r b c i t c o k a I t c o a p f a m c o d T o h a i a w b f o D v p o m a p o i0L52]
+[DELETED:  ( R l m a s l c p t s o o s d o i p t h f o t f f i t S o S a p o m a p o i ( E a p i s 1 o t a s p e ( w n b a u i a i a ( m d o c e o t o s m o ( h c a m i t A t c o i a k c b P b p m a i f o i b A i a w a w u t s w i c s b b b a c i t c w t a m b i p o c r b m o H m i s o f s c D r m f i a p t a 2 4 a 4 a p o s b t b h t c m d t e o a j o a t i o a s a p t d o W a c c a r t d j t c c t f s f i s 2 a a o0L52]
+[DELETED:  t s o a d o p p t a d s b g b t N P A A a p j a i s n s a m h b U s c o t c o p a t o w o a a a p f a u e b t d a t d t a w e o A m t o o o o m o t f a A t c o i a k c b F p o t s c t m a v o d o a t i b a p o c o  f h o h s o t s o h o h f I i n n p t t f b d a c t u t E i s c o s p w c a F o h m i s o f s p w a p r t o w h r H p m a a m f c o i m t o o t s i u T c s s s i b n b S p t m s n o v o a a A l e a i t s s p o o t p o d a p t d w s t s a f a t a f a h 4 S 4 R R S o N i0L52]
+[DELETED:  f u t N J C a t c f t s i o m b d o h t t j N o t m e a t o r o o c t o s b e n t e t d a s n b ( C s r s b a w n b o f l r t e t e d a p o i u t P O A C s r s b a b o o t d s j c o c c T S C s A c s r s b s o a t w a h a e t c a t m a j a t r a b a d c o s j c j  e a c o c s o m P O A s 4 t a c s r f ( C p d h b a g e i n a p r f p o s 8 t 8 a S 7 t 7 a s 4 t 5 o t a t t m h t p r f t r a O a p o r o o o s O c c d v a s f i T h t p r f a r a u t P t l a c o t d d i0L52]
+[DELETED:  T t p m b w t r f o w i t p o t a o d v T s s t f n p f i s ( o 7 o s p o t d p b t r I a n l t t d u p t s 5 o T n t r t b t m p u p d i s ( o s 7 t l F s f r o p o t p a t T n t r t b t m p u I j i e i f o t l i a s b T n t r t b t m p u O a p o r o o o s O c c d v a s f i P t l a c o t d d i R t e l m w a l m o I a l f t c t l a r b t S b a r m a u b t l a p t l w a n k o t e c b w t0L52]
+[DELETED:  T s a n a p i t r T l m r t t t p f t a a c i b t l i c t l u t 5  O s 2 2 4 4 4 4 4 4 4 4 a 6 R S o N a s 2 2 4 4 4 4 4 4 4 a R S o N a s 2 a 20L52]

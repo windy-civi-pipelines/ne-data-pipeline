@@ -1,0 +1,30 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Conrad FA83
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA83 FA83
+LB382 LB382
+Floor Amendment To LB382
+Introduced by Conrad, 46.
+Amend the contents of AM680 to LB48 into LB382
+-1-
+[DELETED: yC3F2L]
+
+
+================================================================================
+
+Raw Text:
+FA83 FA83
+LB382 LB382
+Floor Amendment To LB382
+Introduced by Conrad, 46.
+Amend the contents of AM680 to LB48 into LB382
+-1-
+
+[DELETED: yC3F2L]

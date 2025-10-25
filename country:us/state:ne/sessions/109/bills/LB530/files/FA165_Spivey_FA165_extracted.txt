@@ -1,0 +1,33 @@
+Title: In AM1218, on page 1, strike lines 13 through 17 and insert the following
+Official Title: In AM1218, on page 1, strike lines 13 through 17 and insert the following
+Number of Sections: 1
+Source: versions - Spivey FA165
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA165 FA165
+LB530 LB530
+Floor Amendment To LB530
+(Amendment to AM1218)
+Introduced by Spivey, 13.
+new subsection: "(2) A violation of this section is a Class I misdemeanor."
+-1-
+[DELETED: yS5F0L]
+
+
+================================================================================
+
+Raw Text:
+FA165 FA165
+LB530 LB530
+Floor Amendment To LB530
+(Amendment to AM1218)
+Introduced by Spivey, 13.
+In AM1218, on page 1, strike lines 13 through 17 and insert the following
+new subsection: "(2) A violation of this section is a Class I misdemeanor."
+-1-
+
+[DELETED: yS5F0L]

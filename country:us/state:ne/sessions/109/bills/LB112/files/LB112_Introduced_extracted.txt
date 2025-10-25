@@ -1,0 +1,309 @@
+Title: LEGISLATIVE BILL 112
+Official Title: LEGISLATIVE BILL 112
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB112 LB112
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Quick, 35.
+Read first time January 10, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to motor vehicles; to amend sections 60-171
+2 and 60-173, Reissue Revised Statutes of Nebraska; to change
+3 provisions relating to salvage branded certificates of title; to
+4 define and redefine terms; and to repeal the original sections.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB112 LB112
+2025 2025
+1 Section 1. Section 60-171, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 60-171 For purposes of sections 60-171 to 60-177:
+4 (1) Consumer care has the same meaning as in section 60-1401.10;
+5 (2) (1) Cost of repairs means the estimated or actual retail cost of
+6 parts needed to repair a vehicle plus the cost of labor computed by using
+7 the hourly labor rate and time allocations for repair that are customary
+8 and reasonable. Retail cost of parts and labor rates may be based upon
+9 collision estimating manuals or electronic computer estimating systems
+10 customarily used in the insurance industry;
+11 (3) (2) Flood damaged means damage to a vehicle resulting from being
+12 submerged in water to the point that rising water has reached over the
+13 floorboard, has entered the passenger compartment, and has caused damage
+14 to any electrical, computerized, or mechanical components. Flood damaged
+15 specifically does not apply to a vehicle that an inspection, conducted by
+16 an insurance claim representative or a vehicle repairer, indicates:
+17 (a) Has no electrical, computerized, or mechanical components
+18 damaged by water; or
+19 (b) Had one or more electrical, computerized, or mechanical
+20 components damaged by water and all such damaged components were repaired
+21 or replaced;
+22 (4) (3) Late model vehicle means a vehicle which has (a) a
+23 manufacturer's model year designation of, or later than, the year in
+24 which the vehicle was wrecked, damaged, or destroyed, or any of the six
+25 preceding years or (b)(i) in the case of vehicles other than all-terrain
+26 vehicles, utility-type vehicles, and minibikes, a retail value of more
+27 than ten thousand five hundred dollars until January 1, 2010, and a
+28 retail value of more than ten thousand five hundred dollars increased by
+29 five hundred dollars every five years thereafter or (ii) in the case of
+30 all-terrain vehicles, utility-type vehicles, or minibikes, a retail value
+31 of more than one thousand seven hundred fifty dollars until January 1,
+-2-
+LB112 LB112
+2025 2025
+1 2010, and a retail value of more than one thousand seven hundred fifty
+2 dollars increased by two hundred fifty dollars every five years
+3 thereafter;
+4 (5) (4) Manufacturer buyback means the designation of a vehicle with
+5 an alleged nonconformity when the vehicle (a) has been replaced by a
+6 manufacturer or (b) has been repurchased by a manufacturer as the result
+7 of court judgment, arbitration, or any voluntary agreement entered into
+8 between the manufacturer or its agent and a consumer;
+9 (6) (5) Previously salvaged or rebuilt each mean the designation of
+10 a rebuilt vehicle which was previously required to be issued a salvage
+11 branded certificate of title and which has been inspected as provided in
+12 section 60-146;
+13 (7) (6) Retail value means the actual cash value, fair market value,
+14 or retail value of a vehicle as (a) set forth in a current edition of any
+15 nationally recognized compilation, including automated databases, of
+16 retail values or (b) determined pursuant to a market survey of comparable
+17 vehicles with respect to condition and equipment; and
+18 (8) (7) Salvage means the designation of a vehicle that which is:
+19 (a) A late model vehicle which has been wrecked, damaged, or
+20 destroyed to the extent that the estimated total cost of repair to
+21 rebuild or reconstruct the vehicle to its condition immediately before it
+22 was wrecked, damaged, or destroyed and to restore the vehicle to a
+23 condition for legal operation, meets or exceeds seventy-five percent of
+24 the retail value of the vehicle at the time it was wrecked, damaged, or
+25 destroyed; or
+26 (b) Voluntarily designated by the owner of the vehicle as a salvage
+27 vehicle by obtaining a salvage branded certificate of title, without
+28 respect to the damage to, age of, or value of the vehicle; or .
+29 (c) Deemed a structurally totaled vehicle by a facility that
+30 performs consumer care and by an insurance company that insured the
+31 vehicle at the time it sustained the damage that caused it to be deemed a
+-3-
+LB112 LB112
+2025 2025
+1 structurally totaled vehicle; and
+2 (9)(a) Structurally totaled vehicle means a vehicle totaled due to a
+3 kink or crease in a frame rail, a unibody, or a structural component,
+4 including an engine cradle or a rear differential;
+5 (b) Structurally totaled vehicle does not include a vehicle deemed a
+6 total loss due to hail or cosmetic damage; and
+7 (c) Structurally totaled vehicle does not include a vehicle if the
+8 cost to perform repairs does not exceed seventy-five percent of the
+9 actual cash value of the vehicle.
+10 Sec. 2. Section 60-173, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 60-173 (1) When an insurance company acquires a salvage vehicle
+13 through payment of a total loss settlement on account of damage or as a
+14 result of a determination that the vehicle is a structurally totaled
+15 vehicle, the company shall obtain the certificate of title from the
+16 owner, surrender such certificate of title to the county treasurer, and
+17 make application for a salvage branded certificate of title which shall
+18 be assigned when the company transfers ownership. An insurer shall take
+19 title to a salvage vehicle for which a total loss settlement is made
+20 unless the owner of the salvage vehicle elects to retain the salvage
+21 vehicle.
+22 (2) If the owner elects to retain the salvage vehicle, the insurance
+23 company shall notify the department of such fact in a format prescribed
+24 by the department. The department shall immediately enter the salvage
+25 brand onto the computerized record of the vehicle. Beginning on the
+26 implementation date designated by the director pursuant to subsection (3)
+27 of section 60-1508, the insurance company shall report electronically to
+28 the department using the electronic reporting system. The insurance
+29 company shall also notify the owner of the owner's responsibility to
+30 comply with this section. The owner shall, within thirty days after the
+31 settlement of the loss, forward the properly endorsed acceptable
+-4-
+LB112 LB112
+2025 2025
+1 certificate of title to the county treasurer in the county designated in
+2 section 60-144. Upon receipt of the certificate of title, the county
+3 treasurer shall issue a salvage branded certificate of title for the
+4 vehicle unless the vehicle has been repaired and inspected as provided in
+5 section 60-146, in which case the county treasurer shall issue a
+6 previously salvaged branded certificate of title for the vehicle.
+7 (3) An insurance company may apply to the department for a salvage
+8 branded certificate of title without obtaining a properly endorsed
+9 certificate of title from the owner or other evidence of ownership as
+10 prescribed by the department if it has been at least thirty days since
+11 the company obtained oral or written acceptance by the owner of an offer
+12 in an amount in settlement of a total loss. The insurance company shall
+13 submit an application form prescribed by the department for a salvage
+14 branded certificate of title accompanied by an affidavit from the
+15 insurance company that it has made at least two written attempts and has
+16 been unable to obtain the proper endorsed certificate of title from the
+17 owner following an oral or written acceptance by the owner of an offer of
+18 an amount in settlement of a total loss and evidence of settlement.
+19 Sec. 3. Original sections 60-171 and 60-173, Reissue Revised
+20 Statutes of Nebraska, are repealed.
+-5-
+[DELETED: yQAa 6 R R S o N t cp r t s b c o t tdB2L52]
+[DELETED: Sa6((ptac e m o e c e s0c1(2s3f4t5s6a7( H n e c o m c8d9( H o o m e c o m0c1o2( ( L m v m a v w h ( 3m m y d o o l t t y i4w5p6v u v a m a r v o m7t t t f h d u J 1 2 a 8r9f0a1o2L52]
+[DELETED: 2d i b t h f d e f yt(a a n w t v ( h b r b mob(0a1b2s3(4o5n r c i a d o6r7v8(9( A l m v w h b w d o0d t t e t t e t c o r t1r2w w d o d a t r t v t 3c4t5d6(7v b o a s b c o t w8r9( D a s t v b a f t0p c c a b a i c t i t1v2L52]
+[DELETED: s(k o c i a f r a u o a s ci(t(c t p r d n e s p o ta0S 2 S 6 R R S o N i1a26 ( W a i c a a s v3t4r o a d t t v i a s t5v t c s o t c o t f t6o7m8b9t t a s v f w a t l s i m0u t o o t s v e t r t s1v2(3c4b t d T d s i e t s5b o t c r o t v B o t6i7o8t d u t e r s T i9c s a n t o o t o r t0c1s o t l f t p e a2L52]
+[DELETED: cs 6 U r o t c o t t ct s i a s b c o t f tvs 6 i w c t c t s i p(b c o t w o a p ec o t f t o o o e o o a0p1t2i3s a a f p b t d f a s4b c o t a b a a f t5i6b7o8a9S 3  O s 6 a 6 R R0S2L52]
+
+
+================================================================================
+
+Raw Text:
+LB112 LB112
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 112
+Introduced by Quick, 35.
+Read first time January 10, 2025
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to motor vehicles; to amend sections 60-171
+2 and 60-173, Reissue Revised Statutes of Nebraska; to change
+3 provisions relating to salvage branded certificates of title; to
+4 define and redefine terms; and to repeal the original sections.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB112 LB112
+2025 2025
+1 Section 1. Section 60-171, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 60-171 For purposes of sections 60-171 to 60-177:
+4 (1) Consumer care has the same meaning as in section 60-1401.10;
+5 (2) (1) Cost of repairs means the estimated or actual retail cost of
+6 parts needed to repair a vehicle plus the cost of labor computed by using
+7 the hourly labor rate and time allocations for repair that are customary
+8 and reasonable. Retail cost of parts and labor rates may be based upon
+9 collision estimating manuals or electronic computer estimating systems
+10 customarily used in the insurance industry;
+11 (3) (2) Flood damaged means damage to a vehicle resulting from being
+12 submerged in water to the point that rising water has reached over the
+13 floorboard, has entered the passenger compartment, and has caused damage
+14 to any electrical, computerized, or mechanical components. Flood damaged
+15 specifically does not apply to a vehicle that an inspection, conducted by
+16 an insurance claim representative or a vehicle repairer, indicates:
+17 (a) Has no electrical, computerized, or mechanical components
+18 damaged by water; or
+19 (b) Had one or more electrical, computerized, or mechanical
+20 components damaged by water and all such damaged components were repaired
+21 or replaced;
+22 (4) (3) Late model vehicle means a vehicle which has (a) a
+23 manufacturer's model year designation of, or later than, the year in
+24 which the vehicle was wrecked, damaged, or destroyed, or any of the six
+25 preceding years or (b)(i) in the case of vehicles other than all-terrain
+26 vehicles, utility-type vehicles, and minibikes, a retail value of more
+27 than ten thousand five hundred dollars until January 1, 2010, and a
+28 retail value of more than ten thousand five hundred dollars increased by
+29 five hundred dollars every five years thereafter or (ii) in the case of
+30 all-terrain vehicles, utility-type vehicles, or minibikes, a retail value
+31 of more than one thousand seven hundred fifty dollars until January 1,
+-2-
+
+LB112 LB112
+2025 2025
+1 2010, and a retail value of more than one thousand seven hundred fifty
+2 dollars increased by two hundred fifty dollars every five years
+3 thereafter;
+4 (5) (4) Manufacturer buyback means the designation of a vehicle with
+5 an alleged nonconformity when the vehicle (a) has been replaced by a
+6 manufacturer or (b) has been repurchased by a manufacturer as the result
+7 of court judgment, arbitration, or any voluntary agreement entered into
+8 between the manufacturer or its agent and a consumer;
+9 (6) (5) Previously salvaged or rebuilt each mean the designation of
+10 a rebuilt vehicle which was previously required to be issued a salvage
+11 branded certificate of title and which has been inspected as provided in
+12 section 60-146;
+13 (7) (6) Retail value means the actual cash value, fair market value,
+14 or retail value of a vehicle as (a) set forth in a current edition of any
+15 nationally recognized compilation, including automated databases, of
+16 retail values or (b) determined pursuant to a market survey of comparable
+17 vehicles with respect to condition and equipment; and
+18 (8) (7) Salvage means the designation of a vehicle that which is:
+19 (a) A late model vehicle which has been wrecked, damaged, or
+20 destroyed to the extent that the estimated total cost of repair to
+21 rebuild or reconstruct the vehicle to its condition immediately before it
+22 was wrecked, damaged, or destroyed and to restore the vehicle to a
+23 condition for legal operation, meets or exceeds seventy-five percent of
+24 the retail value of the vehicle at the time it was wrecked, damaged, or
+25 destroyed; or
+26 (b) Voluntarily designated by the owner of the vehicle as a salvage
+27 vehicle by obtaining a salvage branded certificate of title, without
+28 respect to the damage to, age of, or value of the vehicle; or .
+29 (c) Deemed a structurally totaled vehicle by a facility that
+30 performs consumer care and by an insurance company that insured the
+31 vehicle at the time it sustained the damage that caused it to be deemed a
+-3-
+
+LB112 LB112
+2025 2025
+1 structurally totaled vehicle; and
+2 (9)(a) Structurally totaled vehicle means a vehicle totaled due to a
+3 kink or crease in a frame rail, a unibody, or a structural component,
+4 including an engine cradle or a rear differential;
+5 (b) Structurally totaled vehicle does not include a vehicle deemed a
+6 total loss due to hail or cosmetic damage; and
+7 (c) Structurally totaled vehicle does not include a vehicle if the
+8 cost to perform repairs does not exceed seventy-five percent of the
+9 actual cash value of the vehicle.
+10 Sec. 2. Section 60-173, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 60-173 (1) When an insurance company acquires a salvage vehicle
+13 through payment of a total loss settlement on account of damage or as a
+14 result of a determination that the vehicle is a structurally totaled
+15 vehicle, the company shall obtain the certificate of title from the
+16 owner, surrender such certificate of title to the county treasurer, and
+17 make application for a salvage branded certificate of title which shall
+18 be assigned when the company transfers ownership. An insurer shall take
+19 title to a salvage vehicle for which a total loss settlement is made
+20 unless the owner of the salvage vehicle elects to retain the salvage
+21 vehicle.
+22 (2) If the owner elects to retain the salvage vehicle, the insurance
+23 company shall notify the department of such fact in a format prescribed
+24 by the department. The department shall immediately enter the salvage
+25 brand onto the computerized record of the vehicle. Beginning on the
+26 implementation date designated by the director pursuant to subsection (3)
+27 of section 60-1508, the insurance company shall report electronically to
+28 the department using the electronic reporting system. The insurance
+29 company shall also notify the owner of the owner's responsibility to
+30 comply with this section. The owner shall, within thirty days after the
+31 settlement of the loss, forward the properly endorsed acceptable
+-4-
+
+LB112 LB112
+2025 2025
+1 certificate of title to the county treasurer in the county designated in
+2 section 60-144. Upon receipt of the certificate of title, the county
+3 treasurer shall issue a salvage branded certificate of title for the
+4 vehicle unless the vehicle has been repaired and inspected as provided in
+5 section 60-146, in which case the county treasurer shall issue a
+6 previously salvaged branded certificate of title for the vehicle.
+7 (3) An insurance company may apply to the department for a salvage
+8 branded certificate of title without obtaining a properly endorsed
+9 certificate of title from the owner or other evidence of ownership as
+10 prescribed by the department if it has been at least thirty days since
+11 the company obtained oral or written acceptance by the owner of an offer
+12 in an amount in settlement of a total loss. The insurance company shall
+13 submit an application form prescribed by the department for a salvage
+14 branded certificate of title accompanied by an affidavit from the
+15 insurance company that it has made at least two written attempts and has
+16 been unable to obtain the proper endorsed certificate of title from the
+17 owner following an oral or written acceptance by the owner of an offer of
+18 an amount in settlement of a total loss and evidence of settlement.
+19 Sec. 3. Original sections 60-171 and 60-173, Reissue Revised
+20 Statutes of Nebraska, are repealed.
+-5-
+
+[DELETED: yQAa 6 R R S o N t cp r t s b c o t tdB2L52]
+[DELETED: Sa6((ptac e m o e c e s0c1(2s3f4t5s6a7( H n e c o m c8d9( H o o m e c o m0c1o2( ( L m v m a v w h ( 3m m y d o o l t t y i4w5p6v u v a m a r v o m7t t t f h d u J 1 2 a 8r9f0a1o2L52]
+[DELETED: 2d i b t h f d e f yt(a a n w t v ( h b r b mob(0a1b2s3(4o5n r c i a d o6r7v8(9( A l m v w h b w d o0d t t e t t e t c o r t1r2w w d o d a t r t v t 3c4t5d6(7v b o a s b c o t w8r9( D a s t v b a f t0p c c a b a i c t i t1v2L52]
+[DELETED: s(k o c i a f r a u o a s ci(t(c t p r d n e s p o ta0S 2 S 6 R R S o N i1a26 ( W a i c a a s v3t4r o a d t t v i a s t5v t c s o t c o t f t6o7m8b9t t a s v f w a t l s i m0u t o o t s v e t r t s1v2(3c4b t d T d s i e t s5b o t c r o t v B o t6i7o8t d u t e r s T i9c s a n t o o t o r t0c1s o t l f t p e a2L52]
+[DELETED: cs 6 U r o t c o t t ct s i a s b c o t f tvs 6 i w c t c t s i p(b c o t w o a p ec o t f t o o o e o o a0p1t2i3s a a f p b t d f a s4b c o t a b a a f t5i6b7o8a9S 3  O s 6 a 6 R R0S2L52]

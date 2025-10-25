@@ -1,0 +1,378 @@
+Title: LEGISLATIVE BILL 35
+Official Title: LEGISLATIVE BILL 35
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LB35 LB35
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Brandt, 32.
+Read first time January 09, 2025
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to privately developed renewable energy
+2 generation facilities; to amend section 70-1014.02, Revised Statutes
+3 Cumulative Supplement, 2024; to change provisions relating to the
+4 requirements for certain exemptions; and to repeal the original
+5 section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB35 LB35
+2025 2025
+1 Section 1. Section 70-1014.02, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 70-1014.02 (1) The Legislature finds that:
+4 (a) Nebraska has the authority as a sovereign state to protect its
+5 land, natural resources, and cultural resources for economic and
+6 aesthetic purposes for the benefit of its residents and future
+7 generations by regulation of energy generation projects;
+8 (b) The unique terrain and ecology of the Nebraska Sandhills provide
+9 an irreplaceable habitat for millions of migratory birds and other
+10 wildlife every year and serve as the home to numerous ranchers and
+11 farmers;
+12 (c) The grasslands of the Nebraska Sandhills and other natural
+13 resources in Nebraska will become increasingly valuable, both
+14 economically and strategically, as the demand for food and energy
+15 increases; and
+16 (d) The Nebraska Sandhills are home to priceless archaeological
+17 sites of historical and cultural significance to American Indians.
+18 (2)(a) A privately developed renewable energy generation facility
+19 that meets the requirements of this section is exempt from sections
+20 70-1012 to 70-1014.01 if, no less than thirty days prior to the
+21 commencement of construction, the owner of the facility:
+22 (i) Notifies the board in writing of its intent to commence
+23 construction of a privately developed renewable energy generation
+24 facility;
+25 (ii) Certifies to the board that the facility will meet the
+26 requirements for a privately developed renewable energy generation
+27 facility;
+28 (iii) Certifies to the board that the private electric supplier will
+29 (A) comply with any decommissioning requirements adopted by the local
+30 governmental entities having jurisdiction over the privately developed
+31 renewable energy generation facility and (B) except as otherwise provided
+-2-
+LB35 LB35
+2025 2025
+1 in subdivision (b) of this subsection, submit a decommissioning plan to
+2 the board obligating the private electric supplier to bear all costs of
+3 decommissioning the privately developed renewable energy generation
+4 facility and requiring that the private electric supplier post a security
+5 bond or other instrument, no later than the sixth year following
+6 commercial operation, securing the costs of decommissioning the facility
+7 and provide a copy of the bond or instrument to the board;
+8 (iv) Certifies to the board that the private electric supplier has
+9 entered into or prior to commencing construction will enter into a joint
+10 transmission development agreement pursuant to subdivision (c) of this
+11 subsection with the electric supplier owning the transmission facilities
+12 of sixty thousand volts or greater to which the privately developed
+13 renewable energy generation facility will interconnect;
+14 (v) Certifies to the board that the private electric supplier has
+15 consulted with the Game and Parks Commission to identify potential
+16 measures to avoid, minimize, and mitigate impacts to species identified
+17 under subsection (1) or (2) of section 37-806 during the project planning
+18 and design phases, if possible, but in no event later than the
+19 commencement of construction;
+20 (vi) Certifies in writing to the board that the facility, if located
+21 within a ten-mile radius of a military installation:
+22 (A) Contains no materials, electronics, or other components
+23 manufactured by any foreign government or foreign nongovernment person
+24 determined to be a foreign adversary pursuant to 15 C.F.R. 7.4; or
+25 (B) Will, upon reaching commercial operation, be Is in compliance
+26 with the critical infrastructure protection requirements issued by the
+27 North American Electric Reliability Corporation if connected to the
+28 transmission grid at one hundred kilovolts or higher voltage and has to
+29 have a nameplate rating of twenty megavolt amperes for a single
+30 generation unit or injecting at an aggregate of seventy-five megavolt
+31 amperes or greater. The private electric supplier shall also submit
+-3-
+LB35 LB35
+2025 2025
+1 written notice to the board at any time such private electric supplier is
+2 no longer in such compliance; and
+3 (vii) For a proposed privately developed renewable energy generation
+4 facility that has a generating capacity that is greater than ten
+5 megawatts, certifies to the board that the private electric supplier has
+6 held at least one public meeting with advanced publicized notice in one
+7 of the counties in which the proposed facility will be located at which
+8 (A) the private electric supplier explains the need for the proposed
+9 facility and the type of facility and (B) real property owners in any of
+10 the counties in which the proposed facility will be located are provided
+11 an opportunity to comment on the proposed facility. The private electric
+12 supplier shall provide a report to the board containing the minutes of
+13 any such meeting and how many people commented on the proposed facility.
+14 Documentation received at any such meeting shall be made available to the
+15 board upon its request. A meeting described in this subdivision is not
+16 subject to the requirements described in subdivision (3)(b)(iv) of
+17 section 84-1411.
+18 (b) The board may bring an action in the name of the State of
+19 Nebraska for failure to comply with subdivision (a)(iii)(B) of this
+20 subsection, except that such subdivision does not apply if a local
+21 government entity with the authority to create requirements for
+22 decommissioning has enacted decommissioning requirements for the
+23 applicable jurisdiction.
+24 (c) A joint transmission development agreement shall be entered into
+25 to address construction, ownership, operation, and maintenance of such
+26 additions or upgrades to the transmission facilities as required for the
+27 privately developed renewable energy generation facility. The joint
+28 transmission development agreement shall be negotiated and executed
+29 contemporaneously with the generator interconnection agreement or other
+30 directives of the applicable regional transmission organization with
+31 jurisdiction over the addition or upgrade of transmission, upon terms
+-4-
+LB35 LB35
+2025 2025
+1 consistent with prudent electric utility practices for the
+2 interconnection of renewable generation facilities, the electric
+3 supplier's reasonable transmission interconnection requirements, and
+4 applicable transmission design and construction standards. The electric
+5 supplier shall have the right to purchase and own transmission facilities
+6 as set forth in the joint transmission development agreement. The private
+7 electric supplier of the privately developed renewable energy generation
+8 facility shall have the right to construct any necessary facilities or
+9 improvements set forth in the joint transmission development agreement
+10 pursuant to the standards set forth in the agreement at the private
+11 electric supplier's cost.
+12 (3) Within ten days after receipt of a written notice complying with
+13 subsection (2) of this section, the executive director of the board shall
+14 issue a written acknowledgment that the privately developed renewable
+15 energy generation facility is exempt from sections 70-1012 to 70-1014.01
+16 if such facility remains in compliance with the requirements of this
+17 section.
+18 (4) The exemption allowed under this section for a privately
+19 developed renewable energy generation facility shall extend to and exempt
+20 all private electric suppliers owning any interest in the facility,
+21 including any successor private electric supplier which subsequently
+22 acquires any interest in the facility.
+23 (5) No property owned, used, or operated as part of a privately
+24 developed renewable energy generation facility shall be subject to
+25 eminent domain by a consumer-owned electric supplier operating in the
+26 State of Nebraska. Nothing in this section shall be construed to grant
+27 the power of eminent domain to a private electric supplier or limit the
+28 rights of any entity to acquire any public, municipal, or utility right-
+29 of-way across property owned, used, or operated as part of a privately
+30 developed renewable energy generation facility as long as the right-of-
+31 way does not prevent the operation of or access to the privately
+-5-
+LB35 LB35
+2025 2025
+1 developed renewable energy generation facility.
+2 (6) Only a consumer-owned electric supplier operating in the State
+3 of Nebraska may exercise eminent domain authority to acquire the land
+4 rights necessary for the construction of transmission lines and related
+5 facilities. There is a rebuttable presumption that the exercise of
+6 eminent domain to provide needed transmission lines and related
+7 facilities for a privately developed renewable energy generation facility
+8 is a public use.
+9 (7) Nothing in this section shall be construed to authorize a
+10 private electric supplier to sell or deliver electricity at retail in
+11 Nebraska.
+12 (8) Nothing in this section shall be construed to limit the
+13 authority of or require a consumer-owned electric supplier operating in
+14 the State of Nebraska to enter into a joint agreement with a private
+15 electric supplier to develop, construct, and jointly own a privately
+16 developed renewable energy generation facility.
+17 Sec. 2. Original section 70-1014.02, Revised Statutes Cumulative
+18 Supplement, 2024, is repealed.
+-6-
+[DELETED: yBA B F A A r t p d r egC S 2 t c p r t tr f c e a t r t osB5L52]
+[DELETED: S 1 S 7 R S CS7(l n r a c r f e aa p f t b o i r a fg(a i h f m o m b a o0w e y a s a t h t n r a1f2( T g o t N S a o n3r i N w b i v b4e a s a t d f f a e5i6( T N S a h t p a7s8( A p d r e g f9t m t r o t s i e f s07 t 7 i n l t t d p t t1c2( N t b i w o i i t c3c o a p d r e g4f5( C t t b t t f w m t6r f a p d r e g7f8(9( c w a d r a b t l0g e h j o t p d1r5L52]
+[DELETED: itd t p d r e gfb o o i n l t t s y fca(e0t d a p t s ( o t1s2o s t v o g t w t p d3r4( C t t b t t p e s h5c w t G a P C t i p6m7u8a d p i p b i n e l t t9c0(1w2( C n m e o o c3m b a f g o f n p4d5( W u r c o b I i c6w t c i p r i b t7N A E R C i c t t8t9h a n r o t m a f a s0g u o i a a a o s m1a o g T p e s s a s5L52]
+[DELETED: wn(f t h a g c t i g t tmho( t p e s e t n f t pf0t1a2s3a4D5b6s t t r d i s ( o7s8( T b m b a a i t n o t S o9N f f t c w s ( o t0s e t s s d n a i a l1g e w t a t c r f2d h e d r f t3a4(5t a c o o a m o s6a7p d r e g f T j8t d a s b n a e9c0d o t a r t o w1j o t a o u o t u t5L52]
+[DELETED: c w p e u p f ti o r g f t es r t i r aasaefi s f i t j t d a0p t t s s f i t a a t p1e2(3s4i a w a t t p d r5e6i s f r i c w t r o t7s8( T e a u t s f a p9d0a p e s o a i i t f1i a s p e s w s2a3( N p o u o o a p o a p4d r e g f s b s t5e d b a c e s o i t6S7t8r9o0d1w d n p t o o o a t t p5L52]
+[DELETED: d(o N m e e d a t a t lrf T i a r p t t e oe d t p n t l a rfi( N i t s s b c t a 0p e s t s o d e a r i1N2( N i t s s b c t l t3a4t S o N t e i a j a w a p5e s t d c a j o a p6d7S 2  O s 7 R S C8S5L52]
+
+
+================================================================================
+
+Raw Text:
+LB35 LB35
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 35
+Introduced by Brandt, 32.
+Read first time January 09, 2025
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to privately developed renewable energy
+2 generation facilities; to amend section 70-1014.02, Revised Statutes
+3 Cumulative Supplement, 2024; to change provisions relating to the
+4 requirements for certain exemptions; and to repeal the original
+5 section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB35 LB35
+2025 2025
+1 Section 1. Section 70-1014.02, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 70-1014.02 (1) The Legislature finds that:
+4 (a) Nebraska has the authority as a sovereign state to protect its
+5 land, natural resources, and cultural resources for economic and
+6 aesthetic purposes for the benefit of its residents and future
+7 generations by regulation of energy generation projects;
+8 (b) The unique terrain and ecology of the Nebraska Sandhills provide
+9 an irreplaceable habitat for millions of migratory birds and other
+10 wildlife every year and serve as the home to numerous ranchers and
+11 farmers;
+12 (c) The grasslands of the Nebraska Sandhills and other natural
+13 resources in Nebraska will become increasingly valuable, both
+14 economically and strategically, as the demand for food and energy
+15 increases; and
+16 (d) The Nebraska Sandhills are home to priceless archaeological
+17 sites of historical and cultural significance to American Indians.
+18 (2)(a) A privately developed renewable energy generation facility
+19 that meets the requirements of this section is exempt from sections
+20 70-1012 to 70-1014.01 if, no less than thirty days prior to the
+21 commencement of construction, the owner of the facility:
+22 (i) Notifies the board in writing of its intent to commence
+23 construction of a privately developed renewable energy generation
+24 facility;
+25 (ii) Certifies to the board that the facility will meet the
+26 requirements for a privately developed renewable energy generation
+27 facility;
+28 (iii) Certifies to the board that the private electric supplier will
+29 (A) comply with any decommissioning requirements adopted by the local
+30 governmental entities having jurisdiction over the privately developed
+31 renewable energy generation facility and (B) except as otherwise provided
+-2-
+
+LB35 LB35
+2025 2025
+1 in subdivision (b) of this subsection, submit a decommissioning plan to
+2 the board obligating the private electric supplier to bear all costs of
+3 decommissioning the privately developed renewable energy generation
+4 facility and requiring that the private electric supplier post a security
+5 bond or other instrument, no later than the sixth year following
+6 commercial operation, securing the costs of decommissioning the facility
+7 and provide a copy of the bond or instrument to the board;
+8 (iv) Certifies to the board that the private electric supplier has
+9 entered into or prior to commencing construction will enter into a joint
+10 transmission development agreement pursuant to subdivision (c) of this
+11 subsection with the electric supplier owning the transmission facilities
+12 of sixty thousand volts or greater to which the privately developed
+13 renewable energy generation facility will interconnect;
+14 (v) Certifies to the board that the private electric supplier has
+15 consulted with the Game and Parks Commission to identify potential
+16 measures to avoid, minimize, and mitigate impacts to species identified
+17 under subsection (1) or (2) of section 37-806 during the project planning
+18 and design phases, if possible, but in no event later than the
+19 commencement of construction;
+20 (vi) Certifies in writing to the board that the facility, if located
+21 within a ten-mile radius of a military installation:
+22 (A) Contains no materials, electronics, or other components
+23 manufactured by any foreign government or foreign nongovernment person
+24 determined to be a foreign adversary pursuant to 15 C.F.R. 7.4; or
+25 (B) Will, upon reaching commercial operation, be Is in compliance
+26 with the critical infrastructure protection requirements issued by the
+27 North American Electric Reliability Corporation if connected to the
+28 transmission grid at one hundred kilovolts or higher voltage and has to
+29 have a nameplate rating of twenty megavolt amperes for a single
+30 generation unit or injecting at an aggregate of seventy-five megavolt
+31 amperes or greater. The private electric supplier shall also submit
+-3-
+
+LB35 LB35
+2025 2025
+1 written notice to the board at any time such private electric supplier is
+2 no longer in such compliance; and
+3 (vii) For a proposed privately developed renewable energy generation
+4 facility that has a generating capacity that is greater than ten
+5 megawatts, certifies to the board that the private electric supplier has
+6 held at least one public meeting with advanced publicized notice in one
+7 of the counties in which the proposed facility will be located at which
+8 (A) the private electric supplier explains the need for the proposed
+9 facility and the type of facility and (B) real property owners in any of
+10 the counties in which the proposed facility will be located are provided
+11 an opportunity to comment on the proposed facility. The private electric
+12 supplier shall provide a report to the board containing the minutes of
+13 any such meeting and how many people commented on the proposed facility.
+14 Documentation received at any such meeting shall be made available to the
+15 board upon its request. A meeting described in this subdivision is not
+16 subject to the requirements described in subdivision (3)(b)(iv) of
+17 section 84-1411.
+18 (b) The board may bring an action in the name of the State of
+19 Nebraska for failure to comply with subdivision (a)(iii)(B) of this
+20 subsection, except that such subdivision does not apply if a local
+21 government entity with the authority to create requirements for
+22 decommissioning has enacted decommissioning requirements for the
+23 applicable jurisdiction.
+24 (c) A joint transmission development agreement shall be entered into
+25 to address construction, ownership, operation, and maintenance of such
+26 additions or upgrades to the transmission facilities as required for the
+27 privately developed renewable energy generation facility. The joint
+28 transmission development agreement shall be negotiated and executed
+29 contemporaneously with the generator interconnection agreement or other
+30 directives of the applicable regional transmission organization with
+31 jurisdiction over the addition or upgrade of transmission, upon terms
+-4-
+
+LB35 LB35
+2025 2025
+1 consistent with prudent electric utility practices for the
+2 interconnection of renewable generation facilities, the electric
+3 supplier's reasonable transmission interconnection requirements, and
+4 applicable transmission design and construction standards. The electric
+5 supplier shall have the right to purchase and own transmission facilities
+6 as set forth in the joint transmission development agreement. The private
+7 electric supplier of the privately developed renewable energy generation
+8 facility shall have the right to construct any necessary facilities or
+9 improvements set forth in the joint transmission development agreement
+10 pursuant to the standards set forth in the agreement at the private
+11 electric supplier's cost.
+12 (3) Within ten days after receipt of a written notice complying with
+13 subsection (2) of this section, the executive director of the board shall
+14 issue a written acknowledgment that the privately developed renewable
+15 energy generation facility is exempt from sections 70-1012 to 70-1014.01
+16 if such facility remains in compliance with the requirements of this
+17 section.
+18 (4) The exemption allowed under this section for a privately
+19 developed renewable energy generation facility shall extend to and exempt
+20 all private electric suppliers owning any interest in the facility,
+21 including any successor private electric supplier which subsequently
+22 acquires any interest in the facility.
+23 (5) No property owned, used, or operated as part of a privately
+24 developed renewable energy generation facility shall be subject to
+25 eminent domain by a consumer-owned electric supplier operating in the
+26 State of Nebraska. Nothing in this section shall be construed to grant
+27 the power of eminent domain to a private electric supplier or limit the
+28 rights of any entity to acquire any public, municipal, or utility right-
+29 of-way across property owned, used, or operated as part of a privately
+30 developed renewable energy generation facility as long as the right-of-
+31 way does not prevent the operation of or access to the privately
+-5-
+
+LB35 LB35
+2025 2025
+1 developed renewable energy generation facility.
+2 (6) Only a consumer-owned electric supplier operating in the State
+3 of Nebraska may exercise eminent domain authority to acquire the land
+4 rights necessary for the construction of transmission lines and related
+5 facilities. There is a rebuttable presumption that the exercise of
+6 eminent domain to provide needed transmission lines and related
+7 facilities for a privately developed renewable energy generation facility
+8 is a public use.
+9 (7) Nothing in this section shall be construed to authorize a
+10 private electric supplier to sell or deliver electricity at retail in
+11 Nebraska.
+12 (8) Nothing in this section shall be construed to limit the
+13 authority of or require a consumer-owned electric supplier operating in
+14 the State of Nebraska to enter into a joint agreement with a private
+15 electric supplier to develop, construct, and jointly own a privately
+16 developed renewable energy generation facility.
+17 Sec. 2. Original section 70-1014.02, Revised Statutes Cumulative
+18 Supplement, 2024, is repealed.
+-6-
+
+[DELETED: yBA B F A A r t p d r egC S 2 t c p r t tr f c e a t r t osB5L52]
+[DELETED: S 1 S 7 R S CS7(l n r a c r f e aa p f t b o i r a fg(a i h f m o m b a o0w e y a s a t h t n r a1f2( T g o t N S a o n3r i N w b i v b4e a s a t d f f a e5i6( T N S a h t p a7s8( A p d r e g f9t m t r o t s i e f s07 t 7 i n l t t d p t t1c2( N t b i w o i i t c3c o a p d r e g4f5( C t t b t t f w m t6r f a p d r e g7f8(9( c w a d r a b t l0g e h j o t p d1r5L52]
+[DELETED: itd t p d r e gfb o o i n l t t s y fca(e0t d a p t s ( o t1s2o s t v o g t w t p d3r4( C t t b t t p e s h5c w t G a P C t i p6m7u8a d p i p b i n e l t t9c0(1w2( C n m e o o c3m b a f g o f n p4d5( W u r c o b I i c6w t c i p r i b t7N A E R C i c t t8t9h a n r o t m a f a s0g u o i a a a o s m1a o g T p e s s a s5L52]
+[DELETED: wn(f t h a g c t i g t tmho( t p e s e t n f t pf0t1a2s3a4D5b6s t t r d i s ( o7s8( T b m b a a i t n o t S o9N f f t c w s ( o t0s e t s s d n a i a l1g e w t a t c r f2d h e d r f t3a4(5t a c o o a m o s6a7p d r e g f T j8t d a s b n a e9c0d o t a r t o w1j o t a o u o t u t5L52]
+[DELETED: c w p e u p f ti o r g f t es r t i r aasaefi s f i t j t d a0p t t s s f i t a a t p1e2(3s4i a w a t t p d r5e6i s f r i c w t r o t7s8( T e a u t s f a p9d0a p e s o a i i t f1i a s p e s w s2a3( N p o u o o a p o a p4d r e g f s b s t5e d b a c e s o i t6S7t8r9o0d1w d n p t o o o a t t p5L52]
+[DELETED: d(o N m e e d a t a t lrf T i a r p t t e oe d t p n t l a rfi( N i t s s b c t a 0p e s t s o d e a r i1N2( N i t s s b c t l t3a4t S o N t e i a j a w a p5e s t d c a j o a p6d7S 2  O s 7 R S C8S5L52]

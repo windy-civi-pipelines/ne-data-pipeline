@@ -1,0 +1,398 @@
+Title: LEGISLATIVE BILL 493
+Official Title: LEGISLATIVE BILL 493
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LB493 LB493
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Conrad, 46.
+Read first time January 21, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to civil procedure; to adopt the Uniform
+2 Public Expression Protection Act; to eliminate provisions relating
+3 to actions involving public petition and participation; to provide
+4 severability; to outright repeal sections 25-21,241, 25-21,242,
+5 25-21,243, 25-21,244, 25-21,245, and 25-21,246, Reissue Revised
+6 Statutes of Nebraska; and to declare an emergency.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+LB493 LB493
+2025 2025
+1 Section 1. Sections 1 to 14 of this act shall be known and may be
+2 cited as the Uniform Public Expression Protection Act.
+3 Sec. 2. (a) In this section:
+4 (1) Goods or services does not include the creation, dissemination,
+5 exhibition, or advertisement or similar promotion of a dramatic,
+6 literary, musical, political, journalistic, or artistic work.
+7 (2) Governmental unit means a public corporation or government or
+8 governmental subdivision, agency, or instrumentality.
+9 (3) Person means an individual, estate, trust, partnership, business
+10 or nonprofit entity, governmental unit, or other legal entity.
+11 (b) Except as otherwise provided in subsection (c), the Uniform
+12 Public Expression Protection Act applies to a cause of action asserted in
+13 a civil action against a person based on the person's:
+14 (1) communication in a legislative, executive, judicial,
+15 administrative, or other governmental proceeding;
+16 (2) communication on an issue under consideration or review in a
+17 legislative, executive, judicial, administrative, or other governmental
+18 proceeding; or
+19 (3) exercise of the right of freedom of speech or of the press, the
+20 right to assemble or petition, or the right of association, guaranteed by
+21 the United States Constitution or the Constitution of Nebraska, on a
+22 matter of public concern.
+23 (c) The Uniform Public Expression Protection Act does not apply to a
+24 cause of action asserted:
+25 (1) against a governmental unit or an employee or agent of a
+26 governmental unit acting or purporting to act in an official capacity;
+27 (2) by a governmental unit or an employee or agent of a governmental
+28 unit acting in an official capacity to enforce a law to protect against
+29 an imminent threat to public health or safety; or
+30 (3) against a person primarily engaged in the business of selling or
+31 leasing goods or services if the cause of action arises out of a
+-2-
+LB493 LB493
+2025 2025
+1 communication related to the person's sale or lease of the goods or
+2 services.
+3 Sec. 3. Not later than sixty days after a party is served with a
+4 complaint, petition, crossclaim, counterclaim, third-party claim, or
+5 other pleading that asserts a cause of action to which the Uniform Public
+6 Expression Protection Act applies, or at a later time on a showing of
+7 good cause, the party may file a special motion for expedited relief to
+8 dismiss the cause of action or part of the cause of action.
+9 Sec. 4. (a) Except as otherwise provided in subsections (d) through
+10 (g), on the filing of a motion under section 3 of this act:
+11 (1) all other proceedings between the moving party and responding
+12 party, including discovery and a pending hearing or motion, are stayed;
+13 and
+14 (2) on motion by the moving party, the court may stay a hearing or
+15 motion involving another party, or discovery by another party, if the
+16 hearing or ruling on the motion would adjudicate, or the discovery would
+17 relate to, an issue material to the motion under section 3 of this act.
+18 (b) A stay under subsection (a) remains in effect until entry of an
+19 order ruling on the motion under section 3 of this act and expiration of
+20 the time under section 9 of this act for the moving party to appeal the
+21 order.
+22 (c) Except as otherwise provided in subsections (e), (f), and (g),
+23 if a party appeals from an order ruling on a motion under section 3 of
+24 this act, all proceedings between all parties in the action are stayed.
+25 The stay remains in effect until the conclusion of the appeal.
+26 (d) During a stay under subsection (a), the court may allow limited
+27 discovery if a party shows that specific information is necessary to
+28 establish whether a party has satisfied or failed to satisfy a burden
+29 under subsection (a) of section 7 of this act and the information is not
+30 reasonably available unless discovery is allowed.
+31 (e) A motion under section 10 of this act for costs, attorney's
+-3-
+LB493 LB493
+2025 2025
+1 fees, and expenses is not subject to a stay under this section.
+2 (f) A stay under this section does not affect a party's ability
+3 voluntarily to dismiss a cause of action or part of a cause of action or
+4 move to sever a cause of action.
+5 (g) During a stay under this section, the court for good cause may
+6 hear and rule on:
+7 (1) a motion unrelated to the motion under section 3 of this act;
+8 and
+9 (2) a motion seeking a special or preliminary injunction to protect
+10 against an imminent threat to public health or safety.
+11 Sec. 5. (a) The court shall hear a motion under section 3 of this
+12 act not later than sixty days after filing of the motion, unless the
+13 court orders a later hearing:
+14 (1) to allow discovery under subsection (d) of section 4 of this
+15 act; or
+16 (2) for other good cause.
+17 (b) If the court orders a later hearing under subsection (a)(1), the
+18 court shall hear the motion under section 3 of this act not later than
+19 sixty days after the court order allowing the discovery, unless the court
+20 orders a later hearing under subsection (a)(2).
+21 Sec. 6. In ruling on a motion under section 3 of this act, the
+22 court shall consider the pleadings, the motion, any reply or response to
+23 the motion, and any evidence that could be considered in ruling on a
+24 motion for summary judgment.
+25 Sec. 7. (a) In ruling on a motion under section 3 of this act, the
+26 court shall dismiss with prejudice a cause of action, or part of a cause
+27 of action, if:
+28 (1) the moving party establishes under subsection (b) of section 2
+29 of this act that the Uniform Public Expression Protection Act applies;
+30 (2) the responding party fails to establish under subsection (c) of
+31 section 2 of this act that the Uniform Public Expression Protection Act
+-4-
+LB493 LB493
+2025 2025
+1 does not apply; and
+2 (3) either:
+3 (A) the responding party fails to establish a prima facie case as to
+4 each essential element of the cause of action; or
+5 (B) the moving party establishes that:
+6 (i) the responding party failed to state a cause of action upon
+7 which relief can be granted; or
+8 (ii) there is no genuine issue as to any material fact and the
+9 moving party is entitled to judgment as a matter of law on the cause of
+10 action or part of the cause of action.
+11 (b) A voluntary dismissal without prejudice of a responding party's
+12 cause of action, or part of a cause of action, that is the subject of a
+13 motion under section 3 of this act does not affect a moving party's right
+14 to obtain a ruling on the motion and seek costs, attorney's fees, and
+15 expenses under section 10 of this act.
+16 (c) A voluntary dismissal with prejudice of a responding party's
+17 cause of action, or part of a cause of action, that is the subject of a
+18 motion under section 3 of this act establishes for the purpose of section
+19 10 of this act that the moving party prevailed on the motion.
+20 Sec. 8. The court shall rule on a motion under section 3 of this
+21 act not later than sixty days after a hearing under section 5 of this
+22 act.
+23 Sec. 9. A moving party may appeal as a matter of right from an
+24 order denying, in whole or in part, a motion under section 3 of this act.
+25 The appeal must be filed not later than twenty-one days after entry of
+26 the order.
+27 Sec. 10. On a motion under section 3 of this act, the court shall
+28 award court costs, reasonable attorney's fees, and reasonable litigation
+29 expenses related to the motion:
+30 (1) to the moving party if the moving party prevails on the motion;
+31 or
+-5-
+LB493 LB493
+2025 2025
+1 (2) to the responding party if the responding party prevails on the
+2 motion and the court finds that the motion was frivolous or filed solely
+3 with intent to delay the proceeding.
+4 Sec. 11. The Uniform Public Expression Protection Act must be
+5 broadly construed and applied to protect the exercise of the right of
+6 freedom of speech and of the press, the right to assemble and petition,
+7 and the right of association, guaranteed by the United States
+8 Constitution or the Constitution of Nebraska.
+9 Sec. 12. In applying and construing the Uniform Public Expression
+10 Protection Act, consideration must be given to the need to promote
+11 uniformity of the law with respect to its subject matter among states
+12 that enact it.
+13 Sec. 13. The Uniform Public Expression Protection Act applies to a
+14 civil action filed or cause of action asserted in a civil action on or
+15 after the effective date of this act.
+16 Sec. 14. The Uniform Public Expression Protection Act does not
+17 affect a cause of action asserted before the effective date of this act
+18 in a civil action or a motion under sections 25-21,241 to 25-21,246
+19 regarding the cause of action.
+20 Sec. 15. If any section in this act or any part of any section is
+21 declared invalid or unconstitutional, the declaration shall not affect
+22 the validity or constitutionality of the remaining portions.
+23 Sec. 16. The following sections are outright repealed: Sections
+24 25-21,241, 25-21,242, 25-21,243, 25-21,244, 25-21,245, and 25-21,246,
+25 Reissue Revised Statutes of Nebraska.
+26 Sec. 17. Since an emergency exists, this act takes effect when
+27 passed and approved according to law.
+-6-
+[DELETED: yCA B F A A r t c p t a t UP E P A t e p rts t o r s 2 22 2 2 a 2 R RSB3L52]
+[DELETED: ScS(e o a o s p o a dl( G u m a p c o g og(0o1( E a o p i s ( t U2P3a4( c i a l e j5a6( c o a i u c o r i 7l e j a o o g8p9(0r1t U S C o t C o N o 2m3(4c5( a a g u o a e o a o 6g7(8u9a0(1l g o s i t c o a a o o 3L52]
+[DELETED: c r t t p s o l o t g osSc p c c t c ooE P A a o a a l t o a s ogdS0(1( a o p b t m p a r2p3a4(5m i a p o d b a p i t6h7r8(9o0t1o2(3i4t5T6(7d i a p s t s i i n t8e w a p h s o f t s a b9u0r1( A m u s 1 o t a f c a3L52]
+[DELETED: f( A s u t s d n a a p avm(h(a(0a1S2a n l t s d a f o t m u t3c4( t a d u s ( o s 4 o t5a6(7(8c9s0o1S 6  I r o a m u s 3 o t a t2c3t m a a e t c b c i r o 4m5S6c7o8(9o0(1s3L52]
+[DELETED: d((e(( t r p f t s a c o a uw( t i n g i a t a m f a tm0a1(2c3m4t o a r o t m a s c a f a5e6( A v d w p o a r p7c8m910S1a 52a3S 9  A m p m a a a m o r f a4o5T6t7S8a9e0(1o3L52]
+[DELETED: (mwS 1  T U P E P A m bb c a a t p t e o t r ofa t r o a g b t U SCS0P A c m b g t t n t p1u o t l w r t i s m a s2t3S4c5a6S 1  T U P E P A d n7a8i a c a o a m u s 2 t 29r0S1d i o u t d s n a2t3S 1  T f s a o r S42 2 2 2 2 a 25R6S 1  S a e e t a t e w7p3L52]
+
+
+================================================================================
+
+Raw Text:
+LB493 LB493
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 493
+Introduced by Conrad, 46.
+Read first time January 21, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to civil procedure; to adopt the Uniform
+2 Public Expression Protection Act; to eliminate provisions relating
+3 to actions involving public petition and participation; to provide
+4 severability; to outright repeal sections 25-21,241, 25-21,242,
+5 25-21,243, 25-21,244, 25-21,245, and 25-21,246, Reissue Revised
+6 Statutes of Nebraska; and to declare an emergency.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB493 LB493
+2025 2025
+1 Section 1. Sections 1 to 14 of this act shall be known and may be
+2 cited as the Uniform Public Expression Protection Act.
+3 Sec. 2. (a) In this section:
+4 (1) Goods or services does not include the creation, dissemination,
+5 exhibition, or advertisement or similar promotion of a dramatic,
+6 literary, musical, political, journalistic, or artistic work.
+7 (2) Governmental unit means a public corporation or government or
+8 governmental subdivision, agency, or instrumentality.
+9 (3) Person means an individual, estate, trust, partnership, business
+10 or nonprofit entity, governmental unit, or other legal entity.
+11 (b) Except as otherwise provided in subsection (c), the Uniform
+12 Public Expression Protection Act applies to a cause of action asserted in
+13 a civil action against a person based on the person's:
+14 (1) communication in a legislative, executive, judicial,
+15 administrative, or other governmental proceeding;
+16 (2) communication on an issue under consideration or review in a
+17 legislative, executive, judicial, administrative, or other governmental
+18 proceeding; or
+19 (3) exercise of the right of freedom of speech or of the press, the
+20 right to assemble or petition, or the right of association, guaranteed by
+21 the United States Constitution or the Constitution of Nebraska, on a
+22 matter of public concern.
+23 (c) The Uniform Public Expression Protection Act does not apply to a
+24 cause of action asserted:
+25 (1) against a governmental unit or an employee or agent of a
+26 governmental unit acting or purporting to act in an official capacity;
+27 (2) by a governmental unit or an employee or agent of a governmental
+28 unit acting in an official capacity to enforce a law to protect against
+29 an imminent threat to public health or safety; or
+30 (3) against a person primarily engaged in the business of selling or
+31 leasing goods or services if the cause of action arises out of a
+-2-
+
+LB493 LB493
+2025 2025
+1 communication related to the person's sale or lease of the goods or
+2 services.
+3 Sec. 3. Not later than sixty days after a party is served with a
+4 complaint, petition, crossclaim, counterclaim, third-party claim, or
+5 other pleading that asserts a cause of action to which the Uniform Public
+6 Expression Protection Act applies, or at a later time on a showing of
+7 good cause, the party may file a special motion for expedited relief to
+8 dismiss the cause of action or part of the cause of action.
+9 Sec. 4. (a) Except as otherwise provided in subsections (d) through
+10 (g), on the filing of a motion under section 3 of this act:
+11 (1) all other proceedings between the moving party and responding
+12 party, including discovery and a pending hearing or motion, are stayed;
+13 and
+14 (2) on motion by the moving party, the court may stay a hearing or
+15 motion involving another party, or discovery by another party, if the
+16 hearing or ruling on the motion would adjudicate, or the discovery would
+17 relate to, an issue material to the motion under section 3 of this act.
+18 (b) A stay under subsection (a) remains in effect until entry of an
+19 order ruling on the motion under section 3 of this act and expiration of
+20 the time under section 9 of this act for the moving party to appeal the
+21 order.
+22 (c) Except as otherwise provided in subsections (e), (f), and (g),
+23 if a party appeals from an order ruling on a motion under section 3 of
+24 this act, all proceedings between all parties in the action are stayed.
+25 The stay remains in effect until the conclusion of the appeal.
+26 (d) During a stay under subsection (a), the court may allow limited
+27 discovery if a party shows that specific information is necessary to
+28 establish whether a party has satisfied or failed to satisfy a burden
+29 under subsection (a) of section 7 of this act and the information is not
+30 reasonably available unless discovery is allowed.
+31 (e) A motion under section 10 of this act for costs, attorney's
+-3-
+
+LB493 LB493
+2025 2025
+1 fees, and expenses is not subject to a stay under this section.
+2 (f) A stay under this section does not affect a party's ability
+3 voluntarily to dismiss a cause of action or part of a cause of action or
+4 move to sever a cause of action.
+5 (g) During a stay under this section, the court for good cause may
+6 hear and rule on:
+7 (1) a motion unrelated to the motion under section 3 of this act;
+8 and
+9 (2) a motion seeking a special or preliminary injunction to protect
+10 against an imminent threat to public health or safety.
+11 Sec. 5. (a) The court shall hear a motion under section 3 of this
+12 act not later than sixty days after filing of the motion, unless the
+13 court orders a later hearing:
+14 (1) to allow discovery under subsection (d) of section 4 of this
+15 act; or
+16 (2) for other good cause.
+17 (b) If the court orders a later hearing under subsection (a)(1), the
+18 court shall hear the motion under section 3 of this act not later than
+19 sixty days after the court order allowing the discovery, unless the court
+20 orders a later hearing under subsection (a)(2).
+21 Sec. 6. In ruling on a motion under section 3 of this act, the
+22 court shall consider the pleadings, the motion, any reply or response to
+23 the motion, and any evidence that could be considered in ruling on a
+24 motion for summary judgment.
+25 Sec. 7. (a) In ruling on a motion under section 3 of this act, the
+26 court shall dismiss with prejudice a cause of action, or part of a cause
+27 of action, if:
+28 (1) the moving party establishes under subsection (b) of section 2
+29 of this act that the Uniform Public Expression Protection Act applies;
+30 (2) the responding party fails to establish under subsection (c) of
+31 section 2 of this act that the Uniform Public Expression Protection Act
+-4-
+
+LB493 LB493
+2025 2025
+1 does not apply; and
+2 (3) either:
+3 (A) the responding party fails to establish a prima facie case as to
+4 each essential element of the cause of action; or
+5 (B) the moving party establishes that:
+6 (i) the responding party failed to state a cause of action upon
+7 which relief can be granted; or
+8 (ii) there is no genuine issue as to any material fact and the
+9 moving party is entitled to judgment as a matter of law on the cause of
+10 action or part of the cause of action.
+11 (b) A voluntary dismissal without prejudice of a responding party's
+12 cause of action, or part of a cause of action, that is the subject of a
+13 motion under section 3 of this act does not affect a moving party's right
+14 to obtain a ruling on the motion and seek costs, attorney's fees, and
+15 expenses under section 10 of this act.
+16 (c) A voluntary dismissal with prejudice of a responding party's
+17 cause of action, or part of a cause of action, that is the subject of a
+18 motion under section 3 of this act establishes for the purpose of section
+19 10 of this act that the moving party prevailed on the motion.
+20 Sec. 8. The court shall rule on a motion under section 3 of this
+21 act not later than sixty days after a hearing under section 5 of this
+22 act.
+23 Sec. 9. A moving party may appeal as a matter of right from an
+24 order denying, in whole or in part, a motion under section 3 of this act.
+25 The appeal must be filed not later than twenty-one days after entry of
+26 the order.
+27 Sec. 10. On a motion under section 3 of this act, the court shall
+28 award court costs, reasonable attorney's fees, and reasonable litigation
+29 expenses related to the motion:
+30 (1) to the moving party if the moving party prevails on the motion;
+31 or
+-5-
+
+LB493 LB493
+2025 2025
+1 (2) to the responding party if the responding party prevails on the
+2 motion and the court finds that the motion was frivolous or filed solely
+3 with intent to delay the proceeding.
+4 Sec. 11. The Uniform Public Expression Protection Act must be
+5 broadly construed and applied to protect the exercise of the right of
+6 freedom of speech and of the press, the right to assemble and petition,
+7 and the right of association, guaranteed by the United States
+8 Constitution or the Constitution of Nebraska.
+9 Sec. 12. In applying and construing the Uniform Public Expression
+10 Protection Act, consideration must be given to the need to promote
+11 uniformity of the law with respect to its subject matter among states
+12 that enact it.
+13 Sec. 13. The Uniform Public Expression Protection Act applies to a
+14 civil action filed or cause of action asserted in a civil action on or
+15 after the effective date of this act.
+16 Sec. 14. The Uniform Public Expression Protection Act does not
+17 affect a cause of action asserted before the effective date of this act
+18 in a civil action or a motion under sections 25-21,241 to 25-21,246
+19 regarding the cause of action.
+20 Sec. 15. If any section in this act or any part of any section is
+21 declared invalid or unconstitutional, the declaration shall not affect
+22 the validity or constitutionality of the remaining portions.
+23 Sec. 16. The following sections are outright repealed: Sections
+24 25-21,241, 25-21,242, 25-21,243, 25-21,244, 25-21,245, and 25-21,246,
+25 Reissue Revised Statutes of Nebraska.
+26 Sec. 17. Since an emergency exists, this act takes effect when
+27 passed and approved according to law.
+-6-
+
+[DELETED: yCA B F A A r t c p t a t UP E P A t e p rts t o r s 2 22 2 2 a 2 R RSB3L52]
+[DELETED: ScS(e o a o s p o a dl( G u m a p c o g og(0o1( E a o p i s ( t U2P3a4( c i a l e j5a6( c o a i u c o r i 7l e j a o o g8p9(0r1t U S C o t C o N o 2m3(4c5( a a g u o a e o a o 6g7(8u9a0(1l g o s i t c o a a o o 3L52]
+[DELETED: c r t t p s o l o t g osSc p c c t c ooE P A a o a a l t o a s ogdS0(1( a o p b t m p a r2p3a4(5m i a p o d b a p i t6h7r8(9o0t1o2(3i4t5T6(7d i a p s t s i i n t8e w a p h s o f t s a b9u0r1( A m u s 1 o t a f c a3L52]
+[DELETED: f( A s u t s d n a a p avm(h(a(0a1S2a n l t s d a f o t m u t3c4( t a d u s ( o s 4 o t5a6(7(8c9s0o1S 6  I r o a m u s 3 o t a t2c3t m a a e t c b c i r o 4m5S6c7o8(9o0(1s3L52]
+[DELETED: d((e(( t r p f t s a c o a uw( t i n g i a t a m f a tm0a1(2c3m4t o a r o t m a s c a f a5e6( A v d w p o a r p7c8m910S1a 52a3S 9  A m p m a a a m o r f a4o5T6t7S8a9e0(1o3L52]
+[DELETED: (mwS 1  T U P E P A m bb c a a t p t e o t r ofa t r o a g b t U SCS0P A c m b g t t n t p1u o t l w r t i s m a s2t3S4c5a6S 1  T U P E P A d n7a8i a c a o a m u s 2 t 29r0S1d i o u t d s n a2t3S 1  T f s a o r S42 2 2 2 2 a 25R6S 1  S a e e t a t e w7p3L52]

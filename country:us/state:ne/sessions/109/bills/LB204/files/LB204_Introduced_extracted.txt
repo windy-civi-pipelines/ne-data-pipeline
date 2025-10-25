@@ -1,0 +1,658 @@
+Title: LEGISLATIVE BILL 204
+Official Title: LEGISLATIVE BILL 204
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LB204 LB204
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Kauth, 31.
+Read first time January 14, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to biometric data; to adopt the Biometric
+2 Autonomy Liberty Law; and to provide an operative date.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+LB204 LB204
+2025 2025
+1 Section 1. Sections 1 to 19 of this act shall be known and may be
+2 cited as the Biometric Autonomy Liberty Law.
+3 Sec. 2. The Legislature finds that:
+4 (1) The use of biometric data is growing in commercial, therapeutic,
+5 and recreational applications;
+6 (2) The use of biometric data to identify or monitor individuals is
+7 unlike other unique identifiers that are used in commercial and
+8 recreational applications. Biometric data of an individual that has been
+9 compromised leaves the individual with no recourse, a heightened risk for
+10 identity theft, and a greater likelihood to withdraw from transactions
+11 facilitated by biometric data;
+12 (3) An overwhelming majority of members of the public are weary of
+13 the use of biometric data when such data is tied to finances and other
+14 personal information;
+15 (4) The ramifications of biometric data technology are not fully
+16 known; and
+17 (5) The public's welfare, security, and safety will be served by
+18 regulating the collection, use, safeguarding, handling, storage,
+19 retention, and destruction of biometric data.
+20 Sec. 3. For purposes of the Biometric Autonomy Liberty Law:
+21 (1)(a) Biometric data means data that is generated to identify a
+22 specific individual through an automatic measurement of a biological
+23 characteristic of such individual and includes any:
+24 (i) Fingerprint;
+25 (ii) Voice print;
+26 (iii) Retina image;
+27 (iv) Iris image; or
+28 (v) Unique biological pattern or characteristic.
+29 (b) Biometric data does not include:
+30 (i) Any photograph, video recording, or audio recording, except for
+31 data generated or collected from the biological characteristics of a
+-2-
+LB204 LB204
+2025 2025
+1 person depicted in any such photograph, video recording, or audio
+2 recording; or
+3 (ii) Information collected, used, or stored for health care
+4 treatment, payment, or operations under the Health Insurance Portability
+5 and Accountability Act;
+6 (2) Collect means to gather, acquire, or obtain;
+7 (3) Confidential and sensitive data means personal data that can be
+8 used to uniquely identify an individual or an individual's account or
+9 property, including any biometric data, genetic marker, genetic testing
+10 data, unique identifier number used to locate any account or property,
+11 account number, personal identification number, pass code, motor vehicle
+12 operator's license number, state identification card number, or social
+13 security number;
+14 (4) Controller means any private entity or public entity that, alone
+15 or jointly with others, determines the purpose and means of processing
+16 biometric data;
+17 (5) Disclose includes redisclosure and dissemination;
+18 (6) Implantable device means a biocompatible device that can be
+19 implanted inside the body;
+20 (7) Portable means the ability of an individual to transfer
+21 biometric data in a usable form from one controller or processor to
+22 another controller or processor;
+23 (8) Possess means to have any custody of, to have any control of, to
+24 manage the storage of, or to use;
+25 (9)(a) Private entity means any individual, partnership,
+26 corporation, limited liability company, association, or other group or
+27 entity, however organized.
+28 (b) Private entity does not include a public entity;
+29 (10) Process or processing means an operation or set of operations
+30 performed, whether by manual or automated means, on biometric data or on
+31 sets of biometric data, such as the collection, use, storage, disclosure,
+-3-
+LB204 LB204
+2025 2025
+1 analysis, deletion, or modification of biometric data;
+2 (11) Processor means any private entity or public entity that
+3 processes biometric data on behalf of a controller;
+4 (12) Public entity means:
+5 (a) The State of Nebraska or any agent acting on behalf of the State
+6 of Nebraska;
+7 (b) Any state or local governmental agency or any agent acting on
+8 behalf of any state or local governmental agency;
+9 (c) Any political subdivision of the State of Nebraska or any agent
+10 acting on behalf of any political subdivision of the State of Nebraska;
+11 (d) Any court of Nebraska or any judge, justice, or agent acting on
+12 behalf of such court; and
+13 (e) The Legislative Council or any agent acting on behalf of the
+14 Legislative Council;
+15 (13) Secure means to make certain that biometric data is:
+16 (a) Protected from the danger of loss;
+17 (b) Protected from corruption of the data; and
+18 (c) Safe from disclosure to any party not authorized to collect or
+19 possess the data;
+20 (14)(a) Security purpose means the prevention or investigation of
+21 any safety concern or criminal activity; and
+22 (b) Security purpose includes:
+23 (i) Assisting a law enforcement investigation, protecting property
+24 from trespass, controlling access to property, or protecting any person
+25 from harm, including stalking, violence, or harassment; and
+26 (ii) Enforcement through any photograph, video recording, drug test,
+27 or identification method; and
+28 (15) Written consent means a document that indicates informed
+29 written consent that:
+30 (a) Is provided in a physical or an electronic format by an
+31 individual who is nineteen years of age or older or by such individual’s
+-4-
+LB204 LB204
+2025 2025
+1 legal guardian or legally authorized representative;
+2 (b) Only uses language that is clear, concise, and written at the
+3 seventh-grade lexile as such lexile is defined by the State Department of
+4 Education; and
+5 (c)(i) For a physical document, is physically signed by the person
+6 who is providing the written consent; or
+7 (ii) For a digital document, contains an affirmative indication of
+8 consent made by the person who is providing the written consent.
+9 Sec. 4. Biometric data is the property of the individual from whom
+10 the data was originally collected. An individual may sell the right to
+11 use his or her biometric data or otherwise consent to its use.
+12 Sec. 5. Any private entity or public entity shall not require or
+13 coerce any individual to be subject to any implantable device.
+14 Sec. 6. Except as provided in section 18 of this act, a private
+15 entity shall not require or coerce any individual to wear or be subject
+16 to a device of any kind that collects biometric data.
+17 Sec. 7. Except as provided in section 18 of this act, a private
+18 entity shall not require any individual to provide or submit to the
+19 collection of biometric data.
+20 Sec. 8. (1) Except as provided in section 18 of this act, any
+21 controller or processor that is a private entity shall only collect or
+22 possess biometric data in a manner that is secure and portable.
+23 (2) Except as provided in section 18 of this act, an individual may
+24 provide a written request to a controller or processor in possession of
+25 such individual's biometric data to transfer such biometric data to
+26 another controller or processor. A controller or processor shall transfer
+27 such biometric data as requested within thirty calendar days after
+28 receiving such written request.
+29 Sec. 9. (1) Except as provided in section 18 of this act, any
+30 controller or processor that is a private entity that is or intends to be
+31 in possession of any individual's biometric data shall develop and make
+-5-
+LB204 LB204
+2025 2025
+1 available to the public a written policy establishing a retention
+2 schedule and guidelines for permanently destroying biometric data at the
+3 earliest occurrence of the following:
+4 (a) Unless the individual has provided written consent to a longer
+5 term, the initial purpose for collecting or possessing such data has been
+6 satisfied;
+7 (b) Unless the individual has provided written consent to a longer
+8 term, within one year after the last interaction between the private
+9 entity and the individual from whom the data was originally collected; or
+10 (c) The expiration or withdrawal of the written consent from the
+11 individual from whom the data was originally collected.
+12 (2) Except if necessary to comply with a warrant or subpoena issued
+13 by a court of competent jurisdiction, a controller or processor that is a
+14 private entity in possession of biometric data shall comply with the
+15 established retention schedule and destruction guidelines of such
+16 controller or processor.
+17 Sec. 10. (1) Except as provided in section 18 of this act, a
+18 private entity shall not collect or possess an individual's biometric
+19 data unless the individual from whom the data was originally collected,
+20 or such individual's legal guardian or legally authorized representative,
+21 has provided written consent that (a) authorizes such collection or
+22 possession and (b) specifies the purpose and duration for such collection
+23 or possession.
+24 (2) Each document used to provide written consent shall include a
+25 biometric data collection warning. Such warning shall clearly and
+26 conspicuously indicate the biometric data that will be collected or
+27 possessed, the purpose and duration for such collection or possession,
+28 and a statement that is substantially similar to the following:
+29 (a) "Do you consent to [private entity] collecting your biometric
+30 data for [each specified purpose]?";
+31 (b) "Do you consent to [private entity] possessing your biometric
+-6-
+LB204 LB204
+2025 2025
+1 data for [each specified purpose]?"; and
+2 (c) "Do you consent to [private entity] selling or sharing your
+3 biometric data with [any third party]?".
+4 Sec. 11. (1) Except as provided in subsection (2) of this section
+5 and section 18 of this act, a private entity or public entity shall not
+6 provide a difference in any service, good, benefit, or reward provided to
+7 any individual who does not consent to the collection or possession of
+8 biometric data.
+9 (2) A private entity or public entity may provide a difference in
+10 any service, good, benefit, or reward provided to any individual who does
+11 not consent to the collection or possession of biometric data if such
+12 collection or possession is necessary to the provision of the service,
+13 good, benefit, or reward such that its absence would render the service,
+14 good, benefit, or reward inoperable, meaningless, or irrelevant.
+15 Sec. 12. (1) A private entity or public entity in possession of or
+16 with access to biometric data shall not sell, lease, trade, or use
+17 biometric data without the prior written consent of the individual from
+18 whom the data was originally collected.
+19 (2) This section does not apply to the use of biometric data by any
+20 law enforcement agency or any agent acting on behalf of any law
+21 enforcement agency if such use is for a legitimate purpose of the law
+22 enforcement agency.
+23 Sec. 13. A processor that is in possession of biometric data shall
+24 not disclose an individual's biometric data unless such disclosure is
+25 compliant with the Biometric Autonomy Liberty Law and:
+26 (1) Such individual or such individual's legal guardian or legally
+27 authorized representative provides written consent to the disclosure;
+28 (2) The disclosure is required or authorized by law;
+29 (3) The disclosure is required pursuant to a warrant or subpoena
+30 issued by a court of competent jurisdiction;
+31 (4) The disclosure is made pursuant to a criminal action or
+-7-
+LB204 LB204
+2025 2025
+1 proceeding;
+2 (5) The disclosure is made pursuant to a civil action or proceeding
+3 under section 15 of this act; or
+4 (6) Such processor is cooperating with any law enforcement agency
+5 and reasonably and in good faith believes the biometric data that will be
+6 disclosed concerns any of the following:
+7 (a) Conduct or activity that violates any federal, state, or local
+8 law, rule, or regulation;
+9 (b) Any missing person; or
+10 (c) Public health.
+11 Sec. 14. A processor that is in possession of biometric data shall
+12 store, transmit, and protect from disclosure all of such data:
+13 (1) Using the reasonable standard of care within the industry or
+14 profession of the processor; and
+15 (2) In a manner that:
+16 (a) Is the same as or more protective than the manner in which the
+17 processor stores, transmits, and protects other confidential and
+18 sensitive data; or
+19 (b) Converts the biometric data to a mathematical representation,
+20 including a numeric string or a similar method that cannot be used to
+21 recreate the biometric data.
+22 Sec. 15. (1) The Attorney General may:
+23 (a) Issue subpoenas and file a civil action to recover direct
+24 economic damages for any affected Nebraska resident aggrieved by a
+25 violation of the Biometric Autonomy Liberty Law; and
+26 (b) Seek injunctive relief for a violation of the Biometric Autonomy
+27 Liberty Law.
+28 (2) A violation of the Biometric Autonomy Liberty Law shall be
+29 considered a violation of section 59-1602 and be subject to the Consumer
+30 Protection Act and any other law that provides for the implementation and
+31 enforcement of section 59-1602.
+-8-
+LB204 LB204
+2025 2025
+1 (3) Before bringing an action under this section, the Attorney
+2 General or an individual shall provide written notice to the party
+3 alleged to have violated the Biometric Autonomy Liberty Law. Such party
+4 shall have sixty days from the date of receiving such notice to cure the
+5 alleged violation. If the alleged violation is cured within the sixty-day
+6 period, no action shall be maintained against such party for the alleged
+7 violation.
+8 (4) For purposes of a civil action under this section, the following
+9 conduct by a private entity shall constitute only a single violation of
+10 the Biometric Autonomy Liberty Law, notwithstanding that there were
+11 multiple instances of such conduct:
+12 (a) Collecting, capturing, purchasing, receiving through trade, or
+13 otherwise obtaining the same biometric data from the same person using
+14 the same method of collection; and
+15 (b) Disclosing the same type of biometric data obtained from the
+16 same person to the same recipient using the same method of collection.
+17 Sec. 16. A waiver of any provision of the Biometric Autonomy
+18 Liberty Law obtained without the written consent of the individual
+19 waiving such provision or such individual's legal guardian or legally
+20 authorized representative is contrary to public policy and is void and
+21 unenforceable.
+22 Sec. 17. Nothing in the Biometric Autonomy Liberty Law shall be
+23 construed to:
+24 (1) Impact the admission or discovery of biometric data in any legal
+25 action of any kind in any court or before any private entity or public
+26 entity;
+27 (2) Conflict with:
+28 (a) The Data Privacy Act;
+29 (b) The Genetic Information Privacy Act;
+30 (c) Sections 71-8401 to 71-8407; or
+31 (d) The federal Health Insurance Portability and Accountability Act
+-9-
+LB204 LB204
+2025 2025
+1 of 1996 and the rules promulgated under such act;
+2 (3) Apply to emergency medical care that is covered by the Emergency
+3 Medical Services Practice Act;
+4 (4) Apply to facial recognition technology used by the Department of
+5 Motor Vehicles for fraud detection;
+6 (5) Apply to personal data regulated by the federal Family
+7 Educational Rights and Privacy Act of 1974, 20 U.S.C. 1232g, as such act
+8 existed on January 1, 2025; or
+9 (6) Apply to a financial institution, an affiliate of a financial
+10 institution, or data subject to Title V of the Gramm-Leach-Bliley Act, 15
+11 U.S.C. 6801 et seq., as such title existed on January 1, 2025.
+12 Sec. 18. Sections 6 to 11 of this act shall not apply to biometric
+13 data collected or possessed for a security purpose.
+14 Sec. 19. The Biometric Autonomy Liberty Law shall not apply to any
+15 information collected, used, or stored for health care treatment,
+16 payment, or operations, including protected health information, under the
+17 federal Health Insurance Portability and Accountability Act of 1996 and
+18 the rules promulgated under such act.
+19 Sec. 20. This act becomes operative on January 1, 2026.
+-10-
+[DELETED: yKA B F A A r t b d t a t BAB4L52]
+[DELETED: ScS(a(u o u i t a u i c arc0i t a a g l t w f t1f2(3t4p5( T r o b d t a n f6k7( T p w s a s w b s b8r t c u s h s9r0S1( B d m d t i g t i 2s i t a a m o a b3c4(5(6(7(8(9(0(1d g o c f t b c o 4L52]
+[DELETED: p d i a s p v r o ar( I c u o s f h cta((u t u i a i o a i a op0d1a2o l n s i c n o s3s4(5o6b7(8( I d m a b d t c b9i0( P m t a o a i t t1b d i a u f f o c o p t2a3(4m5( P e m a i p6c l l c a o o g o7e8(9(0p1s4L52]
+[DELETED: a( P m a p e o p e tp((o(b(0a1(2b3( T L C o a a a o b o t4L5(6(7(8(9p0( S p m t p o i o1a2(3( A a l e i p p4f5f6(7o8( W c m a d t i i9w0( I p i a p o a e f b a1i4L52]
+[DELETED: l(sE(w(cS0t1u2S3c4S 6  E a p i s 1 o t a a p5e6t7S 7  E a p i s 1 o t a a p8e s n r a i t p o s t t9c0S 8  ( E a p i s 1 o t a a1c2p3(4p5s i b d t t s b d t6a7s b d a r w t c d a8r9S 9  ( E a p i s 1 o t a a0c1i4L52]
+[DELETED: a t t p a w p e a rse(ts(t w o y a t l i b t pe0( T e o w o t w c f t1i2(3b4p e i p o b d s c w t5e r s a d g o s6c7S 1  ( E a p i s 1 o t a 8p e s n c o p a i b9d0o1h p w c t ( a s c o2p3o4( E d u t p w c s i 5b d c w S w s c a6c i t b d t w b c o7p t p a d f s c o p8a9( " y c t [ e c y b0d1( " y c t [ e p y b4L52]
+[DELETED: d( " y c t [ e s o s ybSapab(0a1n c t t c o p o b d i s2c3g4g5S6w a t b d s n s l t o u7b8w9(0l e a o a a a o b o a l1e a i s u i f a l p o t l2e3S4n d a i b d u s d i5c6(7a8(9( T d i r p t a w o s0i1( T d i m p t a c a o4L52]
+[DELETED: p(u( S p i c w a l e aad(l(0(1S2s3( U t r s o c w t i o4p5(6(7p s t a p o c a8s9( C t b d t a m r0i a n s o a s m t c b u t1r2S3( I s a f a c a t r d4e d f a a N r a b 5v6(7L8( A v o t B A L L s b9c0P1e4L52]
+[DELETED: ( B b a a u t s t AG o a i s p w n t t pasapv(c0t B A L L n t t w1m2( C c p r t t o3o4t5( D t s t o b d o f t6s7S 1  A w o a p o t B A8L L o w t w c o t i9w s p o s i l g o l0a1u2S 1  N i t B A L L s b3c4(5a6e7(8(9(0(1(4L52]
+[DELETED: o(M(M( A t p d r b t f FEe( A t a f i a a o a f0i1U2S3d4S5i c u o s f h c t6p7f8t9S4L52]
+
+
+================================================================================
+
+Raw Text:
+LB204 LB204
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 204
+Introduced by Kauth, 31.
+Read first time January 14, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to biometric data; to adopt the Biometric
+2 Autonomy Liberty Law; and to provide an operative date.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB204 LB204
+2025 2025
+1 Section 1. Sections 1 to 19 of this act shall be known and may be
+2 cited as the Biometric Autonomy Liberty Law.
+3 Sec. 2. The Legislature finds that:
+4 (1) The use of biometric data is growing in commercial, therapeutic,
+5 and recreational applications;
+6 (2) The use of biometric data to identify or monitor individuals is
+7 unlike other unique identifiers that are used in commercial and
+8 recreational applications. Biometric data of an individual that has been
+9 compromised leaves the individual with no recourse, a heightened risk for
+10 identity theft, and a greater likelihood to withdraw from transactions
+11 facilitated by biometric data;
+12 (3) An overwhelming majority of members of the public are weary of
+13 the use of biometric data when such data is tied to finances and other
+14 personal information;
+15 (4) The ramifications of biometric data technology are not fully
+16 known; and
+17 (5) The public's welfare, security, and safety will be served by
+18 regulating the collection, use, safeguarding, handling, storage,
+19 retention, and destruction of biometric data.
+20 Sec. 3. For purposes of the Biometric Autonomy Liberty Law:
+21 (1)(a) Biometric data means data that is generated to identify a
+22 specific individual through an automatic measurement of a biological
+23 characteristic of such individual and includes any:
+24 (i) Fingerprint;
+25 (ii) Voice print;
+26 (iii) Retina image;
+27 (iv) Iris image; or
+28 (v) Unique biological pattern or characteristic.
+29 (b) Biometric data does not include:
+30 (i) Any photograph, video recording, or audio recording, except for
+31 data generated or collected from the biological characteristics of a
+-2-
+
+LB204 LB204
+2025 2025
+1 person depicted in any such photograph, video recording, or audio
+2 recording; or
+3 (ii) Information collected, used, or stored for health care
+4 treatment, payment, or operations under the Health Insurance Portability
+5 and Accountability Act;
+6 (2) Collect means to gather, acquire, or obtain;
+7 (3) Confidential and sensitive data means personal data that can be
+8 used to uniquely identify an individual or an individual's account or
+9 property, including any biometric data, genetic marker, genetic testing
+10 data, unique identifier number used to locate any account or property,
+11 account number, personal identification number, pass code, motor vehicle
+12 operator's license number, state identification card number, or social
+13 security number;
+14 (4) Controller means any private entity or public entity that, alone
+15 or jointly with others, determines the purpose and means of processing
+16 biometric data;
+17 (5) Disclose includes redisclosure and dissemination;
+18 (6) Implantable device means a biocompatible device that can be
+19 implanted inside the body;
+20 (7) Portable means the ability of an individual to transfer
+21 biometric data in a usable form from one controller or processor to
+22 another controller or processor;
+23 (8) Possess means to have any custody of, to have any control of, to
+24 manage the storage of, or to use;
+25 (9)(a) Private entity means any individual, partnership,
+26 corporation, limited liability company, association, or other group or
+27 entity, however organized.
+28 (b) Private entity does not include a public entity;
+29 (10) Process or processing means an operation or set of operations
+30 performed, whether by manual or automated means, on biometric data or on
+31 sets of biometric data, such as the collection, use, storage, disclosure,
+-3-
+
+LB204 LB204
+2025 2025
+1 analysis, deletion, or modification of biometric data;
+2 (11) Processor means any private entity or public entity that
+3 processes biometric data on behalf of a controller;
+4 (12) Public entity means:
+5 (a) The State of Nebraska or any agent acting on behalf of the State
+6 of Nebraska;
+7 (b) Any state or local governmental agency or any agent acting on
+8 behalf of any state or local governmental agency;
+9 (c) Any political subdivision of the State of Nebraska or any agent
+10 acting on behalf of any political subdivision of the State of Nebraska;
+11 (d) Any court of Nebraska or any judge, justice, or agent acting on
+12 behalf of such court; and
+13 (e) The Legislative Council or any agent acting on behalf of the
+14 Legislative Council;
+15 (13) Secure means to make certain that biometric data is:
+16 (a) Protected from the danger of loss;
+17 (b) Protected from corruption of the data; and
+18 (c) Safe from disclosure to any party not authorized to collect or
+19 possess the data;
+20 (14)(a) Security purpose means the prevention or investigation of
+21 any safety concern or criminal activity; and
+22 (b) Security purpose includes:
+23 (i) Assisting a law enforcement investigation, protecting property
+24 from trespass, controlling access to property, or protecting any person
+25 from harm, including stalking, violence, or harassment; and
+26 (ii) Enforcement through any photograph, video recording, drug test,
+27 or identification method; and
+28 (15) Written consent means a document that indicates informed
+29 written consent that:
+30 (a) Is provided in a physical or an electronic format by an
+31 individual who is nineteen years of age or older or by such individual’s
+-4-
+
+LB204 LB204
+2025 2025
+1 legal guardian or legally authorized representative;
+2 (b) Only uses language that is clear, concise, and written at the
+3 seventh-grade lexile as such lexile is defined by the State Department of
+4 Education; and
+5 (c)(i) For a physical document, is physically signed by the person
+6 who is providing the written consent; or
+7 (ii) For a digital document, contains an affirmative indication of
+8 consent made by the person who is providing the written consent.
+9 Sec. 4. Biometric data is the property of the individual from whom
+10 the data was originally collected. An individual may sell the right to
+11 use his or her biometric data or otherwise consent to its use.
+12 Sec. 5. Any private entity or public entity shall not require or
+13 coerce any individual to be subject to any implantable device.
+14 Sec. 6. Except as provided in section 18 of this act, a private
+15 entity shall not require or coerce any individual to wear or be subject
+16 to a device of any kind that collects biometric data.
+17 Sec. 7. Except as provided in section 18 of this act, a private
+18 entity shall not require any individual to provide or submit to the
+19 collection of biometric data.
+20 Sec. 8. (1) Except as provided in section 18 of this act, any
+21 controller or processor that is a private entity shall only collect or
+22 possess biometric data in a manner that is secure and portable.
+23 (2) Except as provided in section 18 of this act, an individual may
+24 provide a written request to a controller or processor in possession of
+25 such individual's biometric data to transfer such biometric data to
+26 another controller or processor. A controller or processor shall transfer
+27 such biometric data as requested within thirty calendar days after
+28 receiving such written request.
+29 Sec. 9. (1) Except as provided in section 18 of this act, any
+30 controller or processor that is a private entity that is or intends to be
+31 in possession of any individual's biometric data shall develop and make
+-5-
+
+LB204 LB204
+2025 2025
+1 available to the public a written policy establishing a retention
+2 schedule and guidelines for permanently destroying biometric data at the
+3 earliest occurrence of the following:
+4 (a) Unless the individual has provided written consent to a longer
+5 term, the initial purpose for collecting or possessing such data has been
+6 satisfied;
+7 (b) Unless the individual has provided written consent to a longer
+8 term, within one year after the last interaction between the private
+9 entity and the individual from whom the data was originally collected; or
+10 (c) The expiration or withdrawal of the written consent from the
+11 individual from whom the data was originally collected.
+12 (2) Except if necessary to comply with a warrant or subpoena issued
+13 by a court of competent jurisdiction, a controller or processor that is a
+14 private entity in possession of biometric data shall comply with the
+15 established retention schedule and destruction guidelines of such
+16 controller or processor.
+17 Sec. 10. (1) Except as provided in section 18 of this act, a
+18 private entity shall not collect or possess an individual's biometric
+19 data unless the individual from whom the data was originally collected,
+20 or such individual's legal guardian or legally authorized representative,
+21 has provided written consent that (a) authorizes such collection or
+22 possession and (b) specifies the purpose and duration for such collection
+23 or possession.
+24 (2) Each document used to provide written consent shall include a
+25 biometric data collection warning. Such warning shall clearly and
+26 conspicuously indicate the biometric data that will be collected or
+27 possessed, the purpose and duration for such collection or possession,
+28 and a statement that is substantially similar to the following:
+29 (a) "Do you consent to [private entity] collecting your biometric
+30 data for [each specified purpose]?";
+31 (b) "Do you consent to [private entity] possessing your biometric
+-6-
+
+LB204 LB204
+2025 2025
+1 data for [each specified purpose]?"; and
+2 (c) "Do you consent to [private entity] selling or sharing your
+3 biometric data with [any third party]?".
+4 Sec. 11. (1) Except as provided in subsection (2) of this section
+5 and section 18 of this act, a private entity or public entity shall not
+6 provide a difference in any service, good, benefit, or reward provided to
+7 any individual who does not consent to the collection or possession of
+8 biometric data.
+9 (2) A private entity or public entity may provide a difference in
+10 any service, good, benefit, or reward provided to any individual who does
+11 not consent to the collection or possession of biometric data if such
+12 collection or possession is necessary to the provision of the service,
+13 good, benefit, or reward such that its absence would render the service,
+14 good, benefit, or reward inoperable, meaningless, or irrelevant.
+15 Sec. 12. (1) A private entity or public entity in possession of or
+16 with access to biometric data shall not sell, lease, trade, or use
+17 biometric data without the prior written consent of the individual from
+18 whom the data was originally collected.
+19 (2) This section does not apply to the use of biometric data by any
+20 law enforcement agency or any agent acting on behalf of any law
+21 enforcement agency if such use is for a legitimate purpose of the law
+22 enforcement agency.
+23 Sec. 13. A processor that is in possession of biometric data shall
+24 not disclose an individual's biometric data unless such disclosure is
+25 compliant with the Biometric Autonomy Liberty Law and:
+26 (1) Such individual or such individual's legal guardian or legally
+27 authorized representative provides written consent to the disclosure;
+28 (2) The disclosure is required or authorized by law;
+29 (3) The disclosure is required pursuant to a warrant or subpoena
+30 issued by a court of competent jurisdiction;
+31 (4) The disclosure is made pursuant to a criminal action or
+-7-
+
+LB204 LB204
+2025 2025
+1 proceeding;
+2 (5) The disclosure is made pursuant to a civil action or proceeding
+3 under section 15 of this act; or
+4 (6) Such processor is cooperating with any law enforcement agency
+5 and reasonably and in good faith believes the biometric data that will be
+6 disclosed concerns any of the following:
+7 (a) Conduct or activity that violates any federal, state, or local
+8 law, rule, or regulation;
+9 (b) Any missing person; or
+10 (c) Public health.
+11 Sec. 14. A processor that is in possession of biometric data shall
+12 store, transmit, and protect from disclosure all of such data:
+13 (1) Using the reasonable standard of care within the industry or
+14 profession of the processor; and
+15 (2) In a manner that:
+16 (a) Is the same as or more protective than the manner in which the
+17 processor stores, transmits, and protects other confidential and
+18 sensitive data; or
+19 (b) Converts the biometric data to a mathematical representation,
+20 including a numeric string or a similar method that cannot be used to
+21 recreate the biometric data.
+22 Sec. 15. (1) The Attorney General may:
+23 (a) Issue subpoenas and file a civil action to recover direct
+24 economic damages for any affected Nebraska resident aggrieved by a
+25 violation of the Biometric Autonomy Liberty Law; and
+26 (b) Seek injunctive relief for a violation of the Biometric Autonomy
+27 Liberty Law.
+28 (2) A violation of the Biometric Autonomy Liberty Law shall be
+29 considered a violation of section 59-1602 and be subject to the Consumer
+30 Protection Act and any other law that provides for the implementation and
+31 enforcement of section 59-1602.
+-8-
+
+LB204 LB204
+2025 2025
+1 (3) Before bringing an action under this section, the Attorney
+2 General or an individual shall provide written notice to the party
+3 alleged to have violated the Biometric Autonomy Liberty Law. Such party
+4 shall have sixty days from the date of receiving such notice to cure the
+5 alleged violation. If the alleged violation is cured within the sixty-day
+6 period, no action shall be maintained against such party for the alleged
+7 violation.
+8 (4) For purposes of a civil action under this section, the following
+9 conduct by a private entity shall constitute only a single violation of
+10 the Biometric Autonomy Liberty Law, notwithstanding that there were
+11 multiple instances of such conduct:
+12 (a) Collecting, capturing, purchasing, receiving through trade, or
+13 otherwise obtaining the same biometric data from the same person using
+14 the same method of collection; and
+15 (b) Disclosing the same type of biometric data obtained from the
+16 same person to the same recipient using the same method of collection.
+17 Sec. 16. A waiver of any provision of the Biometric Autonomy
+18 Liberty Law obtained without the written consent of the individual
+19 waiving such provision or such individual's legal guardian or legally
+20 authorized representative is contrary to public policy and is void and
+21 unenforceable.
+22 Sec. 17. Nothing in the Biometric Autonomy Liberty Law shall be
+23 construed to:
+24 (1) Impact the admission or discovery of biometric data in any legal
+25 action of any kind in any court or before any private entity or public
+26 entity;
+27 (2) Conflict with:
+28 (a) The Data Privacy Act;
+29 (b) The Genetic Information Privacy Act;
+30 (c) Sections 71-8401 to 71-8407; or
+31 (d) The federal Health Insurance Portability and Accountability Act
+-9-
+
+LB204 LB204
+2025 2025
+1 of 1996 and the rules promulgated under such act;
+2 (3) Apply to emergency medical care that is covered by the Emergency
+3 Medical Services Practice Act;
+4 (4) Apply to facial recognition technology used by the Department of
+5 Motor Vehicles for fraud detection;
+6 (5) Apply to personal data regulated by the federal Family
+7 Educational Rights and Privacy Act of 1974, 20 U.S.C. 1232g, as such act
+8 existed on January 1, 2025; or
+9 (6) Apply to a financial institution, an affiliate of a financial
+10 institution, or data subject to Title V of the Gramm-Leach-Bliley Act, 15
+11 U.S.C. 6801 et seq., as such title existed on January 1, 2025.
+12 Sec. 18. Sections 6 to 11 of this act shall not apply to biometric
+13 data collected or possessed for a security purpose.
+14 Sec. 19. The Biometric Autonomy Liberty Law shall not apply to any
+15 information collected, used, or stored for health care treatment,
+16 payment, or operations, including protected health information, under the
+17 federal Health Insurance Portability and Accountability Act of 1996 and
+18 the rules promulgated under such act.
+19 Sec. 20. This act becomes operative on January 1, 2026.
+-10-
+
+[DELETED: yKA B F A A r t b d t a t BAB4L52]
+[DELETED: ScS(a(u o u i t a u i c arc0i t a a g l t w f t1f2(3t4p5( T r o b d t a n f6k7( T p w s a s w b s b8r t c u s h s9r0S1( B d m d t i g t i 2s i t a a m o a b3c4(5(6(7(8(9(0(1d g o c f t b c o 4L52]
+[DELETED: p d i a s p v r o ar( I c u o s f h cta((u t u i a i o a i a op0d1a2o l n s i c n o s3s4(5o6b7(8( I d m a b d t c b9i0( P m t a o a i t t1b d i a u f f o c o p t2a3(4m5( P e m a i p6c l l c a o o g o7e8(9(0p1s4L52]
+[DELETED: a( P m a p e o p e tp((o(b(0a1(2b3( T L C o a a a o b o t4L5(6(7(8(9p0( S p m t p o i o1a2(3( A a l e i p p4f5f6(7o8( W c m a d t i i9w0( I p i a p o a e f b a1i4L52]
+[DELETED: l(sE(w(cS0t1u2S3c4S 6  E a p i s 1 o t a a p5e6t7S 7  E a p i s 1 o t a a p8e s n r a i t p o s t t9c0S 8  ( E a p i s 1 o t a a1c2p3(4p5s i b d t t s b d t6a7s b d a r w t c d a8r9S 9  ( E a p i s 1 o t a a0c1i4L52]
+[DELETED: a t t p a w p e a rse(ts(t w o y a t l i b t pe0( T e o w o t w c f t1i2(3b4p e i p o b d s c w t5e r s a d g o s6c7S 1  ( E a p i s 1 o t a 8p e s n c o p a i b9d0o1h p w c t ( a s c o2p3o4( E d u t p w c s i 5b d c w S w s c a6c i t b d t w b c o7p t p a d f s c o p8a9( " y c t [ e c y b0d1( " y c t [ e p y b4L52]
+[DELETED: d( " y c t [ e s o s ybSapab(0a1n c t t c o p o b d i s2c3g4g5S6w a t b d s n s l t o u7b8w9(0l e a o a a a o b o a l1e a i s u i f a l p o t l2e3S4n d a i b d u s d i5c6(7a8(9( T d i r p t a w o s0i1( T d i m p t a c a o4L52]
+[DELETED: p(u( S p i c w a l e aad(l(0(1S2s3( U t r s o c w t i o4p5(6(7p s t a p o c a8s9( C t b d t a m r0i a n s o a s m t c b u t1r2S3( I s a f a c a t r d4e d f a a N r a b 5v6(7L8( A v o t B A L L s b9c0P1e4L52]
+[DELETED: ( B b a a u t s t AG o a i s p w n t t pasapv(c0t B A L L n t t w1m2( C c p r t t o3o4t5( D t s t o b d o f t6s7S 1  A w o a p o t B A8L L o w t w c o t i9w s p o s i l g o l0a1u2S 1  N i t B A L L s b3c4(5a6e7(8(9(0(1(4L52]
+[DELETED: o(M(M( A t p d r b t f FEe( A t a f i a a o a f0i1U2S3d4S5i c u o s f h c t6p7f8t9S4L52]

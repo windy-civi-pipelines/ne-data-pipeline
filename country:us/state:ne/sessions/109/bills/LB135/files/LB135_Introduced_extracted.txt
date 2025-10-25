@@ -1,0 +1,1498 @@
+Title: LEGISLATIVE BILL 135
+Official Title: LEGISLATIVE BILL 135
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+LB135 LB135
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Holdcroft, 36.
+Read first time January 13, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend sections 10-702,
+2 13-519, 13-2507, 79-1029, 79-1098, 79-10,105, 79-10,117, and
+3 79-10,118, Reissue Revised Statutes of Nebraska, and sections
+4 13-809, 32-405, 32-559, 32-1203, and 77-3444, Revised Statutes
+5 Cumulative Supplement, 2024; to provide, change, and eliminate
+6 provisions regarding elections for certain purposes; to harmonize
+7 provisions; to repeal the original sections; and to outright repeal
+8 section 10-703.01, Reissue Revised Statutes of Nebraska.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+LB135 LB135
+2025 2025
+1 Section 1. Section 10-702, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 10-702 (1) The question of issuing school district bonds shall may
+4 be submitted at a special election or such question may be voted on at an
+5 election held in compliance with subsection (3) of section 32-559
+6 conjunction with the statewide primary or statewide general election. No
+7 bonds shall be issued until the question has been submitted to the
+8 qualified electors of the district and a majority of all the qualified
+9 electors voting on the question have voted in favor of issuing the same ,
+10 at an election called for the purpose, upon notice given by the school
+11 board officers of the district as provided in subsection (3) of this
+12 section at least twenty days prior to such election. If the election for
+13 issuing bonds is held as a special election, the procedures provided in
+14 section 10-703.01 shall be followed. The question of bond issues in such
+15 districts, when defeated, shall not, except in case of fire or other
+16 disaster or in the case of a newly created district, be resubmitted in
+17 substance for a period of six months from and after the date of such
+18 election.
+19 (2) When the question of issuing bonds is to be submitted at a
+20 statewide primary or statewide general election as ordered by a
+21 resolution of a majority of the members of the school board of education,
+22 such order shall be made in writing and filed with the election
+23 commissioner or county clerk as required in subsection (3) of section
+24 32-559 or election commissioner by March 1 for the statewide primary
+25 election or September 1 for the statewide general election. The order
+26 calling for the school bond election shall be filed with the county clerk
+27 or election commissioner in the county having the greatest number of
+28 electors entitled to vote on the question who . The county clerk or
+29 election commissioner receiving such order shall conduct the school bond
+30 election for the school district as provided in subsection (3) of section
+31 32-559 the Election Act.
+-2-
+LB135 LB135
+2025 2025
+1 (3) A special notice of the election shall be published by the
+2 school board of education in a newspaper or newspapers of general
+3 circulation within the district stating the day of the election, the
+4 hours during which the polls will be open, and any other information
+5 deemed necessary in informing the public of the bond issue. The notice
+6 shall be made at least twenty days prior to the election.
+7 If the question of submitting bonds for the school district is voted
+8 upon in one or more counties and the ballots have been certified across
+9 county lines, the election boards in the counties where the ballots are
+10 cast shall count the ballots on election day the same as all other
+11 ballots are counted and seal the same in their ballots-cast container
+12 along with other ballots.
+13 The canvassing boards in each county shall canvass the returns in
+14 the same manner as other returns are canvassed.
+15 The county clerk or election commissioner in any adjoining county
+16 voting on the bond issue shall certify the returns to the county clerk or
+17 election commissioner of the county having the greatest number of
+18 electors entitled to vote on the question of issuing bonds.
+19 The county clerk or election commissioner in such county shall enter
+20 the total returns from any adjoining county or counties to the total
+21 votes recorded in his or her official book of votes cast and shall
+22 certify the returns to the board of education for which such bond
+23 election was held.
+24 Sec. 2. Section 13-519, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 13-519 (1)(a) Subject to subdivisions (1)(b) and (c) of this
+27 section, for all fiscal years beginning on or after July 1, 1998, no
+28 governmental unit shall adopt a budget containing a total of budgeted
+29 restricted funds more than the last prior year's total of budgeted
+30 restricted funds plus allowable growth plus the basic allowable growth
+31 percentage of the base limitation established under section 77-3446. For
+-3-
+LB135 LB135
+2025 2025
+1 the second fiscal year in which a county will receive a full year of
+2 receipts from the tax imposed in sections 77-27,223 to 77-27,227, the
+3 prior year's total of restricted funds shall be the prior year's total of
+4 restricted funds plus the total receipts from the tax imposed in sections
+5 77-27,223 to 77-27,227 in the prior year. If a governmental unit
+6 transfers the financial responsibility of providing a service financed in
+7 whole or in part with restricted funds to another governmental unit or
+8 the state, the amount of restricted funds associated with providing the
+9 service shall be subtracted from the last prior year's total of budgeted
+10 restricted funds for the previous provider and may be added to the last
+11 prior year's total of restricted funds for the new provider. For
+12 governmental units that have consolidated, the calculations made under
+13 this section for consolidating units shall be made based on the combined
+14 total of restricted funds, population, or full-time equivalent students
+15 of each governmental unit.
+16 (b) Educational For all fiscal years beginning on or after July 1,
+17 2008, educational service units may exceed the limitations of subdivision
+18 (1)(a) of this section to the extent that one hundred ten percent of the
+19 needs for the educational service unit calculated pursuant to section
+20 79-1241.03 exceeds the budgeted restricted funds allowed pursuant to
+21 subdivision (1)(a) of this section.
+22 (c) For fiscal year 2017-18, the last prior year’s total of
+23 restricted funds for counties shall be the last prior year’s total of
+24 restricted funds less the last prior year’s restricted funds budgeted by
+25 counties under sections 39-2501 to 39-2520, plus the last prior year’s
+26 amount of restricted funds budgeted by counties under sections 39-2501 to
+27 39-2520 to be used for capital improvements.
+28 (d) The limitations of subdivision (1)(a) of this section shall not
+29 apply to the budget or budget statement adopted by a regional
+30 metropolitan transit authority for the first five fiscal years commencing
+31 on the January 1 that follows the effective date of the conversion of the
+-4-
+LB135 LB135
+2025 2025
+1 transit authority established under the Transit Authority Law into a
+2 regional metropolitan transit authority.
+3 (2) A governmental unit may exceed the limit provided in subdivision
+4 (1)(a) of this section for a fiscal year by up to an additional one
+5 percent upon the affirmative vote of at least seventy-five percent of the
+6 governing body.
+7 (3)(a) Except as otherwise provided in subdivision (b) of this
+8 subsection, a (3) A governmental unit may exceed the applicable allowable
+9 growth percentage otherwise prescribed in this section by an amount
+10 approved by a majority of legal voters voting on the issue at a special
+11 election called for such purpose upon the recommendation of the governing
+12 body or upon the receipt by the county clerk or election commissioner of
+13 a petition requesting an election signed by at least five percent of the
+14 legal voters of the governmental unit. The recommendation of the
+15 governing body or the petition of the legal voters shall include the
+16 amount and percentage by which the governing body would increase its
+17 budgeted restricted funds for the ensuing year over and above the current
+18 year's budgeted restricted funds. Except as otherwise provided in
+19 subdivision (b) of this subsection, the The county clerk or election
+20 commissioner shall call for a special election on the issue within thirty
+21 days after the receipt of such governing body recommendation or legal
+22 voter petition. Such The election shall be held pursuant to the Election
+23 Act, and all costs shall be paid by the governing body. The issue may be
+24 approved on the same question as a vote to exceed the levy limits
+25 provided in section 77-3444.
+26 (b) For a school district, the election shall be held in compliance
+27 with subsection (3) of section 32-559.
+28 (4) In lieu of the election procedures in subsection (3) of this
+29 section, any governmental unit may, for a period of one year, exceed the
+30 allowable growth percentage otherwise prescribed in this section by an
+31 amount approved by a majority of legal voters voting at a meeting of the
+-5-
+LB135 LB135
+2025 2025
+1 residents of the governmental unit, called after notice is published in a
+2 newspaper of general circulation in the governmental unit at least twenty
+3 days prior to the meeting. At least ten percent of the registered voters
+4 residing in the governmental unit shall constitute a quorum for purposes
+5 of taking action to exceed the allowable growth percentage. If a majority
+6 of the registered voters present at the meeting vote in favor of
+7 exceeding the allowable growth percentage, a copy of the record of that
+8 action shall be forwarded to the Auditor of Public Accounts along with
+9 the budget documents. The issue to exceed the allowable growth percentage
+10 may be approved at the same meeting as a vote to exceed the limits or
+11 final levy allocation provided in section 77-3444.
+12 Sec. 3. Section 13-809, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 13-809 (1) Subject to subsections (2) and (3) of this section, any
+15 joint entity may from time to time issue its bonds in such principal
+16 amounts as its governing body shall deem necessary to provide sufficient
+17 funds to carry out any of the joint entity's purposes and powers,
+18 including the establishment or increase of reserves, the payment of
+19 interest accrued during construction of a project and for such period
+20 thereafter as the governing body may determine, and the payment of all
+21 other costs or expenses of the joint entity incident to and necessary or
+22 convenient to carry out its purposes and powers.
+23 (2) Bonds issued on or after April 18, 2018, for purposes of the
+24 Public Facilities Construction and Finance Act shall be subject to a vote
+25 prior to issuance as provided in such act.
+26 (3) (3)(a) For any joint entity created on or after February 14,
+27 2024, that includes a Nebraska school district or an educational service
+28 unit, such joint entity shall not issue any bonds until (a) the question
+29 of issuing such bonds has been submitted to the qualified electors of
+30 each Nebraska school district or educational service unit that is part of
+31 the joint entity at an election held in compliance with subsection (3) of
+-6-
+LB135 LB135
+2025 2025
+1 section 32-559 called for that purpose as provided in this section and
+2 (b) , within each such school district or educational service unit, a
+3 majority of the qualified electors voting on the question voted in favor
+4 of issuing the bonds.
+5 (b) The joint entity shall give notice of the election at least
+6 fifty days prior to the election as required in subsection (3) of section
+7 32-559. The question of issuing bonds may be submitted at the statewide
+8 primary or general election. The election shall be conducted in
+9 accordance with the Election Act.
+10 (c) The question of bond issues, when defeated, shall not be
+11 resubmitted in substance for a period of at least six months after the
+12 date of such election.
+13 Sec. 4. Section 13-2507, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 13-2507 (1) Subject to subsection (4) of this section, a joint
+16 public agency shall have only those powers of taxation as one or more of
+17 the participating public agencies has and only as specifically provided
+18 in the agreement proposing creation of the joint public agency, except
+19 that a joint public agency shall not levy a local option sales tax.
+20 Participating public agencies may agree to allow the joint public agency
+21 to levy a property tax rate not to exceed a limit as provided in the
+22 agreement if the agreement also limits the levy authority of the
+23 overlapping participating public agencies collectively to the same
+24 amount. The levy authority of a joint public agency shall be allocated by
+25 the city or county as provided in section 77-3443, and the agreement may
+26 require allocation of levy authority by the city or county.
+27 (2) If one or more of the participating public agencies is a
+28 municipality, the agreement may allow any occupation or wheel tax to be
+29 extended over the area encompassed by the joint public agency at a rate
+30 uniform to that of the city or village for the purpose of providing
+31 revenue to finance the services to be provided by the joint public
+-7-
+LB135 LB135
+2025 2025
+1 agency. The tax shall not be extended until the procedures governing
+2 enactment by the municipality are followed by the joint public agency,
+3 including any requirement for a public vote.
+4 (3) If the agreement calls for the allocation of property tax levy
+5 authority to the joint public agency, the amount of the allocation to the
+6 joint public agency and from each participating public agency shall be
+7 reported to the Property Tax Administrator.
+8 (4)(a) Prior to the issuance of bonds and the pledge of property tax
+9 levy authority allocated to a joint public agency to pay the principal of
+10 and interest on bonds to be issued by the joint public agency, the joint
+11 public agency shall hold an election to present the question of issuing
+12 such bonds and levying such tax to the registered voters of the
+13 participating public agency which allocated such property tax levy
+14 authority. Such election shall be held at a special election called for
+15 such purpose or an election held in conjunction with a statewide or local
+16 primary or general election, except that if one or more of the
+17 participating public agencies is a school district, the election shall be
+18 held in compliance with subsection (3) of section 32-559.
+19 (b) If a ballot question is required to be submitted to the
+20 registered voters of more than one participating public agency pursuant
+21 to subdivision (a) of this subsection and if the participating public
+22 agencies have overlapping jurisdiction of any geographic area, the
+23 registered voters residing in the geographic area subject to overlapping
+24 jurisdiction shall only be entitled to one vote on the ballot question.
+25 (c) A joint public agency may issue refunding bonds as authorized in
+26 section 13-2537 which are payable from the same security and tax levy
+27 authority as bonds being refunded without holding an election as required
+28 by this subsection if the issuance of the refunding bonds does not allow
+29 additional principal and does not allow extension of the final maturity
+30 date of the indebtedness.
+31 Sec. 5. Section 32-405, Revised Statutes Cumulative Supplement,
+-8-
+LB135 LB135
+2025 2025
+1 2024, is amended to read:
+2 32-405 Any special election under the Election Act shall be held on
+3 the first Tuesday following the second Monday of the selected month
+4 unless otherwise specifically provided. Except as otherwise specifically
+5 provided, no special election shall be held under the Election Act in
+6 April, May, June, October, November, or December of an even-numbered year
+7 unless it is held in conjunction with the statewide primary or general
+8 election. No special election shall be held under the Election Act in
+9 September of an even-numbered year except as provided in section 32-564
+10 and except for a special election by a political subdivision pursuant to
+11 section 13-519 or 77-3444 to approve a property tax levy or exceed a
+12 property tax levy limitation. A special election for a Class I, II, III,
+13 IV, or V school district which is located in whole or in part in a county
+14 in which a city of the primary or metropolitan class is located may be
+15 held in conjunction with the primary or general election for a city of
+16 the primary or metropolitan class which is governed by a home rule
+17 charter.
+18 Sec. 6. Section 32-559, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 32-559 (1)(a) Except as provided in subsection (3) of this section
+21 77-3444, any issue to be submitted to the registered voters at a special
+22 election by a political subdivision shall be certified by the clerk of
+23 the political subdivision to the election commissioner or county clerk on
+24 or before the eighth Friday prior to the election. A special election
+25 under this subsection may be held by mail as provided in sections 32-952
+26 to 32-959. Any other special election under this subsection section shall
+27 be subject to section 32-405.
+28 (b) In lieu of submitting an the issue at a special election
+29 pursuant to subdivision (1)(a) of this section, the any political
+30 subdivision may submit the issue at a statewide primary or general
+31 election or at any scheduled county election, except that no such issue
+-9-
+LB135 LB135
+2025 2025
+1 shall be submitted at a statewide election or scheduled county election
+2 unless the issue to be submitted has been certified by the clerk of the
+3 political subdivision to the election commissioner or county clerk by
+4 March 1 for the primary election and by September 1 for the general
+5 election. After the election commissioner or county clerk has received
+6 the certification of the issue to be submitted, the election commissioner
+7 or county clerk he or she shall be responsible for all matters relating
+8 to the submission of the issue to the registered voters, except that the
+9 clerk of the political subdivision shall be responsible for the
+10 publication or posting of any required special notice of the submission
+11 of such issue other than the notice required to be given of the statewide
+12 election issues. The election commissioner or county clerk shall prepare
+13 the ballots and issue ballots for early voting and shall also conduct the
+14 submission of the issue, including the receiving and counting of the
+15 ballots on the issue. The election returns shall be made to the election
+16 commissioner or county clerk. The ballots shall be counted and canvassed
+17 at the same time and in the same manner as the other ballots. Upon
+18 completion of the canvass of the vote by the county canvassing board, the
+19 election commissioner or county clerk shall certify the election results
+20 to the governing body of the political subdivision. The canvass by the
+21 county canvassing board shall have the same force and effect as if made
+22 by the governing body of the political subdivision.
+23 (2)(a) A political subdivision that has submitted an issue for a
+24 special election under subdivision (1)(a) or (3)(c) of this section may
+25 cancel the special election if the Secretary of State, election
+26 commissioner, or county clerk receives a resolution adopted by the
+27 political subdivision canceling the special election on or before the
+28 fourth Thursday prior to the election. No cancellation shall be effective
+29 after such date. If a special election is canceled in such manner, the
+30 political subdivision shall be responsible for the costs incurred that
+31 are related to the canceled election. Such costs shall include all
+-10-
+LB135 LB135
+2025 2025
+1 chargeable costs as provided in section 32-1202 associated with preparing
+2 for and conducting a special election.
+3 (b) A political subdivision that has submitted an issue at a
+4 statewide primary or general election or at any scheduled county election
+5 under subdivision (1)(b) or subsection (3) of this section may withdraw
+6 the issue from the ballot if the Secretary of State, election
+7 commissioner, or county clerk receives a resolution adopted by the
+8 political subdivision withdrawing the issue from the ballot no later than
+9 March 1 prior to a statewide primary election or September 1 prior to a
+10 statewide general election. No withdrawal shall be effective after such
+11 date. Any issue withdrawn in this manner shall not be printed on the
+12 ballot.
+13 (3)(a) A school district election called to approve the issuance of
+14 bonds, approve a property tax levy or levy increase, or approve exceeding
+15 a property tax levy limitation by a school district shall comply with
+16 subdivision (b) or (c) of this subsection. The question shall not be
+17 submitted at an election under this subsection within ten months after
+18 being defeated at any election. Except as otherwise specifically provided
+19 by law, the registered voters of the school district shall be entitled to
+20 vote on the question presented at the election and the question shall be
+21 approved if a majority of the votes cast upon the question are in favor
+22 thereof.
+23 (b)(i) Except as otherwise provided in subdivision (c) of this
+24 subsection, the election shall be held in conjunction with the statewide
+25 primary or general election or in an odd-numbered year in conjunction
+26 with a regularly scheduled general election of a political subdivision.
+27 The school board shall file the order or certify the question for the
+28 issue to be on the ballot by March 1 for the statewide primary election,
+29 September 1 for the statewide general election, and the eighth Friday
+30 prior to the general election of a political subdivision.
+31 (ii) If the question is voted upon in one or more counties and the
+-11-
+LB135 LB135
+2025 2025
+1 ballots have been certified across county lines, the election boards in
+2 the counties where the ballots are cast shall count the ballots on
+3 election day in the same manner as all other ballots are counted and seal
+4 the same in their ballots-cast container along with other ballots. The
+5 canvassing boards in each county shall canvass the returns in the same
+6 manner as other returns are canvassed. The election commissioner or
+7 county clerk in any adjoining county voting on the question shall certify
+8 the returns to the election commissioner or county clerk of the county
+9 having the greatest number of electors entitled to vote on the question.
+10 The election commissioner or county clerk in such county shall enter the
+11 total returns from any adjoining county or counties to the total votes
+12 recorded in the official book of votes cast and shall certify the returns
+13 to the school board of the school district for which such bond election
+14 was held.
+15 (c)(i) The question may also be submitted at a special election
+16 subject to section 32-405 if the purpose of the bonds, of the tax levy or
+17 levy increase, or of exceeding the tax levy limitation is to address an
+18 emergency due to circumstances beyond the control of the school board of
+19 the school district, such as the destruction of a facility or other
+20 infrastructure by fire, flood, tornado, or other emergency circumstance.
+21 (ii) The election commissioner or county clerk or, if the school
+22 district lies in more than one county, the election commissioner or
+23 county clerk in the county having the greatest number of electors
+24 entitled to vote on the question shall designate the polling places and
+25 appoint the election officials, who need not be the regular election
+26 officials, and otherwise conduct the election as provided under the
+27 Election Act except as otherwise specifically provided in this
+28 subsection. The school board of the school district shall (A) designate
+29 the form of ballot, (B) reimburse the election commissioner or county
+30 clerk for the expenses of conducting the election as provided in sections
+31 32-1201 to 32-1208 and at the minimum rate as described in subdivision
+-12-
+LB135 LB135
+2025 2025
+1 (2)(d) of section 32-1203, (C) give notice of the election by first-class
+2 mail at least thirty days prior to the election, and (D) cause the sample
+3 ballot to be published in a newspaper of general circulation in the
+4 school district one time not more than fifteen days nor less than seven
+5 days prior to the election. No notice of the election shall be required
+6 to be given by the election commissioner or county clerk. The notice of
+7 election shall state where ballots for early voting may be obtained.
+8 (iii) The ballots shall be counted by the election commissioner or
+9 county clerk conducting the election and two disinterested persons
+10 appointed by the election commissioner or county clerk. When the polls
+11 are closed, the receiving board shall deliver the ballots to the election
+12 commissioner or county clerk conducting the election who, with the two
+13 disinterested persons appointed by the election commissioner or county
+14 clerk, shall proceed to count the ballots.
+15 (iv) Ballots for early voting shall be furnished to the election
+16 commissioner or county clerk and ready for distribution by the election
+17 commissioner or county clerk conducting the election not less than
+18 twenty-one days prior to the election.
+19 (v) When the school district lies in more than one county, the
+20 election commissioner or county clerk in any other county containing part
+21 of such school district shall, upon request, certify its registration
+22 books for those precincts in which the school district is located to the
+23 election commissioner or county clerk conducting the election and shall
+24 immediately forward all requests for ballots for early voting to the
+25 election commissioner or county clerk charged with issuing such ballots
+26 or otherwise arrange for distribution of ballots for early voting. Not
+27 less than five days prior to the election, the school board of the school
+28 district shall certify to the election commissioner or county clerk
+29 conducting the election a list of all registered voters of the school
+30 district in any other county or counties qualified to vote on the
+31 question.
+-13-
+LB135 LB135
+2025 2025
+1 (vi) All ballots cast at the election shall be counted by the same
+2 board. When all the ballots have been counted, the returns of such
+3 election shall be turned over to the school board of the school district
+4 in which the election was held for the purpose of making a canvass
+5 thereof. The two disinterested persons appointed on the counting board
+6 shall receive wages at no less than the minimum rate set in section
+7 48-1203 for each hour of service rendered.
+8 Sec. 7. Section 32-1203, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-1203 (1) Each city, village, township, school district, public
+11 power district, sanitary and improvement district, metropolitan utilities
+12 district, fire protection district, natural resources district, regional
+13 metropolitan transit authority, community college area, learning
+14 community coordinating council, educational service unit, hospital
+15 district, reclamation district, library board, and airport authority
+16 shall pay for the costs of nominating and electing its officers as
+17 provided in subsection (2), (3), or (4) of this section. If a special
+18 issue is placed on the ballot at the time of the statewide primary or
+19 general election by any political subdivision, the political subdivision
+20 shall pay for the costs of the election as provided in subsection (2),
+21 (3), or (4) of this section.
+22 (2) The charge for each primary and general election shall be
+23 determined by (a) ascertaining the total cost of all chargeable costs as
+24 described in section 32-1202, (b) dividing the total cost by the number
+25 of precincts participating in the election to fix the cost per precinct,
+26 (c) prorating the cost per precinct by the inked ballot inch in each
+27 precinct for each political subdivision, and (d) totaling the cost for
+28 each precinct for each political subdivision, except that the minimum
+29 charge for each primary and general election for each political
+30 subdivision shall be one hundred dollars.
+31 (3) In lieu of the charge determined pursuant to subsection (2) of
+-14-
+LB135 LB135
+2025 2025
+1 this section, the election commissioner or county clerk may charge public
+2 power districts the fee for election costs set by section 70-610.
+3 (4) In lieu of the charge determined pursuant to subsection (2) of
+4 this section, the election commissioner or county clerk may bill school
+5 districts directly for the costs of a special an election held under
+6 section 32-559 10-703.01.
+7 Sec. 8. Section 77-3444, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 77-3444 (1) A political subdivision may exceed the limits provided
+10 in section 77-3442 or a final levy allocation determination as provided
+11 in section 77-3443 by an amount not to exceed a maximum levy approved by
+12 a majority of registered voters voting on the issue. The issue shall be
+13 placed before the voters at in a primary, general, or special election,
+14 except that if the political subdivision is a school district, the
+15 election shall be held in compliance with subsection (3) of section
+16 32-559 at which the issue is placed before the registered voters. A vote
+17 to exceed the limits provided in section 77-3442 or a final levy
+18 allocation as provided in section 77-3443 must be approved prior to
+19 October 10 of the fiscal year which is to be the first to exceed the
+20 limits or final levy allocation. The governing body of the political
+21 subdivision may call for the submission of the issue to the voters (a) by
+22 passing a resolution calling for exceeding the limits or final levy
+23 allocation by a vote of at least two-thirds of the members of the
+24 governing body and delivering a copy of the resolution to the county
+25 clerk or election commissioner of every county which contains all or part
+26 of the political subdivision or (b) upon receipt of a petition by the
+27 county clerk or election commissioner of every county containing all or
+28 part of the political subdivision requesting an election signed by at
+29 least five percent of the registered voters residing in the political
+30 subdivision. The resolution or petition shall include the amount of levy
+31 which would be imposed in excess of the limits provided in section
+-15-
+LB135 LB135
+2025 2025
+1 77-3442 or the final levy allocation as provided in section 77-3443 and
+2 the duration of the excess levy authority. The excess levy authority
+3 shall not have a duration greater than five years. Except as otherwise
+4 provided in section 32-559, any Any resolution or petition calling for a
+5 special election shall be filed with the county clerk or election
+6 commissioner on or before the fifth Friday prior to the election, and the
+7 time of publication and providing a copy of the notice of election
+8 required in section 32-802 shall be no later than twenty days prior to
+9 the election, and the . The county clerk or election commissioner shall
+10 place the issue on the ballot at an election as called for in the
+11 resolution or petition which is at least thirty-one days after receipt of
+12 the resolution or petition. The election shall be held pursuant to the
+13 Election Act. The For petitions filed with the county clerk or election
+14 commissioner on or after May 1, 1998, the petition shall be in the form
+15 as provided in sections 32-628 to 32-631. Any excess levy authority
+16 approved under this section shall terminate pursuant to its terms, on a
+17 vote of the governing body of the political subdivision to terminate the
+18 authority to levy more than the limits, at the end of the fourth fiscal
+19 year following the first year in which the levy exceeded the limit or the
+20 final levy allocation, or as provided in subsection (4) of this section,
+21 whichever is earliest. A governing body may pass no more than one
+22 resolution calling for an election pursuant to this section during any
+23 one calendar year. Only one election may be held in any one calendar year
+24 pursuant to a petition initiated under this section.
+25 (2) The ballot question may include any terms and conditions set
+26 forth in the resolution or petition and shall include the following:
+27 "Shall (name of political subdivision) be allowed to levy a property tax
+28 not to exceed ............ cents per one hundred dollars of taxable
+29 valuation in excess of the limits prescribed by law until fiscal
+30 year ............ for the purposes of (general operations; building
+31 construction, remodeling, or site acquisition; or both general operations
+-16-
+LB135 LB135
+2025 2025
+1 and building construction, remodeling, or site acquisition)?". If a
+2 majority of the votes cast upon the ballot question are in favor of such
+3 tax, the county board shall authorize a tax in excess of the limits in
+4 section 77-3442 or the final levy allocation in section 77-3443 but such
+5 tax shall not exceed the amount stated in the ballot question. If a
+6 majority of those voting on the ballot question are opposed to such tax,
+7 the governing body of the political subdivision shall not impose such
+8 tax.
+9 (3) In lieu of the election procedures in subsection (1) of this
+10 section, any political subdivision subject to section 77-3443 and
+11 villages may approve a levy in excess of the limits in section 77-3442 or
+12 the final levy allocation provided in section 77-3443 for a period of one
+13 year at a meeting of the residents of the political subdivision or
+14 village, called after notice is published in a newspaper of general
+15 circulation in the political subdivision or village at least twenty days
+16 prior to the meeting. At least ten percent of the registered voters
+17 residing in the political subdivision or village shall constitute a
+18 quorum for purposes of taking action to exceed the limits or final levy
+19 allocation. A record shall be made of the registered voters residing in
+20 the political subdivision or village who are present at the meeting. The
+21 method of voting at the meeting shall protect the secrecy of the ballot.
+22 If a majority of the registered voters present at the meeting vote in
+23 favor of exceeding the limits or final levy allocation, a copy of the
+24 record of that action shall be forwarded to the county board prior to
+25 October 10 and the county board shall authorize a levy as approved by the
+26 residents for the year. If a majority of the registered voters present at
+27 the meeting vote against exceeding the limits or final allocation, the
+28 limit or allocation shall not be exceeded and the political subdivision
+29 shall have no power to call for an election under subsection (1) of this
+30 section.
+31 (4) A political subdivision may rescind or modify a previously
+-17-
+LB135 LB135
+2025 2025
+1 approved excess levy authority prior to its expiration by a majority of
+2 registered voters voting on the issue in a primary, general, or special
+3 election at which the issue is placed before the registered voters,
+4 except that if the political subdivision is a school district, the
+5 election shall be held in compliance with subsection (3) of section
+6 32-559. A vote to rescind or modify must be approved prior to October 10
+7 of the fiscal year for which it is to be effective. The governing body of
+8 the political subdivision may call for the submission of the issue to the
+9 voters (a) by passing a resolution calling for the rescission or
+10 modification by a vote of at least two-thirds of the members of the
+11 governing body and delivering a copy of the resolution to the county
+12 clerk or election commissioner of every county which contains all or part
+13 of the political subdivision or (b) upon receipt of a petition by the
+14 county clerk or election commissioner of every county containing all or
+15 part of the political subdivision requesting an election signed by at
+16 least five percent of the registered voters residing in the political
+17 subdivision. The resolution or petition shall include the amount and the
+18 duration of the previously approved excess levy authority and a statement
+19 that either such excess levy authority will be rescinded or such excess
+20 levy authority will be modified. If the excess levy authority will be
+21 modified, the amount and duration of such modification shall be stated.
+22 The modification shall not have a duration greater than five years. The
+23 county clerk or election commissioner shall place the issue on the ballot
+24 at an election as called for in the resolution or petition which is at
+25 least thirty-one days after receipt of the resolution or petition, and
+26 the time of publication and providing a copy of the notice of election
+27 required in section 32-802 shall be no later than twenty days prior to
+28 the election. The election shall be held pursuant to the Election Act.
+29 (5) For purposes of this section, when the political subdivision is
+30 a sanitary and improvement district, registered voter means a person
+31 qualified to vote as provided in section 31-735. Any election conducted
+-18-
+LB135 LB135
+2025 2025
+1 under this section for a sanitary and improvement district shall be
+2 conducted and counted as provided in sections 31-735 to 31-735.06.
+3 (6) For purposes of this section, when the political subdivision is
+4 a school district or a multiple-district school system, registered voter
+5 includes persons qualified to vote for the members of the school board of
+6 the school district which is voting to exceed the maximum levy limits
+7 pursuant to this section.
+8 Sec. 9. Section 79-1029, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 79-1029 A school district may exceed the budget authority for the
+11 general fund budget of expenditures prescribed in section 79-1023 by an
+12 amount approved by a majority of legal voters voting on the issue at an
+13 election held in compliance with subsection (3) of section 32-559 a
+14 primary, general, or special election called for such purpose upon the
+15 recommendation of the board or upon the receipt by the county clerk or
+16 election commissioner of a petition requesting an election, signed by at
+17 least five percent of the legal voters of the district. The
+18 recommendation of the board or the petition of the legal voters shall
+19 include the amount by which the board would increase its general fund
+20 budget of expenditures for the ensuing school year over and above the
+21 budget authority for the general fund budget of expenditures prescribed
+22 in section 79-1023. The county clerk or election commissioner shall place
+23 the question on the primary or general election ballot or call for a
+24 special election on the issue after the receipt of such board
+25 recommendation or legal voter petition. The election shall be held
+26 pursuant to the Election Act or section 77-3444, and all costs for a
+27 special election shall be paid by the district. A vote to exceed the
+28 budget authority for the general fund budget of expenditures prescribed
+29 in section 79-1023 may be approved on the same question as a vote to
+30 exceed the levy limits provided in section 77-3444.
+31 Sec. 10. Section 79-1098, Reissue Revised Statutes of Nebraska, is
+-19-
+LB135 LB135
+2025 2025
+1 amended to read:
+2 79-1098 Whenever it is deemed necessary (1) to erect a schoolhouse
+3 or school building or an addition or additions and improvements to any
+4 existing schoolhouse or (2) to purchase equipment for such schoolhouse or
+5 school buildings, in any school district in this state the school board
+6 may and, upon petition of not less than one-fourth of the legal voters of
+7 the school district, shall submit to the people of the school district at
+8 an election held in compliance with subsection (3) of section 32-559 the
+9 next general election or special election a proposition to vote a special
+10 annual tax for that purpose of not to exceed seventeen and five-tenths
+11 cents on each one hundred dollars upon the taxable value of all the
+12 taxable property in such district for a term of not to exceed ten years.
+13 Such special tax may be voted at any annual or special meeting of the
+14 district by fifty-five percent of the legal voters attending such
+15 meeting.
+16 Sec. 11. Section 79-10,105, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 79-10,105 The school board or board of education of any public
+19 school district may enter into a lease or lease-purchase agreement for
+20 the exclusive use of its individual jurisdiction for such buildings or
+21 equipment as the board determines necessary. Such lease or lease-purchase
+22 agreements may not exceed a period of seven years, except that lease-
+23 purchase agreements entered into as part of an energy financing contract
+24 pursuant to section 66-1065 may not exceed a period of thirty years. All
+25 payments pursuant to such leases shall be made from current building
+26 funds or general funds. No school district shall directly or indirectly
+27 issue bonds to fund any such lease-purchase plan for a capital
+28 construction project exceeding twenty-five thousand dollars in costs
+29 unless it first obtains approval at an election held in compliance with
+30 subsection (3) of section 32-559 a favorable vote of the legal voters
+31 pursuant to Chapter 10, article 7. This section does not prevent the
+-20-
+LB135 LB135
+2025 2025
+1 school board or board of education of any public school district from
+2 refinancing a lease or lease-purchase agreement without a vote of the
+3 legal voters for the purpose of lowering finance costs regardless of
+4 whether such agreement was entered into prior to July 9, 1988.
+5 Sec. 12. Section 79-10,117, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 79-10,117 The legal voters of any Class I, II, or III school
+8 district have the power, at an election held in compliance with
+9 subsection (3) of section 32-559 or at any annual or special meeting, to
+10 (1) direct the purchasing or leasing of any appropriate site and the
+11 building, leasing hiring, or purchasing of a teacherage for the purpose
+12 of providing housing facilities for the school employees of the district,
+13 (2) determine the amount necessary to be expended for such purposes the
+14 succeeding year, and (3) vote on a tax on the property of the district
+15 for the payment of the amount.
+16 Sec. 13. Section 79-10,118, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 79-10,118 A tax to establish a special fund for the building,
+19 leasing hiring, or purchasing of a teacherage for the purpose of
+20 providing housing facilities for the school employees of any Class I, II,
+21 or III district may be levied when authorized by fifty-five percent of
+22 the legal voters voting on the proposition at an election held in
+23 compliance with subsection (3) of section 32-559. The notice of the
+24 proposal to establish such special fund shall include the sum to be
+25 raised or the amount of the tax to be levied, the period of years, and
+26 the time of its taking effect. If fifty-five percent of the legal voters
+27 voting at any such election vote in favor of the proposition, the result
+28 of such election shall be certified to the county board which, upon being
+29 satisfied that all the requirements have been substantially complied
+30 with, shall cause the proceedings to be entered upon the record of the
+31 county board and shall make an order that the levy be made in accordance
+-21-
+LB135 LB135
+2025 2025
+1 with the election result and collected as other taxes.
+2 Sec. 14. Original sections 10-702, 13-519, 13-2507, 79-1029,
+3 79-1098, 79-10,105, 79-10,117, and 79-10,118, Reissue Revised Statutes of
+4 Nebraska, and sections 13-809, 32-405, 32-559, 32-1203, and 77-3444,
+5 Revised Statutes Cumulative Supplement, 2024, are repealed.
+6 Sec. 15. The following section is outright repealed: Section
+7 10-703.01, Reissue Revised Statutes of Nebraska.
+-22-
+[DELETED: yHA B F A A r t e t a s 11 1 7 7 7 7 a7 R R S o N a s1 3 3 3 a 7 R SC S 2 t p c a ep r e f c p t hpsB5L52]
+[DELETED: Sa1be h i c w s ( o s 3cb s b i u t q h b s t tqe0a1b o o t d a p i s ( o t2s3i4s5d w d s n e i c o f o o6d7s f a p o s m f a a t d o s8e9( W t q o i b i t b s a 0s p o s g e a o b 1r2s o s b m i w a f w t e3c o c c a r i s ( o s43 o e c b M 1 f t s p5e o S 1 f t s g e T o6c7o e c i t c h t g n o8e e t v o t q w . T c c o9e0e135L52]
+[DELETED: ( A s n o t e s b p b ts b o e i a n o n o gc w t d s t d o t e th d w t p w b o a a o idsIuc0c s c t b o e d t s a a o1b a c a s t s i t b c2a3T c b i e c s c t r i4t5T c c o e c i a a c6v7e c o t c h t g n o8e9T0t t r f a a c o c t t t1v r i h o h o b o v c a s2c t r t t b o e f w s b3e4S 2 S 1 R R S o N i5a61 ( S t s ( a ( o t7s f a f y b o o a J 1 1 n8g u s a a b c a t o b9r f m t t l p y t o b0r f p a g p t b a g1p5L52]
+[DELETED: t s f y i w a c w r a f y or f t t i i s 7 t 7 tpr7 t 7 i t p y I a g utwts0r1p y t o r f f t n p F2g u t h c t c m u3t4t5o6(728(9n f t e s u c p t s07 e t b r f a p t1s2( F f y 2 t l p y t o3r f f c s b t l p y t o4r5c6a738(9a t t b o b s a b a r0m1o5L52]
+[DELETED: t a e u t T A L i r(( o t s f a f y b u t a a opg( E a o p i s ( o tsg p o p i t s b a a0a1e2b3a4l v o t g u T r o t5g b o t p o t l v s i t6a a p b w t g b w i i7b8y b r f E a o p i9s ( o t s t T c c o e0c1d a t r o s g b r o l2v3A4a o t s q a a v t e t l l5p6(7w8( I l o t e p i s ( o t9s0a g p o p i t s b a1a5L52]
+[DELETED: rndroo t r v p a t m v i f oeat0m1f2S 3 S 1 R S C S32415j e m f t t t i i b i s p6a7f t c o a o t j e p a p8i t e o i o r t p o9i a d c o a p a f s p0t1o2c3( B i o o a A 1 2 f p o t4P5p6( ( F a j e c o o a F 1728u9o i s b h b s t t q e o0e1t5L52]
+[DELETED: s( , w e s s d o e s u mo( T j e s g n o t e a lf3p o g e T e s b c ia0( T q o b i w d s n b1r2d3S 4 S 1 R R S o N i4a51 ( S t s ( o t s a j6p7t8i9t a j p a s n l a l o s t0P1t l a p t r n t e a l a p i t2a i t a a l t l a o t3o p p a c t t s4a5t6r7( I o o m o t p p a i 8m9e0u t t o t c o v f t p o p1r t f t s t b p b t j p5L52]
+[DELETED: a T t s n b e u t p gei(ajr(l0a1p2s b a l s t t t r v o t3p p a w a s p t l4a5s6p o g e e t i o o m o t7p8h9( I a b q i r t b s t t0r1t s ( o t s a i t p p2a h o j o a g a t3r4j5(6s 1 w a p f t s s a t l7a8b9a0d1S 5 S 3 R S C S5L52]
+[DELETED: 23t f T f t s M o t s mup n s e s b h u t E A iAue N s e s b h u t E A iS0a1s 1 o 7 t a a p t l o e 2p3I4i5h6t p o m c w i g b a h r7c8S 6 S 3 R S C S9203172e3t4o b t e F p t t e A s e5u6t7b8( I l o s a t i a a s e9p t s ( o t s t a p0s m s t i a a s p o g1e5L52]
+[DELETED: sup s t t e c o c c bM 1 f t p e a b S 1 f t ge A t e c o c c h rtotc o t p s s b r f t0p1o2e3t4s o t i i t r a c o t5b6c7a t s t a i t s m a t o b U8c9e0t1c2b3( A p s t h s a i f 4s5c t s e i t S o S e6c o c c r a r a b t7p s c t s e o o b t8f9a0p s s b r f t c i t1a r t t c e S c s i a5L52]
+[DELETED: cf( A p s t h s a i a sut i f t b i t S o S ec o c c r a r a b tpM0s1d A i w i t m s n b p o t2b3(4b5a p t l l b a s d s c w6s ( o ( o t s T q s n b7s8b9b0v1a2t3( E a o p i s ( o t4s5p o g e o i a o y i c6w7T s b s f t o o c t q f t8i9S 1 f t s g e a t e F0p1(5L52]
+[DELETED: bt c w t b a c s c t b oetcm a o r a c T e c octh0T1t2r3t4w5( T q m a b s a a s e6s7l8e9t s d s a t d o a f o o0i1( T e c o c c o i t s2d l i m t o c t e c o3c c i t c h t g n o e4e5a t e o w n n b t r e6o a o c t e a p u t7E A e a o s p i t8s9t f o b ( r t e c o c0c135L52]
+[DELETED: (mb t b p i a n o g c i tsdte(c c c t e a t d p0a1a2c3d p a b t e c o c4c5( B f e v s b f t t e6c7c o c c c t e n l t8t9( W t s d l i m t o c t0e1o s s d s u r c i r2b3e4i f a r f b f e v t t5e6o7l8d s c t t e c o c c9c t e a l o a r v o t s0d i a o c o c q t v o t1q5L52]
+[DELETED: (b W a t b h b c t r o sei w t e w h f t p o m a ct T t d p a o t c bs r w a n l t t m r s i s4S 7 S 3 R S C S203 ( E c v t s d p1p2d3m t a c c a l4c c c e s u h5d r d l b a a a6s p f t c o n a e i o a7p i s ( ( o ( o t s I a s8i9g0s1(2( T c f e p a g e s b3d4d5o6( p t c p p b t i b i i e7p8e p f e p s e t t m9c f e p a g e f e p0s1(5L52]
+[DELETED: tp(td d f t c o a s a e h usS 8 S 7 R S C S270i1i2a3p4e t i t p s i a s d t5e s b h i c w s ( o s637t e t l p i s 7 o a f l8a a p i s 7 m b a p t9O 1 o t f y w i t b t f t e t0l o f l a T g b o t p1s2p a r c f e t l o f l3a b a v o a l t o t m o t4g b a d a c o t r t t c5c6o t p s o ( u r o a p b t7c8p o t p s r a e s b a9l f p o t r v r i t p0s1w w b i i e o t l p i s5L52]
+[DELETED: 7t d o t e l a T e l asps e s b f w t c c o ect o p a p a c o t n o ert0p t i o t b a a e a c f i t1r2t3E4c5a p i s 3 t 3 A e l a6a7v8a9y0f1w i e A g b m p n m t o2r3o4p5( T b q m i a t a c s6f i t r o p a s i t f7"8n t e . c p o h d o t9v i e o t l p b l u f0y . f t p o ( o b1c5L52]
+[DELETED: a b c r o s a I mtst s n e t a s i t b q I mt g b o t p s s n i st( I l o t e p i s ( o t0s a p s s t s 7 a1v2t3y a a m o t r o t p s o4v c a n i p i a n o g5c6p t t m A l t p o t r v7r i t p s o v s c 8q9a0t1m2I a m o t r v p a t m v i3f o e t l o f l a a c o t4r o t a s b f t t c b p t5O6r7t8l9s0s1( A p s m r o m a p5L52]
+[DELETED: are a w t i i p b t r ve t i t p s i a s d te s b h i c w s ( o s3otv ( b p a r c f t r o0m b a v o a l t o t m o t1g b a d a c o t r t t c2c3o t p s o ( u r o a p b t4c5p o t p s r a e s b a6l f p o t r v r i t p7s8d9t0l a w b m I t e l a w b1m2T3c4a5l6t7r8t9(0a s a i d r v m a p1q5L52]
+[DELETED: u t s f a s a i d s bc(ait s d w i v t e t m l lpS 9 S 7 R R S o N ia07 A s d m e t b a f t1g2a3e h i c w s ( o s 3 4p5r6e7l f p o t l v o t d T8r o t b o t p o t l v s9i t a b w t b w i i g f0b o e f t e s y o a a t1b2i3t q o t p o g e b o c f 4s e o t i a t r o s b5r o l v p T e s b h6p t t E A o s 7 a a c f 7s e s b p b t d A v t e t8b9i s 7 m b a o t s q a a v t0e1S5L52]
+[DELETED: a7oesmtan0a1c o e o h d u t t v o a t2t3S4d b f p o t l v a s5m6S7a87 T s b o b o e o a p9s0t1e2a m n e a p o s y e t l3p4p5p p t s l s b m f c b6f7i b t f a s l p f a c8c p e t t d i c9u0s ( o s 3 a f v o t l v1p t C 1 a 7 T s d n p t5L52]
+[DELETED: s b o b o e o a p s d fr a l o l a w a v o tl v f t p o l f c r owSa7 T l v o a C I I o I sd h t p a a e h i c ws0( d t p o l o a a s a t1b2o3(4s5f6S7a87 A t t e a s f f t b9l h o p o a t f t p o0p1o2t l v v o t p a a e h i3c w s ( o s 3 T n o t4p t e s s f s i t s t b5r6t7v8o9s t a t r h b s c0w1c5L52]
+[DELETED: wS 1  O s 1 1 1 77N a s 1 3 3 3 a 7RS 1  T f s i o r S15L52]
+
+
+================================================================================
+
+Raw Text:
+LB135 LB135
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 135
+Introduced by Holdcroft, 36.
+Read first time January 13, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend sections 10-702,
+2 13-519, 13-2507, 79-1029, 79-1098, 79-10,105, 79-10,117, and
+3 79-10,118, Reissue Revised Statutes of Nebraska, and sections
+4 13-809, 32-405, 32-559, 32-1203, and 77-3444, Revised Statutes
+5 Cumulative Supplement, 2024; to provide, change, and eliminate
+6 provisions regarding elections for certain purposes; to harmonize
+7 provisions; to repeal the original sections; and to outright repeal
+8 section 10-703.01, Reissue Revised Statutes of Nebraska.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB135 LB135
+2025 2025
+1 Section 1. Section 10-702, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 10-702 (1) The question of issuing school district bonds shall may
+4 be submitted at a special election or such question may be voted on at an
+5 election held in compliance with subsection (3) of section 32-559
+6 conjunction with the statewide primary or statewide general election. No
+7 bonds shall be issued until the question has been submitted to the
+8 qualified electors of the district and a majority of all the qualified
+9 electors voting on the question have voted in favor of issuing the same ,
+10 at an election called for the purpose, upon notice given by the school
+11 board officers of the district as provided in subsection (3) of this
+12 section at least twenty days prior to such election. If the election for
+13 issuing bonds is held as a special election, the procedures provided in
+14 section 10-703.01 shall be followed. The question of bond issues in such
+15 districts, when defeated, shall not, except in case of fire or other
+16 disaster or in the case of a newly created district, be resubmitted in
+17 substance for a period of six months from and after the date of such
+18 election.
+19 (2) When the question of issuing bonds is to be submitted at a
+20 statewide primary or statewide general election as ordered by a
+21 resolution of a majority of the members of the school board of education,
+22 such order shall be made in writing and filed with the election
+23 commissioner or county clerk as required in subsection (3) of section
+24 32-559 or election commissioner by March 1 for the statewide primary
+25 election or September 1 for the statewide general election. The order
+26 calling for the school bond election shall be filed with the county clerk
+27 or election commissioner in the county having the greatest number of
+28 electors entitled to vote on the question who . The county clerk or
+29 election commissioner receiving such order shall conduct the school bond
+30 election for the school district as provided in subsection (3) of section
+31 32-559 the Election Act.
+-2-
+
+LB135 LB135
+2025 2025
+1 (3) A special notice of the election shall be published by the
+2 school board of education in a newspaper or newspapers of general
+3 circulation within the district stating the day of the election, the
+4 hours during which the polls will be open, and any other information
+5 deemed necessary in informing the public of the bond issue. The notice
+6 shall be made at least twenty days prior to the election.
+7 If the question of submitting bonds for the school district is voted
+8 upon in one or more counties and the ballots have been certified across
+9 county lines, the election boards in the counties where the ballots are
+10 cast shall count the ballots on election day the same as all other
+11 ballots are counted and seal the same in their ballots-cast container
+12 along with other ballots.
+13 The canvassing boards in each county shall canvass the returns in
+14 the same manner as other returns are canvassed.
+15 The county clerk or election commissioner in any adjoining county
+16 voting on the bond issue shall certify the returns to the county clerk or
+17 election commissioner of the county having the greatest number of
+18 electors entitled to vote on the question of issuing bonds.
+19 The county clerk or election commissioner in such county shall enter
+20 the total returns from any adjoining county or counties to the total
+21 votes recorded in his or her official book of votes cast and shall
+22 certify the returns to the board of education for which such bond
+23 election was held.
+24 Sec. 2. Section 13-519, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 13-519 (1)(a) Subject to subdivisions (1)(b) and (c) of this
+27 section, for all fiscal years beginning on or after July 1, 1998, no
+28 governmental unit shall adopt a budget containing a total of budgeted
+29 restricted funds more than the last prior year's total of budgeted
+30 restricted funds plus allowable growth plus the basic allowable growth
+31 percentage of the base limitation established under section 77-3446. For
+-3-
+
+LB135 LB135
+2025 2025
+1 the second fiscal year in which a county will receive a full year of
+2 receipts from the tax imposed in sections 77-27,223 to 77-27,227, the
+3 prior year's total of restricted funds shall be the prior year's total of
+4 restricted funds plus the total receipts from the tax imposed in sections
+5 77-27,223 to 77-27,227 in the prior year. If a governmental unit
+6 transfers the financial responsibility of providing a service financed in
+7 whole or in part with restricted funds to another governmental unit or
+8 the state, the amount of restricted funds associated with providing the
+9 service shall be subtracted from the last prior year's total of budgeted
+10 restricted funds for the previous provider and may be added to the last
+11 prior year's total of restricted funds for the new provider. For
+12 governmental units that have consolidated, the calculations made under
+13 this section for consolidating units shall be made based on the combined
+14 total of restricted funds, population, or full-time equivalent students
+15 of each governmental unit.
+16 (b) Educational For all fiscal years beginning on or after July 1,
+17 2008, educational service units may exceed the limitations of subdivision
+18 (1)(a) of this section to the extent that one hundred ten percent of the
+19 needs for the educational service unit calculated pursuant to section
+20 79-1241.03 exceeds the budgeted restricted funds allowed pursuant to
+21 subdivision (1)(a) of this section.
+22 (c) For fiscal year 2017-18, the last prior year’s total of
+23 restricted funds for counties shall be the last prior year’s total of
+24 restricted funds less the last prior year’s restricted funds budgeted by
+25 counties under sections 39-2501 to 39-2520, plus the last prior year’s
+26 amount of restricted funds budgeted by counties under sections 39-2501 to
+27 39-2520 to be used for capital improvements.
+28 (d) The limitations of subdivision (1)(a) of this section shall not
+29 apply to the budget or budget statement adopted by a regional
+30 metropolitan transit authority for the first five fiscal years commencing
+31 on the January 1 that follows the effective date of the conversion of the
+-4-
+
+LB135 LB135
+2025 2025
+1 transit authority established under the Transit Authority Law into a
+2 regional metropolitan transit authority.
+3 (2) A governmental unit may exceed the limit provided in subdivision
+4 (1)(a) of this section for a fiscal year by up to an additional one
+5 percent upon the affirmative vote of at least seventy-five percent of the
+6 governing body.
+7 (3)(a) Except as otherwise provided in subdivision (b) of this
+8 subsection, a (3) A governmental unit may exceed the applicable allowable
+9 growth percentage otherwise prescribed in this section by an amount
+10 approved by a majority of legal voters voting on the issue at a special
+11 election called for such purpose upon the recommendation of the governing
+12 body or upon the receipt by the county clerk or election commissioner of
+13 a petition requesting an election signed by at least five percent of the
+14 legal voters of the governmental unit. The recommendation of the
+15 governing body or the petition of the legal voters shall include the
+16 amount and percentage by which the governing body would increase its
+17 budgeted restricted funds for the ensuing year over and above the current
+18 year's budgeted restricted funds. Except as otherwise provided in
+19 subdivision (b) of this subsection, the The county clerk or election
+20 commissioner shall call for a special election on the issue within thirty
+21 days after the receipt of such governing body recommendation or legal
+22 voter petition. Such The election shall be held pursuant to the Election
+23 Act, and all costs shall be paid by the governing body. The issue may be
+24 approved on the same question as a vote to exceed the levy limits
+25 provided in section 77-3444.
+26 (b) For a school district, the election shall be held in compliance
+27 with subsection (3) of section 32-559.
+28 (4) In lieu of the election procedures in subsection (3) of this
+29 section, any governmental unit may, for a period of one year, exceed the
+30 allowable growth percentage otherwise prescribed in this section by an
+31 amount approved by a majority of legal voters voting at a meeting of the
+-5-
+
+LB135 LB135
+2025 2025
+1 residents of the governmental unit, called after notice is published in a
+2 newspaper of general circulation in the governmental unit at least twenty
+3 days prior to the meeting. At least ten percent of the registered voters
+4 residing in the governmental unit shall constitute a quorum for purposes
+5 of taking action to exceed the allowable growth percentage. If a majority
+6 of the registered voters present at the meeting vote in favor of
+7 exceeding the allowable growth percentage, a copy of the record of that
+8 action shall be forwarded to the Auditor of Public Accounts along with
+9 the budget documents. The issue to exceed the allowable growth percentage
+10 may be approved at the same meeting as a vote to exceed the limits or
+11 final levy allocation provided in section 77-3444.
+12 Sec. 3. Section 13-809, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 13-809 (1) Subject to subsections (2) and (3) of this section, any
+15 joint entity may from time to time issue its bonds in such principal
+16 amounts as its governing body shall deem necessary to provide sufficient
+17 funds to carry out any of the joint entity's purposes and powers,
+18 including the establishment or increase of reserves, the payment of
+19 interest accrued during construction of a project and for such period
+20 thereafter as the governing body may determine, and the payment of all
+21 other costs or expenses of the joint entity incident to and necessary or
+22 convenient to carry out its purposes and powers.
+23 (2) Bonds issued on or after April 18, 2018, for purposes of the
+24 Public Facilities Construction and Finance Act shall be subject to a vote
+25 prior to issuance as provided in such act.
+26 (3) (3)(a) For any joint entity created on or after February 14,
+27 2024, that includes a Nebraska school district or an educational service
+28 unit, such joint entity shall not issue any bonds until (a) the question
+29 of issuing such bonds has been submitted to the qualified electors of
+30 each Nebraska school district or educational service unit that is part of
+31 the joint entity at an election held in compliance with subsection (3) of
+-6-
+
+LB135 LB135
+2025 2025
+1 section 32-559 called for that purpose as provided in this section and
+2 (b) , within each such school district or educational service unit, a
+3 majority of the qualified electors voting on the question voted in favor
+4 of issuing the bonds.
+5 (b) The joint entity shall give notice of the election at least
+6 fifty days prior to the election as required in subsection (3) of section
+7 32-559. The question of issuing bonds may be submitted at the statewide
+8 primary or general election. The election shall be conducted in
+9 accordance with the Election Act.
+10 (c) The question of bond issues, when defeated, shall not be
+11 resubmitted in substance for a period of at least six months after the
+12 date of such election.
+13 Sec. 4. Section 13-2507, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 13-2507 (1) Subject to subsection (4) of this section, a joint
+16 public agency shall have only those powers of taxation as one or more of
+17 the participating public agencies has and only as specifically provided
+18 in the agreement proposing creation of the joint public agency, except
+19 that a joint public agency shall not levy a local option sales tax.
+20 Participating public agencies may agree to allow the joint public agency
+21 to levy a property tax rate not to exceed a limit as provided in the
+22 agreement if the agreement also limits the levy authority of the
+23 overlapping participating public agencies collectively to the same
+24 amount. The levy authority of a joint public agency shall be allocated by
+25 the city or county as provided in section 77-3443, and the agreement may
+26 require allocation of levy authority by the city or county.
+27 (2) If one or more of the participating public agencies is a
+28 municipality, the agreement may allow any occupation or wheel tax to be
+29 extended over the area encompassed by the joint public agency at a rate
+30 uniform to that of the city or village for the purpose of providing
+31 revenue to finance the services to be provided by the joint public
+-7-
+
+LB135 LB135
+2025 2025
+1 agency. The tax shall not be extended until the procedures governing
+2 enactment by the municipality are followed by the joint public agency,
+3 including any requirement for a public vote.
+4 (3) If the agreement calls for the allocation of property tax levy
+5 authority to the joint public agency, the amount of the allocation to the
+6 joint public agency and from each participating public agency shall be
+7 reported to the Property Tax Administrator.
+8 (4)(a) Prior to the issuance of bonds and the pledge of property tax
+9 levy authority allocated to a joint public agency to pay the principal of
+10 and interest on bonds to be issued by the joint public agency, the joint
+11 public agency shall hold an election to present the question of issuing
+12 such bonds and levying such tax to the registered voters of the
+13 participating public agency which allocated such property tax levy
+14 authority. Such election shall be held at a special election called for
+15 such purpose or an election held in conjunction with a statewide or local
+16 primary or general election, except that if one or more of the
+17 participating public agencies is a school district, the election shall be
+18 held in compliance with subsection (3) of section 32-559.
+19 (b) If a ballot question is required to be submitted to the
+20 registered voters of more than one participating public agency pursuant
+21 to subdivision (a) of this subsection and if the participating public
+22 agencies have overlapping jurisdiction of any geographic area, the
+23 registered voters residing in the geographic area subject to overlapping
+24 jurisdiction shall only be entitled to one vote on the ballot question.
+25 (c) A joint public agency may issue refunding bonds as authorized in
+26 section 13-2537 which are payable from the same security and tax levy
+27 authority as bonds being refunded without holding an election as required
+28 by this subsection if the issuance of the refunding bonds does not allow
+29 additional principal and does not allow extension of the final maturity
+30 date of the indebtedness.
+31 Sec. 5. Section 32-405, Revised Statutes Cumulative Supplement,
+-8-
+
+LB135 LB135
+2025 2025
+1 2024, is amended to read:
+2 32-405 Any special election under the Election Act shall be held on
+3 the first Tuesday following the second Monday of the selected month
+4 unless otherwise specifically provided. Except as otherwise specifically
+5 provided, no special election shall be held under the Election Act in
+6 April, May, June, October, November, or December of an even-numbered year
+7 unless it is held in conjunction with the statewide primary or general
+8 election. No special election shall be held under the Election Act in
+9 September of an even-numbered year except as provided in section 32-564
+10 and except for a special election by a political subdivision pursuant to
+11 section 13-519 or 77-3444 to approve a property tax levy or exceed a
+12 property tax levy limitation. A special election for a Class I, II, III,
+13 IV, or V school district which is located in whole or in part in a county
+14 in which a city of the primary or metropolitan class is located may be
+15 held in conjunction with the primary or general election for a city of
+16 the primary or metropolitan class which is governed by a home rule
+17 charter.
+18 Sec. 6. Section 32-559, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 32-559 (1)(a) Except as provided in subsection (3) of this section
+21 77-3444, any issue to be submitted to the registered voters at a special
+22 election by a political subdivision shall be certified by the clerk of
+23 the political subdivision to the election commissioner or county clerk on
+24 or before the eighth Friday prior to the election. A special election
+25 under this subsection may be held by mail as provided in sections 32-952
+26 to 32-959. Any other special election under this subsection section shall
+27 be subject to section 32-405.
+28 (b) In lieu of submitting an the issue at a special election
+29 pursuant to subdivision (1)(a) of this section, the any political
+30 subdivision may submit the issue at a statewide primary or general
+31 election or at any scheduled county election, except that no such issue
+-9-
+
+LB135 LB135
+2025 2025
+1 shall be submitted at a statewide election or scheduled county election
+2 unless the issue to be submitted has been certified by the clerk of the
+3 political subdivision to the election commissioner or county clerk by
+4 March 1 for the primary election and by September 1 for the general
+5 election. After the election commissioner or county clerk has received
+6 the certification of the issue to be submitted, the election commissioner
+7 or county clerk he or she shall be responsible for all matters relating
+8 to the submission of the issue to the registered voters, except that the
+9 clerk of the political subdivision shall be responsible for the
+10 publication or posting of any required special notice of the submission
+11 of such issue other than the notice required to be given of the statewide
+12 election issues. The election commissioner or county clerk shall prepare
+13 the ballots and issue ballots for early voting and shall also conduct the
+14 submission of the issue, including the receiving and counting of the
+15 ballots on the issue. The election returns shall be made to the election
+16 commissioner or county clerk. The ballots shall be counted and canvassed
+17 at the same time and in the same manner as the other ballots. Upon
+18 completion of the canvass of the vote by the county canvassing board, the
+19 election commissioner or county clerk shall certify the election results
+20 to the governing body of the political subdivision. The canvass by the
+21 county canvassing board shall have the same force and effect as if made
+22 by the governing body of the political subdivision.
+23 (2)(a) A political subdivision that has submitted an issue for a
+24 special election under subdivision (1)(a) or (3)(c) of this section may
+25 cancel the special election if the Secretary of State, election
+26 commissioner, or county clerk receives a resolution adopted by the
+27 political subdivision canceling the special election on or before the
+28 fourth Thursday prior to the election. No cancellation shall be effective
+29 after such date. If a special election is canceled in such manner, the
+30 political subdivision shall be responsible for the costs incurred that
+31 are related to the canceled election. Such costs shall include all
+-10-
+
+LB135 LB135
+2025 2025
+1 chargeable costs as provided in section 32-1202 associated with preparing
+2 for and conducting a special election.
+3 (b) A political subdivision that has submitted an issue at a
+4 statewide primary or general election or at any scheduled county election
+5 under subdivision (1)(b) or subsection (3) of this section may withdraw
+6 the issue from the ballot if the Secretary of State, election
+7 commissioner, or county clerk receives a resolution adopted by the
+8 political subdivision withdrawing the issue from the ballot no later than
+9 March 1 prior to a statewide primary election or September 1 prior to a
+10 statewide general election. No withdrawal shall be effective after such
+11 date. Any issue withdrawn in this manner shall not be printed on the
+12 ballot.
+13 (3)(a) A school district election called to approve the issuance of
+14 bonds, approve a property tax levy or levy increase, or approve exceeding
+15 a property tax levy limitation by a school district shall comply with
+16 subdivision (b) or (c) of this subsection. The question shall not be
+17 submitted at an election under this subsection within ten months after
+18 being defeated at any election. Except as otherwise specifically provided
+19 by law, the registered voters of the school district shall be entitled to
+20 vote on the question presented at the election and the question shall be
+21 approved if a majority of the votes cast upon the question are in favor
+22 thereof.
+23 (b)(i) Except as otherwise provided in subdivision (c) of this
+24 subsection, the election shall be held in conjunction with the statewide
+25 primary or general election or in an odd-numbered year in conjunction
+26 with a regularly scheduled general election of a political subdivision.
+27 The school board shall file the order or certify the question for the
+28 issue to be on the ballot by March 1 for the statewide primary election,
+29 September 1 for the statewide general election, and the eighth Friday
+30 prior to the general election of a political subdivision.
+31 (ii) If the question is voted upon in one or more counties and the
+-11-
+
+LB135 LB135
+2025 2025
+1 ballots have been certified across county lines, the election boards in
+2 the counties where the ballots are cast shall count the ballots on
+3 election day in the same manner as all other ballots are counted and seal
+4 the same in their ballots-cast container along with other ballots. The
+5 canvassing boards in each county shall canvass the returns in the same
+6 manner as other returns are canvassed. The election commissioner or
+7 county clerk in any adjoining county voting on the question shall certify
+8 the returns to the election commissioner or county clerk of the county
+9 having the greatest number of electors entitled to vote on the question.
+10 The election commissioner or county clerk in such county shall enter the
+11 total returns from any adjoining county or counties to the total votes
+12 recorded in the official book of votes cast and shall certify the returns
+13 to the school board of the school district for which such bond election
+14 was held.
+15 (c)(i) The question may also be submitted at a special election
+16 subject to section 32-405 if the purpose of the bonds, of the tax levy or
+17 levy increase, or of exceeding the tax levy limitation is to address an
+18 emergency due to circumstances beyond the control of the school board of
+19 the school district, such as the destruction of a facility or other
+20 infrastructure by fire, flood, tornado, or other emergency circumstance.
+21 (ii) The election commissioner or county clerk or, if the school
+22 district lies in more than one county, the election commissioner or
+23 county clerk in the county having the greatest number of electors
+24 entitled to vote on the question shall designate the polling places and
+25 appoint the election officials, who need not be the regular election
+26 officials, and otherwise conduct the election as provided under the
+27 Election Act except as otherwise specifically provided in this
+28 subsection. The school board of the school district shall (A) designate
+29 the form of ballot, (B) reimburse the election commissioner or county
+30 clerk for the expenses of conducting the election as provided in sections
+31 32-1201 to 32-1208 and at the minimum rate as described in subdivision
+-12-
+
+LB135 LB135
+2025 2025
+1 (2)(d) of section 32-1203, (C) give notice of the election by first-class
+2 mail at least thirty days prior to the election, and (D) cause the sample
+3 ballot to be published in a newspaper of general circulation in the
+4 school district one time not more than fifteen days nor less than seven
+5 days prior to the election. No notice of the election shall be required
+6 to be given by the election commissioner or county clerk. The notice of
+7 election shall state where ballots for early voting may be obtained.
+8 (iii) The ballots shall be counted by the election commissioner or
+9 county clerk conducting the election and two disinterested persons
+10 appointed by the election commissioner or county clerk. When the polls
+11 are closed, the receiving board shall deliver the ballots to the election
+12 commissioner or county clerk conducting the election who, with the two
+13 disinterested persons appointed by the election commissioner or county
+14 clerk, shall proceed to count the ballots.
+15 (iv) Ballots for early voting shall be furnished to the election
+16 commissioner or county clerk and ready for distribution by the election
+17 commissioner or county clerk conducting the election not less than
+18 twenty-one days prior to the election.
+19 (v) When the school district lies in more than one county, the
+20 election commissioner or county clerk in any other county containing part
+21 of such school district shall, upon request, certify its registration
+22 books for those precincts in which the school district is located to the
+23 election commissioner or county clerk conducting the election and shall
+24 immediately forward all requests for ballots for early voting to the
+25 election commissioner or county clerk charged with issuing such ballots
+26 or otherwise arrange for distribution of ballots for early voting. Not
+27 less than five days prior to the election, the school board of the school
+28 district shall certify to the election commissioner or county clerk
+29 conducting the election a list of all registered voters of the school
+30 district in any other county or counties qualified to vote on the
+31 question.
+-13-
+
+LB135 LB135
+2025 2025
+1 (vi) All ballots cast at the election shall be counted by the same
+2 board. When all the ballots have been counted, the returns of such
+3 election shall be turned over to the school board of the school district
+4 in which the election was held for the purpose of making a canvass
+5 thereof. The two disinterested persons appointed on the counting board
+6 shall receive wages at no less than the minimum rate set in section
+7 48-1203 for each hour of service rendered.
+8 Sec. 7. Section 32-1203, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-1203 (1) Each city, village, township, school district, public
+11 power district, sanitary and improvement district, metropolitan utilities
+12 district, fire protection district, natural resources district, regional
+13 metropolitan transit authority, community college area, learning
+14 community coordinating council, educational service unit, hospital
+15 district, reclamation district, library board, and airport authority
+16 shall pay for the costs of nominating and electing its officers as
+17 provided in subsection (2), (3), or (4) of this section. If a special
+18 issue is placed on the ballot at the time of the statewide primary or
+19 general election by any political subdivision, the political subdivision
+20 shall pay for the costs of the election as provided in subsection (2),
+21 (3), or (4) of this section.
+22 (2) The charge for each primary and general election shall be
+23 determined by (a) ascertaining the total cost of all chargeable costs as
+24 described in section 32-1202, (b) dividing the total cost by the number
+25 of precincts participating in the election to fix the cost per precinct,
+26 (c) prorating the cost per precinct by the inked ballot inch in each
+27 precinct for each political subdivision, and (d) totaling the cost for
+28 each precinct for each political subdivision, except that the minimum
+29 charge for each primary and general election for each political
+30 subdivision shall be one hundred dollars.
+31 (3) In lieu of the charge determined pursuant to subsection (2) of
+-14-
+
+LB135 LB135
+2025 2025
+1 this section, the election commissioner or county clerk may charge public
+2 power districts the fee for election costs set by section 70-610.
+3 (4) In lieu of the charge determined pursuant to subsection (2) of
+4 this section, the election commissioner or county clerk may bill school
+5 districts directly for the costs of a special an election held under
+6 section 32-559 10-703.01.
+7 Sec. 8. Section 77-3444, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 77-3444 (1) A political subdivision may exceed the limits provided
+10 in section 77-3442 or a final levy allocation determination as provided
+11 in section 77-3443 by an amount not to exceed a maximum levy approved by
+12 a majority of registered voters voting on the issue. The issue shall be
+13 placed before the voters at in a primary, general, or special election,
+14 except that if the political subdivision is a school district, the
+15 election shall be held in compliance with subsection (3) of section
+16 32-559 at which the issue is placed before the registered voters. A vote
+17 to exceed the limits provided in section 77-3442 or a final levy
+18 allocation as provided in section 77-3443 must be approved prior to
+19 October 10 of the fiscal year which is to be the first to exceed the
+20 limits or final levy allocation. The governing body of the political
+21 subdivision may call for the submission of the issue to the voters (a) by
+22 passing a resolution calling for exceeding the limits or final levy
+23 allocation by a vote of at least two-thirds of the members of the
+24 governing body and delivering a copy of the resolution to the county
+25 clerk or election commissioner of every county which contains all or part
+26 of the political subdivision or (b) upon receipt of a petition by the
+27 county clerk or election commissioner of every county containing all or
+28 part of the political subdivision requesting an election signed by at
+29 least five percent of the registered voters residing in the political
+30 subdivision. The resolution or petition shall include the amount of levy
+31 which would be imposed in excess of the limits provided in section
+-15-
+
+LB135 LB135
+2025 2025
+1 77-3442 or the final levy allocation as provided in section 77-3443 and
+2 the duration of the excess levy authority. The excess levy authority
+3 shall not have a duration greater than five years. Except as otherwise
+4 provided in section 32-559, any Any resolution or petition calling for a
+5 special election shall be filed with the county clerk or election
+6 commissioner on or before the fifth Friday prior to the election, and the
+7 time of publication and providing a copy of the notice of election
+8 required in section 32-802 shall be no later than twenty days prior to
+9 the election, and the . The county clerk or election commissioner shall
+10 place the issue on the ballot at an election as called for in the
+11 resolution or petition which is at least thirty-one days after receipt of
+12 the resolution or petition. The election shall be held pursuant to the
+13 Election Act. The For petitions filed with the county clerk or election
+14 commissioner on or after May 1, 1998, the petition shall be in the form
+15 as provided in sections 32-628 to 32-631. Any excess levy authority
+16 approved under this section shall terminate pursuant to its terms, on a
+17 vote of the governing body of the political subdivision to terminate the
+18 authority to levy more than the limits, at the end of the fourth fiscal
+19 year following the first year in which the levy exceeded the limit or the
+20 final levy allocation, or as provided in subsection (4) of this section,
+21 whichever is earliest. A governing body may pass no more than one
+22 resolution calling for an election pursuant to this section during any
+23 one calendar year. Only one election may be held in any one calendar year
+24 pursuant to a petition initiated under this section.
+25 (2) The ballot question may include any terms and conditions set
+26 forth in the resolution or petition and shall include the following:
+27 "Shall (name of political subdivision) be allowed to levy a property tax
+28 not to exceed ............ cents per one hundred dollars of taxable
+29 valuation in excess of the limits prescribed by law until fiscal
+30 year ............ for the purposes of (general operations; building
+31 construction, remodeling, or site acquisition; or both general operations
+-16-
+
+LB135 LB135
+2025 2025
+1 and building construction, remodeling, or site acquisition)?". If a
+2 majority of the votes cast upon the ballot question are in favor of such
+3 tax, the county board shall authorize a tax in excess of the limits in
+4 section 77-3442 or the final levy allocation in section 77-3443 but such
+5 tax shall not exceed the amount stated in the ballot question. If a
+6 majority of those voting on the ballot question are opposed to such tax,
+7 the governing body of the political subdivision shall not impose such
+8 tax.
+9 (3) In lieu of the election procedures in subsection (1) of this
+10 section, any political subdivision subject to section 77-3443 and
+11 villages may approve a levy in excess of the limits in section 77-3442 or
+12 the final levy allocation provided in section 77-3443 for a period of one
+13 year at a meeting of the residents of the political subdivision or
+14 village, called after notice is published in a newspaper of general
+15 circulation in the political subdivision or village at least twenty days
+16 prior to the meeting. At least ten percent of the registered voters
+17 residing in the political subdivision or village shall constitute a
+18 quorum for purposes of taking action to exceed the limits or final levy
+19 allocation. A record shall be made of the registered voters residing in
+20 the political subdivision or village who are present at the meeting. The
+21 method of voting at the meeting shall protect the secrecy of the ballot.
+22 If a majority of the registered voters present at the meeting vote in
+23 favor of exceeding the limits or final levy allocation, a copy of the
+24 record of that action shall be forwarded to the county board prior to
+25 October 10 and the county board shall authorize a levy as approved by the
+26 residents for the year. If a majority of the registered voters present at
+27 the meeting vote against exceeding the limits or final allocation, the
+28 limit or allocation shall not be exceeded and the political subdivision
+29 shall have no power to call for an election under subsection (1) of this
+30 section.
+31 (4) A political subdivision may rescind or modify a previously
+-17-
+
+LB135 LB135
+2025 2025
+1 approved excess levy authority prior to its expiration by a majority of
+2 registered voters voting on the issue in a primary, general, or special
+3 election at which the issue is placed before the registered voters,
+4 except that if the political subdivision is a school district, the
+5 election shall be held in compliance with subsection (3) of section
+6 32-559. A vote to rescind or modify must be approved prior to October 10
+7 of the fiscal year for which it is to be effective. The governing body of
+8 the political subdivision may call for the submission of the issue to the
+9 voters (a) by passing a resolution calling for the rescission or
+10 modification by a vote of at least two-thirds of the members of the
+11 governing body and delivering a copy of the resolution to the county
+12 clerk or election commissioner of every county which contains all or part
+13 of the political subdivision or (b) upon receipt of a petition by the
+14 county clerk or election commissioner of every county containing all or
+15 part of the political subdivision requesting an election signed by at
+16 least five percent of the registered voters residing in the political
+17 subdivision. The resolution or petition shall include the amount and the
+18 duration of the previously approved excess levy authority and a statement
+19 that either such excess levy authority will be rescinded or such excess
+20 levy authority will be modified. If the excess levy authority will be
+21 modified, the amount and duration of such modification shall be stated.
+22 The modification shall not have a duration greater than five years. The
+23 county clerk or election commissioner shall place the issue on the ballot
+24 at an election as called for in the resolution or petition which is at
+25 least thirty-one days after receipt of the resolution or petition, and
+26 the time of publication and providing a copy of the notice of election
+27 required in section 32-802 shall be no later than twenty days prior to
+28 the election. The election shall be held pursuant to the Election Act.
+29 (5) For purposes of this section, when the political subdivision is
+30 a sanitary and improvement district, registered voter means a person
+31 qualified to vote as provided in section 31-735. Any election conducted
+-18-
+
+LB135 LB135
+2025 2025
+1 under this section for a sanitary and improvement district shall be
+2 conducted and counted as provided in sections 31-735 to 31-735.06.
+3 (6) For purposes of this section, when the political subdivision is
+4 a school district or a multiple-district school system, registered voter
+5 includes persons qualified to vote for the members of the school board of
+6 the school district which is voting to exceed the maximum levy limits
+7 pursuant to this section.
+8 Sec. 9. Section 79-1029, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 79-1029 A school district may exceed the budget authority for the
+11 general fund budget of expenditures prescribed in section 79-1023 by an
+12 amount approved by a majority of legal voters voting on the issue at an
+13 election held in compliance with subsection (3) of section 32-559 a
+14 primary, general, or special election called for such purpose upon the
+15 recommendation of the board or upon the receipt by the county clerk or
+16 election commissioner of a petition requesting an election, signed by at
+17 least five percent of the legal voters of the district. The
+18 recommendation of the board or the petition of the legal voters shall
+19 include the amount by which the board would increase its general fund
+20 budget of expenditures for the ensuing school year over and above the
+21 budget authority for the general fund budget of expenditures prescribed
+22 in section 79-1023. The county clerk or election commissioner shall place
+23 the question on the primary or general election ballot or call for a
+24 special election on the issue after the receipt of such board
+25 recommendation or legal voter petition. The election shall be held
+26 pursuant to the Election Act or section 77-3444, and all costs for a
+27 special election shall be paid by the district. A vote to exceed the
+28 budget authority for the general fund budget of expenditures prescribed
+29 in section 79-1023 may be approved on the same question as a vote to
+30 exceed the levy limits provided in section 77-3444.
+31 Sec. 10. Section 79-1098, Reissue Revised Statutes of Nebraska, is
+-19-
+
+LB135 LB135
+2025 2025
+1 amended to read:
+2 79-1098 Whenever it is deemed necessary (1) to erect a schoolhouse
+3 or school building or an addition or additions and improvements to any
+4 existing schoolhouse or (2) to purchase equipment for such schoolhouse or
+5 school buildings, in any school district in this state the school board
+6 may and, upon petition of not less than one-fourth of the legal voters of
+7 the school district, shall submit to the people of the school district at
+8 an election held in compliance with subsection (3) of section 32-559 the
+9 next general election or special election a proposition to vote a special
+10 annual tax for that purpose of not to exceed seventeen and five-tenths
+11 cents on each one hundred dollars upon the taxable value of all the
+12 taxable property in such district for a term of not to exceed ten years.
+13 Such special tax may be voted at any annual or special meeting of the
+14 district by fifty-five percent of the legal voters attending such
+15 meeting.
+16 Sec. 11. Section 79-10,105, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 79-10,105 The school board or board of education of any public
+19 school district may enter into a lease or lease-purchase agreement for
+20 the exclusive use of its individual jurisdiction for such buildings or
+21 equipment as the board determines necessary. Such lease or lease-purchase
+22 agreements may not exceed a period of seven years, except that lease-
+23 purchase agreements entered into as part of an energy financing contract
+24 pursuant to section 66-1065 may not exceed a period of thirty years. All
+25 payments pursuant to such leases shall be made from current building
+26 funds or general funds. No school district shall directly or indirectly
+27 issue bonds to fund any such lease-purchase plan for a capital
+28 construction project exceeding twenty-five thousand dollars in costs
+29 unless it first obtains approval at an election held in compliance with
+30 subsection (3) of section 32-559 a favorable vote of the legal voters
+31 pursuant to Chapter 10, article 7. This section does not prevent the
+-20-
+
+LB135 LB135
+2025 2025
+1 school board or board of education of any public school district from
+2 refinancing a lease or lease-purchase agreement without a vote of the
+3 legal voters for the purpose of lowering finance costs regardless of
+4 whether such agreement was entered into prior to July 9, 1988.
+5 Sec. 12. Section 79-10,117, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 79-10,117 The legal voters of any Class I, II, or III school
+8 district have the power, at an election held in compliance with
+9 subsection (3) of section 32-559 or at any annual or special meeting, to
+10 (1) direct the purchasing or leasing of any appropriate site and the
+11 building, leasing hiring, or purchasing of a teacherage for the purpose
+12 of providing housing facilities for the school employees of the district,
+13 (2) determine the amount necessary to be expended for such purposes the
+14 succeeding year, and (3) vote on a tax on the property of the district
+15 for the payment of the amount.
+16 Sec. 13. Section 79-10,118, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 79-10,118 A tax to establish a special fund for the building,
+19 leasing hiring, or purchasing of a teacherage for the purpose of
+20 providing housing facilities for the school employees of any Class I, II,
+21 or III district may be levied when authorized by fifty-five percent of
+22 the legal voters voting on the proposition at an election held in
+23 compliance with subsection (3) of section 32-559. The notice of the
+24 proposal to establish such special fund shall include the sum to be
+25 raised or the amount of the tax to be levied, the period of years, and
+26 the time of its taking effect. If fifty-five percent of the legal voters
+27 voting at any such election vote in favor of the proposition, the result
+28 of such election shall be certified to the county board which, upon being
+29 satisfied that all the requirements have been substantially complied
+30 with, shall cause the proceedings to be entered upon the record of the
+31 county board and shall make an order that the levy be made in accordance
+-21-
+
+LB135 LB135
+2025 2025
+1 with the election result and collected as other taxes.
+2 Sec. 14. Original sections 10-702, 13-519, 13-2507, 79-1029,
+3 79-1098, 79-10,105, 79-10,117, and 79-10,118, Reissue Revised Statutes of
+4 Nebraska, and sections 13-809, 32-405, 32-559, 32-1203, and 77-3444,
+5 Revised Statutes Cumulative Supplement, 2024, are repealed.
+6 Sec. 15. The following section is outright repealed: Section
+7 10-703.01, Reissue Revised Statutes of Nebraska.
+-22-
+
+[DELETED: yHA B F A A r t e t a s 11 1 7 7 7 7 a7 R R S o N a s1 3 3 3 a 7 R SC S 2 t p c a ep r e f c p t hpsB5L52]
+[DELETED: Sa1be h i c w s ( o s 3cb s b i u t q h b s t tqe0a1b o o t d a p i s ( o t2s3i4s5d w d s n e i c o f o o6d7s f a p o s m f a a t d o s8e9( W t q o i b i t b s a 0s p o s g e a o b 1r2s o s b m i w a f w t e3c o c c a r i s ( o s43 o e c b M 1 f t s p5e o S 1 f t s g e T o6c7o e c i t c h t g n o8e e t v o t q w . T c c o9e0e135L52]
+[DELETED: ( A s n o t e s b p b ts b o e i a n o n o gc w t d s t d o t e th d w t p w b o a a o idsIuc0c s c t b o e d t s a a o1b a c a s t s i t b c2a3T c b i e c s c t r i4t5T c c o e c i a a c6v7e c o t c h t g n o8e9T0t t r f a a c o c t t t1v r i h o h o b o v c a s2c t r t t b o e f w s b3e4S 2 S 1 R R S o N i5a61 ( S t s ( a ( o t7s f a f y b o o a J 1 1 n8g u s a a b c a t o b9r f m t t l p y t o b0r f p a g p t b a g1p5L52]
+[DELETED: t s f y i w a c w r a f y or f t t i i s 7 t 7 tpr7 t 7 i t p y I a g utwts0r1p y t o r f f t n p F2g u t h c t c m u3t4t5o6(728(9n f t e s u c p t s07 e t b r f a p t1s2( F f y 2 t l p y t o3r f f c s b t l p y t o4r5c6a738(9a t t b o b s a b a r0m1o5L52]
+[DELETED: t a e u t T A L i r(( o t s f a f y b u t a a opg( E a o p i s ( o tsg p o p i t s b a a0a1e2b3a4l v o t g u T r o t5g b o t p o t l v s i t6a a p b w t g b w i i7b8y b r f E a o p i9s ( o t s t T c c o e0c1d a t r o s g b r o l2v3A4a o t s q a a v t e t l l5p6(7w8( I l o t e p i s ( o t9s0a g p o p i t s b a1a5L52]
+[DELETED: rndroo t r v p a t m v i f oeat0m1f2S 3 S 1 R S C S32415j e m f t t t i i b i s p6a7f t c o a o t j e p a p8i t e o i o r t p o9i a d c o a p a f s p0t1o2c3( B i o o a A 1 2 f p o t4P5p6( ( F a j e c o o a F 1728u9o i s b h b s t t q e o0e1t5L52]
+[DELETED: s( , w e s s d o e s u mo( T j e s g n o t e a lf3p o g e T e s b c ia0( T q o b i w d s n b1r2d3S 4 S 1 R R S o N i4a51 ( S t s ( o t s a j6p7t8i9t a j p a s n l a l o s t0P1t l a p t r n t e a l a p i t2a i t a a l t l a o t3o p p a c t t s4a5t6r7( I o o m o t p p a i 8m9e0u t t o t c o v f t p o p1r t f t s t b p b t j p5L52]
+[DELETED: a T t s n b e u t p gei(ajr(l0a1p2s b a l s t t t r v o t3p p a w a s p t l4a5s6p o g e e t i o o m o t7p8h9( I a b q i r t b s t t0r1t s ( o t s a i t p p2a h o j o a g a t3r4j5(6s 1 w a p f t s s a t l7a8b9a0d1S 5 S 3 R S C S5L52]
+[DELETED: 23t f T f t s M o t s mup n s e s b h u t E A iAue N s e s b h u t E A iS0a1s 1 o 7 t a a p t l o e 2p3I4i5h6t p o m c w i g b a h r7c8S 6 S 3 R S C S9203172e3t4o b t e F p t t e A s e5u6t7b8( I l o s a t i a a s e9p t s ( o t s t a p0s m s t i a a s p o g1e5L52]
+[DELETED: sup s t t e c o c c bM 1 f t p e a b S 1 f t ge A t e c o c c h rtotc o t p s s b r f t0p1o2e3t4s o t i i t r a c o t5b6c7a t s t a i t s m a t o b U8c9e0t1c2b3( A p s t h s a i f 4s5c t s e i t S o S e6c o c c r a r a b t7p s c t s e o o b t8f9a0p s s b r f t c i t1a r t t c e S c s i a5L52]
+[DELETED: cf( A p s t h s a i a sut i f t b i t S o S ec o c c r a r a b tpM0s1d A i w i t m s n b p o t2b3(4b5a p t l l b a s d s c w6s ( o ( o t s T q s n b7s8b9b0v1a2t3( E a o p i s ( o t4s5p o g e o i a o y i c6w7T s b s f t o o c t q f t8i9S 1 f t s g e a t e F0p1(5L52]
+[DELETED: bt c w t b a c s c t b oetcm a o r a c T e c octh0T1t2r3t4w5( T q m a b s a a s e6s7l8e9t s d s a t d o a f o o0i1( T e c o c c o i t s2d l i m t o c t e c o3c c i t c h t g n o e4e5a t e o w n n b t r e6o a o c t e a p u t7E A e a o s p i t8s9t f o b ( r t e c o c0c135L52]
+[DELETED: (mb t b p i a n o g c i tsdte(c c c t e a t d p0a1a2c3d p a b t e c o c4c5( B f e v s b f t t e6c7c o c c c t e n l t8t9( W t s d l i m t o c t0e1o s s d s u r c i r2b3e4i f a r f b f e v t t5e6o7l8d s c t t e c o c c9c t e a l o a r v o t s0d i a o c o c q t v o t1q5L52]
+[DELETED: (b W a t b h b c t r o sei w t e w h f t p o m a ct T t d p a o t c bs r w a n l t t m r s i s4S 7 S 3 R S C S203 ( E c v t s d p1p2d3m t a c c a l4c c c e s u h5d r d l b a a a6s p f t c o n a e i o a7p i s ( ( o ( o t s I a s8i9g0s1(2( T c f e p a g e s b3d4d5o6( p t c p p b t i b i i e7p8e p f e p s e t t m9c f e p a g e f e p0s1(5L52]
+[DELETED: tp(td d f t c o a s a e h usS 8 S 7 R S C S270i1i2a3p4e t i t p s i a s d t5e s b h i c w s ( o s637t e t l p i s 7 o a f l8a a p i s 7 m b a p t9O 1 o t f y w i t b t f t e t0l o f l a T g b o t p1s2p a r c f e t l o f l3a b a v o a l t o t m o t4g b a d a c o t r t t c5c6o t p s o ( u r o a p b t7c8p o t p s r a e s b a9l f p o t r v r i t p0s1w w b i i e o t l p i s5L52]
+[DELETED: 7t d o t e l a T e l asps e s b f w t c c o ect o p a p a c o t n o ert0p t i o t b a a e a c f i t1r2t3E4c5a p i s 3 t 3 A e l a6a7v8a9y0f1w i e A g b m p n m t o2r3o4p5( T b q m i a t a c s6f i t r o p a s i t f7"8n t e . c p o h d o t9v i e o t l p b l u f0y . f t p o ( o b1c5L52]
+[DELETED: a b c r o s a I mtst s n e t a s i t b q I mt g b o t p s s n i st( I l o t e p i s ( o t0s a p s s t s 7 a1v2t3y a a m o t r o t p s o4v c a n i p i a n o g5c6p t t m A l t p o t r v7r i t p s o v s c 8q9a0t1m2I a m o t r v p a t m v i3f o e t l o f l a a c o t4r o t a s b f t t c b p t5O6r7t8l9s0s1( A p s m r o m a p5L52]
+[DELETED: are a w t i i p b t r ve t i t p s i a s d te s b h i c w s ( o s3otv ( b p a r c f t r o0m b a v o a l t o t m o t1g b a d a c o t r t t c2c3o t p s o ( u r o a p b t4c5p o t p s r a e s b a6l f p o t r v r i t p7s8d9t0l a w b m I t e l a w b1m2T3c4a5l6t7r8t9(0a s a i d r v m a p1q5L52]
+[DELETED: u t s f a s a i d s bc(ait s d w i v t e t m l lpS 9 S 7 R R S o N ia07 A s d m e t b a f t1g2a3e h i c w s ( o s 3 4p5r6e7l f p o t l v o t d T8r o t b o t p o t l v s9i t a b w t b w i i g f0b o e f t e s y o a a t1b2i3t q o t p o g e b o c f 4s e o t i a t r o s b5r o l v p T e s b h6p t t E A o s 7 a a c f 7s e s b p b t d A v t e t8b9i s 7 m b a o t s q a a v t0e1S5L52]
+[DELETED: a7oesmtan0a1c o e o h d u t t v o a t2t3S4d b f p o t l v a s5m6S7a87 T s b o b o e o a p9s0t1e2a m n e a p o s y e t l3p4p5p p t s l s b m f c b6f7i b t f a s l p f a c8c p e t t d i c9u0s ( o s 3 a f v o t l v1p t C 1 a 7 T s d n p t5L52]
+[DELETED: s b o b o e o a p s d fr a l o l a w a v o tl v f t p o l f c r owSa7 T l v o a C I I o I sd h t p a a e h i c ws0( d t p o l o a a s a t1b2o3(4s5f6S7a87 A t t e a s f f t b9l h o p o a t f t p o0p1o2t l v v o t p a a e h i3c w s ( o s 3 T n o t4p t e s s f s i t s t b5r6t7v8o9s t a t r h b s c0w1c5L52]
+[DELETED: wS 1  O s 1 1 1 77N a s 1 3 3 3 a 7RS 1  T f s i o r S15L52]

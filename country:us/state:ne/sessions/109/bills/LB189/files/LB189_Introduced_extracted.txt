@@ -1,0 +1,1879 @@
+Title: LEGISLATIVE BILL 189
+Official Title: LEGISLATIVE BILL 189
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+LB189 LB189
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Cavanaugh, M., 6; Spivey, 13.
+Read first time January 13, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to employment; to amend sections 48-652 and
+2 71-7611, Revised Statutes Cumulative Supplement, 2024; to adopt the
+3 Paid Family and Medical Leave Insurance Act; to create a fund; to
+4 transfer funds; to change provisions relating to experience accounts
+5 under the Employment Security Law; to harmonize provisions; to
+6 provide severability; and to repeal the original sections.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+LB189 LB189
+2025 2025
+1 Section 1. Sections 1 to 21 of this act shall be known and may be
+2 cited as the Paid Family and Medical Leave Insurance Act.
+3 Sec. 2. For purposes of the Paid Family and Medical Leave Insurance
+4 Act:
+5 (1) Base period means the first four of the last five completed
+6 calendar quarters immediately preceding the first day of a covered
+7 individual's benefit year;
+8 (2) Benefit year means the one-year period beginning with the first
+9 day of the first week with respect to which the covered individual first
+10 files a valid claim for family and medical leave benefits, and thereafter
+11 the one-year period beginning with the first day of the first week with
+12 respect to which the covered individual next files a valid claim for
+13 family and medical leave benefits after the termination of his or her
+14 last preceding benefit year. For purposes of this subdivision, a week
+15 with respect to which a covered individual files a valid claim shall be
+16 deemed to be in, within, or during that benefit year which includes the
+17 greater part of such week;
+18 (3) Commissioner means the Commissioner of Labor;
+19 (4) Covered active duty or call to covered active duty status has
+20 the same meaning as in 29 C.F.R. 825.126(a)(1) and (2), as such
+21 regulation existed on January 1, 2025;
+22 (5) Covered employer means an employer that elects to participate in
+23 the Paid Family and Medical Leave Insurance Act as provided in section 6
+24 of this act;
+25 (6) Covered individual means:
+26 (a) An individual who: (i) Is employed by a covered employer and
+27 (ii) elects to participate in the Paid Family and Medical Leave Insurance
+28 Act as provided in section 7 of this act; or
+29 (b) A self-employed individual who has elected to participate in the
+30 Paid Family and Medical Leave Insurance Act as provided in section 7 of
+31 this act;
+-2-
+LB189 LB189
+2025 2025
+1 (7) Covered servicemember has the same meaning as in 29 U.S.C. 2611
+2 and the regulations issued thereunder, as such section and regulations
+3 existed on January 1, 2025;
+4 (8) Family and medical leave benefits means the benefits provided
+5 under section 4 of this act for periods of paid family and medical leave;
+6 (9) Family member means and includes:
+7 (a) A biological, adopted, or foster child, a stepchild, or a legal
+8 ward of a covered individual or the covered individual's spouse or a
+9 person to whom the covered individual or the covered individual's spouse
+10 stood in loco parentis when such person was a minor child, regardless of
+11 the age or dependency status of such child, stepchild, legal ward, or
+12 person;
+13 (b) A biological, adoptive, or foster parent, a stepparent, or a
+14 legal guardian of a covered individual or the covered individual's spouse
+15 or a person who stood in loco parentis to the covered individual or the
+16 covered individual's spouse when the covered individual or the covered
+17 individual's spouse was a minor child;
+18 (c) A covered individual's spouse; and
+19 (d) A grandparent, grandchild, or sibling, whether of a biological,
+20 foster, adoptive, or step relationship, of the covered individual or the
+21 covered individual's spouse;
+22 (10) Health care provider means any person licensed under federal or
+23 state law to provide medical or emergency services, including, but not
+24 limited to, doctors, nurses, emergency room personnel, and certified
+25 nurse midwives;
+26 (11) Individual average weekly wage means:
+27 (a) For a covered individual who has earned wages during each
+28 calendar quarter of the base period, the amount of wages paid to the
+29 covered individual in the highest calendar quarter of the base period
+30 divided by thirteen; or
+31 (b) For a covered individual who has not earned wages during each
+-3-
+LB189 LB189
+2025 2025
+1 calendar quarter of the base period, the covered individual's average
+2 weekly wage during the most recently completed calendar quarter;
+3 (12) Military member means a covered individual's family member who
+4 is in the armed forces of the United States;
+5 (13) Next of kin has the same meaning as in 29 U.S.C. 2611 and the
+6 regulations issued thereunder, as such section and regulations existed on
+7 January 1, 2025;
+8 (14) Paid family and medical leave means leave taken by a covered
+9 individual for a qualifying reason described in section 3 of this act for
+10 which the covered individual is eligible for family and medical leave
+11 benefits;
+12 (15) Qualifying exigency leave means leave taken by a covered
+13 individual for the following purposes if the covered individual's family
+14 member is on covered active duty or call to covered active duty status:
+15 (a) Any of the purposes specified in 29 C.F.R. 825.126(b)(3)(i)
+16 through (iv), as such regulation existed on January 1, 2025;
+17 (b) Any of the purposes specified in 29 C.F.R. 825.126(b)(8)(i)
+18 through (iv), as such regulation existed on January 1, 2025;
+19 (c) To address any issue that arises from the fact that the military
+20 member is notified of an impending call or order to covered active duty
+21 seven or fewer calendar days prior to the date of deployment. Leave taken
+22 for this purpose can be used for a period of seven calendar days
+23 beginning on the date the military member is notified of an impending
+24 call or order to covered active duty;
+25 (d) To attend any official ceremony, program, or event sponsored by
+26 the military that is related to the covered active duty or call to
+27 covered active duty status of the military member;
+28 (e) To attend family support or assistance programs and
+29 informational briefings sponsored or promoted by the military, military
+30 service organizations, or the American Red Cross that are related to the
+31 covered active duty or call to covered active duty status of the military
+-4-
+LB189 LB189
+2025 2025
+1 member;
+2 (f) To make or update financial or legal arrangements to address the
+3 military member's absence while on covered active duty or call to covered
+4 active duty status, such as preparing and executing financial and health
+5 care powers of attorney, transferring bank account signature authority,
+6 obtaining military identification cards, or preparing or updating a will
+7 or living trust;
+8 (g) To act as the military member's representative before a federal,
+9 state, or local agency for the purposes of obtaining, arranging, or
+10 appealing military service benefits while the military member is on
+11 covered active duty or call to covered active duty status, and for a
+12 period of ninety days following the termination of the military member's
+13 covered active duty status;
+14 (h) To attend counseling provided by someone other than a health
+15 care provider for the covered individual, for the military member, for
+16 the biological, adopted, or foster child, the stepchild, or the legal
+17 ward of the military member, for a child of the military member's spouse,
+18 or for a child to whom the military member stands in loco parentis, if
+19 the need for counseling arises from the covered active duty or call to
+20 covered active duty status of the military member;
+21 (i) To spend time with the military member who is on short-term,
+22 temporary, rest and recuperation leave during the period of deployment.
+23 Leave taken for this purpose can be used for a period of fifteen calendar
+24 days beginning on the date the military member commences each instance of
+25 rest and recuperation leave;
+26 (j) To attend arrival ceremonies, reintegration briefings and
+27 events, and any other official ceremony or program sponsored by the
+28 military during a period of ninety days following the termination of the
+29 military member's covered active duty status;
+30 (k) To address issues that arise from the death of the military
+31 member while on covered active duty status, such as meeting and
+-5-
+LB189 LB189
+2025 2025
+1 recovering the body of the military member, making funeral arrangements,
+2 and attending funeral services; and
+3 (l) To address other events which arise out of the military member's
+4 covered active duty or call to covered active duty status if the covered
+5 employer and covered individual agree that such leave qualifies as an
+6 exigency and agree to both the timing and duration of such leave;
+7 (16) Retaliatory personnel action means denial of any right
+8 guaranteed under the Paid Family and Medical Leave Insurance Act,
+9 including, but not limited to:
+10 (a) Any of the following adverse actions taken against a covered
+11 individual for the exercise of any right guaranteed in the act:
+12 Discharge, suspension, demotion, reduction of hours, any other adverse
+13 action, or any threat of any such adverse action; and
+14 (b) Interference with, or punishment for, participating in or
+15 assisting with an investigation, proceeding, or hearing under the act;
+16 (17) Serious health condition has the same meaning as in 29 U.S.C.
+17 2611 and the regulations issued thereunder, as such section and
+18 regulations existed on January 1, 2025;
+19 (18) State average weekly wage means the state average weekly wage
+20 as annually determined under section 48-121.02; and
+21 (19) Week means a period of seven consecutive days ending Saturday
+22 at midnight.
+23 Sec. 3. (1) Beginning January 1, 2028, a covered individual may
+24 take paid family and medical leave for the following qualifying reasons:
+25 (a) To care for a new child of the covered individual during the
+26 first year after the birth, adoption, or placement through foster care of
+27 that child;
+28 (b) To care for a family member of the covered individual who has a
+29 serious health condition;
+30 (c) To care for a covered servicemember if the covered individual is
+31 a family member or the next of kin of the covered servicemember;
+-6-
+LB189 LB189
+2025 2025
+1 (d) For qualifying exigency leave; or
+2 (e) Because the covered individual has a serious health condition,
+3 including pregnancy, that makes the covered individual unable to perform
+4 the functions of the position held by such covered individual.
+5 (2) The maximum amount of paid family and medical leave that a
+6 covered individual may take shall be ten weeks or, for leave taken on an
+7 intermittent basis, sixty work days during any benefit year.
+8 Sec. 4. (1) Subject to subsection (2) of this section, the family
+9 and medical leave benefits to be paid to the covered individual for any
+10 week of paid family and medical leave shall be:
+11 (a) Ninety percent of the portion of the individual average weekly
+12 wage that is at or below fifty percent of the state average weekly wage;
+13 and
+14 (b) Fifty percent of the portion of the individual average weekly
+15 wage that is above fifty percent of the state average weekly wage.
+16 (2) The amount of family and medical leave benefits to be paid to a
+17 covered individual in any week shall not exceed sixty-six percent of the
+18 state average weekly wage.
+19 (3) Family and medical leave benefits are not payable for the first
+20 week in any benefit year that a covered individual takes paid family and
+21 medical leave. Such week shall be known as the waiting period. If the
+22 covered individual takes ten or more days of paid family and medical
+23 leave in such benefit year, the covered individual shall be paid for the
+24 waiting period. The waiting period shall occur only once in any benefit
+25 year. This subsection shall not apply to paid family and medical leave
+26 taken for the reasons stated in subdivisions (15)(c) and (15)(i) of
+27 section 2 of this act or for the reason stated in subdivision (1)(a) of
+28 section 3 of this act.
+29 (4) Family and medical leave benefits are not payable for less than
+30 one workday of paid family and medical leave taken in any one workweek.
+31 (5) The first payment of family and medical leave benefits must be
+-7-
+LB189 LB189
+2025 2025
+1 made to the covered individual within three weeks after the initial claim
+2 is filed under section 5 of this act, and subsequent payments of such
+3 benefits must be made every week thereafter for as long as the covered
+4 individual is eligible. Family and medical leave benefits shall be paid
+5 in the manner prescribed by the commissioner, which may include
+6 electronic payments.
+7 (6) For purposes of the calculations required under this section,
+8 only wages earned in employment as defined in section 48-604 shall be
+9 considered.
+10 (7) A covered individual shall not receive family and medical leave
+11 benefits at the same time that he or she is receiving workers'
+12 compensation benefits for total disability or benefits under the
+13 Employment Security Law.
+14 Sec. 5. (1) To receive family and medical leave benefits, a covered
+15 individual shall file an initial claim for such benefits with the
+16 commissioner on a form prescribed by the commissioner. The claim shall
+17 include:
+18 (a) The name and address of the covered individual;
+19 (b) The reason for taking the paid family and medical leave;
+20 (c) A schedule showing the dates during which the covered individual
+21 intends to take paid family and medical leave, to the extent such dates
+22 are known;
+23 (d) Such wage information as the commissioner may require to
+24 determine the amount of family and medical leave benefits;
+25 (e) Such documentation as the commissioner may require from a health
+26 care provider for proof of a serious health condition;
+27 (f) The name and address of each covered employer that employs the
+28 covered individual; and
+29 (g) Such other information as required by the commissioner to
+30 calculate and determine eligibility for family and medical leave
+31 benefits.
+-8-
+LB189 LB189
+2025 2025
+1 (2) After an initial claim is filed, the commissioner shall send
+2 notice of the filing of such claim to each covered employer that employs
+3 the covered individual and shall include with such notice the schedule of
+4 leave submitted under subdivision (1)(c) of this section. The
+5 commissioner shall then determine the covered individual's eligibility
+6 for family and medical leave benefits. If the commissioner determines
+7 that the covered individual is eligible, the commissioner shall begin to
+8 pay family and medical leave benefits to the covered individual pursuant
+9 to section 4 of this act. If the commissioner determines that the covered
+10 individual is ineligible, the commissioner shall notify the covered
+11 individual of the commissioner's determination. Such determination of
+12 ineligibility may be appealed, and the appeal shall be in accordance with
+13 the Administrative Procedure Act.
+14 (3) Information relating to the covered individual's use of paid
+15 family and medical leave may be shared with any covered employer that
+16 employs the covered individual upon the covered employer's request in a
+17 manner prescribed by the commissioner.
+18 (4) The commissioner shall notify a covered individual when such
+19 covered individual's paid family and medical leave is set to terminate.
+20 Such notification shall be sent in a manner prescribed by the
+21 commissioner. The notification must be received by the covered individual
+22 one week in advance of the day when such paid family and medical leave is
+23 set to expire.
+24 Sec. 6. (1) An employer may elect to participate in the Paid Family
+25 and Medical Leave Insurance Act by applying to the commissioner in a form
+26 and manner prescribed by the commissioner.
+27 (2) An employer who elects to participate in the act may terminate
+28 such participation by applying to the commission in a form and manner
+29 prescribed by the commissioner. Any termination shall not be effective
+30 until at least three months following acceptance of such application.
+31 Sec. 7. (1) A covered individual may elect to participate in the
+-9-
+LB189 LB189
+2025 2025
+1 Paid Family and Medical Leave Insurance Act by applying to the
+2 commissioner in a form and manner prescribed by the commissioner.
+3 (2) A covered individual who elects to participate in the act may
+4 terminate such participation by applying to the commission in a form and
+5 manner prescribed by the commissioner.
+6 Sec. 8. (1) The Paid Family and Medical Leave Insurance Fund is
+7 created. The fund shall be administered by the commissioner and shall
+8 consist of private donations, money transferred to the fund by the
+9 Legislature, contributions from covered individuals, and donations from
+10 covered employers. Any money in the fund available for investment shall
+11 be invested by the state investment officer pursuant to the Nebraska
+12 Capital Expansion Act and the Nebraska State Funds Investment Act.
+13 (2) Beginning on an implementation date selected by the commissioner
+14 that is on or before January 1, 2027, covered individuals shall begin
+15 making contributions to pay for participation in the Paid Family and
+16 Medical Leave Insurance Act. Contributions shall become due and be paid
+17 in such manner and at such times as the commissioner shall prescribe by
+18 rule and regulation. The commissioner shall remit the contributions to
+19 the State Treasurer for credit to the Paid Family and Medical Leave
+20 Insurance Fund. Such contributions shall be used to pay family and
+21 medical leave benefits payable under the Paid Family and Medical Leave
+22 Insurance Act and the administrative costs incurred in administering the
+23 act.
+24 (3) The commissioner shall be responsible for evaluating and
+25 determining on an annual basis the contribution amounts necessary to
+26 finance the total amount of family and medical leave benefits payable
+27 under the act. If at any time during the year the commissioner determines
+28 that the contribution amounts are not sufficient to pay the family and
+29 medical leave benefits payable under the act, the commissioner shall
+30 increase the contribution amounts by the lowest amount necessary to pay
+31 all such benefits.
+-10-
+LB189 LB189
+2025 2025
+1 (4) Beginning on the effective date of this act, the commissioner
+2 shall accept donations from any private individual or entity, including
+3 any employer, and shall remit all donations received to the State
+4 Treasurer for credit to the Paid Family and Medical Leave Insurance Fund.
+5 Such private donations shall be used to pay the upfront administrative
+6 costs and ongoing administrative costs related to the Paid Family and
+7 Medical Leave Insurance Act. On October 1, 2026, the State Treasurer
+8 shall transfer five million five hundred fifty-eight thousand dollars
+9 from the Nebraska Health Care Cash Fund to the Paid Family and Medical
+10 Leave Insurance Fund. Such transferred amount shall also be used to pay
+11 the upfront administrative costs related to the act. The transferred
+12 amount shall be repaid to the Nebraska Health Care Cash Fund when the
+13 commissioner determines that the Paid Family and Medical Leave Insurance
+14 Fund will have sufficient funds to pay all required family and medical
+15 leave benefits after such repayment is made, but in no case shall such
+16 repayment be made later than October 1, 2030. The commissioner shall
+17 notify the State Treasurer when to make such repayment, and the State
+18 Treasurer shall then transfer five million five hundred fifty-eight
+19 thousand dollars from the Paid Family and Medical Leave Insurance Fund to
+20 the Nebraska Health Care Cash Fund.
+21 Sec. 9. (1) A covered individual may take paid family and medical
+22 leave on an intermittent basis if:
+23 (a) The intermittent leave is for the covered individual's own
+24 serious health condition;
+25 (b) The intermittent leave is to care for a family member with a
+26 serious health condition; or
+27 (c) The intermittent leave is to care for a newborn or a newly
+28 placed adopted or foster care child of the covered individual and the
+29 covered individual has received the covered employer's written approval
+30 for such intermittent leave.
+31 (2) A covered individual in need of intermittent leave to care for a
+-11-
+LB189 LB189
+2025 2025
+1 family member with a foreseeable serious health condition shall work with
+2 his or her covered employer to schedule the leave so as not to unduly
+3 disrupt the operations of the covered employer. In such cases, the
+4 covered employer may transfer the covered individual temporarily to an
+5 alternative job with equivalent pay and benefits that accommodates
+6 recurring periods of leave better than the covered individual's regular
+7 job. When the need for intermittent leave is unforeseeable, the covered
+8 individual shall provide notice as soon as possible and practicable under
+9 the circumstances.
+10 (3) The minimum amount of intermittent leave that may be taken at
+11 any one time is one workday.
+12 (4) Family and medical leave benefits for intermittent leave shall
+13 be prorated.
+14 (5) Taking intermittent leave under this section shall not result in
+15 a reduction of the total amount of leave to which a covered individual is
+16 entitled beyond the amount of leave actually taken.
+17 (6) Nothing in this section shall be construed to entitle a covered
+18 individual to more paid family and medical leave than the individual is
+19 otherwise entitled to under the Paid Family and Medical Leave Insurance
+20 Act.
+21 Sec. 10. (1) Any covered individual who takes paid family and
+22 medical leave under the Paid Family and Medical Leave Insurance Act is
+23 entitled, on return from the leave:
+24 (a) To be restored by the covered employer to the position of
+25 employment held by the covered individual when the leave commenced; or
+26 (b) To be restored by the covered employer to an equivalent position
+27 with equivalent employment benefits, pay, and other terms and conditions
+28 of employment.
+29 (2) During any paid family and medical leave taken, the covered
+30 employer shall maintain any health benefits the covered individual had
+31 prior to taking such leave for the duration of the leave as if the
+-12-
+LB189 LB189
+2025 2025
+1 covered individual had continued in employment continuously from the date
+2 he or she commenced the leave until the date the family and medical leave
+3 benefits terminate if the covered individual continues to pay the covered
+4 individual's share of the cost of such health benefits as required prior
+5 to the commencement of the leave.
+6 (3) The taking of paid family and medical leave under the act shall
+7 not result in the loss of any employment benefits accrued before the date
+8 on which the leave commenced.
+9 (4) A covered employer shall not require a covered individual to
+10 exhaust his or her accrued vacation or sick time prior to taking paid
+11 family and medical leave.
+12 (5) Nothing in this section shall be construed to entitle any
+13 covered individual to any right, benefit, or position of employment other
+14 than any right, benefit, or position to which the covered individual
+15 would have been entitled had he or she not taken the paid family and
+16 medical leave.
+17 (6) Nothing in this section shall be construed to prohibit a covered
+18 employer from requiring a covered individual on paid family and medical
+19 leave to report periodically to the covered employer on the status of the
+20 covered individual and his or her intention to return to work.
+21 (7) A covered individual who fraudulently obtains family and medical
+22 leave benefits shall not be entitled to any of the protections provided
+23 in this section.
+24 Sec. 11. (1) It shall be unlawful for a covered employer to
+25 interfere with, restrain, or deny the exercise of, or the attempt to
+26 exercise, any right protected under the Paid Family and Medical Leave
+27 Insurance Act or to take a retaliatory personnel action against a covered
+28 individual because the individual exercised rights protected under the
+29 act. Such rights include, but are not limited to:
+30 (a) The right to request or use paid family and medical leave;
+31 (b) The right to communicate to the covered employer an intent to
+-13-
+LB189 LB189
+2025 2025
+1 file a claim for family and medical leave benefits;
+2 (c) The right to appeal eligibility determinations;
+3 (d) The right to testify or participate in any investigation,
+4 hearing, or proceeding under the act; and
+5 (e) The right to inform the commissioner of any alleged violation of
+6 the act.
+7 (2) It shall be unlawful for a covered employer's absence control
+8 policy to count paid family and medical leave taken under the act as an
+9 absence that may lead to, or result in, discipline, discharge, demotion,
+10 suspension, or any other adverse action.
+11 Sec. 12. (1) A covered individual who is entitled to leave under
+12 the federal Family and Medical Leave Act of 1993, 29 U.S.C. 2601 et seq.,
+13 shall take any paid family and medical leave allowed under the Paid
+14 Family and Medical Leave Insurance Act concurrently with leave taken
+15 pursuant to the federal Family and Medical Leave Act of 1993.
+16 (2) A covered individual who is entitled to any kind of disability
+17 or family care leave under a collective-bargaining agreement or employer
+18 policy shall take any paid family and medical leave allowed under the
+19 Paid Family and Medical Leave Insurance Act concurrently with such
+20 disability or family care leave if the different types of leave are being
+21 granted for the same reason.
+22 (3) Nothing in the Paid Family and Medical Leave Insurance Act shall
+23 prohibit covered employers from providing leave benefits that are in
+24 addition to the family and medical leave benefits required under the act.
+25 Such additional leave benefits shall not be considered when calculating
+26 family and medical leave benefits under section 4 of this act.
+27 (4) The Paid Family and Medical Leave Insurance Act does not
+28 diminish a covered employer's obligation to comply with any of the
+29 following that provide more generous leave:
+30 (a) A collective-bargaining agreement;
+31 (b) An employer policy; or
+-14-
+LB189 LB189
+2025 2025
+1 (c) Any state or federal law.
+2 (5) A covered individual's right to paid family and medical leave
+3 under the Paid Family and Medical Leave Insurance Act shall not be
+4 diminished by a collective-bargaining agreement entered into or renewed,
+5 or an employer policy adopted or retained, after the effective date of
+6 this act.
+7 Sec. 13. (1) Each covered employer shall provide written notice
+8 regarding the Paid Family and Medical Leave Insurance Act to each covered
+9 individual upon hiring and annually thereafter. A covered employer shall
+10 also provide written notice to a covered individual when he or she
+11 requests paid family and medical leave under the act or when the covered
+12 employer acquires knowledge that a covered individual's leave may qualify
+13 for family and medical leave benefits. Such notice shall include:
+14 (a) An explanation of the covered individual's right to paid family
+15 and medical leave and the terms under which it may be used;
+16 (b) The amount of family and medical leave benefits;
+17 (c) The procedure for filing a claim for family and medical leave
+18 benefits;
+19 (d) An explanation of the employee protections provided under
+20 section 10 of this act;
+21 (e) A statement explaining that retaliatory personnel actions
+22 against a covered individual for requesting or using paid family and
+23 medical leave are prohibited; and
+24 (f) A statement explaining that the covered individual has a right
+25 to file a complaint for violations of the Paid Family and Medical Leave
+26 Insurance Act.
+27 (2) A covered employer shall also display and maintain a poster in a
+28 conspicuous place accessible to covered individuals at the covered
+29 employer's place of business that contains the information required under
+30 subsection (1) of this section.
+31 Sec. 14. (1) Claims filed and appeals taken pursuant to the Paid
+-15-
+LB189 LB189
+2025 2025
+1 Family and Medical Leave Insurance Act and all related information shall
+2 be confidential and shall not be a public record, except that:
+3 (a) Information relating to a covered individual's use of paid
+4 family and medical leave may be disclosed as described in subsection (3)
+5 of section 5 of this act;
+6 (b) Information may be disclosed to a public official for use in the
+7 performance of his or her official duties. For purposes of this
+8 subdivision, performance of official duties means the administration or
+9 enforcement of law or the execution of the official responsibilities of a
+10 federal, state, or local elected official. Administration of law includes
+11 research related to the law administered by the public official.
+12 Execution of official responsibilities does not include solicitation of
+13 contributions or expenditures to, or on behalf of, a candidate for public
+14 office or to a political party;
+15 (c) Information may be disclosed in response to a court order or
+16 subpoena; and
+17 (d) Information about a particular covered individual or covered
+18 employer may be disclosed to:
+19 (i) Such covered individual or covered employer upon the
+20 individual's or employer's written request;
+21 (ii) One who acts as an agent for the covered individual or covered
+22 employer if the agent presents a written release from the covered
+23 individual or covered employer, where practicable, or other evidence of
+24 authority to act on behalf of the covered individual or covered employer;
+25 (iii) An elected official who is performing constituent services if
+26 the official presents reasonable evidence that the covered individual or
+27 covered employer has authorized such disclosure; or
+28 (iv) An attorney who presents written evidence that the attorney is
+29 representing the covered individual or covered employer in a matter
+30 arising under the Paid Family and Medical Leave Insurance Act.
+31 (2) Any person who receives information under this section and
+-16-
+LB189 LB189
+2025 2025
+1 rediscloses such information for any purpose other than the purpose for
+2 which it was originally obtained shall be guilty of a Class III
+3 misdemeanor.
+4 Sec. 15. (1) A covered individual is disqualified from receiving
+5 family and medical leave benefits for one year if the individual is
+6 determined by the commissioner to have willfully made a false statement
+7 or misrepresentation regarding a material fact, or willfully failed to
+8 report a material fact, to obtain family and medical leave benefits. The
+9 one-year period of disqualification shall begin on the date of the
+10 commissioner's determination.
+11 (2) If family and medical leave benefits are paid erroneously or as
+12 a result of willful misrepresentation, or if a claim for family and
+13 medical leave benefits is rejected after benefits are paid, the
+14 commissioner may seek repayment of such benefits from the recipient by:
+15 (a) Bringing a civil action in the name of the commissioner;
+16 (b) Offsetting such payment against any future family and medical
+17 leave benefits payable to the covered individual with respect to the
+18 benefit year current at the time of such receipt or any benefit year
+19 which may commence within three years after the end of such current
+20 benefit year; or
+21 (c) Issuing a levy on salary, wages, or other regular payments due
+22 to or received by the covered individual as provided in subsection (3) of
+23 this section.
+24 (3)(a) Notice of a levy issued under subdivision (2)(c) of this
+25 section shall be mailed to the covered individual at his or her last-
+26 known address not later than the date that the levy is served.
+27 (b) Such levy shall be continuous from the date the levy is served
+28 until the amount of the levy is satisfied.
+29 (c) Exemptions or limitations on the amount of salary, wages, or
+30 other regular payment that can be garnished or levied upon by a judgment
+31 creditor shall apply to such levy.
+-17-
+LB189 LB189
+2025 2025
+1 (d) Any person upon whom a levy is served who fails or refuses to
+2 honor the levy without cause may be held liable for the amount of the
+3 levy up to the value of the assets of the covered individual liable to
+4 repay the overpayment that are under the control of the person upon whom
+5 the levy is served at the time of service and thereafter.
+6 Sec. 16. It is the intent of the Legislature that the commissioner
+7 utilize state data and technology that is used for other state programs,
+8 including, but not limited to, unemployment insurance, to the maximum
+9 extent possible for purposes of carrying out the commissioner's
+10 responsibilities under the Paid Family and Medical Leave Insurance Act.
+11 Sec. 17. (1) If the Internal Revenue Service determines that family
+12 and medical leave benefits are subject to federal income tax, the
+13 commissioner shall advise any covered individual filing a claim for
+14 family and medical leave benefits, at the time of filing such claim,
+15 that:
+16 (a) The Internal Revenue Service has determined that family and
+17 medical leave benefits are subject to federal income tax;
+18 (b) Requirements exist pertaining to estimated tax payments;
+19 (c) The covered individual may elect to have federal income tax
+20 deducted and withheld from the covered individual's family and medical
+21 leave benefits; and
+22 (d) The covered individual is permitted to change a previously
+23 elected income withholding status.
+24 (2) If the covered individual elects to have federal tax payments
+25 withheld, the commissioner shall deduct and withhold the amount specified
+26 in the Internal Revenue Code in a manner consistent with state and
+27 federal law. Amounts deducted and withheld must remain in the Paid Family
+28 and Medical Leave Insurance Fund until transferred to the federal taxing
+29 authority as a payment of income tax.
+30 Sec. 18. (1) The commissioner may conduct investigations in order
+31 to determine whether there has been compliance with the Paid Family and
+-18-
+LB189 LB189
+2025 2025
+1 Medical Leave Insurance Act. Investigations shall take place at such
+2 times and places as the commissioner directs. Investigations shall be
+3 conducted so as not to unduly disrupt the operations of covered
+4 employers.
+5 (2) For purposes of any investigation under this section, the
+6 commissioner may administer oaths and affirmations, subpoena witnesses,
+7 compel attendance, take evidence, and require the production of any
+8 books, papers, correspondence, memoranda, agreements, or other documents
+9 or records which the commissioner deems relevant or material to the
+10 inquiry.
+11 (3) In case of contumacy by, or refusal to, obey a subpoena issued
+12 to a person, a court of competent jurisdiction, upon application by the
+13 commissioner, may issue to such person an order requiring the person to
+14 appear before the commissioner and produce documentary evidence if so
+15 ordered or give evidence relating to the matter under investigation or in
+16 question. Any failure to obey the order of the court may be punished by
+17 the court as a contempt.
+18 (4) The commissioner shall issue a citation to a covered employer
+19 when an investigation reveals that the covered employer has violated the
+20 act. When a citation is issued, the commissioner shall notify the covered
+21 employer of the proposed administrative penalty, if any, by certified
+22 mail or any other manner of delivery by which the United States Postal
+23 Service can verify delivery. The administrative penalty shall be not more
+24 than five hundred dollars in the case of a first violation and not more
+25 than five thousand dollars in the case of a second or subsequent
+26 violation. The covered employer shall have fifteen working days from the
+27 date of the citation to contest it. Notice of contest shall be sent to
+28 the commissioner who shall provide a hearing pursuant to the
+29 Administrative Procedure Act.
+30 Sec. 19. On or before December 31, 2028, and on or before December
+31 31 of each year thereafter, the commissioner shall electronically submit
+-19-
+LB189 LB189
+2025 2025
+1 a report to the Legislature. The report shall include:
+2 (1) The amount and percentage of family and medical leave benefits
+3 paid for each type of paid family and medical leave described in
+4 subsection (1) of section 3 of this act;
+5 (2) The percentage of family and medical leave benefits paid to each
+6 gender for each type of paid family and medical leave described in
+7 subsection (1) of section 3 of this act;
+8 (3) The amount of contributions remitted by covered individuals
+9 pursuant to section 8 of this act;
+10 (4) The median payment level for family and medical leave benefits;
+11 (5) The occupation and industry of covered individuals receiving
+12 family and medical leave benefits;
+13 (6) The balance of the Paid Family and Medical Leave Insurance Fund;
+14 (7) A summary of the outreach efforts made by the commissioner and
+15 by covered employers to increase awareness of the availability of paid
+16 family and medical leave; and
+17 (8) The types of family members for whom paid family and medical
+18 leave as described in subdivision (1)(b) of section 3 of this act was
+19 taken.
+20 Sec. 20. Family and medical leave benefits shall not be considered
+21 compensation under the County Employees Retirement Act, the Judges
+22 Retirement Act, the Nebraska State Patrol Retirement Act, the School
+23 Employees Retirement Act, the State Employees Retirement Act, or any
+24 other retirement plan administered by the Public Employees Retirement
+25 Board and shall not be eligible for deferral under any deferred
+26 compensation plan administered by the Public Employees Retirement Board.
+27 Sec. 21. The commissioner shall adopt and promulgate rules and
+28 regulations as necessary to carry out the Paid Family and Medical Leave
+29 Insurance Act.
+30 Sec. 22. Section 48-652, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-20-
+LB189 LB189
+2025 2025
+1 48-652 (1)(a) A separate experience account shall be established for
+2 each employer who is liable for payment of combined tax. Whenever and
+3 wherever in the Employment Security Law the terms reserve account or
+4 experience account are used, unless the context clearly indicates
+5 otherwise, such terms shall be deemed interchangeable and synonymous and
+6 reference to either of such accounts shall refer to and also include the
+7 other.
+8 (b) A separate reimbursement account shall be established for each
+9 employer who is liable for payments in lieu of contributions. All
+10 benefits paid with respect to service in employment for such employer
+11 shall be charged to his or her reimbursement account, and such employer
+12 shall be billed for and shall be liable for the payment of the amount
+13 charged when billed by the commissioner. Payments in lieu of
+14 contributions received by the commissioner on behalf of each such
+15 employer shall be credited to such employer's reimbursement account, and
+16 two or more employers who are liable for payments in lieu of
+17 contributions may jointly apply to the commissioner for establishment of
+18 a group account for the purpose of sharing the cost of benefits paid that
+19 are attributable to service in the employ of such employers. The
+20 commissioner shall adopt and promulgate such rules and regulations as he
+21 or she deems necessary with respect to applications for establishment,
+22 maintenance, and termination of group accounts authorized by this
+23 subdivision.
+24 (2) All contributions paid by an employer shall be credited to the
+25 experience account of such employer. State unemployment insurance tax
+26 payments shall not be credited to the experience account of each
+27 employer. Partial payments of combined tax shall be credited so that at
+28 least eighty percent of the combined tax payment excluding interest and
+29 penalty is credited first to contributions due. Contributions with
+30 respect to prior years which are received on or before January 31 of any
+31 year shall be considered as having been paid at the beginning of the
+-21-
+LB189 LB189
+2025 2025
+1 calendar year. All voluntary contributions which are received on or
+2 before February 28 of any year shall be considered as having been paid at
+3 the beginning of the calendar year.
+4 (3)(a) Each experience account shall be charged only for benefits
+5 based upon wages paid by such employer. No benefits shall be charged to
+6 the experience account of any employer if:
+7 (i) Such benefits were paid on the basis of a period of employment
+8 from which the claimant (A) left work voluntarily without good cause, (B)
+9 left work voluntarily due to a nonwork-connected illness or injury, (C)
+10 left work voluntarily with good cause to escape abuse as defined in
+11 section 42-903 between household members as provided in subdivision (1)
+12 of section 48-628.13, (D) left work from which he or she was discharged
+13 for misconduct connected with his or her work, (E) left work voluntarily
+14 and is entitled to unemployment benefits without disqualification in
+15 accordance with subdivision (3), (5), or (11) of section 48-628.13, or
+16 (F) was involuntarily separated from employment and such benefits were
+17 paid pursuant to section 48-628.17; and
+18 (ii) The employer has filed timely notice of the facts on which such
+19 exemption is claimed in accordance with rules and regulations adopted and
+20 promulgated by the commissioner.
+21 (b) No benefits shall be charged to the experience account of any
+22 employer if such benefits were paid during a week when the individual was
+23 participating in training approved under section 236(a)(1) of the federal
+24 Trade Act of 1974, 19 U.S.C. 2296(a)(1).
+25 (c) No benefits shall be charged to the experience account of any
+26 employer if such benefits were paid to an individual who:
+27 (i) Worked for an employer for twenty weeks or less to temporarily
+28 replace a permanent employee receiving family and medical leave benefits
+29 under the Paid Family and Medical Leave Insurance Act and who was laid
+30 off due to the return of such permanent employee;
+31 (ii) Was discharged due to his or her failure to return to work
+-22-
+LB189 LB189
+2025 2025
+1 after the expiration of paid family and medical leave taken pursuant to
+2 the Paid Family and Medical Leave Insurance Act; or
+3 (iii) Left work voluntarily while on paid family and medical leave
+4 taken pursuant to the Paid Family and Medical Leave Insurance Act.
+5 (d) (c) Each reimbursement account shall be charged only for
+6 benefits paid that were based upon wages paid by such employer in the
+7 base period that were wages for insured work solely by reason of section
+8 48-627.01.
+9 (e) (d) Benefits paid to an eligible individual shall be charged
+10 against the account of his or her most recent employers within his or her
+11 base period against whose accounts the maximum charges hereunder have not
+12 previously been made in the inverse chronological order in which the
+13 employment of such individual occurred. The maximum amount so charged
+14 against the account of any employer, other than an employer for which
+15 services in employment as provided in subdivision (4)(a) of section
+16 48-604 are performed, shall not exceed the total benefit amount to which
+17 such individual was entitled as set out in section 48-626 with respect to
+18 base period wages of such individual paid by such employer plus one-half
+19 the amount of extended benefits paid to such eligible individual with
+20 respect to base period wages of such individual paid by such employer.
+21 The commissioner shall adopt and promulgate rules and regulations
+22 determining the manner in which benefits shall be charged against the
+23 account of several employers for whom an individual performed employment
+24 during the same quarter or during the same base period.
+25 (4)(a) An employer's experience account shall be terminated one
+26 calendar year after such employer has ceased to be subject to the
+27 Employment Security Law, except that if the commissioner finds that an
+28 employer's business is closed solely because one or more of the owners,
+29 officers, partners, or limited liability company members or the majority
+30 stockholder entered the armed forces of the United States, or of any of
+31 its allies, such employer's account shall not be terminated and, if the
+-23-
+LB189 LB189
+2025 2025
+1 business is resumed within two years after the discharge or release from
+2 active duty in the armed forces of such person or persons, the employer's
+3 experience account shall be deemed to have been continuous throughout
+4 such period.
+5 (b) An experience account terminated pursuant to this subsection
+6 shall be reinstated if:
+7 (i) The employer becomes subject again to the Employment Security
+8 Law within one calendar year after termination of such experience
+9 account;
+10 (ii) The employer makes a written application for reinstatement of
+11 such experience account to the commissioner within two calendar years
+12 after termination of such experience account; and
+13 (iii) The commissioner finds that the employer is operating
+14 substantially the same business as prior to the termination of such
+15 experience account.
+16 (5) All money in the Unemployment Compensation Fund shall be kept
+17 mingled and undivided. In no case shall the payment of benefits to an
+18 individual be denied or withheld because the experience account of any
+19 employer does not have a total of contributions paid in excess of
+20 benefits charged to such experience account.
+21 (6)(a) For benefit years beginning before September 3, 2017, if an
+22 individual's base period wage credits represent part-time employment for
+23 a contributory employer and the contributory employer continues to employ
+24 the individual to the same extent as during the base period, then the
+25 contributory employer's experience account shall not be charged if the
+26 contributory employer has filed timely notice of the facts on which such
+27 exemption is claimed in accordance with rules and regulations adopted and
+28 promulgated by the commissioner.
+29 (b) For benefit years beginning on or after September 3, 2017, if an
+30 individual's base period wage credits represent part-time employment for
+31 an employer and the employer continues to employ the individual to the
+-24-
+LB189 LB189
+2025 2025
+1 same extent as during the base period, then the employer's experience
+2 account, in the case of a contributory employer, or the employer's
+3 reimbursement account, in the case of a reimbursable employer, shall not
+4 be charged if the employer has filed timely notice of the facts on which
+5 such exemption is claimed in accordance with rules and regulations
+6 prescribed by the commissioner.
+7 (7) If a contributory employer responds to the department's request
+8 for information within the time period set forth in subsection (1) of
+9 section 48-632 and provides accurate information as known to the employer
+10 at the time of the response, the employer's experience account shall not
+11 be charged if the individual's separation from employment is voluntary
+12 and without good cause as determined under section 48-628.12.
+13 Sec. 23. Section 71-7611, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 71-7611 (1) The Nebraska Health Care Cash Fund is created. The State
+16 Treasurer shall transfer (a) sixty million three hundred thousand dollars
+17 on or before July 15, 2014, (b) sixty million three hundred fifty
+18 thousand dollars on or before July 15, 2015, (c) sixty million three
+19 hundred fifty thousand dollars on or before July 15, 2016, (d) sixty
+20 million seven hundred thousand dollars on or before July 15, 2017, (e)
+21 five hundred thousand dollars on or before May 15, 2018, (f) sixty-one
+22 million six hundred thousand dollars on or before July 15, 2018, (g)
+23 sixty-two million dollars on or before July 15, 2019, (h) sixty-one
+24 million four hundred fifty thousand dollars on or before July 15, 2020,
+25 (i) sixty-six million two hundred thousand dollars on or before July 15,
+26 2022, (j) fifty-six million seven hundred thousand dollars on or before
+27 July 15, 2023, (k) fifty-four million dollars on or before July 15, 2024,
+28 and (l) fifty-four million one hundred fifty thousand dollars on or
+29 before every July 15 thereafter from the Nebraska Medicaid
+30 Intergovernmental Trust Fund and the Nebraska Tobacco Settlement Trust
+31 Fund to the Nebraska Health Care Cash Fund, except that such amount shall
+-25-
+LB189 LB189
+2025 2025
+1 be reduced by the amount of the unobligated balance in the Nebraska
+2 Health Care Cash Fund at the time the transfer is made. The state
+3 investment officer shall advise the State Treasurer on the amounts to be
+4 transferred first from the Nebraska Medicaid Intergovernmental Trust Fund
+5 until the fund balance is depleted and from the Nebraska Tobacco
+6 Settlement Trust Fund thereafter in order to sustain such transfers in
+7 perpetuity. The state investment officer shall report electronically to
+8 the Legislature on or before October 1 of every even-numbered year on the
+9 sustainability of such transfers. The Nebraska Health Care Cash Fund
+10 shall also include money received pursuant to section 77-2602. Except as
+11 otherwise provided by law, no more than the amounts specified in this
+12 subsection may be appropriated or transferred from the Nebraska Health
+13 Care Cash Fund in any fiscal year.
+14 The State Treasurer shall transfer ten million dollars from the
+15 Nebraska Medicaid Intergovernmental Trust Fund to the General Fund on
+16 June 28, 2018, and June 28, 2019.
+17 Except for the transfer authorized in section 8 of this act and as
+18 otherwise provided in subsections (5) and (6) of this section, it is the
+19 intent of the Legislature that no additional programs are funded through
+20 the Nebraska Health Care Cash Fund until funding for all programs with an
+21 appropriation from the fund during FY2012-13 are restored to their
+22 FY2012-13 levels.
+23 (2) Any money in the Nebraska Health Care Cash Fund available for
+24 investment shall be invested by the state investment officer pursuant to
+25 the Nebraska Capital Expansion Act and the Nebraska State Funds
+26 Investment Act.
+27 (3) The University of Nebraska and postsecondary educational
+28 institutions having colleges of medicine in Nebraska and their affiliated
+29 research hospitals in Nebraska, as a condition of receiving any funds
+30 appropriated or transferred from the Nebraska Health Care Cash Fund,
+31 shall not discriminate against any person on the basis of sexual
+-26-
+LB189 LB189
+2025 2025
+1 orientation.
+2 (4) It is the intent of the Legislature that the cost of the staff
+3 and operating costs necessary to carry out the changes made by Laws 2018,
+4 LB439, and not covered by fees or federal funds shall be funded from the
+5 Nebraska Health Care Cash Fund for fiscal years 2018-19 and 2019-20.
+6 (5) It is the intent of the Legislature to fund the grants to be
+7 awarded pursuant to section 75-1101 with the Nebraska Health Care Cash
+8 Fund for FY2019-20 and FY2020-21.
+9 (6) The State Treasurer shall transfer fifteen million dollars from
+10 the Nebraska Health Care Cash Fund on or after July 1, 2022, but before
+11 June 30, 2023, to the Board of Regents of the University of Nebraska for
+12 the University of Nebraska Medical Center for pancreatic cancer research
+13 at the University of Nebraska Medical Center. Transfers from the Nebraska
+14 Health Care Cash Fund in this subsection shall be contingent upon receipt
+15 of any matching funds from private or other sources, up to fifteen
+16 million dollars, certified by the budget administrator of the budget
+17 division of the Department of Administrative Services. Upon receipt of
+18 any matching funds certified by the budget administrator, the State
+19 Treasurer shall transfer an equal amount of funds to the Board of Regents
+20 of the University of Nebraska.
+21 Sec. 24. Original sections 48-652 and 71-7611, Revised Statutes
+22 Cumulative Supplement, 2024, are repealed.
+-27-
+[DELETED: yCA7Ptu t E S L t h p tpB9L52]
+[DELETED: ScSA( B p m t f f o t l f cc q i p t f d o a ci(d0f1t2r t w t c i n f a v c f3f a m l b a t t o h o h4l p b y F p o t s a w5w6d7g8(9(0t s m a i 2 C 8 a ( a s1r2(3t4o5(6( A i w ( I e b a c e a7(8A9(0P1t9L52]
+[DELETED: (a t r i t a s s a re( F a m l b m t b pu((w o a c i o t c i s o p0s1t a o d s o s c s l w o2p3( A b a o f p a s o 4l5o6c i s w t c i o t c7i8(9(0f1c2(3s4l t d n e r p a c5n6(7( F a c i w h e w d e8c q o t b p t a o w p t t9c i i t h c q o t b p0d1(9L52]
+[DELETED: c q o t b p t c i aw(i(rJ(i0w t c i i e f f a m l1b2( Q e l m l t b a c3i4m5( A o t p s i 2 C 86t7( A o t p s i 2 C 88t9(0m1s2f t p c b u f a p o s c d3b o t d t m m i n o a i4c5(6t m t i r t t c a d o c t7c8( T a f s o a p a9i0s1c9L52]
+[DELETED: m(macoo(s o l a f t p o o a o0a m s b w t m m i o1c a d o c t c a d s a f 2p3c4( T a c p b s o t a h5c6t b a o f c t s o t l7w8o9t0c1( T s t w t m m w i o s2t3L4d5r6( T a a c r b a7e a a o o c o p s b t8m9m0( T a i t a f t d o t m1m w o c a d s s a m a9L52]
+[DELETED: ra(ce a c i a t s l q a ae( R p a m d o a rg u t P F a M L I Ai0( A o t f a a t a a c1i f t e o a r g i t a2D s d r o h a o a3a4( I w o p f p i o5a6(72 a t r i t a s s a8r9(0a1(2a3S 3  ( B J 1 2 a c i m4t5( T c f a n c o t c i d t6f7t8(9s0(1a9L52]
+[DELETED: ((it( T m a o p f a m l t ciSa0w1(2w3a4( F p o t p o t i a w5w6(7c8s9(0w1m l S w s b k a t w p I t2c i t t o m d o p f a m3l4w5y6t f t r s i s ( a ( o7s8s9(0o1(9L52]
+[DELETED: mi f u s 5 o t a a s p o sbii t m p b t c w m ie( F p o t c r u t so w e i e a d i s 4 s bc0(1b a t s t t h o s i r w2c b f t d o b u t3E4S5i s f a i c f s b w t6c7i8(9(0(1i2a3( S w i a t c m r t4d5(6c7(8c9( S o i a r b t c t0c a d e f f a m l1b9L52]
+[DELETED: ( A a i c i f t c s sntl s u s ( o t s Tc s t d t c i ef f a m l b I t c dtpt0i i i t c s n t c1i o t c d S d o2i3t4( I r t t c i u o p5f a m l m b s w a c e t6e7m8( T c s n a c i w s9c0S n s b s i a m p b t1c2o3s4S5a6a7(8s p b a t t c i a f a m9p b t c A t s n b e0u1S9L52]
+[DELETED: P F a M L I A b a t tc(tmS 8  ( T P F a M L I F ic T f s b a b t c a sc o p d m t t t f b tL0c1b i b t s i o p t t N2C3(4t i o o b J 1 2 c i s b5m c t p f p i t P F a6M7i8r a r T c s r t c t9t S T f c t t P F a M L0I F S c s b u t p f a1m2I3a4( T c s b r f e a5d o a a b t c a n t6f t t a o f a m l b p7u8t9m l b p u t a t c s0i1a9L52]
+[DELETED: ( B o t e d o t a t csa e a s r a d r t t STSc a o a c r t t P F aM L I A O O 1 2 t S Ts t f m f h f t df0L1t u a c r t t a T t2a s b r t t N H C C F w t3c4F5l6r b m l t O 1 2 T c s7n t S T w t m s r a t S8T s t t f m f h f9t0t1S2l3( T i l i f t c i o4s5( T i l i t c f a f m w 6s7( T i l i t c f a n o a n8p a o f c c o t c i a t9c0f1(9L52]
+[DELETED: fhd t o o t c e I s c tc e m t t c i t t aa j w e p a b t arjit0(1a2(3b4(5a6e7(8i9o0A1S 1  ( A c i w t p f a2m3e4( T b r b t c e t t p o5e6(7w8o9( D a p f a m l t t c0e s m a h b t c i h1p t t s l f t d o t l a i t9L52]
+[DELETED: chbit(no( A c e s n r a c i t0e h o h a v o s t p t t p1f2( N i t s s b c t e a3c4t a r b o p t w t c i5w h b e h h o s n t t p f a6m7(8e9l0c1(2l3i4S 1  ( I s b u f a c e t5i w r o d t e o o t a t6e a r p u t P F a M L7I8i b t i e r p u t9a0(1(9L52]
+[DELETED: f(( T r t t o p i a ih(t( I s b u f a c e a cpa0s1S2t3s t a p f a m l a u t P4F a M L I A c w l t5p6(7o8p s t a p f a m l a u t9P F a M L I A c w s0d1g2(3p c e f p l b t a i4a5S6f7( T P F a M L I A d n8d a c e o t c w a o t9f0(1(9L52]
+[DELETED: (( A c i r t p f a m lu t P F a M L I A s n bdotS 1  ( E c e s p w nri0a p w n t a c i w h o s1r2e3f4(5a6(7(8b9( A e o t e p p u0s1( A s e t r p a2a a c i f r o u p f a3m4(5t6I7(8c p a t c i a t c9e0s1S9L52]
+[DELETED: Fb( I r t a c i u o pfo(p o h o h o d F p o tse0f1r r t t l a b t p o2E3c4o5( I m b d i r t a c o o6s7( I a a p c i o c8e9( S c i o c e u t0i1(2e i t a p a w r f t c3i4a5(6t7c8(9r t c i o c e i a m0a1( A p w r i u t s a9L52]
+[DELETED: rw i w o o s b g o a C ImS 1  ( A c i i d f rf a m l b f o y i t i ido m r a m f o w f tro p o d s b o t d o t0c1(2a r o w m o i a c f f a3m l b i r a b a p t4c5(6( O s p a a f f a m7l b p t t c i w r t t8b y c a t t o s r o a b y9w m c w t y a t e o s c0b1(2t3t4( N o a l i u s ( o t5s s b m t t c i a h o h l6k7(8u9( E o l o t a o s w o0o1c9L52]
+[DELETED: (hlrtSui b n l t u i t t me p f p o c o t c0r1S2a m l b a s t f i t t3c s a a c i f a c f4f a m l b a t t o f s c5t6( T I R S h d t f a7m8(9( T c i m e t h f i t0d a w f t c i f a m1l2( T c i i p t c a p3e4( I t c i e t h f t p5w6i t I R C i a m c w s a7f8a9a0S1t9L52]
+[DELETED: M L I A I s t p a st a p a t c d I s bc s a n t u d t o o ce( F p o a i u t s tcc a t e a r t p o abo r w t c d r o m t t0i1(2t3c4a b t c a p d e i s5o6q7t8( T c s i a c t a c e9w0a1e o t p a p i a b c2m3S4t5t f t d i t c o a s o s6v7d8t c w s p a h p t t9A0S139L52]
+[DELETED: a(p f e t o p f a m l d is(g f e t o p f a m l d is( T a o c r b c ip0(1( T o a i o c i r2f3(4(5b6f7( T t o f m f w p f a m8l a d i s ( o s 3 o t a w9t0S1c u t C E R A t J2R A t N S P R A t S3E R A t S E R A o a4o r p a b t P E R5B a s n b e f d u a d6c7S 2  T c s a a p r a8r9I0S 2 S 4 R S C S129L52]
+[DELETED: 4e e w i l f p o c t W aw i t E S L t t r a oe a a u u t c c ioro(e w i l f p i l o c A0b p w r t s i e f s e1s2s3c w b b t c P i l o4c r b t c o b o e s5e6t o m e w a l f p i l o7c8a9a a t s i t e o s e T0c1o s d n w r t a f e2m a t o g a a b t3s4(5e a o s e S u i t6p s n b c t t e a o e7e8l9p i c f t c d C w0r1y s b c a h b p a t b o t9L52]
+[DELETED: c y A v c w a r o obt( E e a s b c o f bbt(fl0l w v w g c t e a a d i1s2o3f4a i e t u b w d i5a6( w i s f e a s b w7p8(9e0p1(2e3p4T5(6e7(8r9u0o1( W d d t h o h f t r t w9L52]
+[DELETED: at(t( ( E r a s b c o fb p t w b u w p b s e i tb4( ( B p t a e i s b c0a1b2p b m i t i c o i w t3e o s i o T m a s c4a t a o a e o t a e f w5s i e a p i s ( o s647s8b9t a o e b p t s e i w0r1T c s a a p r a r2d t m i w b s b c a t3a4d5( A e e a s b t o6c y a s e h c t b s t t7E8e9o0s1i9L52]
+[DELETED: bae a s b d t h b c ts( A e a t p t t ss( T e b s a t t E SL w o c y a t o s ea0(1s e a t t c w t c y2a3( T c f t t e i o4s t s b a p t t t o s5e6( A m i t U C F s b k7m a u I n c s t p o b t a8i9e d n h a t o c p i e o0b1(2i3a4t i t t s e a d t b p t t5c e e a s n b c i t6c7e8p9(0i1a9L52]
+[DELETED: s e a d t b p t t e ea i t c o a c e o t erbs e i c i a w r a rp(f i w t t p s f i s ( os0a1b c i t i s f e i v2a3S 2 S 7 R S C S42576T7o o b J 1 2 ( s m t h f8t d o o b J 1 2 ( s m t9h f t d o o b J 1 2 ( s0m1f2m s h t d o o b J 1 2 (3s m d o o b J 1 2 ( s4m5(627J8a ( f m o h f t d o o9b e J 1 t f t N M0I T F a t N T S T1F9L52]
+[DELETED: b r b t a o t u b i t NH C C F a t t t t i m T situ t f b i d a f t N TSpts o s t T N H C C F0s1o p b l n m t t a s i t2s m b a o t f t N H3C4T S T s t t m d f t5N M I T F t t G F o6J7E8o9i0t1a f t f d F a r t t2F3(4i5t N C E A a t N S F6I7( T U o N a p e8i9r h i N a a c o r a f0a o t f t N H C C F1s n d a a p o t b o s9L52]
+[DELETED: o(aLN( I i t i o t L t f t g t baF(0t1J2t3a4H5o a m f f p o o s u t f6m d c b t b a o t b7d o t D o A S U r o8a m f c b t b a t S9T0o1S 2  O s 4 a 7 R S2C9L52]
+
+
+================================================================================
+
+Raw Text:
+LB189 LB189
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 189
+Introduced by Cavanaugh, M., 6; Spivey, 13.
+Read first time January 13, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to employment; to amend sections 48-652 and
+2 71-7611, Revised Statutes Cumulative Supplement, 2024; to adopt the
+3 Paid Family and Medical Leave Insurance Act; to create a fund; to
+4 transfer funds; to change provisions relating to experience accounts
+5 under the Employment Security Law; to harmonize provisions; to
+6 provide severability; and to repeal the original sections.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB189 LB189
+2025 2025
+1 Section 1. Sections 1 to 21 of this act shall be known and may be
+2 cited as the Paid Family and Medical Leave Insurance Act.
+3 Sec. 2. For purposes of the Paid Family and Medical Leave Insurance
+4 Act:
+5 (1) Base period means the first four of the last five completed
+6 calendar quarters immediately preceding the first day of a covered
+7 individual's benefit year;
+8 (2) Benefit year means the one-year period beginning with the first
+9 day of the first week with respect to which the covered individual first
+10 files a valid claim for family and medical leave benefits, and thereafter
+11 the one-year period beginning with the first day of the first week with
+12 respect to which the covered individual next files a valid claim for
+13 family and medical leave benefits after the termination of his or her
+14 last preceding benefit year. For purposes of this subdivision, a week
+15 with respect to which a covered individual files a valid claim shall be
+16 deemed to be in, within, or during that benefit year which includes the
+17 greater part of such week;
+18 (3) Commissioner means the Commissioner of Labor;
+19 (4) Covered active duty or call to covered active duty status has
+20 the same meaning as in 29 C.F.R. 825.126(a)(1) and (2), as such
+21 regulation existed on January 1, 2025;
+22 (5) Covered employer means an employer that elects to participate in
+23 the Paid Family and Medical Leave Insurance Act as provided in section 6
+24 of this act;
+25 (6) Covered individual means:
+26 (a) An individual who: (i) Is employed by a covered employer and
+27 (ii) elects to participate in the Paid Family and Medical Leave Insurance
+28 Act as provided in section 7 of this act; or
+29 (b) A self-employed individual who has elected to participate in the
+30 Paid Family and Medical Leave Insurance Act as provided in section 7 of
+31 this act;
+-2-
+
+LB189 LB189
+2025 2025
+1 (7) Covered servicemember has the same meaning as in 29 U.S.C. 2611
+2 and the regulations issued thereunder, as such section and regulations
+3 existed on January 1, 2025;
+4 (8) Family and medical leave benefits means the benefits provided
+5 under section 4 of this act for periods of paid family and medical leave;
+6 (9) Family member means and includes:
+7 (a) A biological, adopted, or foster child, a stepchild, or a legal
+8 ward of a covered individual or the covered individual's spouse or a
+9 person to whom the covered individual or the covered individual's spouse
+10 stood in loco parentis when such person was a minor child, regardless of
+11 the age or dependency status of such child, stepchild, legal ward, or
+12 person;
+13 (b) A biological, adoptive, or foster parent, a stepparent, or a
+14 legal guardian of a covered individual or the covered individual's spouse
+15 or a person who stood in loco parentis to the covered individual or the
+16 covered individual's spouse when the covered individual or the covered
+17 individual's spouse was a minor child;
+18 (c) A covered individual's spouse; and
+19 (d) A grandparent, grandchild, or sibling, whether of a biological,
+20 foster, adoptive, or step relationship, of the covered individual or the
+21 covered individual's spouse;
+22 (10) Health care provider means any person licensed under federal or
+23 state law to provide medical or emergency services, including, but not
+24 limited to, doctors, nurses, emergency room personnel, and certified
+25 nurse midwives;
+26 (11) Individual average weekly wage means:
+27 (a) For a covered individual who has earned wages during each
+28 calendar quarter of the base period, the amount of wages paid to the
+29 covered individual in the highest calendar quarter of the base period
+30 divided by thirteen; or
+31 (b) For a covered individual who has not earned wages during each
+-3-
+
+LB189 LB189
+2025 2025
+1 calendar quarter of the base period, the covered individual's average
+2 weekly wage during the most recently completed calendar quarter;
+3 (12) Military member means a covered individual's family member who
+4 is in the armed forces of the United States;
+5 (13) Next of kin has the same meaning as in 29 U.S.C. 2611 and the
+6 regulations issued thereunder, as such section and regulations existed on
+7 January 1, 2025;
+8 (14) Paid family and medical leave means leave taken by a covered
+9 individual for a qualifying reason described in section 3 of this act for
+10 which the covered individual is eligible for family and medical leave
+11 benefits;
+12 (15) Qualifying exigency leave means leave taken by a covered
+13 individual for the following purposes if the covered individual's family
+14 member is on covered active duty or call to covered active duty status:
+15 (a) Any of the purposes specified in 29 C.F.R. 825.126(b)(3)(i)
+16 through (iv), as such regulation existed on January 1, 2025;
+17 (b) Any of the purposes specified in 29 C.F.R. 825.126(b)(8)(i)
+18 through (iv), as such regulation existed on January 1, 2025;
+19 (c) To address any issue that arises from the fact that the military
+20 member is notified of an impending call or order to covered active duty
+21 seven or fewer calendar days prior to the date of deployment. Leave taken
+22 for this purpose can be used for a period of seven calendar days
+23 beginning on the date the military member is notified of an impending
+24 call or order to covered active duty;
+25 (d) To attend any official ceremony, program, or event sponsored by
+26 the military that is related to the covered active duty or call to
+27 covered active duty status of the military member;
+28 (e) To attend family support or assistance programs and
+29 informational briefings sponsored or promoted by the military, military
+30 service organizations, or the American Red Cross that are related to the
+31 covered active duty or call to covered active duty status of the military
+-4-
+
+LB189 LB189
+2025 2025
+1 member;
+2 (f) To make or update financial or legal arrangements to address the
+3 military member's absence while on covered active duty or call to covered
+4 active duty status, such as preparing and executing financial and health
+5 care powers of attorney, transferring bank account signature authority,
+6 obtaining military identification cards, or preparing or updating a will
+7 or living trust;
+8 (g) To act as the military member's representative before a federal,
+9 state, or local agency for the purposes of obtaining, arranging, or
+10 appealing military service benefits while the military member is on
+11 covered active duty or call to covered active duty status, and for a
+12 period of ninety days following the termination of the military member's
+13 covered active duty status;
+14 (h) To attend counseling provided by someone other than a health
+15 care provider for the covered individual, for the military member, for
+16 the biological, adopted, or foster child, the stepchild, or the legal
+17 ward of the military member, for a child of the military member's spouse,
+18 or for a child to whom the military member stands in loco parentis, if
+19 the need for counseling arises from the covered active duty or call to
+20 covered active duty status of the military member;
+21 (i) To spend time with the military member who is on short-term,
+22 temporary, rest and recuperation leave during the period of deployment.
+23 Leave taken for this purpose can be used for a period of fifteen calendar
+24 days beginning on the date the military member commences each instance of
+25 rest and recuperation leave;
+26 (j) To attend arrival ceremonies, reintegration briefings and
+27 events, and any other official ceremony or program sponsored by the
+28 military during a period of ninety days following the termination of the
+29 military member's covered active duty status;
+30 (k) To address issues that arise from the death of the military
+31 member while on covered active duty status, such as meeting and
+-5-
+
+LB189 LB189
+2025 2025
+1 recovering the body of the military member, making funeral arrangements,
+2 and attending funeral services; and
+3 (l) To address other events which arise out of the military member's
+4 covered active duty or call to covered active duty status if the covered
+5 employer and covered individual agree that such leave qualifies as an
+6 exigency and agree to both the timing and duration of such leave;
+7 (16) Retaliatory personnel action means denial of any right
+8 guaranteed under the Paid Family and Medical Leave Insurance Act,
+9 including, but not limited to:
+10 (a) Any of the following adverse actions taken against a covered
+11 individual for the exercise of any right guaranteed in the act:
+12 Discharge, suspension, demotion, reduction of hours, any other adverse
+13 action, or any threat of any such adverse action; and
+14 (b) Interference with, or punishment for, participating in or
+15 assisting with an investigation, proceeding, or hearing under the act;
+16 (17) Serious health condition has the same meaning as in 29 U.S.C.
+17 2611 and the regulations issued thereunder, as such section and
+18 regulations existed on January 1, 2025;
+19 (18) State average weekly wage means the state average weekly wage
+20 as annually determined under section 48-121.02; and
+21 (19) Week means a period of seven consecutive days ending Saturday
+22 at midnight.
+23 Sec. 3. (1) Beginning January 1, 2028, a covered individual may
+24 take paid family and medical leave for the following qualifying reasons:
+25 (a) To care for a new child of the covered individual during the
+26 first year after the birth, adoption, or placement through foster care of
+27 that child;
+28 (b) To care for a family member of the covered individual who has a
+29 serious health condition;
+30 (c) To care for a covered servicemember if the covered individual is
+31 a family member or the next of kin of the covered servicemember;
+-6-
+
+LB189 LB189
+2025 2025
+1 (d) For qualifying exigency leave; or
+2 (e) Because the covered individual has a serious health condition,
+3 including pregnancy, that makes the covered individual unable to perform
+4 the functions of the position held by such covered individual.
+5 (2) The maximum amount of paid family and medical leave that a
+6 covered individual may take shall be ten weeks or, for leave taken on an
+7 intermittent basis, sixty work days during any benefit year.
+8 Sec. 4. (1) Subject to subsection (2) of this section, the family
+9 and medical leave benefits to be paid to the covered individual for any
+10 week of paid family and medical leave shall be:
+11 (a) Ninety percent of the portion of the individual average weekly
+12 wage that is at or below fifty percent of the state average weekly wage;
+13 and
+14 (b) Fifty percent of the portion of the individual average weekly
+15 wage that is above fifty percent of the state average weekly wage.
+16 (2) The amount of family and medical leave benefits to be paid to a
+17 covered individual in any week shall not exceed sixty-six percent of the
+18 state average weekly wage.
+19 (3) Family and medical leave benefits are not payable for the first
+20 week in any benefit year that a covered individual takes paid family and
+21 medical leave. Such week shall be known as the waiting period. If the
+22 covered individual takes ten or more days of paid family and medical
+23 leave in such benefit year, the covered individual shall be paid for the
+24 waiting period. The waiting period shall occur only once in any benefit
+25 year. This subsection shall not apply to paid family and medical leave
+26 taken for the reasons stated in subdivisions (15)(c) and (15)(i) of
+27 section 2 of this act or for the reason stated in subdivision (1)(a) of
+28 section 3 of this act.
+29 (4) Family and medical leave benefits are not payable for less than
+30 one workday of paid family and medical leave taken in any one workweek.
+31 (5) The first payment of family and medical leave benefits must be
+-7-
+
+LB189 LB189
+2025 2025
+1 made to the covered individual within three weeks after the initial claim
+2 is filed under section 5 of this act, and subsequent payments of such
+3 benefits must be made every week thereafter for as long as the covered
+4 individual is eligible. Family and medical leave benefits shall be paid
+5 in the manner prescribed by the commissioner, which may include
+6 electronic payments.
+7 (6) For purposes of the calculations required under this section,
+8 only wages earned in employment as defined in section 48-604 shall be
+9 considered.
+10 (7) A covered individual shall not receive family and medical leave
+11 benefits at the same time that he or she is receiving workers'
+12 compensation benefits for total disability or benefits under the
+13 Employment Security Law.
+14 Sec. 5. (1) To receive family and medical leave benefits, a covered
+15 individual shall file an initial claim for such benefits with the
+16 commissioner on a form prescribed by the commissioner. The claim shall
+17 include:
+18 (a) The name and address of the covered individual;
+19 (b) The reason for taking the paid family and medical leave;
+20 (c) A schedule showing the dates during which the covered individual
+21 intends to take paid family and medical leave, to the extent such dates
+22 are known;
+23 (d) Such wage information as the commissioner may require to
+24 determine the amount of family and medical leave benefits;
+25 (e) Such documentation as the commissioner may require from a health
+26 care provider for proof of a serious health condition;
+27 (f) The name and address of each covered employer that employs the
+28 covered individual; and
+29 (g) Such other information as required by the commissioner to
+30 calculate and determine eligibility for family and medical leave
+31 benefits.
+-8-
+
+LB189 LB189
+2025 2025
+1 (2) After an initial claim is filed, the commissioner shall send
+2 notice of the filing of such claim to each covered employer that employs
+3 the covered individual and shall include with such notice the schedule of
+4 leave submitted under subdivision (1)(c) of this section. The
+5 commissioner shall then determine the covered individual's eligibility
+6 for family and medical leave benefits. If the commissioner determines
+7 that the covered individual is eligible, the commissioner shall begin to
+8 pay family and medical leave benefits to the covered individual pursuant
+9 to section 4 of this act. If the commissioner determines that the covered
+10 individual is ineligible, the commissioner shall notify the covered
+11 individual of the commissioner's determination. Such determination of
+12 ineligibility may be appealed, and the appeal shall be in accordance with
+13 the Administrative Procedure Act.
+14 (3) Information relating to the covered individual's use of paid
+15 family and medical leave may be shared with any covered employer that
+16 employs the covered individual upon the covered employer's request in a
+17 manner prescribed by the commissioner.
+18 (4) The commissioner shall notify a covered individual when such
+19 covered individual's paid family and medical leave is set to terminate.
+20 Such notification shall be sent in a manner prescribed by the
+21 commissioner. The notification must be received by the covered individual
+22 one week in advance of the day when such paid family and medical leave is
+23 set to expire.
+24 Sec. 6. (1) An employer may elect to participate in the Paid Family
+25 and Medical Leave Insurance Act by applying to the commissioner in a form
+26 and manner prescribed by the commissioner.
+27 (2) An employer who elects to participate in the act may terminate
+28 such participation by applying to the commission in a form and manner
+29 prescribed by the commissioner. Any termination shall not be effective
+30 until at least three months following acceptance of such application.
+31 Sec. 7. (1) A covered individual may elect to participate in the
+-9-
+
+LB189 LB189
+2025 2025
+1 Paid Family and Medical Leave Insurance Act by applying to the
+2 commissioner in a form and manner prescribed by the commissioner.
+3 (2) A covered individual who elects to participate in the act may
+4 terminate such participation by applying to the commission in a form and
+5 manner prescribed by the commissioner.
+6 Sec. 8. (1) The Paid Family and Medical Leave Insurance Fund is
+7 created. The fund shall be administered by the commissioner and shall
+8 consist of private donations, money transferred to the fund by the
+9 Legislature, contributions from covered individuals, and donations from
+10 covered employers. Any money in the fund available for investment shall
+11 be invested by the state investment officer pursuant to the Nebraska
+12 Capital Expansion Act and the Nebraska State Funds Investment Act.
+13 (2) Beginning on an implementation date selected by the commissioner
+14 that is on or before January 1, 2027, covered individuals shall begin
+15 making contributions to pay for participation in the Paid Family and
+16 Medical Leave Insurance Act. Contributions shall become due and be paid
+17 in such manner and at such times as the commissioner shall prescribe by
+18 rule and regulation. The commissioner shall remit the contributions to
+19 the State Treasurer for credit to the Paid Family and Medical Leave
+20 Insurance Fund. Such contributions shall be used to pay family and
+21 medical leave benefits payable under the Paid Family and Medical Leave
+22 Insurance Act and the administrative costs incurred in administering the
+23 act.
+24 (3) The commissioner shall be responsible for evaluating and
+25 determining on an annual basis the contribution amounts necessary to
+26 finance the total amount of family and medical leave benefits payable
+27 under the act. If at any time during the year the commissioner determines
+28 that the contribution amounts are not sufficient to pay the family and
+29 medical leave benefits payable under the act, the commissioner shall
+30 increase the contribution amounts by the lowest amount necessary to pay
+31 all such benefits.
+-10-
+
+LB189 LB189
+2025 2025
+1 (4) Beginning on the effective date of this act, the commissioner
+2 shall accept donations from any private individual or entity, including
+3 any employer, and shall remit all donations received to the State
+4 Treasurer for credit to the Paid Family and Medical Leave Insurance Fund.
+5 Such private donations shall be used to pay the upfront administrative
+6 costs and ongoing administrative costs related to the Paid Family and
+7 Medical Leave Insurance Act. On October 1, 2026, the State Treasurer
+8 shall transfer five million five hundred fifty-eight thousand dollars
+9 from the Nebraska Health Care Cash Fund to the Paid Family and Medical
+10 Leave Insurance Fund. Such transferred amount shall also be used to pay
+11 the upfront administrative costs related to the act. The transferred
+12 amount shall be repaid to the Nebraska Health Care Cash Fund when the
+13 commissioner determines that the Paid Family and Medical Leave Insurance
+14 Fund will have sufficient funds to pay all required family and medical
+15 leave benefits after such repayment is made, but in no case shall such
+16 repayment be made later than October 1, 2030. The commissioner shall
+17 notify the State Treasurer when to make such repayment, and the State
+18 Treasurer shall then transfer five million five hundred fifty-eight
+19 thousand dollars from the Paid Family and Medical Leave Insurance Fund to
+20 the Nebraska Health Care Cash Fund.
+21 Sec. 9. (1) A covered individual may take paid family and medical
+22 leave on an intermittent basis if:
+23 (a) The intermittent leave is for the covered individual's own
+24 serious health condition;
+25 (b) The intermittent leave is to care for a family member with a
+26 serious health condition; or
+27 (c) The intermittent leave is to care for a newborn or a newly
+28 placed adopted or foster care child of the covered individual and the
+29 covered individual has received the covered employer's written approval
+30 for such intermittent leave.
+31 (2) A covered individual in need of intermittent leave to care for a
+-11-
+
+LB189 LB189
+2025 2025
+1 family member with a foreseeable serious health condition shall work with
+2 his or her covered employer to schedule the leave so as not to unduly
+3 disrupt the operations of the covered employer. In such cases, the
+4 covered employer may transfer the covered individual temporarily to an
+5 alternative job with equivalent pay and benefits that accommodates
+6 recurring periods of leave better than the covered individual's regular
+7 job. When the need for intermittent leave is unforeseeable, the covered
+8 individual shall provide notice as soon as possible and practicable under
+9 the circumstances.
+10 (3) The minimum amount of intermittent leave that may be taken at
+11 any one time is one workday.
+12 (4) Family and medical leave benefits for intermittent leave shall
+13 be prorated.
+14 (5) Taking intermittent leave under this section shall not result in
+15 a reduction of the total amount of leave to which a covered individual is
+16 entitled beyond the amount of leave actually taken.
+17 (6) Nothing in this section shall be construed to entitle a covered
+18 individual to more paid family and medical leave than the individual is
+19 otherwise entitled to under the Paid Family and Medical Leave Insurance
+20 Act.
+21 Sec. 10. (1) Any covered individual who takes paid family and
+22 medical leave under the Paid Family and Medical Leave Insurance Act is
+23 entitled, on return from the leave:
+24 (a) To be restored by the covered employer to the position of
+25 employment held by the covered individual when the leave commenced; or
+26 (b) To be restored by the covered employer to an equivalent position
+27 with equivalent employment benefits, pay, and other terms and conditions
+28 of employment.
+29 (2) During any paid family and medical leave taken, the covered
+30 employer shall maintain any health benefits the covered individual had
+31 prior to taking such leave for the duration of the leave as if the
+-12-
+
+LB189 LB189
+2025 2025
+1 covered individual had continued in employment continuously from the date
+2 he or she commenced the leave until the date the family and medical leave
+3 benefits terminate if the covered individual continues to pay the covered
+4 individual's share of the cost of such health benefits as required prior
+5 to the commencement of the leave.
+6 (3) The taking of paid family and medical leave under the act shall
+7 not result in the loss of any employment benefits accrued before the date
+8 on which the leave commenced.
+9 (4) A covered employer shall not require a covered individual to
+10 exhaust his or her accrued vacation or sick time prior to taking paid
+11 family and medical leave.
+12 (5) Nothing in this section shall be construed to entitle any
+13 covered individual to any right, benefit, or position of employment other
+14 than any right, benefit, or position to which the covered individual
+15 would have been entitled had he or she not taken the paid family and
+16 medical leave.
+17 (6) Nothing in this section shall be construed to prohibit a covered
+18 employer from requiring a covered individual on paid family and medical
+19 leave to report periodically to the covered employer on the status of the
+20 covered individual and his or her intention to return to work.
+21 (7) A covered individual who fraudulently obtains family and medical
+22 leave benefits shall not be entitled to any of the protections provided
+23 in this section.
+24 Sec. 11. (1) It shall be unlawful for a covered employer to
+25 interfere with, restrain, or deny the exercise of, or the attempt to
+26 exercise, any right protected under the Paid Family and Medical Leave
+27 Insurance Act or to take a retaliatory personnel action against a covered
+28 individual because the individual exercised rights protected under the
+29 act. Such rights include, but are not limited to:
+30 (a) The right to request or use paid family and medical leave;
+31 (b) The right to communicate to the covered employer an intent to
+-13-
+
+LB189 LB189
+2025 2025
+1 file a claim for family and medical leave benefits;
+2 (c) The right to appeal eligibility determinations;
+3 (d) The right to testify or participate in any investigation,
+4 hearing, or proceeding under the act; and
+5 (e) The right to inform the commissioner of any alleged violation of
+6 the act.
+7 (2) It shall be unlawful for a covered employer's absence control
+8 policy to count paid family and medical leave taken under the act as an
+9 absence that may lead to, or result in, discipline, discharge, demotion,
+10 suspension, or any other adverse action.
+11 Sec. 12. (1) A covered individual who is entitled to leave under
+12 the federal Family and Medical Leave Act of 1993, 29 U.S.C. 2601 et seq.,
+13 shall take any paid family and medical leave allowed under the Paid
+14 Family and Medical Leave Insurance Act concurrently with leave taken
+15 pursuant to the federal Family and Medical Leave Act of 1993.
+16 (2) A covered individual who is entitled to any kind of disability
+17 or family care leave under a collective-bargaining agreement or employer
+18 policy shall take any paid family and medical leave allowed under the
+19 Paid Family and Medical Leave Insurance Act concurrently with such
+20 disability or family care leave if the different types of leave are being
+21 granted for the same reason.
+22 (3) Nothing in the Paid Family and Medical Leave Insurance Act shall
+23 prohibit covered employers from providing leave benefits that are in
+24 addition to the family and medical leave benefits required under the act.
+25 Such additional leave benefits shall not be considered when calculating
+26 family and medical leave benefits under section 4 of this act.
+27 (4) The Paid Family and Medical Leave Insurance Act does not
+28 diminish a covered employer's obligation to comply with any of the
+29 following that provide more generous leave:
+30 (a) A collective-bargaining agreement;
+31 (b) An employer policy; or
+-14-
+
+LB189 LB189
+2025 2025
+1 (c) Any state or federal law.
+2 (5) A covered individual's right to paid family and medical leave
+3 under the Paid Family and Medical Leave Insurance Act shall not be
+4 diminished by a collective-bargaining agreement entered into or renewed,
+5 or an employer policy adopted or retained, after the effective date of
+6 this act.
+7 Sec. 13. (1) Each covered employer shall provide written notice
+8 regarding the Paid Family and Medical Leave Insurance Act to each covered
+9 individual upon hiring and annually thereafter. A covered employer shall
+10 also provide written notice to a covered individual when he or she
+11 requests paid family and medical leave under the act or when the covered
+12 employer acquires knowledge that a covered individual's leave may qualify
+13 for family and medical leave benefits. Such notice shall include:
+14 (a) An explanation of the covered individual's right to paid family
+15 and medical leave and the terms under which it may be used;
+16 (b) The amount of family and medical leave benefits;
+17 (c) The procedure for filing a claim for family and medical leave
+18 benefits;
+19 (d) An explanation of the employee protections provided under
+20 section 10 of this act;
+21 (e) A statement explaining that retaliatory personnel actions
+22 against a covered individual for requesting or using paid family and
+23 medical leave are prohibited; and
+24 (f) A statement explaining that the covered individual has a right
+25 to file a complaint for violations of the Paid Family and Medical Leave
+26 Insurance Act.
+27 (2) A covered employer shall also display and maintain a poster in a
+28 conspicuous place accessible to covered individuals at the covered
+29 employer's place of business that contains the information required under
+30 subsection (1) of this section.
+31 Sec. 14. (1) Claims filed and appeals taken pursuant to the Paid
+-15-
+
+LB189 LB189
+2025 2025
+1 Family and Medical Leave Insurance Act and all related information shall
+2 be confidential and shall not be a public record, except that:
+3 (a) Information relating to a covered individual's use of paid
+4 family and medical leave may be disclosed as described in subsection (3)
+5 of section 5 of this act;
+6 (b) Information may be disclosed to a public official for use in the
+7 performance of his or her official duties. For purposes of this
+8 subdivision, performance of official duties means the administration or
+9 enforcement of law or the execution of the official responsibilities of a
+10 federal, state, or local elected official. Administration of law includes
+11 research related to the law administered by the public official.
+12 Execution of official responsibilities does not include solicitation of
+13 contributions or expenditures to, or on behalf of, a candidate for public
+14 office or to a political party;
+15 (c) Information may be disclosed in response to a court order or
+16 subpoena; and
+17 (d) Information about a particular covered individual or covered
+18 employer may be disclosed to:
+19 (i) Such covered individual or covered employer upon the
+20 individual's or employer's written request;
+21 (ii) One who acts as an agent for the covered individual or covered
+22 employer if the agent presents a written release from the covered
+23 individual or covered employer, where practicable, or other evidence of
+24 authority to act on behalf of the covered individual or covered employer;
+25 (iii) An elected official who is performing constituent services if
+26 the official presents reasonable evidence that the covered individual or
+27 covered employer has authorized such disclosure; or
+28 (iv) An attorney who presents written evidence that the attorney is
+29 representing the covered individual or covered employer in a matter
+30 arising under the Paid Family and Medical Leave Insurance Act.
+31 (2) Any person who receives information under this section and
+-16-
+
+LB189 LB189
+2025 2025
+1 rediscloses such information for any purpose other than the purpose for
+2 which it was originally obtained shall be guilty of a Class III
+3 misdemeanor.
+4 Sec. 15. (1) A covered individual is disqualified from receiving
+5 family and medical leave benefits for one year if the individual is
+6 determined by the commissioner to have willfully made a false statement
+7 or misrepresentation regarding a material fact, or willfully failed to
+8 report a material fact, to obtain family and medical leave benefits. The
+9 one-year period of disqualification shall begin on the date of the
+10 commissioner's determination.
+11 (2) If family and medical leave benefits are paid erroneously or as
+12 a result of willful misrepresentation, or if a claim for family and
+13 medical leave benefits is rejected after benefits are paid, the
+14 commissioner may seek repayment of such benefits from the recipient by:
+15 (a) Bringing a civil action in the name of the commissioner;
+16 (b) Offsetting such payment against any future family and medical
+17 leave benefits payable to the covered individual with respect to the
+18 benefit year current at the time of such receipt or any benefit year
+19 which may commence within three years after the end of such current
+20 benefit year; or
+21 (c) Issuing a levy on salary, wages, or other regular payments due
+22 to or received by the covered individual as provided in subsection (3) of
+23 this section.
+24 (3)(a) Notice of a levy issued under subdivision (2)(c) of this
+25 section shall be mailed to the covered individual at his or her last-
+26 known address not later than the date that the levy is served.
+27 (b) Such levy shall be continuous from the date the levy is served
+28 until the amount of the levy is satisfied.
+29 (c) Exemptions or limitations on the amount of salary, wages, or
+30 other regular payment that can be garnished or levied upon by a judgment
+31 creditor shall apply to such levy.
+-17-
+
+LB189 LB189
+2025 2025
+1 (d) Any person upon whom a levy is served who fails or refuses to
+2 honor the levy without cause may be held liable for the amount of the
+3 levy up to the value of the assets of the covered individual liable to
+4 repay the overpayment that are under the control of the person upon whom
+5 the levy is served at the time of service and thereafter.
+6 Sec. 16. It is the intent of the Legislature that the commissioner
+7 utilize state data and technology that is used for other state programs,
+8 including, but not limited to, unemployment insurance, to the maximum
+9 extent possible for purposes of carrying out the commissioner's
+10 responsibilities under the Paid Family and Medical Leave Insurance Act.
+11 Sec. 17. (1) If the Internal Revenue Service determines that family
+12 and medical leave benefits are subject to federal income tax, the
+13 commissioner shall advise any covered individual filing a claim for
+14 family and medical leave benefits, at the time of filing such claim,
+15 that:
+16 (a) The Internal Revenue Service has determined that family and
+17 medical leave benefits are subject to federal income tax;
+18 (b) Requirements exist pertaining to estimated tax payments;
+19 (c) The covered individual may elect to have federal income tax
+20 deducted and withheld from the covered individual's family and medical
+21 leave benefits; and
+22 (d) The covered individual is permitted to change a previously
+23 elected income withholding status.
+24 (2) If the covered individual elects to have federal tax payments
+25 withheld, the commissioner shall deduct and withhold the amount specified
+26 in the Internal Revenue Code in a manner consistent with state and
+27 federal law. Amounts deducted and withheld must remain in the Paid Family
+28 and Medical Leave Insurance Fund until transferred to the federal taxing
+29 authority as a payment of income tax.
+30 Sec. 18. (1) The commissioner may conduct investigations in order
+31 to determine whether there has been compliance with the Paid Family and
+-18-
+
+LB189 LB189
+2025 2025
+1 Medical Leave Insurance Act. Investigations shall take place at such
+2 times and places as the commissioner directs. Investigations shall be
+3 conducted so as not to unduly disrupt the operations of covered
+4 employers.
+5 (2) For purposes of any investigation under this section, the
+6 commissioner may administer oaths and affirmations, subpoena witnesses,
+7 compel attendance, take evidence, and require the production of any
+8 books, papers, correspondence, memoranda, agreements, or other documents
+9 or records which the commissioner deems relevant or material to the
+10 inquiry.
+11 (3) In case of contumacy by, or refusal to, obey a subpoena issued
+12 to a person, a court of competent jurisdiction, upon application by the
+13 commissioner, may issue to such person an order requiring the person to
+14 appear before the commissioner and produce documentary evidence if so
+15 ordered or give evidence relating to the matter under investigation or in
+16 question. Any failure to obey the order of the court may be punished by
+17 the court as a contempt.
+18 (4) The commissioner shall issue a citation to a covered employer
+19 when an investigation reveals that the covered employer has violated the
+20 act. When a citation is issued, the commissioner shall notify the covered
+21 employer of the proposed administrative penalty, if any, by certified
+22 mail or any other manner of delivery by which the United States Postal
+23 Service can verify delivery. The administrative penalty shall be not more
+24 than five hundred dollars in the case of a first violation and not more
+25 than five thousand dollars in the case of a second or subsequent
+26 violation. The covered employer shall have fifteen working days from the
+27 date of the citation to contest it. Notice of contest shall be sent to
+28 the commissioner who shall provide a hearing pursuant to the
+29 Administrative Procedure Act.
+30 Sec. 19. On or before December 31, 2028, and on or before December
+31 31 of each year thereafter, the commissioner shall electronically submit
+-19-
+
+LB189 LB189
+2025 2025
+1 a report to the Legislature. The report shall include:
+2 (1) The amount and percentage of family and medical leave benefits
+3 paid for each type of paid family and medical leave described in
+4 subsection (1) of section 3 of this act;
+5 (2) The percentage of family and medical leave benefits paid to each
+6 gender for each type of paid family and medical leave described in
+7 subsection (1) of section 3 of this act;
+8 (3) The amount of contributions remitted by covered individuals
+9 pursuant to section 8 of this act;
+10 (4) The median payment level for family and medical leave benefits;
+11 (5) The occupation and industry of covered individuals receiving
+12 family and medical leave benefits;
+13 (6) The balance of the Paid Family and Medical Leave Insurance Fund;
+14 (7) A summary of the outreach efforts made by the commissioner and
+15 by covered employers to increase awareness of the availability of paid
+16 family and medical leave; and
+17 (8) The types of family members for whom paid family and medical
+18 leave as described in subdivision (1)(b) of section 3 of this act was
+19 taken.
+20 Sec. 20. Family and medical leave benefits shall not be considered
+21 compensation under the County Employees Retirement Act, the Judges
+22 Retirement Act, the Nebraska State Patrol Retirement Act, the School
+23 Employees Retirement Act, the State Employees Retirement Act, or any
+24 other retirement plan administered by the Public Employees Retirement
+25 Board and shall not be eligible for deferral under any deferred
+26 compensation plan administered by the Public Employees Retirement Board.
+27 Sec. 21. The commissioner shall adopt and promulgate rules and
+28 regulations as necessary to carry out the Paid Family and Medical Leave
+29 Insurance Act.
+30 Sec. 22. Section 48-652, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-20-
+
+LB189 LB189
+2025 2025
+1 48-652 (1)(a) A separate experience account shall be established for
+2 each employer who is liable for payment of combined tax. Whenever and
+3 wherever in the Employment Security Law the terms reserve account or
+4 experience account are used, unless the context clearly indicates
+5 otherwise, such terms shall be deemed interchangeable and synonymous and
+6 reference to either of such accounts shall refer to and also include the
+7 other.
+8 (b) A separate reimbursement account shall be established for each
+9 employer who is liable for payments in lieu of contributions. All
+10 benefits paid with respect to service in employment for such employer
+11 shall be charged to his or her reimbursement account, and such employer
+12 shall be billed for and shall be liable for the payment of the amount
+13 charged when billed by the commissioner. Payments in lieu of
+14 contributions received by the commissioner on behalf of each such
+15 employer shall be credited to such employer's reimbursement account, and
+16 two or more employers who are liable for payments in lieu of
+17 contributions may jointly apply to the commissioner for establishment of
+18 a group account for the purpose of sharing the cost of benefits paid that
+19 are attributable to service in the employ of such employers. The
+20 commissioner shall adopt and promulgate such rules and regulations as he
+21 or she deems necessary with respect to applications for establishment,
+22 maintenance, and termination of group accounts authorized by this
+23 subdivision.
+24 (2) All contributions paid by an employer shall be credited to the
+25 experience account of such employer. State unemployment insurance tax
+26 payments shall not be credited to the experience account of each
+27 employer. Partial payments of combined tax shall be credited so that at
+28 least eighty percent of the combined tax payment excluding interest and
+29 penalty is credited first to contributions due. Contributions with
+30 respect to prior years which are received on or before January 31 of any
+31 year shall be considered as having been paid at the beginning of the
+-21-
+
+LB189 LB189
+2025 2025
+1 calendar year. All voluntary contributions which are received on or
+2 before February 28 of any year shall be considered as having been paid at
+3 the beginning of the calendar year.
+4 (3)(a) Each experience account shall be charged only for benefits
+5 based upon wages paid by such employer. No benefits shall be charged to
+6 the experience account of any employer if:
+7 (i) Such benefits were paid on the basis of a period of employment
+8 from which the claimant (A) left work voluntarily without good cause, (B)
+9 left work voluntarily due to a nonwork-connected illness or injury, (C)
+10 left work voluntarily with good cause to escape abuse as defined in
+11 section 42-903 between household members as provided in subdivision (1)
+12 of section 48-628.13, (D) left work from which he or she was discharged
+13 for misconduct connected with his or her work, (E) left work voluntarily
+14 and is entitled to unemployment benefits without disqualification in
+15 accordance with subdivision (3), (5), or (11) of section 48-628.13, or
+16 (F) was involuntarily separated from employment and such benefits were
+17 paid pursuant to section 48-628.17; and
+18 (ii) The employer has filed timely notice of the facts on which such
+19 exemption is claimed in accordance with rules and regulations adopted and
+20 promulgated by the commissioner.
+21 (b) No benefits shall be charged to the experience account of any
+22 employer if such benefits were paid during a week when the individual was
+23 participating in training approved under section 236(a)(1) of the federal
+24 Trade Act of 1974, 19 U.S.C. 2296(a)(1).
+25 (c) No benefits shall be charged to the experience account of any
+26 employer if such benefits were paid to an individual who:
+27 (i) Worked for an employer for twenty weeks or less to temporarily
+28 replace a permanent employee receiving family and medical leave benefits
+29 under the Paid Family and Medical Leave Insurance Act and who was laid
+30 off due to the return of such permanent employee;
+31 (ii) Was discharged due to his or her failure to return to work
+-22-
+
+LB189 LB189
+2025 2025
+1 after the expiration of paid family and medical leave taken pursuant to
+2 the Paid Family and Medical Leave Insurance Act; or
+3 (iii) Left work voluntarily while on paid family and medical leave
+4 taken pursuant to the Paid Family and Medical Leave Insurance Act.
+5 (d) (c) Each reimbursement account shall be charged only for
+6 benefits paid that were based upon wages paid by such employer in the
+7 base period that were wages for insured work solely by reason of section
+8 48-627.01.
+9 (e) (d) Benefits paid to an eligible individual shall be charged
+10 against the account of his or her most recent employers within his or her
+11 base period against whose accounts the maximum charges hereunder have not
+12 previously been made in the inverse chronological order in which the
+13 employment of such individual occurred. The maximum amount so charged
+14 against the account of any employer, other than an employer for which
+15 services in employment as provided in subdivision (4)(a) of section
+16 48-604 are performed, shall not exceed the total benefit amount to which
+17 such individual was entitled as set out in section 48-626 with respect to
+18 base period wages of such individual paid by such employer plus one-half
+19 the amount of extended benefits paid to such eligible individual with
+20 respect to base period wages of such individual paid by such employer.
+21 The commissioner shall adopt and promulgate rules and regulations
+22 determining the manner in which benefits shall be charged against the
+23 account of several employers for whom an individual performed employment
+24 during the same quarter or during the same base period.
+25 (4)(a) An employer's experience account shall be terminated one
+26 calendar year after such employer has ceased to be subject to the
+27 Employment Security Law, except that if the commissioner finds that an
+28 employer's business is closed solely because one or more of the owners,
+29 officers, partners, or limited liability company members or the majority
+30 stockholder entered the armed forces of the United States, or of any of
+31 its allies, such employer's account shall not be terminated and, if the
+-23-
+
+LB189 LB189
+2025 2025
+1 business is resumed within two years after the discharge or release from
+2 active duty in the armed forces of such person or persons, the employer's
+3 experience account shall be deemed to have been continuous throughout
+4 such period.
+5 (b) An experience account terminated pursuant to this subsection
+6 shall be reinstated if:
+7 (i) The employer becomes subject again to the Employment Security
+8 Law within one calendar year after termination of such experience
+9 account;
+10 (ii) The employer makes a written application for reinstatement of
+11 such experience account to the commissioner within two calendar years
+12 after termination of such experience account; and
+13 (iii) The commissioner finds that the employer is operating
+14 substantially the same business as prior to the termination of such
+15 experience account.
+16 (5) All money in the Unemployment Compensation Fund shall be kept
+17 mingled and undivided. In no case shall the payment of benefits to an
+18 individual be denied or withheld because the experience account of any
+19 employer does not have a total of contributions paid in excess of
+20 benefits charged to such experience account.
+21 (6)(a) For benefit years beginning before September 3, 2017, if an
+22 individual's base period wage credits represent part-time employment for
+23 a contributory employer and the contributory employer continues to employ
+24 the individual to the same extent as during the base period, then the
+25 contributory employer's experience account shall not be charged if the
+26 contributory employer has filed timely notice of the facts on which such
+27 exemption is claimed in accordance with rules and regulations adopted and
+28 promulgated by the commissioner.
+29 (b) For benefit years beginning on or after September 3, 2017, if an
+30 individual's base period wage credits represent part-time employment for
+31 an employer and the employer continues to employ the individual to the
+-24-
+
+LB189 LB189
+2025 2025
+1 same extent as during the base period, then the employer's experience
+2 account, in the case of a contributory employer, or the employer's
+3 reimbursement account, in the case of a reimbursable employer, shall not
+4 be charged if the employer has filed timely notice of the facts on which
+5 such exemption is claimed in accordance with rules and regulations
+6 prescribed by the commissioner.
+7 (7) If a contributory employer responds to the department's request
+8 for information within the time period set forth in subsection (1) of
+9 section 48-632 and provides accurate information as known to the employer
+10 at the time of the response, the employer's experience account shall not
+11 be charged if the individual's separation from employment is voluntary
+12 and without good cause as determined under section 48-628.12.
+13 Sec. 23. Section 71-7611, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 71-7611 (1) The Nebraska Health Care Cash Fund is created. The State
+16 Treasurer shall transfer (a) sixty million three hundred thousand dollars
+17 on or before July 15, 2014, (b) sixty million three hundred fifty
+18 thousand dollars on or before July 15, 2015, (c) sixty million three
+19 hundred fifty thousand dollars on or before July 15, 2016, (d) sixty
+20 million seven hundred thousand dollars on or before July 15, 2017, (e)
+21 five hundred thousand dollars on or before May 15, 2018, (f) sixty-one
+22 million six hundred thousand dollars on or before July 15, 2018, (g)
+23 sixty-two million dollars on or before July 15, 2019, (h) sixty-one
+24 million four hundred fifty thousand dollars on or before July 15, 2020,
+25 (i) sixty-six million two hundred thousand dollars on or before July 15,
+26 2022, (j) fifty-six million seven hundred thousand dollars on or before
+27 July 15, 2023, (k) fifty-four million dollars on or before July 15, 2024,
+28 and (l) fifty-four million one hundred fifty thousand dollars on or
+29 before every July 15 thereafter from the Nebraska Medicaid
+30 Intergovernmental Trust Fund and the Nebraska Tobacco Settlement Trust
+31 Fund to the Nebraska Health Care Cash Fund, except that such amount shall
+-25-
+
+LB189 LB189
+2025 2025
+1 be reduced by the amount of the unobligated balance in the Nebraska
+2 Health Care Cash Fund at the time the transfer is made. The state
+3 investment officer shall advise the State Treasurer on the amounts to be
+4 transferred first from the Nebraska Medicaid Intergovernmental Trust Fund
+5 until the fund balance is depleted and from the Nebraska Tobacco
+6 Settlement Trust Fund thereafter in order to sustain such transfers in
+7 perpetuity. The state investment officer shall report electronically to
+8 the Legislature on or before October 1 of every even-numbered year on the
+9 sustainability of such transfers. The Nebraska Health Care Cash Fund
+10 shall also include money received pursuant to section 77-2602. Except as
+11 otherwise provided by law, no more than the amounts specified in this
+12 subsection may be appropriated or transferred from the Nebraska Health
+13 Care Cash Fund in any fiscal year.
+14 The State Treasurer shall transfer ten million dollars from the
+15 Nebraska Medicaid Intergovernmental Trust Fund to the General Fund on
+16 June 28, 2018, and June 28, 2019.
+17 Except for the transfer authorized in section 8 of this act and as
+18 otherwise provided in subsections (5) and (6) of this section, it is the
+19 intent of the Legislature that no additional programs are funded through
+20 the Nebraska Health Care Cash Fund until funding for all programs with an
+21 appropriation from the fund during FY2012-13 are restored to their
+22 FY2012-13 levels.
+23 (2) Any money in the Nebraska Health Care Cash Fund available for
+24 investment shall be invested by the state investment officer pursuant to
+25 the Nebraska Capital Expansion Act and the Nebraska State Funds
+26 Investment Act.
+27 (3) The University of Nebraska and postsecondary educational
+28 institutions having colleges of medicine in Nebraska and their affiliated
+29 research hospitals in Nebraska, as a condition of receiving any funds
+30 appropriated or transferred from the Nebraska Health Care Cash Fund,
+31 shall not discriminate against any person on the basis of sexual
+-26-
+
+LB189 LB189
+2025 2025
+1 orientation.
+2 (4) It is the intent of the Legislature that the cost of the staff
+3 and operating costs necessary to carry out the changes made by Laws 2018,
+4 LB439, and not covered by fees or federal funds shall be funded from the
+5 Nebraska Health Care Cash Fund for fiscal years 2018-19 and 2019-20.
+6 (5) It is the intent of the Legislature to fund the grants to be
+7 awarded pursuant to section 75-1101 with the Nebraska Health Care Cash
+8 Fund for FY2019-20 and FY2020-21.
+9 (6) The State Treasurer shall transfer fifteen million dollars from
+10 the Nebraska Health Care Cash Fund on or after July 1, 2022, but before
+11 June 30, 2023, to the Board of Regents of the University of Nebraska for
+12 the University of Nebraska Medical Center for pancreatic cancer research
+13 at the University of Nebraska Medical Center. Transfers from the Nebraska
+14 Health Care Cash Fund in this subsection shall be contingent upon receipt
+15 of any matching funds from private or other sources, up to fifteen
+16 million dollars, certified by the budget administrator of the budget
+17 division of the Department of Administrative Services. Upon receipt of
+18 any matching funds certified by the budget administrator, the State
+19 Treasurer shall transfer an equal amount of funds to the Board of Regents
+20 of the University of Nebraska.
+21 Sec. 24. Original sections 48-652 and 71-7611, Revised Statutes
+22 Cumulative Supplement, 2024, are repealed.
+-27-
+
+[DELETED: yCA7Ptu t E S L t h p tpB9L52]
+[DELETED: ScSA( B p m t f f o t l f cc q i p t f d o a ci(d0f1t2r t w t c i n f a v c f3f a m l b a t t o h o h4l p b y F p o t s a w5w6d7g8(9(0t s m a i 2 C 8 a ( a s1r2(3t4o5(6( A i w ( I e b a c e a7(8A9(0P1t9L52]
+[DELETED: (a t r i t a s s a re( F a m l b m t b pu((w o a c i o t c i s o p0s1t a o d s o s c s l w o2p3( A b a o f p a s o 4l5o6c i s w t c i o t c7i8(9(0f1c2(3s4l t d n e r p a c5n6(7( F a c i w h e w d e8c q o t b p t a o w p t t9c i i t h c q o t b p0d1(9L52]
+[DELETED: c q o t b p t c i aw(i(rJ(i0w t c i i e f f a m l1b2( Q e l m l t b a c3i4m5( A o t p s i 2 C 86t7( A o t p s i 2 C 88t9(0m1s2f t p c b u f a p o s c d3b o t d t m m i n o a i4c5(6t m t i r t t c a d o c t7c8( T a f s o a p a9i0s1c9L52]
+[DELETED: m(macoo(s o l a f t p o o a o0a m s b w t m m i o1c a d o c t c a d s a f 2p3c4( T a c p b s o t a h5c6t b a o f c t s o t l7w8o9t0c1( T s t w t m m w i o s2t3L4d5r6( T a a c r b a7e a a o o c o p s b t8m9m0( T a i t a f t d o t m1m w o c a d s s a m a9L52]
+[DELETED: ra(ce a c i a t s l q a ae( R p a m d o a rg u t P F a M L I Ai0( A o t f a a t a a c1i f t e o a r g i t a2D s d r o h a o a3a4( I w o p f p i o5a6(72 a t r i t a s s a8r9(0a1(2a3S 3  ( B J 1 2 a c i m4t5( T c f a n c o t c i d t6f7t8(9s0(1a9L52]
+[DELETED: ((it( T m a o p f a m l t ciSa0w1(2w3a4( F p o t p o t i a w5w6(7c8s9(0w1m l S w s b k a t w p I t2c i t t o m d o p f a m3l4w5y6t f t r s i s ( a ( o7s8s9(0o1(9L52]
+[DELETED: mi f u s 5 o t a a s p o sbii t m p b t c w m ie( F p o t c r u t so w e i e a d i s 4 s bc0(1b a t s t t h o s i r w2c b f t d o b u t3E4S5i s f a i c f s b w t6c7i8(9(0(1i2a3( S w i a t c m r t4d5(6c7(8c9( S o i a r b t c t0c a d e f f a m l1b9L52]
+[DELETED: ( A a i c i f t c s sntl s u s ( o t s Tc s t d t c i ef f a m l b I t c dtpt0i i i t c s n t c1i o t c d S d o2i3t4( I r t t c i u o p5f a m l m b s w a c e t6e7m8( T c s n a c i w s9c0S n s b s i a m p b t1c2o3s4S5a6a7(8s p b a t t c i a f a m9p b t c A t s n b e0u1S9L52]
+[DELETED: P F a M L I A b a t tc(tmS 8  ( T P F a M L I F ic T f s b a b t c a sc o p d m t t t f b tL0c1b i b t s i o p t t N2C3(4t i o o b J 1 2 c i s b5m c t p f p i t P F a6M7i8r a r T c s r t c t9t S T f c t t P F a M L0I F S c s b u t p f a1m2I3a4( T c s b r f e a5d o a a b t c a n t6f t t a o f a m l b p7u8t9m l b p u t a t c s0i1a9L52]
+[DELETED: ( B o t e d o t a t csa e a s r a d r t t STSc a o a c r t t P F aM L I A O O 1 2 t S Ts t f m f h f t df0L1t u a c r t t a T t2a s b r t t N H C C F w t3c4F5l6r b m l t O 1 2 T c s7n t S T w t m s r a t S8T s t t f m f h f9t0t1S2l3( T i l i f t c i o4s5( T i l i t c f a f m w 6s7( T i l i t c f a n o a n8p a o f c c o t c i a t9c0f1(9L52]
+[DELETED: fhd t o o t c e I s c tc e m t t c i t t aa j w e p a b t arjit0(1a2(3b4(5a6e7(8i9o0A1S 1  ( A c i w t p f a2m3e4( T b r b t c e t t p o5e6(7w8o9( D a p f a m l t t c0e s m a h b t c i h1p t t s l f t d o t l a i t9L52]
+[DELETED: chbit(no( A c e s n r a c i t0e h o h a v o s t p t t p1f2( N i t s s b c t e a3c4t a r b o p t w t c i5w h b e h h o s n t t p f a6m7(8e9l0c1(2l3i4S 1  ( I s b u f a c e t5i w r o d t e o o t a t6e a r p u t P F a M L7I8i b t i e r p u t9a0(1(9L52]
+[DELETED: f(( T r t t o p i a ih(t( I s b u f a c e a cpa0s1S2t3s t a p f a m l a u t P4F a M L I A c w l t5p6(7o8p s t a p f a m l a u t9P F a M L I A c w s0d1g2(3p c e f p l b t a i4a5S6f7( T P F a M L I A d n8d a c e o t c w a o t9f0(1(9L52]
+[DELETED: (( A c i r t p f a m lu t P F a M L I A s n bdotS 1  ( E c e s p w nri0a p w n t a c i w h o s1r2e3f4(5a6(7(8b9( A e o t e p p u0s1( A s e t r p a2a a c i f r o u p f a3m4(5t6I7(8c p a t c i a t c9e0s1S9L52]
+[DELETED: Fb( I r t a c i u o pfo(p o h o h o d F p o tse0f1r r t t l a b t p o2E3c4o5( I m b d i r t a c o o6s7( I a a p c i o c8e9( S c i o c e u t0i1(2e i t a p a w r f t c3i4a5(6t7c8(9r t c i o c e i a m0a1( A p w r i u t s a9L52]
+[DELETED: rw i w o o s b g o a C ImS 1  ( A c i i d f rf a m l b f o y i t i ido m r a m f o w f tro p o d s b o t d o t0c1(2a r o w m o i a c f f a3m l b i r a b a p t4c5(6( O s p a a f f a m7l b p t t c i w r t t8b y c a t t o s r o a b y9w m c w t y a t e o s c0b1(2t3t4( N o a l i u s ( o t5s s b m t t c i a h o h l6k7(8u9( E o l o t a o s w o0o1c9L52]
+[DELETED: (hlrtSui b n l t u i t t me p f p o c o t c0r1S2a m l b a s t f i t t3c s a a c i f a c f4f a m l b a t t o f s c5t6( T I R S h d t f a7m8(9( T c i m e t h f i t0d a w f t c i f a m1l2( T c i i p t c a p3e4( I t c i e t h f t p5w6i t I R C i a m c w s a7f8a9a0S1t9L52]
+[DELETED: M L I A I s t p a st a p a t c d I s bc s a n t u d t o o ce( F p o a i u t s tcc a t e a r t p o abo r w t c d r o m t t0i1(2t3c4a b t c a p d e i s5o6q7t8( T c s i a c t a c e9w0a1e o t p a p i a b c2m3S4t5t f t d i t c o a s o s6v7d8t c w s p a h p t t9A0S139L52]
+[DELETED: a(p f e t o p f a m l d is(g f e t o p f a m l d is( T a o c r b c ip0(1( T o a i o c i r2f3(4(5b6f7( T t o f m f w p f a m8l a d i s ( o s 3 o t a w9t0S1c u t C E R A t J2R A t N S P R A t S3E R A t S E R A o a4o r p a b t P E R5B a s n b e f d u a d6c7S 2  T c s a a p r a8r9I0S 2 S 4 R S C S129L52]
+[DELETED: 4e e w i l f p o c t W aw i t E S L t t r a oe a a u u t c c ioro(e w i l f p i l o c A0b p w r t s i e f s e1s2s3c w b b t c P i l o4c r b t c o b o e s5e6t o m e w a l f p i l o7c8a9a a t s i t e o s e T0c1o s d n w r t a f e2m a t o g a a b t3s4(5e a o s e S u i t6p s n b c t t e a o e7e8l9p i c f t c d C w0r1y s b c a h b p a t b o t9L52]
+[DELETED: c y A v c w a r o obt( E e a s b c o f bbt(fl0l w v w g c t e a a d i1s2o3f4a i e t u b w d i5a6( w i s f e a s b w7p8(9e0p1(2e3p4T5(6e7(8r9u0o1( W d d t h o h f t r t w9L52]
+[DELETED: at(t( ( E r a s b c o fb p t w b u w p b s e i tb4( ( B p t a e i s b c0a1b2p b m i t i c o i w t3e o s i o T m a s c4a t a o a e o t a e f w5s i e a p i s ( o s647s8b9t a o e b p t s e i w0r1T c s a a p r a r2d t m i w b s b c a t3a4d5( A e e a s b t o6c y a s e h c t b s t t7E8e9o0s1i9L52]
+[DELETED: bae a s b d t h b c ts( A e a t p t t ss( T e b s a t t E SL w o c y a t o s ea0(1s e a t t c w t c y2a3( T c f t t e i o4s t s b a p t t t o s5e6( A m i t U C F s b k7m a u I n c s t p o b t a8i9e d n h a t o c p i e o0b1(2i3a4t i t t s e a d t b p t t5c e e a s n b c i t6c7e8p9(0i1a9L52]
+[DELETED: s e a d t b p t t e ea i t c o a c e o t erbs e i c i a w r a rp(f i w t t p s f i s ( os0a1b c i t i s f e i v2a3S 2 S 7 R S C S42576T7o o b J 1 2 ( s m t h f8t d o o b J 1 2 ( s m t9h f t d o o b J 1 2 ( s0m1f2m s h t d o o b J 1 2 (3s m d o o b J 1 2 ( s4m5(627J8a ( f m o h f t d o o9b e J 1 t f t N M0I T F a t N T S T1F9L52]
+[DELETED: b r b t a o t u b i t NH C C F a t t t t i m T situ t f b i d a f t N TSpts o s t T N H C C F0s1o p b l n m t t a s i t2s m b a o t f t N H3C4T S T s t t m d f t5N M I T F t t G F o6J7E8o9i0t1a f t f d F a r t t2F3(4i5t N C E A a t N S F6I7( T U o N a p e8i9r h i N a a c o r a f0a o t f t N H C C F1s n d a a p o t b o s9L52]
+[DELETED: o(aLN( I i t i o t L t f t g t baF(0t1J2t3a4H5o a m f f p o o s u t f6m d c b t b a o t b7d o t D o A S U r o8a m f c b t b a t S9T0o1S 2  O s 4 a 7 R S2C9L52]

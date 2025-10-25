@@ -1,0 +1,524 @@
+Title: LEGISLATIVE BILL 226
+Official Title: LEGISLATIVE BILL 226
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+LB226 LB226
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Juarez, 5.
+Read first time January 14, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to criminal procedure; to amend section
+2 29-3528, Reissue Revised Statutes of Nebraska, and section 29-3523,
+3 Revised Statutes Cumulative Supplement, 2024; to provide for setting
+4 aside and expunging records relating to convictions and
+5 adjudications for certain concealed weapon offenses; to define a
+6 term; to provide for retroactivity; to provide a private cause of
+7 action for violations of the Security, Privacy, and Dissemination of
+8 Criminal History Information Act; to waive sovereign immunity as
+9 prescribed; to provide a statute of limitations for such actions; to
+10 harmonize provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+LB226 LB226
+2025 2025
+1 Section 1. (1) For purposes of this section, concealed weapon
+2 offense means:
+3 (a) A violation of section 28-1202 as it existed before September 2,
+4 2023; or
+5 (b) Attempt, conspiracy, solicitation, being an accessory to, aiding
+6 and abetting, aiding the consummation of, or compounding a felony with a
+7 violation described in subdivision (1)(a) of this section as the
+8 underlying offense.
+9 (2) At any time following the completion of sentence or disposition,
+10 a person convicted of a concealed weapon offense or adjudicated in
+11 juvenile court for a concealed weapon offense may file a motion to set
+12 aside such conviction or adjudication. The motion shall be filed in the
+13 county, district, or separate juvenile court in which the movant was
+14 convicted or adjudicated.
+15 (3) In determining whether to set aside the conviction, the court
+16 shall consider:
+17 (a) The behavior of the movant after completion of sentencing or
+18 disposition;
+19 (b) The likelihood that the movant will not engage in further
+20 criminal activity; and
+21 (c) Any other information the court considers relevant.
+22 (4) There shall be a rebuttable presumption that the movant is
+23 entitled to relief under this section if the conduct underlying the
+24 conviction or adjudication for a concealed weapon offense would not be a
+25 violation of section 28-1202 as such section exists at the time the
+26 motion is filed.
+27 (5) The court may grant the motion and issue an order setting aside
+28 the conviction or adjudication when in the opinion of the court the order
+29 will be in the best interest of the movant and consistent with the public
+30 welfare.
+31 (6) An order setting aside a conviction or an adjudication under
+-2-
+LB226 LB226
+2025 2025
+1 this section shall have the same effect as an order setting aside a
+2 conviction as provided in subsections (5) and (6) of section 29-2264.
+3 Sec. 2. Section 29-3523, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 29-3523 (1) After the expiration of the periods described in
+6 subsection (3) of this section or after the granting of a motion under
+7 subsection (4), (5), or (6), or (7) of this section, a criminal justice
+8 agency shall respond to a public inquiry in the same manner as if there
+9 were no criminal history record information and criminal history record
+10 information shall not be disseminated to any person other than a criminal
+11 justice agency, except as provided in subsection (2) of this section or
+12 when the subject of the record:
+13 (a) Is currently the subject of prosecution or correctional control
+14 as the result of a separate arrest;
+15 (b) Is currently an announced candidate for or holder of public
+16 office;
+17 (c) Has made a notarized request for the release of such record to a
+18 specific person; or
+19 (d) Is kept unidentified, and the record is used for purposes of
+20 surveying or summarizing individual or collective law enforcement agency
+21 activity or practices, or the dissemination is requested consisting only
+22 of release of criminal history record information showing (i) dates of
+23 arrests, (ii) reasons for arrests, and (iii) the nature of the
+24 dispositions including, but not limited to, reasons for not prosecuting
+25 the case or cases.
+26 (2) That part of criminal history record information described in
+27 subsection (8) (7) of this section may be disseminated to individuals and
+28 agencies for the express purpose of research, evaluative, or statistical
+29 activities pursuant to an agreement with a criminal justice agency that
+30 specifically authorizes access to the information, limits the use of the
+31 information to research, evaluative, or statistical activities, and
+-3-
+LB226 LB226
+2025 2025
+1 ensures the confidentiality and security of the information.
+2 (3) Except as provided in subsections (1) and (2) of this section,
+3 in the case of an arrest, citation in lieu of arrest, or referral for
+4 prosecution without citation, all criminal history record information
+5 relating to the case shall be removed from the public record as follows:
+6 (a) When no charges are filed as a result of the determination of
+7 the prosecuting attorney, the criminal history record information shall
+8 not be part of the public record after one year from the date of arrest,
+9 citation in lieu of arrest, or referral for prosecution without citation;
+10 (b) When charges are not filed as a result of a completed diversion,
+11 the criminal history record information shall not be part of the public
+12 record after two years from the date of arrest, citation in lieu of
+13 arrest, or referral for prosecution without citation; and
+14 (c) When charges are filed, but the case is dismissed by the court
+15 (i) on motion of the prosecuting attorney, (ii) as a result of a hearing
+16 not the subject of a pending appeal, (iii) after acquittal, (iv) after a
+17 deferred judgment, or (v) after completion of a program prescribed by a
+18 drug court or any other problem solving court approved by the Supreme
+19 Court, the criminal history record information shall not be part of the
+20 public record immediately upon notification of a criminal justice agency
+21 after acquittal pursuant to subdivision (3)(c)(iii) of this section or
+22 after the entry of an order dismissing the case.
+23 (4) Upon the granting of a motion to set aside a conviction or an
+24 adjudication pursuant to section 29-3005, a person who is a victim of sex
+25 trafficking, as defined in section 29-3005, may file a motion with the
+26 same sentencing court for an order to seal the criminal history record
+27 information related to such conviction or adjudication. Upon a finding
+28 that a court issued an order setting aside such conviction or
+29 adjudication pursuant to section 29-3005, the sentencing court shall
+30 grant the motion and:
+31 (a) For a conviction, issue an order as provided in subsection (8)
+-4-
+LB226 LB226
+2025 2025
+1 (7) of this section; or
+2 (b) For an adjudication, issue an order as provided in section
+3 43-2,108.05.
+4 (5) Upon the granting of a motion to set aside a conviction or an
+5 adjudication pursuant to section 1 of this act, the movant may file a
+6 motion with the same court for an order to seal the criminal history
+7 record information related to such conviction or adjudication. Upon a
+8 finding that a court issued an order setting aside such conviction or
+9 adjudication pursuant to section 1 of this act, the court shall grant the
+10 motion and:
+11 (a) For a conviction, issue an order as provided in subsection (8)
+12 of this section; or
+13 (b) For an adjudication, issue an order as provided in section
+14 43-2,108.05.
+15 (6) (5) Any person who has received a pardon may file a motion with
+16 the sentencing court for an order to seal the criminal history record
+17 information and any cases related to such charges or conviction. Upon a
+18 finding that the person received a pardon, the court shall grant the
+19 motion and issue an order as provided in subsection (8) (7) of this
+20 section.
+21 (7) (6) Any person who is subject to a record which resulted in a
+22 case being dismissed prior to January 1, 2017, as described in
+23 subdivision (3)(c) of this section, may file a motion with the court in
+24 which the case was filed to enter an order pursuant to subsection (8) (7)
+25 of this section. Upon a finding that the case was dismissed for any
+26 reason described in subdivision (3)(c) of this section, the court shall
+27 grant the motion and enter an order as provided in subsection (8) (7) of
+28 this section.
+29 (8) (7) Upon acquittal or entry of an order dismissing a case
+30 described in subdivision (3)(c) of this section, or after granting a
+31 motion under subsection (4), (5), or (6), or (7) of this section, the
+-5-
+LB226 LB226
+2025 2025
+1 court shall:
+2 (a) Order that all records, including any information or other data
+3 concerning any proceedings relating to the case, including the arrest,
+4 taking into custody, petition, complaint, indictment, information, trial,
+5 hearing, adjudication, correctional supervision, dismissal, or other
+6 disposition or sentence, are not part of the public record and shall not
+7 be disseminated to persons other than criminal justice agencies, except
+8 as provided in subsection (1) or (2) of this section;
+9 (b) Send notice of the order (i) to the Nebraska Commission on Law
+10 Enforcement and Criminal Justice, (ii) to the Nebraska State Patrol, and
+11 (iii) to law enforcement agencies, county attorneys, and city attorneys
+12 referenced in the court record;
+13 (c) Order all parties notified under subdivision (8)(b) (7)(b) of
+14 this section to seal all records pertaining to the case; and
+15 (d) If the case was transferred from one court to another, send
+16 notice of the order to seal the record to the transferring court.
+17 (9) (8) In any application for employment, bonding, license,
+18 education, or other right or privilege, any appearance as a witness, or
+19 any other public inquiry, a person cannot be questioned with respect to
+20 any offense for which the record is sealed. If an inquiry is made in
+21 violation of this subsection, the person may respond as if the offense
+22 never occurred.
+23 (10) (9) Any person arrested due to the error of a law enforcement
+24 agency may file a petition with the district court for an order to
+25 expunge the criminal history record information related to such error.
+26 The petition shall be filed in the district court of the county in which
+27 the petitioner was arrested. The county attorney shall be named as the
+28 respondent and shall be served with a copy of the petition. The court may
+29 grant the petition and issue an order to expunge such information if the
+30 petitioner shows by clear and convincing evidence that the arrest was due
+31 to error by the arresting law enforcement agency.
+-6-
+LB226 LB226
+2025 2025
+1 (11) (10) The changes made by Laws 2018, LB1132, and this
+2 legislative bill to the relief set forth in this section shall apply to
+3 all persons otherwise eligible in accordance with the provisions of this
+4 section, without regard to the date on which the person was whether
+5 arrested, cited in lieu of arrest, referred for prosecution without
+6 citation, charged, convicted, or adjudicated prior to, on, or subsequent
+7 to July 19, 2018.
+8 Sec. 3. Section 29-3528, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 29-3528 (1) If a state agency or political subdivision or an
+11 Whenever any officer or employee of a the state, its agencies, or its
+12 political subdivisions, or whenever any state agency or any political
+13 subdivision or its agencies fails to comply with the requirements of the
+14 Security, Privacy, and Dissemination of Criminal History Information Act
+15 sections 29-209, 29-210, 29-3501 to 29-3528, and 81-1423 or of rules and
+16 regulations lawfully adopted and promulgated under such act, such failure
+17 creates private liability on the part of such agency, political
+18 subdivision, officer, or employee. Any to implement sections 29-209,
+19 29-210, 29-3501 to 29-3528, and 81-1423, any person aggrieved by such a
+20 violation may bring an action, for appropriate relief including, but not
+21 limited to, actual damages, such preliminary and other equitable or
+22 declaratory relief as may be appropriate, or a writ of an action for
+23 mandamus. ,
+24 (2) Consent is hereby given to join the state, any agency or
+25 political subdivision of the state, and any officer or employee of the
+26 state, its agencies, or its political subdivisions as a defendant in any
+27 action under this section. Such entities, when a party to any such
+28 action, shall be deemed to have waived sovereign immunity and shall be
+29 subject to the judgments, orders, and decrees of the court.
+30 (3) An action under this section is not subject to the State Tort
+31 Claims Act or the Political Subdivisions Tort Claims Act.
+-7-
+LB226 LB226
+2025 2025
+1 (4) An action under this section shall be brought within the later
+2 of the following periods:
+3 (a) Four years after the cause of action accrued; or
+4 (b) By January 1, 2029, if the cause of action accrued on or after
+5 January 1, 2015, and is brought against a state agency or political
+6 subdivision or against an officer or employee of a state agency or
+7 political subdivision only in such officer's or employee's official
+8 capacity.
+9 (5) An to compel compliance and such action under this section may
+10 be brought in the district court of any district in which the records
+11 involved are located or in the district court of Lancaster County. The
+12 commission may request the Attorney General to bring such action.
+13 Sec. 4. Original section 29-3528, Reissue Revised Statutes of
+14 Nebraska, and section 29-3523, Revised Statutes Cumulative Supplement,
+15 2024, are repealed.
+-8-
+[DELETED: yJA B F A A r t c p t a s2Ra a e r r t c aa f c c w o t d t t p f r t p a p c oaC H I A t w s i ap0h1B6L52]
+[DELETED: S 1  ( F p o t s c wo(2(av d i s ( o t s a tu(0a p c o a c w o o a i1j2a3c d o s j c i w t m w4c5( I d w t s a t c t c6s7( T b o t m a c o s o8d9( T l t t m w n e i f0c1(2( T s b a r p t t m i3e t r u t s i t c u t4c5v o s 2 a s s e a t t t6m7(8t9w0w1( A o s a a c o a a u6L52]
+[DELETED: t s s h t s e a a o s a cS 2 S 2 R S C S22 ( A t e o t p d issaw0i1j2w3(4a5( I c a a c f o h o p6o7(8s9( I k u a t r i u f p o0s1a2o3a ( r f a a ( t n o t4d5t6( T p o c h r i d i7s8a9a0s1i t r e o s a a6L52]
+[DELETED: e(ip w c a c h r ir(tnc0(1t2r a t y f t d o a c i l o3a4(5(6n7d8d c o a o p s c a b t S9C0p1a a p t s ( o t s o2a3(4a5t6s7i r t s c o a U a f8t a c i a o s a s c o9a p t s 2 t s c s0g1(6L52]
+[DELETED: (( F a a i a o a p i s4(a p t s 1 o t a t m m f m w t s c f a o t s t c hr i r t s c o a U f t a c i a o s a s c oa0m1(2o3( F a a i a o a p i s445(6t s c f a o t s t c h r7i8f t t p r a p t c s g t9m a i a o a p i s ( ( o t0s1(2c b d p t J 1 2 a d i3s4w5o t s U a f t t c w d f a6r7g8t9( ( U a o e o a o d a c0d i s ( o t s o a g 1m u s ( ( o ( o ( o t s t6L52]
+[DELETED: c(c a p r t t c i t ath a c s d o odba(0E1(2r3( O a p n u s ( ( o4t5( I t c w t f o c t a s6n7( ( I a a f e b l8e9a0a o f w t r i s I a i i m i1v2n3(4a m f a p w t d c f a o t5e t c h r i r t s e6T7t8r9g0p1t6L52]
+[DELETED: ( ( T c m b L 2 L a tlas w r t t d o w t p w wa c i l o a r f p wctS 3 S 2 R R S o N ia02 ( I a s a o p s o a1W a o o e o a t s i a o i2p s o w a s a o a p3s4S5s6r7c p l o t p o s a p8s o o e A t i s 2920v1l t a d s p a o e o2d r a m b a o a w o a a f3m4( C i h g t j t s a a o5p6s7a u t s S e w a p t a s8a9s0(1C6L52]
+[DELETED: (o((J 1 2 a i b a a s a o ps o a a o o e o a s a op s o i s o o e oc(0b b i t d c o a d i w t r1i2c3S 4  O s 2 R R S o4N a s 2 R S C S526L52]
+
+
+================================================================================
+
+Raw Text:
+LB226 LB226
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 226
+Introduced by Juarez, 5.
+Read first time January 14, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to criminal procedure; to amend section
+2 29-3528, Reissue Revised Statutes of Nebraska, and section 29-3523,
+3 Revised Statutes Cumulative Supplement, 2024; to provide for setting
+4 aside and expunging records relating to convictions and
+5 adjudications for certain concealed weapon offenses; to define a
+6 term; to provide for retroactivity; to provide a private cause of
+7 action for violations of the Security, Privacy, and Dissemination of
+8 Criminal History Information Act; to waive sovereign immunity as
+9 prescribed; to provide a statute of limitations for such actions; to
+10 harmonize provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB226 LB226
+2025 2025
+1 Section 1. (1) For purposes of this section, concealed weapon
+2 offense means:
+3 (a) A violation of section 28-1202 as it existed before September 2,
+4 2023; or
+5 (b) Attempt, conspiracy, solicitation, being an accessory to, aiding
+6 and abetting, aiding the consummation of, or compounding a felony with a
+7 violation described in subdivision (1)(a) of this section as the
+8 underlying offense.
+9 (2) At any time following the completion of sentence or disposition,
+10 a person convicted of a concealed weapon offense or adjudicated in
+11 juvenile court for a concealed weapon offense may file a motion to set
+12 aside such conviction or adjudication. The motion shall be filed in the
+13 county, district, or separate juvenile court in which the movant was
+14 convicted or adjudicated.
+15 (3) In determining whether to set aside the conviction, the court
+16 shall consider:
+17 (a) The behavior of the movant after completion of sentencing or
+18 disposition;
+19 (b) The likelihood that the movant will not engage in further
+20 criminal activity; and
+21 (c) Any other information the court considers relevant.
+22 (4) There shall be a rebuttable presumption that the movant is
+23 entitled to relief under this section if the conduct underlying the
+24 conviction or adjudication for a concealed weapon offense would not be a
+25 violation of section 28-1202 as such section exists at the time the
+26 motion is filed.
+27 (5) The court may grant the motion and issue an order setting aside
+28 the conviction or adjudication when in the opinion of the court the order
+29 will be in the best interest of the movant and consistent with the public
+30 welfare.
+31 (6) An order setting aside a conviction or an adjudication under
+-2-
+
+LB226 LB226
+2025 2025
+1 this section shall have the same effect as an order setting aside a
+2 conviction as provided in subsections (5) and (6) of section 29-2264.
+3 Sec. 2. Section 29-3523, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 29-3523 (1) After the expiration of the periods described in
+6 subsection (3) of this section or after the granting of a motion under
+7 subsection (4), (5), or (6), or (7) of this section, a criminal justice
+8 agency shall respond to a public inquiry in the same manner as if there
+9 were no criminal history record information and criminal history record
+10 information shall not be disseminated to any person other than a criminal
+11 justice agency, except as provided in subsection (2) of this section or
+12 when the subject of the record:
+13 (a) Is currently the subject of prosecution or correctional control
+14 as the result of a separate arrest;
+15 (b) Is currently an announced candidate for or holder of public
+16 office;
+17 (c) Has made a notarized request for the release of such record to a
+18 specific person; or
+19 (d) Is kept unidentified, and the record is used for purposes of
+20 surveying or summarizing individual or collective law enforcement agency
+21 activity or practices, or the dissemination is requested consisting only
+22 of release of criminal history record information showing (i) dates of
+23 arrests, (ii) reasons for arrests, and (iii) the nature of the
+24 dispositions including, but not limited to, reasons for not prosecuting
+25 the case or cases.
+26 (2) That part of criminal history record information described in
+27 subsection (8) (7) of this section may be disseminated to individuals and
+28 agencies for the express purpose of research, evaluative, or statistical
+29 activities pursuant to an agreement with a criminal justice agency that
+30 specifically authorizes access to the information, limits the use of the
+31 information to research, evaluative, or statistical activities, and
+-3-
+
+LB226 LB226
+2025 2025
+1 ensures the confidentiality and security of the information.
+2 (3) Except as provided in subsections (1) and (2) of this section,
+3 in the case of an arrest, citation in lieu of arrest, or referral for
+4 prosecution without citation, all criminal history record information
+5 relating to the case shall be removed from the public record as follows:
+6 (a) When no charges are filed as a result of the determination of
+7 the prosecuting attorney, the criminal history record information shall
+8 not be part of the public record after one year from the date of arrest,
+9 citation in lieu of arrest, or referral for prosecution without citation;
+10 (b) When charges are not filed as a result of a completed diversion,
+11 the criminal history record information shall not be part of the public
+12 record after two years from the date of arrest, citation in lieu of
+13 arrest, or referral for prosecution without citation; and
+14 (c) When charges are filed, but the case is dismissed by the court
+15 (i) on motion of the prosecuting attorney, (ii) as a result of a hearing
+16 not the subject of a pending appeal, (iii) after acquittal, (iv) after a
+17 deferred judgment, or (v) after completion of a program prescribed by a
+18 drug court or any other problem solving court approved by the Supreme
+19 Court, the criminal history record information shall not be part of the
+20 public record immediately upon notification of a criminal justice agency
+21 after acquittal pursuant to subdivision (3)(c)(iii) of this section or
+22 after the entry of an order dismissing the case.
+23 (4) Upon the granting of a motion to set aside a conviction or an
+24 adjudication pursuant to section 29-3005, a person who is a victim of sex
+25 trafficking, as defined in section 29-3005, may file a motion with the
+26 same sentencing court for an order to seal the criminal history record
+27 information related to such conviction or adjudication. Upon a finding
+28 that a court issued an order setting aside such conviction or
+29 adjudication pursuant to section 29-3005, the sentencing court shall
+30 grant the motion and:
+31 (a) For a conviction, issue an order as provided in subsection (8)
+-4-
+
+LB226 LB226
+2025 2025
+1 (7) of this section; or
+2 (b) For an adjudication, issue an order as provided in section
+3 43-2,108.05.
+4 (5) Upon the granting of a motion to set aside a conviction or an
+5 adjudication pursuant to section 1 of this act, the movant may file a
+6 motion with the same court for an order to seal the criminal history
+7 record information related to such conviction or adjudication. Upon a
+8 finding that a court issued an order setting aside such conviction or
+9 adjudication pursuant to section 1 of this act, the court shall grant the
+10 motion and:
+11 (a) For a conviction, issue an order as provided in subsection (8)
+12 of this section; or
+13 (b) For an adjudication, issue an order as provided in section
+14 43-2,108.05.
+15 (6) (5) Any person who has received a pardon may file a motion with
+16 the sentencing court for an order to seal the criminal history record
+17 information and any cases related to such charges or conviction. Upon a
+18 finding that the person received a pardon, the court shall grant the
+19 motion and issue an order as provided in subsection (8) (7) of this
+20 section.
+21 (7) (6) Any person who is subject to a record which resulted in a
+22 case being dismissed prior to January 1, 2017, as described in
+23 subdivision (3)(c) of this section, may file a motion with the court in
+24 which the case was filed to enter an order pursuant to subsection (8) (7)
+25 of this section. Upon a finding that the case was dismissed for any
+26 reason described in subdivision (3)(c) of this section, the court shall
+27 grant the motion and enter an order as provided in subsection (8) (7) of
+28 this section.
+29 (8) (7) Upon acquittal or entry of an order dismissing a case
+30 described in subdivision (3)(c) of this section, or after granting a
+31 motion under subsection (4), (5), or (6), or (7) of this section, the
+-5-
+
+LB226 LB226
+2025 2025
+1 court shall:
+2 (a) Order that all records, including any information or other data
+3 concerning any proceedings relating to the case, including the arrest,
+4 taking into custody, petition, complaint, indictment, information, trial,
+5 hearing, adjudication, correctional supervision, dismissal, or other
+6 disposition or sentence, are not part of the public record and shall not
+7 be disseminated to persons other than criminal justice agencies, except
+8 as provided in subsection (1) or (2) of this section;
+9 (b) Send notice of the order (i) to the Nebraska Commission on Law
+10 Enforcement and Criminal Justice, (ii) to the Nebraska State Patrol, and
+11 (iii) to law enforcement agencies, county attorneys, and city attorneys
+12 referenced in the court record;
+13 (c) Order all parties notified under subdivision (8)(b) (7)(b) of
+14 this section to seal all records pertaining to the case; and
+15 (d) If the case was transferred from one court to another, send
+16 notice of the order to seal the record to the transferring court.
+17 (9) (8) In any application for employment, bonding, license,
+18 education, or other right or privilege, any appearance as a witness, or
+19 any other public inquiry, a person cannot be questioned with respect to
+20 any offense for which the record is sealed. If an inquiry is made in
+21 violation of this subsection, the person may respond as if the offense
+22 never occurred.
+23 (10) (9) Any person arrested due to the error of a law enforcement
+24 agency may file a petition with the district court for an order to
+25 expunge the criminal history record information related to such error.
+26 The petition shall be filed in the district court of the county in which
+27 the petitioner was arrested. The county attorney shall be named as the
+28 respondent and shall be served with a copy of the petition. The court may
+29 grant the petition and issue an order to expunge such information if the
+30 petitioner shows by clear and convincing evidence that the arrest was due
+31 to error by the arresting law enforcement agency.
+-6-
+
+LB226 LB226
+2025 2025
+1 (11) (10) The changes made by Laws 2018, LB1132, and this
+2 legislative bill to the relief set forth in this section shall apply to
+3 all persons otherwise eligible in accordance with the provisions of this
+4 section, without regard to the date on which the person was whether
+5 arrested, cited in lieu of arrest, referred for prosecution without
+6 citation, charged, convicted, or adjudicated prior to, on, or subsequent
+7 to July 19, 2018.
+8 Sec. 3. Section 29-3528, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 29-3528 (1) If a state agency or political subdivision or an
+11 Whenever any officer or employee of a the state, its agencies, or its
+12 political subdivisions, or whenever any state agency or any political
+13 subdivision or its agencies fails to comply with the requirements of the
+14 Security, Privacy, and Dissemination of Criminal History Information Act
+15 sections 29-209, 29-210, 29-3501 to 29-3528, and 81-1423 or of rules and
+16 regulations lawfully adopted and promulgated under such act, such failure
+17 creates private liability on the part of such agency, political
+18 subdivision, officer, or employee. Any to implement sections 29-209,
+19 29-210, 29-3501 to 29-3528, and 81-1423, any person aggrieved by such a
+20 violation may bring an action, for appropriate relief including, but not
+21 limited to, actual damages, such preliminary and other equitable or
+22 declaratory relief as may be appropriate, or a writ of an action for
+23 mandamus. ,
+24 (2) Consent is hereby given to join the state, any agency or
+25 political subdivision of the state, and any officer or employee of the
+26 state, its agencies, or its political subdivisions as a defendant in any
+27 action under this section. Such entities, when a party to any such
+28 action, shall be deemed to have waived sovereign immunity and shall be
+29 subject to the judgments, orders, and decrees of the court.
+30 (3) An action under this section is not subject to the State Tort
+31 Claims Act or the Political Subdivisions Tort Claims Act.
+-7-
+
+LB226 LB226
+2025 2025
+1 (4) An action under this section shall be brought within the later
+2 of the following periods:
+3 (a) Four years after the cause of action accrued; or
+4 (b) By January 1, 2029, if the cause of action accrued on or after
+5 January 1, 2015, and is brought against a state agency or political
+6 subdivision or against an officer or employee of a state agency or
+7 political subdivision only in such officer's or employee's official
+8 capacity.
+9 (5) An to compel compliance and such action under this section may
+10 be brought in the district court of any district in which the records
+11 involved are located or in the district court of Lancaster County. The
+12 commission may request the Attorney General to bring such action.
+13 Sec. 4. Original section 29-3528, Reissue Revised Statutes of
+14 Nebraska, and section 29-3523, Revised Statutes Cumulative Supplement,
+15 2024, are repealed.
+-8-
+
+[DELETED: yJA B F A A r t c p t a s2Ra a e r r t c aa f c c w o t d t t p f r t p a p c oaC H I A t w s i ap0h1B6L52]
+[DELETED: S 1  ( F p o t s c wo(2(av d i s ( o t s a tu(0a p c o a c w o o a i1j2a3c d o s j c i w t m w4c5( I d w t s a t c t c6s7( T b o t m a c o s o8d9( T l t t m w n e i f0c1(2( T s b a r p t t m i3e t r u t s i t c u t4c5v o s 2 a s s e a t t t6m7(8t9w0w1( A o s a a c o a a u6L52]
+[DELETED: t s s h t s e a a o s a cS 2 S 2 R S C S22 ( A t e o t p d issaw0i1j2w3(4a5( I c a a c f o h o p6o7(8s9( I k u a t r i u f p o0s1a2o3a ( r f a a ( t n o t4d5t6( T p o c h r i d i7s8a9a0s1i t r e o s a a6L52]
+[DELETED: e(ip w c a c h r ir(tnc0(1t2r a t y f t d o a c i l o3a4(5(6n7d8d c o a o p s c a b t S9C0p1a a p t s ( o t s o2a3(4a5t6s7i r t s c o a U a f8t a c i a o s a s c o9a p t s 2 t s c s0g1(6L52]
+[DELETED: (( F a a i a o a p i s4(a p t s 1 o t a t m m f m w t s c f a o t s t c hr i r t s c o a U f t a c i a o s a s c oa0m1(2o3( F a a i a o a p i s445(6t s c f a o t s t c h r7i8f t t p r a p t c s g t9m a i a o a p i s ( ( o t0s1(2c b d p t J 1 2 a d i3s4w5o t s U a f t t c w d f a6r7g8t9( ( U a o e o a o d a c0d i s ( o t s o a g 1m u s ( ( o ( o ( o t s t6L52]
+[DELETED: c(c a p r t t c i t ath a c s d o odba(0E1(2r3( O a p n u s ( ( o4t5( I t c w t f o c t a s6n7( ( I a a f e b l8e9a0a o f w t r i s I a i i m i1v2n3(4a m f a p w t d c f a o t5e t c h r i r t s e6T7t8r9g0p1t6L52]
+[DELETED: ( ( T c m b L 2 L a tlas w r t t d o w t p w wa c i l o a r f p wctS 3 S 2 R R S o N ia02 ( I a s a o p s o a1W a o o e o a t s i a o i2p s o w a s a o a p3s4S5s6r7c p l o t p o s a p8s o o e A t i s 2920v1l t a d s p a o e o2d r a m b a o a w o a a f3m4( C i h g t j t s a a o5p6s7a u t s S e w a p t a s8a9s0(1C6L52]
+[DELETED: (o((J 1 2 a i b a a s a o ps o a a o o e o a s a op s o i s o o e oc(0b b i t d c o a d i w t r1i2c3S 4  O s 2 R R S o4N a s 2 R S C S526L52]

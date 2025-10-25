@@ -1,0 +1,1165 @@
+Title: LEGISLATIVE BILL 215
+Official Title: LEGISLATIVE BILL 215
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+LB215 LB215
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Holdcroft, 36.
+Read first time January 14, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to criminal justice; to amend section
+2 83-1,135, Reissue Revised Statutes of Nebraska; to adopt the Clean
+3 Slate Act; to provide for commutations; to provide duties for the
+4 Department of Correctional Services, Board of Parole, Division of
+5 Parole Supervision, and Board of Pardons; to harmonize provisions;
+6 and to repeal the original section.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+LB215 LB215
+2025 2025
+1 Section 1. Sections 1 to 10 of this act shall be known and may be
+2 cited as the Clean Slate Act.
+3 Sec. 2. (1) The Legislature finds and declares that:
+4 (a) After individuals convicted of nonviolent or less violent crimes
+5 have served their sentences and obeyed the law long enough to demonstrate
+6 their rehabilitation, such individuals' criminal records should not stand
+7 as an impediment to the necessities of life, such as employment, housing,
+8 and education. However, criminal justice agencies need access to all
+9 criminal history record information in order to effectively carry out
+10 their duties to protect the public;
+11 (b) The state shall provide a clean slate remedy, as set forth under
+12 the Clean Slate Act, in order to:
+13 (i) Provide an incentive for offenders to remain crime-free;
+14 (ii) Provide hope to offenders who are trying to rehabilitate
+15 themselves;
+16 (iii) Save the state money that must be spent when offenders
+17 recidivate; and
+18 (iv) Ensure appropriate access to criminal history record
+19 information by criminal justice agencies and for other purposes essential
+20 to the health and safety of the public; and
+21 (c) To the extent possible, the Clean Slate Act should be
+22 implemented with low cost to the courts, criminal justice agencies, and
+23 individuals seeking relief under the act.
+24 Sec. 3. For purposes of the Clean Slate Act, the definitions found
+25 in the Security, Privacy, and Dissemination of Criminal History
+26 Information Act and sections 4 and 5 of this act apply.
+27 Sec. 4. The terms conviction and adjudication:
+28 (1) Include a conviction or adjudication following trial or entry of
+29 a guilty plea or plea of nolo contendere and include a forfeiture of
+30 bail, bond, or other security deposited to secure appearance by a person
+31 charged with an offense;
+-2-
+LB215 LB215
+2025 2025
+1 (2) When used in reference to an offense committed in another
+2 jurisdiction, include convictions and adjudications by any village, town,
+3 city, state, territory, commonwealth, or other jurisdiction of the United
+4 States, by the United States Government, or by court-martial or other
+5 military tribunal; and
+6 (3) When used in determining whether a person has been convicted of,
+7 or adjudicated for, an offense during the eligibility period described in
+8 section 6 or 7 of this act, do not include convictions or adjudications
+9 (i) pardoned, (ii) set aside under section 29-2264, or (iii) set aside,
+10 expunged, or otherwise nullified by another jurisdiction through a
+11 procedure comparable in effect to section 29-2264.
+12 Sec. 5. (1) Qualified offense means an offense under Nebraska law,
+13 an ordinance of a Nebraska city or village, or a county resolution that
+14 is:
+15 (a) A Class III, IIIA, or IV felony, including unclassified felonies
+16 under section 28-107;
+17 (b) A misdemeanor, including unclassified misdemeanors under section
+18 28-107; or
+19 (c) An infraction.
+20 (2) Qualified offense does not include any of the following
+21 offenses:
+22 (a) Illegal disclosure of juror names, section 25-1673;
+23 (b) Tampering with a jury list, section 25-1676;
+24 (c) Motor vehicle homicide, section 28-306, except for a misdemeanor
+25 violation;
+26 (d) Assault by strangulation or suffocation, section 28-310.01;
+27 (e) Criminal child enticement, section 28-311;
+28 (f) Terroristic threats, section 28-311.01;
+29 (g) Stalking, section 28-311.04, except for a misdemeanor violation;
+30 (h) A violation of section 28-311.08;
+31 (i) Violation of harassment protection order, section 28-311.09;
+-3-
+LB215 LB215
+2025 2025
+1 (j) Violation of sexual assault protection order, section 28-311.11;
+2 (k) False imprisonment in the first or second degree, section 28-314
+3 or 28-315;
+4 (l) Sexual abuse by a school employee, section 28-316.01;
+5 (m) Any sexual assault or sexual abuse offense, sections 28-317 to
+6 28-322.05;
+7 (n) Any domestic assault, section 28-323, except for a misdemeanor
+8 violation of subdivision (1)(c) of section 28-323;
+9 (o) Any violation relating to abortion, sections 28-325 to 28-345
+10 and section 28-347.04;
+11 (p) Failure to report under Adult Protective Services Act, section
+12 28-384;
+13 (q) Knowing and intentional abuse, neglect, or exploitation of a
+14 vulnerable or senior adult, section 28-386;
+15 (r) Any violation of the Homicide of the Unborn Child Act, sections
+16 28-388 to 28-394;
+17 (s) Any violation of the Assault of an Unborn Child Act, sections
+18 28-395 to 28-3,101;
+19 (t) Intentional or reckless performance of or attempt to perform an
+20 abortion in violation of the Pain-Capable Unborn Child Protection Act,
+21 section 28-3,108;
+22 (u) Prohibited acts related to methamphetamine, chemical substances,
+23 and paraphernalia, section 28-457;
+24 (v) Arson in the second or third degree, section 28-503 or 28-504;
+25 (w) Violation of Counterfeit Airbag Prevention Act, section 28-644;
+26 (x) Incest, section 28-703;
+27 (y) Child abuse, section 28-707;
+28 (z) Willful failure to report abused or neglected children, section
+29 28-717;
+30 (aa) Solicitation of prostitution, section 28-801.01, except for a
+31 misdemeanor violation;
+-4-
+LB215 LB215
+2025 2025
+1 (bb) Keeping a place of prostitution used by a person under the age
+2 of eighteen years, section 28-804;
+3 (cc) Enticement by electronic communication device, section 28-833;
+4 (dd) Resisting arrest, section 28-904, except for a misdemeanor
+5 violation;
+6 (ee) Operating a motor vehicle or vessel to avoid arrest, section
+7 28-905, except for a misdemeanor violation;
+8 (ff) Escape or permitting an escape from official detention, section
+9 28-912;
+10 (gg) Accessory to escape of juvenile from custody of Office of
+11 Juvenile Services, section 28-912.01;
+12 (hh) Introducing escape implements or contraband, section 28-913;
+13 (ii) Perjury and subornation of perjury, section 28-915;
+14 (jj) Bribery, section 28-917;
+15 (kk) Bribery of a witness or witness accepting bribe or benefit,
+16 section 28-918;
+17 (ll) Tampering with a witness or informant or jury tampering,
+18 section 28-919;
+19 (mm) Bribery of a juror or juror accepting bribe or benefit, section
+20 28-920;
+21 (nn) Tampering with physical evidence, section 28-922;
+22 (oo) Assault on an officer, an emergency responder, a state
+23 correctional employee, a Department of Health and Human Services
+24 employee, or a health care professional in the third degree, section
+25 28-931;
+26 (pp) Assault on an officer, an emergency responder, a state
+27 correctional employee, a Department of Health and Human Services
+28 employee, or a health care professional using a motor vehicle, section
+29 28-931.01;
+30 (qq) Assault by a confined person, section 28-932;
+31 (rr) Assault with a bodily fluid against a public safety officer,
+-5-
+LB215 LB215
+2025 2025
+1 28-934;
+2 (ss) Animal fighting, prohibited acts, section 28-1005;
+3 (tt) Knowing or intentional ownership or possession of animal
+4 fighting paraphernalia, section 28-1005.01;
+5 (uu) Abandonment, cruel neglect, or cruel mistreatment of an animal
+6 or harassment of a police animal, section 28-1009, except for a Class IV
+7 misdemeanor violation;
+8 (vv) Indecency with an animal, section 28-1010;
+9 (ww) Violation of court order related to felony animal abuse
+10 conviction, section 28-1019;
+11 (xx) Gambling debt collection, section 28-1105.01;
+12 (yy) Unlawful possession of a firearm by a prohibited juvenile
+13 offender, section 28-1204.05, except for a Class IV felony violation;
+14 (zz) Possession of a deadly weapon other than a firearm during
+15 commission of a felony, section 28-1205;
+16 (aaa) Carrying a firearm or destructive device during the commission
+17 of a dangerous misdemeanor, section 28-1205, except for a misdemeanor
+18 violation;
+19 (bbb) Possession of a deadly weapon other than a firearm by a
+20 prohibited person, section 28-1206;
+21 (ccc) Unlawful possession of explosive materials in the first
+22 degree, section 28-1215;
+23 (ddd) Unlawful sale of explosives, section 28-1217;
+24 (eee) Obtaining an explosives permit through false representations,
+25 section 28-1219;
+26 (fff) Possession of a destructive device, section 28-1220;
+27 (ggg) Threatening the use of explosives or placing a false bomb,
+28 section 28-1221;
+29 (hhh) Using explosives to damage or destroy property, section
+30 28-1223;
+31 (iii) Concealment of death to prevent determination of cause or
+-6-
+LB215 LB215
+2025 2025
+1 circumstances of death, section 28-1302;
+2 (jjj) Unauthorized computer access creating grave risk of death,
+3 section 28-1343.01;
+4 (kkk) Operation of aircraft while under the influence of alcohol or
+5 drugs, third or subsequent offense, section 28-1469;
+6 (lll) Violation of the Sex Offender Registration Act, section
+7 29-4011;
+8 (mmm) Placing burning materials or items likely to cause injury on
+9 highways, third or subsequent offense, section 39-311;
+10 (nnn) Violation of domestic abuse protection order, section 42-924;
+11 (ooo) Knowingly and intentionally dispensing alcohol in any manner
+12 to minors or incompetents resulting in serious bodily injury or death
+13 caused by the minors' consumption or impaired condition, section
+14 53-180.05;
+15 (ppp) Owner of a dangerous dog which inflicts serious bodily injury,
+16 second or subsequent offense, section 54-622.01;
+17 (qqq) Violation of prohibitions relating to dangerous dogs, section
+18 54-623;
+19 (rrr) Abandonment, cruel neglect, or cruel mistreatment of a
+20 livestock animal, section 54-903, except for a misdemeanor violation;
+21 (sss) Violation of court order not to own or possess a livestock
+22 animal, section 54-909;
+23 (ttt) Driving under the influence with a prior felony conviction for
+24 driving under the influence, section 60-6,196.01;
+25 (uuu) Any offense punishable under section 60-6,197.03, except for a
+26 Class W misdemeanor;
+27 (vvv) Causing serious bodily injury to another person or an unborn
+28 child while driving under the influence, section 60-6,198;
+29 (www) Prohibited acts relating to ignition interlock device, section
+30 60-6,211.11;
+31 (xxx) Violations regarding children in foster care, section 71-1905;
+-7-
+LB215 LB215
+2025 2025
+1 (yyy) Violation of Children's Residential Facilities and Placing
+2 Licensure Act, section 71-1950;
+3 (zzz) Threatening or attempting to influence a member or an employee
+4 of the Board of Parole, section 83-198;
+5 (aaaa) Operation of a motor vehicle while under the influence with
+6 disabled, bypassed, or altered ignition interlock device or without an
+7 ignition interlock device or permit in violation of Board of Pardons
+8 order, section 83-1,127.02; and
+9 (bbbb) Threatening or attempting to influence a member of the Board
+10 of Pardons, section 83-1,133;
+11 (3) Qualified offense does not include any offense for which:
+12 (a) Registration is required under the Sex Offender Registration
+13 Act;
+14 (b) Relief has already been provided under section 29-3523 or
+15 sections 43-2,108.01 to 43-2,108.05; or
+16 (c) The penalty has been enhanced under section 29-2221.
+17 (4) Qualified offense does not include any other offense involving
+18 as an element of the offense:
+19 (a) Sexual contact or sexual penetration, as those terms are defined
+20 in section 28-318; or
+21 (b) The infliction of serious bodily injury, as defined in section
+22 28-109, or death.
+23 (5) Qualified offense does not include:
+24 (a) Attempt, under section 28-201, to commit any offense excluded
+25 from the definition of a qualified offense under this section;
+26 (b) Attempt, under section 28-201, to commit any offense when such
+27 attempt is punishable as a Class IIIA felony or higher;
+28 (c) Conspiracy, under section 28-202, to commit any offense excluded
+29 from the definition of a qualified offense under this section;
+30 (d) Accessory to felony, under section 28-204, except for accessory
+31 violations punishable as a Class IV felony or a misdemeanor;
+-8-
+LB215 LB215
+2025 2025
+1 (e) Aiding consummation of felony, under section 28-205, for any
+2 felony excluded from the definition of a qualified offense under this
+3 section; and
+4 (f) Aiding or abetting commission of an offense, under section
+5 28-206, for any offense excluded from the definition of a qualified
+6 offense under this section.
+7 Sec. 6. (1) Beginning January 1, 2026, a person shall automatically
+8 be eligible for clean slate relief under section 8 of this act for a
+9 qualified offense that is a misdemeanor if:
+10 (a) The qualified offense was committed on or after January 1, 2021;
+11 (b) Such person has not been convicted of, or adjudicated for, a
+12 misdemeanor or felony anywhere in the United States during the
+13 eligibility period described in subsection (3) of this section; and
+14 (c) Such person has paid all court-ordered financial obligations
+15 related to such qualified offense.
+16 (2) Eligibility for relief under this section shall be determined
+17 internally and administratively by the State Court Administrator and does
+18 not require involvement by the person in interest.
+19 (3) The eligibility period for qualified offenses under this section
+20 shall be:
+21 (a) For conviction of a qualified offense that is a Class I or II
+22 misdemeanor, ten years following the date of conviction;
+23 (b) For an adjudication for a qualified offense that is a Class I or
+24 II misdemeanor, seven years following the date of conviction; or
+25 (c) For a conviction of, or adjudication for, a qualified offense
+26 that is a Class III or lower misdemeanor, five years following the date
+27 of conviction or adjudication.
+28 (4) No later than thirty days following expiration of the
+29 eligibility period under subsection (3) of this section, the State Court
+30 Administrator shall determine if a person convicted of, or adjudicated
+31 for, a qualified offense described in subsection (1) of this section is
+-9-
+LB215 LB215
+2025 2025
+1 eligible for clean slate relief under this section. If the State Court
+2 Administrator determines that a person is eligible, the State Court
+3 Administrator shall, within such same thirty-day period, notify the court
+4 of conviction or adjudication of such determination.
+5 (5) Each court of conviction or adjudication shall, on a monthly
+6 basis, issue orders for clean slate relief under section 8 of this act
+7 for each person for whom the court received a notification under
+8 subsection (4) of this section.
+9 (6) The State Court Administrator is not required to proceed under
+10 subsection (4) of this section if the State Court Administrator
+11 determines that the person in interest is deceased.
+12 Sec. 7. (1) A person convicted of, or adjudicated for, a qualified
+13 offense may petition the court for clean slate relief under section 8 of
+14 this act if:
+15 (a) Such person has not been convicted of, or adjudicated for, a
+16 misdemeanor or felony anywhere in the United States during the
+17 eligibility period described in subsection (3) of this section; and
+18 (b) Such person has paid all court-ordered financial obligations
+19 related to such qualified offense.
+20 (2) This section applies to qualified offenses committed before, on,
+21 or after the effective date of this act.
+22 (3) The eligibility period for qualified offenses under this section
+23 shall be:
+24 (a) For conviction of a qualified offense that is a Class III or
+25 lower felony or a Class I or II misdemeanor, ten years following the date
+26 of conviction;
+27 (b) For an adjudication for a qualified offense that is a Class III
+28 or lower felony or a Class I or II misdemeanor, seven years following the
+29 date of conviction; or
+30 (c) For a conviction of, or adjudication for, a qualified offense
+31 that is a Class III or lower misdemeanor or an infraction, five years
+-10-
+LB215 LB215
+2025 2025
+1 following the date of conviction or adjudication.
+2 (4) The petition shall be filed in the court of conviction or
+3 adjudication. There shall be no filing or docketing fee charged by the
+4 court for the filing of a petition except for the fee authorized by this
+5 subsection. The court may charge a filing fee in an amount set by the
+6 State Court Administrator. The fee shall be set at an amount to recoup
+7 the costs associated with administering the Clean Slate Act, but shall
+8 not exceed forty dollars.
+9 (5) The court shall provide notice of the filing of the petition to
+10 the appropriate county attorney or city attorney within ten days. The
+11 county attorney or city attorney shall provide notice to any victim of
+12 the offense of the request and provide an opportunity for the victim to
+13 provide the attorney with a statement for consideration by the court.
+14 Within thirty days after receipt of notice, the county attorney or city
+15 attorney may file objections to the petition and shall file any victim
+16 statements. If no objection is timely filed, the court may grant the
+17 petition without further hearing if the requirements of this section have
+18 been met.
+19 (6) If the court determines that the person in interest meets the
+20 eligibility requirements, and the qualified offense:
+21 (a) Is a felony, the court may grant the petition; or
+22 (b) Is a misdemeanor or infraction, the court shall grant the
+23 petition.
+24 (7) The court may grant a petition for a felony if the court finds
+25 that doing so will be in the best interest of the petitioner and
+26 consistent with the public welfare.
+27 (8) Upon granting a petition under this section, the court shall
+28 issue an order for clean slate relief under section 8 of this act.
+29 (9) An order granting or denying a petition under this section is a
+30 final, appealable order for purposes of section 25-1902.
+31 Sec. 8. (1) Following entry of a court order granting a person
+-11-
+LB215 LB215
+2025 2025
+1 clean slate relief under sections 6 or 7 of this act, a criminal justice
+2 agency shall respond to a public inquiry in the same manner as if there
+3 were no criminal history record information and criminal history record
+4 information shall not be disseminated to any person other than a criminal
+5 justice agency, except as provided in subsections (4) and (5) of this
+6 section.
+7 (2) In issuing an order for clean slate relief, the court shall:
+8 (a) Order that all records, including any information or other data
+9 concerning any proceedings relating to the case, including the arrest,
+10 taking into custody, petition, complaint, indictment, information, trial,
+11 hearing, adjudication, correctional supervision, dismissal, or other
+12 disposition or sentence, are not part of the public record and shall not
+13 be disseminated to persons other than criminal justice agencies, except
+14 as provided in subsection (4) of this section;
+15 (b) Send notice of the order to (i) the Nebraska Commission on Law
+16 Enforcement and Criminal Justice, (ii) the Nebraska State Patrol, and
+17 (iii) law enforcement agencies, county attorneys, and city attorneys
+18 referenced in the court record;
+19 (c) If the order relates to an adjudication, send notice of the
+20 order to (i) the Department of Motor Vehicles, if the adjudication
+21 included impoundment or prohibition to obtain a license or permit
+22 pursuant to section 43-287, and (ii) the Department of Health and Human
+23 Services, if the person in interest was a ward of the state at the time
+24 the proceeding was initiated or if the department was a party in the
+25 proceeding;
+26 (d) Order all parties notified under subdivisions (2)(b) and (c) of
+27 this section to seal all records pertaining to the case; and
+28 (e) If the case was transferred from one court to another, send
+29 notice of the order to seal the record to the transferring court.
+30 (3) In any application for employment, bonding, license, education,
+31 or other right or privilege, any appearance as a witness, or any other
+-12-
+LB215 LB215
+2025 2025
+1 public inquiry, a person shall not be questioned with respect to any
+2 offense for which the record is sealed. If an inquiry is made in
+3 violation of this subsection, the person may respond as if the offense
+4 never occurred.
+5 (4) A criminal justice agency may, with respect to criminal history
+6 record information sealed under this section, disclose, disseminate,
+7 respond to inquiries regarding, or allow inspection of such criminal
+8 history record information:
+9 (a) If the person in interest has made a notarized request for the
+10 release of information, to the extent authorized in such release;
+11 (b) If the person in interest is currently the subject of
+12 prosecution or correctional control as the result of a separate arrest;
+13 (c) If the person in interest is currently an announced candidate
+14 for or holder of public office;
+15 (d) If the criminal history record information is kept unidentified,
+16 and the record is used for purposes of surveying or summarizing
+17 individual or collective law enforcement agency activity or practices, or
+18 the dissemination is requested consisting only of release of criminal
+19 history record information showing (i) dates of arrests, (ii) reasons for
+20 arrests, and (iii) the nature of the dispositions, including, but not
+21 limited to, reasons for not prosecuting the case or cases;
+22 (e) To individuals and agencies for the express purpose of research,
+23 evaluative, or statistical activities pursuant to an agreement with a
+24 criminal justice agency that specifically authorizes access to the
+25 information, limits the use of the information to research, evaluative,
+26 or statistical activities, and ensures the confidentiality and security
+27 of the information; and
+28 (f) In response to an inquiry for employment, security, or other
+29 purposes to the extent disclosure of such criminal history record
+30 information is required by:
+31 (i) Federal law, including rules and regulations and rules and
+-13-
+LB215 LB215
+2025 2025
+1 regulations promulgated by a self-regulatory organization created under
+2 federal law; or
+3 (ii) State law, including rules or regulations, relating to
+4 operation of a motor vehicle or caring for or interacting with children,
+5 including, but not limited to, determining whether an application filed
+6 or a license issued under sections 71-1901 to 71-1906.01, the Child Care
+7 Licensing Act, or the Children's Residential Facilities and Placing
+8 Licensure Act or a certificate issued under sections 79-806 to 79-815
+9 should be denied, suspended, or revoked.
+10 (5) In addition to disclosures authorized under subsection (4) of
+11 this section, inspection of criminal history record information relating
+12 to an adjudication that has been sealed under this section may be made by
+13 the persons and for the purposes authorized in section 43-2,108.05.
+14 Sec. 9. (1) Upon petition of the county attorney or city attorney,
+15 and with notice to the person in interest and opportunity to be heard,
+16 the court shall vacate an order for clean slate relief issued pursuant to
+17 section 6 of this act if the court determines that the order was
+18 erroneously entered and not in accordance with section 6 of this act.
+19 (2)(a) Upon conviction of, or adjudication for, a felony or
+20 misdemeanor, the county attorney or city attorney may file a motion
+21 requesting the court to enter an order vacating a prior order for clean
+22 slate relief issued pursuant to section 6 or 7 of this act.
+23 (b) The court shall grant such motion if the new conviction is for:
+24 (i) A felony; or
+25 (ii) A misdemeanor that is not a qualified offense.
+26 (c) The court may grant such motion if the new conviction is for a
+27 misdemeanor that is a qualified offense.
+28 (3) Upon entry of an order under subsection (1) or (2) of this
+29 section, the court shall send notice of such order as provided in
+30 subsection (2) of section 8 of this act.
+31 Sec. 10. The State Court Administrator may adopt and promulgate
+-14-
+LB215 LB215
+2025 2025
+1 rules and regulations as necessary to carry out the Clean Slate Act.
+2 Sec. 11. (1)(a) The Legislature finds that individuals serving
+3 long-term or life sentences who are rehabilitated and ready to be safely
+4 released from incarceration should be able to earn a second chance by
+5 receiving a commutation of their sentences from the Board of Pardons.
+6 Such commutation is intended to allow such rehabilitated individuals to
+7 be responsibly reintegrated into their communities while on parole and,
+8 if successful on parole, as fully free individuals.
+9 (b) Second chance relief is a program through which the department,
+10 the Division of Parole Supervision, and the Board of Parole identify
+11 eligible committed offenders and work with them to apply for a
+12 commutation from the Board of Pardons.
+13 (2) The department, the Division of Parole Supervision, and the
+14 Board of Parole shall establish a program to provide recommendations for
+15 second chance relief as provided in this section.
+16 (3) A committed offender serving a sentence of imprisonment,
+17 including life imprisonment, is eligible for second chance relief under
+18 this section as follows:
+19 (a) For an offense committed when the offender was younger than
+20 twenty-six years of age, after serving at least twenty-five years of a
+21 sentence of imprisonment; or
+22 (b) For an offense committed when the offender was twenty-six years
+23 of age or older, after serving at least thirty years of a sentence of
+24 imprisonment.
+25 (4) The department shall regularly identify committed offenders who
+26 are eligible under this section or who will become eligible within five
+27 years. The department shall regularly provide lists of such offenders to
+28 the Board of Parole. The board shall advise such offenders regarding the
+29 second chance relief program and work with interested offenders to
+30 improve their chances of obtaining second chance relief through
+31 rehabilitation and good behavior.
+-15-
+LB215 LB215
+2025 2025
+1 (5) In determining whether an eligible committed offender is
+2 rehabilitated and a good candidate for second chance relief, the Board of
+3 Parole shall:
+4 (a) Complete a risk assessment for the committed offender; and
+5 (b) Involve community leaders and stakeholders in the review process
+6 to ensure that public safety and community concerns are addressed.
+7 (6) If the Board of Parole determines that an eligible committed
+8 offender is rehabilitated and a good candidate for second chance relief,
+9 the board shall make a recommendation to the Board of Pardons that such
+10 offender's sentence be commuted.
+11 (7)(a) If the Board of Pardons receives a recommendation for second
+12 chance relief from the Board of Parole, the Board of Pardons shall
+13 promptly consider whether to grant a commutation of some or all of the
+14 remainder of a committed offender's sentence to a term of parole. Such
+15 term shall not extend longer than the remainder of the term of
+16 imprisonment.
+17 (b) If the Board of Pardons determines not to grant a commutation,
+18 the board shall provide the committed offender with a list of steps or
+19 requirements that the committed offender must satisfy to increase the
+20 chances the committed offender will be granted a commutation at a
+21 subsequent review. The Board of Pardons shall also provide a process for
+22 seeking a subsequent commutation review. Upon completion of such steps or
+23 requirements, the committed offender may petition the Board of Pardons to
+24 grant a commutation. The Board of Pardons shall review a petition for
+25 subsequent review and make a determination within thirty days after
+26 receipt of such petition.
+27 (8) If a committed offender is granted a commutation and paroled
+28 under this section, the Board of Parole shall:
+29 (a) Develop a detailed reentry plan tailored to the committed
+30 offender's needs, including job placement, housing support, and access to
+31 continuing education and mental health services;
+-16-
+LB215 LB215
+2025 2025
+1 (b) Provide the committed offender with access to mentorship
+2 programs and community support networks to facilitate successful
+3 reintegration into the community;
+4 (c) Provide for victim and community involvement through restorative
+5 justice programs. The Board of Parole shall offer restorative justice
+6 opportunities, when appropriate, to allow the committed offender to make
+7 amends with victims and the community; and
+8 (d) Provide for accountability and monitoring by requiring regular
+9 check-ins with parole officers and continuous monitoring during the
+10 initial phase of reentry to ensure compliance with conditions of parole.
+11 (9) The Board of Parole shall implement a system for ongoing
+12 evaluation and adjustment of the second chance relief program based on
+13 outcomes and feedback.
+14 Sec. 12. Section 83-1,135, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 83-1,135 Sections 83-170 to 83-1,135.05 and section 11 of this act
+17 shall be known and may be cited as the Nebraska Treatment and Corrections
+18 Act.
+19 Sec. 13. Original section 83-1,135, Reissue Revised Statutes of
+20 Nebraska, is repealed.
+-17-
+[DELETED: yHA B F A A r t c j t a s8S A t p f c t p d f tD o C S B o P D oPaB5L52]
+[DELETED: ScS(htaa e H c j a n a t ac h r i i o t e c o0t1(2t3(4( P h t o w a t t r5t6( S t s m t m b s w o7r8( E a a t c h r9i0t1( T t e p t C S A s b2i3i4S5i t S P a D o C H6I7S8(9a g p o p o n c a i a f o0b1c5L52]
+[DELETED: ( W u i r t a o c i ajcS b t U S G o b c o om(os(0e o o n b a j t 1p2S3a4i5(6u7(829(0( Q o d n i a o t f1o2(3(4(5v6(7(8(9(0(1(5L52]
+[DELETED: ((o((2(v( A v r t a s 2 t 20a1(223( K a i a n o e o 4v5(627(829(0a i v o t P U C P A1s2(3a4(5(6(7(8(920(1m5L52]
+[DELETED: (o(( R a s 2 e f a mv( O a m v o v t a a s2(20( A t e o j f c o O o1J2(3(4(5( B o a w o w a b o b6s7( T w a w o i o j t8s9(021(2( A o a o a e r a s3c e a D o H a H S4e o a h c p i t t d s526( A o a o a e r a s7c e a D o H a H S8e920(1( A w a b f a a p s o5L52]
+[DELETED: 2(( K o i o o p o af(om(( V o c o r t f a a0c1(2( U p o a f b a p j3o4( P o a d w o t a f d5c6(7o a d m s 2 e f a m8v9( P o a d w o t a f b 0p1( U p o e m i t f2d3(4(5s6(7( T t u o e o p a f b8s9( U e t d o d p s021( C o d t p d o c o5L52]
+[DELETED: c( U c a c g r o ds(d( V o t S O R A s2(h0(1(2t m o i r i s b i o d3c b t m c o i c s455(6s7(859( A c n o c m o 0l1( V o c o n t o o p a l2a3(4d5(6C7(8c9(061(5L52]
+[DELETED: ( V o C R F a PL(o(d b o a i i d o w ai i d o p i v o B o Po(0o1(2( R i r u t S O R3A4( R h a b p u s 2 o5s6(7(8a9(0i1(223(4( A u s 2 t c a o e5f6(7a8(9f0(1v5L52]
+[DELETED: ( A c o f u s 2 f af e f t d o a q o u ts( A o a c o a o u s2 f a o e f t d o a qoSb e f c s r u s 8 o t a f q0(1( S p h n b c o o a f 2m o f a i t U S d t3e4( S p h p a c f o5r6( E f r u t s s b d7i8n9(0s1(2m3(4I5( F a c o o a f a q o6t7o8( N l t t d f e o t9e0A s d i a p c o o a1f5L52]
+[DELETED: eA d t a p i e t S CAo( E c o c o a s o a mbf e p f w t c r a n us(0s ( o t s i t S C A1d2S3o4t5( S p h n b c o o a f 6m o f a i t U S d t7e8( S p h p a c f o9r0(1o2(3s4( F c o a q o t i a C I o5l6o7(8o9d0( F a c o o a f a q o1t i a C I o l m o a i f y5L52]
+[DELETED: f( T p s b f i t c o c oacsStn(0t a c a o c a w t d T1c2t3p t a w a s f c b t c4W5a6s I n o i t f t c m g t7p8b9(0e1(2( I a m o i t c s g t3p4(5t d s w b i t b i o t p a6c7( U g a p u t s t c s8i9(0f1S 8  ( F e o a c o g a p5L52]
+[DELETED: cawij a e a p i s ( a ( o ts((c a p r t t c i t a0t1h a c s d o o2d3b4a5(6E a C J ( t N S P a7( l e a c a a c a8r9( I t o r t a a s n o t0o t ( t D o M V i t a1i i o p t o a l o p2p3S4t p w i o i t d w a p i t5p6(7t8( I t c w t f o c t a s9n0(1o5L52]
+[DELETED: p i a p s n b q w r t ao f w t r i s I a i i m ivn(r i s u t s d dr t i r o a i o s ch(0r1( I t p i i i c t s o2p3( I t p i i i c a a c4f5(6a t r i u f p o s o s7i8t d i r c o o r o c9h0a a ( t n o t d i b n1l2(3e o s a p t a a w 4c j a t s a a t t5i6o7o8( I r t a i f e s o o9p t t e d o s c h r0i1( F l i r a r a r a5L52]
+[DELETED: rf( S l i r o r r toioL A o t C R F a PL A o a c i u s 7 t 7s0( I a t d a u s ( o1t2t3t4S5a6t7s 6 o t a i t c d t t o w8e9( U c o o a f a f o0m t c a o c a m f a m1r2s3(4(5(6(7m8( U e o a o u s ( o ( o t9s t c s s n o s o a p i0s1S 1  T S C A m a a p5L52]
+[DELETED: rS 1  ( T L f t i slr f i s b a t e a s c br a c o t s f t B o PSbi(0t D o P S a t B o P i1e c o a w w t t a f 2c3( T d t D o P S a t4B5s6( A c o s a s o i7i8t9( F a o c w t o w y t0t1s2(3o4i5(6a7y8t9s c r p a w w i o t0i t c o o s c r t1r5L52]
+[DELETED: ( I d w a e c o irP((t( I t B o P d t a e cot0o1(2c r f t B o P t B o P s3p4r5t s n e l t t r o t t o6i7(8t9r t t c o m s t i t0c t c o w b g a c a 1s2s3r4g a c T B o P s r a p f5s r a m a d w t d a6r7( I a c o i g a c a p8u9( D a d r p t t t c0o1c5L52]
+[DELETED: ( P t c o w a t mp a c s n t f sr(j p T B o P s o r joa(c w p o a c m d t0i1( T B o P s i a s f o2e3o4S5a687s8A9S 1  O s 8 R R S o0N5L52]
+
+
+================================================================================
+
+Raw Text:
+LB215 LB215
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 215
+Introduced by Holdcroft, 36.
+Read first time January 14, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to criminal justice; to amend section
+2 83-1,135, Reissue Revised Statutes of Nebraska; to adopt the Clean
+3 Slate Act; to provide for commutations; to provide duties for the
+4 Department of Correctional Services, Board of Parole, Division of
+5 Parole Supervision, and Board of Pardons; to harmonize provisions;
+6 and to repeal the original section.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB215 LB215
+2025 2025
+1 Section 1. Sections 1 to 10 of this act shall be known and may be
+2 cited as the Clean Slate Act.
+3 Sec. 2. (1) The Legislature finds and declares that:
+4 (a) After individuals convicted of nonviolent or less violent crimes
+5 have served their sentences and obeyed the law long enough to demonstrate
+6 their rehabilitation, such individuals' criminal records should not stand
+7 as an impediment to the necessities of life, such as employment, housing,
+8 and education. However, criminal justice agencies need access to all
+9 criminal history record information in order to effectively carry out
+10 their duties to protect the public;
+11 (b) The state shall provide a clean slate remedy, as set forth under
+12 the Clean Slate Act, in order to:
+13 (i) Provide an incentive for offenders to remain crime-free;
+14 (ii) Provide hope to offenders who are trying to rehabilitate
+15 themselves;
+16 (iii) Save the state money that must be spent when offenders
+17 recidivate; and
+18 (iv) Ensure appropriate access to criminal history record
+19 information by criminal justice agencies and for other purposes essential
+20 to the health and safety of the public; and
+21 (c) To the extent possible, the Clean Slate Act should be
+22 implemented with low cost to the courts, criminal justice agencies, and
+23 individuals seeking relief under the act.
+24 Sec. 3. For purposes of the Clean Slate Act, the definitions found
+25 in the Security, Privacy, and Dissemination of Criminal History
+26 Information Act and sections 4 and 5 of this act apply.
+27 Sec. 4. The terms conviction and adjudication:
+28 (1) Include a conviction or adjudication following trial or entry of
+29 a guilty plea or plea of nolo contendere and include a forfeiture of
+30 bail, bond, or other security deposited to secure appearance by a person
+31 charged with an offense;
+-2-
+
+LB215 LB215
+2025 2025
+1 (2) When used in reference to an offense committed in another
+2 jurisdiction, include convictions and adjudications by any village, town,
+3 city, state, territory, commonwealth, or other jurisdiction of the United
+4 States, by the United States Government, or by court-martial or other
+5 military tribunal; and
+6 (3) When used in determining whether a person has been convicted of,
+7 or adjudicated for, an offense during the eligibility period described in
+8 section 6 or 7 of this act, do not include convictions or adjudications
+9 (i) pardoned, (ii) set aside under section 29-2264, or (iii) set aside,
+10 expunged, or otherwise nullified by another jurisdiction through a
+11 procedure comparable in effect to section 29-2264.
+12 Sec. 5. (1) Qualified offense means an offense under Nebraska law,
+13 an ordinance of a Nebraska city or village, or a county resolution that
+14 is:
+15 (a) A Class III, IIIA, or IV felony, including unclassified felonies
+16 under section 28-107;
+17 (b) A misdemeanor, including unclassified misdemeanors under section
+18 28-107; or
+19 (c) An infraction.
+20 (2) Qualified offense does not include any of the following
+21 offenses:
+22 (a) Illegal disclosure of juror names, section 25-1673;
+23 (b) Tampering with a jury list, section 25-1676;
+24 (c) Motor vehicle homicide, section 28-306, except for a misdemeanor
+25 violation;
+26 (d) Assault by strangulation or suffocation, section 28-310.01;
+27 (e) Criminal child enticement, section 28-311;
+28 (f) Terroristic threats, section 28-311.01;
+29 (g) Stalking, section 28-311.04, except for a misdemeanor violation;
+30 (h) A violation of section 28-311.08;
+31 (i) Violation of harassment protection order, section 28-311.09;
+-3-
+
+LB215 LB215
+2025 2025
+1 (j) Violation of sexual assault protection order, section 28-311.11;
+2 (k) False imprisonment in the first or second degree, section 28-314
+3 or 28-315;
+4 (l) Sexual abuse by a school employee, section 28-316.01;
+5 (m) Any sexual assault or sexual abuse offense, sections 28-317 to
+6 28-322.05;
+7 (n) Any domestic assault, section 28-323, except for a misdemeanor
+8 violation of subdivision (1)(c) of section 28-323;
+9 (o) Any violation relating to abortion, sections 28-325 to 28-345
+10 and section 28-347.04;
+11 (p) Failure to report under Adult Protective Services Act, section
+12 28-384;
+13 (q) Knowing and intentional abuse, neglect, or exploitation of a
+14 vulnerable or senior adult, section 28-386;
+15 (r) Any violation of the Homicide of the Unborn Child Act, sections
+16 28-388 to 28-394;
+17 (s) Any violation of the Assault of an Unborn Child Act, sections
+18 28-395 to 28-3,101;
+19 (t) Intentional or reckless performance of or attempt to perform an
+20 abortion in violation of the Pain-Capable Unborn Child Protection Act,
+21 section 28-3,108;
+22 (u) Prohibited acts related to methamphetamine, chemical substances,
+23 and paraphernalia, section 28-457;
+24 (v) Arson in the second or third degree, section 28-503 or 28-504;
+25 (w) Violation of Counterfeit Airbag Prevention Act, section 28-644;
+26 (x) Incest, section 28-703;
+27 (y) Child abuse, section 28-707;
+28 (z) Willful failure to report abused or neglected children, section
+29 28-717;
+30 (aa) Solicitation of prostitution, section 28-801.01, except for a
+31 misdemeanor violation;
+-4-
+
+LB215 LB215
+2025 2025
+1 (bb) Keeping a place of prostitution used by a person under the age
+2 of eighteen years, section 28-804;
+3 (cc) Enticement by electronic communication device, section 28-833;
+4 (dd) Resisting arrest, section 28-904, except for a misdemeanor
+5 violation;
+6 (ee) Operating a motor vehicle or vessel to avoid arrest, section
+7 28-905, except for a misdemeanor violation;
+8 (ff) Escape or permitting an escape from official detention, section
+9 28-912;
+10 (gg) Accessory to escape of juvenile from custody of Office of
+11 Juvenile Services, section 28-912.01;
+12 (hh) Introducing escape implements or contraband, section 28-913;
+13 (ii) Perjury and subornation of perjury, section 28-915;
+14 (jj) Bribery, section 28-917;
+15 (kk) Bribery of a witness or witness accepting bribe or benefit,
+16 section 28-918;
+17 (ll) Tampering with a witness or informant or jury tampering,
+18 section 28-919;
+19 (mm) Bribery of a juror or juror accepting bribe or benefit, section
+20 28-920;
+21 (nn) Tampering with physical evidence, section 28-922;
+22 (oo) Assault on an officer, an emergency responder, a state
+23 correctional employee, a Department of Health and Human Services
+24 employee, or a health care professional in the third degree, section
+25 28-931;
+26 (pp) Assault on an officer, an emergency responder, a state
+27 correctional employee, a Department of Health and Human Services
+28 employee, or a health care professional using a motor vehicle, section
+29 28-931.01;
+30 (qq) Assault by a confined person, section 28-932;
+31 (rr) Assault with a bodily fluid against a public safety officer,
+-5-
+
+LB215 LB215
+2025 2025
+1 28-934;
+2 (ss) Animal fighting, prohibited acts, section 28-1005;
+3 (tt) Knowing or intentional ownership or possession of animal
+4 fighting paraphernalia, section 28-1005.01;
+5 (uu) Abandonment, cruel neglect, or cruel mistreatment of an animal
+6 or harassment of a police animal, section 28-1009, except for a Class IV
+7 misdemeanor violation;
+8 (vv) Indecency with an animal, section 28-1010;
+9 (ww) Violation of court order related to felony animal abuse
+10 conviction, section 28-1019;
+11 (xx) Gambling debt collection, section 28-1105.01;
+12 (yy) Unlawful possession of a firearm by a prohibited juvenile
+13 offender, section 28-1204.05, except for a Class IV felony violation;
+14 (zz) Possession of a deadly weapon other than a firearm during
+15 commission of a felony, section 28-1205;
+16 (aaa) Carrying a firearm or destructive device during the commission
+17 of a dangerous misdemeanor, section 28-1205, except for a misdemeanor
+18 violation;
+19 (bbb) Possession of a deadly weapon other than a firearm by a
+20 prohibited person, section 28-1206;
+21 (ccc) Unlawful possession of explosive materials in the first
+22 degree, section 28-1215;
+23 (ddd) Unlawful sale of explosives, section 28-1217;
+24 (eee) Obtaining an explosives permit through false representations,
+25 section 28-1219;
+26 (fff) Possession of a destructive device, section 28-1220;
+27 (ggg) Threatening the use of explosives or placing a false bomb,
+28 section 28-1221;
+29 (hhh) Using explosives to damage or destroy property, section
+30 28-1223;
+31 (iii) Concealment of death to prevent determination of cause or
+-6-
+
+LB215 LB215
+2025 2025
+1 circumstances of death, section 28-1302;
+2 (jjj) Unauthorized computer access creating grave risk of death,
+3 section 28-1343.01;
+4 (kkk) Operation of aircraft while under the influence of alcohol or
+5 drugs, third or subsequent offense, section 28-1469;
+6 (lll) Violation of the Sex Offender Registration Act, section
+7 29-4011;
+8 (mmm) Placing burning materials or items likely to cause injury on
+9 highways, third or subsequent offense, section 39-311;
+10 (nnn) Violation of domestic abuse protection order, section 42-924;
+11 (ooo) Knowingly and intentionally dispensing alcohol in any manner
+12 to minors or incompetents resulting in serious bodily injury or death
+13 caused by the minors' consumption or impaired condition, section
+14 53-180.05;
+15 (ppp) Owner of a dangerous dog which inflicts serious bodily injury,
+16 second or subsequent offense, section 54-622.01;
+17 (qqq) Violation of prohibitions relating to dangerous dogs, section
+18 54-623;
+19 (rrr) Abandonment, cruel neglect, or cruel mistreatment of a
+20 livestock animal, section 54-903, except for a misdemeanor violation;
+21 (sss) Violation of court order not to own or possess a livestock
+22 animal, section 54-909;
+23 (ttt) Driving under the influence with a prior felony conviction for
+24 driving under the influence, section 60-6,196.01;
+25 (uuu) Any offense punishable under section 60-6,197.03, except for a
+26 Class W misdemeanor;
+27 (vvv) Causing serious bodily injury to another person or an unborn
+28 child while driving under the influence, section 60-6,198;
+29 (www) Prohibited acts relating to ignition interlock device, section
+30 60-6,211.11;
+31 (xxx) Violations regarding children in foster care, section 71-1905;
+-7-
+
+LB215 LB215
+2025 2025
+1 (yyy) Violation of Children's Residential Facilities and Placing
+2 Licensure Act, section 71-1950;
+3 (zzz) Threatening or attempting to influence a member or an employee
+4 of the Board of Parole, section 83-198;
+5 (aaaa) Operation of a motor vehicle while under the influence with
+6 disabled, bypassed, or altered ignition interlock device or without an
+7 ignition interlock device or permit in violation of Board of Pardons
+8 order, section 83-1,127.02; and
+9 (bbbb) Threatening or attempting to influence a member of the Board
+10 of Pardons, section 83-1,133;
+11 (3) Qualified offense does not include any offense for which:
+12 (a) Registration is required under the Sex Offender Registration
+13 Act;
+14 (b) Relief has already been provided under section 29-3523 or
+15 sections 43-2,108.01 to 43-2,108.05; or
+16 (c) The penalty has been enhanced under section 29-2221.
+17 (4) Qualified offense does not include any other offense involving
+18 as an element of the offense:
+19 (a) Sexual contact or sexual penetration, as those terms are defined
+20 in section 28-318; or
+21 (b) The infliction of serious bodily injury, as defined in section
+22 28-109, or death.
+23 (5) Qualified offense does not include:
+24 (a) Attempt, under section 28-201, to commit any offense excluded
+25 from the definition of a qualified offense under this section;
+26 (b) Attempt, under section 28-201, to commit any offense when such
+27 attempt is punishable as a Class IIIA felony or higher;
+28 (c) Conspiracy, under section 28-202, to commit any offense excluded
+29 from the definition of a qualified offense under this section;
+30 (d) Accessory to felony, under section 28-204, except for accessory
+31 violations punishable as a Class IV felony or a misdemeanor;
+-8-
+
+LB215 LB215
+2025 2025
+1 (e) Aiding consummation of felony, under section 28-205, for any
+2 felony excluded from the definition of a qualified offense under this
+3 section; and
+4 (f) Aiding or abetting commission of an offense, under section
+5 28-206, for any offense excluded from the definition of a qualified
+6 offense under this section.
+7 Sec. 6. (1) Beginning January 1, 2026, a person shall automatically
+8 be eligible for clean slate relief under section 8 of this act for a
+9 qualified offense that is a misdemeanor if:
+10 (a) The qualified offense was committed on or after January 1, 2021;
+11 (b) Such person has not been convicted of, or adjudicated for, a
+12 misdemeanor or felony anywhere in the United States during the
+13 eligibility period described in subsection (3) of this section; and
+14 (c) Such person has paid all court-ordered financial obligations
+15 related to such qualified offense.
+16 (2) Eligibility for relief under this section shall be determined
+17 internally and administratively by the State Court Administrator and does
+18 not require involvement by the person in interest.
+19 (3) The eligibility period for qualified offenses under this section
+20 shall be:
+21 (a) For conviction of a qualified offense that is a Class I or II
+22 misdemeanor, ten years following the date of conviction;
+23 (b) For an adjudication for a qualified offense that is a Class I or
+24 II misdemeanor, seven years following the date of conviction; or
+25 (c) For a conviction of, or adjudication for, a qualified offense
+26 that is a Class III or lower misdemeanor, five years following the date
+27 of conviction or adjudication.
+28 (4) No later than thirty days following expiration of the
+29 eligibility period under subsection (3) of this section, the State Court
+30 Administrator shall determine if a person convicted of, or adjudicated
+31 for, a qualified offense described in subsection (1) of this section is
+-9-
+
+LB215 LB215
+2025 2025
+1 eligible for clean slate relief under this section. If the State Court
+2 Administrator determines that a person is eligible, the State Court
+3 Administrator shall, within such same thirty-day period, notify the court
+4 of conviction or adjudication of such determination.
+5 (5) Each court of conviction or adjudication shall, on a monthly
+6 basis, issue orders for clean slate relief under section 8 of this act
+7 for each person for whom the court received a notification under
+8 subsection (4) of this section.
+9 (6) The State Court Administrator is not required to proceed under
+10 subsection (4) of this section if the State Court Administrator
+11 determines that the person in interest is deceased.
+12 Sec. 7. (1) A person convicted of, or adjudicated for, a qualified
+13 offense may petition the court for clean slate relief under section 8 of
+14 this act if:
+15 (a) Such person has not been convicted of, or adjudicated for, a
+16 misdemeanor or felony anywhere in the United States during the
+17 eligibility period described in subsection (3) of this section; and
+18 (b) Such person has paid all court-ordered financial obligations
+19 related to such qualified offense.
+20 (2) This section applies to qualified offenses committed before, on,
+21 or after the effective date of this act.
+22 (3) The eligibility period for qualified offenses under this section
+23 shall be:
+24 (a) For conviction of a qualified offense that is a Class III or
+25 lower felony or a Class I or II misdemeanor, ten years following the date
+26 of conviction;
+27 (b) For an adjudication for a qualified offense that is a Class III
+28 or lower felony or a Class I or II misdemeanor, seven years following the
+29 date of conviction; or
+30 (c) For a conviction of, or adjudication for, a qualified offense
+31 that is a Class III or lower misdemeanor or an infraction, five years
+-10-
+
+LB215 LB215
+2025 2025
+1 following the date of conviction or adjudication.
+2 (4) The petition shall be filed in the court of conviction or
+3 adjudication. There shall be no filing or docketing fee charged by the
+4 court for the filing of a petition except for the fee authorized by this
+5 subsection. The court may charge a filing fee in an amount set by the
+6 State Court Administrator. The fee shall be set at an amount to recoup
+7 the costs associated with administering the Clean Slate Act, but shall
+8 not exceed forty dollars.
+9 (5) The court shall provide notice of the filing of the petition to
+10 the appropriate county attorney or city attorney within ten days. The
+11 county attorney or city attorney shall provide notice to any victim of
+12 the offense of the request and provide an opportunity for the victim to
+13 provide the attorney with a statement for consideration by the court.
+14 Within thirty days after receipt of notice, the county attorney or city
+15 attorney may file objections to the petition and shall file any victim
+16 statements. If no objection is timely filed, the court may grant the
+17 petition without further hearing if the requirements of this section have
+18 been met.
+19 (6) If the court determines that the person in interest meets the
+20 eligibility requirements, and the qualified offense:
+21 (a) Is a felony, the court may grant the petition; or
+22 (b) Is a misdemeanor or infraction, the court shall grant the
+23 petition.
+24 (7) The court may grant a petition for a felony if the court finds
+25 that doing so will be in the best interest of the petitioner and
+26 consistent with the public welfare.
+27 (8) Upon granting a petition under this section, the court shall
+28 issue an order for clean slate relief under section 8 of this act.
+29 (9) An order granting or denying a petition under this section is a
+30 final, appealable order for purposes of section 25-1902.
+31 Sec. 8. (1) Following entry of a court order granting a person
+-11-
+
+LB215 LB215
+2025 2025
+1 clean slate relief under sections 6 or 7 of this act, a criminal justice
+2 agency shall respond to a public inquiry in the same manner as if there
+3 were no criminal history record information and criminal history record
+4 information shall not be disseminated to any person other than a criminal
+5 justice agency, except as provided in subsections (4) and (5) of this
+6 section.
+7 (2) In issuing an order for clean slate relief, the court shall:
+8 (a) Order that all records, including any information or other data
+9 concerning any proceedings relating to the case, including the arrest,
+10 taking into custody, petition, complaint, indictment, information, trial,
+11 hearing, adjudication, correctional supervision, dismissal, or other
+12 disposition or sentence, are not part of the public record and shall not
+13 be disseminated to persons other than criminal justice agencies, except
+14 as provided in subsection (4) of this section;
+15 (b) Send notice of the order to (i) the Nebraska Commission on Law
+16 Enforcement and Criminal Justice, (ii) the Nebraska State Patrol, and
+17 (iii) law enforcement agencies, county attorneys, and city attorneys
+18 referenced in the court record;
+19 (c) If the order relates to an adjudication, send notice of the
+20 order to (i) the Department of Motor Vehicles, if the adjudication
+21 included impoundment or prohibition to obtain a license or permit
+22 pursuant to section 43-287, and (ii) the Department of Health and Human
+23 Services, if the person in interest was a ward of the state at the time
+24 the proceeding was initiated or if the department was a party in the
+25 proceeding;
+26 (d) Order all parties notified under subdivisions (2)(b) and (c) of
+27 this section to seal all records pertaining to the case; and
+28 (e) If the case was transferred from one court to another, send
+29 notice of the order to seal the record to the transferring court.
+30 (3) In any application for employment, bonding, license, education,
+31 or other right or privilege, any appearance as a witness, or any other
+-12-
+
+LB215 LB215
+2025 2025
+1 public inquiry, a person shall not be questioned with respect to any
+2 offense for which the record is sealed. If an inquiry is made in
+3 violation of this subsection, the person may respond as if the offense
+4 never occurred.
+5 (4) A criminal justice agency may, with respect to criminal history
+6 record information sealed under this section, disclose, disseminate,
+7 respond to inquiries regarding, or allow inspection of such criminal
+8 history record information:
+9 (a) If the person in interest has made a notarized request for the
+10 release of information, to the extent authorized in such release;
+11 (b) If the person in interest is currently the subject of
+12 prosecution or correctional control as the result of a separate arrest;
+13 (c) If the person in interest is currently an announced candidate
+14 for or holder of public office;
+15 (d) If the criminal history record information is kept unidentified,
+16 and the record is used for purposes of surveying or summarizing
+17 individual or collective law enforcement agency activity or practices, or
+18 the dissemination is requested consisting only of release of criminal
+19 history record information showing (i) dates of arrests, (ii) reasons for
+20 arrests, and (iii) the nature of the dispositions, including, but not
+21 limited to, reasons for not prosecuting the case or cases;
+22 (e) To individuals and agencies for the express purpose of research,
+23 evaluative, or statistical activities pursuant to an agreement with a
+24 criminal justice agency that specifically authorizes access to the
+25 information, limits the use of the information to research, evaluative,
+26 or statistical activities, and ensures the confidentiality and security
+27 of the information; and
+28 (f) In response to an inquiry for employment, security, or other
+29 purposes to the extent disclosure of such criminal history record
+30 information is required by:
+31 (i) Federal law, including rules and regulations and rules and
+-13-
+
+LB215 LB215
+2025 2025
+1 regulations promulgated by a self-regulatory organization created under
+2 federal law; or
+3 (ii) State law, including rules or regulations, relating to
+4 operation of a motor vehicle or caring for or interacting with children,
+5 including, but not limited to, determining whether an application filed
+6 or a license issued under sections 71-1901 to 71-1906.01, the Child Care
+7 Licensing Act, or the Children's Residential Facilities and Placing
+8 Licensure Act or a certificate issued under sections 79-806 to 79-815
+9 should be denied, suspended, or revoked.
+10 (5) In addition to disclosures authorized under subsection (4) of
+11 this section, inspection of criminal history record information relating
+12 to an adjudication that has been sealed under this section may be made by
+13 the persons and for the purposes authorized in section 43-2,108.05.
+14 Sec. 9. (1) Upon petition of the county attorney or city attorney,
+15 and with notice to the person in interest and opportunity to be heard,
+16 the court shall vacate an order for clean slate relief issued pursuant to
+17 section 6 of this act if the court determines that the order was
+18 erroneously entered and not in accordance with section 6 of this act.
+19 (2)(a) Upon conviction of, or adjudication for, a felony or
+20 misdemeanor, the county attorney or city attorney may file a motion
+21 requesting the court to enter an order vacating a prior order for clean
+22 slate relief issued pursuant to section 6 or 7 of this act.
+23 (b) The court shall grant such motion if the new conviction is for:
+24 (i) A felony; or
+25 (ii) A misdemeanor that is not a qualified offense.
+26 (c) The court may grant such motion if the new conviction is for a
+27 misdemeanor that is a qualified offense.
+28 (3) Upon entry of an order under subsection (1) or (2) of this
+29 section, the court shall send notice of such order as provided in
+30 subsection (2) of section 8 of this act.
+31 Sec. 10. The State Court Administrator may adopt and promulgate
+-14-
+
+LB215 LB215
+2025 2025
+1 rules and regulations as necessary to carry out the Clean Slate Act.
+2 Sec. 11. (1)(a) The Legislature finds that individuals serving
+3 long-term or life sentences who are rehabilitated and ready to be safely
+4 released from incarceration should be able to earn a second chance by
+5 receiving a commutation of their sentences from the Board of Pardons.
+6 Such commutation is intended to allow such rehabilitated individuals to
+7 be responsibly reintegrated into their communities while on parole and,
+8 if successful on parole, as fully free individuals.
+9 (b) Second chance relief is a program through which the department,
+10 the Division of Parole Supervision, and the Board of Parole identify
+11 eligible committed offenders and work with them to apply for a
+12 commutation from the Board of Pardons.
+13 (2) The department, the Division of Parole Supervision, and the
+14 Board of Parole shall establish a program to provide recommendations for
+15 second chance relief as provided in this section.
+16 (3) A committed offender serving a sentence of imprisonment,
+17 including life imprisonment, is eligible for second chance relief under
+18 this section as follows:
+19 (a) For an offense committed when the offender was younger than
+20 twenty-six years of age, after serving at least twenty-five years of a
+21 sentence of imprisonment; or
+22 (b) For an offense committed when the offender was twenty-six years
+23 of age or older, after serving at least thirty years of a sentence of
+24 imprisonment.
+25 (4) The department shall regularly identify committed offenders who
+26 are eligible under this section or who will become eligible within five
+27 years. The department shall regularly provide lists of such offenders to
+28 the Board of Parole. The board shall advise such offenders regarding the
+29 second chance relief program and work with interested offenders to
+30 improve their chances of obtaining second chance relief through
+31 rehabilitation and good behavior.
+-15-
+
+LB215 LB215
+2025 2025
+1 (5) In determining whether an eligible committed offender is
+2 rehabilitated and a good candidate for second chance relief, the Board of
+3 Parole shall:
+4 (a) Complete a risk assessment for the committed offender; and
+5 (b) Involve community leaders and stakeholders in the review process
+6 to ensure that public safety and community concerns are addressed.
+7 (6) If the Board of Parole determines that an eligible committed
+8 offender is rehabilitated and a good candidate for second chance relief,
+9 the board shall make a recommendation to the Board of Pardons that such
+10 offender's sentence be commuted.
+11 (7)(a) If the Board of Pardons receives a recommendation for second
+12 chance relief from the Board of Parole, the Board of Pardons shall
+13 promptly consider whether to grant a commutation of some or all of the
+14 remainder of a committed offender's sentence to a term of parole. Such
+15 term shall not extend longer than the remainder of the term of
+16 imprisonment.
+17 (b) If the Board of Pardons determines not to grant a commutation,
+18 the board shall provide the committed offender with a list of steps or
+19 requirements that the committed offender must satisfy to increase the
+20 chances the committed offender will be granted a commutation at a
+21 subsequent review. The Board of Pardons shall also provide a process for
+22 seeking a subsequent commutation review. Upon completion of such steps or
+23 requirements, the committed offender may petition the Board of Pardons to
+24 grant a commutation. The Board of Pardons shall review a petition for
+25 subsequent review and make a determination within thirty days after
+26 receipt of such petition.
+27 (8) If a committed offender is granted a commutation and paroled
+28 under this section, the Board of Parole shall:
+29 (a) Develop a detailed reentry plan tailored to the committed
+30 offender's needs, including job placement, housing support, and access to
+31 continuing education and mental health services;
+-16-
+
+LB215 LB215
+2025 2025
+1 (b) Provide the committed offender with access to mentorship
+2 programs and community support networks to facilitate successful
+3 reintegration into the community;
+4 (c) Provide for victim and community involvement through restorative
+5 justice programs. The Board of Parole shall offer restorative justice
+6 opportunities, when appropriate, to allow the committed offender to make
+7 amends with victims and the community; and
+8 (d) Provide for accountability and monitoring by requiring regular
+9 check-ins with parole officers and continuous monitoring during the
+10 initial phase of reentry to ensure compliance with conditions of parole.
+11 (9) The Board of Parole shall implement a system for ongoing
+12 evaluation and adjustment of the second chance relief program based on
+13 outcomes and feedback.
+14 Sec. 12. Section 83-1,135, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 83-1,135 Sections 83-170 to 83-1,135.05 and section 11 of this act
+17 shall be known and may be cited as the Nebraska Treatment and Corrections
+18 Act.
+19 Sec. 13. Original section 83-1,135, Reissue Revised Statutes of
+20 Nebraska, is repealed.
+-17-
+
+[DELETED: yHA B F A A r t c j t a s8S A t p f c t p d f tD o C S B o P D oPaB5L52]
+[DELETED: ScS(htaa e H c j a n a t ac h r i i o t e c o0t1(2t3(4( P h t o w a t t r5t6( S t s m t m b s w o7r8( E a a t c h r9i0t1( T t e p t C S A s b2i3i4S5i t S P a D o C H6I7S8(9a g p o p o n c a i a f o0b1c5L52]
+[DELETED: ( W u i r t a o c i ajcS b t U S G o b c o om(os(0e o o n b a j t 1p2S3a4i5(6u7(829(0( Q o d n i a o t f1o2(3(4(5v6(7(8(9(0(1(5L52]
+[DELETED: ((o((2(v( A v r t a s 2 t 20a1(223( K a i a n o e o 4v5(627(829(0a i v o t P U C P A1s2(3a4(5(6(7(8(920(1m5L52]
+[DELETED: (o(( R a s 2 e f a mv( O a m v o v t a a s2(20( A t e o j f c o O o1J2(3(4(5( B o a w o w a b o b6s7( T w a w o i o j t8s9(021(2( A o a o a e r a s3c e a D o H a H S4e o a h c p i t t d s526( A o a o a e r a s7c e a D o H a H S8e920(1( A w a b f a a p s o5L52]
+[DELETED: 2(( K o i o o p o af(om(( V o c o r t f a a0c1(2( U p o a f b a p j3o4( P o a d w o t a f d5c6(7o a d m s 2 e f a m8v9( P o a d w o t a f b 0p1( U p o e m i t f2d3(4(5s6(7( T t u o e o p a f b8s9( U e t d o d p s021( C o d t p d o c o5L52]
+[DELETED: c( U c a c g r o ds(d( V o t S O R A s2(h0(1(2t m o i r i s b i o d3c b t m c o i c s455(6s7(859( A c n o c m o 0l1( V o c o n t o o p a l2a3(4d5(6C7(8c9(061(5L52]
+[DELETED: ( V o C R F a PL(o(d b o a i i d o w ai i d o p i v o B o Po(0o1(2( R i r u t S O R3A4( R h a b p u s 2 o5s6(7(8a9(0i1(223(4( A u s 2 t c a o e5f6(7a8(9f0(1v5L52]
+[DELETED: ( A c o f u s 2 f af e f t d o a q o u ts( A o a c o a o u s2 f a o e f t d o a qoSb e f c s r u s 8 o t a f q0(1( S p h n b c o o a f 2m o f a i t U S d t3e4( S p h p a c f o5r6( E f r u t s s b d7i8n9(0s1(2m3(4I5( F a c o o a f a q o6t7o8( N l t t d f e o t9e0A s d i a p c o o a1f5L52]
+[DELETED: eA d t a p i e t S CAo( E c o c o a s o a mbf e p f w t c r a n us(0s ( o t s i t S C A1d2S3o4t5( S p h n b c o o a f 6m o f a i t U S d t7e8( S p h p a c f o9r0(1o2(3s4( F c o a q o t i a C I o5l6o7(8o9d0( F a c o o a f a q o1t i a C I o l m o a i f y5L52]
+[DELETED: f( T p s b f i t c o c oacsStn(0t a c a o c a w t d T1c2t3p t a w a s f c b t c4W5a6s I n o i t f t c m g t7p8b9(0e1(2( I a m o i t c s g t3p4(5t d s w b i t b i o t p a6c7( U g a p u t s t c s8i9(0f1S 8  ( F e o a c o g a p5L52]
+[DELETED: cawij a e a p i s ( a ( o ts((c a p r t t c i t a0t1h a c s d o o2d3b4a5(6E a C J ( t N S P a7( l e a c a a c a8r9( I t o r t a a s n o t0o t ( t D o M V i t a1i i o p t o a l o p2p3S4t p w i o i t d w a p i t5p6(7t8( I t c w t f o c t a s9n0(1o5L52]
+[DELETED: p i a p s n b q w r t ao f w t r i s I a i i m ivn(r i s u t s d dr t i r o a i o s ch(0r1( I t p i i i c t s o2p3( I t p i i i c a a c4f5(6a t r i u f p o s o s7i8t d i r c o o r o c9h0a a ( t n o t d i b n1l2(3e o s a p t a a w 4c j a t s a a t t5i6o7o8( I r t a i f e s o o9p t t e d o s c h r0i1( F l i r a r a r a5L52]
+[DELETED: rf( S l i r o r r toioL A o t C R F a PL A o a c i u s 7 t 7s0( I a t d a u s ( o1t2t3t4S5a6t7s 6 o t a i t c d t t o w8e9( U c o o a f a f o0m t c a o c a m f a m1r2s3(4(5(6(7m8( U e o a o u s ( o ( o t9s t c s s n o s o a p i0s1S 1  T S C A m a a p5L52]
+[DELETED: rS 1  ( T L f t i slr f i s b a t e a s c br a c o t s f t B o PSbi(0t D o P S a t B o P i1e c o a w w t t a f 2c3( T d t D o P S a t4B5s6( A c o s a s o i7i8t9( F a o c w t o w y t0t1s2(3o4i5(6a7y8t9s c r p a w w i o t0i t c o o s c r t1r5L52]
+[DELETED: ( I d w a e c o irP((t( I t B o P d t a e cot0o1(2c r f t B o P t B o P s3p4r5t s n e l t t r o t t o6i7(8t9r t t c o m s t i t0c t c o w b g a c a 1s2s3r4g a c T B o P s r a p f5s r a m a d w t d a6r7( I a c o i g a c a p8u9( D a d r p t t t c0o1c5L52]
+[DELETED: ( P t c o w a t mp a c s n t f sr(j p T B o P s o r joa(c w p o a c m d t0i1( T B o P s i a s f o2e3o4S5a687s8A9S 1  O s 8 R R S o0N5L52]

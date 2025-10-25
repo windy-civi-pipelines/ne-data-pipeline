@@ -1,0 +1,806 @@
+Title: LEGISLATIVE BILL 182
+Official Title: LEGISLATIVE BILL 182
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+LB182 LB182
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Bostar, 29.
+Read first time January 13, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend sections
+2 77-2506 and 81-523, Reissue Revised Statutes of Nebraska, and
+3 sections 77-908, 77-2502, 77-2503, 77-2508, 77-3806, 77-7202, and
+4 77-7204, Revised Statutes Cumulative Supplement, 2024; to redefine
+5 and eliminate terms and change provisions relating to the transfer,
+6 sale, and assignment of tax credits under the Affordable Housing Tax
+7 Credit Act; to authorize additional uses of the tax credits granted
+8 under the Child Care Tax Credit Act; to harmonize provisions; and to
+9 repeal the original sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+LB182 LB182
+2025 2025
+1 Section 1. Section 77-908, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-908 Every insurance company organized under the stock, mutual,
+4 assessment, or reciprocal plan, except fraternal benefit societies, which
+5 is transacting business in this state shall, on or before March 1 of each
+6 year, pay a tax to the director of one percent of the gross amount of
+7 direct writing premiums received by it during the preceding calendar year
+8 for business done in this state, except that (1) for group sickness and
+9 accident insurance the rate of such tax shall be five-tenths of one
+10 percent and (2) for property and casualty insurance, excluding individual
+11 sickness and accident insurance, the rate of such tax shall be one
+12 percent. A captive insurer authorized under the Captive Insurers Act that
+13 is transacting business in this state shall, on or before March 1 of each
+14 year, pay to the director a tax of one-fourth of one percent of the gross
+15 amount of direct writing premiums received by such insurer during the
+16 preceding calendar year for business transacted in the state. The taxable
+17 premiums shall include premiums paid on the lives of persons residing in
+18 this state and premiums paid for risks located in this state whether the
+19 insurance was written in this state or not, including that portion of a
+20 group premium paid which represents the premium for insurance on Nebraska
+21 residents or risks located in Nebraska included within the group when the
+22 number of lives in the group exceeds five hundred. The tax shall also
+23 apply to premiums received by domestic companies for insurance written on
+24 individuals residing outside this state or risks located outside this
+25 state if no comparable tax is paid by the direct writing domestic company
+26 to any other appropriate taxing authority. Companies whose scheme of
+27 operation contemplates the return of a portion of premiums to
+28 policyholders, without such policyholders being claimants under the terms
+29 of their policies, may deduct such return premiums or dividends from
+30 their gross premiums for the purpose of tax calculations. Any such
+31 insurance company shall receive a credit on the tax imposed as provided
+-2-
+LB182 LB182
+2025 2025
+1 in the Creating High Impact Economic Futures Act, the Nebraska Job
+2 Creation and Mainstreet Revitalization Act, the New Markets Job Growth
+3 Investment Act, the Nebraska Higher Blend Tax Credit Act, the Relocation
+4 Incentive Act, the Sustainable Aviation Fuel Tax Credit Act, the Nebraska
+5 Shortline Rail Modernization Act, the Child Care Tax Credit Act, and the
+6 Affordable Housing Tax Credit Act.
+7 Sec. 2. Section 77-2502, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 77-2502 For purposes of the Affordable Housing Tax Credit Act:
+10 (1) Allocation year means the year for which the authority awards
+11 Nebraska affordable housing tax credits pursuant to the act;
+12 (2) Authority means the Nebraska Investment Finance Authority;
+13 (3) Eligibility statement means a statement authorized and issued by
+14 the authority certifying that a given project is a qualified project that
+15 qualifies for Nebraska affordable housing tax credits;
+16 (4) Federal low-income housing tax credit means the federal tax
+17 credit provided in section 42 of the Internal Revenue Code of 1986, as
+18 amended;
+19 (5) Nebraska affordable housing tax credit means the nonrefundable
+20 tax credit authorized in section 77-2503;
+21 (6) Qualified project means a qualified low-income building or
+22 buildings, as that term is defined in section 42 of the Internal Revenue
+23 Code of 1986, as amended; and
+24 (7) Qualified taxpayer means a taxpayer owning an interest, direct
+25 or indirect, in a qualified project; and
+26 (7) (8) Taxpayer means a person, firm, corporation, or other
+27 business entity subject to the income tax imposed by section 77-2715 or
+28 77-2734.02, an insurance company subject to premium and related
+29 retaliatory tax liability imposed by section 44-150, 77-908, or 81-523,
+30 or a financial institution subject to the franchise tax imposed by
+31 sections 77-3801 to 77-3807, or a nonprofit corporation of the type
+-3-
+LB182 LB182
+2025 2025
+1 listed in 26 U.S.C. 501(c)(3) or 26 U.S.C. 501(c)(4).
+2 Sec. 3. Section 77-2503, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 77-2503 (1) An owner of an affordable housing project seeking a
+5 Nebraska affordable housing tax credit shall file an application with the
+6 authority on a form prescribed by the authority. A qualified taxpayer
+7 shall be allowed a nonrefundable tax credit if the authority determines
+8 that the project for which tax credits are sought is a qualified project.
+9 (2) If the requirements of subsection (1) of this section are met,
+10 the authority shall issue an eligibility statement to the owner of such
+11 qualified project stating the amount of Nebraska affordable housing tax
+12 credits allocated to the qualified project. The amount of such tax
+13 credits shall be the amount of federal low-income housing tax credits
+14 available to such project, except as otherwise provided in subsection (4)
+15 of this section. Tax credits for each building in a qualified project
+16 shall be issued for the first six years of the credit period as defined
+17 in 26 U.S.C. 42(f)(1), except that any reduction in the credit allowable
+18 in the first year of the credit period due to the calculation in 26
+19 U.S.C. 42(f)(2) shall be allowable in the seventh year of the credit
+20 period. The authority shall only allocate tax credits to qualified
+21 projects that are placed in service after January 1, 2018.
+22 (3) If the owner of the qualified project is (a) a partnership, (b)
+23 a limited liability company, or (c) a corporation having an election in
+24 effect under subchapter S of the Internal Revenue Code of 1986, as
+25 amended, the Nebraska affordable housing tax credit shall be allocated
+26 among some or all of the partners, members, or shareholders of the owner
+27 of the qualified project in any manner agreed to by such persons, but
+28 only if such persons have been admitted as partners or members, or have
+29 acquired their shares, on or prior to February 15 of the year in which
+30 the tax return, or amended return, claiming the tax credit is filed. A
+31 qualified taxpayer may transfer, sell, or assign all or part of his or
+-4-
+LB182 LB182
+2025 2025
+1 her ownership interest, including his or her interest in the tax credits
+2 authorized in this section. A taxpayer may transfer, sell, or assign the
+3 tax credits to another taxpayer. For any tax year in which an ownership
+4 such an interest or the tax credits are is transferred, sold, or assigned
+5 pursuant to this subsection, the transferor shall notify the Department
+6 of Revenue of the transfer, sale, or assignment and provide the tax
+7 identification number of the new owner or tax credit purchaser at least
+8 thirty days prior to the new owner or tax credit purchaser claiming the
+9 tax credits. The notification shall be in the manner prescribed by the
+10 department.
+11 (4) The maximum amount of Nebraska affordable housing tax credits
+12 awarded to all qualified projects in any given allocation year shall be
+13 no more than one hundred percent of the total amount of federal low-
+14 income housing tax credits awarded by the authority in the same
+15 allocation year. Notwithstanding any other provision of the Affordable
+16 Housing Tax Credit Act, the authority is prohibited from awarding to a
+17 qualified project any combined amount of federal low-income housing tax
+18 credits and Nebraska affordable housing tax credits that is more than
+19 necessary to make the qualified project financially feasible.
+20 (5) Any Nebraska affordable housing tax credits granted under this
+21 section may be used to offset any income taxes due under section 77-2715
+22 or 77-2734.02, any premium and related retaliatory taxes due under
+23 section 44-150, 77-908, or 81-523, or any franchise taxes due under
+24 sections 77-3801 to 77-3807.
+25 (6) The tax credit shall not be used to reduce the tax liability of
+26 the qualified taxpayer to less than zero. Any tax credit claimed but not
+27 used in a taxable year may be carried forward.
+28 Sec. 4. Section 77-2506, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 77-2506 If a portion of any federal low-income housing tax credits
+31 taken on a qualified project is required to be recaptured or is otherwise
+-5-
+LB182 LB182
+2025 2025
+1 disallowed under 26 U.S.C. 42 during the 6-year period described in
+2 subsection (2) of section 77-2503, a portion of the Nebraska affordable
+3 housing tax credits with respect to such project shall also be recaptured
+4 from the qualified taxpayer who claimed such credits. The percentage of
+5 Nebraska affordable housing tax credits subject to recapture under this
+6 section shall be equal to the percentage of federal low-income housing
+7 tax credits subject to recapture or otherwise disallowed during such
+8 period. Any Nebraska affordable housing tax credits recaptured or
+9 disallowed under this section shall increase the tax liability of the
+10 qualified taxpayer who claimed the credits in the year the Department of
+11 Revenue declares the tax credits to be disallowed or recaptured.
+12 Sec. 5. Section 77-2508, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 77-2508 (1) The changes made in sections 77-2502, 77-2503, and
+15 77-2505 by Laws 2022, LB800, shall apply to taxable years beginning or
+16 deemed to begin on or after January 1, 2023.
+17 (2) The changes made in sections 77-2502, 77-2503, and 77-2506 by
+18 this legislative bill shall apply to conditional reservations of Nebraska
+19 affordable housing tax credits made by the authority on and after July 1,
+20 2026.
+21 Sec. 6. Section 77-3806, Revised Statutes Cumulative Supplement,
+22 2024, is amended to read:
+23 77-3806 (1) The tax return shall be filed and the total amount of
+24 the franchise tax shall be due on the fifteenth day of the third month
+25 after the end of the taxable year. No extension of time to pay the tax
+26 shall be granted. If the Tax Commissioner determines that the amount of
+27 tax can be computed from available information filed by the financial
+28 institutions with either state or federal regulatory agencies, the Tax
+29 Commissioner may, by regulation, waive the requirement for the financial
+30 institutions to file returns.
+31 (2) Sections 77-2714 to 77-27,135 relating to deficiencies,
+-6-
+LB182 LB182
+2025 2025
+1 penalties, interest, the collection of delinquent amounts, and appeal
+2 procedures for the tax imposed by section 77-2734.02 shall also apply to
+3 the tax imposed by section 77-3802. If the filing of a return is waived
+4 by the Tax Commissioner, the payment of the tax shall be considered the
+5 filing of a return for purposes of sections 77-2714 to 77-27,135.
+6 (3) No refund of the tax imposed by section 77-3802 shall be allowed
+7 unless a claim for such refund is filed within ninety days of the date on
+8 which (a) the tax is due or was paid, whichever is later, (b) a change is
+9 made to the amount of deposits or the net financial income of the
+10 financial institution by a state or federal regulatory agency, or (c) the
+11 Nebraska Investment Finance Authority issues an eligibility statement to
+12 the financial institution pursuant to the Affordable Housing Tax Credit
+13 Act.
+14 (4) Any such financial institution shall receive a credit on the
+15 franchise tax as provided under the Affordable Housing Tax Credit Act,
+16 the Creating High Impact Economic Futures Act, the Nebraska Higher Blend
+17 Tax Credit Act, the Nebraska Job Creation and Mainstreet Revitalization
+18 Act, the Nebraska Property Tax Incentive Act, the Relocation Incentive
+19 Act, the New Markets Job Growth Investment Act, the Sustainable Aviation
+20 Fuel Tax Credit Act, the Child Care Tax Credit Act, and the Nebraska
+21 Shortline Rail Modernization Act.
+22 Sec. 7. Section 77-7202, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 77-7202 For purposes of the Child Care Tax Credit Act:
+25 (1) Child means an individual who is five years of age or less;
+26 (2) Department means the Department of Revenue;
+27 (3) Eligible program means a program that is licensed as a family
+28 child care home I, family child care home II, child care center, or
+29 preschool and operates as a for-profit child care business or is a
+30 nonprofit organization under the Internal Revenue Code of 1986, as
+31 amended;
+-7-
+LB182 LB182
+2025 2025
+1 (4) Intermediary means any organization that distributes funds for
+2 the purpose of supporting an eligible program;
+3 (5) Parent or legal guardian means an individual who claims a child
+4 as a dependent for federal income tax purposes;
+5 (6) Qualifying contribution means a contribution in the form of
+6 cash, check, cash equivalent, agricultural commodity, livestock, or
+7 publicly traded security that is made:
+8 (a) For the establishment or operation of an eligible program;
+9 (b) For the establishment of a grant or loan program for parents
+10 requiring financial assistance for an eligible program;
+11 (c) To an early childhood collaborative or another intermediary to
+12 provide training, technical assistance, or mentorship to child care
+13 providers;
+14 (d) For the establishment or ongoing costs of an information
+15 dissemination program that assists parents with information and referral
+16 services for child care;
+17 (e) To a for-profit child care business, including family home
+18 providers. The for-profit child care business must use the proceeds of a
+19 qualifying contribution for (i) the acquisition or improvement of child
+20 care facilities, (ii) the acquisition of equipment, (iii) providing
+21 services, or (iv) employee retention; or
+22 (f) To an intermediary for the establishment or operation of an
+23 eligible program or for the establishment of a grant or loan program for
+24 parents requiring financial assistance for an eligible program;
+25 (7) Taxpayer means any person subject to the income tax imposed by
+26 the Nebraska Revenue Act of 1967, including . The term includes resident
+27 and nonresident individuals, estates, trusts, and corporations, an
+28 insurance company subject to premium and related retaliatory tax
+29 liability imposed by section 44-150, 77-908, or 81-523, or a financial
+30 institution subject to the franchise tax imposed by sections 77-3801 to
+31 77-3807; and
+-8-
+LB182 LB182
+2025 2025
+1 (8) Total household income means federal modified adjusted gross
+2 income.
+3 Sec. 8. Section 77-7204, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 77-7204 (1) For taxable years beginning or deemed to begin on or
+6 after January 1, 2024, under the Internal Revenue Code of 1986, as
+7 amended, any taxpayer who makes a qualifying contribution during the
+8 taxable year shall be eligible to receive a credit that may be used to
+9 offset any income taxes due under against the income tax imposed by the
+10 Nebraska Revenue Act of 1967, any premium and related retaliatory taxes
+11 due under section 44-150, 77-908, or 81-523, or any franchise taxes due
+12 under sections 77-3801 to 77-3807.
+13 (2) The credit provided in this section shall be a nonrefundable
+14 credit equal to either one hundred percent or seventy-five percent of the
+15 taxpayer's qualifying contribution made during the taxable year, except
+16 that the credit for a taxpayer shall not exceed one hundred thousand
+17 dollars for any single taxable year.
+18 (3) The credit shall be equal to one hundred percent of the
+19 qualifying contribution if:
+20 (a) The eligible program that receives the contribution has a
+21 physical presence in an opportunity zone in this state designated
+22 pursuant to the federal Tax Cuts and Jobs Act, Public Law 115-97; or
+23 (b) The eligible program that receives the contribution has at least
+24 one child enrolled in the child care subsidy program established pursuant
+25 to sections 68-1202 and 68-1206 and the child care provider is actively
+26 caring and billing for the child as verified by the Department of Health
+27 and Human Services. Attracting child care providers into the child care
+28 subsidy program and retaining providers in the program are directly
+29 connected to the administration of the program. Verifying that the child
+30 care provider is actively caring and billing for an eligible child is in
+31 furtherance of the child care subsidy program. The Department of Revenue
+-9-
+LB182 LB182
+2025 2025
+1 shall not use any verification information obtained from the Department
+2 of Health and Human Services except for purposes directly connected with
+3 the administration of the Child Care Tax Credit Act.
+4 (4) The credit shall be equal to seventy-five percent of the
+5 qualifying contribution if subsection (3) of this section does not apply.
+6 (5) A taxpayer shall not be eligible for the credit provided in this
+7 section if the taxpayer claimed a charitable contribution deduction for
+8 the qualifying contribution on the taxpayer's federal income tax return.
+9 (6) A taxpayer shall apply for the credit provided in this section
+10 by submitting an application to the department with the following
+11 information:
+12 (a) Documentation to show that the contribution is a qualifying
+13 contribution; and
+14 (b) Any other documentation required by the department.
+15 (7) Subject to subsection (8) of this section, if the department
+16 determines that the taxpayer qualifies for tax credits under this
+17 section, the department shall approve the application and certify the
+18 amount of credits approved to the taxpayer.
+19 (8) The department shall consider applications in the order in which
+20 they are received and may approve tax credits under this section each
+21 year until the total amount of credits approved for the year equals two
+22 million five hundred thousand dollars.
+23 (9) If a taxpayer's credit under this section exceeds the total tax
+24 due, the taxpayer may carry forward the excess credit for up to five
+25 taxable years after the taxable year in which the credit was first
+26 allowed, but the taxpayer must use the carryover credit in the earliest
+27 taxable year possible.
+28 (10) A contribution shall not qualify for a credit under this
+29 section if the contribution is made to a child care provider in which the
+30 taxpayer or a person related to the taxpayer has a financial interest,
+31 unless the contribution is part of a bona fide arm's length transaction.
+-10-
+LB182 LB182
+2025 2025
+1 (11) A taxpayer claiming a tax credit under this section against any
+2 premium and related retaliatory taxes due under section 44-150, 77-908,
+3 or 81-523 shall not be required to pay any additional retaliatory tax as
+4 a result of claiming the tax credit. The tax credit may fully offset any
+5 retaliatory tax imposed under Nebraska law. Any tax credit claimed shall
+6 be considered a payment of tax for purposes of subsection (1) of section
+7 77-2734.03.
+8 Sec. 9. Section 81-523, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 81-523 (1) For the purpose of maintaining the office of the State
+11 Fire Marshal and such other fire prevention activities as the Governor
+12 may direct, every foreign and alien insurance company including
+13 nonresident attorneys for subscribers to reciprocal insurance exchanges
+14 shall, on or before March 1, pay a tax to the Director of Insurance of
+15 three-fourths of one percent of the gross direct writing premiums and
+16 assessments received by each of such companies during the preceding
+17 calendar year for fire insurance business done in this state.
+18 (2) For the purpose set forth in subsection (1) of this section,
+19 every domestic insurance company including resident attorneys for
+20 subscribers to reciprocal insurance exchanges shall, on or before March
+21 1, pay a tax to the Director of Insurance of three-eighths of one percent
+22 of the gross direct writing premiums and assessments received by each of
+23 such companies during the preceding calendar year for fire insurance
+24 business done in this state.
+25 (3) The term fire insurance business, as used in subsections (1),
+26 (2), and (4) of this section, shall include, but not be limited to,
+27 premiums of policies on fire risks on automobiles, whether written under
+28 floater form or otherwise.
+29 (4) Return premiums on fire insurance business, subject to the fire
+30 insurance tax, in accordance with subsections (1) and (2) of this
+31 section, may be deducted from the gross direct writing premiums for the
+-11-
+LB182 LB182
+2025 2025
+1 purpose of the tax calculations provided for by subsections (1) and (2)
+2 of this section. In the case of mutual companies and assessment
+3 associations, the dividends paid or credited to policyholders or members
+4 in this state shall be construed to be return premiums.
+5 (5) Any tax collected pursuant to subsections (1) and (2) of this
+6 section shall be remitted to the State Treasurer for credit to the
+7 General Fund.
+8 (6) An insurance company described in this section shall receive a
+9 credit on the tax imposed under this section as provided in the
+10 Affordable Housing Tax Credit Act, the Child Care Tax Credit Act, and the
+11 Relocation Incentive Act.
+12 Sec. 10. Original sections 77-2506 and 81-523, Reissue Revised
+13 Statutes of Nebraska, and sections 77-908, 77-2502, 77-2503, 77-2508,
+14 77-3806, 77-7202, and 77-7204, Revised Statutes Cumulative Supplement,
+15 2024, are repealed.
+-12-
+[DELETED: yBA B F A A r t r a t t a s7 a 8 R R S o N as 7 7 7 7 7 7 a7 R S C S 2 t rasCur0B2L52]
+[DELETED: S 1 S 7 R S C S27 E i c o u t s maiydfa i t r o s t s b f o o0p1s a a i t r o s t s b o2p3i4y5a o d w p r b s i d t6p7p8t9i0g1r2n o l i t g e f h T t s a3a4i r o t s o r l o t5s6t a o a t a C w s o7o c t r o a p o p t8p9o t p m d s r p o d f0t g p f t p o t c A s1i2L52]
+[DELETED: i t C H I E F A t N JC a M R A t N M J GIISAS 2 S 7 R S C S270( A y m t y f w t a a1N2(3(4t5q6( F l h t c m t f t7c8a9(0t1( Q p m a q l b o2b3C4(5o6( ( T m a p f c o o7b87 a i c s t p a r9r0o a f i s t t f t i b1s 7 t 7 o a n c o t t2L52]
+[DELETED: lS 3 S 7 R S C S27 ( A o o a a h p s Na o a f p b t a A q tst(0t1q2c a t t q p T a o s t3c s b t a o f l h t c4a5o t s T c f e b i a q p6s7i8i t f y o t c p d t t c i 29U 4 s b a i t s y o t c0p T a s o a t c t q1p2(3a4e u s S o t I R C o 1 a5a t N a h t c s b a6a7o t q p i a m a t b s p b8o9a0t1q2L52]
+[DELETED: hatspo R o t t s o a a p t titt0d1( T m a o N a h t c2a3n m t o h p o t t a o f l4i h t c a b t a i t s5a y N a o p o t A6H7q8c a N a h t c t i m t9n0(1s2o 7 a p a r r t d u3s 4 7 o 8 o a f t d u4s5(6t7u8S 4 S 7 R R S o N i9a071t2L52]
+[DELETED: d u 2 U 4 d t 6 p d ishfNst c s t r o o d d sp A N a h t c r od u t s s i t t l o t0q1R2S 5 S 7 R S C S3247 ( T c m i s 7 7 a576d7( T c m i s 7 7 a 7 b8t9a021S 6 S 7 R S C S22374t5a6s7t c b c f a i f b t f8i w e s o f r a t T9C0i1( S 7 t 7 r t d2L52]
+[DELETED: p i t c o d a a aptbf(uwm t t a o d o t n f i o t0f1N2t3A4( A s f i s r a c o t5f6t7T8A t N P T I A t R I9A0F T C A t C C T C A a t N1S2S 7 S 7 R S C S32475(6(7(8c c h I f c c h I c c c o9p a o a a f c c b o i 0n o u t I R C o 1 a1a2L52]
+[DELETED: (t(a( Q c m a c i t f oc c c e a c l op(( F t e o a g o l p f p0r1(2p t t a o m t c c3p4( F t e o o c o a i5d6s7( T a f c c b i f h8p9q0c f ( t a o e ( p1s2( T a i f t e o o o a3e4p5(6t7a n i e t a c a8i c s t p a r r t9l0i172L52]
+[DELETED: ( T h i m f m a giS 8 S 7 R S C S27 ( F t y b o d t b o oa J 1 2 u t I R C o 1 aa a t w m a q c d tto0N1d2u3( T c p i t s s b a n4c5t6t t c f a t s n e o h t7d8( T c s b e t o h p o t9q0( T e p t r t c h 1p p i a o z i t s d2p3(4o5t6c7a8s p a r p i t p a d9c0c1f2L52]
+[DELETED: sot( T c s b e t s p o tq(st(0b s a a t t d w t f1i2( D t s t t c i a q3c4(5( S t s ( o t s i t d6d t t t q f t c u t7s t d s a t a a c t8a9(0t a r a m a t c u t s e1y2m3(4d t t m c f t e c f u t f5t y a t t y i w t c w f6a7t8( A c s n q f a c u t9s0t1u2L52]
+[DELETED: (poarb7S 9 S 8 R R S o N ia081F2m d e f a a i c i3n4s5t o o p o t g d w p a6a r b e o s c d t p7c8( F t p s f i s ( o t s9e d i c i r a f0s112o3s c d t p c y f f i4b5( T t f i b a u i s (6( a ( o t s s i b n b l t7p8f9(0i t i a w s ( a ( o t1s2L52]
+[DELETED: po t s I t c o m c a aai(s s b r t t S T f c t tG(c o t t i u t s a p i t0A1R2S 1  O s 7 a 8 R R3S o N a s 7 7 7 747 7 a 7 R S C S522L52]
+
+
+================================================================================
+
+Raw Text:
+LB182 LB182
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 182
+Introduced by Bostar, 29.
+Read first time January 13, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend sections
+2 77-2506 and 81-523, Reissue Revised Statutes of Nebraska, and
+3 sections 77-908, 77-2502, 77-2503, 77-2508, 77-3806, 77-7202, and
+4 77-7204, Revised Statutes Cumulative Supplement, 2024; to redefine
+5 and eliminate terms and change provisions relating to the transfer,
+6 sale, and assignment of tax credits under the Affordable Housing Tax
+7 Credit Act; to authorize additional uses of the tax credits granted
+8 under the Child Care Tax Credit Act; to harmonize provisions; and to
+9 repeal the original sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB182 LB182
+2025 2025
+1 Section 1. Section 77-908, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-908 Every insurance company organized under the stock, mutual,
+4 assessment, or reciprocal plan, except fraternal benefit societies, which
+5 is transacting business in this state shall, on or before March 1 of each
+6 year, pay a tax to the director of one percent of the gross amount of
+7 direct writing premiums received by it during the preceding calendar year
+8 for business done in this state, except that (1) for group sickness and
+9 accident insurance the rate of such tax shall be five-tenths of one
+10 percent and (2) for property and casualty insurance, excluding individual
+11 sickness and accident insurance, the rate of such tax shall be one
+12 percent. A captive insurer authorized under the Captive Insurers Act that
+13 is transacting business in this state shall, on or before March 1 of each
+14 year, pay to the director a tax of one-fourth of one percent of the gross
+15 amount of direct writing premiums received by such insurer during the
+16 preceding calendar year for business transacted in the state. The taxable
+17 premiums shall include premiums paid on the lives of persons residing in
+18 this state and premiums paid for risks located in this state whether the
+19 insurance was written in this state or not, including that portion of a
+20 group premium paid which represents the premium for insurance on Nebraska
+21 residents or risks located in Nebraska included within the group when the
+22 number of lives in the group exceeds five hundred. The tax shall also
+23 apply to premiums received by domestic companies for insurance written on
+24 individuals residing outside this state or risks located outside this
+25 state if no comparable tax is paid by the direct writing domestic company
+26 to any other appropriate taxing authority. Companies whose scheme of
+27 operation contemplates the return of a portion of premiums to
+28 policyholders, without such policyholders being claimants under the terms
+29 of their policies, may deduct such return premiums or dividends from
+30 their gross premiums for the purpose of tax calculations. Any such
+31 insurance company shall receive a credit on the tax imposed as provided
+-2-
+
+LB182 LB182
+2025 2025
+1 in the Creating High Impact Economic Futures Act, the Nebraska Job
+2 Creation and Mainstreet Revitalization Act, the New Markets Job Growth
+3 Investment Act, the Nebraska Higher Blend Tax Credit Act, the Relocation
+4 Incentive Act, the Sustainable Aviation Fuel Tax Credit Act, the Nebraska
+5 Shortline Rail Modernization Act, the Child Care Tax Credit Act, and the
+6 Affordable Housing Tax Credit Act.
+7 Sec. 2. Section 77-2502, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 77-2502 For purposes of the Affordable Housing Tax Credit Act:
+10 (1) Allocation year means the year for which the authority awards
+11 Nebraska affordable housing tax credits pursuant to the act;
+12 (2) Authority means the Nebraska Investment Finance Authority;
+13 (3) Eligibility statement means a statement authorized and issued by
+14 the authority certifying that a given project is a qualified project that
+15 qualifies for Nebraska affordable housing tax credits;
+16 (4) Federal low-income housing tax credit means the federal tax
+17 credit provided in section 42 of the Internal Revenue Code of 1986, as
+18 amended;
+19 (5) Nebraska affordable housing tax credit means the nonrefundable
+20 tax credit authorized in section 77-2503;
+21 (6) Qualified project means a qualified low-income building or
+22 buildings, as that term is defined in section 42 of the Internal Revenue
+23 Code of 1986, as amended; and
+24 (7) Qualified taxpayer means a taxpayer owning an interest, direct
+25 or indirect, in a qualified project; and
+26 (7) (8) Taxpayer means a person, firm, corporation, or other
+27 business entity subject to the income tax imposed by section 77-2715 or
+28 77-2734.02, an insurance company subject to premium and related
+29 retaliatory tax liability imposed by section 44-150, 77-908, or 81-523,
+30 or a financial institution subject to the franchise tax imposed by
+31 sections 77-3801 to 77-3807, or a nonprofit corporation of the type
+-3-
+
+LB182 LB182
+2025 2025
+1 listed in 26 U.S.C. 501(c)(3) or 26 U.S.C. 501(c)(4).
+2 Sec. 3. Section 77-2503, Revised Statutes Cumulative Supplement,
+3 2024, is amended to read:
+4 77-2503 (1) An owner of an affordable housing project seeking a
+5 Nebraska affordable housing tax credit shall file an application with the
+6 authority on a form prescribed by the authority. A qualified taxpayer
+7 shall be allowed a nonrefundable tax credit if the authority determines
+8 that the project for which tax credits are sought is a qualified project.
+9 (2) If the requirements of subsection (1) of this section are met,
+10 the authority shall issue an eligibility statement to the owner of such
+11 qualified project stating the amount of Nebraska affordable housing tax
+12 credits allocated to the qualified project. The amount of such tax
+13 credits shall be the amount of federal low-income housing tax credits
+14 available to such project, except as otherwise provided in subsection (4)
+15 of this section. Tax credits for each building in a qualified project
+16 shall be issued for the first six years of the credit period as defined
+17 in 26 U.S.C. 42(f)(1), except that any reduction in the credit allowable
+18 in the first year of the credit period due to the calculation in 26
+19 U.S.C. 42(f)(2) shall be allowable in the seventh year of the credit
+20 period. The authority shall only allocate tax credits to qualified
+21 projects that are placed in service after January 1, 2018.
+22 (3) If the owner of the qualified project is (a) a partnership, (b)
+23 a limited liability company, or (c) a corporation having an election in
+24 effect under subchapter S of the Internal Revenue Code of 1986, as
+25 amended, the Nebraska affordable housing tax credit shall be allocated
+26 among some or all of the partners, members, or shareholders of the owner
+27 of the qualified project in any manner agreed to by such persons, but
+28 only if such persons have been admitted as partners or members, or have
+29 acquired their shares, on or prior to February 15 of the year in which
+30 the tax return, or amended return, claiming the tax credit is filed. A
+31 qualified taxpayer may transfer, sell, or assign all or part of his or
+-4-
+
+LB182 LB182
+2025 2025
+1 her ownership interest, including his or her interest in the tax credits
+2 authorized in this section. A taxpayer may transfer, sell, or assign the
+3 tax credits to another taxpayer. For any tax year in which an ownership
+4 such an interest or the tax credits are is transferred, sold, or assigned
+5 pursuant to this subsection, the transferor shall notify the Department
+6 of Revenue of the transfer, sale, or assignment and provide the tax
+7 identification number of the new owner or tax credit purchaser at least
+8 thirty days prior to the new owner or tax credit purchaser claiming the
+9 tax credits. The notification shall be in the manner prescribed by the
+10 department.
+11 (4) The maximum amount of Nebraska affordable housing tax credits
+12 awarded to all qualified projects in any given allocation year shall be
+13 no more than one hundred percent of the total amount of federal low-
+14 income housing tax credits awarded by the authority in the same
+15 allocation year. Notwithstanding any other provision of the Affordable
+16 Housing Tax Credit Act, the authority is prohibited from awarding to a
+17 qualified project any combined amount of federal low-income housing tax
+18 credits and Nebraska affordable housing tax credits that is more than
+19 necessary to make the qualified project financially feasible.
+20 (5) Any Nebraska affordable housing tax credits granted under this
+21 section may be used to offset any income taxes due under section 77-2715
+22 or 77-2734.02, any premium and related retaliatory taxes due under
+23 section 44-150, 77-908, or 81-523, or any franchise taxes due under
+24 sections 77-3801 to 77-3807.
+25 (6) The tax credit shall not be used to reduce the tax liability of
+26 the qualified taxpayer to less than zero. Any tax credit claimed but not
+27 used in a taxable year may be carried forward.
+28 Sec. 4. Section 77-2506, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 77-2506 If a portion of any federal low-income housing tax credits
+31 taken on a qualified project is required to be recaptured or is otherwise
+-5-
+
+LB182 LB182
+2025 2025
+1 disallowed under 26 U.S.C. 42 during the 6-year period described in
+2 subsection (2) of section 77-2503, a portion of the Nebraska affordable
+3 housing tax credits with respect to such project shall also be recaptured
+4 from the qualified taxpayer who claimed such credits. The percentage of
+5 Nebraska affordable housing tax credits subject to recapture under this
+6 section shall be equal to the percentage of federal low-income housing
+7 tax credits subject to recapture or otherwise disallowed during such
+8 period. Any Nebraska affordable housing tax credits recaptured or
+9 disallowed under this section shall increase the tax liability of the
+10 qualified taxpayer who claimed the credits in the year the Department of
+11 Revenue declares the tax credits to be disallowed or recaptured.
+12 Sec. 5. Section 77-2508, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 77-2508 (1) The changes made in sections 77-2502, 77-2503, and
+15 77-2505 by Laws 2022, LB800, shall apply to taxable years beginning or
+16 deemed to begin on or after January 1, 2023.
+17 (2) The changes made in sections 77-2502, 77-2503, and 77-2506 by
+18 this legislative bill shall apply to conditional reservations of Nebraska
+19 affordable housing tax credits made by the authority on and after July 1,
+20 2026.
+21 Sec. 6. Section 77-3806, Revised Statutes Cumulative Supplement,
+22 2024, is amended to read:
+23 77-3806 (1) The tax return shall be filed and the total amount of
+24 the franchise tax shall be due on the fifteenth day of the third month
+25 after the end of the taxable year. No extension of time to pay the tax
+26 shall be granted. If the Tax Commissioner determines that the amount of
+27 tax can be computed from available information filed by the financial
+28 institutions with either state or federal regulatory agencies, the Tax
+29 Commissioner may, by regulation, waive the requirement for the financial
+30 institutions to file returns.
+31 (2) Sections 77-2714 to 77-27,135 relating to deficiencies,
+-6-
+
+LB182 LB182
+2025 2025
+1 penalties, interest, the collection of delinquent amounts, and appeal
+2 procedures for the tax imposed by section 77-2734.02 shall also apply to
+3 the tax imposed by section 77-3802. If the filing of a return is waived
+4 by the Tax Commissioner, the payment of the tax shall be considered the
+5 filing of a return for purposes of sections 77-2714 to 77-27,135.
+6 (3) No refund of the tax imposed by section 77-3802 shall be allowed
+7 unless a claim for such refund is filed within ninety days of the date on
+8 which (a) the tax is due or was paid, whichever is later, (b) a change is
+9 made to the amount of deposits or the net financial income of the
+10 financial institution by a state or federal regulatory agency, or (c) the
+11 Nebraska Investment Finance Authority issues an eligibility statement to
+12 the financial institution pursuant to the Affordable Housing Tax Credit
+13 Act.
+14 (4) Any such financial institution shall receive a credit on the
+15 franchise tax as provided under the Affordable Housing Tax Credit Act,
+16 the Creating High Impact Economic Futures Act, the Nebraska Higher Blend
+17 Tax Credit Act, the Nebraska Job Creation and Mainstreet Revitalization
+18 Act, the Nebraska Property Tax Incentive Act, the Relocation Incentive
+19 Act, the New Markets Job Growth Investment Act, the Sustainable Aviation
+20 Fuel Tax Credit Act, the Child Care Tax Credit Act, and the Nebraska
+21 Shortline Rail Modernization Act.
+22 Sec. 7. Section 77-7202, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 77-7202 For purposes of the Child Care Tax Credit Act:
+25 (1) Child means an individual who is five years of age or less;
+26 (2) Department means the Department of Revenue;
+27 (3) Eligible program means a program that is licensed as a family
+28 child care home I, family child care home II, child care center, or
+29 preschool and operates as a for-profit child care business or is a
+30 nonprofit organization under the Internal Revenue Code of 1986, as
+31 amended;
+-7-
+
+LB182 LB182
+2025 2025
+1 (4) Intermediary means any organization that distributes funds for
+2 the purpose of supporting an eligible program;
+3 (5) Parent or legal guardian means an individual who claims a child
+4 as a dependent for federal income tax purposes;
+5 (6) Qualifying contribution means a contribution in the form of
+6 cash, check, cash equivalent, agricultural commodity, livestock, or
+7 publicly traded security that is made:
+8 (a) For the establishment or operation of an eligible program;
+9 (b) For the establishment of a grant or loan program for parents
+10 requiring financial assistance for an eligible program;
+11 (c) To an early childhood collaborative or another intermediary to
+12 provide training, technical assistance, or mentorship to child care
+13 providers;
+14 (d) For the establishment or ongoing costs of an information
+15 dissemination program that assists parents with information and referral
+16 services for child care;
+17 (e) To a for-profit child care business, including family home
+18 providers. The for-profit child care business must use the proceeds of a
+19 qualifying contribution for (i) the acquisition or improvement of child
+20 care facilities, (ii) the acquisition of equipment, (iii) providing
+21 services, or (iv) employee retention; or
+22 (f) To an intermediary for the establishment or operation of an
+23 eligible program or for the establishment of a grant or loan program for
+24 parents requiring financial assistance for an eligible program;
+25 (7) Taxpayer means any person subject to the income tax imposed by
+26 the Nebraska Revenue Act of 1967, including . The term includes resident
+27 and nonresident individuals, estates, trusts, and corporations, an
+28 insurance company subject to premium and related retaliatory tax
+29 liability imposed by section 44-150, 77-908, or 81-523, or a financial
+30 institution subject to the franchise tax imposed by sections 77-3801 to
+31 77-3807; and
+-8-
+
+LB182 LB182
+2025 2025
+1 (8) Total household income means federal modified adjusted gross
+2 income.
+3 Sec. 8. Section 77-7204, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 77-7204 (1) For taxable years beginning or deemed to begin on or
+6 after January 1, 2024, under the Internal Revenue Code of 1986, as
+7 amended, any taxpayer who makes a qualifying contribution during the
+8 taxable year shall be eligible to receive a credit that may be used to
+9 offset any income taxes due under against the income tax imposed by the
+10 Nebraska Revenue Act of 1967, any premium and related retaliatory taxes
+11 due under section 44-150, 77-908, or 81-523, or any franchise taxes due
+12 under sections 77-3801 to 77-3807.
+13 (2) The credit provided in this section shall be a nonrefundable
+14 credit equal to either one hundred percent or seventy-five percent of the
+15 taxpayer's qualifying contribution made during the taxable year, except
+16 that the credit for a taxpayer shall not exceed one hundred thousand
+17 dollars for any single taxable year.
+18 (3) The credit shall be equal to one hundred percent of the
+19 qualifying contribution if:
+20 (a) The eligible program that receives the contribution has a
+21 physical presence in an opportunity zone in this state designated
+22 pursuant to the federal Tax Cuts and Jobs Act, Public Law 115-97; or
+23 (b) The eligible program that receives the contribution has at least
+24 one child enrolled in the child care subsidy program established pursuant
+25 to sections 68-1202 and 68-1206 and the child care provider is actively
+26 caring and billing for the child as verified by the Department of Health
+27 and Human Services. Attracting child care providers into the child care
+28 subsidy program and retaining providers in the program are directly
+29 connected to the administration of the program. Verifying that the child
+30 care provider is actively caring and billing for an eligible child is in
+31 furtherance of the child care subsidy program. The Department of Revenue
+-9-
+
+LB182 LB182
+2025 2025
+1 shall not use any verification information obtained from the Department
+2 of Health and Human Services except for purposes directly connected with
+3 the administration of the Child Care Tax Credit Act.
+4 (4) The credit shall be equal to seventy-five percent of the
+5 qualifying contribution if subsection (3) of this section does not apply.
+6 (5) A taxpayer shall not be eligible for the credit provided in this
+7 section if the taxpayer claimed a charitable contribution deduction for
+8 the qualifying contribution on the taxpayer's federal income tax return.
+9 (6) A taxpayer shall apply for the credit provided in this section
+10 by submitting an application to the department with the following
+11 information:
+12 (a) Documentation to show that the contribution is a qualifying
+13 contribution; and
+14 (b) Any other documentation required by the department.
+15 (7) Subject to subsection (8) of this section, if the department
+16 determines that the taxpayer qualifies for tax credits under this
+17 section, the department shall approve the application and certify the
+18 amount of credits approved to the taxpayer.
+19 (8) The department shall consider applications in the order in which
+20 they are received and may approve tax credits under this section each
+21 year until the total amount of credits approved for the year equals two
+22 million five hundred thousand dollars.
+23 (9) If a taxpayer's credit under this section exceeds the total tax
+24 due, the taxpayer may carry forward the excess credit for up to five
+25 taxable years after the taxable year in which the credit was first
+26 allowed, but the taxpayer must use the carryover credit in the earliest
+27 taxable year possible.
+28 (10) A contribution shall not qualify for a credit under this
+29 section if the contribution is made to a child care provider in which the
+30 taxpayer or a person related to the taxpayer has a financial interest,
+31 unless the contribution is part of a bona fide arm's length transaction.
+-10-
+
+LB182 LB182
+2025 2025
+1 (11) A taxpayer claiming a tax credit under this section against any
+2 premium and related retaliatory taxes due under section 44-150, 77-908,
+3 or 81-523 shall not be required to pay any additional retaliatory tax as
+4 a result of claiming the tax credit. The tax credit may fully offset any
+5 retaliatory tax imposed under Nebraska law. Any tax credit claimed shall
+6 be considered a payment of tax for purposes of subsection (1) of section
+7 77-2734.03.
+8 Sec. 9. Section 81-523, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 81-523 (1) For the purpose of maintaining the office of the State
+11 Fire Marshal and such other fire prevention activities as the Governor
+12 may direct, every foreign and alien insurance company including
+13 nonresident attorneys for subscribers to reciprocal insurance exchanges
+14 shall, on or before March 1, pay a tax to the Director of Insurance of
+15 three-fourths of one percent of the gross direct writing premiums and
+16 assessments received by each of such companies during the preceding
+17 calendar year for fire insurance business done in this state.
+18 (2) For the purpose set forth in subsection (1) of this section,
+19 every domestic insurance company including resident attorneys for
+20 subscribers to reciprocal insurance exchanges shall, on or before March
+21 1, pay a tax to the Director of Insurance of three-eighths of one percent
+22 of the gross direct writing premiums and assessments received by each of
+23 such companies during the preceding calendar year for fire insurance
+24 business done in this state.
+25 (3) The term fire insurance business, as used in subsections (1),
+26 (2), and (4) of this section, shall include, but not be limited to,
+27 premiums of policies on fire risks on automobiles, whether written under
+28 floater form or otherwise.
+29 (4) Return premiums on fire insurance business, subject to the fire
+30 insurance tax, in accordance with subsections (1) and (2) of this
+31 section, may be deducted from the gross direct writing premiums for the
+-11-
+
+LB182 LB182
+2025 2025
+1 purpose of the tax calculations provided for by subsections (1) and (2)
+2 of this section. In the case of mutual companies and assessment
+3 associations, the dividends paid or credited to policyholders or members
+4 in this state shall be construed to be return premiums.
+5 (5) Any tax collected pursuant to subsections (1) and (2) of this
+6 section shall be remitted to the State Treasurer for credit to the
+7 General Fund.
+8 (6) An insurance company described in this section shall receive a
+9 credit on the tax imposed under this section as provided in the
+10 Affordable Housing Tax Credit Act, the Child Care Tax Credit Act, and the
+11 Relocation Incentive Act.
+12 Sec. 10. Original sections 77-2506 and 81-523, Reissue Revised
+13 Statutes of Nebraska, and sections 77-908, 77-2502, 77-2503, 77-2508,
+14 77-3806, 77-7202, and 77-7204, Revised Statutes Cumulative Supplement,
+15 2024, are repealed.
+-12-
+
+[DELETED: yBA B F A A r t r a t t a s7 a 8 R R S o N as 7 7 7 7 7 7 a7 R S C S 2 t rasCur0B2L52]
+[DELETED: S 1 S 7 R S C S27 E i c o u t s maiydfa i t r o s t s b f o o0p1s a a i t r o s t s b o2p3i4y5a o d w p r b s i d t6p7p8t9i0g1r2n o l i t g e f h T t s a3a4i r o t s o r l o t5s6t a o a t a C w s o7o c t r o a p o p t8p9o t p m d s r p o d f0t g p f t p o t c A s1i2L52]
+[DELETED: i t C H I E F A t N JC a M R A t N M J GIISAS 2 S 7 R S C S270( A y m t y f w t a a1N2(3(4t5q6( F l h t c m t f t7c8a9(0t1( Q p m a q l b o2b3C4(5o6( ( T m a p f c o o7b87 a i c s t p a r9r0o a f i s t t f t i b1s 7 t 7 o a n c o t t2L52]
+[DELETED: lS 3 S 7 R S C S27 ( A o o a a h p s Na o a f p b t a A q tst(0t1q2c a t t q p T a o s t3c s b t a o f l h t c4a5o t s T c f e b i a q p6s7i8i t f y o t c p d t t c i 29U 4 s b a i t s y o t c0p T a s o a t c t q1p2(3a4e u s S o t I R C o 1 a5a t N a h t c s b a6a7o t q p i a m a t b s p b8o9a0t1q2L52]
+[DELETED: hatspo R o t t s o a a p t titt0d1( T m a o N a h t c2a3n m t o h p o t t a o f l4i h t c a b t a i t s5a y N a o p o t A6H7q8c a N a h t c t i m t9n0(1s2o 7 a p a r r t d u3s 4 7 o 8 o a f t d u4s5(6t7u8S 4 S 7 R R S o N i9a071t2L52]
+[DELETED: d u 2 U 4 d t 6 p d ishfNst c s t r o o d d sp A N a h t c r od u t s s i t t l o t0q1R2S 5 S 7 R S C S3247 ( T c m i s 7 7 a576d7( T c m i s 7 7 a 7 b8t9a021S 6 S 7 R S C S22374t5a6s7t c b c f a i f b t f8i w e s o f r a t T9C0i1( S 7 t 7 r t d2L52]
+[DELETED: p i t c o d a a aptbf(uwm t t a o d o t n f i o t0f1N2t3A4( A s f i s r a c o t5f6t7T8A t N P T I A t R I9A0F T C A t C C T C A a t N1S2S 7 S 7 R S C S32475(6(7(8c c h I f c c h I c c c o9p a o a a f c c b o i 0n o u t I R C o 1 a1a2L52]
+[DELETED: (t(a( Q c m a c i t f oc c c e a c l op(( F t e o a g o l p f p0r1(2p t t a o m t c c3p4( F t e o o c o a i5d6s7( T a f c c b i f h8p9q0c f ( t a o e ( p1s2( T a i f t e o o o a3e4p5(6t7a n i e t a c a8i c s t p a r r t9l0i172L52]
+[DELETED: ( T h i m f m a giS 8 S 7 R S C S27 ( F t y b o d t b o oa J 1 2 u t I R C o 1 aa a t w m a q c d tto0N1d2u3( T c p i t s s b a n4c5t6t t c f a t s n e o h t7d8( T c s b e t o h p o t9q0( T e p t r t c h 1p p i a o z i t s d2p3(4o5t6c7a8s p a r p i t p a d9c0c1f2L52]
+[DELETED: sot( T c s b e t s p o tq(st(0b s a a t t d w t f1i2( D t s t t c i a q3c4(5( S t s ( o t s i t d6d t t t q f t c u t7s t d s a t a a c t8a9(0t a r a m a t c u t s e1y2m3(4d t t m c f t e c f u t f5t y a t t y i w t c w f6a7t8( A c s n q f a c u t9s0t1u2L52]
+[DELETED: (poarb7S 9 S 8 R R S o N ia081F2m d e f a a i c i3n4s5t o o p o t g d w p a6a r b e o s c d t p7c8( F t p s f i s ( o t s9e d i c i r a f0s112o3s c d t p c y f f i4b5( T t f i b a u i s (6( a ( o t s s i b n b l t7p8f9(0i t i a w s ( a ( o t1s2L52]
+[DELETED: po t s I t c o m c a aai(s s b r t t S T f c t tG(c o t t i u t s a p i t0A1R2S 1  O s 7 a 8 R R3S o N a s 7 7 7 747 7 a 7 R S C S522L52]

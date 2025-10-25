@@ -1,0 +1,31 @@
+Title: In ER36, on Page 18, Sec. 18, Line 15, strike starting with "the term"
+Official Title: In ER36, on Page 18, Sec. 18, Line 15, strike starting with "the term"
+Number of Sections: 1
+Source: versions - Storer FA116
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA116 FA116
+LB317 LB317
+Floor Amendment To LB317
+Introduced by Storer, 43.
+ending on line 16 with "years".
+-1-
+[DELETED: yS6F7L]
+
+
+================================================================================
+
+Raw Text:
+FA116 FA116
+LB317 LB317
+Floor Amendment To LB317
+Introduced by Storer, 43.
+In ER36, on Page 18, Sec. 18, Line 15, strike starting with "the term"
+ending on line 16 with "years".
+-1-
+
+[DELETED: yS6F7L]

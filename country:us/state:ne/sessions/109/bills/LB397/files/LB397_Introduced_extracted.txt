@@ -1,0 +1,843 @@
+Title: LEGISLATIVE BILL 397
+Official Title: LEGISLATIVE BILL 397
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LB397 LB397
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Moser, 22.
+Read first time January 17, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to labor; to amend sections 44-3,158,
+2 48-144.03, and 48-446, Reissue Revised Statutes of Nebraska; to
+3 eliminate provisions relating to safety committees and a safety
+4 program; to terminate a fund; to harmonize provisions; to repeal the
+5 original sections; and to outright repeal sections 48-443, 48-444,
+6 and 48-445, Reissue Revised Statutes of Nebraska.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+LB397 LB397
+2025 2025
+1 Section 1. Section 44-3,158, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 44-3,158 (1) For purposes of this section:
+4 (a) Assigned risk employer means a Nebraska employer that is in good
+5 faith entitled to, but is unable to obtain, workers' compensation
+6 insurance through ordinary methods; and
+7 (b) Director means the Director of Insurance.
+8 (2)(a) The director shall enter into an agreement with one or more
+9 workers' compensation insurers to provide workers' compensation insurance
+10 to assigned risk employers. In selecting an insurer to become an assigned
+11 risk insurer, the director shall consider the cost of coverage to
+12 assigned risk employers, the loss control and claims handling services
+13 available from the workers' compensation insurer, the financial condition
+14 of the workers' compensation insurer, and any other relevant factors. An
+15 agreement entered into under this subsection may not exceed five years.
+16 (b) If the director determines that the cost of workers'
+17 compensation insurance premiums for an insurer to provide assigned risk
+18 coverage pursuant to such an agreement would be unreasonably high, the
+19 director may enter into an agreement in which the assigned risk insurer
+20 covers a portion of the losses incurred by the assigned risk employer.
+21 Any agreement that involves an average rate level of less than two and
+22 one-half times the prospective loss costs approved for an advisory
+23 organization pursuant to section 44-7511 shall not be considered
+24 unreasonably high for the purposes of this section. Pursuant to any such
+25 agreement, remaining losses shall be assessed against all workers'
+26 compensation insurers writing workers' compensation insurance in this
+27 state and risk management pools created under the Intergovernmental Risk
+28 Management Act based on their workers' compensation premiums written in
+29 this state or contributions made to risk management pools. Assigned risk
+30 premiums shall be excluded from the basis for such assessments.
+31 (c) If the assigned risk system described in subdivisions (2)(a) and
+-2-
+LB397 LB397
+2025 2025
+1 (b) of this section ceases to be viable because no qualified insurer is
+2 willing to provide workers' compensation coverage at an average rate
+3 level of two and one-half times the prospective loss costs approved for
+4 an advisory organization pursuant to section 44-7511 without also
+5 requiring substantial sharing of losses with all other workers'
+6 compensation insurers writing workers' compensation insurance in this
+7 state and risk management pools created under the Intergovernmental Risk
+8 Management Act, then the director may, after consultation with insurers
+9 authorized to issue workers' compensation insurance policies in this
+10 state, create a reasonable alternative assigned risk system involving the
+11 sharing of premiums and losses for assigned risk employers among all such
+12 workers' compensation insurers writing workers' compensation insurance in
+13 this state and such risk management pools. If established, such
+14 alternative assigned risk system shall not utilize an average rate level
+15 of less than two and one-half times the prospective loss costs approved
+16 for an advisory organization pursuant to section 44-7511.
+17 (3) The director may adopt and promulgate rules and regulations to
+18 carry out this section.
+19 (4) An employer shall not be considered to be in good faith entitled
+20 to be covered by workers' compensation insurance under this section if:
+21 (a) The employer is required to establish a safety committee
+22 pursuant to sections 48-443 to 48-445 and is not in compliance with such
+23 sections;
+24 (a) (b) The employer is in default on workers' compensation
+25 premiums;
+26 (b) (c) The employer has failed to reimburse an insurer for amounts
+27 to be repaid pursuant to workers' compensation insurance written on a
+28 policy with a deductible;
+29 (c) (d) The employer has failed to provide an insurer reasonable
+30 access to books and records necessary for a premium audit;
+31 (d) (e) The employer has defrauded or attempted to defraud an
+-3-
+LB397 LB397
+2025 2025
+1 insurer; or
+2 (e) (f) The employer is found to have been owned or controlled by
+3 persons who owned or controlled a prior employer that is or would be
+4 ineligible for coverage pursuant to subdivisions (4)(a) (4)(b) through
+5 (d) (e) of this section.
+6 Sec. 2. Section 48-144.03, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 48-144.03 (1) Notwithstanding policy provisions that stipulate a
+9 workers' compensation insurance policy to be a contract with a fixed term
+10 of coverage that expires at the end of the term, coverage under a
+11 workers' compensation insurance policy shall continue in full force and
+12 effect until notice is given in accordance with this section.
+13 (2) No cancellation of a workers' compensation insurance policy
+14 within the policy period shall be effective unless notice of the
+15 cancellation is given by the workers' compensation insurer to the
+16 Nebraska Workers' Compensation Court and to the employer. No such
+17 cancellation shall be effective until thirty days after the giving of
+18 such notices, except that the cancellation may be effective ten days
+19 after the giving of such notices if such cancellation is based on (a)
+20 notice from the employer to the insurer to cancel the policy, (b)
+21 nonpayment of premium due the insurer under any policy written by the
+22 insurer for the employer, (c) failure of the employer to reimburse
+23 deductible losses as required under any policy written by the insurer for
+24 the employer, or (d) failure of the employer, if covered pursuant to
+25 section 44-3,158, to comply with sections 48-443 to 48-445.
+26 (3) No workers' compensation insurance policy shall expire or lapse
+27 at the end of the policy period unless notice of nonrenewal is given by
+28 the workers' compensation insurer to the compensation court and to the
+29 employer. No workers' compensation insurance policy shall expire or lapse
+30 until thirty days after the giving of such notices, except that a policy
+31 may expire or lapse ten days after the giving of such notices if the
+-4-
+LB397 LB397
+2025 2025
+1 nonrenewal is based on (a) notice from the employer to the insurer to not
+2 renew the policy, (b) nonpayment of premium due the insurer under any
+3 policy written by the insurer for the employer, (c) failure of the
+4 employer to reimburse deductible losses as required under any policy
+5 written by the insurer for the employer, or (d) failure of the employer,
+6 if covered pursuant to section 44-3,158, to comply with sections 48-443
+7 to 48-445.
+8 (4) Subsections (2) and (3) of this section terminate on January 1,
+9 2012. Subsections (5), (6), and (7) of this section apply beginning on
+10 January 1, 2012.
+11 (2)(a) (5)(a) This subsection applies to workers' compensation
+12 policies other than master policies or multiple coordinated policies
+13 obtained by a professional employer organization.
+14 (b) No cancellation of a policy within the policy period shall be
+15 effective unless notice of the cancellation is given by the workers'
+16 compensation insurer to the compensation court and to the employer. No
+17 such cancellation shall be effective until thirty days after giving such
+18 notices, except that the cancellation may be effective ten days after the
+19 giving of such notices if such cancellation is based on (i) notice from
+20 the employer to the insurer to cancel the policy, (ii) nonpayment of
+21 premium due the insurer under any policy written by the insurer for the
+22 employer, or (iii) failure of the employer to reimburse deductible losses
+23 as required under any policy written by the insurer for the employer , or
+24 (iv) failure of the employer, if covered pursuant to section 44-3,158, to
+25 comply with sections 48-443 to 48-445.
+26 (c) No policy shall expire or lapse at the end of the policy period
+27 unless notice of nonrenewal is given by the workers' compensation insurer
+28 to the compensation court and to the employer. No policy shall expire or
+29 lapse until thirty days after giving such notices, except that a policy
+30 may expire or lapse ten days after the giving of such notices if the
+31 nonrenewal is based on (i) notice from the employer to the insurer to not
+-5-
+LB397 LB397
+2025 2025
+1 renew the policy, (ii) nonpayment of premium due the insurer under any
+2 policy written by the insurer for the employer, or (iii) failure of the
+3 employer to reimburse deductible losses as required under any policy
+4 written by the insurer for the employer , or (iv) failure of the
+5 employer, if covered pursuant to section 44-3,158, to comply with
+6 sections 48-443 to 48-445.
+7 (3)(a) (6)(a) This subsection applies to workers' compensation
+8 master policies obtained by a professional employer organization.
+9 (b) No cancellation of a master policy within the policy period
+10 shall be effective unless notice of the cancellation is given by the
+11 workers' compensation insurer to the compensation court and to the
+12 professional employer organization. No such cancellation shall be
+13 effective until thirty days after giving such notices.
+14 (c) No termination of coverage for a client or any employees of a
+15 client under a master policy within the policy period shall be effective
+16 unless notice is given by the workers' compensation insurer to the
+17 compensation court and to the professional employer organization. No such
+18 termination of coverage shall be effective until thirty days after giving
+19 such notices, except that the termination of coverage may be effective
+20 ten days after the giving of such notices if such termination is based on
+21 (i) notice from the client to the professional employer organization or
+22 the insurer to terminate the coverage or (ii) notice from the
+23 professional employer organization of the client's nonpayment of premium.
+24 (d) No master policy shall expire or lapse at the end of the policy
+25 period unless notice of nonrenewal is given by the workers' compensation
+26 insurer to the compensation court and to the professional employer
+27 organization. No master policy shall expire or lapse until thirty days
+28 after giving such notices.
+29 (e) Notice of the cancellation or nonrenewal of a master policy or
+30 the termination of coverage for a client or the employees of a client
+31 under such a policy shall be given by the professional employer
+-6-
+LB397 LB397
+2025 2025
+1 organization to the client within fifteen days after the cancellation,
+2 nonrenewal, or termination unless replacement coverage has been obtained.
+3 (4)(a) (7)(a) This subsection applies to workers' compensation
+4 multiple coordinated policies obtained by a professional employer
+5 organization.
+6 (b) No cancellation of a policy within the policy period shall be
+7 effective unless notice of the cancellation is given by the workers'
+8 compensation insurer to the compensation court, to the professional
+9 employer organization, and to the client employer. No such cancellation
+10 shall be effective until thirty days after giving such notices, except
+11 that the cancellation may be effective ten days after giving such notices
+12 if such cancellation is based on (i) notice from the client to the
+13 professional employer organization or the insurer to cancel the policy,
+14 (ii) notice from the professional employer organization of the client's
+15 nonpayment of premium or failure to reimburse deductibles for policies
+16 issued pursuant to section 48-146.03, (iii) failure of the client, if
+17 covered pursuant to section 44-3,158, to comply with sections 48-443 to
+18 48-445, or (iii) (iv) for policies issued pursuant to section 44-3,158,
+19 nonpayment of premium or failure to reimburse deductibles for policies
+20 issued pursuant to section 48-146.03.
+21 (c) No termination of coverage for any employees of the client
+22 during the policy period shall be effective unless notice is given by the
+23 workers' compensation insurer to the compensation court, to the
+24 professional employer organization, and to the client. No such
+25 termination of coverage shall be effective until thirty days after giving
+26 such notices, except that the termination of coverage may be effective
+27 ten days after the giving of such notices if such termination is based on
+28 (i) notice from the client to the professional employer organization or
+29 the insurer to terminate the coverage or (ii) notice from the
+30 professional employer organization of the client's nonpayment of premium
+31 or failure to reimburse deductibles for policies issued pursuant to
+-7-
+LB397 LB397
+2025 2025
+1 section 48-146.03.
+2 (d) No policy shall expire or lapse at the end of the policy period
+3 unless notice of nonrenewal is given by the workers' compensation insurer
+4 to the compensation court, to the professional employer organization, and
+5 to the client. No policy shall expire or lapse until thirty days after
+6 giving such notices, except that a policy may expire or lapse ten days
+7 after the giving of such notices if the nonrenewal is based on (i) notice
+8 from the client to the professional employer organization or the insurer
+9 to not renew the policy, (ii) notice from the professional employer
+10 organization of the client's nonpayment of premium or failure to
+11 reimburse deductibles for policies issued pursuant to section 48-146.03,
+12 (iii) failure of the client, if covered pursuant to section 44-3,158, to
+13 comply with sections 48-443 to 48-445, or (iii) (iv) for policies issued
+14 pursuant to section 44-3,158, nonpayment of premium or failure to
+15 reimburse deductibles for policies issued pursuant to section 48-146.03.
+16 (e) An insurer may refrain from sending notices required by this
+17 subsection to a professional employer organization's client based upon
+18 the professional employer organization's representation that coverage has
+19 been or will be replaced. Such representation shall not absolve the
+20 insurer of its responsibility to continue coverage if such representation
+21 proves inaccurate.
+22 (5) (8) Notwithstanding other provisions of this section, if
+23 replacement workers' compensation insurance coverage has been secured
+24 with another workers' compensation insurer, then the cancellation or
+25 nonrenewal of the policy or the termination of coverage for a client or
+26 employees of a client under the policy shall be effective as of the
+27 effective date of such other insurance coverage.
+28 (6) (9) The notices required by this section shall state the reason
+29 for the cancellation or nonrenewal of the policy or termination of
+30 coverage for a client or employees of a client under a policy.
+31 (7) (10) The notices required by this section shall be provided in
+-8-
+LB397 LB397
+2025 2025
+1 writing and shall be deemed given upon the mailing of such notices by
+2 certified mail, except that notices from insurers to the compensation
+3 court may be provided by electronic means if such electronic means is
+4 approved by the administrator of the compensation court. If notice is
+5 provided by electronic means pursuant to such an approval, it shall be
+6 deemed given upon receipt and acceptance by the compensation court.
+7 Sec. 3. Section 48-446, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 48-446 (1) There is hereby created the Workplace Safety
+10 Consultation Program. It is the intent of the Legislature that such
+11 program help provide employees in Nebraska with safe and healthful
+12 workplaces.
+13 (2) Under the Workplace Safety Consultation Program, the Department
+14 of Labor may conduct workplace inspections and consultations to determine
+15 whether employers are complying with standards issued by the federal
+16 Occupational Safety and Health Administration or the federal Mine Safety
+17 and Health Administration for safe and healthful workplaces. Workplace
+18 inspections and safety consultations shall be performed by employees of
+19 the Department of Labor who are knowledgeable and experienced in the
+20 occupational safety and health field and who are trained in the federal
+21 standards and in the recognition of safety and health hazards. The
+22 Department of Labor may employ qualified persons as may be necessary to
+23 carry out this section.
+24 (3) All employers shall be subject to occupational safety and health
+25 inspections covering their Nebraska operations. Employers shall be
+26 selected by the Commissioner of Labor for inspection on the basis of
+27 factors intended to identify the likelihood of workplace injuries and to
+28 achieve the most efficient utilization of safety personnel of the
+29 Department of Labor. Such factors shall include:
+30 (a) The amount of premium paid by the employer for workers'
+31 compensation insurance;
+-9-
+LB397 LB397
+2025 2025
+1 (b) The experience modification produced by the experience rating
+2 system referenced in section 44-7524;
+3 (c) Whether the employer is covered by workers' compensation
+4 insurance under section 44-3,158;
+5 (d) The relative hazard of the employer's type of business as
+6 evidenced by insurance rates or loss costs filed with the Director of
+7 Insurance for the insurance rating classification or classifications
+8 applicable to the employer;
+9 (e) The nature, type, or frequency of accidents for the employer as
+10 may be reported to the Department of Insurance, the Nebraska Workers'
+11 Compensation Court, or the Department of Labor;
+12 (f) Workplace hazards as may be reported to the Department of
+13 Insurance, the Nebraska Workers' Compensation Court, or the Department of
+14 Labor;
+15 (g) Previous safety and health history;
+16 (h) Possible employee exposure to toxic substances;
+17 (i) Requests by employers for the Department of Labor to inspect
+18 their workplaces or otherwise provide consulting services on a basis by
+19 which the employer will reimburse the Department of Labor; and
+20 (j) All other relevant factors.
+21 (4) Hazards identified by an inspection shall be eliminated within a
+22 reasonable time as specified by the Commissioner of Labor.
+23 (5) An employer who refuses to eliminate workplace hazards in
+24 compliance with an inspection shall be referred to the federal
+25 Occupational Safety and Health Administration or the federal Mine Safety
+26 and Health Administration for enforcement.
+27 (6) At the discretion of the Commissioner of Labor, inspection of an
+28 employer may be repeated to ensure compliance by the employer, with the
+29 expenses incurred by the Department of Labor to be paid by the employer.
+30 (7) The Commissioner of Labor shall adopt and promulgate rules and
+31 regulations establishing a schedule of fees for consultations and
+-10-
+LB397 LB397
+2025 2025
+1 inspections. Such fees shall be established with due regard for the costs
+2 of administering the Workplace Safety Consultation Program. The cost of
+3 consultations and inspections shall be borne by each employer for which
+4 these services are rendered.
+5 (8) There is hereby created the Workplace Safety Consultation
+6 Program Cash Fund. The fund terminates on the effective date of this act,
+7 and the State Treasurer shall transfer any money in the fund on such date
+8 to the General Fund. All fees collected pursuant to the Workplace Safety
+9 Consultation Program shall be remitted to the State Treasurer for credit
+10 to the fund and shall be used for the sole purpose of administering the
+11 program. Any money in the fund available for investment shall be invested
+12 by the state investment officer pursuant to the Nebraska Capital
+13 Expansion Act and the Nebraska State Funds Investment Act.
+14 (9) Each employer provided a consultation or inspection by the
+15 Department of Labor shall retain up-to-date records for each place of
+16 employment as recommended by the inspection or consultation. The employer
+17 shall make such records available to the Department of Labor upon request
+18 to ensure continued progress of the employer's efforts to comply with the
+19 federal Occupational Safety and Health Administration or the federal Mine
+20 Safety and Health Administration standards.
+21 (10) Any person who knowingly operates or causes to be operated a
+22 business in violation of recommendations to correct serious or imminent
+23 hazards as identified by the Workplace Safety Consultation Program shall
+24 be referred to the federal Occupational Safety and Health Administration
+25 or the federal Mine Safety and Health Administration.
+26 (11) The Attorney General, acting on behalf of the Commissioner of
+27 Labor, or the county attorney in a county in which a business is located
+28 or operated may apply to the district court for an order against any
+29 employer in violation of this section.
+30 (12) The Workplace Safety Consultation Program shall not be
+31 construed to alter the duty of care or the liability of an owner or a
+-11-
+LB397 LB397
+2025 2025
+1 business for injuries or death of any person or damage to any property.
+2 The state and its officers and employees shall not be construed to assume
+3 liability arising out of an accident involving a business by reason of
+4 administration of the Workplace Safety Consultation Program.
+5 (13) Inspectors employed by the Department of Labor may inspect any
+6 place of employment with or without notice during normal hours of
+7 operation. Such inspectors may suspend the operation of equipment
+8 determined to constitute an imminent danger situation. Operation of such
+9 equipment shall not resume until the hazardous or unsafe condition is
+10 corrected to the satisfaction of the inspector.
+11 (14) No person with a reasonable cause to believe the truth of the
+12 information shall be subject to civil liability for libel, slander, or
+13 any other relevant tort cause of action by virtue of providing
+14 information without malice on workplace hazards or the nature, type, or
+15 frequency of accidents to the Department of Insurance, the Nebraska
+16 Workers' Compensation Court, or the Department of Labor.
+17 (15) Safety and health inspectors employed by the Department of
+18 Labor shall have the right and power to enter any premise, building, or
+19 structure, public or private, for the purpose of inspecting any work area
+20 or equipment. A refusal by the employer of entry by a safety and health
+21 inspector employed by the Department of Labor shall be a violation of
+22 this subsection. If the Commissioner of Labor finds, after notice and
+23 hearing, that an employer has violated this subsection, he or she may
+24 order payment of a civil penalty of not more than one thousand dollars
+25 for each violation. Each day of continued violation shall constitute a
+26 separate violation.
+27 (16) The Commissioner of Labor shall adopt and promulgate rules and
+28 regulations to carry out this section.
+29 Sec. 4. Original sections 44-3,158, 48-144.03, and 48-446, Reissue
+30 Revised Statutes of Nebraska, are repealed.
+31 Sec. 5. The following sections are outright repealed: Sections
+-12-
+LB397 LB397
+2025 2025
+1 48-443, 48-444, and 48-445, Reissue Revised Statutes of Nebraska.
+-13-
+[DELETED: yMA B F A A r t l t a s 44 a 4 R R S o N te p r t s c a a spoaB7L52]
+[DELETED: Si4(f e t b i u t o w ci((w0t1r i t d s c t c o c t2a r e t l c a c h s3a4o5a6( I t d d t t c o w7c8c9d0c1A2o t t p l c a f a a3o p t s 4 s n b c4u5a r l s b a a a w6c i w w c i i t7s8M9t0p1(7L52]
+[DELETED: (w t p w c c a a a rla a o p t s 4 w ar s s o l w a o wc i w w c i i tsMa t i w c i p i t0s1s2w3t s a s r m p I e s4a5o6f7(8c9(0t1( T e i r t e a s c2p3s4( ( T e i i d o w c5p6(7t b r p t w c i w o 8p9( ( T e h f t p a i r0a1( ( T e h d o a t d a7L52]
+[DELETED: i(p w o o c a p e t i o w bi f c p t s ( ( t(Sa4 ( N p p t s w0o c t e a t e o t t c u 1w2e3( N c o a w c i p4w t p p s b e u n o t5c i g b t w c i t t6N W C C a t t e N s7c s b e u t d a t g o8s n e t t c m b e t d9a t g o s n i s c i b o (0n f t e t t i t c t p (1n o p d t i u a p w b t2i f t e ( f o t e t r3d4t e o ( f o t e i c p t5s6(7a8t9e0u1m e o l t d a t g o s n i t7L52]
+[DELETED: nr t p ( n o p d t i u ap w b t i f t e ( f o te t r d l a r u a pwit(20J1( ( T s a t w c2p o t m p o m c p3o4(5e u n o t c i g b t w6c7s8n9g0t e t t i t c t p ( n o1p2e3a4(5c6(7u8t9l0m e o l t d a t g o s n i t1n7L52]
+[DELETED: rpe t r d l a r u a pw b t i f t e , o ( f o te i c p t s 4 t c ws( ( T s a t w cm( N c o a m p w t p p0s b e u n o t c i g b t1w c i t t c c a t t2p e o N s c s b3e4(5c6u n i g b t w c i t t7c8t9s0t1(2t i t t t c o ( n f t3p4(5p6i t t c c a t t p e7o8a9(0t t o c f a c o t e o a c1u s a p s b g b t p e7L52]
+[DELETED: o t t c w f d a t cn( ( T s a t w cm c p o b a p eo(e u n o t c i g b t wc i t t c c t t pe0s1t2i s c i b o ( n f t c t t3p4(5n o p o f t r d f p6i p t s 4 ( f o t c i7c849n o p o f t r d f p0i1( N t o c f a e o t c2d3w c i t t c c t t4p e o a t t c N s5t6s7t8(9t i t t t c o ( n f t0p1o f t r d f p i p t7L52]
+[DELETED: s(uttgaft n r t p ( n f t p e0o o t c n o p o f t1r2(3c4p t s 4 n o p o f t5r6( A i m r f s n r b t7s t a p e o c b u8t9b o w b r S r s n a t0i1p2( ( N o p o t s i3r w c i c h b s4w a w c i t t c o5n6e o a c u t p s b e a o t7e8(9f t c o n o t p o t o0c1(7L52]
+[DELETED: w a s b d g u t m o s n bc m e t n f i t t cc m b p b e m i s e m ia b t a o t c c I n ipdS 3 S 4 R R S o N ia4  ( T i h c t W S0C P I i t i o t L t s1p h p e i N w s a h2w3(4o5w e a c w s i b t f6O7a H A f s a h w W8i9t D o L w a k a e i t0o1s a i t r o s a h h T2D3c4(5i c t N o E s b6s b t C o L f i o t b o7f8a t m e u o s p o t9D0( T a o p p b t e f w1c7L52]
+[DELETED: ( T e m p b t e rs( W t e i c b w ci( T r h o t e t o b ae b i r o l c f w t D oI f t i r c o ca(0m b r t t D o I t N W1C2( W h a m b r t t D o3I4L5(6(7( R b e f t D o L t i8t9w0(1(2r3( A e w r t e w h i4c w a i s b r t t f5O6a7(8e9e0(1r e a s o f f c a7L52]
+[DELETED: ioct( T i h c t W S CPatC0t1p2b t s i o p t t N C3E4( E e p a c o i b t5D o L s r u r f e p o6e7s8t9f0S1(2b3h4b5o6(7L8o o m a t t d c f a o a a9e0( T W S C P s n b1c7L52]
+[DELETED: bTla(p o e w o w n d n h oo S i m s t o o ede s n r u t h o u c i0c1(2i3a o r t c o a b v o p4i5f o a t t D o I t N6W7( S a h i e b t D o8L9s0o1i e b t D o L s b a v o2t s I t C o L f a n a3h t a e h v t s h o s m4o5f6s7(8r9S0R1S 5  T f s a o r S7L52]
+[DELETED: 47L52]
+
+
+================================================================================
+
+Raw Text:
+LB397 LB397
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 397
+Introduced by Moser, 22.
+Read first time January 17, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to labor; to amend sections 44-3,158,
+2 48-144.03, and 48-446, Reissue Revised Statutes of Nebraska; to
+3 eliminate provisions relating to safety committees and a safety
+4 program; to terminate a fund; to harmonize provisions; to repeal the
+5 original sections; and to outright repeal sections 48-443, 48-444,
+6 and 48-445, Reissue Revised Statutes of Nebraska.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB397 LB397
+2025 2025
+1 Section 1. Section 44-3,158, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 44-3,158 (1) For purposes of this section:
+4 (a) Assigned risk employer means a Nebraska employer that is in good
+5 faith entitled to, but is unable to obtain, workers' compensation
+6 insurance through ordinary methods; and
+7 (b) Director means the Director of Insurance.
+8 (2)(a) The director shall enter into an agreement with one or more
+9 workers' compensation insurers to provide workers' compensation insurance
+10 to assigned risk employers. In selecting an insurer to become an assigned
+11 risk insurer, the director shall consider the cost of coverage to
+12 assigned risk employers, the loss control and claims handling services
+13 available from the workers' compensation insurer, the financial condition
+14 of the workers' compensation insurer, and any other relevant factors. An
+15 agreement entered into under this subsection may not exceed five years.
+16 (b) If the director determines that the cost of workers'
+17 compensation insurance premiums for an insurer to provide assigned risk
+18 coverage pursuant to such an agreement would be unreasonably high, the
+19 director may enter into an agreement in which the assigned risk insurer
+20 covers a portion of the losses incurred by the assigned risk employer.
+21 Any agreement that involves an average rate level of less than two and
+22 one-half times the prospective loss costs approved for an advisory
+23 organization pursuant to section 44-7511 shall not be considered
+24 unreasonably high for the purposes of this section. Pursuant to any such
+25 agreement, remaining losses shall be assessed against all workers'
+26 compensation insurers writing workers' compensation insurance in this
+27 state and risk management pools created under the Intergovernmental Risk
+28 Management Act based on their workers' compensation premiums written in
+29 this state or contributions made to risk management pools. Assigned risk
+30 premiums shall be excluded from the basis for such assessments.
+31 (c) If the assigned risk system described in subdivisions (2)(a) and
+-2-
+
+LB397 LB397
+2025 2025
+1 (b) of this section ceases to be viable because no qualified insurer is
+2 willing to provide workers' compensation coverage at an average rate
+3 level of two and one-half times the prospective loss costs approved for
+4 an advisory organization pursuant to section 44-7511 without also
+5 requiring substantial sharing of losses with all other workers'
+6 compensation insurers writing workers' compensation insurance in this
+7 state and risk management pools created under the Intergovernmental Risk
+8 Management Act, then the director may, after consultation with insurers
+9 authorized to issue workers' compensation insurance policies in this
+10 state, create a reasonable alternative assigned risk system involving the
+11 sharing of premiums and losses for assigned risk employers among all such
+12 workers' compensation insurers writing workers' compensation insurance in
+13 this state and such risk management pools. If established, such
+14 alternative assigned risk system shall not utilize an average rate level
+15 of less than two and one-half times the prospective loss costs approved
+16 for an advisory organization pursuant to section 44-7511.
+17 (3) The director may adopt and promulgate rules and regulations to
+18 carry out this section.
+19 (4) An employer shall not be considered to be in good faith entitled
+20 to be covered by workers' compensation insurance under this section if:
+21 (a) The employer is required to establish a safety committee
+22 pursuant to sections 48-443 to 48-445 and is not in compliance with such
+23 sections;
+24 (a) (b) The employer is in default on workers' compensation
+25 premiums;
+26 (b) (c) The employer has failed to reimburse an insurer for amounts
+27 to be repaid pursuant to workers' compensation insurance written on a
+28 policy with a deductible;
+29 (c) (d) The employer has failed to provide an insurer reasonable
+30 access to books and records necessary for a premium audit;
+31 (d) (e) The employer has defrauded or attempted to defraud an
+-3-
+
+LB397 LB397
+2025 2025
+1 insurer; or
+2 (e) (f) The employer is found to have been owned or controlled by
+3 persons who owned or controlled a prior employer that is or would be
+4 ineligible for coverage pursuant to subdivisions (4)(a) (4)(b) through
+5 (d) (e) of this section.
+6 Sec. 2. Section 48-144.03, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 48-144.03 (1) Notwithstanding policy provisions that stipulate a
+9 workers' compensation insurance policy to be a contract with a fixed term
+10 of coverage that expires at the end of the term, coverage under a
+11 workers' compensation insurance policy shall continue in full force and
+12 effect until notice is given in accordance with this section.
+13 (2) No cancellation of a workers' compensation insurance policy
+14 within the policy period shall be effective unless notice of the
+15 cancellation is given by the workers' compensation insurer to the
+16 Nebraska Workers' Compensation Court and to the employer. No such
+17 cancellation shall be effective until thirty days after the giving of
+18 such notices, except that the cancellation may be effective ten days
+19 after the giving of such notices if such cancellation is based on (a)
+20 notice from the employer to the insurer to cancel the policy, (b)
+21 nonpayment of premium due the insurer under any policy written by the
+22 insurer for the employer, (c) failure of the employer to reimburse
+23 deductible losses as required under any policy written by the insurer for
+24 the employer, or (d) failure of the employer, if covered pursuant to
+25 section 44-3,158, to comply with sections 48-443 to 48-445.
+26 (3) No workers' compensation insurance policy shall expire or lapse
+27 at the end of the policy period unless notice of nonrenewal is given by
+28 the workers' compensation insurer to the compensation court and to the
+29 employer. No workers' compensation insurance policy shall expire or lapse
+30 until thirty days after the giving of such notices, except that a policy
+31 may expire or lapse ten days after the giving of such notices if the
+-4-
+
+LB397 LB397
+2025 2025
+1 nonrenewal is based on (a) notice from the employer to the insurer to not
+2 renew the policy, (b) nonpayment of premium due the insurer under any
+3 policy written by the insurer for the employer, (c) failure of the
+4 employer to reimburse deductible losses as required under any policy
+5 written by the insurer for the employer, or (d) failure of the employer,
+6 if covered pursuant to section 44-3,158, to comply with sections 48-443
+7 to 48-445.
+8 (4) Subsections (2) and (3) of this section terminate on January 1,
+9 2012. Subsections (5), (6), and (7) of this section apply beginning on
+10 January 1, 2012.
+11 (2)(a) (5)(a) This subsection applies to workers' compensation
+12 policies other than master policies or multiple coordinated policies
+13 obtained by a professional employer organization.
+14 (b) No cancellation of a policy within the policy period shall be
+15 effective unless notice of the cancellation is given by the workers'
+16 compensation insurer to the compensation court and to the employer. No
+17 such cancellation shall be effective until thirty days after giving such
+18 notices, except that the cancellation may be effective ten days after the
+19 giving of such notices if such cancellation is based on (i) notice from
+20 the employer to the insurer to cancel the policy, (ii) nonpayment of
+21 premium due the insurer under any policy written by the insurer for the
+22 employer, or (iii) failure of the employer to reimburse deductible losses
+23 as required under any policy written by the insurer for the employer , or
+24 (iv) failure of the employer, if covered pursuant to section 44-3,158, to
+25 comply with sections 48-443 to 48-445.
+26 (c) No policy shall expire or lapse at the end of the policy period
+27 unless notice of nonrenewal is given by the workers' compensation insurer
+28 to the compensation court and to the employer. No policy shall expire or
+29 lapse until thirty days after giving such notices, except that a policy
+30 may expire or lapse ten days after the giving of such notices if the
+31 nonrenewal is based on (i) notice from the employer to the insurer to not
+-5-
+
+LB397 LB397
+2025 2025
+1 renew the policy, (ii) nonpayment of premium due the insurer under any
+2 policy written by the insurer for the employer, or (iii) failure of the
+3 employer to reimburse deductible losses as required under any policy
+4 written by the insurer for the employer , or (iv) failure of the
+5 employer, if covered pursuant to section 44-3,158, to comply with
+6 sections 48-443 to 48-445.
+7 (3)(a) (6)(a) This subsection applies to workers' compensation
+8 master policies obtained by a professional employer organization.
+9 (b) No cancellation of a master policy within the policy period
+10 shall be effective unless notice of the cancellation is given by the
+11 workers' compensation insurer to the compensation court and to the
+12 professional employer organization. No such cancellation shall be
+13 effective until thirty days after giving such notices.
+14 (c) No termination of coverage for a client or any employees of a
+15 client under a master policy within the policy period shall be effective
+16 unless notice is given by the workers' compensation insurer to the
+17 compensation court and to the professional employer organization. No such
+18 termination of coverage shall be effective until thirty days after giving
+19 such notices, except that the termination of coverage may be effective
+20 ten days after the giving of such notices if such termination is based on
+21 (i) notice from the client to the professional employer organization or
+22 the insurer to terminate the coverage or (ii) notice from the
+23 professional employer organization of the client's nonpayment of premium.
+24 (d) No master policy shall expire or lapse at the end of the policy
+25 period unless notice of nonrenewal is given by the workers' compensation
+26 insurer to the compensation court and to the professional employer
+27 organization. No master policy shall expire or lapse until thirty days
+28 after giving such notices.
+29 (e) Notice of the cancellation or nonrenewal of a master policy or
+30 the termination of coverage for a client or the employees of a client
+31 under such a policy shall be given by the professional employer
+-6-
+
+LB397 LB397
+2025 2025
+1 organization to the client within fifteen days after the cancellation,
+2 nonrenewal, or termination unless replacement coverage has been obtained.
+3 (4)(a) (7)(a) This subsection applies to workers' compensation
+4 multiple coordinated policies obtained by a professional employer
+5 organization.
+6 (b) No cancellation of a policy within the policy period shall be
+7 effective unless notice of the cancellation is given by the workers'
+8 compensation insurer to the compensation court, to the professional
+9 employer organization, and to the client employer. No such cancellation
+10 shall be effective until thirty days after giving such notices, except
+11 that the cancellation may be effective ten days after giving such notices
+12 if such cancellation is based on (i) notice from the client to the
+13 professional employer organization or the insurer to cancel the policy,
+14 (ii) notice from the professional employer organization of the client's
+15 nonpayment of premium or failure to reimburse deductibles for policies
+16 issued pursuant to section 48-146.03, (iii) failure of the client, if
+17 covered pursuant to section 44-3,158, to comply with sections 48-443 to
+18 48-445, or (iii) (iv) for policies issued pursuant to section 44-3,158,
+19 nonpayment of premium or failure to reimburse deductibles for policies
+20 issued pursuant to section 48-146.03.
+21 (c) No termination of coverage for any employees of the client
+22 during the policy period shall be effective unless notice is given by the
+23 workers' compensation insurer to the compensation court, to the
+24 professional employer organization, and to the client. No such
+25 termination of coverage shall be effective until thirty days after giving
+26 such notices, except that the termination of coverage may be effective
+27 ten days after the giving of such notices if such termination is based on
+28 (i) notice from the client to the professional employer organization or
+29 the insurer to terminate the coverage or (ii) notice from the
+30 professional employer organization of the client's nonpayment of premium
+31 or failure to reimburse deductibles for policies issued pursuant to
+-7-
+
+LB397 LB397
+2025 2025
+1 section 48-146.03.
+2 (d) No policy shall expire or lapse at the end of the policy period
+3 unless notice of nonrenewal is given by the workers' compensation insurer
+4 to the compensation court, to the professional employer organization, and
+5 to the client. No policy shall expire or lapse until thirty days after
+6 giving such notices, except that a policy may expire or lapse ten days
+7 after the giving of such notices if the nonrenewal is based on (i) notice
+8 from the client to the professional employer organization or the insurer
+9 to not renew the policy, (ii) notice from the professional employer
+10 organization of the client's nonpayment of premium or failure to
+11 reimburse deductibles for policies issued pursuant to section 48-146.03,
+12 (iii) failure of the client, if covered pursuant to section 44-3,158, to
+13 comply with sections 48-443 to 48-445, or (iii) (iv) for policies issued
+14 pursuant to section 44-3,158, nonpayment of premium or failure to
+15 reimburse deductibles for policies issued pursuant to section 48-146.03.
+16 (e) An insurer may refrain from sending notices required by this
+17 subsection to a professional employer organization's client based upon
+18 the professional employer organization's representation that coverage has
+19 been or will be replaced. Such representation shall not absolve the
+20 insurer of its responsibility to continue coverage if such representation
+21 proves inaccurate.
+22 (5) (8) Notwithstanding other provisions of this section, if
+23 replacement workers' compensation insurance coverage has been secured
+24 with another workers' compensation insurer, then the cancellation or
+25 nonrenewal of the policy or the termination of coverage for a client or
+26 employees of a client under the policy shall be effective as of the
+27 effective date of such other insurance coverage.
+28 (6) (9) The notices required by this section shall state the reason
+29 for the cancellation or nonrenewal of the policy or termination of
+30 coverage for a client or employees of a client under a policy.
+31 (7) (10) The notices required by this section shall be provided in
+-8-
+
+LB397 LB397
+2025 2025
+1 writing and shall be deemed given upon the mailing of such notices by
+2 certified mail, except that notices from insurers to the compensation
+3 court may be provided by electronic means if such electronic means is
+4 approved by the administrator of the compensation court. If notice is
+5 provided by electronic means pursuant to such an approval, it shall be
+6 deemed given upon receipt and acceptance by the compensation court.
+7 Sec. 3. Section 48-446, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 48-446 (1) There is hereby created the Workplace Safety
+10 Consultation Program. It is the intent of the Legislature that such
+11 program help provide employees in Nebraska with safe and healthful
+12 workplaces.
+13 (2) Under the Workplace Safety Consultation Program, the Department
+14 of Labor may conduct workplace inspections and consultations to determine
+15 whether employers are complying with standards issued by the federal
+16 Occupational Safety and Health Administration or the federal Mine Safety
+17 and Health Administration for safe and healthful workplaces. Workplace
+18 inspections and safety consultations shall be performed by employees of
+19 the Department of Labor who are knowledgeable and experienced in the
+20 occupational safety and health field and who are trained in the federal
+21 standards and in the recognition of safety and health hazards. The
+22 Department of Labor may employ qualified persons as may be necessary to
+23 carry out this section.
+24 (3) All employers shall be subject to occupational safety and health
+25 inspections covering their Nebraska operations. Employers shall be
+26 selected by the Commissioner of Labor for inspection on the basis of
+27 factors intended to identify the likelihood of workplace injuries and to
+28 achieve the most efficient utilization of safety personnel of the
+29 Department of Labor. Such factors shall include:
+30 (a) The amount of premium paid by the employer for workers'
+31 compensation insurance;
+-9-
+
+LB397 LB397
+2025 2025
+1 (b) The experience modification produced by the experience rating
+2 system referenced in section 44-7524;
+3 (c) Whether the employer is covered by workers' compensation
+4 insurance under section 44-3,158;
+5 (d) The relative hazard of the employer's type of business as
+6 evidenced by insurance rates or loss costs filed with the Director of
+7 Insurance for the insurance rating classification or classifications
+8 applicable to the employer;
+9 (e) The nature, type, or frequency of accidents for the employer as
+10 may be reported to the Department of Insurance, the Nebraska Workers'
+11 Compensation Court, or the Department of Labor;
+12 (f) Workplace hazards as may be reported to the Department of
+13 Insurance, the Nebraska Workers' Compensation Court, or the Department of
+14 Labor;
+15 (g) Previous safety and health history;
+16 (h) Possible employee exposure to toxic substances;
+17 (i) Requests by employers for the Department of Labor to inspect
+18 their workplaces or otherwise provide consulting services on a basis by
+19 which the employer will reimburse the Department of Labor; and
+20 (j) All other relevant factors.
+21 (4) Hazards identified by an inspection shall be eliminated within a
+22 reasonable time as specified by the Commissioner of Labor.
+23 (5) An employer who refuses to eliminate workplace hazards in
+24 compliance with an inspection shall be referred to the federal
+25 Occupational Safety and Health Administration or the federal Mine Safety
+26 and Health Administration for enforcement.
+27 (6) At the discretion of the Commissioner of Labor, inspection of an
+28 employer may be repeated to ensure compliance by the employer, with the
+29 expenses incurred by the Department of Labor to be paid by the employer.
+30 (7) The Commissioner of Labor shall adopt and promulgate rules and
+31 regulations establishing a schedule of fees for consultations and
+-10-
+
+LB397 LB397
+2025 2025
+1 inspections. Such fees shall be established with due regard for the costs
+2 of administering the Workplace Safety Consultation Program. The cost of
+3 consultations and inspections shall be borne by each employer for which
+4 these services are rendered.
+5 (8) There is hereby created the Workplace Safety Consultation
+6 Program Cash Fund. The fund terminates on the effective date of this act,
+7 and the State Treasurer shall transfer any money in the fund on such date
+8 to the General Fund. All fees collected pursuant to the Workplace Safety
+9 Consultation Program shall be remitted to the State Treasurer for credit
+10 to the fund and shall be used for the sole purpose of administering the
+11 program. Any money in the fund available for investment shall be invested
+12 by the state investment officer pursuant to the Nebraska Capital
+13 Expansion Act and the Nebraska State Funds Investment Act.
+14 (9) Each employer provided a consultation or inspection by the
+15 Department of Labor shall retain up-to-date records for each place of
+16 employment as recommended by the inspection or consultation. The employer
+17 shall make such records available to the Department of Labor upon request
+18 to ensure continued progress of the employer's efforts to comply with the
+19 federal Occupational Safety and Health Administration or the federal Mine
+20 Safety and Health Administration standards.
+21 (10) Any person who knowingly operates or causes to be operated a
+22 business in violation of recommendations to correct serious or imminent
+23 hazards as identified by the Workplace Safety Consultation Program shall
+24 be referred to the federal Occupational Safety and Health Administration
+25 or the federal Mine Safety and Health Administration.
+26 (11) The Attorney General, acting on behalf of the Commissioner of
+27 Labor, or the county attorney in a county in which a business is located
+28 or operated may apply to the district court for an order against any
+29 employer in violation of this section.
+30 (12) The Workplace Safety Consultation Program shall not be
+31 construed to alter the duty of care or the liability of an owner or a
+-11-
+
+LB397 LB397
+2025 2025
+1 business for injuries or death of any person or damage to any property.
+2 The state and its officers and employees shall not be construed to assume
+3 liability arising out of an accident involving a business by reason of
+4 administration of the Workplace Safety Consultation Program.
+5 (13) Inspectors employed by the Department of Labor may inspect any
+6 place of employment with or without notice during normal hours of
+7 operation. Such inspectors may suspend the operation of equipment
+8 determined to constitute an imminent danger situation. Operation of such
+9 equipment shall not resume until the hazardous or unsafe condition is
+10 corrected to the satisfaction of the inspector.
+11 (14) No person with a reasonable cause to believe the truth of the
+12 information shall be subject to civil liability for libel, slander, or
+13 any other relevant tort cause of action by virtue of providing
+14 information without malice on workplace hazards or the nature, type, or
+15 frequency of accidents to the Department of Insurance, the Nebraska
+16 Workers' Compensation Court, or the Department of Labor.
+17 (15) Safety and health inspectors employed by the Department of
+18 Labor shall have the right and power to enter any premise, building, or
+19 structure, public or private, for the purpose of inspecting any work area
+20 or equipment. A refusal by the employer of entry by a safety and health
+21 inspector employed by the Department of Labor shall be a violation of
+22 this subsection. If the Commissioner of Labor finds, after notice and
+23 hearing, that an employer has violated this subsection, he or she may
+24 order payment of a civil penalty of not more than one thousand dollars
+25 for each violation. Each day of continued violation shall constitute a
+26 separate violation.
+27 (16) The Commissioner of Labor shall adopt and promulgate rules and
+28 regulations to carry out this section.
+29 Sec. 4. Original sections 44-3,158, 48-144.03, and 48-446, Reissue
+30 Revised Statutes of Nebraska, are repealed.
+31 Sec. 5. The following sections are outright repealed: Sections
+-12-
+
+LB397 LB397
+2025 2025
+1 48-443, 48-444, and 48-445, Reissue Revised Statutes of Nebraska.
+-13-
+
+[DELETED: yMA B F A A r t l t a s 44 a 4 R R S o N te p r t s c a a spoaB7L52]
+[DELETED: Si4(f e t b i u t o w ci((w0t1r i t d s c t c o c t2a r e t l c a c h s3a4o5a6( I t d d t t c o w7c8c9d0c1A2o t t p l c a f a a3o p t s 4 s n b c4u5a r l s b a a a w6c i w w c i i t7s8M9t0p1(7L52]
+[DELETED: (w t p w c c a a a rla a o p t s 4 w ar s s o l w a o wc i w w c i i tsMa t i w c i p i t0s1s2w3t s a s r m p I e s4a5o6f7(8c9(0t1( T e i r t e a s c2p3s4( ( T e i i d o w c5p6(7t b r p t w c i w o 8p9( ( T e h f t p a i r0a1( ( T e h d o a t d a7L52]
+[DELETED: i(p w o o c a p e t i o w bi f c p t s ( ( t(Sa4 ( N p p t s w0o c t e a t e o t t c u 1w2e3( N c o a w c i p4w t p p s b e u n o t5c i g b t w c i t t6N W C C a t t e N s7c s b e u t d a t g o8s n e t t c m b e t d9a t g o s n i s c i b o (0n f t e t t i t c t p (1n o p d t i u a p w b t2i f t e ( f o t e t r3d4t e o ( f o t e i c p t5s6(7a8t9e0u1m e o l t d a t g o s n i t7L52]
+[DELETED: nr t p ( n o p d t i u ap w b t i f t e ( f o te t r d l a r u a pwit(20J1( ( T s a t w c2p o t m p o m c p3o4(5e u n o t c i g b t w6c7s8n9g0t e t t i t c t p ( n o1p2e3a4(5c6(7u8t9l0m e o l t d a t g o s n i t1n7L52]
+[DELETED: rpe t r d l a r u a pw b t i f t e , o ( f o te i c p t s 4 t c ws( ( T s a t w cm( N c o a m p w t p p0s b e u n o t c i g b t1w c i t t c c a t t2p e o N s c s b3e4(5c6u n i g b t w c i t t7c8t9s0t1(2t i t t t c o ( n f t3p4(5p6i t t c c a t t p e7o8a9(0t t o c f a c o t e o a c1u s a p s b g b t p e7L52]
+[DELETED: o t t c w f d a t cn( ( T s a t w cm c p o b a p eo(e u n o t c i g b t wc i t t c c t t pe0s1t2i s c i b o ( n f t c t t3p4(5n o p o f t r d f p6i p t s 4 ( f o t c i7c849n o p o f t r d f p0i1( N t o c f a e o t c2d3w c i t t c c t t4p e o a t t c N s5t6s7t8(9t i t t t c o ( n f t0p1o f t r d f p i p t7L52]
+[DELETED: s(uttgaft n r t p ( n f t p e0o o t c n o p o f t1r2(3c4p t s 4 n o p o f t5r6( A i m r f s n r b t7s t a p e o c b u8t9b o w b r S r s n a t0i1p2( ( N o p o t s i3r w c i c h b s4w a w c i t t c o5n6e o a c u t p s b e a o t7e8(9f t c o n o t p o t o0c1(7L52]
+[DELETED: w a s b d g u t m o s n bc m e t n f i t t cc m b p b e m i s e m ia b t a o t c c I n ipdS 3 S 4 R R S o N ia4  ( T i h c t W S0C P I i t i o t L t s1p h p e i N w s a h2w3(4o5w e a c w s i b t f6O7a H A f s a h w W8i9t D o L w a k a e i t0o1s a i t r o s a h h T2D3c4(5i c t N o E s b6s b t C o L f i o t b o7f8a t m e u o s p o t9D0( T a o p p b t e f w1c7L52]
+[DELETED: ( T e m p b t e rs( W t e i c b w ci( T r h o t e t o b ae b i r o l c f w t D oI f t i r c o ca(0m b r t t D o I t N W1C2( W h a m b r t t D o3I4L5(6(7( R b e f t D o L t i8t9w0(1(2r3( A e w r t e w h i4c w a i s b r t t f5O6a7(8e9e0(1r e a s o f f c a7L52]
+[DELETED: ioct( T i h c t W S CPatC0t1p2b t s i o p t t N C3E4( E e p a c o i b t5D o L s r u r f e p o6e7s8t9f0S1(2b3h4b5o6(7L8o o m a t t d c f a o a a9e0( T W S C P s n b1c7L52]
+[DELETED: bTla(p o e w o w n d n h oo S i m s t o o ede s n r u t h o u c i0c1(2i3a o r t c o a b v o p4i5f o a t t D o I t N6W7( S a h i e b t D o8L9s0o1i e b t D o L s b a v o2t s I t C o L f a n a3h t a e h v t s h o s m4o5f6s7(8r9S0R1S 5  T f s a o r S7L52]
+[DELETED: 47L52]

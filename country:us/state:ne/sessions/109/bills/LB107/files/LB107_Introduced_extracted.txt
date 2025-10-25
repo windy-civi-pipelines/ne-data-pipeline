@@ -1,0 +1,741 @@
+Title: LEGISLATIVE BILL 107
+Official Title: LEGISLATIVE BILL 107
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+LB107 LB107
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Cavanaugh, M., 6.
+Read first time January 10, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend sections
+2 77-2715.07 and 77-4212, Revised Statutes Cumulative Supplement,
+3 2024; to provide an income tax credit for renters as prescribed; to
+4 change provisions relating to a property tax credit; and to repeal
+5 the original sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB107 LB107
+2025 2025
+1 Section 1. Section 77-2715.07, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 77-2715.07 (1) There shall be allowed to qualified resident
+4 individuals as a nonrefundable credit against the income tax imposed by
+5 the Nebraska Revenue Act of 1967:
+6 (a) A credit equal to the federal credit allowed under section 22 of
+7 the Internal Revenue Code; and
+8 (b) A credit for taxes paid to another state as provided in section
+9 77-2730.
+10 (2) There shall be allowed to qualified resident individuals against
+11 the income tax imposed by the Nebraska Revenue Act of 1967:
+12 (a) For returns filed reporting federal adjusted gross incomes of
+13 greater than twenty-nine thousand dollars, a nonrefundable credit equal
+14 to twenty-five percent of the federal credit allowed under section 21 of
+15 the Internal Revenue Code of 1986, as amended, except that for taxable
+16 years beginning or deemed to begin on or after January 1, 2015, such
+17 nonrefundable credit shall be allowed only if the individual would have
+18 received the federal credit allowed under section 21 of the code after
+19 adding back in any carryforward of a net operating loss that was deducted
+20 pursuant to such section in determining eligibility for the federal
+21 credit;
+22 (b) For returns filed reporting federal adjusted gross income of
+23 twenty-nine thousand dollars or less, a refundable credit equal to a
+24 percentage of the federal credit allowable under section 21 of the
+25 Internal Revenue Code of 1986, as amended, whether or not the federal
+26 credit was limited by the federal tax liability. The percentage of the
+27 federal credit shall be one hundred percent for incomes not greater than
+28 twenty-two thousand dollars, and the percentage shall be reduced by ten
+29 percent for each one thousand dollars, or fraction thereof, by which the
+30 reported federal adjusted gross income exceeds twenty-two thousand
+31 dollars, except that for taxable years beginning or deemed to begin on or
+-2-
+LB107 LB107
+2025 2025
+1 after January 1, 2015, such refundable credit shall be allowed only if
+2 the individual would have received the federal credit allowed under
+3 section 21 of the code after adding back in any carryforward of a net
+4 operating loss that was deducted pursuant to such section in determining
+5 eligibility for the federal credit;
+6 (c) A refundable credit as provided in section 77-5209.01 for
+7 individuals who qualify for an income tax credit as a qualified beginning
+8 farmer or livestock producer under the Beginning Farmer Tax Credit Act
+9 for all taxable years beginning or deemed to begin on or after January 1,
+10 2006, under the Internal Revenue Code of 1986, as amended;
+11 (d) A refundable credit for individuals who qualify for an income
+12 tax credit under the Angel Investment Tax Credit Act, the Nebraska
+13 Advantage Microenterprise Tax Credit Act, the Nebraska Advantage Research
+14 and Development Act, the Reverse Osmosis System Tax Credit Act, or the
+15 Volunteer Emergency Responders Incentive Act; and
+16 (e) A refundable credit equal to ten percent of the federal credit
+17 allowed under section 32 of the Internal Revenue Code of 1986, as
+18 amended, except that for taxable years beginning or deemed to begin on or
+19 after January 1, 2015, such refundable credit shall be allowed only if
+20 the individual would have received the federal credit allowed under
+21 section 32 of the code after adding back in any carryforward of a net
+22 operating loss that was deducted pursuant to such section in determining
+23 eligibility for the federal credit.
+24 (3) There shall be allowed to all individuals as a nonrefundable
+25 credit against the income tax imposed by the Nebraska Revenue Act of
+26 1967:
+27 (a) A credit for personal exemptions allowed under section
+28 77-2716.01;
+29 (b) A credit for contributions to programs or projects certified for
+30 tax credit status as provided in the Creating High Impact Economic
+31 Futures Act. Each partner, each shareholder of an electing subchapter S
+-3-
+LB107 LB107
+2025 2025
+1 corporation, each beneficiary of an estate or trust, or each member of a
+2 limited liability company shall report his or her share of the credit in
+3 the same manner and proportion as he or she reports the partnership,
+4 subchapter S corporation, estate, trust, or limited liability company
+5 income;
+6 (c) A credit for investment in a biodiesel facility as provided in
+7 section 77-27,236;
+8 (d) A credit as provided in the New Markets Job Growth Investment
+9 Act;
+10 (e) A credit as provided in the Nebraska Job Creation and Mainstreet
+11 Revitalization Act;
+12 (f) A credit to employers as provided in sections 77-27,238 and
+13 77-27,240;
+14 (g) A credit as provided in the Affordable Housing Tax Credit Act;
+15 (h) A credit to grocery store retailers, restaurants, and
+16 agricultural producers as provided in section 77-27,241;
+17 (i) A credit as provided in the Sustainable Aviation Fuel Tax Credit
+18 Act;
+19 (j) A credit as provided in the Nebraska Shortline Rail
+20 Modernization Act;
+21 (k) A credit as provided in the Nebraska Pregnancy Help Act; and
+22 (l) A credit as provided in the Caregiver Tax Credit Act.
+23 (4) There shall be allowed as a credit against the income tax
+24 imposed by the Nebraska Revenue Act of 1967:
+25 (a) A credit to all resident estates and trusts for taxes paid to
+26 another state as provided in section 77-2730;
+27 (b) A credit to all estates and trusts for contributions to programs
+28 or projects certified for tax credit status as provided in the Creating
+29 High Impact Economic Futures Act; and
+30 (c) A refundable credit for individuals who qualify for an income
+31 tax credit as an owner of agricultural assets under the Beginning Farmer
+-4-
+LB107 LB107
+2025 2025
+1 Tax Credit Act for all taxable years beginning or deemed to begin on or
+2 after January 1, 2009, under the Internal Revenue Code of 1986, as
+3 amended. The credit allowed for each partner, shareholder, member, or
+4 beneficiary of a partnership, corporation, limited liability company, or
+5 estate or trust qualifying for an income tax credit as an owner of
+6 agricultural assets under the Beginning Farmer Tax Credit Act shall be
+7 equal to the partner's, shareholder's, member's, or beneficiary's portion
+8 of the amount of tax credit distributed pursuant to subsection (6) of
+9 section 77-5211.
+10 (5)(a) For all taxable years beginning on or after January 1, 2007,
+11 and before January 1, 2009, under the Internal Revenue Code of 1986, as
+12 amended, there shall be allowed to each partner, shareholder, member, or
+13 beneficiary of a partnership, subchapter S corporation, limited liability
+14 company, or estate or trust a nonrefundable credit against the income tax
+15 imposed by the Nebraska Revenue Act of 1967 equal to fifty percent of the
+16 partner's, shareholder's, member's, or beneficiary's portion of the
+17 amount of franchise tax paid to the state under sections 77-3801 to
+18 77-3807 by a financial institution.
+19 (b) For all taxable years beginning on or after January 1, 2009,
+20 under the Internal Revenue Code of 1986, as amended, there shall be
+21 allowed to each partner, shareholder, member, or beneficiary of a
+22 partnership, subchapter S corporation, limited liability company, or
+23 estate or trust a nonrefundable credit against the income tax imposed by
+24 the Nebraska Revenue Act of 1967 equal to the partner's, shareholder's,
+25 member's, or beneficiary's portion of the amount of franchise tax paid to
+26 the state under sections 77-3801 to 77-3807 by a financial institution.
+27 (c) Each partner, shareholder, member, or beneficiary shall report
+28 his or her share of the credit in the same manner and proportion as he or
+29 she reports the partnership, subchapter S corporation, limited liability
+30 company, or estate or trust income. If any partner, shareholder, member,
+31 or beneficiary cannot fully utilize the credit for that year, the credit
+-5-
+LB107 LB107
+2025 2025
+1 may not be carried forward or back.
+2 (6) There shall be allowed to all individuals nonrefundable credits
+3 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+4 provided in section 77-3604 and refundable credits against the income tax
+5 imposed by the Nebraska Revenue Act of 1967 as provided in section
+6 77-3605.
+7 (7)(a) For taxable years beginning or deemed to begin on or after
+8 January 1, 2020, and before January 1, 2026, under the Internal Revenue
+9 Code of 1986, as amended, a nonrefundable credit against the income tax
+10 imposed by the Nebraska Revenue Act of 1967 in the amount of five
+11 thousand dollars shall be allowed to any individual who purchases a
+12 residence during the taxable year if such residence:
+13 (i) Is located within an area that has been declared an extremely
+14 blighted area under section 18-2101.02;
+15 (ii) Is the individual's primary residence; and
+16 (iii) Was not purchased from a family member of the individual or a
+17 family member of the individual's spouse.
+18 (b) The credit provided in this subsection shall be claimed for the
+19 taxable year in which the residence is purchased. If the individual
+20 cannot fully utilize the credit for such year, the credit may be carried
+21 forward to subsequent taxable years until fully utilized.
+22 (c) No more than one credit may be claimed under this subsection
+23 with respect to a single residence.
+24 (d) The credit provided in this subsection shall be subject to
+25 recapture by the Department of Revenue if the individual claiming the
+26 credit sells or otherwise transfers the residence or quits using the
+27 residence as his or her primary residence within five years after the end
+28 of the taxable year in which the credit was claimed.
+29 (e) For purposes of this subsection, family member means an
+30 individual's spouse, child, parent, brother, sister, grandchild, or
+31 grandparent, whether by blood, marriage, or adoption.
+-6-
+LB107 LB107
+2025 2025
+1 (8) There shall be allowed to all individuals refundable credits
+2 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+3 provided in the Cast and Crew Nebraska Act, the Nebraska Biodiesel Tax
+4 Credit Act, the Nebraska Higher Blend Tax Credit Act, the Nebraska
+5 Property Tax Incentive Act, the Relocation Incentive Act, and the
+6 Renewable Chemical Production Tax Credit Act.
+7 (9)(a) For taxable years beginning or deemed to begin on or after
+8 January 1, 2022, under the Internal Revenue Code of 1986, as amended, a
+9 refundable credit against the income tax imposed by the Nebraska Revenue
+10 Act of 1967 shall be allowed to the parent of a stillborn child if:
+11 (i) A fetal death certificate is filed pursuant to subsection (1) of
+12 section 71-606 for such child;
+13 (ii) Such child had advanced to at least the twentieth week of
+14 gestation; and
+15 (iii) Such child would have been a dependent of the individual
+16 claiming the credit.
+17 (b) The amount of the credit shall be two thousand dollars.
+18 (c) The credit shall be allowed for the taxable year in which the
+19 stillbirth occurred.
+20 (10) There shall be allowed to all individuals refundable credits
+21 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+22 provided in section 77-7203 and nonrefundable credits against the income
+23 tax imposed by the Nebraska Revenue Act of 1967 as provided in section
+24 77-7204.
+25 (11) There shall be allowed to all individuals refundable credits
+26 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+27 provided in section 77-3157 and nonrefundable credits against the income
+28 tax imposed by the Nebraska Revenue Act of 1967 as provided in sections
+29 77-3156, 77-3158, and 77-3159.
+30 (12) For taxable years beginning or deemed to begin on or after
+31 January 1, 2025, under the Internal Revenue Code of 1986, as amended, a
+-7-
+LB107 LB107
+2025 2025
+1 refundable credit against the income tax imposed by the Nebraska Revenue
+2 Act of 1967 shall be allowed to any individual who rents a house,
+3 apartment, or other residential unit in this state during the taxable
+4 year for use as such individual's primary residence. The credit shall be
+5 equal to the greater of (a) four percent of the total amount of rent paid
+6 by the individual during the taxable year or (b) two hundred dollars, but
+7 in no case shall the credit exceed one thousand dollars.
+8 Sec. 2. Section 77-4212, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 77-4212 (1) For tax year 2007, the amount of relief granted under
+11 the Property Tax Credit Act shall be one hundred five million dollars.
+12 For tax year 2008, the amount of relief granted under the act shall be
+13 one hundred fifteen million dollars. It is the intent of the Legislature
+14 to fund the Property Tax Credit Act for tax years after tax year 2008
+15 using available revenue. For tax year 2017, the amount of relief granted
+16 under the act shall be two hundred twenty-four million dollars. For tax
+17 year 2020 through tax year 2022, the minimum amount of relief granted
+18 under the act shall be two hundred seventy-five million dollars. For tax
+19 year 2023, the minimum amount of relief granted under the act shall be
+20 three hundred sixty million dollars. For tax year 2024, the minimum
+21 amount of relief granted under the act shall be three hundred ninety-five
+22 million dollars. For tax year 2025 , the minimum amount of relief granted
+23 under the act shall be four hundred thirty million dollars. For tax year
+24 2026, the minimum amount of relief granted under the act shall be four
+25 hundred forty-five million dollars. For tax year 2027, the minimum amount
+26 of relief granted under the act shall be four hundred sixty million
+27 dollars. For tax year 2028, the minimum amount of relief granted under
+28 the act shall be four hundred seventy-five million dollars. For tax year
+29 2029, the minimum amount of relief granted under the act shall be the
+30 minimum amount from the prior tax year plus a percentage increase equal
+31 to the percentage increase, if any, in the total assessed value of all
+-8-
+LB107 LB107
+2025 2025
+1 real property in the state from the prior year to the current year, as
+2 determined by the Department of Revenue, plus an additional seventy-five
+3 million dollars. For tax year 2030 and each tax year thereafter, the
+4 minimum amount of relief granted under the act shall be two hundred
+5 million dollars the minimum amount from the prior tax year plus a
+6 percentage increase equal to the percentage increase, if any, in the
+7 total assessed value of all real property in the state from the prior
+8 year to the current year, as determined by the Department of Revenue. If
+9 money is transferred or credited to the Property Tax Credit Cash Fund
+10 pursuant to any other state law, such amount shall be added to the
+11 minimum amount provided in required under this subsection when
+12 determining the total amount of relief granted under the act. The relief
+13 shall be in the form of a property tax credit which appears on the
+14 property tax statement.
+15 (2)(a) For tax years prior to tax year 2017, to determine the amount
+16 of the property tax credit, the county treasurer shall multiply the
+17 amount disbursed to the county under subdivision (4)(a) of this section
+18 by the ratio of the real property valuation of the parcel to the total
+19 real property valuation in the county. The amount determined shall be the
+20 property tax credit for the property.
+21 (b) Beginning with tax year 2017, to determine the amount of the
+22 property tax credit, the county treasurer shall multiply the amount
+23 disbursed to the county under subdivision (4)(b) of this section by the
+24 ratio of the credit allocation valuation of the parcel to the total
+25 credit allocation valuation in the county. The amount determined shall be
+26 the property tax credit for the property.
+27 (3) If the real property owner qualifies for a homestead exemption
+28 under sections 77-3501 to 77-3529, the owner shall also be qualified for
+29 the relief provided in the act to the extent of any remaining liability
+30 after calculation of the relief provided by the homestead exemption. If
+31 the credit results in a property tax liability on the homestead that is
+-9-
+LB107 LB107
+2025 2025
+1 less than zero, the amount of the credit which cannot be used by the
+2 taxpayer shall be returned to the Property Tax Administrator by July 1 of
+3 the year the amount disbursed to the county was disbursed. The Property
+4 Tax Administrator shall immediately credit any funds returned under this
+5 subsection to the Property Tax Credit Cash Fund. Upon the return of any
+6 funds under this subsection, the county treasurer shall electronically
+7 file a report with the Property Tax Administrator, on a form prescribed
+8 by the Tax Commissioner, indicating the amount of funds distributed to
+9 each taxing unit in the county in the year the funds were returned, any
+10 collection fee retained by the county in such year, and the amount of
+11 unused credits returned.
+12 (4)(a) For tax years prior to tax year 2017, the amount disbursed to
+13 each county shall be equal to the amount available for disbursement
+14 determined under subsection (1) of this section multiplied by the ratio
+15 of the real property valuation in the county to the real property
+16 valuation in the state. By September 15, the Property Tax Administrator
+17 shall determine the amount to be disbursed under this subdivision to each
+18 county and certify such amounts to the State Treasurer and to each
+19 county. The disbursements to the counties shall occur in two equal
+20 payments, the first on or before January 31 and the second on or before
+21 April 1. After retaining one percent of the receipts for costs, the
+22 county treasurer shall allocate the remaining receipts to each taxing
+23 unit levying taxes on taxable property in the tax district in which the
+24 real property is located in the same proportion that the levy of such
+25 taxing unit bears to the total levy on taxable property of all the taxing
+26 units in the tax district in which the real property is located.
+27 (b) Beginning with tax year 2017, the amount disbursed to each
+28 county shall be equal to the amount available for disbursement determined
+29 under subsection (1) of this section multiplied by the ratio of the
+30 credit allocation valuation in the county to the credit allocation
+31 valuation in the state. By September 15, the Property Tax Administrator
+-10-
+LB107 LB107
+2025 2025
+1 shall determine the amount to be disbursed under this subdivision to each
+2 county and certify such amounts to the State Treasurer and to each
+3 county. The disbursements to the counties shall occur in two equal
+4 payments, the first on or before January 31 and the second on or before
+5 April 1. After retaining one percent of the receipts for costs, the
+6 county treasurer shall allocate the remaining receipts to each taxing
+7 unit based on its share of the credits granted to all taxpayers in the
+8 taxing unit.
+9 (5) For purposes of this section, credit allocation valuation means
+10 the taxable value for all real property except agricultural land and
+11 horticultural land, one hundred twenty percent of taxable value for
+12 agricultural land and horticultural land that is not subject to special
+13 valuation, and one hundred twenty percent of taxable value for
+14 agricultural land and horticultural land that is subject to special
+15 valuation.
+16 (6) The State Treasurer shall transfer from the General Fund to the
+17 Property Tax Credit Cash Fund one hundred five million dollars by August
+18 1, 2007, and one hundred fifteen million dollars by August 1, 2008.
+19 (7) The Legislature shall have the power to transfer funds from the
+20 Property Tax Credit Cash Fund to the General Fund.
+21 Sec. 3. Original sections 77-2715.07 and 77-4212, Revised Statutes
+22 Cumulative Supplement, 2024, are repealed.
+-11-
+[DELETED: yCA B F A A r t r a t t a s7 a 7 R S C S2ctB7L52]
+[DELETED: S 1 S 7 R S CS7 ( T s b a t q rit(t(70(1t2( F r f r f a g i o3g4t5t6y b o d t b o o a J 1 2 s7n8r9a0p t s s i d e f t f1c2( F r f r f a g i o3t t d o l a r c e t 4p o t f c a u s 2 o t5I R C o 1 a a w o n t f6c7f8t9p0r f a g i e t t1d7L52]
+[DELETED: at i w h r t f c a usoe( A r c a p i s 7 fiff021( A r c f i w q f a i2t c u t A I T C A t N3A4a5V6(7a u s 3 o t I R C o 1 a8a9a0t i w h r t f c a u1s2o3e4( T s b a t a i a a n5c a t i t i b t N R A o617( A c f p e a u s879(0t c s a p i t C H I E1F7L52]
+[DELETED: clt s m a p a h o s r t ps S c e t o l l ci(s(A0(1R2( A c t e a p i s 7 a374(5( A c t g s r r a6a7(8A9( A c a p i t N S R0M1(2(3( T s b a a a c a t i t4i5(6a7(8o9H0( A r c f i w q f a i1t7L52]
+[DELETED: Ta J 1 2 u t I R C o 1 aa T c a f e p s m obe o t q f a i t c a a o oaeo t a o t c d p t s ( os0(1a2a3b4c5i6p s m o b p o t7a o f t p t t s u s 7 t879( F a t y b o o a J 1 20u t I R C o 1 a a t s b1a t e p s m o b o 2p s S c l l c o3e4t5m6t7(8h9s0c1o7L52]
+[DELETED: m(a t i t i b t N R A o 1 api b t N R A o 1 a p i s7(JC0i b t N R A o 1 i t a o f1t d s b a t a i w p 2r3(4b5(6(7f8(9t y i w t r i p I t i0c1f2( N m t o c m b c u t s3w4( T c p i t s s b s t5r b t D o R i t i c t6c s o o t t r o q u t7r8o9( F p o t s f m m a0i s c p b s g o1g7L52]
+[DELETED: ( T s b a t a i r ca t i t i b t N R A o 1 apC A t N H B T C A t NP T I A t R I A a tR(Jr0A1(2s3( S c h a t a l t t w o4g5( S c w h b a d o t i6c7(8(9s0( T s b a t a i r c1a t i t i b t N R A o 1 a2p3t475( T s b a t a i r c6a t i t i b t N R A o 1 a7p8t970( F t y b o d t b o o a1J7L52]
+[DELETED: rA o 1 s b a t a i w r a ha o o r u i t s d t tyebiS 2 S 7 R S C S2071t2F3o4t5u6u7y 2 t t y 2 t m a o r g8u9y0t h s m d F t y 2 t m1a2m3u425h6o r g u t a s b f h s m7d8t92 t m a o r g u t a s b t0m1t7L52]
+[DELETED: rdm d F t y 2 a e t y t tm a o r g u t a s b t hm d t m a f t p t y p p i e t t p i i a i tt a v o a r p i t s f t pym i t o c t t P T C C F0p t a o s l s a s b a t t1m a p i r u t s w2d3s b i t f o a p t c w a o t4p5(6o t p t c t c t s m t7a8b9r0p1( B w t y 2 t d t a o t2p t c t c t s m t a3d4r o t c a v o t p t t t5c6t7(8u9t0a1t7L52]
+[DELETED: l t z t a o t c w c b u b tttTsf u t s t c t s efbe0c f r b t c i s y a t a o1u2(3e c s b e t t a a f d4d5o t r p v i t c t t r p6v7s8c a c s a t t S T a t e9c T d t t c s o i t e0p1A 1 A r o p o t r f c t2c t s a t r r t e t3u4r p i l i t s p t t l o s5t6u7( B w t y 2 t a d t e8c9u s ( o t s m b t r o t0c a v i t c t t c a1v7L52]
+[DELETED: sc a c s a t t S T a t ec T d t t c s o i t epA 1 A r o p o t r f c tc t s a t r r t e tut(0t t v f a r p e a l a1h l o h t p o t v f2a3v a o h t p o t v f4a l a h l t i s t s5v6(7P819(0P1S2C7L52]
+
+
+================================================================================
+
+Raw Text:
+LB107 LB107
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 107
+Introduced by Cavanaugh, M., 6.
+Read first time January 10, 2025
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend sections
+2 77-2715.07 and 77-4212, Revised Statutes Cumulative Supplement,
+3 2024; to provide an income tax credit for renters as prescribed; to
+4 change provisions relating to a property tax credit; and to repeal
+5 the original sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB107 LB107
+2025 2025
+1 Section 1. Section 77-2715.07, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 77-2715.07 (1) There shall be allowed to qualified resident
+4 individuals as a nonrefundable credit against the income tax imposed by
+5 the Nebraska Revenue Act of 1967:
+6 (a) A credit equal to the federal credit allowed under section 22 of
+7 the Internal Revenue Code; and
+8 (b) A credit for taxes paid to another state as provided in section
+9 77-2730.
+10 (2) There shall be allowed to qualified resident individuals against
+11 the income tax imposed by the Nebraska Revenue Act of 1967:
+12 (a) For returns filed reporting federal adjusted gross incomes of
+13 greater than twenty-nine thousand dollars, a nonrefundable credit equal
+14 to twenty-five percent of the federal credit allowed under section 21 of
+15 the Internal Revenue Code of 1986, as amended, except that for taxable
+16 years beginning or deemed to begin on or after January 1, 2015, such
+17 nonrefundable credit shall be allowed only if the individual would have
+18 received the federal credit allowed under section 21 of the code after
+19 adding back in any carryforward of a net operating loss that was deducted
+20 pursuant to such section in determining eligibility for the federal
+21 credit;
+22 (b) For returns filed reporting federal adjusted gross income of
+23 twenty-nine thousand dollars or less, a refundable credit equal to a
+24 percentage of the federal credit allowable under section 21 of the
+25 Internal Revenue Code of 1986, as amended, whether or not the federal
+26 credit was limited by the federal tax liability. The percentage of the
+27 federal credit shall be one hundred percent for incomes not greater than
+28 twenty-two thousand dollars, and the percentage shall be reduced by ten
+29 percent for each one thousand dollars, or fraction thereof, by which the
+30 reported federal adjusted gross income exceeds twenty-two thousand
+31 dollars, except that for taxable years beginning or deemed to begin on or
+-2-
+
+LB107 LB107
+2025 2025
+1 after January 1, 2015, such refundable credit shall be allowed only if
+2 the individual would have received the federal credit allowed under
+3 section 21 of the code after adding back in any carryforward of a net
+4 operating loss that was deducted pursuant to such section in determining
+5 eligibility for the federal credit;
+6 (c) A refundable credit as provided in section 77-5209.01 for
+7 individuals who qualify for an income tax credit as a qualified beginning
+8 farmer or livestock producer under the Beginning Farmer Tax Credit Act
+9 for all taxable years beginning or deemed to begin on or after January 1,
+10 2006, under the Internal Revenue Code of 1986, as amended;
+11 (d) A refundable credit for individuals who qualify for an income
+12 tax credit under the Angel Investment Tax Credit Act, the Nebraska
+13 Advantage Microenterprise Tax Credit Act, the Nebraska Advantage Research
+14 and Development Act, the Reverse Osmosis System Tax Credit Act, or the
+15 Volunteer Emergency Responders Incentive Act; and
+16 (e) A refundable credit equal to ten percent of the federal credit
+17 allowed under section 32 of the Internal Revenue Code of 1986, as
+18 amended, except that for taxable years beginning or deemed to begin on or
+19 after January 1, 2015, such refundable credit shall be allowed only if
+20 the individual would have received the federal credit allowed under
+21 section 32 of the code after adding back in any carryforward of a net
+22 operating loss that was deducted pursuant to such section in determining
+23 eligibility for the federal credit.
+24 (3) There shall be allowed to all individuals as a nonrefundable
+25 credit against the income tax imposed by the Nebraska Revenue Act of
+26 1967:
+27 (a) A credit for personal exemptions allowed under section
+28 77-2716.01;
+29 (b) A credit for contributions to programs or projects certified for
+30 tax credit status as provided in the Creating High Impact Economic
+31 Futures Act. Each partner, each shareholder of an electing subchapter S
+-3-
+
+LB107 LB107
+2025 2025
+1 corporation, each beneficiary of an estate or trust, or each member of a
+2 limited liability company shall report his or her share of the credit in
+3 the same manner and proportion as he or she reports the partnership,
+4 subchapter S corporation, estate, trust, or limited liability company
+5 income;
+6 (c) A credit for investment in a biodiesel facility as provided in
+7 section 77-27,236;
+8 (d) A credit as provided in the New Markets Job Growth Investment
+9 Act;
+10 (e) A credit as provided in the Nebraska Job Creation and Mainstreet
+11 Revitalization Act;
+12 (f) A credit to employers as provided in sections 77-27,238 and
+13 77-27,240;
+14 (g) A credit as provided in the Affordable Housing Tax Credit Act;
+15 (h) A credit to grocery store retailers, restaurants, and
+16 agricultural producers as provided in section 77-27,241;
+17 (i) A credit as provided in the Sustainable Aviation Fuel Tax Credit
+18 Act;
+19 (j) A credit as provided in the Nebraska Shortline Rail
+20 Modernization Act;
+21 (k) A credit as provided in the Nebraska Pregnancy Help Act; and
+22 (l) A credit as provided in the Caregiver Tax Credit Act.
+23 (4) There shall be allowed as a credit against the income tax
+24 imposed by the Nebraska Revenue Act of 1967:
+25 (a) A credit to all resident estates and trusts for taxes paid to
+26 another state as provided in section 77-2730;
+27 (b) A credit to all estates and trusts for contributions to programs
+28 or projects certified for tax credit status as provided in the Creating
+29 High Impact Economic Futures Act; and
+30 (c) A refundable credit for individuals who qualify for an income
+31 tax credit as an owner of agricultural assets under the Beginning Farmer
+-4-
+
+LB107 LB107
+2025 2025
+1 Tax Credit Act for all taxable years beginning or deemed to begin on or
+2 after January 1, 2009, under the Internal Revenue Code of 1986, as
+3 amended. The credit allowed for each partner, shareholder, member, or
+4 beneficiary of a partnership, corporation, limited liability company, or
+5 estate or trust qualifying for an income tax credit as an owner of
+6 agricultural assets under the Beginning Farmer Tax Credit Act shall be
+7 equal to the partner's, shareholder's, member's, or beneficiary's portion
+8 of the amount of tax credit distributed pursuant to subsection (6) of
+9 section 77-5211.
+10 (5)(a) For all taxable years beginning on or after January 1, 2007,
+11 and before January 1, 2009, under the Internal Revenue Code of 1986, as
+12 amended, there shall be allowed to each partner, shareholder, member, or
+13 beneficiary of a partnership, subchapter S corporation, limited liability
+14 company, or estate or trust a nonrefundable credit against the income tax
+15 imposed by the Nebraska Revenue Act of 1967 equal to fifty percent of the
+16 partner's, shareholder's, member's, or beneficiary's portion of the
+17 amount of franchise tax paid to the state under sections 77-3801 to
+18 77-3807 by a financial institution.
+19 (b) For all taxable years beginning on or after January 1, 2009,
+20 under the Internal Revenue Code of 1986, as amended, there shall be
+21 allowed to each partner, shareholder, member, or beneficiary of a
+22 partnership, subchapter S corporation, limited liability company, or
+23 estate or trust a nonrefundable credit against the income tax imposed by
+24 the Nebraska Revenue Act of 1967 equal to the partner's, shareholder's,
+25 member's, or beneficiary's portion of the amount of franchise tax paid to
+26 the state under sections 77-3801 to 77-3807 by a financial institution.
+27 (c) Each partner, shareholder, member, or beneficiary shall report
+28 his or her share of the credit in the same manner and proportion as he or
+29 she reports the partnership, subchapter S corporation, limited liability
+30 company, or estate or trust income. If any partner, shareholder, member,
+31 or beneficiary cannot fully utilize the credit for that year, the credit
+-5-
+
+LB107 LB107
+2025 2025
+1 may not be carried forward or back.
+2 (6) There shall be allowed to all individuals nonrefundable credits
+3 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+4 provided in section 77-3604 and refundable credits against the income tax
+5 imposed by the Nebraska Revenue Act of 1967 as provided in section
+6 77-3605.
+7 (7)(a) For taxable years beginning or deemed to begin on or after
+8 January 1, 2020, and before January 1, 2026, under the Internal Revenue
+9 Code of 1986, as amended, a nonrefundable credit against the income tax
+10 imposed by the Nebraska Revenue Act of 1967 in the amount of five
+11 thousand dollars shall be allowed to any individual who purchases a
+12 residence during the taxable year if such residence:
+13 (i) Is located within an area that has been declared an extremely
+14 blighted area under section 18-2101.02;
+15 (ii) Is the individual's primary residence; and
+16 (iii) Was not purchased from a family member of the individual or a
+17 family member of the individual's spouse.
+18 (b) The credit provided in this subsection shall be claimed for the
+19 taxable year in which the residence is purchased. If the individual
+20 cannot fully utilize the credit for such year, the credit may be carried
+21 forward to subsequent taxable years until fully utilized.
+22 (c) No more than one credit may be claimed under this subsection
+23 with respect to a single residence.
+24 (d) The credit provided in this subsection shall be subject to
+25 recapture by the Department of Revenue if the individual claiming the
+26 credit sells or otherwise transfers the residence or quits using the
+27 residence as his or her primary residence within five years after the end
+28 of the taxable year in which the credit was claimed.
+29 (e) For purposes of this subsection, family member means an
+30 individual's spouse, child, parent, brother, sister, grandchild, or
+31 grandparent, whether by blood, marriage, or adoption.
+-6-
+
+LB107 LB107
+2025 2025
+1 (8) There shall be allowed to all individuals refundable credits
+2 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+3 provided in the Cast and Crew Nebraska Act, the Nebraska Biodiesel Tax
+4 Credit Act, the Nebraska Higher Blend Tax Credit Act, the Nebraska
+5 Property Tax Incentive Act, the Relocation Incentive Act, and the
+6 Renewable Chemical Production Tax Credit Act.
+7 (9)(a) For taxable years beginning or deemed to begin on or after
+8 January 1, 2022, under the Internal Revenue Code of 1986, as amended, a
+9 refundable credit against the income tax imposed by the Nebraska Revenue
+10 Act of 1967 shall be allowed to the parent of a stillborn child if:
+11 (i) A fetal death certificate is filed pursuant to subsection (1) of
+12 section 71-606 for such child;
+13 (ii) Such child had advanced to at least the twentieth week of
+14 gestation; and
+15 (iii) Such child would have been a dependent of the individual
+16 claiming the credit.
+17 (b) The amount of the credit shall be two thousand dollars.
+18 (c) The credit shall be allowed for the taxable year in which the
+19 stillbirth occurred.
+20 (10) There shall be allowed to all individuals refundable credits
+21 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+22 provided in section 77-7203 and nonrefundable credits against the income
+23 tax imposed by the Nebraska Revenue Act of 1967 as provided in section
+24 77-7204.
+25 (11) There shall be allowed to all individuals refundable credits
+26 against the income tax imposed by the Nebraska Revenue Act of 1967 as
+27 provided in section 77-3157 and nonrefundable credits against the income
+28 tax imposed by the Nebraska Revenue Act of 1967 as provided in sections
+29 77-3156, 77-3158, and 77-3159.
+30 (12) For taxable years beginning or deemed to begin on or after
+31 January 1, 2025, under the Internal Revenue Code of 1986, as amended, a
+-7-
+
+LB107 LB107
+2025 2025
+1 refundable credit against the income tax imposed by the Nebraska Revenue
+2 Act of 1967 shall be allowed to any individual who rents a house,
+3 apartment, or other residential unit in this state during the taxable
+4 year for use as such individual's primary residence. The credit shall be
+5 equal to the greater of (a) four percent of the total amount of rent paid
+6 by the individual during the taxable year or (b) two hundred dollars, but
+7 in no case shall the credit exceed one thousand dollars.
+8 Sec. 2. Section 77-4212, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 77-4212 (1) For tax year 2007, the amount of relief granted under
+11 the Property Tax Credit Act shall be one hundred five million dollars.
+12 For tax year 2008, the amount of relief granted under the act shall be
+13 one hundred fifteen million dollars. It is the intent of the Legislature
+14 to fund the Property Tax Credit Act for tax years after tax year 2008
+15 using available revenue. For tax year 2017, the amount of relief granted
+16 under the act shall be two hundred twenty-four million dollars. For tax
+17 year 2020 through tax year 2022, the minimum amount of relief granted
+18 under the act shall be two hundred seventy-five million dollars. For tax
+19 year 2023, the minimum amount of relief granted under the act shall be
+20 three hundred sixty million dollars. For tax year 2024, the minimum
+21 amount of relief granted under the act shall be three hundred ninety-five
+22 million dollars. For tax year 2025 , the minimum amount of relief granted
+23 under the act shall be four hundred thirty million dollars. For tax year
+24 2026, the minimum amount of relief granted under the act shall be four
+25 hundred forty-five million dollars. For tax year 2027, the minimum amount
+26 of relief granted under the act shall be four hundred sixty million
+27 dollars. For tax year 2028, the minimum amount of relief granted under
+28 the act shall be four hundred seventy-five million dollars. For tax year
+29 2029, the minimum amount of relief granted under the act shall be the
+30 minimum amount from the prior tax year plus a percentage increase equal
+31 to the percentage increase, if any, in the total assessed value of all
+-8-
+
+LB107 LB107
+2025 2025
+1 real property in the state from the prior year to the current year, as
+2 determined by the Department of Revenue, plus an additional seventy-five
+3 million dollars. For tax year 2030 and each tax year thereafter, the
+4 minimum amount of relief granted under the act shall be two hundred
+5 million dollars the minimum amount from the prior tax year plus a
+6 percentage increase equal to the percentage increase, if any, in the
+7 total assessed value of all real property in the state from the prior
+8 year to the current year, as determined by the Department of Revenue. If
+9 money is transferred or credited to the Property Tax Credit Cash Fund
+10 pursuant to any other state law, such amount shall be added to the
+11 minimum amount provided in required under this subsection when
+12 determining the total amount of relief granted under the act. The relief
+13 shall be in the form of a property tax credit which appears on the
+14 property tax statement.
+15 (2)(a) For tax years prior to tax year 2017, to determine the amount
+16 of the property tax credit, the county treasurer shall multiply the
+17 amount disbursed to the county under subdivision (4)(a) of this section
+18 by the ratio of the real property valuation of the parcel to the total
+19 real property valuation in the county. The amount determined shall be the
+20 property tax credit for the property.
+21 (b) Beginning with tax year 2017, to determine the amount of the
+22 property tax credit, the county treasurer shall multiply the amount
+23 disbursed to the county under subdivision (4)(b) of this section by the
+24 ratio of the credit allocation valuation of the parcel to the total
+25 credit allocation valuation in the county. The amount determined shall be
+26 the property tax credit for the property.
+27 (3) If the real property owner qualifies for a homestead exemption
+28 under sections 77-3501 to 77-3529, the owner shall also be qualified for
+29 the relief provided in the act to the extent of any remaining liability
+30 after calculation of the relief provided by the homestead exemption. If
+31 the credit results in a property tax liability on the homestead that is
+-9-
+
+LB107 LB107
+2025 2025
+1 less than zero, the amount of the credit which cannot be used by the
+2 taxpayer shall be returned to the Property Tax Administrator by July 1 of
+3 the year the amount disbursed to the county was disbursed. The Property
+4 Tax Administrator shall immediately credit any funds returned under this
+5 subsection to the Property Tax Credit Cash Fund. Upon the return of any
+6 funds under this subsection, the county treasurer shall electronically
+7 file a report with the Property Tax Administrator, on a form prescribed
+8 by the Tax Commissioner, indicating the amount of funds distributed to
+9 each taxing unit in the county in the year the funds were returned, any
+10 collection fee retained by the county in such year, and the amount of
+11 unused credits returned.
+12 (4)(a) For tax years prior to tax year 2017, the amount disbursed to
+13 each county shall be equal to the amount available for disbursement
+14 determined under subsection (1) of this section multiplied by the ratio
+15 of the real property valuation in the county to the real property
+16 valuation in the state. By September 15, the Property Tax Administrator
+17 shall determine the amount to be disbursed under this subdivision to each
+18 county and certify such amounts to the State Treasurer and to each
+19 county. The disbursements to the counties shall occur in two equal
+20 payments, the first on or before January 31 and the second on or before
+21 April 1. After retaining one percent of the receipts for costs, the
+22 county treasurer shall allocate the remaining receipts to each taxing
+23 unit levying taxes on taxable property in the tax district in which the
+24 real property is located in the same proportion that the levy of such
+25 taxing unit bears to the total levy on taxable property of all the taxing
+26 units in the tax district in which the real property is located.
+27 (b) Beginning with tax year 2017, the amount disbursed to each
+28 county shall be equal to the amount available for disbursement determined
+29 under subsection (1) of this section multiplied by the ratio of the
+30 credit allocation valuation in the county to the credit allocation
+31 valuation in the state. By September 15, the Property Tax Administrator
+-10-
+
+LB107 LB107
+2025 2025
+1 shall determine the amount to be disbursed under this subdivision to each
+2 county and certify such amounts to the State Treasurer and to each
+3 county. The disbursements to the counties shall occur in two equal
+4 payments, the first on or before January 31 and the second on or before
+5 April 1. After retaining one percent of the receipts for costs, the
+6 county treasurer shall allocate the remaining receipts to each taxing
+7 unit based on its share of the credits granted to all taxpayers in the
+8 taxing unit.
+9 (5) For purposes of this section, credit allocation valuation means
+10 the taxable value for all real property except agricultural land and
+11 horticultural land, one hundred twenty percent of taxable value for
+12 agricultural land and horticultural land that is not subject to special
+13 valuation, and one hundred twenty percent of taxable value for
+14 agricultural land and horticultural land that is subject to special
+15 valuation.
+16 (6) The State Treasurer shall transfer from the General Fund to the
+17 Property Tax Credit Cash Fund one hundred five million dollars by August
+18 1, 2007, and one hundred fifteen million dollars by August 1, 2008.
+19 (7) The Legislature shall have the power to transfer funds from the
+20 Property Tax Credit Cash Fund to the General Fund.
+21 Sec. 3. Original sections 77-2715.07 and 77-4212, Revised Statutes
+22 Cumulative Supplement, 2024, are repealed.
+-11-
+
+[DELETED: yCA B F A A r t r a t t a s7 a 7 R S C S2ctB7L52]
+[DELETED: S 1 S 7 R S CS7 ( T s b a t q rit(t(70(1t2( F r f r f a g i o3g4t5t6y b o d t b o o a J 1 2 s7n8r9a0p t s s i d e f t f1c2( F r f r f a g i o3t t d o l a r c e t 4p o t f c a u s 2 o t5I R C o 1 a a w o n t f6c7f8t9p0r f a g i e t t1d7L52]
+[DELETED: at i w h r t f c a usoe( A r c a p i s 7 fiff021( A r c f i w q f a i2t c u t A I T C A t N3A4a5V6(7a u s 3 o t I R C o 1 a8a9a0t i w h r t f c a u1s2o3e4( T s b a t a i a a n5c a t i t i b t N R A o617( A c f p e a u s879(0t c s a p i t C H I E1F7L52]
+[DELETED: clt s m a p a h o s r t ps S c e t o l l ci(s(A0(1R2( A c t e a p i s 7 a374(5( A c t g s r r a6a7(8A9( A c a p i t N S R0M1(2(3( T s b a a a c a t i t4i5(6a7(8o9H0( A r c f i w q f a i1t7L52]
+[DELETED: Ta J 1 2 u t I R C o 1 aa T c a f e p s m obe o t q f a i t c a a o oaeo t a o t c d p t s ( os0(1a2a3b4c5i6p s m o b p o t7a o f t p t t s u s 7 t879( F a t y b o o a J 1 20u t I R C o 1 a a t s b1a t e p s m o b o 2p s S c l l c o3e4t5m6t7(8h9s0c1o7L52]
+[DELETED: m(a t i t i b t N R A o 1 api b t N R A o 1 a p i s7(JC0i b t N R A o 1 i t a o f1t d s b a t a i w p 2r3(4b5(6(7f8(9t y i w t r i p I t i0c1f2( N m t o c m b c u t s3w4( T c p i t s s b s t5r b t D o R i t i c t6c s o o t t r o q u t7r8o9( F p o t s f m m a0i s c p b s g o1g7L52]
+[DELETED: ( T s b a t a i r ca t i t i b t N R A o 1 apC A t N H B T C A t NP T I A t R I A a tR(Jr0A1(2s3( S c h a t a l t t w o4g5( S c w h b a d o t i6c7(8(9s0( T s b a t a i r c1a t i t i b t N R A o 1 a2p3t475( T s b a t a i r c6a t i t i b t N R A o 1 a7p8t970( F t y b o d t b o o a1J7L52]
+[DELETED: rA o 1 s b a t a i w r a ha o o r u i t s d t tyebiS 2 S 7 R S C S2071t2F3o4t5u6u7y 2 t t y 2 t m a o r g8u9y0t h s m d F t y 2 t m1a2m3u425h6o r g u t a s b f h s m7d8t92 t m a o r g u t a s b t0m1t7L52]
+[DELETED: rdm d F t y 2 a e t y t tm a o r g u t a s b t hm d t m a f t p t y p p i e t t p i i a i tt a v o a r p i t s f t pym i t o c t t P T C C F0p t a o s l s a s b a t t1m a p i r u t s w2d3s b i t f o a p t c w a o t4p5(6o t p t c t c t s m t7a8b9r0p1( B w t y 2 t d t a o t2p t c t c t s m t a3d4r o t c a v o t p t t t5c6t7(8u9t0a1t7L52]
+[DELETED: l t z t a o t c w c b u b tttTsf u t s t c t s efbe0c f r b t c i s y a t a o1u2(3e c s b e t t a a f d4d5o t r p v i t c t t r p6v7s8c a c s a t t S T a t e9c T d t t c s o i t e0p1A 1 A r o p o t r f c t2c t s a t r r t e t3u4r p i l i t s p t t l o s5t6u7( B w t y 2 t a d t e8c9u s ( o t s m b t r o t0c a v i t c t t c a1v7L52]
+[DELETED: sc a c s a t t S T a t ec T d t t c s o i t epA 1 A r o p o t r f c tc t s a t r r t e tut(0t t v f a r p e a l a1h l o h t p o t v f2a3v a o h t p o t v f4a l a h l t i s t s5v6(7P819(0P1S2C7L52]

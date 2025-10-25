@@ -1,0 +1,625 @@
+Title: LEGISLATIVE BILL 303
+Official Title: LEGISLATIVE BILL 303
+Number of Sections: 1
+Source: versions - Final Reading
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+LB303 LB303
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+FINAL READING
+Introduced by Hughes, 24; at the request of the Governor; Brandt, 32;
+Dorn, 30; Conrad, 46.
+Read first time January 15, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend section 79-1028.01,
+2 Reissue Revised Statutes of Nebraska; to create the School Financing
+3 Review Commission; to provide duties; to change provisions relating
+4 to the ability of a school district to exceed its budget authority
+5 for the general fund budget of expenditures under the Tax Equity and
+6 Educational Opportunities Support Act; to repeal the original
+7 section; and to declare an emergency.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+LB303 LB303
+2025 2025
+1 Section 1. (1) The School Financing Review Commission is created.
+2 The commission shall consist of eighteen members, including:
+3 (a) The Commissioner of Education or a designee of the Commissioner
+4 of Education;
+5 (b) The Property Tax Administrator or a designee of the Property Tax
+6 Administrator;
+7 (c) One representative of the Governor appointed by the Governor;
+8 (d) Three members of the Legislature, who shall be nonvoting members
+9 of the commission, including the Chairperson of the Education Committee
+10 of the Legislature or the chairperson's designee, the Chairperson of the
+11 Revenue Committee of the Legislature or the chairperson's designee, and
+12 one member appointed pursuant to subsection (2) of this section. No more
+13 than two members shall be affiliated with the same political party;
+14 (e) One member who is a representative of postsecondary education
+15 with expertise in school finance;
+16 (f) Four members who are superintendents or school board members
+17 representing a Class I, II, or III school district. There shall be at
+18 least one member appointed pursuant to this subdivision (1)(f)
+19 representing each class of school district. Of the members appointed
+20 pursuant to this subdivision (1)(f), no more than two members shall
+21 represent the same class of school district, no more than three members
+22 may be superintendents, and no more than three members may be school
+23 board members;
+24 (g) One member that is a representative of a Class IV school
+25 district and one member that is a representative of a Class V school
+26 district. One member appointed pursuant to this subdivision (1)(g) shall
+27 be a school board member of the school district being represented and the
+28 other member appointed pursuant to this subdivision (1)(g) shall be a
+29 school administrator in the other school district being represented; and
+30 (h) Five members appointed from the state at large, which shall
+31 include (i) at least one individual having experience in business, (ii)
+-2-
+LB303 LB303
+2025 2025
+1 at least one individual having experience in farming, (iii) at least one
+2 individual teaching as a certified teacher in a public school, and (iv)
+3 two other individuals. Members appointed pursuant to subdivision (i) and
+4 (ii) of this subdivision (1)(h) may be retired.
+5 (2)(a) The member to be appointed as described in subdivision (1)(d)
+6 of this section shall be appointed by the Executive Board of the
+7 Legislative Council in January of each odd-numbered year for a two-year
+8 term, except that the initial member shall be appointed within thirty
+9 days after the effective date of this act and shall serve until a
+10 successor is appointed in January 2027.
+11 (b) The members described in subdivisions (1)(a) through (c) of this
+12 section shall serve as ex officio members of the commission.
+13 (3) The members described in subdivisions (1)(e) through (h) of this
+14 section shall be appointed by the Governor within thirty days after the
+15 effective date of this act. Initial appointees under this subsection
+16 shall serve terms as described in subsection (4) of this section.
+17 Thereafter, such members shall serve terms of three years, and any
+18 vacancy shall be filled by the Governor for the remainder of the vacated
+19 term. For purposes of determining term length and expiration of such
+20 terms, the initial terms for such members shall begin thirty days after
+21 the effective date of this act.
+22 (4)(a) The initial terms for members described in subdivisions (1)
+23 (e) through (h) of this section shall be as follows:
+24 (i) The member appointed pursuant to subdivision (1)(e) of this
+25 section, one member described in subdivision (1)(g) of this section, and
+26 one member described in subdivision (1)(h) of this section shall serve a
+27 three-year term;
+28 (ii) Two members described in subdivision (1)(f) of this section,
+29 one member described in subdivision (1)(g) of this section, and one
+30 member described in subdivision (1)(h) shall serve an initial term of two
+31 years; and
+-3-
+LB303 LB303
+2025 2025
+1 (iii) Two members described in subdivision (1)(f) of this section
+2 and three members described in subdivision (1)(h) of this section shall
+3 serve an initial term of one year.
+4 (b) The Governor shall, upon appointment, designate the initial term
+5 for the members appointed subject to subdivision (4)(a) of this section.
+6 (5) If at any point a member no longer meets the qualification for
+7 such member's position on the commission, such member shall vacate
+8 membership on the commission. Any vacancy in the commission shall be
+9 filled in the same manner and same qualification as the original
+10 appointment.
+11 (6) A member of the commission appointed pursuant to subsection (3)
+12 of this section shall not receive any compensation for services as a
+13 member but shall be reimbursed for expenses incurred as a member of the
+14 commission as provided in sections 81-1174 to 81-1177.
+15 (7) The Commissioner of Education or the designee of the
+16 Commissioner of Education shall be the chairperson of the commission, and
+17 the commission shall elect a vice-chairperson from among its members.
+18 (8) The commission shall meet at least four times a year and at
+19 least once per calendar quarter.
+20 (9) The State Department of Education may provide staff to assist
+21 the commission as needed and requested by the chairperson of the
+22 commission in accordance with guidelines developed by the commission. The
+23 commission may also obtain assistance from the State Department of
+24 Education, the Department of Revenue, and the Legislative Fiscal Analyst
+25 in acquiring the data needed to carry out its duties.
+26 (10) For administrative purposes, the commission shall be housed
+27 within the State Department of Education.
+28 Sec. 2. (1)(a) The purpose of the School Financing Review
+29 Commission is to study and provide advisory recommendations relating to
+30 school funding in Nebraska. The commission shall:
+31 (i) Evaluate the school funding formula for education under the Tax
+-4-
+LB303 LB303
+2025 2025
+1 Equity and Educational Opportunities Support Act and make recommendations
+2 for adjustments or changes to such formula that may be necessary to help
+3 prevent the increase of property taxes;
+4 (ii) Regularly review the resources side of the formula under the
+5 Tax Equity and Educational Opportunities Support Act;
+6 (iii) Regularly review the needs side of the formula under the Tax
+7 Equity and Educational Opportunities Support Act;
+8 (iv) Analyze options for how to minimize the negative impact on
+9 schools during times when the state may be unable to fully fund the
+10 formula under the Tax Equity and Educational Opportunities Support Act;
+11 (v) Analyze the impact of funding for education on student
+12 achievement and outcomes, focusing on, but not limited to: Access to
+13 early childhood education; student attendance; literacy; graduation rate;
+14 college-going rate; and postsecondary workforce participation; and
+15 (vi) Analyze the impact of funding for education on issues and
+16 resources impacting students with relatively high needs, including, but
+17 not limited to, students who live in areas of high concentrations of
+18 poverty, students with an individualized education program, and students
+19 with limited English proficiency.
+20 (b) The School Financing Review Commission, to the extent it is
+21 practical, shall compare findings from subdivision (1)(a) of this section
+22 to similar policies from other states.
+23 (2) By December 1, 2025, and by November 1 of each year thereafter,
+24 the commission shall prepare and electronically deliver to the Clerk of
+25 the Legislature an annual report with the observations and
+26 recommendations developed pursuant to subsection (1) of this section.
+27 Sec. 3. Section 79-1028.01, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 79-1028.01 (1) For each school fiscal year, a school district may
+30 exceed its budget authority for the general fund budget of expenditures
+31 as calculated pursuant to section 79-1023 for such school fiscal year by
+-5-
+LB303 LB303
+2025 2025
+1 a specific dollar amount for the following exclusions:
+2 (a) Expenditures for repairs to infrastructure damaged by a natural
+3 disaster which is declared a disaster emergency pursuant to the Emergency
+4 Management Act;
+5 (b) Expenditures for judgments, except judgments or orders from the
+6 Commission of Industrial Relations, obtained against a school district
+7 which require or obligate a school district to pay such judgment, to the
+8 extent such judgment is not paid by liability insurance coverage of a
+9 school district;
+10 (c) Expenditures pursuant to the Retirement Incentive Plan
+11 authorized in section 79-855 or the Staff Development Assistance
+12 authorized in section 79-856;
+13 (d) Expenditures of amounts received from educational entities as
+14 defined in section 79-1201.01 for providing distance education courses
+15 through the Educational Service Unit Coordinating Council to such
+16 educational entities;
+17 (e)(i) (e) Expenditures to pay for employer contributions pursuant
+18 to subsection (2) of section 79-958 to the School Employees Retirement
+19 System of the State of Nebraska to the extent that such expenditures
+20 exceed the employer contributions under such subsection that would have
+21 been made at a contribution rate of seven and thirty-five hundredths
+22 percent. ;
+23 (ii) For school fiscal years 2025-26 and 2026-27, the amount of the
+24 expenditures described in subdivision (1)(e)(i) of this section for
+25 school fiscal year 2024-25 may be carried over and included in the budget
+26 authority for the general fund budget of expenditures for school fiscal
+27 years 2025-26 and 2026-27;
+28 (f) Expenditures to pay for school district contributions pursuant
+29 to subdivision (1)(c)(i) or (1)(d)(i) of section 79-9,113 to the
+30 retirement system established pursuant to the Class V School Employees
+31 Retirement Act to the extent that such expenditures exceed the school
+-6-
+LB303 LB303
+2025 2025
+1 district contributions under such subdivision that would have been made
+2 at a contribution rate of seven and thirty-seven hundredths percent;
+3 (g) Expenditures for incentives agreed to be paid by a school
+4 district to certificated employees in exchange for a voluntary
+5 termination of employment occurring prior to July 1, 2009, occurring on
+6 or after the last day of the 2010-11 school year and prior to the first
+7 day of the 2013-14 school year, or, to the extent that a district
+8 demonstrates to the State Board of Education pursuant to subsection (3)
+9 of this section that the agreement will result in a net savings in salary
+10 and benefit costs to the school district over a five-year period,
+11 occurring on or after the first day of the 2013-14 school year and prior
+12 to September 1, 2017;
+13 (h) Expenditures by a school district with budgeted expenditures
+14 otherwise equal to the budget authority for the general fund budget of
+15 expenditures for such school district as calculated pursuant to section
+16 79-1023 for such school fiscal year for current and future qualified
+17 voluntary termination incentives for certificated teachers pursuant to
+18 subsection (3) of section 79-8,142 that are not otherwise included in an
+19 exclusion pursuant to this subsection;
+20 (i) Expenditures by a school district with budgeted expenditures
+21 otherwise equal to the budget authority for the general fund budget of
+22 expenditures for such school district as calculated pursuant to section
+23 79-1023 for such school fiscal year for seventy-five percent of
+24 incentives agreed to be paid to certificated employees in exchange for a
+25 voluntary termination of employment occurring between September 1, 2017,
+26 and August 31, 2018, as a result of a collective-bargaining agreement in
+27 force and effect on September 1, 2017, that are not otherwise included in
+28 an exclusion pursuant to this subsection;
+29 (j) Expenditures by a school district with budgeted expenditures
+30 otherwise equal to the budget authority for the general fund budget of
+31 expenditures for such school district as calculated pursuant to section
+-7-
+LB303 LB303
+2025 2025
+1 79-1023 for such school fiscal year for fifty percent of incentives
+2 agreed to be paid to certificated employees in exchange for a voluntary
+3 termination of employment occurring between September 1, 2018, and August
+4 31, 2019, as a result of a collective-bargaining agreement in force and
+5 effect on September 1, 2017, that are not otherwise included in an
+6 exclusion pursuant to this subsection;
+7 (k) Expenditures by a school district with budgeted expenditures
+8 otherwise equal to the budget authority for the general fund budget of
+9 expenditures for such school district as calculated pursuant to section
+10 79-1023 for such school fiscal year for twenty-five percent of incentives
+11 agreed to be paid to certificated employees in exchange for a voluntary
+12 termination of employment occurring between September 1, 2019, and August
+13 31, 2020, as a result of a collective-bargaining agreement in force and
+14 effect on September 1, 2017, that are not otherwise included in an
+15 exclusion pursuant to this subsection;
+16 (l) The special education budget of expenditures;
+17 (m) Expenditures of special grant funds; and
+18 (n) Expenditures of funds received as federal impact aid pursuant to
+19 20 U.S.C. 7701 to 7714, as such sections existed on January 1, 2016, due
+20 to a district having land within its boundaries that is federal property
+21 classified as Indian lands under 20 U.S.C. 7713(7), as such section
+22 existed on January 1, 2016, and funds received as impact aid due to
+23 children in attendance who resided on Indian lands in accordance with 20
+24 U.S.C. 7703(a)(1)(C), as such section existed on January 1, 2016.
+25 (2) For each school fiscal year, a school district may exceed its
+26 budget authority for the general fund budget of expenditures as
+27 calculated pursuant to section 79-1023 for such school fiscal year by a
+28 specific dollar amount and include such dollar amount in the budget of
+29 expenditures used to calculate budget authority for the general fund
+30 budget of expenditures pursuant to section 79-1023 for future years for
+31 the following exclusions:
+-8-
+LB303 LB303
+2025 2025
+1 (a) The first school fiscal year the district will be participating
+2 in Network Nebraska for the full school fiscal year, for the difference
+3 of the estimated expenditures for such school fiscal year for
+4 telecommunications services, access to data transmission networks that
+5 transmit data to and from the school district, and the transmission of
+6 data on such networks as such expenditures are defined by the department
+7 for purposes of the distance education and telecommunications allowance
+8 minus the dollar amount of such expenditures for the second school fiscal
+9 year preceding the first full school fiscal year the district
+10 participates in Network Nebraska;
+11 (b) Expenditures for new elementary attendance sites in the first
+12 year of operation or the first year of operation after being closed for
+13 at least one school year if such elementary attendance site will most
+14 likely qualify for the elementary site allowance in the immediately
+15 following school fiscal year as determined by the state board;
+16 (c) For the first school fiscal year for which early childhood
+17 education membership is included in formula students for the calculation
+18 of state aid, expenditures for early childhood education equal to the
+19 amount the school district received in early childhood education grants
+20 pursuant to section 79-1103 for the prior school fiscal year, increased
+21 by the basic allowable growth rate; and
+22 (d) For school fiscal year 2013-14, an amount not to exceed two
+23 percent over the previous school year if such increase is approved by a
+24 seventy-five percent majority vote of the school board of such district.
+25 (3) The state board shall approve, deny, or modify the amount
+26 allowed for any exclusions to the budget authority for the general fund
+27 budget of expenditures pursuant to this section.
+28 Sec. 4. Original section 79-1028.01, Reissue Revised Statutes of
+29 Nebraska, is repealed.
+30 Sec. 5. Since an emergency exists, this act takes effect when
+31 passed and approved according to law.
+-9-
+[DELETED: yHA B F A A r t e t a s 7RRtfE O S A t r t osB3L52]
+[DELETED: ST(o(A((o0o1R2o3t4( O m w i a r o p e5w6( F m w a s o s b m7r a C I I o I s d T s b a8l o m a p t t s (9r e c o s d O t m a0p t t s ( n m t t m s1r2m b s a n m t t m m b s3b4( O m t i a r o a C I s5d a o m t i a r o a C V s6d7b8o m a p t t s ( s b 9s0( F m a f t s a l w s1i3L52]
+[DELETED: ait((o t s s b a b t E B o tLt e t t i m s b a w td a t e d o t a a s s u 0s1(2s3(4s5e d o t a I a u t s6s s t a d i s ( o t s7T s m s s t o t y a a8v9t F p o d t l a e o s0t1t2(3(4( T m a p t s ( o t5s6o7t8( T m d i s ( o t s9o m d i s ( o t s a o0m1y3L52]
+[DELETED: ( T m d i s ( o t sas(f(s m p o t c s m s vm o t c A v i t c s bf i t s m a s q a t o0a1(2o t s s n r a c f s a 3m4c5( T C o E o t d o t6C7t8( T c s m a l f t a y a a9l0( T S D o E m p s t a1t c a n a r b t c o t2c3c m a o a f t S D o4E5i6( F a p t c s b h7w8S 2  ( T p o t S F R9C0s1(3L52]
+[DELETED: Efp( R r t r s o t f u tT(E( A o f h t m t n i os d t w t s m b u t f f t0f1( A t i o f f e o s2a a o f o b n l t A t3e4c5( A t i o f f e o i a6r7n l t s w l i a o h c o8p9w0( T S F R C t t e i i1p2t3(4t5t L a a r w t o a6r7S8a97 ( F e s f y a s d m0e1a3L52]
+[DELETED: a(dM(C o I R o a a s dwe s j i n p b l i c o s0( E p t t R I P1a i s 7 o t S D A2a3( E o a r f e e a4d i s 7 f p d e c5t t E S U C C t s6e7(8t9S o t S o N t t e t s e0e1b m a a c r o s a t h2p3(4e d i s ( o t s f5s6a7y8(9t s ( o ( o s 7 t t0r s e p t t C V S E1R A t t e t s e e t s3L52]
+[DELETED: da( E f i a t b p b a sd t c e i e f a vtod o t 2 s y o t t e t a ddo0a b c t t s d o a f p1o2t3( E b a s d w b e4o5e67 f s s f y f c a f q7v t i f c t p t8s9e0( E b a s d w b e1o2e37 f s s f y f s p o4i5v6a7f8a9( E b a s d w b e0o1e3L52]
+[DELETED: 7 f s s f y f f p o iat3e o S 1 2 t a n o i i ae( E b a s d w b eoe071a2t334e o S 1 2 t a n o i i a5e6(7(8(920t1c a I l u 2 U 7 a s s2e o J 1 2 a f r a i a d t3c4U5(6b a f t g f b o e a7c8s9e u t c b a f t g f0b1t3L52]
+[DELETED: (io t e e f s s f y ft s a t d t n ttdfmy p t f f s f y t d0p1( E f n e a s i t f2y3a l o s y i s e a s w m4l q f t e s a i t i5f6( F t f s f y f w e c7e8o s a e f e c e e t t9a0p1b2( F s f y 2 a a n t e t3p4s5( T s b s a d o m t a6a7b8S 4  O s 7 R R S o9N0S 5  S a e e t a t e w1p3L52]
+
+
+================================================================================
+
+Raw Text:
+LB303 LB303
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 303
+FINAL READING
+Introduced by Hughes, 24; at the request of the Governor; Brandt, 32;
+Dorn, 30; Conrad, 46.
+Read first time January 15, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend section 79-1028.01,
+2 Reissue Revised Statutes of Nebraska; to create the School Financing
+3 Review Commission; to provide duties; to change provisions relating
+4 to the ability of a school district to exceed its budget authority
+5 for the general fund budget of expenditures under the Tax Equity and
+6 Educational Opportunities Support Act; to repeal the original
+7 section; and to declare an emergency.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB303 LB303
+2025 2025
+1 Section 1. (1) The School Financing Review Commission is created.
+2 The commission shall consist of eighteen members, including:
+3 (a) The Commissioner of Education or a designee of the Commissioner
+4 of Education;
+5 (b) The Property Tax Administrator or a designee of the Property Tax
+6 Administrator;
+7 (c) One representative of the Governor appointed by the Governor;
+8 (d) Three members of the Legislature, who shall be nonvoting members
+9 of the commission, including the Chairperson of the Education Committee
+10 of the Legislature or the chairperson's designee, the Chairperson of the
+11 Revenue Committee of the Legislature or the chairperson's designee, and
+12 one member appointed pursuant to subsection (2) of this section. No more
+13 than two members shall be affiliated with the same political party;
+14 (e) One member who is a representative of postsecondary education
+15 with expertise in school finance;
+16 (f) Four members who are superintendents or school board members
+17 representing a Class I, II, or III school district. There shall be at
+18 least one member appointed pursuant to this subdivision (1)(f)
+19 representing each class of school district. Of the members appointed
+20 pursuant to this subdivision (1)(f), no more than two members shall
+21 represent the same class of school district, no more than three members
+22 may be superintendents, and no more than three members may be school
+23 board members;
+24 (g) One member that is a representative of a Class IV school
+25 district and one member that is a representative of a Class V school
+26 district. One member appointed pursuant to this subdivision (1)(g) shall
+27 be a school board member of the school district being represented and the
+28 other member appointed pursuant to this subdivision (1)(g) shall be a
+29 school administrator in the other school district being represented; and
+30 (h) Five members appointed from the state at large, which shall
+31 include (i) at least one individual having experience in business, (ii)
+-2-
+
+LB303 LB303
+2025 2025
+1 at least one individual having experience in farming, (iii) at least one
+2 individual teaching as a certified teacher in a public school, and (iv)
+3 two other individuals. Members appointed pursuant to subdivision (i) and
+4 (ii) of this subdivision (1)(h) may be retired.
+5 (2)(a) The member to be appointed as described in subdivision (1)(d)
+6 of this section shall be appointed by the Executive Board of the
+7 Legislative Council in January of each odd-numbered year for a two-year
+8 term, except that the initial member shall be appointed within thirty
+9 days after the effective date of this act and shall serve until a
+10 successor is appointed in January 2027.
+11 (b) The members described in subdivisions (1)(a) through (c) of this
+12 section shall serve as ex officio members of the commission.
+13 (3) The members described in subdivisions (1)(e) through (h) of this
+14 section shall be appointed by the Governor within thirty days after the
+15 effective date of this act. Initial appointees under this subsection
+16 shall serve terms as described in subsection (4) of this section.
+17 Thereafter, such members shall serve terms of three years, and any
+18 vacancy shall be filled by the Governor for the remainder of the vacated
+19 term. For purposes of determining term length and expiration of such
+20 terms, the initial terms for such members shall begin thirty days after
+21 the effective date of this act.
+22 (4)(a) The initial terms for members described in subdivisions (1)
+23 (e) through (h) of this section shall be as follows:
+24 (i) The member appointed pursuant to subdivision (1)(e) of this
+25 section, one member described in subdivision (1)(g) of this section, and
+26 one member described in subdivision (1)(h) of this section shall serve a
+27 three-year term;
+28 (ii) Two members described in subdivision (1)(f) of this section,
+29 one member described in subdivision (1)(g) of this section, and one
+30 member described in subdivision (1)(h) shall serve an initial term of two
+31 years; and
+-3-
+
+LB303 LB303
+2025 2025
+1 (iii) Two members described in subdivision (1)(f) of this section
+2 and three members described in subdivision (1)(h) of this section shall
+3 serve an initial term of one year.
+4 (b) The Governor shall, upon appointment, designate the initial term
+5 for the members appointed subject to subdivision (4)(a) of this section.
+6 (5) If at any point a member no longer meets the qualification for
+7 such member's position on the commission, such member shall vacate
+8 membership on the commission. Any vacancy in the commission shall be
+9 filled in the same manner and same qualification as the original
+10 appointment.
+11 (6) A member of the commission appointed pursuant to subsection (3)
+12 of this section shall not receive any compensation for services as a
+13 member but shall be reimbursed for expenses incurred as a member of the
+14 commission as provided in sections 81-1174 to 81-1177.
+15 (7) The Commissioner of Education or the designee of the
+16 Commissioner of Education shall be the chairperson of the commission, and
+17 the commission shall elect a vice-chairperson from among its members.
+18 (8) The commission shall meet at least four times a year and at
+19 least once per calendar quarter.
+20 (9) The State Department of Education may provide staff to assist
+21 the commission as needed and requested by the chairperson of the
+22 commission in accordance with guidelines developed by the commission. The
+23 commission may also obtain assistance from the State Department of
+24 Education, the Department of Revenue, and the Legislative Fiscal Analyst
+25 in acquiring the data needed to carry out its duties.
+26 (10) For administrative purposes, the commission shall be housed
+27 within the State Department of Education.
+28 Sec. 2. (1)(a) The purpose of the School Financing Review
+29 Commission is to study and provide advisory recommendations relating to
+30 school funding in Nebraska. The commission shall:
+31 (i) Evaluate the school funding formula for education under the Tax
+-4-
+
+LB303 LB303
+2025 2025
+1 Equity and Educational Opportunities Support Act and make recommendations
+2 for adjustments or changes to such formula that may be necessary to help
+3 prevent the increase of property taxes;
+4 (ii) Regularly review the resources side of the formula under the
+5 Tax Equity and Educational Opportunities Support Act;
+6 (iii) Regularly review the needs side of the formula under the Tax
+7 Equity and Educational Opportunities Support Act;
+8 (iv) Analyze options for how to minimize the negative impact on
+9 schools during times when the state may be unable to fully fund the
+10 formula under the Tax Equity and Educational Opportunities Support Act;
+11 (v) Analyze the impact of funding for education on student
+12 achievement and outcomes, focusing on, but not limited to: Access to
+13 early childhood education; student attendance; literacy; graduation rate;
+14 college-going rate; and postsecondary workforce participation; and
+15 (vi) Analyze the impact of funding for education on issues and
+16 resources impacting students with relatively high needs, including, but
+17 not limited to, students who live in areas of high concentrations of
+18 poverty, students with an individualized education program, and students
+19 with limited English proficiency.
+20 (b) The School Financing Review Commission, to the extent it is
+21 practical, shall compare findings from subdivision (1)(a) of this section
+22 to similar policies from other states.
+23 (2) By December 1, 2025, and by November 1 of each year thereafter,
+24 the commission shall prepare and electronically deliver to the Clerk of
+25 the Legislature an annual report with the observations and
+26 recommendations developed pursuant to subsection (1) of this section.
+27 Sec. 3. Section 79-1028.01, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 79-1028.01 (1) For each school fiscal year, a school district may
+30 exceed its budget authority for the general fund budget of expenditures
+31 as calculated pursuant to section 79-1023 for such school fiscal year by
+-5-
+
+LB303 LB303
+2025 2025
+1 a specific dollar amount for the following exclusions:
+2 (a) Expenditures for repairs to infrastructure damaged by a natural
+3 disaster which is declared a disaster emergency pursuant to the Emergency
+4 Management Act;
+5 (b) Expenditures for judgments, except judgments or orders from the
+6 Commission of Industrial Relations, obtained against a school district
+7 which require or obligate a school district to pay such judgment, to the
+8 extent such judgment is not paid by liability insurance coverage of a
+9 school district;
+10 (c) Expenditures pursuant to the Retirement Incentive Plan
+11 authorized in section 79-855 or the Staff Development Assistance
+12 authorized in section 79-856;
+13 (d) Expenditures of amounts received from educational entities as
+14 defined in section 79-1201.01 for providing distance education courses
+15 through the Educational Service Unit Coordinating Council to such
+16 educational entities;
+17 (e)(i) (e) Expenditures to pay for employer contributions pursuant
+18 to subsection (2) of section 79-958 to the School Employees Retirement
+19 System of the State of Nebraska to the extent that such expenditures
+20 exceed the employer contributions under such subsection that would have
+21 been made at a contribution rate of seven and thirty-five hundredths
+22 percent. ;
+23 (ii) For school fiscal years 2025-26 and 2026-27, the amount of the
+24 expenditures described in subdivision (1)(e)(i) of this section for
+25 school fiscal year 2024-25 may be carried over and included in the budget
+26 authority for the general fund budget of expenditures for school fiscal
+27 years 2025-26 and 2026-27;
+28 (f) Expenditures to pay for school district contributions pursuant
+29 to subdivision (1)(c)(i) or (1)(d)(i) of section 79-9,113 to the
+30 retirement system established pursuant to the Class V School Employees
+31 Retirement Act to the extent that such expenditures exceed the school
+-6-
+
+LB303 LB303
+2025 2025
+1 district contributions under such subdivision that would have been made
+2 at a contribution rate of seven and thirty-seven hundredths percent;
+3 (g) Expenditures for incentives agreed to be paid by a school
+4 district to certificated employees in exchange for a voluntary
+5 termination of employment occurring prior to July 1, 2009, occurring on
+6 or after the last day of the 2010-11 school year and prior to the first
+7 day of the 2013-14 school year, or, to the extent that a district
+8 demonstrates to the State Board of Education pursuant to subsection (3)
+9 of this section that the agreement will result in a net savings in salary
+10 and benefit costs to the school district over a five-year period,
+11 occurring on or after the first day of the 2013-14 school year and prior
+12 to September 1, 2017;
+13 (h) Expenditures by a school district with budgeted expenditures
+14 otherwise equal to the budget authority for the general fund budget of
+15 expenditures for such school district as calculated pursuant to section
+16 79-1023 for such school fiscal year for current and future qualified
+17 voluntary termination incentives for certificated teachers pursuant to
+18 subsection (3) of section 79-8,142 that are not otherwise included in an
+19 exclusion pursuant to this subsection;
+20 (i) Expenditures by a school district with budgeted expenditures
+21 otherwise equal to the budget authority for the general fund budget of
+22 expenditures for such school district as calculated pursuant to section
+23 79-1023 for such school fiscal year for seventy-five percent of
+24 incentives agreed to be paid to certificated employees in exchange for a
+25 voluntary termination of employment occurring between September 1, 2017,
+26 and August 31, 2018, as a result of a collective-bargaining agreement in
+27 force and effect on September 1, 2017, that are not otherwise included in
+28 an exclusion pursuant to this subsection;
+29 (j) Expenditures by a school district with budgeted expenditures
+30 otherwise equal to the budget authority for the general fund budget of
+31 expenditures for such school district as calculated pursuant to section
+-7-
+
+LB303 LB303
+2025 2025
+1 79-1023 for such school fiscal year for fifty percent of incentives
+2 agreed to be paid to certificated employees in exchange for a voluntary
+3 termination of employment occurring between September 1, 2018, and August
+4 31, 2019, as a result of a collective-bargaining agreement in force and
+5 effect on September 1, 2017, that are not otherwise included in an
+6 exclusion pursuant to this subsection;
+7 (k) Expenditures by a school district with budgeted expenditures
+8 otherwise equal to the budget authority for the general fund budget of
+9 expenditures for such school district as calculated pursuant to section
+10 79-1023 for such school fiscal year for twenty-five percent of incentives
+11 agreed to be paid to certificated employees in exchange for a voluntary
+12 termination of employment occurring between September 1, 2019, and August
+13 31, 2020, as a result of a collective-bargaining agreement in force and
+14 effect on September 1, 2017, that are not otherwise included in an
+15 exclusion pursuant to this subsection;
+16 (l) The special education budget of expenditures;
+17 (m) Expenditures of special grant funds; and
+18 (n) Expenditures of funds received as federal impact aid pursuant to
+19 20 U.S.C. 7701 to 7714, as such sections existed on January 1, 2016, due
+20 to a district having land within its boundaries that is federal property
+21 classified as Indian lands under 20 U.S.C. 7713(7), as such section
+22 existed on January 1, 2016, and funds received as impact aid due to
+23 children in attendance who resided on Indian lands in accordance with 20
+24 U.S.C. 7703(a)(1)(C), as such section existed on January 1, 2016.
+25 (2) For each school fiscal year, a school district may exceed its
+26 budget authority for the general fund budget of expenditures as
+27 calculated pursuant to section 79-1023 for such school fiscal year by a
+28 specific dollar amount and include such dollar amount in the budget of
+29 expenditures used to calculate budget authority for the general fund
+30 budget of expenditures pursuant to section 79-1023 for future years for
+31 the following exclusions:
+-8-
+
+LB303 LB303
+2025 2025
+1 (a) The first school fiscal year the district will be participating
+2 in Network Nebraska for the full school fiscal year, for the difference
+3 of the estimated expenditures for such school fiscal year for
+4 telecommunications services, access to data transmission networks that
+5 transmit data to and from the school district, and the transmission of
+6 data on such networks as such expenditures are defined by the department
+7 for purposes of the distance education and telecommunications allowance
+8 minus the dollar amount of such expenditures for the second school fiscal
+9 year preceding the first full school fiscal year the district
+10 participates in Network Nebraska;
+11 (b) Expenditures for new elementary attendance sites in the first
+12 year of operation or the first year of operation after being closed for
+13 at least one school year if such elementary attendance site will most
+14 likely qualify for the elementary site allowance in the immediately
+15 following school fiscal year as determined by the state board;
+16 (c) For the first school fiscal year for which early childhood
+17 education membership is included in formula students for the calculation
+18 of state aid, expenditures for early childhood education equal to the
+19 amount the school district received in early childhood education grants
+20 pursuant to section 79-1103 for the prior school fiscal year, increased
+21 by the basic allowable growth rate; and
+22 (d) For school fiscal year 2013-14, an amount not to exceed two
+23 percent over the previous school year if such increase is approved by a
+24 seventy-five percent majority vote of the school board of such district.
+25 (3) The state board shall approve, deny, or modify the amount
+26 allowed for any exclusions to the budget authority for the general fund
+27 budget of expenditures pursuant to this section.
+28 Sec. 4. Original section 79-1028.01, Reissue Revised Statutes of
+29 Nebraska, is repealed.
+30 Sec. 5. Since an emergency exists, this act takes effect when
+31 passed and approved according to law.
+-9-
+
+[DELETED: yHA B F A A r t e t a s 7RRtfE O S A t r t osB3L52]
+[DELETED: ST(o(A((o0o1R2o3t4( O m w i a r o p e5w6( F m w a s o s b m7r a C I I o I s d T s b a8l o m a p t t s (9r e c o s d O t m a0p t t s ( n m t t m s1r2m b s a n m t t m m b s3b4( O m t i a r o a C I s5d a o m t i a r o a C V s6d7b8o m a p t t s ( s b 9s0( F m a f t s a l w s1i3L52]
+[DELETED: ait((o t s s b a b t E B o tLt e t t i m s b a w td a t e d o t a a s s u 0s1(2s3(4s5e d o t a I a u t s6s s t a d i s ( o t s7T s m s s t o t y a a8v9t F p o d t l a e o s0t1t2(3(4( T m a p t s ( o t5s6o7t8( T m d i s ( o t s9o m d i s ( o t s a o0m1y3L52]
+[DELETED: ( T m d i s ( o t sas(f(s m p o t c s m s vm o t c A v i t c s bf i t s m a s q a t o0a1(2o t s s n r a c f s a 3m4c5( T C o E o t d o t6C7t8( T c s m a l f t a y a a9l0( T S D o E m p s t a1t c a n a r b t c o t2c3c m a o a f t S D o4E5i6( F a p t c s b h7w8S 2  ( T p o t S F R9C0s1(3L52]
+[DELETED: Efp( R r t r s o t f u tT(E( A o f h t m t n i os d t w t s m b u t f f t0f1( A t i o f f e o s2a a o f o b n l t A t3e4c5( A t i o f f e o i a6r7n l t s w l i a o h c o8p9w0( T S F R C t t e i i1p2t3(4t5t L a a r w t o a6r7S8a97 ( F e s f y a s d m0e1a3L52]
+[DELETED: a(dM(C o I R o a a s dwe s j i n p b l i c o s0( E p t t R I P1a i s 7 o t S D A2a3( E o a r f e e a4d i s 7 f p d e c5t t E S U C C t s6e7(8t9S o t S o N t t e t s e0e1b m a a c r o s a t h2p3(4e d i s ( o t s f5s6a7y8(9t s ( o ( o s 7 t t0r s e p t t C V S E1R A t t e t s e e t s3L52]
+[DELETED: da( E f i a t b p b a sd t c e i e f a vtod o t 2 s y o t t e t a ddo0a b c t t s d o a f p1o2t3( E b a s d w b e4o5e67 f s s f y f c a f q7v t i f c t p t8s9e0( E b a s d w b e1o2e37 f s s f y f s p o4i5v6a7f8a9( E b a s d w b e0o1e3L52]
+[DELETED: 7 f s s f y f f p o iat3e o S 1 2 t a n o i i ae( E b a s d w b eoe071a2t334e o S 1 2 t a n o i i a5e6(7(8(920t1c a I l u 2 U 7 a s s2e o J 1 2 a f r a i a d t3c4U5(6b a f t g f b o e a7c8s9e u t c b a f t g f0b1t3L52]
+[DELETED: (io t e e f s s f y ft s a t d t n ttdfmy p t f f s f y t d0p1( E f n e a s i t f2y3a l o s y i s e a s w m4l q f t e s a i t i5f6( F t f s f y f w e c7e8o s a e f e c e e t t9a0p1b2( F s f y 2 a a n t e t3p4s5( T s b s a d o m t a6a7b8S 4  O s 7 R R S o9N0S 5  S a e e t a t e w1p3L52]

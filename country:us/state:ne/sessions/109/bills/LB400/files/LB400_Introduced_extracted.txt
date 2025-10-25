@@ -1,0 +1,380 @@
+Title: LEGISLATIVE BILL 400
+Official Title: LEGISLATIVE BILL 400
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LB400 LB400
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Wordekemper, 15.
+Read first time January 17, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to the Nebraska Workers' Compensation Act; to
+2 amend section 48-1,110, Reissue Revised Statutes of Nebraska; to
+3 provide for compensability of certain cancers in firefighters; to
+4 create rebuttable presumptions; to define terms; to harmonize
+5 provisions; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB400 LB400
+2025 2025
+1 Section 1. (1) For purposes of this section:
+2 (a) Firefighter includes both professional and volunteer
+3 firefighters;
+4 (b) Professional firefighter means a person who has been employed
+5 for five or more years in this state in a full-time salaried occupation
+6 as:
+7 (i) A firefighter for the benefit or safety of the public;
+8 (ii) An investigator of fires or arson; or
+9 (iii) An instructor or officer for the provision of training
+10 concerning fire or hazardous materials; and
+11 (c) Volunteer firefighter means a person who has acted for five or
+12 more years in this state as a volunteer firefighter described in
+13 subdivision (3) of section 48-115.
+14 (2) Notwithstanding any provision of the Nebraska Workers'
+15 Compensation Act to the contrary, cancer that results in either temporary
+16 or permanent disability or death is an occupational disease and
+17 compensable as such under the act if:
+18 (a) The cancer develops or manifests itself out of and in the course
+19 of the employment of a firefighter; and
+20 (b) It is demonstrated that:
+21 (i) The firefighter was exposed, while in the course of employment,
+22 to a known carcinogen or a substance reasonably anticipated to be a human
+23 carcinogen, as defined by the International Agency for Research on Cancer
+24 or the National Toxicology Program; and
+25 (ii) Such carcinogen is reasonably associated with such cancer.
+26 (3) With respect to a firefighter, the following substances shall be
+27 deemed, for purposes of subsection (2) of this section, to be known
+28 carcinogens that are reasonably associated with the following cancers:
+29 (a) Diesel exhaust, formaldehyde, and polycyclic aromatic
+30 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+31 associated with bladder cancer;
+-2-
+LB400 LB400
+2025 2025
+1 (b) Acrylonitrile, formaldehyde, and vinyl chloride shall be deemed
+2 to be known carcinogens that are reasonably associated with brain cancer;
+3 (c) Asbestos, benzene, diesel exhaust and soot, digoxin, ethylene
+4 oxide, polychlorinated biphenyls, and polycyclic aromatic hydrocarbon
+5 shall be deemed to be known carcinogens that are reasonably associated
+6 with breast cancer;
+7 (d) Diesel exhaust and formaldehyde shall be deemed to be known
+8 carcinogens that are reasonably associated with colon cancer;
+9 (e) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+10 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+11 associated with esophageal cancer;
+12 (f) Formaldehyde shall be deemed to be a known carcinogen that is
+13 reasonably associated with Hodgkin's lymphoma;
+14 (g) Formaldehyde and polycyclic aromatic hydrocarbon shall be deemed
+15 to be known carcinogens that are reasonably associated with kidney
+16 cancer;
+17 (h) Benzene, diesel exhaust and soot, formaldehyde, 1,3-butadiene,
+18 and polycyclic aromatic hydrocarbon shall be deemed to be known
+19 carcinogens that are reasonably associated with leukemia;
+20 (i) Chloroform, soot, and vinyl chloride shall be deemed to be known
+21 carcinogens that are reasonably associated with liver cancer;
+22 (j) Arsenic, asbestos, cadmium, chromium compounds, oils, polycyclic
+23 aromatic hydrocarbon, radon, silica, soot, and tars shall be deemed to be
+24 known carcinogens that are reasonably associated with lung cancer;
+25 (k) Acrylonitrile, benzene, formaldehyde, polycyclic aromatic
+26 hydrocarbon, soot, and vinyl chloride shall be deemed to be known
+27 carcinogens that are reasonably associated with lymphatic or
+28 haemotopoietic cancer;
+29 (l) Diesel exhaust and soot, aldehydes, and polycyclic aromatic
+30 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+31 associated with basal cell carcinoma, squamous cell carcinoma and
+-3-
+LB400 LB400
+2025 2025
+1 melanoma;
+2 (m) Benzene, dioxins, and glyphosate shall be deemed to be known
+3 carcinogens that are reasonably associated with multiple myeloma;
+4 (n) Arsenic, asbestos, benzene, diesel exhaust and soot,
+5 formaldehyde, and hydrogen chloride shall be deemed to be known
+6 carcinogens that are reasonably associated with nasopharyngeal cancer,
+7 including laryngeal cancer and pharyngeal cancer;
+8 (o) Benzene, chronic hepatitis B and C viruses, formaldehyde, and
+9 polychlorinated biphenyls shall be deemed to be known carcinogens that
+10 are reasonably associated with non-Hodgkin's lymphoma;
+11 (p) Asbestos, benzene, and formaldehyde shall be deemed to be known
+12 carcinogens that are reasonably associated with ovarian cancer;
+13 (q) Polycyclic aromatic hydrocarbon shall be deemed to be a known
+14 carcinogen that is reasonably associated with pancreatic cancer;
+15 (r) Acrylonitrile, benzene, and formaldehyde shall be deemed to be
+16 known carcinogens that are reasonably associated with prostate cancer;
+17 (s) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+18 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+19 associated with rectal cancer;
+20 (t) Chlorophenols, chlorophenoxy herbicides, and polychlorinated
+21 biphenyls shall be deemed to be known carcinogens that are reasonably
+22 associated with soft tissue sarcoma;
+23 (u) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+24 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+25 associated with stomach cancer;
+26 (v) Diesel exhaust and soot, and polychlorinated biphenyls shall be
+27 deemed to be known carcinogens that are reasonably associated with
+28 testicular cancer;
+29 (w) Diesel exhaust, benzene, and X-ray radiation shall be deemed to
+30 be known carcinogens that are reasonably associated with thyroid cancer;
+31 (x) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+-4-
+LB400 LB400
+2025 2025
+1 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+2 associated with urinary tract cancer and ureteral cancer; and
+3 (y) Benzene and polycyclic aromatic hydrocarbon shall be deemed to
+4 be known carcinogens that are reasonably associated with uterine cancer.
+5 (4) Subsection (3) of this section is not an exhaustive list and
+6 shall not preclude any person from demonstrating, on a case-by-case basis
+7 for the purposes of subsection (2) of this section, that a substance is a
+8 known carcinogen or is reasonably anticipated to be a human carcinogen,
+9 including an agent classified by the International Agency for Research on
+10 Cancer in Group 1 or Group 2A, that is reasonably associated with a
+11 cancer.
+12 (5) There shall be a rebuttable presumption that a cancer
+13 experienced by a firefighter arose out of and in the course of employment
+14 if the cancer is diagnosed during the course of the firefighter's
+15 employment.
+16 (6)(a) There shall be a rebuttable presumption, for purposes of
+17 subsection (2) of this section, that cancer experienced by a retired
+18 firefighter arose out of and in the course of employment if the cancer is
+19 diagnosed within a period, not to exceed sixty months, which begins with
+20 the last date the retired firefighter actually worked in the qualifying
+21 capacity and extends for a period calculated by multiplying three months
+22 by the number of full years of such employment.
+23 (b) This subsection applies to a professional firefighter who
+24 retires before January 1, 2026, and to a volunteer firefighter,
+25 regardless of the date of retirement.
+26 (7) There shall be a rebuttable presumption, for purposes of
+27 subsection (2) of this section, that cancer experienced by a professional
+28 firefighter who retires on or after January 1, 2026, arose out of and in
+29 the course of employment if such cancer was diagnosed:
+30 (a) If the firefighter ceases employment before completing twenty
+31 years of service as a professional firefighter, during the period after
+-5-
+LB400 LB400
+2025 2025
+1 separation from employment which is equal to the number of years worked;
+2 or
+3 (b) If the firefighter ceases employment after completing twenty
+4 years or more of service as a professional firefighter, investigator, or
+5 instructor, at any time during the person's life.
+6 (8) Service credit which is purchased in a retirement system shall
+7 not be used to calculate the number of years of service or employment for
+8 purposes of this section.
+9 (9) A person who files a claim for benefits for cancer pursuant to
+10 subsection (7) of this section after retiring from employment as a
+11 professional firefighter is not entitled to receive any compensation for
+12 such cancer under the Nebraska Workers' Compensation Act other than
+13 medical benefits.
+14 Sec. 2. Section 48-1,110, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 48-1,110 Sections 48-101 to 48-1,117 and section 1 of this act shall
+17 be known and may be cited as the Nebraska Workers' Compensation Act.
+18 Sec. 3. Original section 48-1,110, Reissue Revised Statutes of
+19 Nebraska, is repealed.
+-6-
+[DELETED: yWAa s 4 R R S o N tp f c o c c i f tc r p t d t t hpB0L52]
+[DELETED: S( F i b p a vf( P f m a p w h b efa((( A i o o f t p o t0c1(2m y i t s a a v f d i3s4( N a p o t N W5C6o p d o d i a o d a7c8(9o0(1(2t3c4o5(6(7d f p o s ( o t s t b k8c9( D e f a p a0h1a0L52]
+[DELETED: (t( A b d e a s d eo p b a p a hsw( D e a f s b d t b kc(0h1a2(3r4(5t b k c t a r a w k6c7( B d e a s f 18a p a h s b d t b k9c0(1c2(3a4k5( A b f p a6h s a v c s b d t b k7c t a r a w l o8h9( D e a s a a p a0h1a w b c c s c c a0L52]
+[DELETED: m( B d a g s b d t b kc( A a b d e a sf a h c s b d t b kc t a r a w n ci( B c h B a C v f ap b s b d t b k c t0a1(2c3( P a h s b d t b a k4c5(6k7(8h9a0( C c h a p1b s b d t b k c t a r2a3(4h5a6(7d t b k c t a r a w8t9(0b1(0L52]
+[DELETED: ha(b( S ( o t s i n a e l asfki0C i G 1 o G 2 t i r a w 1c2( T s b a r p t a c3e4i t c i d d t c o t f5e6( T s b a r p f p o7s ( o t s t c e b a r8f9d0t1c2b3( T s a t a p f w4r b J 1 2 a t a v f5r6( T s b a r p f p o7s8f9t0( I t f c e b c t1y0L52]
+[DELETED: so( I t f c e a c tyi(np(0s ( o t s a r f e a 1p2s c u t N W C A o t3m4S5a647b8S 3  O s 4 R R S o9N0L52]
+
+
+================================================================================
+
+Raw Text:
+LB400 LB400
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 400
+Introduced by Wordekemper, 15.
+Read first time January 17, 2025
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to the Nebraska Workers' Compensation Act; to
+2 amend section 48-1,110, Reissue Revised Statutes of Nebraska; to
+3 provide for compensability of certain cancers in firefighters; to
+4 create rebuttable presumptions; to define terms; to harmonize
+5 provisions; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB400 LB400
+2025 2025
+1 Section 1. (1) For purposes of this section:
+2 (a) Firefighter includes both professional and volunteer
+3 firefighters;
+4 (b) Professional firefighter means a person who has been employed
+5 for five or more years in this state in a full-time salaried occupation
+6 as:
+7 (i) A firefighter for the benefit or safety of the public;
+8 (ii) An investigator of fires or arson; or
+9 (iii) An instructor or officer for the provision of training
+10 concerning fire or hazardous materials; and
+11 (c) Volunteer firefighter means a person who has acted for five or
+12 more years in this state as a volunteer firefighter described in
+13 subdivision (3) of section 48-115.
+14 (2) Notwithstanding any provision of the Nebraska Workers'
+15 Compensation Act to the contrary, cancer that results in either temporary
+16 or permanent disability or death is an occupational disease and
+17 compensable as such under the act if:
+18 (a) The cancer develops or manifests itself out of and in the course
+19 of the employment of a firefighter; and
+20 (b) It is demonstrated that:
+21 (i) The firefighter was exposed, while in the course of employment,
+22 to a known carcinogen or a substance reasonably anticipated to be a human
+23 carcinogen, as defined by the International Agency for Research on Cancer
+24 or the National Toxicology Program; and
+25 (ii) Such carcinogen is reasonably associated with such cancer.
+26 (3) With respect to a firefighter, the following substances shall be
+27 deemed, for purposes of subsection (2) of this section, to be known
+28 carcinogens that are reasonably associated with the following cancers:
+29 (a) Diesel exhaust, formaldehyde, and polycyclic aromatic
+30 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+31 associated with bladder cancer;
+-2-
+
+LB400 LB400
+2025 2025
+1 (b) Acrylonitrile, formaldehyde, and vinyl chloride shall be deemed
+2 to be known carcinogens that are reasonably associated with brain cancer;
+3 (c) Asbestos, benzene, diesel exhaust and soot, digoxin, ethylene
+4 oxide, polychlorinated biphenyls, and polycyclic aromatic hydrocarbon
+5 shall be deemed to be known carcinogens that are reasonably associated
+6 with breast cancer;
+7 (d) Diesel exhaust and formaldehyde shall be deemed to be known
+8 carcinogens that are reasonably associated with colon cancer;
+9 (e) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+10 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+11 associated with esophageal cancer;
+12 (f) Formaldehyde shall be deemed to be a known carcinogen that is
+13 reasonably associated with Hodgkin's lymphoma;
+14 (g) Formaldehyde and polycyclic aromatic hydrocarbon shall be deemed
+15 to be known carcinogens that are reasonably associated with kidney
+16 cancer;
+17 (h) Benzene, diesel exhaust and soot, formaldehyde, 1,3-butadiene,
+18 and polycyclic aromatic hydrocarbon shall be deemed to be known
+19 carcinogens that are reasonably associated with leukemia;
+20 (i) Chloroform, soot, and vinyl chloride shall be deemed to be known
+21 carcinogens that are reasonably associated with liver cancer;
+22 (j) Arsenic, asbestos, cadmium, chromium compounds, oils, polycyclic
+23 aromatic hydrocarbon, radon, silica, soot, and tars shall be deemed to be
+24 known carcinogens that are reasonably associated with lung cancer;
+25 (k) Acrylonitrile, benzene, formaldehyde, polycyclic aromatic
+26 hydrocarbon, soot, and vinyl chloride shall be deemed to be known
+27 carcinogens that are reasonably associated with lymphatic or
+28 haemotopoietic cancer;
+29 (l) Diesel exhaust and soot, aldehydes, and polycyclic aromatic
+30 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+31 associated with basal cell carcinoma, squamous cell carcinoma and
+-3-
+
+LB400 LB400
+2025 2025
+1 melanoma;
+2 (m) Benzene, dioxins, and glyphosate shall be deemed to be known
+3 carcinogens that are reasonably associated with multiple myeloma;
+4 (n) Arsenic, asbestos, benzene, diesel exhaust and soot,
+5 formaldehyde, and hydrogen chloride shall be deemed to be known
+6 carcinogens that are reasonably associated with nasopharyngeal cancer,
+7 including laryngeal cancer and pharyngeal cancer;
+8 (o) Benzene, chronic hepatitis B and C viruses, formaldehyde, and
+9 polychlorinated biphenyls shall be deemed to be known carcinogens that
+10 are reasonably associated with non-Hodgkin's lymphoma;
+11 (p) Asbestos, benzene, and formaldehyde shall be deemed to be known
+12 carcinogens that are reasonably associated with ovarian cancer;
+13 (q) Polycyclic aromatic hydrocarbon shall be deemed to be a known
+14 carcinogen that is reasonably associated with pancreatic cancer;
+15 (r) Acrylonitrile, benzene, and formaldehyde shall be deemed to be
+16 known carcinogens that are reasonably associated with prostate cancer;
+17 (s) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+18 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+19 associated with rectal cancer;
+20 (t) Chlorophenols, chlorophenoxy herbicides, and polychlorinated
+21 biphenyls shall be deemed to be known carcinogens that are reasonably
+22 associated with soft tissue sarcoma;
+23 (u) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+24 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+25 associated with stomach cancer;
+26 (v) Diesel exhaust and soot, and polychlorinated biphenyls shall be
+27 deemed to be known carcinogens that are reasonably associated with
+28 testicular cancer;
+29 (w) Diesel exhaust, benzene, and X-ray radiation shall be deemed to
+30 be known carcinogens that are reasonably associated with thyroid cancer;
+31 (x) Diesel exhaust and soot, formaldehyde, and polycyclic aromatic
+-4-
+
+LB400 LB400
+2025 2025
+1 hydrocarbon shall be deemed to be known carcinogens that are reasonably
+2 associated with urinary tract cancer and ureteral cancer; and
+3 (y) Benzene and polycyclic aromatic hydrocarbon shall be deemed to
+4 be known carcinogens that are reasonably associated with uterine cancer.
+5 (4) Subsection (3) of this section is not an exhaustive list and
+6 shall not preclude any person from demonstrating, on a case-by-case basis
+7 for the purposes of subsection (2) of this section, that a substance is a
+8 known carcinogen or is reasonably anticipated to be a human carcinogen,
+9 including an agent classified by the International Agency for Research on
+10 Cancer in Group 1 or Group 2A, that is reasonably associated with a
+11 cancer.
+12 (5) There shall be a rebuttable presumption that a cancer
+13 experienced by a firefighter arose out of and in the course of employment
+14 if the cancer is diagnosed during the course of the firefighter's
+15 employment.
+16 (6)(a) There shall be a rebuttable presumption, for purposes of
+17 subsection (2) of this section, that cancer experienced by a retired
+18 firefighter arose out of and in the course of employment if the cancer is
+19 diagnosed within a period, not to exceed sixty months, which begins with
+20 the last date the retired firefighter actually worked in the qualifying
+21 capacity and extends for a period calculated by multiplying three months
+22 by the number of full years of such employment.
+23 (b) This subsection applies to a professional firefighter who
+24 retires before January 1, 2026, and to a volunteer firefighter,
+25 regardless of the date of retirement.
+26 (7) There shall be a rebuttable presumption, for purposes of
+27 subsection (2) of this section, that cancer experienced by a professional
+28 firefighter who retires on or after January 1, 2026, arose out of and in
+29 the course of employment if such cancer was diagnosed:
+30 (a) If the firefighter ceases employment before completing twenty
+31 years of service as a professional firefighter, during the period after
+-5-
+
+LB400 LB400
+2025 2025
+1 separation from employment which is equal to the number of years worked;
+2 or
+3 (b) If the firefighter ceases employment after completing twenty
+4 years or more of service as a professional firefighter, investigator, or
+5 instructor, at any time during the person's life.
+6 (8) Service credit which is purchased in a retirement system shall
+7 not be used to calculate the number of years of service or employment for
+8 purposes of this section.
+9 (9) A person who files a claim for benefits for cancer pursuant to
+10 subsection (7) of this section after retiring from employment as a
+11 professional firefighter is not entitled to receive any compensation for
+12 such cancer under the Nebraska Workers' Compensation Act other than
+13 medical benefits.
+14 Sec. 2. Section 48-1,110, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 48-1,110 Sections 48-101 to 48-1,117 and section 1 of this act shall
+17 be known and may be cited as the Nebraska Workers' Compensation Act.
+18 Sec. 3. Original section 48-1,110, Reissue Revised Statutes of
+19 Nebraska, is repealed.
+-6-
+
+[DELETED: yWAa s 4 R R S o N tp f c o c c i f tc r p t d t t hpB0L52]
+[DELETED: S( F i b p a vf( P f m a p w h b efa((( A i o o f t p o t0c1(2m y i t s a a v f d i3s4( N a p o t N W5C6o p d o d i a o d a7c8(9o0(1(2t3c4o5(6(7d f p o s ( o t s t b k8c9( D e f a p a0h1a0L52]
+[DELETED: (t( A b d e a s d eo p b a p a hsw( D e a f s b d t b kc(0h1a2(3r4(5t b k c t a r a w k6c7( B d e a s f 18a p a h s b d t b k9c0(1c2(3a4k5( A b f p a6h s a v c s b d t b k7c t a r a w l o8h9( D e a s a a p a0h1a w b c c s c c a0L52]
+[DELETED: m( B d a g s b d t b kc( A a b d e a sf a h c s b d t b kc t a r a w n ci( B c h B a C v f ap b s b d t b k c t0a1(2c3( P a h s b d t b a k4c5(6k7(8h9a0( C c h a p1b s b d t b k c t a r2a3(4h5a6(7d t b k c t a r a w8t9(0b1(0L52]
+[DELETED: ha(b( S ( o t s i n a e l asfki0C i G 1 o G 2 t i r a w 1c2( T s b a r p t a c3e4i t c i d d t c o t f5e6( T s b a r p f p o7s ( o t s t c e b a r8f9d0t1c2b3( T s a t a p f w4r b J 1 2 a t a v f5r6( T s b a r p f p o7s8f9t0( I t f c e b c t1y0L52]
+[DELETED: so( I t f c e a c tyi(np(0s ( o t s a r f e a 1p2s c u t N W C A o t3m4S5a647b8S 3  O s 4 R R S o9N0L52]

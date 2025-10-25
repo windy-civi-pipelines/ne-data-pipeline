@@ -1,0 +1,218 @@
+Title: LEGISLATIVE BILL 686
+Official Title: LEGISLATIVE BILL 686
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+LB686 LB686
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+Introduced by Lonowski, 33; Holdcroft, 36; Lippincott, 34; Strommen, 47.
+Read first time January 22, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to firearms; to define terms; to prohibit
+2 governmental entities and officials from keeping certain lists
+3 relating to the ownership of firearms; to prohibit using merchant
+4 category codes to distinguish firearm retailers from other
+5 retailers; and to provide a duty, penalty, and defense.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB686 LB686
+2025 2025
+1 Section 1. (1) For purposes of this section:
+2 (a) Ammunition means ammunition or cartridge cases, primers,
+3 bullets, or propellant powder designed for use in any firearm;
+4 (b) Assign or assignment refers to a covered entity's policy,
+5 process, or practice that labels, links, or otherwise associates a
+6 merchant category code with a merchant or payment card transaction in a
+7 manner that allows the covered entity or any other entity facilitating or
+8 processing the payment card transaction to identify whether a merchant is
+9 a firearm retailer or whether a transaction involves the sale of firearms
+10 or ammunition;
+11 (c) Covered entity means an entity or agent of an entity that
+12 establishes a relationship with a retailer for the purpose of processing
+13 credit, debit, or prepaid transactions;
+14 (d) Firearm includes firearm components and accessories;
+15 (e) Firearm retailer means any person or entity that is engaged in
+16 the lawful selling or trading of firearms or ammunition;
+17 (f) Merchant category code means the code, approved by the
+18 International Organization for Standardization, that is assigned to a
+19 retailer based on the type of goods and services offered to a retailer's
+20 customers;
+21 (g) Payment card means a credit card, charge card, debit card, or
+22 any other card that is issued to an authorized card user and that allows
+23 the user to obtain, purchase, or receive goods, services, money, or
+24 anything else of value from a merchant;
+25 (h) Payment card network means an entity or agent of an entity that
+26 provides the proprietary services, infrastructure, and software to
+27 conduct payment card transaction authorizations, clearances, and
+28 settlements; and
+29 (i) Payment card transaction means any transaction in which a
+30 payment card is accepted as payment.
+31 (2)(a) No government entity, official, or agent or employee of a
+-2-
+LB686 LB686
+2025 2025
+1 government entity or official shall knowingly keep or cause to be kept
+2 any list, record, or registry of privately owned firearms or the owners
+3 of firearms, except for those records kept during the regular course of a
+4 criminal investigation, prosecution, or as otherwise required by law.
+5 (b) A payment card network shall not require or incentivize the use
+6 of a merchant category code in a manner that distinguishes a firearm
+7 retailer from other retailers.
+8 (c) A covered entity shall not assign a firearm retailer a merchant
+9 category code that distinguishes the firearm retailer from other
+10 retailers.
+11 (3)(a) The Attorney General shall investigate reasonable allegations
+12 that a person or entity, including a government entity, has violated
+13 subsection (2) of this section. Upon finding a violation, the Attorney
+14 General shall issue a written notice to the person or entity believed to
+15 have committed the violation. The person or entity shall cease the
+16 violation within thirty business days after receiving such written
+17 notice.
+18 (b) If such person or entity does not cease the violation within
+19 thirty business days after receiving such written notice, then the
+20 Attorney General shall file an action against such person or entity to
+21 seek an injunction.
+22 (c) If the court finds that a person or entity violated the
+23 provisions of this section and has not ceased the violation, then the
+24 court shall enjoin such person or entity from continuing the violation.
+25 (d) If such person or entity fails to comply with such injunction
+26 after thirty business days of being served the injunction, then the
+27 Attorney General shall seek to impose on that person or entity a civil
+28 fine in an amount not to exceed one thousand dollars per violation. In
+29 assessing the amount of the fine, the court shall consider the financial
+30 resources of the violator and the harm or risk of harm to the right to
+31 keep and bear arms under Article I, section 1, of the Constitution of
+-3-
+LB686 LB686
+2025 2025
+1 Nebraska.
+2 (e) Any order imposing a civil fine pursuant to this section shall
+3 be stayed pending an appeal of the order.
+4 (4) The Attorney General has exclusive authority to enforce the
+5 provisions of this section. The remedies set forth in this section are
+6 the exclusive remedies for any violation of this section.
+7 (5) It shall be a defense to a proceeding initiated pursuant to this
+8 section that a merchant category code was required to be permitted or
+9 assigned by law.
+-4-
+[DELETED: yLA B F A A r t f t d t t pg e a o f k c lr t t o o f t p u mc c t d f r f orB6L52]
+[DELETED: S( A m a o c c pb( A o a r t a c e pp o p t l l o o a mmpa0o1( C e m a e o a o a e t2e3c4(5(6t7( M c c m t c a b t8I O f S t i a t 9r0c1(2a3t u t o p o r g s m o4a5(6p t p s i a s t7c p c t a c a8s9( P c t m a t i w 0p1( N g e o o a o e o 6L52]
+[DELETED: gaoc(o a m c c i a m t d a fr(c c t d t f r f o0r1(2t a p o e i a g e h v3s4G5h c t v T p o e s c t6v w t b d a r s w7n8( I s p o e d n c t v w9t b d a r s w n t t0A1s2( I t c f t a p o e v t3p o t s a h n c t v t t4c5(6a t b d o b s t i t t7A8f9a0r1k a b a u A I s 1 o t C o6L52]
+[DELETED: N(b( T A G h e a t e tpt(s t a m c c w r t b p oa6L52]
+
+
+================================================================================
+
+Raw Text:
+LB686 LB686
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 686
+Introduced by Lonowski, 33; Holdcroft, 36; Lippincott, 34; Strommen, 47.
+Read first time January 22, 2025
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to firearms; to define terms; to prohibit
+2 governmental entities and officials from keeping certain lists
+3 relating to the ownership of firearms; to prohibit using merchant
+4 category codes to distinguish firearm retailers from other
+5 retailers; and to provide a duty, penalty, and defense.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB686 LB686
+2025 2025
+1 Section 1. (1) For purposes of this section:
+2 (a) Ammunition means ammunition or cartridge cases, primers,
+3 bullets, or propellant powder designed for use in any firearm;
+4 (b) Assign or assignment refers to a covered entity's policy,
+5 process, or practice that labels, links, or otherwise associates a
+6 merchant category code with a merchant or payment card transaction in a
+7 manner that allows the covered entity or any other entity facilitating or
+8 processing the payment card transaction to identify whether a merchant is
+9 a firearm retailer or whether a transaction involves the sale of firearms
+10 or ammunition;
+11 (c) Covered entity means an entity or agent of an entity that
+12 establishes a relationship with a retailer for the purpose of processing
+13 credit, debit, or prepaid transactions;
+14 (d) Firearm includes firearm components and accessories;
+15 (e) Firearm retailer means any person or entity that is engaged in
+16 the lawful selling or trading of firearms or ammunition;
+17 (f) Merchant category code means the code, approved by the
+18 International Organization for Standardization, that is assigned to a
+19 retailer based on the type of goods and services offered to a retailer's
+20 customers;
+21 (g) Payment card means a credit card, charge card, debit card, or
+22 any other card that is issued to an authorized card user and that allows
+23 the user to obtain, purchase, or receive goods, services, money, or
+24 anything else of value from a merchant;
+25 (h) Payment card network means an entity or agent of an entity that
+26 provides the proprietary services, infrastructure, and software to
+27 conduct payment card transaction authorizations, clearances, and
+28 settlements; and
+29 (i) Payment card transaction means any transaction in which a
+30 payment card is accepted as payment.
+31 (2)(a) No government entity, official, or agent or employee of a
+-2-
+
+LB686 LB686
+2025 2025
+1 government entity or official shall knowingly keep or cause to be kept
+2 any list, record, or registry of privately owned firearms or the owners
+3 of firearms, except for those records kept during the regular course of a
+4 criminal investigation, prosecution, or as otherwise required by law.
+5 (b) A payment card network shall not require or incentivize the use
+6 of a merchant category code in a manner that distinguishes a firearm
+7 retailer from other retailers.
+8 (c) A covered entity shall not assign a firearm retailer a merchant
+9 category code that distinguishes the firearm retailer from other
+10 retailers.
+11 (3)(a) The Attorney General shall investigate reasonable allegations
+12 that a person or entity, including a government entity, has violated
+13 subsection (2) of this section. Upon finding a violation, the Attorney
+14 General shall issue a written notice to the person or entity believed to
+15 have committed the violation. The person or entity shall cease the
+16 violation within thirty business days after receiving such written
+17 notice.
+18 (b) If such person or entity does not cease the violation within
+19 thirty business days after receiving such written notice, then the
+20 Attorney General shall file an action against such person or entity to
+21 seek an injunction.
+22 (c) If the court finds that a person or entity violated the
+23 provisions of this section and has not ceased the violation, then the
+24 court shall enjoin such person or entity from continuing the violation.
+25 (d) If such person or entity fails to comply with such injunction
+26 after thirty business days of being served the injunction, then the
+27 Attorney General shall seek to impose on that person or entity a civil
+28 fine in an amount not to exceed one thousand dollars per violation. In
+29 assessing the amount of the fine, the court shall consider the financial
+30 resources of the violator and the harm or risk of harm to the right to
+31 keep and bear arms under Article I, section 1, of the Constitution of
+-3-
+
+LB686 LB686
+2025 2025
+1 Nebraska.
+2 (e) Any order imposing a civil fine pursuant to this section shall
+3 be stayed pending an appeal of the order.
+4 (4) The Attorney General has exclusive authority to enforce the
+5 provisions of this section. The remedies set forth in this section are
+6 the exclusive remedies for any violation of this section.
+7 (5) It shall be a defense to a proceeding initiated pursuant to this
+8 section that a merchant category code was required to be permitted or
+9 assigned by law.
+-4-
+
+[DELETED: yLA B F A A r t f t d t t pg e a o f k c lr t t o o f t p u mc c t d f r f orB6L52]
+[DELETED: S( A m a o c c pb( A o a r t a c e pp o p t l l o o a mmpa0o1( C e m a e o a o a e t2e3c4(5(6t7( M c c m t c a b t8I O f S t i a t 9r0c1(2a3t u t o p o r g s m o4a5(6p t p s i a s t7c p c t a c a8s9( P c t m a t i w 0p1( N g e o o a o e o 6L52]
+[DELETED: gaoc(o a m c c i a m t d a fr(c c t d t f r f o0r1(2t a p o e i a g e h v3s4G5h c t v T p o e s c t6v w t b d a r s w7n8( I s p o e d n c t v w9t b d a r s w n t t0A1s2( I t c f t a p o e v t3p o t s a h n c t v t t4c5(6a t b d o b s t i t t7A8f9a0r1k a b a u A I s 1 o t C o6L52]
+[DELETED: N(b( T A G h e a t e tpt(s t a m c c w r t b p oa6L52]

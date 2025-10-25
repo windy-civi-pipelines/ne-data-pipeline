@@ -1,0 +1,114 @@
+Title: PURPOSE: The purpose of this resolution is to propose an interim study to
+Official Title: PURPOSE: The purpose of this resolution is to propose an interim study to
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LR123 LR123
+2025 2025
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE RESOLUTION 123
+Introduced by Jacobson, 42.
+examine the collection, use, and protection of agricultural data in Nebraska
+with a focus on trade practices and consumer protection which is the focus of
+the Agricultural Data Protection Act introduced as LB525 in the First Session
+of the One Hundred Ninth Legislature. Agricultural data encompasses a wide
+range of information, from crop yields and soil conditions to livestock health
+and market trends, and is increasingly vital to the operation and profitability
+of Nebraska farms and ranches. The proliferation of digital technologies and
+data-driven practices in agriculture has led to a significant increase in the
+collection and storage of sensitive agricultural data by various corporations
+and entities. This has raised concerns regarding the potential for unauthorized
+use, sale, and sharing of farmers' and ranchers' data, which may lead to unfair
+trade practices and consumer protection issues.
+The interim study shall include, but not be limited to, the following:
+(1) The types of agricultural data being collected and utilized by
+corporations and other entities;
+(2) The existing legal and contractual frameworks governing the ownership,
+use, and transfer of agricultural data;
+(3) The potential for unfair trade practices and consumer protection
+issues arising from the unauthorized use or sale of farmers' and ranchers'
+data;
+(4) Best practices for data protection and security in the agricultural
+sector;
+(5) The impact of data sharing and aggregation on market transparency and
+competition; and
+-1-
+LR123 LR123
+2025 2025
+(6) Methods of protecting the data from third-party sales and unauthorized
+usage.
+NOW, THEREFORE, BE IT RESOLVED BY THE MEMBERS OF THE ONE HUNDRED NINTH
+LEGISLATURE OF NEBRASKA, FIRST SESSION:
+
+Section 2:
+1. That the Banking, Commerce and Insurance Committee of the Legislature
+shall be designated to conduct an interim study to carry out the purposes of
+this resolution.
+
+Section 3:
+2. That the committee shall upon the conclusion of its study make a report
+of its findings, together with its recommendations, to the Legislative Council
+or Legislature.
+-2-
+[DELETED: yJ  T p o t r i t p a i s t t O H N L A d e a w T t o a d b c a u b T p f u t p a c p a f t u u o s o f a r B p f d p a s i t a3L52]
+[DELETED:  T B I R B T M O T O H N3L52]
+
+
+================================================================================
+
+Raw Text:
+LR123 LR123
+2025 2025
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE RESOLUTION 123
+Introduced by Jacobson, 42.
+PURPOSE: The purpose of this resolution is to propose an interim study to
+examine the collection, use, and protection of agricultural data in Nebraska
+with a focus on trade practices and consumer protection which is the focus of
+the Agricultural Data Protection Act introduced as LB525 in the First Session
+of the One Hundred Ninth Legislature. Agricultural data encompasses a wide
+range of information, from crop yields and soil conditions to livestock health
+and market trends, and is increasingly vital to the operation and profitability
+of Nebraska farms and ranches. The proliferation of digital technologies and
+data-driven practices in agriculture has led to a significant increase in the
+collection and storage of sensitive agricultural data by various corporations
+and entities. This has raised concerns regarding the potential for unauthorized
+use, sale, and sharing of farmers' and ranchers' data, which may lead to unfair
+trade practices and consumer protection issues.
+The interim study shall include, but not be limited to, the following:
+(1) The types of agricultural data being collected and utilized by
+corporations and other entities;
+(2) The existing legal and contractual frameworks governing the ownership,
+use, and transfer of agricultural data;
+(3) The potential for unfair trade practices and consumer protection
+issues arising from the unauthorized use or sale of farmers' and ranchers'
+data;
+(4) Best practices for data protection and security in the agricultural
+sector;
+(5) The impact of data sharing and aggregation on market transparency and
+competition; and
+-1-
+
+LR123 LR123
+2025 2025
+(6) Methods of protecting the data from third-party sales and unauthorized
+usage.
+NOW, THEREFORE, BE IT RESOLVED BY THE MEMBERS OF THE ONE HUNDRED NINTH
+LEGISLATURE OF NEBRASKA, FIRST SESSION:
+1. That the Banking, Commerce and Insurance Committee of the Legislature
+shall be designated to conduct an interim study to carry out the purposes of
+this resolution.
+2. That the committee shall upon the conclusion of its study make a report
+of its findings, together with its recommendations, to the Legislative Council
+or Legislature.
+-2-
+
+[DELETED: yJ  T p o t r i t p a i s t t O H N L A d e a w T t o a d b c a u b T p f u t p a c p a f t u u o s o f a r B p f d p a s i t a3L52]
+[DELETED:  T B I R B T M O T O H N3L52]
